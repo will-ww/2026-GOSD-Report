@@ -1,0 +1,8 @@
+chapter1.pdf
+figures/*.pdf
+figures/*.png
+*.log
+*.aux
+*.out
+*.toc
+__pycache__/

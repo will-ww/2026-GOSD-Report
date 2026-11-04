@@ -1,0 +1,324 @@
+\documentclass[11pt,a4paper,openany]{ctexbook}
+\usepackage[margin=24mm,headheight=22pt,footskip=14mm]{geometry}
+\usepackage[table]{xcolor}
+\usepackage{float,needspace,etoolbox}
+\usepackage{fontspec,xeCJK,graphicx,booktabs,tabularx,longtable,array,enumitem,tikz,hyperref,fancyhdr,titlesec,caption,microtype,multirow}
+\usetikzlibrary{arrows.meta,positioning,calc,fit,shapes.geometric,backgrounds}
+\setCJKmainfont{Noto Serif CJK SC}
+\setCJKsansfont{Noto Sans CJK SC}
+\setmainfont{Liberation Serif}
+\setsansfont{Liberation Sans}
+
+\definecolor{deep}{HTML}{1F5D73}
+\definecolor{teal}{HTML}{4D8795}
+\definecolor{lightteal}{HTML}{E7F1F3}
+\definecolor{bluegray}{HTML}{EDF3F5}
+\definecolor{ink}{HTML}{21343C}
+\definecolor{muted}{HTML}{5E7680}
+\definecolor{green}{HTML}{4B7F64}
+\definecolor{violet}{HTML}{6C6794}
+\definecolor{sand}{HTML}{F7FBFC}
+\definecolor{line}{HTML}{B9CBD1}
+
+\color{ink}
+\hypersetup{colorlinks=true,linkcolor=deep,urlcolor=deep}
+\setlength{\parindent}{2em}
+\setlength{\parskip}{6pt}
+\raggedbottom
+\setlength{\floatsep}{11pt plus 2pt minus 3pt}
+\setlength{\textfloatsep}{12pt plus 2pt minus 3pt}
+\setlength{\intextsep}{11pt plus 2pt minus 3pt}
+\setlength{\abovecaptionskip}{5pt}
+\setlength{\belowcaptionskip}{1pt}
+\linespread{1.37}
+\setlist[itemize]{leftmargin=2em,itemsep=4pt,topsep=4pt}
+\titleformat{\chapter}[display]{\sffamily\bfseries\color{deep}}{}{0pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{1.2ex}{2ex}
+\titleformat{\section}{\sffamily\Large\bfseries\color{deep}}{\thesection}{.6em}{}
+\titlespacing*{\section}{0pt}{2.8ex}{.9ex}
+\titleformat{\subsection}{\sffamily\large\bfseries\color{teal}}{}{0pt}{}
+\titlespacing*{\subsection}{0pt}{1.8ex}{.3ex}
+\captionsetup{font=small,labelfont={bf,color=deep},skip=8pt}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\footnotesize\color{muted}2026 全球开源发展报告}
+\fancyhead[R]{\footnotesize\color{muted}第一章 · 评审稿 v1.2}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{teal}\leaders\hrule height \headrulewidth\hfill}}
+
+\newcommand{\eyebrow}[1]{\par\noindent{\sffamily\bfseries\color{teal}#1}\par}
+\newcommand{\term}[1]{{\bfseries\color{deep}#1}}
+\newcommand{\kicker}[1]{\par\smallskip\noindent{\sffamily\bfseries\color{deep}#1}\par\smallskip}
+\newcommand{\insightbox}[2]{%
+\noindent\fcolorbox{line}{sand}{\parbox{\dimexpr\linewidth-2\fboxsep-2\fboxrule\relax}{\textbf{#1} #2}}\par\smallskip}
+\newcommand{\miniinsight}[2]{%
+\fcolorbox{line}{lightteal}{\parbox[t]{.46\linewidth}{\vspace{2mm}\textbf{#1}\par\smallskip #2\vspace{2mm}}}}
+\renewcommand{\arraystretch}{1.38}
+\newcommand{\keypoint}[2]{\par\smallskip\noindent\fcolorbox{line}{lightteal}{\parbox{\dimexpr\linewidth-2\fboxsep-2\fboxrule\relax}{\sffamily\bfseries\color{deep}#1\quad\normalfont\color{ink}#2}}\par\smallskip}
+\newcommand{\figread}[1]{\par\vspace{0.5mm}\noindent{\footnotesize\sffamily\color{muted}\textbf{读图：}#1}\par}
+\newcommand{\secquestion}[1]{\par\noindent{\sffamily\bfseries\color{deep}#1}\par\smallskip}
+
+
+\makeatletter
+\patchcmd{\thebibliography}{\chapter*{\bibname}}{\section*{\bibname}}{\typeout{BIB-PATCHED}}{\typeout{BIB-PATCH-NOT-FOUND}}
+\makeatother
+\begin{document}
+\frontmatter
+\begin{titlepage}
+\pagecolor{deep}\color{white}
+\begin{tikzpicture}[remember picture,overlay]
+\coordinate (o) at ($(current page.south east)+(-4.3cm,5.0cm)$);
+\foreach \radius in {2.5,3.4,4.35,5.45}{\draw[white,opacity=.09,line width=.8pt] (o) circle[radius=\radius cm];}
+\foreach \angle/\radius in {15/2.5,65/3.4,118/4.35,173/3.4,221/5.45,284/4.35,335/5.45}{
+  \fill[white,opacity=.23] ($(o)+(\angle:\radius cm)$) circle[radius=1.6pt];
+}
+\draw[white,opacity=.12,line width=.8pt] ($(o)+(15:2.5cm)$) -- ($(o)+(65:3.4cm)$) -- ($(o)+(118:4.35cm)$);
+\draw[white,opacity=.12,line width=.8pt] ($(o)+(65:3.4cm)$) -- ($(o)+(335:5.45cm)$);
+\end{tikzpicture}
+\vspace*{32mm}
+{\Large\sffamily 2026 GLOBAL OPEN SOURCE DEVELOPMENT REPORT\par}
+\vspace{16mm}
+{\Huge\bfseries\sffamily 第一章\par}
+\vspace{7mm}
+{\fontsize{28}{36}\selectfont\bfseries\sffamily 从开放协作到公共价值\par}
+\vspace{8mm}
+{\Large\sffamily 智能时代的开源发展目标与观察方法\par}
+\vfill
+{\large\sffamily 全球视野 · 发展导向 · 可追溯证据\par}
+\vspace{4mm}
+{\sffamily v1.2.0 · 2026年11月4日 · 供作者评审，非批准定稿\par}
+\vspace{12mm}
+\end{titlepage}
+\nopagecolor\color{ink}
+\tableofcontents
+\mainmatter\setcounter{chapter}{0}
+
+\chapter{从开放协作到公共价值}
+\noindent\textbf{如果一种先进技术已经面向世界开放，为什么仍有许多地方难以真正用好它？} 有时缺少的是使用权利，有时是本地语言、算力与技术人才，也有时是长期维护的资金和组织。人工智能让开放资源的供给更加丰富，也让这个发展问题更加迫切。
+
+\keypoint{本章核心判断}{开放资源只是起点。只有经过合法复用、本地适配与持续治理，技术才可能形成可验证的公共能力。}
+
+本章沿着三个相互衔接的问题展开：\term{1.1} 说明智能时代开源为何值得关注；\term{1.2} 用“开源发展目标”（OSDGs）明确发展方向；\term{1.3} 用“开源发展指标体系”（OSDI）说明应如何观察进展。对政府与国际组织来说，真正重要的不只是技术排名，而是哪些人有机会参与、哪些资源可以持续使用，以及公共投入可能解决什么现实困难。联合国开发计划署关于人工智能与人类发展的研究同样提醒我们，要把关注点放回人的选择与能力。\cite{undp2025}
+
+\begin{figure}[htbp]\centering
+\includegraphics[width=\linewidth]{figures/fig_book_structure.pdf}
+\caption{研究从哪里展开：第一章定义问题，第二至第五章提供互补证据，第六章提出行动}\label{fig:roadmap}
+\figread{四种观察不是四套互相竞争的排行榜，而是回答“参与、影响、技术和模型复用”问题的互补视角。}
+\end{figure}
+
+\section{开源：人工智能时代的数字公共品与可持续发展引擎}
+\subsection{从共享代码，到共建智能能力}
+一所大学可以在开源软件上开设课程，一家企业可以据此开发新产品，一个公共机构也可以在已有数字系统上继续建设。它们不必都从第一行代码开始。开源真正改变的，是\term{谁有机会接过已有成果、理解它、改进它，并把它交给下一个人}。
+
+这一模式早已出现在操作系统、数据库和互联网工具中。如今，人工智能把合作范围进一步扩大。一项可用的AI能力，往往还需要模型、数据说明、推理工具、应用接口与本地部署方式；参与者也不仅是最初发布模型的人，还包括翻译、微调、量化、测试、审阅和运维的团队。\term{供给的增长，正在把“发布之后谁来做”变成同样重要的问题。} 图\ref{fig:aiopen}展示了这种变化。
+
+AI带来两种同时发生的力量。其一，自动生成和开放模型改变了技术供给与再创造的方式；其二，采用这些资源的组织仍须承担审核、适配、质量保障与责任治理。GitHub与Hugging Face的2026年观察从开发协作和模型生态两个侧面展示了这一变化。\term{这些平台研究是理解趋势的参照和启发，本报告则依托自己的对象定义、指标体系与数据方法开展系统观测。} 不同研究回答的问题可以相互映照，而不必被压缩成同一张统计表。\cite{github2026,hfsummer}
+
+需要分清的是：\term{源代码开放、模型权重可下载、训练信息透明、许可允许再分发，并不是同一项承诺。} 这些条件会影响使用者能做什么；没有算力、语言支持和长期维护能力，开放的潜力也可能止步于试用。\cite{osi}
+
+\begin{center}
+\setlength{\fboxsep}{8pt}
+\noindent\begin{minipage}[t]{.475\linewidth}
+\colorbox{bluegray}{\parbox[t]{\dimexpr\linewidth-2\fboxsep\relax}{\sffamily\bfseries\color{deep}AI冲击：谁来承担新的协作责任？\par\vspace{3pt}\normalfont\small\color{ink}生成速度提高之后，更要关心谁负责适配、审查和维护。}}
+\end{minipage}\hfill
+\begin{minipage}[t]{.475\linewidth}
+\colorbox{lightteal}{\parbox[t]{\dimexpr\linewidth-2\fboxsep\relax}{\sffamily\bfseries\color{deep}AI普惠：谁能真正把技术用起来？\par\vspace{3pt}\normalfont\small\color{ink}资源可下载之后，还要关心谁能理解、修改和长期掌握。}}
+\end{minipage}
+\end{center}
+
+\begin{figure}[htbp]\centering
+\includegraphics[width=\linewidth]{figures/fig_ai_open_landscape.pdf}
+\caption{开源正在从代码协作扩展为代码、模型、数据与工具的共同创新}\label{fig:aiopen}
+\figread{上半部分呈现开放资源的范围扩展，下半部分强调：生成、适配、测试、审阅与维护不是可以省略的工作。}
+\end{figure}
+
+\subsection{四条路径：开放技术怎样服务共同发展}
+从技术开放到现实生活改善，并不存在一条自动生效的捷径。表\ref{tab:mechanism}把四条最常见的作用路径放在一起：降低门槛、增强可检查性、提高资源效率和促进跨境合作。每一条都可能创造价值，也都有需要满足的条件。
+
+\begin{table}[htbp]\centering\small
+\caption{四种发展机会，也有四类不能忽略的条件}
+\label{tab:mechanism}
+\rowcolors{2}{lightteal}{white}\begin{tabularx}{\linewidth}{>{\raggedright\arraybackslash}p{26mm}>{\raggedright\arraybackslash}p{22mm}X>{\raggedright\arraybackslash}p{32mm}}
+\toprule 发展机会 & SDG关联 & 如何发挥作用 & 仍需核对什么 \\\midrule
+降低创新门槛 & SDG 9、10 & 开放资源为中小企业、大学和公共机构提供低起点入口；成立前提是资源可获得、许可明确、部署和维护成本可承受。 & 资源可下载不等于低成本可用，也不等于本地创新能力已形成。 \\
+提高可检查性 & SDG 16 & 代码、模型说明、评估报告与社区审查有助于发现缺陷、理解局限并改善问责。 & 透明本身不自动保证安全、可靠或没有偏见。 \\
+促进资源效率 & SDG 7、13 & 优化算法、蒸馏、量化及软硬件协同有机会降低某些任务的算力消耗。 & 单次效率改进不等于系统总体能耗下降，更不能直接推导减排结果。 \\
+促进跨境合作 & SDG 3、4、17 & 共同工具、开放标准和共享知识有助于不同地区围绕同一问题协作与再创造。 & 跨境传播或下载不等于教育、医疗、农业等公共结果已经改善。 \\\bottomrule
+\end{tabularx}
+\end{table}
+
+\subsection{四道关口：从可获得，到真正有成效}
+设想一个公共部门希望用开放模型改善本地语言服务：找到模型是第一步，明确许可并承担运行成本是第二步，拥有懂得调整与维护模型的团队是第三步。只有当实际服务质量得到检验，才能讨论结果是否改善。图\ref{fig:conditions}将这一过程概括为四道关口。这是为分析准备的\term{条件关系框架}，不是已经证明的因果公式。
+
+\begin{figure}[htbp]\centering
+\includegraphics[width=\linewidth]{figures/fig_capacity_gates.pdf}
+\caption{从可获得到有成效：开放资源形成公共能力的四道关口}\label{fig:conditions}
+\figread{前三道关口讨论实施条件；最后一道关口只有通过真实场景与结果数据，才能得到回答。}
+\end{figure}
+
+因此，\term{“数字公共品”不只是一个好听的名称，而是要回答开放条件、治理责任和公共发展目标。} 数字公共品联盟（DPGA）通过标准和审核机制判断数字解决方案能否获得其正式认可；一项方案在具体国家和地区能否被稳定使用、是否改善服务质量，则属于进一步的实施评价。二者互有关联，但不能相互代替。\cite{dpga}
+
+\subsection{SDGs与数字公共品：从共同目标到实践条件}
+国际发展合作不仅关心技术能否被开放，还关心开放能否帮助解决教育、医疗、基础设施、气候和公平等现实问题。联合国可持续发展目标（SDGs）给出了这些问题的共同方向。对开源项目而言，它们提示我们不要只问“创造了多少技术”，还要问“哪些社会问题有可能得到改善”。\cite{sdg}
+
+但有了发展目标，还需要能够在现实中使用和治理的数字解决方案。数字公共品联盟的标准提供了另一组问题：是否有开放许可、权属是否清晰、是否具备必要文档、能否避免对个人与社会造成伤害等。\term{前者回答“希望改善什么”，后者回答“一个数字解决方案需要具备什么条件”。} 图\ref{fig:sdgsdpga}把十七项SDGs与DPGA九项标准条件并列，作为理解公共价值的两个入口；它们并不逐项对应。\cite{dpga}
+
+\begin{figure}[H]\centering
+\includegraphics[width=\linewidth]{figures/fig_sdgs_dpga.pdf}
+\caption{SDGs提出共同发展方向，DPGA标准明确数字公共品的九项条件}\label{fig:sdgsdpga}
+\figread{SDGs关注人和社会希望改善的领域；DPGA重点审核核心数字方案的开放与设计条件。是否实现本地公共效果，仍需由实际场景验证。}
+\end{figure}
+
+当我们讨论一个面向学校、医院或社区的开放AI项目时，可以沿着“发展目标—开放条件—实施能力—真实结果”的顺序提问。这个顺序并非新的认证标准，而是帮助政府与国际组织把技术选择、公共投入和后续评价连接起来的工作方法。
+
+\subsection{国际治理新进展：从原则倡议到能力合作}
+在全球人工智能治理中，各国关注的重点正从“应当遵循什么原则”，逐步延伸到“如何共同形成知识、规则与实施能力”。2024年联合国《全球数字契约》将弥合数字鸿沟、数字公共品投入与国际AI治理纳入共同议程；2025年8月，联合国大会通过决议，设立人工智能问题独立国际科学小组与全球人工智能治理对话机制。\cite{gdc,unpanel}
+
+2026年7月6日至7日，首届全球人工智能治理对话在日内瓦举行，为政府、学界、技术界和民间社会交流治理经验提供平台。7月16日，世界人工智能合作组织成立协定签署仪式在上海举行，来自29个国家的代表签署协定。这些进展反映了全球对合作机制与能力建设的关注，但协定签署、机构运作和具体项目的实际效果仍是不同层次的事实，应分别观察。\cite{undialogue,waico}
+
+对于本报告，重要的不是在第一章增加一部政策史，而是提出一个可以贯穿各章的问题：\term{开放技术如何通过跨境合作、本地适配和持续维护，使更多国家拥有可自主使用和改进的公共能力？} 这也为第六章讨论人才培养、公共采购、技术开放与国际合作提供了现实背景。
+
+
+\subsection{中国贡献：既看开放资源，也看跨境复用}
+中国开发者、企业、科研机构和社区持续参与操作系统、数据库、AI模型与工具链的开放供给。要向全球读者说明这些贡献，不能只列出一个平台上的项目数量；更应展示\term{具体提供了什么、谁在别处继续使用和改进、能否被其他地区独立维护}。这也是理解全球任何一个开放生态时应采用的共同标准。
+
+例如，开放权重语言模型的原始发布、模型量化与格式转换、本地语言适配，可能发生在不同国家和不同组织。对这些劳动，需要分别记录发布方、模型家族、版本与下游主体。ATOM等研究提供了指定平台与样本中的传播证据；下载次数不能直接解释为独立用户、生产部署或公共服务改善，更不能推导国家在全部AI领域的综合领先。\cite{atom}
+
+\section{OSDGs：面向智能时代的开源发展目标框架}
+\subsection{发展目标不是排名：它回答我们希望实现什么}
+当一项技术成为越来越多人的共同基础，发展不能只看“增长了多少”。还必须问：是否有更多人能够参与？是否提供了真正可利用的成果？知识能否跨越地域继续流动？又由谁负责长期治理？
+
+\term{开源发展目标（Open Source Development Goals，OSDGs）}就是为了让这些问题有共同语言而提出的研究框架。它不是联合国另行制定的SDGs，也不是技术机构的认证体系。图\ref{fig:osdgs}归纳了它的四大战略支柱：\term{X1人才规模与多样性、X2技术产出与开放供给、X3全球连接与网络效应、X4开源善治与公共价值}。它们互为补充，不应简单合成为一个缺乏依据的“全球开源总分”。
+
+\begin{figure}[H]\centering
+\includegraphics[width=\linewidth]{figures/fig_osdgs_pillars.pdf}
+\caption{四个发展问题：人才、开放供给、全球连接与公共价值}\label{fig:osdgs}
+\figread{四个区块不是四个等级。即使开放供给很丰富，也需要分别考察参与机会、跨境复用、治理条件及公共成效。}
+\end{figure}
+
+\subsection{四个发展问题，读懂开源生态的质量}
+\eyebrow{X1 人才规模与多样性——让参与机会不断扩大。}
+关键问题不是“注册了多少账号”，而是“谁有机会成为持续参与者”。要观察新人的进入与留存、参与者成长、跨地域协作和不同机构的贡献。对政府而言，这有助于把数字技能投入从一次性培训转向长期参与机会。
+
+\eyebrow{X2 技术产出与开放供给——让知识成果真正可取得、可使用。}
+关键问题不是“发布了多少”，而是“别人真正被允许做什么、能实际做什么”。代码、模型与数据既有不同的生产成本，也有不同的授权与复用条件。政府采购或跨境技术援助尤其需要检查版本、许可、文档、运行依赖和持续供给能力。
+
+\eyebrow{X3 全球连接与网络效应——让成果跨越组织与边界继续生长。}
+关键问题不是“资源传播得多远”，而是“传播之后是否继续生长”。跨国修复、语言适配、硬件兼容、模型再加工等活动，都属于开放成果在下游被继续创造的线索。评价时既要识别原始供给者，也应看见下游改进者；网络连线与下载量只能反映其中一部分。
+
+\eyebrow{X4 开源善治与公共价值——让合作更可靠，收益更持久。}
+关键问题是“谁负责，谁受益，能持续多久”。项目治理应能回答维护者如何更替、资金如何持续、安全问题如何处理、外部贡献者能否参与决策。进入公共服务后，还需单独观察服务覆盖、质量和公平性。\term{善治是持续发展的条件，公共价值则需要通过实际结果加以检验。}
+
+\begin{table}[htbp]\centering\small
+\caption{四项发展目标如何与联合国可持续发展议题相联系}
+\label{tab:sdg}
+\rowcolors{2}{lightteal}{white}\begin{tabularx}{\linewidth}{>{\raggedright\arraybackslash}p{23mm}>{\raggedright\arraybackslash}p{30mm}X>{\raggedright\arraybackslash}p{34mm}}
+\toprule 发展目标 & 对应议题 & 需要关注的改变 & 不宜直接宣称 \\\midrule
+X1 人才与多样性 & SDG 4、8、10 & 是否扩大真实学习机会、持续参与及技能成长，哪些群体仍被排除。 & 账号数量和活动次数不能代替人才质量、教育结果和公平改善。 \\
+X2 开放供给 & SDG 9、17 & 是否提供具有合法使用权、可维护且可复用的代码、模型与数据。 & 发布数量不能替代资源质量、开放程度和可部署性。 \\
+X3 全球连接 & SDG 9、17 & 是否形成跨国复用、共同维护、知识转移与本地适配网络。 & 下载、引用或网络热度不能单独代表有效合作。 \\
+X4 善治与公共价值 & SDG 3、13、16 等 & 是否具备问责、安全和维护机制；是否出现公共服务、气候或公平效应。 & 开放与治理安排不能直接证明公共结果，需要独立实施证据。 \\\bottomrule
+\end{tabularx}
+\end{table}
+
+\subsection{从目标到观察：第二章怎样回应这些问题}
+这四项发展目标不是留在纸面上的口号。第二章的七个主题地图将从活动、贡献、项目影响、人才、资产、多样性和治理等角度提供观察入口。图\ref{fig:themes}用一个矩阵给出主要阅读关系，避免把复杂关系硬画成一套强制对应的箭头。
+
+\begin{figure}[H]\centering
+\includegraphics[width=\linewidth]{figures/fig_pillars_theme_matrix.pdf}
+\caption{从四大战略支柱到七个主题地图：主要阅读与研究关系}\label{fig:themes}
+\figread{矩阵中的圆点表示主要阅读联系，而非因果关系或计算权重；第二章其他交叉关系将在相应证据中说明。}
+\end{figure}
+
+\section{OSDI：面向智能时代的开源发展度量体系}
+\subsection{目标是方向，指标是观察工具}
+没有观察，政策投入很难获得及时反馈；但指标选得不对，也可能让行动偏离目标。仓库数量说明资源供给，协作行为显示共同开发的某些方面，模型下载记录部分传播活动。它们都有价值，却没有任何一项能够单独回答“这个地区是否因此获得了更好的公共服务”。
+
+\term{开源发展指标体系（Open Source Development Indicators，OSDI）}因而承担一项务实的工作：把OSDGs的方向转化为可理解、可复核的观察信号。其设计遵循三项原则：\term{科学性}——指标与研究问题对应；\term{可操作性}——定义和来源能够核对；\term{前瞻性}——既看代码协作，也看模型、数据和复用关系。
+
+\keypoint{读数之前，先问问题}{评价不是为所有国家合成一个总分，而是帮助政府和合作机构识别投入方向、协作瓶颈与需要补充的证据。}
+
+\begin{figure}[htbp]\centering
+\includegraphics[width=\linewidth]{figures/fig_osdi_logic.pdf}
+\caption{OSDI把发展目标分解为观察维度和候选指标，并区分指标用途}\label{fig:osdi}
+\figread{四个目标与十个方向属于研究框架；29项仍为候选指标清单，不能把目录本身误当作29项全部已经实测。}
+\end{figure}
+
+\subsection{四个目标、十个方向、二十九项候选指标}
+OSDI采用三级组织方式：\term{一级是发展目标，二级是观察方向，三级是数据指标。} 例如，“人才规模与多样性”是目标，规模和生态多样性是观察方向，而活跃开发者、人才聚集等则是具体信号。图\ref{fig:osdi}也说明，同一组指标可能承担不同用途：\term{北极星}提示长期方向，\term{诊断}帮助发现差异，\term{驱动}关注变化动力；这些用途不是证据强弱的等级。
+
+表\ref{tab:metrics}列出研究框架中的29项候选指标。它是一份待逐项核实的观察目录：哪些指标能够在本期算出，哪些只有平台代理信号，哪些尚缺实际数据，都应通过附录A进行版本化说明。
+
+\Needspace{12\baselineskip}
+{\small
+\setlength{\tabcolsep}{4pt}
+\begin{longtable}{>{\raggedright\arraybackslash}p{21mm}>{\raggedright\arraybackslash}p{26mm}>{\raggedright\arraybackslash}p{71mm}>{\raggedright\arraybackslash}p{18mm}}
+\caption{OSDI候选指标目录：29项观察信号与各自的使用目的}\label{tab:metrics}\\
+\toprule 一级目标 & 二级方向 & 三级指标（原始名称） & 原稿类型 \\\midrule
+\endfirsthead
+\toprule 一级目标 & 二级方向 & 三级指标（原始名称） & 原稿类型 \\\midrule
+\endhead
+\multicolumn{4}{l}{\cellcolor{lightteal}\textbf{X1 人才规模与多样性}}\\
+X1 & 1.1 规模与密度 & 活跃开发者规模 DevScale；人才聚集密度 TalentDensity；新晋开发者增速 NewcomerGrowth & 北极星 / 诊断 / 驱动\\
+X1 & 1.2 生态多样性 & 全球开源协作占比 GlobalCollabShare；学术机构贡献占比 AcademicShare & 诊断 / 诊断\\\midrule
+\multicolumn{4}{l}{\cellcolor{lightteal}\textbf{X2 技术产出与开放供给}}\\
+X2 & 2.1 代码产出 & 有效活跃仓库规模 ActiveRepo；代码协作贡献度 OpenRankContrib；高质量 PR 合入量 ReviewedPR & 北极星 / 北极星 / 驱动\\
+X2 & 2.2 模型开放供给 & 开源模型发布量 OpenModelRelease；模型供给方多样性 ModelSupplierDiv & 驱动 / 诊断\\
+X2 & 2.3 数据开放供给 & 开源数据集发布量 OpenDatasetRelease；数据供给方多样性 DataSupplierDiv & 驱动 / 诊断\\\midrule
+\multicolumn{4}{l}{\cellcolor{lightteal}\textbf{X3 全球连接与网络效应}}\\
+X3 & 3.1 代码影响力 & 代码仓库影响力 OpenRankInflu；高影响力区域数量 HighImpactRegion；高影响力组织数量 HighImpactOrg；高影响力项目数量 HighImpactProj；高影响力人才数量 HighImpactTalent & 北极星 / 诊断 / 诊断 / 诊断 / 诊断\\
+X3 & 3.2 模型影响力 & 模型采用度 ModelAdoption；模型社区热度 ModelCommunityHeat；模型生态衍生力 ModelRank & 驱动 / 驱动 / 北极星\\
+X3 & 3.3 数据集影响力 & 数据集采用度 DataAdoption；数据社区热度 DataCommunityHeat；数据生态复用率 DataEcoReuseRate & 驱动 / 驱动 / 北极星\\\midrule
+\multicolumn{4}{l}{\cellcolor{lightteal}\textbf{X4 开源善治与公共价值}}\\
+X4 & 4.1 治理成熟度 & 基金会托管比例 NeutralityRatio；治理主体均衡度 GovBalance；合规许可覆盖率 ComplianceLicenseCov & 北极星 / 诊断 / 诊断\\
+X4 & 4.2 公共福祉 & 数字公共品共建度 DPGCoCreation；高开放度许可占比 LicenseOpenness；AI 资产透明度 AIAssetTransparency & 北极星 / 诊断 / 诊断\\
+\bottomrule
+\end{longtable}}
+
+\subsection{四类信号，不要误读为同一种成果}
+读报告时，至少要分清四类信号：\term{活跃与贡献}说明谁参与协作；\term{影响力}描述特定网络与算法识别的结构位置；\term{下载、关注与派生}显示部分传播和再加工活动；\term{公共成效}则需要来自实际场景的采用者、成本、基线和结果证据。OpenRank等指标为观察协作关系提供了方法，但不能直接代表国家综合技术实力，也不等于社会福利。\cite{openrank}
+
+\term{指标的意义来自所观察的问题，也来自透明的统计方法。} 本报告为代码、模型、数据与协作关系建立独立的观测体系。对正式统计，应当记录观察对象、平台覆盖、计算窗口、去重方式、缺失情况与指标版本；地区未知或模型谱系尚不确定的样本，也不能被悄悄当成零。外部研究、最新政策动态和本报告的统计分析可以彼此补充，但不会未经核对地混成同一套结果。详细方法和版本记录由附录A承担。
+
+\begin{table}[htbp]\centering\small
+\caption{指标如何服务决策：五类主体的观察信号与行动门槛}
+\label{tab:decision}
+\rowcolors{2}{bluegray}{white}\begin{tabularx}{\linewidth}{>{\raggedright\arraybackslash}p{25mm}>{\raggedright\arraybackslash}p{50mm}X}
+\toprule 决策主体 & OSDI 可以提供的信号 & 决策前仍需补齐的证据 \\\midrule
+政府与公共部门 & 人才参与、资源供给、地区差异、治理条件等初步画像。 & 人口与产业分母、政策成本、公共采购条件、部署能力以及实际服务质量。 \\
+企业 & 项目持续维护、模型来源、供应方多样性、许可与社区活跃度。 & 实测性能、网络与安全风险、运维成本、商业合同及长期依赖风险。 \\
+国际组织与基金会 & 跨境协作、共建关系、开放条件、治理安排和本地化潜力。 & 能力移转证据、长期维护机制、实施结果、受益者反馈和独立评价。 \\
+研究机构 & 参与、影响、模型复用和治理之间的结构关系与时间变化。 & 数据版本、平台偏差、算法敏感性、反例比较和解释边界。 \\
+开源社区 & 新人增长、审阅行为、贡献分布和维护者负担的预警信号。 & 贡献体验、响应速度、维护可持续性、安全处置能力与社区规则执行。 \\\bottomrule
+\end{tabularx}
+\end{table}
+
+\subsection{结语：让证据真正走向行动}
+\term{OSDGs说明发展的方向，OSDI帮助看清进展。} 一个开放项目是否值得长期投入，不只看技术是否先进，还看谁有机会使用、谁有能力改进、谁承担维护责任，以及最终产生怎样的结果。后续章节将分别检验参与、主体影响、技术组织和模型复用；第六章再把经过核对的发现转化为行动建议。\term{开放资源可以跨越边界，可持续的公共能力则需要在真实场景中生根。}
+
+\Needspace{7\baselineskip}
+\section*{本章与附录的分工}
+\addcontentsline{toc}{section}{附录接口说明}
+\textbf{附录A：指标、数据与方法。} 登记指标定义、数据口径、平台覆盖、去重、未知地区、模型谱系与复核路径；主统计期当前为2025年7月1日至2026年6月30日，后续可在数据版本更新与复核后滚动调整。1.3候选总表和分项表之间的命名差异也在此逐项解决。
+
+\textbf{附录B：开放条件与数字公共品。} 记录开源软件与开放模型的定义、版本化许可与材料、数字公共品标准及公共成效案例的证据强度。
+
+\addcontentsline{toc}{section}{参考文献}
+\begin{thebibliography}{99}\small\setlength{\itemsep}{2pt}\setlength{\parskip}{0pt}
+\bibitem{undp2025} UNDP (2025). \emph{Human Development Report 2025: A Matter of Choice}.  \href{https://hdr.undp.org/content/human-development-report-2025}{UNDP 官方报告}.
+\bibitem{github2026} GitHub (2026). \emph{Octoverse 2026: Developers Build with Agents}.  \href{https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/}{GitHub Octoverse 2026 原文}.
+\bibitem{hfsummer} Hugging Face (2026). \emph{State of Open Models, Summer 2026}.  \href{https://huggingface.co/blog/state-of-open-models-summer-2026}{Hugging Face 原文}.
+\bibitem{sdg} United Nations. \emph{Sustainable Development Goals (17 Goals)}. \url{https://sdgs.un.org/goals}.
+\bibitem{osi} Open Source Initiative. \emph{Open Source AI Definition, Version 1.0}. \url{https://opensource.org/ai/open-source-ai-definition}.
+\bibitem{dpga} Digital Public Goods Alliance. \emph{Digital Public Goods Standard}. \url{https://www.digitalpublicgoods.net/standard}.
+\bibitem{atom} Lambert, N. and Brand, F. (2026). \emph{The ATOM Report: Measuring the Open Language Model Ecosystem}. \url{https://arxiv.org/html/2604.07190v1}.
+\bibitem{openrank} X-lab / OpenDigger. \emph{OpenRank and collaboration measurement}. \url{https://github.com/X-lab2017/open-digger}.
+\bibitem{gdc} United Nations (2024). \emph{Global Digital Compact}. \href{https://www.un.org/global-digital-compact/en}{United Nations official overview}.
+\bibitem{unpanel} UN General Assembly (2025). \emph{Resolution A/RES/79/325}: AI Scientific Panel and Global Dialogue. \href{https://digitallibrary.un.org/record/4087699}{UN Digital Library}.
+\bibitem{undialogue} United Nations (2026). \emph{Global Dialogue on AI Governance}, Geneva, 6--7 July. \href{https://www.un.org/global-dialogue-ai-governance/en}{Official programme page}.
+\bibitem{waico} Ministry of Foreign Affairs of China (2026). \emph{World AI Cooperation Organization: Signing Ceremony}, 16 July. \href{https://www.mfa.gov.cn/eng/wjbzhd/202607/t20260717_11984747.html}{Official statement}.
+\bibitem{constitution} 《2026全球开源发展报告》报告宪法与主张地图，v0.3 获批基线，commit \texttt{fff392e957bab9fb6d89d49dea712af47484efaa}. \href{https://github.com/will-ww/2026-GOSD-Report}{权威工作仓库}.
+\end{thebibliography}
+
+\end{document}
