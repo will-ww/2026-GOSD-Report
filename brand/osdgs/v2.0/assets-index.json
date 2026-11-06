@@ -1,0 +1,532 @@
+{
+  "version": "2.0.0",
+  "approved_on": "2026-11-06",
+  "svg_count": 131,
+  "aggregate_sha256": "70902700e35c8c043d109ab9560c17985ea33112a554c4d8c4f4ed563c07c8ed",
+  "assets": [
+    {
+      "path": "assets/dimensions/D01-light-outlined.svg",
+      "sha256": "fa9f7e09b5311d4d3fc16f14555473d33d8167beb1504944ad151a189dd99ae1"
+    },
+    {
+      "path": "assets/dimensions/D01-light.svg",
+      "sha256": "07bf5c2b04b750a32d4b460e1603e40e2b584716f1afff997539182d68201eb9"
+    },
+    {
+      "path": "assets/dimensions/D01-solid-outlined.svg",
+      "sha256": "dd63d1a17e971375fec6de8159efb0c8ef8a81e09fa4458e6a642696760ecc3f"
+    },
+    {
+      "path": "assets/dimensions/D01-solid.svg",
+      "sha256": "352869aa32bffe5e82b89025b3564755880891a6165ee4d877796f25ee6ca9bb"
+    },
+    {
+      "path": "assets/dimensions/D01-tag.svg",
+      "sha256": "1ee97f5124feed6fc75a6d579aa3ab62a210dfd4a129a4bbdd231545f9168854"
+    },
+    {
+      "path": "assets/dimensions/D02-light-outlined.svg",
+      "sha256": "0ecb7afd64e6aa5d5d71ab0696092abe7242a2f556efec12b0c7c33dfe39bac8"
+    },
+    {
+      "path": "assets/dimensions/D02-light.svg",
+      "sha256": "afc866e09b093555332aec669d5171c711944dfced06fba17df20bd4bd8477dc"
+    },
+    {
+      "path": "assets/dimensions/D02-solid-outlined.svg",
+      "sha256": "6a63ecf2703d0c8852909c1101203f6e263794125b5400be748b56aa64dfe56f"
+    },
+    {
+      "path": "assets/dimensions/D02-solid.svg",
+      "sha256": "578e5a0bdf92796202dd94f5a4f29e7e5aceaac5775563b6fb50e1181761a94b"
+    },
+    {
+      "path": "assets/dimensions/D02-tag.svg",
+      "sha256": "905112331606123e3001421fd9c2f0e0d5707a7fa734d3326706ec47402ce51b"
+    },
+    {
+      "path": "assets/dimensions/D03-light-outlined.svg",
+      "sha256": "e56d27813a2cfeaad2c3bd0cd4e5818eb6887b85fd9b229eed600227efa79a15"
+    },
+    {
+      "path": "assets/dimensions/D03-light.svg",
+      "sha256": "636abb5c26aaee296a0e2424929d9683f6a6b78ecdc98eda09650fd788e6f5f8"
+    },
+    {
+      "path": "assets/dimensions/D03-solid-outlined.svg",
+      "sha256": "8b7c37af293b4b33220cbc991b832379acd68bed2539f12f15660efd2f601eef"
+    },
+    {
+      "path": "assets/dimensions/D03-solid.svg",
+      "sha256": "ccd1f4e3f85375f26bb3cb6750c00763e744c237602fcf373a1f0bb627ce23a8"
+    },
+    {
+      "path": "assets/dimensions/D03-tag.svg",
+      "sha256": "7d2706b7122b38ed81bed311fc739f1d9581b26484ade52f02d735dfbc5a061d"
+    },
+    {
+      "path": "assets/dimensions/D04-light-outlined.svg",
+      "sha256": "00ac8feaf771c158da4856237125940251e6dd763bbca5b60bd17dee59c166d2"
+    },
+    {
+      "path": "assets/dimensions/D04-light.svg",
+      "sha256": "275183a137c63bb88d16570d16c8e1227c682cfb01b7ab070a8ca431c74b2b38"
+    },
+    {
+      "path": "assets/dimensions/D04-solid-outlined.svg",
+      "sha256": "d5eda2edf1dfb9fb8ac641e30953aa8439fca3d75a3de75a08e7123f7caaad71"
+    },
+    {
+      "path": "assets/dimensions/D04-solid.svg",
+      "sha256": "e081a61d3517b122002de9edd5cd37a7711699edf0ad1c6a3ec436b42e020b82"
+    },
+    {
+      "path": "assets/dimensions/D04-tag.svg",
+      "sha256": "d509e645f107ed442eb015f3643a24f58187e1c982943f10c218497faee9c511"
+    },
+    {
+      "path": "assets/dimensions/D05-light-outlined.svg",
+      "sha256": "2f06682ccc9854f354c5ab13f14f5bf891eabfce6e2b396838c773c9d1f2a6c6"
+    },
+    {
+      "path": "assets/dimensions/D05-light.svg",
+      "sha256": "837adde80c95a3cb11e52845a9b1d0c75f9d8e18b1cfdd24be6af290403e85c5"
+    },
+    {
+      "path": "assets/dimensions/D05-solid-outlined.svg",
+      "sha256": "7c00a08dd9fbdea7c8d637c25f5a2f8288f543dd2eb458244483b9c00503ef01"
+    },
+    {
+      "path": "assets/dimensions/D05-solid.svg",
+      "sha256": "de8042e31390cc1b4cc0fc1a0f6bb4d455065999383af575a0f5de250d1308cb"
+    },
+    {
+      "path": "assets/dimensions/D05-tag.svg",
+      "sha256": "bf309ccfc2f97c160d4008ab41838c1d8b41ae34112c6e25b6f0b08f85c75422"
+    },
+    {
+      "path": "assets/dimensions/D06-light-outlined.svg",
+      "sha256": "439d1d1b8ec29c623b250c51e98ab676a879ff90dca0f23df5ad4c1c2e201cdf"
+    },
+    {
+      "path": "assets/dimensions/D06-light.svg",
+      "sha256": "c286b4efca93cb7473c867db10c6066dd7e5eafdb0b1fee7dbd826a367229e3c"
+    },
+    {
+      "path": "assets/dimensions/D06-solid-outlined.svg",
+      "sha256": "0a0c8c828297c989a4fb679de6a22c48d4d31c6646457844799c58e93bdfd966"
+    },
+    {
+      "path": "assets/dimensions/D06-solid.svg",
+      "sha256": "feba90b2f1117fab68d77ecd81233b8535efcd6e5b6694423b59ea5af5d6bad1"
+    },
+    {
+      "path": "assets/dimensions/D06-tag.svg",
+      "sha256": "c640efaa8219e49fbe73709f31cd30a2fb98b0411bab5b0b636c079ea58b720f"
+    },
+    {
+      "path": "assets/dimensions/D07-light-outlined.svg",
+      "sha256": "5d0aa025b08d943c1d3b34368def1a4a8c7a2245b10c4c2cb1225d39200b6cca"
+    },
+    {
+      "path": "assets/dimensions/D07-light.svg",
+      "sha256": "7d4201f6df9a4d456a8b958780df79fac7664ce772a956786515cbb471bd734c"
+    },
+    {
+      "path": "assets/dimensions/D07-solid-outlined.svg",
+      "sha256": "ccc9eeef4112f1febb9bb6f18db1f0f55e0385ec91ef7bff7289e352fe9349e7"
+    },
+    {
+      "path": "assets/dimensions/D07-solid.svg",
+      "sha256": "66ae45c9ce8f70c376495ca882244cef2de263ab16e52214ab01959d26ef2f36"
+    },
+    {
+      "path": "assets/dimensions/D07-tag.svg",
+      "sha256": "5ca7099fc42524abf0f5738a737b1d6dc430559b01733bf474f3945bc0e7d9ea"
+    },
+    {
+      "path": "assets/dimensions/D08-light-outlined.svg",
+      "sha256": "60f1136ac6c5cb8a585ca698dd441cfe8c79c637c28e49248aacabe3a99f043d"
+    },
+    {
+      "path": "assets/dimensions/D08-light.svg",
+      "sha256": "45342b9d39c95418ff16dc39acf403b428d5734e335ceded707d7ff7d258d629"
+    },
+    {
+      "path": "assets/dimensions/D08-solid-outlined.svg",
+      "sha256": "b6cf55c621545fa5a70d64a5f04d72f9a8fc7e4d260fedc3a305babbab56c17a"
+    },
+    {
+      "path": "assets/dimensions/D08-solid.svg",
+      "sha256": "ee305f765ac72fd00ce7c7718fd3852c1db647964e44667d3fffbd448ad10a51"
+    },
+    {
+      "path": "assets/dimensions/D08-tag.svg",
+      "sha256": "ff60e4ed346a7522fc4a4939f0f6bf7f18118ab286784880c7290a2a9f397c31"
+    },
+    {
+      "path": "assets/dimensions/D09-light-outlined.svg",
+      "sha256": "762d5ac15fdcc1efbac98eba42245ceb138366b349b72c397a1e3df31d4a9948"
+    },
+    {
+      "path": "assets/dimensions/D09-light.svg",
+      "sha256": "507f6173115301072e613ba26940a5b94ec299ce3100810208edde653ed14155"
+    },
+    {
+      "path": "assets/dimensions/D09-solid-outlined.svg",
+      "sha256": "a5fa693f4d039e0ac8846bc130d31c035a1f00560e251ffbeac8e3ab8e8b76f3"
+    },
+    {
+      "path": "assets/dimensions/D09-solid.svg",
+      "sha256": "93da2b4d2f8b4a658ba5b76402cf002a7ac8c02e117614e99d93cc099fc5cd24"
+    },
+    {
+      "path": "assets/dimensions/D09-tag.svg",
+      "sha256": "40a8601eef7300cf9a607e802c3ca4c4c21265fe6c6f759ba0d15348e93eef6d"
+    },
+    {
+      "path": "assets/dimensions/D10-light-outlined.svg",
+      "sha256": "bf08e61232450fa99a6fce7fd06a763352c1deeda2cea63e505105cec30092d4"
+    },
+    {
+      "path": "assets/dimensions/D10-light.svg",
+      "sha256": "aa70ae6b5aba060fb857861f05cbd6f0180262d5db8546d0a9df01643dd895f0"
+    },
+    {
+      "path": "assets/dimensions/D10-solid-outlined.svg",
+      "sha256": "268286f0728d05eb8b85e6c5f59ee4e96e8f12a5fde464c4a54a2d5caa6a31ca"
+    },
+    {
+      "path": "assets/dimensions/D10-solid.svg",
+      "sha256": "49b16d2b2eb47614724668bba4574ead88da59a75e8a24e5eaba09a1386f902c"
+    },
+    {
+      "path": "assets/dimensions/D10-tag.svg",
+      "sha256": "2e1c27b132654ba1ced951a5d6411cbc12c712fec9a04f0212617f4e699ade0c"
+    },
+    {
+      "path": "assets/dimensions/dimension-board.svg",
+      "sha256": "62906e5da36069f672266de383e1523c2feb47be1c0134d4fa7f795e4d49dc67"
+    },
+    {
+      "path": "assets/dimensions/dimension-strip.svg",
+      "sha256": "9cc3614f126ce5fa193e44ca2c3f037a4e9a6cb04dc5ec4868cbd958ccc7782d"
+    },
+    {
+      "path": "assets/icons/D01-users-round-color.svg",
+      "sha256": "09dbe525502af72b02b6e579d9fad2123b039674ba6f6bc6c5c595b2bd9285cf"
+    },
+    {
+      "path": "assets/icons/D01-users-round-navy.svg",
+      "sha256": "c28b9e41d60d37d7dc617731ca13924f92b9598e5fbce0595342c4717228997c"
+    },
+    {
+      "path": "assets/icons/D01-users-round-white.svg",
+      "sha256": "b43b13fc745db5f0cfae552b1924f371de59149cd73dd8e7a019f33290a4b532"
+    },
+    {
+      "path": "assets/icons/D02-network-color.svg",
+      "sha256": "cbb18021134f8c7d338739e00fb5763ca5a75f9cb608cf38173ca3b2b07823f1"
+    },
+    {
+      "path": "assets/icons/D02-network-navy.svg",
+      "sha256": "0776cb61e1aa3cc7b0964e75f255cb2d29286835abbd82413acca3ddb0261226"
+    },
+    {
+      "path": "assets/icons/D02-network-white.svg",
+      "sha256": "64cee988b3440b1780ea37c8595466399e333da74a14e676a5037e0bfa4d576d"
+    },
+    {
+      "path": "assets/icons/D03-code-xml-color.svg",
+      "sha256": "ec99dacf1d984c47ca7d012e8bf8195f5536a1b5c2fbafaaffe9bd63b50fe09c"
+    },
+    {
+      "path": "assets/icons/D03-code-xml-navy.svg",
+      "sha256": "ef27a5987c5e5026875a4b805ad6bc96eaeba3ac030f285f1dfa8871dfaf0cb3"
+    },
+    {
+      "path": "assets/icons/D03-code-xml-white.svg",
+      "sha256": "5692dcb6edc19fe63d326c55a3718124f3bb52327126ff78c5f8f26a1dcb1df2"
+    },
+    {
+      "path": "assets/icons/D04-boxes-color.svg",
+      "sha256": "fb52e34381723bafb3593c26a07e12c25d61eadab39e3633c9e3bd6331fede81"
+    },
+    {
+      "path": "assets/icons/D04-boxes-navy.svg",
+      "sha256": "63067e2dfcb7d97e3a042fab508f315bd27bd4b06a13fe2d8a05a21f352cb8ec"
+    },
+    {
+      "path": "assets/icons/D04-boxes-white.svg",
+      "sha256": "930b5eceb9f98c8c9ccbcd80997a941dca8687dff05088516c8895c44791fad2"
+    },
+    {
+      "path": "assets/icons/D05-database-color.svg",
+      "sha256": "160696ad80ac302f66a605bd65578643c44a1d5d3e8c47b85175cd6d976c6206"
+    },
+    {
+      "path": "assets/icons/D05-database-navy.svg",
+      "sha256": "7e32f53091dc12a0aa0344df980411bebb6b02972202d02999774fa3e94fc15d"
+    },
+    {
+      "path": "assets/icons/D05-database-white.svg",
+      "sha256": "dcfadee4d2a763b62f8c50c8915526e17feb84632efd7537bc6608b6db2e5838"
+    },
+    {
+      "path": "assets/icons/D06-git-fork-color.svg",
+      "sha256": "55e962edc69e816d42da63570b94e51a965d4af7f654cab6b94c6a457407ffc6"
+    },
+    {
+      "path": "assets/icons/D06-git-fork-navy.svg",
+      "sha256": "a8be8bcdc586abe98cd54c27f412c8b0f23ca599f7ab42e9ae1c188ba071808d"
+    },
+    {
+      "path": "assets/icons/D06-git-fork-white.svg",
+      "sha256": "96f81e4c21c5c916357a6441b4352ca9219e05da7732bd9b81c7c7398df2d2c7"
+    },
+    {
+      "path": "assets/icons/D07-orbit-color.svg",
+      "sha256": "5637cf75f77eb5f7173ad3abc0eae795767d673201dd59a5818f78bcadb87ad2"
+    },
+    {
+      "path": "assets/icons/D07-orbit-navy.svg",
+      "sha256": "3f3ab435fb958e04914259344169ef40537da4de950d6c50a4debba0b055cc73"
+    },
+    {
+      "path": "assets/icons/D07-orbit-white.svg",
+      "sha256": "2d5dd1e65e60f6fbdb2c6fbfbb97300ce772b457d27650bc9b308db45149030f"
+    },
+    {
+      "path": "assets/icons/D08-share-2-color.svg",
+      "sha256": "e32c578bd66c1891b30613e1a45a8555ec40eac9fe70741bef93569675176864"
+    },
+    {
+      "path": "assets/icons/D08-share-2-navy.svg",
+      "sha256": "9ad31a61bcd9a2f21315cd8d2085f4f9960aadf0a41b71e20a66d7872df27182"
+    },
+    {
+      "path": "assets/icons/D08-share-2-white.svg",
+      "sha256": "051716b871b6344efca856aa46aa43bb452d07cf39e096fa0c9a133fb480b8a4"
+    },
+    {
+      "path": "assets/icons/D09-shield-check-color.svg",
+      "sha256": "a1785af620f97e07e5771595a709b67ddee47ecea235415777d8fc03ae98a60d"
+    },
+    {
+      "path": "assets/icons/D09-shield-check-navy.svg",
+      "sha256": "9b1deca018dbee67a24ca1e6c575660abc8f33cc8c9cc4ebb98addc2911f1bad"
+    },
+    {
+      "path": "assets/icons/D09-shield-check-white.svg",
+      "sha256": "6f72120730c7e88e16b30090e52838a3d366d1d52bb8b3f7bf6abe52d0a4ef7c"
+    },
+    {
+      "path": "assets/icons/D10-hand-heart-color.svg",
+      "sha256": "c5463130a409b6ac4a03cb0470a4b8766fa2de304c64429f47f5196e2e70bee7"
+    },
+    {
+      "path": "assets/icons/D10-hand-heart-navy.svg",
+      "sha256": "25776f49c30d827beee1a9784e5176e25f6f26d3f73a2c2c95ec67f710056277"
+    },
+    {
+      "path": "assets/icons/D10-hand-heart-white.svg",
+      "sha256": "f74e340e28ead1d95fa8f9aed7c73b4cf6235be86c036b8201bbfff20a9c42c0"
+    },
+    {
+      "path": "assets/lockups/osdgs-horizontal-dark-outlined.svg",
+      "sha256": "beebf42bdc0be6c5a52bd924408b7b920eb217b74668ccda8bc568cd27e3ee88"
+    },
+    {
+      "path": "assets/lockups/osdgs-horizontal-dark.svg",
+      "sha256": "d0282f3a2c1322fc034ed400db1158b6a704551cecffd06a817240514cd0a61c"
+    },
+    {
+      "path": "assets/lockups/osdgs-horizontal-en-outlined.svg",
+      "sha256": "c4b65718fe15d49aab5c89e9cfb32a50754bf8c27a7baf49783b15b643a8864a"
+    },
+    {
+      "path": "assets/lockups/osdgs-horizontal-en.svg",
+      "sha256": "5045bd845882bbe84c007e6d725afa030c52f20048a2d1b2274bc9ad93c57204"
+    },
+    {
+      "path": "assets/lockups/osdgs-horizontal-light-outlined.svg",
+      "sha256": "6eb81338741d24cb427bed6fd8174f56878a87bf1132c932611412e59b3890ba"
+    },
+    {
+      "path": "assets/lockups/osdgs-horizontal-light.svg",
+      "sha256": "eef491290df51dc8b70e42356b403c3063e947fa1e513df2dd2818c4682844c6"
+    },
+    {
+      "path": "assets/lockups/osdgs-horizontal-mono-outlined.svg",
+      "sha256": "7dd1ca4e5b37bc5fdda3684f0a6057b936ffdab15bda34d66e3d8df8f293833b"
+    },
+    {
+      "path": "assets/lockups/osdgs-horizontal-mono.svg",
+      "sha256": "0b4fdfeab5f98fd2345354debe6e4f7dbe889bf916639b6a68a7c63b0d5865d6"
+    },
+    {
+      "path": "assets/lockups/osdgs-horizontal-reverse-outlined.svg",
+      "sha256": "d028ad005749fe9a9fd943005edbb41c60e7867dfcdf69ae4e729f3ab32c1f94"
+    },
+    {
+      "path": "assets/lockups/osdgs-horizontal-reverse.svg",
+      "sha256": "7a0ecdb0ea61b01a683afa5d903b42bed0830558092a3a547ac98d13638a5b6e"
+    },
+    {
+      "path": "assets/lockups/osdgs-horizontal-zh-outlined.svg",
+      "sha256": "394cf19c8a35f007a707e7c859fc3c9652bbeeef5392866c323901ca2fe580c3"
+    },
+    {
+      "path": "assets/lockups/osdgs-horizontal-zh.svg",
+      "sha256": "9b8ec533bdf5934dd5d87ea6f5c2ea52ada2f9fd96c30f4d0f54276baf9bf480"
+    },
+    {
+      "path": "assets/lockups/osdgs-vertical-dark-outlined.svg",
+      "sha256": "1f4ab13f124d53592246783d1009f0e0573eb397d3f9b6f58824ef9d1344c530"
+    },
+    {
+      "path": "assets/lockups/osdgs-vertical-dark.svg",
+      "sha256": "4547de3c354eaf910a20153921376e663779980b58ff26e231e5e9be85f26f8b"
+    },
+    {
+      "path": "assets/lockups/osdgs-vertical-light-outlined.svg",
+      "sha256": "9284e0db7b073299a1f4e615e2250644230d42f0fea29a9d218253b54ed62458"
+    },
+    {
+      "path": "assets/lockups/osdgs-vertical-light.svg",
+      "sha256": "629fb2698ec9c8f9078a809ff4ac650a63f1042a6af5d1f0f846e7522b3910c8"
+    },
+    {
+      "path": "assets/lockups/osdgs-vertical-mono-outlined.svg",
+      "sha256": "53ecc5f672b7f2c5de855c71f701057823028014c63544a887ba2b4d047292d1"
+    },
+    {
+      "path": "assets/lockups/osdgs-vertical-mono.svg",
+      "sha256": "c4ca6914c730a24bf7091de8f94faa764726612de6457d8b9d82ecda2d905bf7"
+    },
+    {
+      "path": "assets/lockups/osdgs-vertical-reverse-outlined.svg",
+      "sha256": "f1889bc3cf4f5531003e8c5bb0172d34f1bc3d80e3651d6c2eb8cf70af756cbe"
+    },
+    {
+      "path": "assets/lockups/osdgs-vertical-reverse.svg",
+      "sha256": "45d57aea8eb0c7eae68b63fec10b35d6af7d5324ce827cbe9b7f201ac3c36ebe"
+    },
+    {
+      "path": "assets/lockups/wordmark-navy-outlined.svg",
+      "sha256": "6196a94fb515056337ec0eeb7eecc9a1e4d9dc86e457bf7e128c791bc4b62314"
+    },
+    {
+      "path": "assets/lockups/wordmark-navy.svg",
+      "sha256": "043b0c039ae1706508f64dfef9fcc56f22be9d72b493f3f9a6fcbb43d26435e6"
+    },
+    {
+      "path": "assets/lockups/wordmark-white-outlined.svg",
+      "sha256": "a2c9d5e6a7ceae6a48e60801e1abe49e79cebce17e6a97b88bf5ebd306b60813"
+    },
+    {
+      "path": "assets/lockups/wordmark-white.svg",
+      "sha256": "48da73970bb773a2f00c705db1f0f6cbc872008d48910a9b0b98244dc814b7c1"
+    },
+    {
+      "path": "assets/master/osdgs-compact-dark-outlined.svg",
+      "sha256": "4e1b4097ebe599214c0669420b1fcade5784373ead02be9a5bae4df1d2af6af0"
+    },
+    {
+      "path": "assets/master/osdgs-compact-dark.svg",
+      "sha256": "02e94655c3aaec89eca888b2ae3a3029eb8d6c0aa0e78bcc25c2d5e610def1d3"
+    },
+    {
+      "path": "assets/master/osdgs-compact-light-outlined.svg",
+      "sha256": "4e1b4097ebe599214c0669420b1fcade5784373ead02be9a5bae4df1d2af6af0"
+    },
+    {
+      "path": "assets/master/osdgs-compact-light.svg",
+      "sha256": "02e94655c3aaec89eca888b2ae3a3029eb8d6c0aa0e78bcc25c2d5e610def1d3"
+    },
+    {
+      "path": "assets/master/osdgs-display-dark-outlined.svg",
+      "sha256": "432de6559d11db77adbaf227b0acd37883931ed62d80510ffb21a275a598f0ca"
+    },
+    {
+      "path": "assets/master/osdgs-display-dark.svg",
+      "sha256": "d2741929c9b705dd979f93d24c84df071d34c5cf04a1952a21ae8d0bce029c44"
+    },
+    {
+      "path": "assets/master/osdgs-display-light-outlined.svg",
+      "sha256": "1da5a73e9ccecfc1251cb6fbee805bd996398bfcf5924c790af72d5eac3dde47"
+    },
+    {
+      "path": "assets/master/osdgs-display-light.svg",
+      "sha256": "57b6907c72e8a11a92b6f665768d605edf1cb8b7d34238cfb8661b9c86857359"
+    },
+    {
+      "path": "assets/master/osdgs-emblem-display-outlined.svg",
+      "sha256": "fe1363375429e9df21b067bff54ec73b2e44ae363cff15e464ce185ec6abad7b"
+    },
+    {
+      "path": "assets/master/osdgs-emblem-display.svg",
+      "sha256": "53de21885e6e434b11e5e0554db348df715aa0489f3f194efa629e00291a4221"
+    },
+    {
+      "path": "assets/master/osdgs-emblem-master-outlined.svg",
+      "sha256": "8900574b517f57640e6bc8ab6ae7bbf2bcab03103f469f21fbe490f055eb8740"
+    },
+    {
+      "path": "assets/master/osdgs-emblem-master.svg",
+      "sha256": "f8623e1d9af86182752f38ca087ca95f1def457a5dcf4122683e2c3324ecc8ce"
+    },
+    {
+      "path": "assets/master/osdgs-emblem-mono-outlined.svg",
+      "sha256": "c9aad8dc911d4383868f9a71ea1df94302a26b1b5e20177d6153b4b08af05a70"
+    },
+    {
+      "path": "assets/master/osdgs-emblem-mono.svg",
+      "sha256": "8f1cc00cfbb7d420662b59e807b463a0b1339600a80b3e358ac00ee2c5813925"
+    },
+    {
+      "path": "assets/master/osdgs-emblem-reverse-outlined.svg",
+      "sha256": "0db39938532c44f183f2fc6a81c4f8fb0f9fea49fa5720c708dd4c677c7ba81b"
+    },
+    {
+      "path": "assets/master/osdgs-emblem-reverse.svg",
+      "sha256": "29aeb14a832c6fe70e04e58c722b93e3f253dba788b7ecd8a74db23c3fe5d147"
+    },
+    {
+      "path": "assets/master/osdgs-master-dark-outlined.svg",
+      "sha256": "8c47a5a8f7c4f9a7045557072d3af5539885a4b2b04b68028f8af4a0d7ef3bee"
+    },
+    {
+      "path": "assets/master/osdgs-master-dark.svg",
+      "sha256": "0935838fc877c38c0e17252b124f523d75ae4f2104698f6fc8e02044e4dc97bd"
+    },
+    {
+      "path": "assets/master/osdgs-master-light-outlined.svg",
+      "sha256": "e442cd057527864d09979d979b1b34949b5bd7ecfc20d380690635704e651fa6"
+    },
+    {
+      "path": "assets/master/osdgs-master-light.svg",
+      "sha256": "a8d9bd0ba4ec374876ce12d23ae4a3e3c02d3c0e1d4a5ff9ab8190f7097ef51a"
+    },
+    {
+      "path": "assets/master/osdgs-symbol-compact.svg",
+      "sha256": "7de88d97f2153818823302676d3318a9b504dd9f719ef0961810a01cd3d5977f"
+    },
+    {
+      "path": "assets/master/osdgs-symbol-display.svg",
+      "sha256": "395c3254054d16a74824134f2526f44f8457a2f468e39a5a7f373617ccc05c53"
+    },
+    {
+      "path": "assets/master/osdgs-symbol-master.svg",
+      "sha256": "b73a6c04b7ce882b47f8b529166a00406efaa8443cb1854263089b9c3fae8f76"
+    },
+    {
+      "path": "assets/master/osdgs-symbol-mono.svg",
+      "sha256": "bf99f6a0c86f505d5233ce1d2b76ad0ae2e80b650e0f97c042479d290ecbaa75"
+    },
+    {
+      "path": "assets/master/osdgs-symbol-reverse.svg",
+      "sha256": "27a6dbda119f13c2a1145e235f73236ea0bc0ff09c871756a8a25456fbb02443"
+    }
+  ]
+}

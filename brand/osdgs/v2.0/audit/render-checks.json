@@ -1,0 +1,447 @@
+[
+  {
+    "asset": "assets/master/osdgs-symbol-master",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/master/osdgs-symbol-display",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/master/osdgs-symbol-compact",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/master/osdgs-symbol-mono",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/master/osdgs-symbol-reverse",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/master/osdgs-emblem-master",
+    "text_count": 1,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/master/osdgs-emblem-display",
+    "text_count": 1,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/master/osdgs-emblem-mono",
+    "text_count": 1,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/master/osdgs-emblem-reverse",
+    "text_count": 1,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/lockups/osdgs-horizontal-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/lockups/osdgs-horizontal-dark",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/lockups/osdgs-horizontal-mono",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/lockups/osdgs-horizontal-reverse",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/lockups/osdgs-vertical-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/lockups/osdgs-vertical-dark",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/lockups/osdgs-vertical-mono",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/lockups/osdgs-vertical-reverse",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/lockups/osdgs-horizontal-zh",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/lockups/osdgs-horizontal-en",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D01-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D01-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D01-users-round-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D01-users-round-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D01-users-round-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D02-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D02-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D02-network-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D02-network-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D02-network-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D03-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D03-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D03-code-xml-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D03-code-xml-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D03-code-xml-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D04-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D04-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D04-boxes-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D04-boxes-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D04-boxes-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D05-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D05-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D05-database-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D05-database-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D05-database-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D06-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D06-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D06-git-fork-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D06-git-fork-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D06-git-fork-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D07-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D07-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D07-orbit-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D07-orbit-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D07-orbit-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D08-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D08-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D08-share-2-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D08-share-2-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D08-share-2-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D09-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D09-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D09-shield-check-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D09-shield-check-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D09-shield-check-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D10-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D10-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D10-hand-heart-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D10-hand-heart-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D10-hand-heart-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/dimension-strip",
+    "text_count": 10,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/dimension-board",
+    "text_count": 41,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D01-tag",
+    "text_count": 2,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D02-tag",
+    "text_count": 2,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D03-tag",
+    "text_count": 2,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D04-tag",
+    "text_count": 2,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D05-tag",
+    "text_count": 2,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D06-tag",
+    "text_count": 2,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D07-tag",
+    "text_count": 2,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D08-tag",
+    "text_count": 2,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D09-tag",
+    "text_count": 2,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D10-tag",
+    "text_count": 2,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/master/osdgs-display-light",
+    "text_count": 1,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/master/osdgs-master-light",
+    "text_count": 1,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/master/osdgs-compact-light",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/master/osdgs-display-dark",
+    "text_count": 1,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/master/osdgs-master-dark",
+    "text_count": 1,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/master/osdgs-compact-dark",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/lockups/wordmark-navy",
+    "text_count": 2,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/lockups/wordmark-white",
+    "text_count": 2,
+    "out_of_bounds": []
+  }
+]
