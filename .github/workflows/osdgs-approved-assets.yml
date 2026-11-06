@@ -1,0 +1,59 @@
+name: OSDGs approved assets
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'brand/osdgs/v2.0/source/**'
+      - 'brand/osdgs/v2.0/approved-assets.json'
+      - 'brand/osdgs/v2.0/requirements.txt'
+      - '.github/workflows/osdgs-approved-assets.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: osdgs-approved-assets
+  cancel-in-progress: false
+jobs:
+  approved-export:
+    runs-on: ubuntu-latest
+    container: python:3.13-trixie
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install rendering tools (fonts stay in the runner)
+        shell: bash
+        run: |
+          set -euo pipefail
+          apt-get update -qq
+          apt-get install -y --no-install-recommends fonts-noto-cjk fonts-liberation libcairo2 fontconfig curl unzip git
+          curl -fLsS --retry 3 https://github.com/rsms/inter/releases/download/v4.1/Inter-4.1.zip -o /tmp/inter.zip
+          unzip -q /tmp/inter.zip -d /tmp/inter
+          install -d /usr/share/fonts/opentype/inter
+          find /tmp/inter -name 'Inter-Regular.otf' -exec cp {} /usr/share/fonts/opentype/inter/Inter-Regular.otf \;
+          find /tmp/inter -name 'Inter-SemiBold.otf' -exec cp {} /usr/share/fonts/opentype/inter/Inter-SemiBold.otf \;
+          test -f /usr/share/fonts/opentype/inter/Inter-Regular.otf
+          test -f /usr/share/fonts/opentype/inter/Inter-SemiBold.otf
+          fc-cache -f
+          python -m pip install -r brand/osdgs/v2.0/requirements.txt
+      - name: Render and verify against the approved review
+        shell: bash
+        run: |
+          set -euo pipefail
+          python brand/osdgs/v2.0/source/render_assets.py
+          python brand/osdgs/v2.0/source/verify_assets.py
+      - name: Store only verified assets and their index
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add brand/osdgs/v2.0/assets brand/osdgs/v2.0/assets-index.json brand/osdgs/v2.0/audit/render-checks.json
+          if git diff --cached --name-only | grep -Ei '\.(pdf|ttf|otf|ttc|woff2?)$'; then
+            echo 'Blocked: PDF or font files must not enter the repository.' >&2
+            exit 1
+          fi
+          if git diff --cached --quiet; then exit 0; fi
+          git fetch origin main
+          test "$(git rev-parse origin/main)" = "$GITHUB_SHA"
+          git commit -m 'build(brand): store verified OSDGs v2.0 SVG and PNG assets [skip ci]'
+          git push origin HEAD:main

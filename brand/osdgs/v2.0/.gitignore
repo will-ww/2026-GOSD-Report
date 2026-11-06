@@ -1,0 +1,13 @@
+*.pdf
+*.PDF
+*.ttf
+*.otf
+*.ttc
+*.woff
+*.woff2
+__pycache__/
+*.pyc
+*.aux
+*.log
+*.out
+*.toc

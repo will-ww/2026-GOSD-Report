@@ -1,0 +1,50 @@
+# OSDGs 动态星座 · 视觉基线 v2.0.0
+
+**已通过评审，批准日期：2026-11-06。** 对应报告应用为GOSD v0.6.0“封面至第二章2.1”。不重新设计，不重新计算正文数据。
+
+## 直接复用
+
+|场景|资产入口|规则|
+|---|---|---|
+|封面、海报、品牌主视觉|`assets/master/osdgs-display-light-outlined.svg`、`osdgs-display-dark-outlined.svg`|Hero；建议徽记直径不小于30 mm|
+|常规中英组合|`assets/lockups/osdgs-horizontal-light-outlined.svg`及dark版|Standard；保持文字和图形比例|
+|页眉、角标、小图标|`assets/master/osdgs-symbol-compact.svg`|Mini；建议不小于6 mm|
+|单色、反白|`assets/master/osdgs-emblem-mono-outlined.svg`、reverse版|不可自行把彩色图转成模糊灰度|
+|十维卡片|`assets/dimensions/D01-solid-outlined.svg`至D10；另有light/tag变体|编号、名称、图标、身份色并用|
+|十维总览与导视|`assets/dimensions/dimension-board.svg`、`dimension-strip.svg`|不是六章目录的替代品|
+|报告页式|`templates/gosd-atlas.sty`、`templates/sample.tex`|保留已有内容、图表分母和统计期|
+
+可编辑SVG含文字；带`-outlined`的生产SVG已转文字轮廓，不依赖接收方字体。SVG可无损缩放。PNG与本地PDF可用下方命令导出，PDF不提交仓库。浏览器可打开[离线资产目录](assets/web/index.html)，无需外部脚本或CDN。
+
+## 唯一事实来源
+
+`source/brand_tokens.json`保存审稿时的名称、顺序、颜色及图标；为保留审稿来源身份，文件中的`2.0.0-rc1`及待评审字样属于原审稿元数据。**当前批准状态以`approval.json`为准**。不得把旧概念板的临时名称、模拟读数或机构徽记带回正式应用。
+
+四支柱仍为X1—X4；十个观察方向及原编码不变；29项仍为候选指标。六章四视角、五段主线、主统计期均不变。
+
+## 重建与检验
+
+```bash
+cd brand/osdgs/v2.0
+python -m pip install -r requirements.txt
+python source/render_assets.py --svg-only
+python source/verify_assets.py
+# 需要透明PNG时：
+python source/render_assets.py
+# 需要本地PDF导出时（不得git add）：
+python source/render_assets.py --local-pdf
+```
+
+系统字体：Noto Sans CJK SC 2.004、Inter 4.001（官方v4.1发行包）、Liberation Serif 2.1.5。使用原包的系统字体路径；可通过`OSDGS_FONT_*`环境变量指定等价安装路径。字体文件不分发。
+
+导出器从已评审程序提取同一组绘图函数，不是另画一套形状；本地校验131个生产SVG与已审稿逐字节一致。`approved-assets.json`保留冻结的聚合校验值，验证通过后生成`assets-index.json`逐文件索引。更换字体或渲染库后必须重做校验，不可自动接受差异。
+
+## 范围与归档
+
+仓库承载独立可重建的标识、十维组件、应用参数、报告页式、生成代码与批准记录。完整审稿PDF、包含地球装饰位图的全量报告包留在仓库外，其文件名和SHA-256见`approval.json`。本目录不声称仅凭页式模板即可重建全部32页正文；还需要已归档的完整报告包中的正文、数据和图表。
+
+地球装饰原生约128ppi，只用于既有视觉评审；实体印刷仍需高分辨率插画、色彩管理和纸张打样。品牌轨道是装饰，不是观测网络；动态指静态流动感，不表示已提供动画。
+
+## 版本管理
+
+本目录为已获批版本。名称、节点数、顺序、轨道母型、维度对应和识别色的变动必须另行评审并建立新版本；不得静默覆盖。未来版本通过`../current.json`切换入口。统计图独立管理，不为适配品牌而改动数据表达。

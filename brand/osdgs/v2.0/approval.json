@@ -1,0 +1,18 @@
+{
+  "status": "approved",
+  "approved_on": "2026-11-06",
+  "approved_by": "用户（项目负责人）",
+  "approval_quote": "非常好，评审通过，做成基线入库，体系化的logo和视觉，后面以便复用",
+  "brand_version": "2.0.0",
+  "reviewed_brand_version": "2.0.0-rc1",
+  "application_version": "0.6.0",
+  "constitution_commit": "fff392e957bab9fb6d89d49dea712af47484efaa",
+  "repository_parent_commit": "65a5fbda5c9192a11328ed9926959a0f0c5dc8f1",
+  "artifacts": [
+    {"filename":"OSDGs_开源发展目标_v2.0_动态母版品牌规范与十维系统_评审稿.pdf","role":"brand-guidelines","pages":12,"bytes":8415475,"sha256":"15150fe7bce8fc85076337440028512114ab56817a2cfb4a65b692259155ffc9","storage":"repository-external"},
+    {"filename":"GOSD_2026_封面至2.1_v0.6_动态星座品牌应用_评审稿.pdf","role":"report-application","pages":32,"bytes":5845912,"sha256":"6f74fcda38eb378f8769d73668d13eb46782d23922928d3ee595fecb86e824ca","storage":"repository-external"},
+    {"filename":"OSDGs_v2.0_GOSD_v0.6_动态母版资产与报告源码.zip","role":"full-review-package","bytes":94368633,"sha256":"5da4ac04349a761f69fc71322a01925d880b4f8d4497821a8f7e2e21e8f169a9","storage":"repository-external"}
+  ],
+  "scope": ["动态星座Hero/Standard/Mini同源标识","十维编号、名称、颜色、图标及四支柱归属","封面、摘要导视、章节入口及正文应用规则"],
+  "not_approved_by_this_record": ["新增统计结论或上游数据认证","联合国或其他机构背书","商标近似检索、全面无障碍认证或实体印刷打样","全书所有章节定稿"]
+}

@@ -1,0 +1,11 @@
+id,source_code,pillar,name_zh,label_zh,name_en,question,icon,candidate_indicator_count,color,hero_color
+D01,1.1,X1,规模与密度,规模与密度,Scale & Density,谁在参与，人才如何分布？,users-round,3,#155FA8,#159DF1
+D02,1.2,X1,生态多样性,生态多样性,Ecosystem Diversity,不同来源如何共同建设？,network,2,#087C99,#24C4E5
+D03,2.1,X2,代码产出,代码产出,Code Output,形成了哪些可持续协作的代码成果？,code-xml,3,#007D78,#0DBDAF
+D04,2.2,X2,模型开放供给,模型开放供给,Open Model Supply,哪些模型资源可被获取与接续开发？,boxes,2,#267D4E,#4CBA71
+D05,2.3,X2,数据开放供给,数据开放供给,Open Data Supply,哪些数据资源支持继续创造？,database,2,#537D25,#9DCD37
+D06,3.1,X3,代码影响力,代码影响力,Code Influence,代码协作在网络中形成怎样的影响？,git-fork,5,#8E6500,#FFCC24
+D07,3.2,X3,模型影响力,模型影响力,Model Influence,模型如何传播、派生与被采用？,orbit,3,#AD4E22,#FF8A37
+D08,3.3,X3,数据集影响力,数据集影响力,Dataset Influence,数据集如何被采用与复用？,share-2,3,#B53863,#F15D83
+D09,4.1,X4,治理成熟度,治理成熟度,Governance Maturity,协作规则与维护责任如何落实？,shield-check,3,#943B9A,#C44FC1
+D10,4.2,X4,公共福祉,公共福祉,Public Wellbeing,开放条件如何支持共同受益？,hand-heart,3,#6146A5,#8955D8

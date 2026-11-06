@@ -1,0 +1,58 @@
+\documentclass[UTF8,fontset=none,11pt,a4paper,openany,oneside]{ctexbook}
+\usepackage{design/gosd-atlas}
+\begin{document}
+\includepdf[pages=1,pagecommand={\thispagestyle{empty}\pdfbookmark[0]{封面}{cover}}]{figures/new/report_cover.pdf}
+\pagenumbering{arabic}
+
+\input{content/frontmatter.tex}
+\FullPage{figures/new/chapter1_cover.pdf}{ch1cover}{第一章 从开放协作到公共价值}
+\SetRegion{第一章 · 从开放协作到公共价值}{teal}{compass}
+\setcounter{chapter}{1}\setcounter{section}{0}\setcounter{figure}{0}\setcounter{table}{0}
+\renewcommand{\thefigure}{1-\arabic{figure}}\renewcommand{\thetable}{1-\arabic{table}}
+\phantomsection\label{ch1home}\pdfbookmark[1]{第一章：阅读首页}{bm-ch1home}
+\kicker{01 / FOUNDATIONS}
+\PageTitle{从开放协作到公共价值}{智能时代的开源发展目标与观察方法}
+\input{content/chapter1_body.tex}
+\FullPage{figures/new/chapter2_cover.pdf}{ch2cover}{第二章 全球开源生态观测地图}
+
+\SetRegion{第二章 · 生态观测地图}{blue}{globe}
+\setcounter{chapter}{2}\setcounter{section}{0}\setcounter{figure}{0}\setcounter{table}{0}
+\phantomsection\label{ch2home}\pdfbookmark[1]{第二章：阅读首页}{bm-ch2home}
+\kicker{02 / GLOBAL OPEN SOURCE OBSERVATORY}
+\PageTitle{参与在扩大，\protect\\生态并不同步}{从空间分布，看见规模、结构和增长的差异}
+第一章说明了从开放协作走向公共价值需要考察哪些条件。本章转向可以观察的参与与资源：谁进入生态，贡献如何汇聚，项目与人才在哪里积累，以及共同成果怎样获得持续支持。
+
+如果只看开发者人数，世界开源版图会呈现一种格局；换看协作贡献、项目影响或可复用资产，排序与结构可能随之变化。七个主题构成连续的阅读路径，而不是七张相互竞争的总榜。
+\vspace{4pt}
+\noindent{\sffamily\bfseries\color{blue}七个问题，进入同一生态}\par\vspace{4pt}
+\begingroup\fontsize{10.8}{15}\selectfont\renewcommand{\arraystretch}{1.22}\setlength{\parskip}{0pt}
+\noindent\begin{tabularx}{\linewidth}{@{}>{\sffamily\bfseries\color{blue}}p{11mm}>{\sffamily\bfseries}p{25mm}X@{}}
+\toprule
+2.1 & 活跃 & 参与基础有多大，新增活跃在哪里？\\
+2.2 & 贡献 & 人数之外，协作工作怎样汇聚与连接？\\
+2.3 & 项目影响 & 贡献来源与项目影响为何呈现不同分布？\\
+2.4 & 人才 & 高影响力参与者在哪里积累和增长？\\
+2.5 & 资产 & 代码、模型与数据形成怎样的供给？\\
+2.6 & 多样性 & 谁进入共同建设，技术选择怎样变化？\\
+2.7 & 治理 & 谁提供组织支持，复用遵循什么规则？\\
+\bottomrule
+\end{tabularx}\endgroup
+\vspace{3mm}\topic{先分清对象，再比较数字}
+\key{人不等于活动。}同一个人可能完成许多工作，活动量上升不必然带来同比例的人数增长。\key{仓库不等于项目。}一个项目可能包含多个仓库，也可能跨平台托管。\key{贡献不等于影响。}OpenRank依据协作关系观察网络位置，其对象和聚合方式需要随图确认，不能直接当作质量或社会价值评分。
+\topic{地图定位，排行读数，趋势说明变化}
+地图帮助识别空间格局；排行便于准确比较；趋势图呈现时间变化。未知与未列不按零处理，份额与增幅也分别阅读。细节与复核路径由附录A承载。
+\vfill\src{主统计期：2025年7月1日至2026年6月30日。历史快照、外部观察和条件估算随图标明；五域为固定比较组，不是世界的完整划分。}
+\clearpage
+
+\input{content/section21_body.tex}
+\clearpage\SetRegion{资料来源}{teal}{compass}
+\phantomsection\label{references}\pdfbookmark[0]{资料来源}{bm-references}
+\kicker{SOURCES / 样稿引用}
+\PageTitle{资料来源}{书稿、图表与方法的阅读入口}
+\noindent 本样稿以第一章v1.2和第二章整章v1.0为内容基础。OSDGs与OSDI为本报告研究框架；联合国可持续发展目标是价值参照，不构成机构背书。原有数据口径及核查状态保持不变。
+\begingroup\fontsize{9.3}{13.4}\selectfont
+\makeatletter\renewcommand{\chapter}{\@gobbletwo}\makeatother
+\begin{thebibliography}{99}\setlength{\itemsep}{4pt}\setlength{\parskip}{0pt}
+\input{content/references.tex}
+\end{thebibliography}\endgroup
+\end{document}

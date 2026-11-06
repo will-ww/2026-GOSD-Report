@@ -1,0 +1,5 @@
+Pillow==12.3.0
+CairoSVG==2.8.2
+lxml==6.1.1
+fonttools==4.63.0
+numpy==2.3.5

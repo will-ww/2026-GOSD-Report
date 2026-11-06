@@ -1,0 +1,10 @@
+{
+  "brand": "OSDGs",
+  "name_zh": "开源发展目标",
+  "name_en": "Open Source Development Goals",
+  "version": "2.0.0",
+  "approved_on": "2026-11-06",
+  "path": "v2.0",
+  "application_version": "0.6.0",
+  "review": "../../docs/reviews/2026-11-06-osdgs-v2.0-gosd-v0.6.md"
+}

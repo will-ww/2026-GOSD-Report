@@ -1,0 +1,21 @@
+{
+  "report_baseline": "65a5fbda5c9192a11328ed9926959a0f0c5dc8f1",
+  "icons": [
+    {"name":"users-round","url":"https://github.com/lucide-icons/lucide/blob/main/icons/users-round.svg","retrieved_blob_sha":"60fa609a596063094aa7e34eacb16d51613f2b68"},
+    {"name":"network","url":"https://github.com/lucide-icons/lucide/blob/main/icons/network.svg","retrieved_blob_sha":"e166b3535ca33f9ceee49d2215dd78374689865e"},
+    {"name":"code-xml","url":"https://github.com/lucide-icons/lucide/blob/main/icons/code-xml.svg","retrieved_blob_sha":"74f2299eb3e31a2ea1ce971ae8b4c64bf00ede88"},
+    {"name":"boxes","url":"https://github.com/lucide-icons/lucide/blob/main/icons/boxes.svg","retrieved_blob_sha":"fddb08c599fdd8cf967efdd18adf06ab3f8a5831"},
+    {"name":"database","url":"https://github.com/lucide-icons/lucide/blob/main/icons/database.svg","retrieved_blob_sha":"f95db0e3f40633742b292b2f64f5d9c37e3eb157"},
+    {"name":"git-fork","url":"https://github.com/lucide-icons/lucide/blob/main/icons/git-fork.svg","retrieved_blob_sha":"e04fd62bcf3bc4b9c4afaf6b5cdcb002365ed5ed"},
+    {"name":"orbit","url":"https://github.com/lucide-icons/lucide/blob/main/icons/orbit.svg","retrieved_blob_sha":"d67436d1629383d9624c548ebfef5fdbe9262dbc"},
+    {"name":"share-2","url":"https://github.com/lucide-icons/lucide/blob/main/icons/share-2.svg","retrieved_blob_sha":"f0b24666f17167e562eaa304609513dc6d97298f"},
+    {"name":"shield-check","url":"https://github.com/lucide-icons/lucide/blob/main/icons/shield-check.svg","retrieved_blob_sha":"da48f664e51be4ceb800dbe4f6c10c5e7cfa800e"},
+    {"name":"hand-heart","url":"https://github.com/lucide-icons/lucide/blob/main/icons/hand-heart.svg","retrieved_blob_sha":"b8f76eef25cf40f717bccb9d37a0c63292d56a87"}
+  ],
+  "local_processing":"SVG规范化、颜色与笔画调整；部分相邻路径合并，不声明与上游逐字节一致。当前规范化路径为已审版，保存于source/icons.json。",
+  "external_references": [
+    {"url":"https://lucide.dev/license","role":"图标许可文本"},
+    {"url":"https://www.un.org/sustainabledevelopment/news/communications-material/","role":"机构标识与SDG标识使用边界；不挪用到本品牌"},
+    {"url":"https://github.com/undp/design-system","role":"既有视觉资源的方法参照，不复制机构标志"}
+  ]
+}
