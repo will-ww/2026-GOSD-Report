@@ -1,0 +1,23 @@
+{
+  "edition": "2026 全球开源发展报告·精要版",
+  "edition_id": "insights",
+  "management_version": "1.0.0",
+  "registered_on": "2026-11-09",
+  "research_baseline_commit": "fff392e957bab9fb6d89d49dea712af47484efaa",
+  "repository_base_commit": "b3f7fd60400d6b46e1c3086b225e5b348a753c47",
+  "brand_version": "2.0.0",
+  "brand_application_version": "0.6.0",
+  "frontmatter_version": "0.3",
+  "frontmatter_source": "frontmatter/v0.3",
+  "frontmatter_editorial_status": "方向获认可，事实核查逐项继承",
+  "target_pages_approx": 100,
+  "main_window": {
+    "start": "2025-07-01",
+    "end": "2026-06-30"
+  },
+  "publication_date": null,
+  "external_evidence_cutoff": null,
+  "review": "reviews/2026-11-09-baseline.md",
+  "new_chapter6_in_archived_frontmatter": false,
+  "pdf_in_repository": false
+}

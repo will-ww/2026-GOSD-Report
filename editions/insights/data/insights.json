@@ -1,0 +1,367 @@
+{
+  "version": "1.0.0",
+  "groups": [
+    {
+      "id": "A",
+      "title": "全球协作与体系能力",
+      "focus": "全球结构、跨层联系与协作位置"
+    },
+    {
+      "id": "B",
+      "title": "中国模型开源与全球协作",
+      "focus": "中国如何在模型复用、技术分层与制度建设中连接世界"
+    },
+    {
+      "id": "C",
+      "title": "全球南方与可持续公共能力",
+      "focus": "本地共创、基金会支持与长期能力"
+    },
+    {
+      "id": "D",
+      "title": "中国产业、人才与城市结构",
+      "focus": "中国内部产业、人才和区域的组织方式"
+    }
+  ],
+  "insights": [
+    {
+      "id": "I01",
+      "group": "A",
+      "title": "全球格局",
+      "question": "规模、增速与影响力是否形成不同地域格局？",
+      "candidate_claim": "不同地区在参与规模、贡献强度和影响位置上可能存在不同优势；增长与既有积累未必同向。",
+      "evidence_status": "待检验",
+      "editorial_status": "所属大方向获认可；子项工作表述待章节验证",
+      "chapters": [
+        "2.1",
+        "2.2",
+        "2.3",
+        "3.1"
+      ],
+      "source_ids": [
+        "S02"
+      ],
+      "required_evidence": "同窗口的规模、增长与影响数据；历史地理快照、未知比例及可比样本。",
+      "counterevidence_or_limit": "若控制覆盖与指标版本后差异消失，应收窄地域结构判断。",
+      "open_item_ids": [
+        "O01",
+        "O03"
+      ],
+      "figure_ids": [],
+      "outlook_ids": [],
+      "recommendation_ids": []
+    },
+    {
+      "id": "I02",
+      "group": "A",
+      "title": "体系连接",
+      "question": "人才、组织、项目、代码、模型与数据怎样相互支撑？",
+      "candidate_claim": "联合观察不同资源及协作关系，有望识别单独排行无法显示的支撑环节与缺口。",
+      "evidence_status": "待检验",
+      "editorial_status": "所属大方向获认可；子项工作表述待章节验证",
+      "chapters": [
+        "2.4",
+        "2.5",
+        "3.2",
+        "3.4",
+        "4.1",
+        "4.2"
+      ],
+      "source_ids": [
+        "S02"
+      ],
+      "required_evidence": "跨对象身份与关系映射、跨层协作证据、可追溯案例。",
+      "counterevidence_or_limit": "分类并列或同时增长不足以证明连接；缺少关系边时改为观察框架。",
+      "open_item_ids": [
+        "O03",
+        "O05"
+      ],
+      "figure_ids": [],
+      "outlook_ids": [],
+      "recommendation_ids": []
+    },
+    {
+      "id": "I03",
+      "group": "A",
+      "title": "协作位置",
+      "question": "哪些主体承担原创供给、适配、再创造与长期维护？",
+      "candidate_claim": "全球协作价值可能分布在不同环节，供给规模与接续维护能力不必集中于同一主体。",
+      "evidence_status": "待检验",
+      "editorial_status": "所属大方向获认可；子项工作表述待章节验证",
+      "chapters": [
+        "3.4",
+        "4.1",
+        "4.2",
+        "5.2"
+      ],
+      "source_ids": [
+        "S02",
+        "S05"
+      ],
+      "required_evidence": "派生、依赖、贡献及维护记录，主体和地区映射。",
+      "counterevidence_or_limit": "不能把声明边当作完整训练过程或独立贡献；缺失维护证据时不推断持续能力。",
+      "open_item_ids": [
+        "O03",
+        "O04",
+        "O05"
+      ],
+      "figure_ids": [],
+      "outlook_ids": [],
+      "recommendation_ids": []
+    },
+    {
+      "id": "I04",
+      "group": "B",
+      "title": "模型优势",
+      "question": "中国模型在哪些开放复用维度形成领先位置？",
+      "candidate_claim": "以 Qwen 为代表的中国模型在来源所覆盖的开放模型复用网络中具有突出位置；具体领先维度须进一步比较。",
+      "evidence_status": "待检验",
+      "editorial_status": "所属大方向获认可；子项工作表述待章节验证",
+      "chapters": [
+        "3.6",
+        "5.1",
+        "5.2"
+      ],
+      "source_ids": [
+        "S02",
+        "S05"
+      ],
+      "required_evidence": "模型家族边界、派生计数、跨境主体与同口径比较。",
+      "counterevidence_or_limit": "量化转换、重复仓库和窗口变化可能改变排序；不外推为全部 AI 技术领先。",
+      "open_item_ids": [
+        "O02",
+        "O04"
+      ],
+      "figure_ids": [],
+      "outlook_ids": [],
+      "recommendation_ids": []
+    },
+    {
+      "id": "I05",
+      "group": "B",
+      "title": "分层演进",
+      "question": "模型优势与基础设施、工具链和应用是否同步发展？",
+      "candidate_claim": "模型、训练推理、异构适配与工具链可能呈现不同演进速度，体系机会需要分层识别。",
+      "evidence_status": "待检验",
+      "editorial_status": "所属大方向获认可；子项工作表述待章节验证",
+      "chapters": [
+        "4.1",
+        "4.2",
+        "5.1",
+        "5.2"
+      ],
+      "source_ids": [
+        "S02",
+        "S05"
+      ],
+      "required_evidence": "版本化分类、项目轨迹、依赖与维护证据。",
+      "counterevidence_or_limit": "单个项目热度或模型份额不能证明完整技术栈成熟；分类变化需重算。",
+      "open_item_ids": [
+        "O04",
+        "O05"
+      ],
+      "figure_ids": [],
+      "outlook_ids": [],
+      "recommendation_ids": []
+    },
+    {
+      "id": "I06",
+      "group": "B",
+      "title": "制度与策略",
+      "question": "制度建设怎样支持开放贡献与全球协作？",
+      "candidate_claim": "政策、基金会治理及开放接口可构成协作条件，其效果需要具体实施与跨境接续证据。",
+      "evidence_status": "待检验",
+      "editorial_status": "所属大方向获认可；子项工作表述待章节验证",
+      "chapters": [
+        "3.3",
+        "4.2",
+        "4.6",
+        "5.3"
+      ],
+      "source_ids": [
+        "S02",
+        "S06",
+        "S07"
+      ],
+      "required_evidence": "制度文本、项目接收与治理实践、接口和共同维护记录。",
+      "counterevidence_or_limit": "政策出台和项目入孵不等于效果；没有结果证据时只能描述制度安排。",
+      "open_item_ids": [
+        "O03",
+        "O06"
+      ],
+      "figure_ids": [],
+      "outlook_ids": [],
+      "recommendation_ids": []
+    },
+    {
+      "id": "I07",
+      "group": "C",
+      "title": "参与路径",
+      "question": "全球南方通过哪些环节进入开放创新？",
+      "candidate_claim": "不同地区可能经代码贡献、数据共建、语言适配与场景应用形成差异化参与路径。",
+      "evidence_status": "待检验",
+      "editorial_status": "所属大方向获认可；子项工作表述待章节验证",
+      "chapters": [
+        "2.1",
+        "2.4",
+        "2.5",
+        "5.1",
+        "5.2"
+      ],
+      "source_ids": [
+        "S02",
+        "S08",
+        "S09"
+      ],
+      "required_evidence": "多个地区的实际参与记录、当地伙伴资料和跨境协作路径。",
+      "counterevidence_or_limit": "单一非洲语言案例不能代表全球南方；缺少比较时保留为个案。",
+      "open_item_ids": [
+        "O07"
+      ],
+      "figure_ids": [],
+      "outlook_ids": [],
+      "recommendation_ids": []
+    },
+    {
+      "id": "I08",
+      "group": "C",
+      "title": "本地能力",
+      "question": "语言和场景资源如何转为可用且可维护的能力？",
+      "candidate_claim": "资源可及需结合本地化、知识、人员和维护条件，才可能形成可持续公共能力。",
+      "evidence_status": "待检验",
+      "editorial_status": "所属大方向获认可；子项工作表述待章节验证",
+      "chapters": [
+        "2.5",
+        "5.2",
+        "5.3"
+      ],
+      "source_ids": [
+        "S02",
+        "S08",
+        "S09"
+      ],
+      "required_evidence": "成本、本地化、维护与结果四类证据，公开资源及实际运行条件。",
+      "counterevidence_or_limit": "下载、演示和项目目标不足以证明能力已经形成；缺失结果时改为条件分析。",
+      "open_item_ids": [
+        "O06",
+        "O07"
+      ],
+      "figure_ids": [],
+      "outlook_ids": [],
+      "recommendation_ids": []
+    },
+    {
+      "id": "I09",
+      "group": "C",
+      "title": "基金会作用",
+      "question": "基金会如何支持长期资金、人才与共同治理？",
+      "candidate_claim": "基金会可能连接共享基础设施、长期投入与本地伙伴治理，但需要区分机构安排与实际成效。",
+      "evidence_status": "待检验",
+      "editorial_status": "所属大方向获认可；子项工作表述待章节验证",
+      "chapters": [
+        "3.3",
+        "4.6",
+        "5.3"
+      ],
+      "source_ids": [
+        "S02",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "required_evidence": "治理章程、资金或维护安排、伙伴参与及长期结果。",
+      "counterevidence_or_limit": "托管影响不直接归因基金会；单个项目目标不证明普惠效果。",
+      "open_item_ids": [
+        "O06",
+        "O07"
+      ],
+      "figure_ids": [],
+      "outlook_ids": [],
+      "recommendation_ids": []
+    },
+    {
+      "id": "I10",
+      "group": "D",
+      "title": "产业分工",
+      "question": "企业、科研与社区在不同技术层扮演什么角色？",
+      "candidate_claim": "中国 AI 开源可能体现企业牵引、科研供给和社区接续的多种组合，需按技术层与主体分别识别。",
+      "evidence_status": "待检验",
+      "editorial_status": "所属大方向获认可；子项工作表述待章节验证",
+      "chapters": [
+        "2.5",
+        "3.2",
+        "3.4",
+        "4.1",
+        "4.2",
+        "5.1"
+      ],
+      "source_ids": [
+        "S02"
+      ],
+      "required_evidence": "组织身份、技术分类、持续贡献和跨主体协作。",
+      "counterevidence_or_limit": "仓库归属不等于全部贡献来源；小样本不可推断整体产业份额。",
+      "open_item_ids": [
+        "O02",
+        "O03",
+        "O05"
+      ],
+      "figure_ids": [],
+      "outlook_ids": [],
+      "recommendation_ids": []
+    },
+    {
+      "id": "I11",
+      "group": "D",
+      "title": "人才结构",
+      "question": "参与者、核心贡献者和维护者的结构有何差异？",
+      "candidate_claim": "参与增长与长期维护能力不必同步，应在可验证的贡献角色范围内分析人才结构。",
+      "evidence_status": "待检验",
+      "editorial_status": "所属大方向获认可；子项工作表述待章节验证",
+      "chapters": [
+        "2.4",
+        "3.2",
+        "3.4"
+      ],
+      "source_ids": [
+        "S02"
+      ],
+      "required_evidence": "前 5% 样本细则、角色定义、持续参与及组织关系。",
+      "counterevidence_or_limit": "账号活动不能直接推断职业、学历、迁移或完整技能结构；未知角色单列。",
+      "open_item_ids": [
+        "O01",
+        "O03"
+      ],
+      "figure_ids": [],
+      "outlook_ids": [],
+      "recommendation_ids": []
+    },
+    {
+      "id": "I12",
+      "group": "D",
+      "title": "城市演化",
+      "question": "杭州等节点的成长怎样联系产业定位与跨城协作？",
+      "candidate_claim": "城市的人才增长、组织和模型供给可能呈现不同优势，地方策略应依据各自产业与协作条件。",
+      "evidence_status": "待检验",
+      "editorial_status": "所属大方向获认可；子项工作表述待章节验证",
+      "chapters": [
+        "2.4",
+        "2.5",
+        "3.1",
+        "3.2",
+        "5.1"
+      ],
+      "source_ids": [
+        "S02"
+      ],
+      "required_evidence": "固定十城时序、省级模型样本、城市与组织映射及合作案例。",
+      "counterevidence_or_limit": "浙江不能直接等同杭州；不同窗口不合并，不推断政策因果、产值或人才迁移。",
+      "open_item_ids": [
+        "O01",
+        "O02",
+        "O03"
+      ],
+      "figure_ids": [],
+      "outlook_ids": [],
+      "recommendation_ids": []
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "version": "1.0.0",
+  "registered_on": "2026-11-09",
+  "sources": [
+    {
+      "id": "S01",
+      "type": "report_external_file",
+      "title": "2025 版《全球开源发展报告》中文版",
+      "filename": "全球开源发展报告-中文版-0123-单页版(1).pdf",
+      "pages": 146,
+      "sha256": "1d071dde943361e7def8d60154b56ae35e75acdab79bc3c711910830b838e1fd",
+      "time_class": "historical",
+      "use": "编委会、引言体例与历史参照",
+      "stored_in_repository": false,
+      "verification": "文件身份及前置引用已核对，历史统计不并入本期"
+    },
+    {
+      "id": "S02",
+      "type": "report_external_file",
+      "title": "2026 版第二轮整合母稿 v2.0",
+      "filename": "GOSD_2026_全书_第二轮整合_v2.0_评审稿.pdf",
+      "pages": 173,
+      "sha256": "675c3490c45d5fc4b51ca0c9ae2ddd5bb330abc108f148435d7317c221579a66",
+      "time_class": "mixed_mark_per_unit",
+      "main_window": [
+        "2025-07-01",
+        "2026-06-30"
+      ],
+      "locators": {
+        "global": "31–41",
+        "talent": "50–54",
+        "projects": "108–110",
+        "technology": "119–128",
+        "models": "138–145",
+        "provincial_snapshot": "142；2026-10-17，期后"
+      },
+      "stored_in_repository": false,
+      "verification": "继承母稿各单元核验状态；不视为整书事实认证"
+    },
+    {
+      "id": "S03",
+      "type": "report_external_file",
+      "title": "2026 版引言附件",
+      "filename": "00 引言（Preface）.pdf",
+      "pages": 3,
+      "sha256": "1d51dc66f90a2c2cc34be5042ad7211f2eefb6db4b872d3d1505485905c77ee4",
+      "time_class": "declaration",
+      "stored_in_repository": false,
+      "verification": "正文按给定全文核对；声明主体、机构措辞和首份表述待核"
+    },
+    {
+      "id": "S04",
+      "type": "official_web",
+      "title": "GitHub Octoverse 2026：commits and pushes",
+      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+      "accessed_on": "2026-11-09",
+      "time_class": "external_window",
+      "window": "各年截至 9 月 30 日的 12 个月",
+      "scope": "公开与私有仓库；不是全部开源活动",
+      "verification": "前置稿制作时核对并转录；不并入本期统计",
+      "data_path": "../frontmatter/v0.3/sources/chart-data.json"
+    },
+    {
+      "id": "S05",
+      "type": "official_web",
+      "title": "Hugging Face State of Open Models Summer 2026",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "published_on": "2026-08-14",
+      "accessed_on": "2026-11-09",
+      "time_class": "external_window_with_postperiod",
+      "window": "来源所述 2026 年 1—8 月",
+      "scope": "公共模型、数据集、Spaces 存量及模型派生；不是独立原创产出",
+      "verification": "前置稿制作时核对并转录；不并入本期统计",
+      "data_path": "../frontmatter/v0.3/sources/chart-data.json"
+    },
+    {
+      "id": "S06",
+      "type": "official_policy",
+      "title": "国务院关于深入实施“人工智能+”行动的意见",
+      "document_number": "国发〔2025〕11号",
+      "url": "https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm",
+      "published_on": "2025-08-27",
+      "accessed_on": "2026-11-09",
+      "time_class": "within_main_period_context",
+      "scope": "开源贡献激励、模型工具数据开放及国际合作",
+      "verification": "制度要求，不作为效果证明"
+    },
+    {
+      "id": "S07",
+      "type": "official_project_record",
+      "title": "开放原子开源基金会 xLLM 等项目捐赠记录",
+      "url": "https://openatom.cn/journalism/detail/0uZHDVIiwISV",
+      "published_on": "2026-06-25",
+      "accessed_on": "2026-11-09",
+      "time_class": "within_main_period_context",
+      "scope": "项目接收与孵化培育",
+      "verification": "采用治理事实，不采用未经核验宣传绩效"
+    },
+    {
+      "id": "S08",
+      "type": "official_project_site",
+      "title": "Masakhane",
+      "url": "https://www.masakhane.io/",
+      "accessed_on": "2026-11-09",
+      "time_class": "current_case_background",
+      "scope": "非洲语言开放研究、当地参与和资源共建",
+      "verification": "个案背景，不代表全部全球南方，不并入主期总量"
+    },
+    {
+      "id": "S09",
+      "type": "official_funder_record",
+      "title": "IDRC：Masakhane AI languages hub",
+      "url": "https://idrc-crdi.ca/en/what-we-do/projects-we-support/project/masakhane-ai-languages-hub",
+      "accessed_on": "2026-11-09",
+      "time_class": "current_case_background",
+      "scope": "Masakhane Research Foundation 牵头及项目目标",
+      "verification": "项目目标不视为已实现结果"
+    },
+    {
+      "id": "S10",
+      "type": "repository_baseline",
+      "title": "GOSD 权威研究与视觉基线",
+      "url": "https://github.com/will-ww/2026-GOSD-Report",
+      "research_commit": "fff392e957bab9fb6d89d49dea712af47484efaa",
+      "read_head": "b3f7fd60400d6b46e1c3086b225e5b348a753c47",
+      "time_class": "governance",
+      "verification": "宪法、主张、最新评审及视觉资产本轮已读取"
+    }
+  ]
+}

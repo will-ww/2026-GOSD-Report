@@ -1,0 +1,51 @@
+{
+  "github": {
+    "source": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+    "window": "Each year: 12 months ending September 30; public and private repositories",
+    "years": [
+      2024,
+      2025,
+      2026
+    ],
+    "unit": "billion",
+    "commits": [
+      10.0,
+      12.9,
+      34.3
+    ],
+    "actions_jobs": [
+      8.0,
+      14.0,
+      45.4
+    ],
+    "merged_prs": [
+      0.402,
+      0.538,
+      1.3
+    ]
+  },
+  "huggingface": {
+    "source": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "published": "2026-08-14",
+    "window": "January–August 2026, as reported by source",
+    "public_model_repositories": [
+      2430000,
+      2960000
+    ],
+    "datasets": [
+      711000,
+      1000000
+    ],
+    "spaces": [
+      1000000,
+      1440000
+    ],
+    "qwen_gguf_conversions": 28531,
+    "qwen_official_gguf_conversions": 54,
+    "other_publishers_gguf_conversions_derived": 28477,
+    "qwen_derivative_repositories": 151448
+  },
+  "note": "Primary-source transcriptions, not new GOSD observations. Conceptual diagrams are not data plots.",
+  "v0.2_note": "Executive summary 2 pages. Growth rates are rounded estimates derived from displayed values, not independent source measurements. HF statistics are stocks, not independently original outputs.",
+  "v0.3_note": "Two summary pages. Qwen derivative repositories rounded to 15.1 万 in prose; source count 151448. Leadership refers to this open-model reuse ecosystem, not overall technical leadership."
+}

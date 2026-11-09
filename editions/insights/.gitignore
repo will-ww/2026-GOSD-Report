@@ -1,0 +1,22 @@
+# Review output and local dependencies must stay out of Git.
+.build/
+output/
+qa/
+__pycache__/
+*.pyc
+*.pdf
+*.PDF
+*.ttf
+*.otf
+*.ttc
+*.woff
+*.woff2
+*.zip
+*.7z
+*.tar
+*.gz
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz

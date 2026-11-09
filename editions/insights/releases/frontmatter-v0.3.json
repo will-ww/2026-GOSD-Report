@@ -1,0 +1,54 @@
+{
+  "version": "0.3",
+  "date": "2026-11-09",
+  "pages": 9,
+  "editorial_status": "用户肯定特色与洞察方向，继续迭代",
+  "factual_status": "继承来源核验与未解决事项",
+  "source_dir": "../frontmatter/v0.3",
+  "pdf": {
+    "filename": "GOSD_2026_精要版_前置内容_评审稿_v0.3.pdf",
+    "sha256": "071b0aabeea0800c3e45fbc20375cb0746d89920f6e023d8b003e833c853e9d8",
+    "stored_in_repository": false
+  },
+  "external_source_archive": {
+    "filename": "GOSD_2026_前置内容_v0.3_可编辑源码与评审记录.zip",
+    "sha256": "fb67d72eb5bade3f47db25d85fda5bf7b65361e531e4bfac18f7aac5c30cbdd8",
+    "stored_in_repository": false
+  },
+  "contents": [
+    "封面",
+    "编委会",
+    "目录 2 页",
+    "执行摘要 2 页",
+    "引言 3 页"
+  ],
+  "archive_changes": [
+    "仅调整本地资产构建路径以排除 PDF",
+    "保留原有正文、图件与旧目录",
+    "不重复归档旧版根目录宪法副本"
+  ],
+  "next_revision": [
+    "第六章目录改为 6.1—6.4",
+    "合稿页码联动",
+    "继承 evidence/open-items.md"
+  ],
+  "source_pdf_sha256": "675c3490c45d5fc4b51ca0c9ae2ddd5bb330abc108f148435d7317c221579a66",
+  "source_file_sha256": {
+    "README.md": "d81e9210fe042071b9b304656106a0358ab6f36b98449a667f75c58fcbce4f60",
+    "build.sh": "1f9d65c1a59beb860834912be34baee59301b6a54426ac09ad1a454d75bb0636",
+    "build_figures.py": "a0d14170d4985f63821f40c6fa108e9c59d9e3d873c082b27ab1dce48d74b35c",
+    "content/declaration2026-1.tex": "9b380522db3c7e22dd785c962f6c5ce5cd3b21de7372a58a30d4b7f128d0b15e",
+    "content/declaration2026-2.tex": "53a56356aaedf7ce924575a6f201d834635a048f1b3c4e95cbd8dfb48554c51e",
+    "content/declaration2026-3.tex": "3755a2731e4d8754a5cdc18482f9d6499ce4845d103593450b1eda169d0c2617",
+    "figures/features.tex": "58ea07ffaff2f00968f376f443ac0c3fe2b585669340b890d6f041f522223e88",
+    "figures/growth.tex": "e0880b12976505f626a3d56b738bb8501c3985618d4fc0698a74892d138af364",
+    "figures/insights.tex": "bda573e702118e015d7d484421625583feb13539fa24aa0a52451e8c1c77207c",
+    "frontmatter.tex": "6a7f6e47aa1449769c4cce554246628f4b7bc38405d247ab58e972f1ca8d15cf",
+    "layout.sty": "113fbc1e7bbb65f0a72c5341554ba5958fe1dc2a549cbcc5a85855fc2fdf9b94",
+    "prepare_assets.py": "39c44f3a41ad02ac9134f16d2f9a01c4581eb5aca8fa78d681f860b000b5137c",
+    "revised-content.tex": "ddaa41341430b501507598231d53c36ef1a57f8c10d1139bc4fc6a8f011d56cd",
+    "sources/chart-data.json": "1fb4f98b09f61fc1539006d0ac00fbd816c472e70463a110514724e9d1254207",
+    "sources/declaration-2026-verbatim.txt": "8b570b68c5cc46e927abec19641ae02213479a311f10d25e5a81d48c2f3faa81",
+    "sources/summary-content.json": "50a953d2951a8556f0405860a926cfcae523866c113e395520b61b9bdfc277dc"
+  }
+}

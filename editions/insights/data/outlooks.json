@@ -1,0 +1,207 @@
+{
+  "version": "1.0.0",
+  "title": "十大趋势判断与前瞻",
+  "allocation_status": "编辑槽位，不是已完成预测",
+  "items": [
+    {
+      "id": "T01",
+      "status": "未撰写",
+      "horizon": "short",
+      "horizon_allocation": "暂定，可依证据调整",
+      "title": null,
+      "judgment": null,
+      "publication_date": null,
+      "window": {
+        "anchor": "actual_publication_date",
+        "min_months": 6,
+        "max_months": 12,
+        "scenario_year": null
+      },
+      "insight_ids": [],
+      "source_ids": [],
+      "observable_signals": [],
+      "revision_conditions": [],
+      "uncertainty": null
+    },
+    {
+      "id": "T02",
+      "status": "未撰写",
+      "horizon": "short",
+      "horizon_allocation": "暂定，可依证据调整",
+      "title": null,
+      "judgment": null,
+      "publication_date": null,
+      "window": {
+        "anchor": "actual_publication_date",
+        "min_months": 6,
+        "max_months": 12,
+        "scenario_year": null
+      },
+      "insight_ids": [],
+      "source_ids": [],
+      "observable_signals": [],
+      "revision_conditions": [],
+      "uncertainty": null
+    },
+    {
+      "id": "T03",
+      "status": "未撰写",
+      "horizon": "short",
+      "horizon_allocation": "暂定，可依证据调整",
+      "title": null,
+      "judgment": null,
+      "publication_date": null,
+      "window": {
+        "anchor": "actual_publication_date",
+        "min_months": 6,
+        "max_months": 12,
+        "scenario_year": null
+      },
+      "insight_ids": [],
+      "source_ids": [],
+      "observable_signals": [],
+      "revision_conditions": [],
+      "uncertainty": null
+    },
+    {
+      "id": "T04",
+      "status": "未撰写",
+      "horizon": "short",
+      "horizon_allocation": "暂定，可依证据调整",
+      "title": null,
+      "judgment": null,
+      "publication_date": null,
+      "window": {
+        "anchor": "actual_publication_date",
+        "min_months": 6,
+        "max_months": 12,
+        "scenario_year": null
+      },
+      "insight_ids": [],
+      "source_ids": [],
+      "observable_signals": [],
+      "revision_conditions": [],
+      "uncertainty": null
+    },
+    {
+      "id": "T05",
+      "status": "未撰写",
+      "horizon": "short",
+      "horizon_allocation": "暂定，可依证据调整",
+      "title": null,
+      "judgment": null,
+      "publication_date": null,
+      "window": {
+        "anchor": "actual_publication_date",
+        "min_months": 6,
+        "max_months": 12,
+        "scenario_year": null
+      },
+      "insight_ids": [],
+      "source_ids": [],
+      "observable_signals": [],
+      "revision_conditions": [],
+      "uncertainty": null
+    },
+    {
+      "id": "T06",
+      "status": "未撰写",
+      "horizon": "short",
+      "horizon_allocation": "暂定，可依证据调整",
+      "title": null,
+      "judgment": null,
+      "publication_date": null,
+      "window": {
+        "anchor": "actual_publication_date",
+        "min_months": 6,
+        "max_months": 12,
+        "scenario_year": null
+      },
+      "insight_ids": [],
+      "source_ids": [],
+      "observable_signals": [],
+      "revision_conditions": [],
+      "uncertainty": null
+    },
+    {
+      "id": "T07",
+      "status": "未撰写",
+      "horizon": "medium",
+      "horizon_allocation": "暂定，可依证据调整",
+      "title": null,
+      "judgment": null,
+      "publication_date": null,
+      "window": {
+        "anchor": "actual_publication_date",
+        "min_months": 12,
+        "max_months": 36,
+        "scenario_year": null
+      },
+      "insight_ids": [],
+      "source_ids": [],
+      "observable_signals": [],
+      "revision_conditions": [],
+      "uncertainty": null
+    },
+    {
+      "id": "T08",
+      "status": "未撰写",
+      "horizon": "medium",
+      "horizon_allocation": "暂定，可依证据调整",
+      "title": null,
+      "judgment": null,
+      "publication_date": null,
+      "window": {
+        "anchor": "actual_publication_date",
+        "min_months": 12,
+        "max_months": 36,
+        "scenario_year": null
+      },
+      "insight_ids": [],
+      "source_ids": [],
+      "observable_signals": [],
+      "revision_conditions": [],
+      "uncertainty": null
+    },
+    {
+      "id": "T09",
+      "status": "未撰写",
+      "horizon": "medium",
+      "horizon_allocation": "暂定，可依证据调整",
+      "title": null,
+      "judgment": null,
+      "publication_date": null,
+      "window": {
+        "anchor": "actual_publication_date",
+        "min_months": 12,
+        "max_months": 36,
+        "scenario_year": null
+      },
+      "insight_ids": [],
+      "source_ids": [],
+      "observable_signals": [],
+      "revision_conditions": [],
+      "uncertainty": null
+    },
+    {
+      "id": "T10",
+      "status": "未撰写",
+      "horizon": "scenario_2030",
+      "horizon_allocation": "暂定，可依证据调整",
+      "title": null,
+      "judgment": null,
+      "publication_date": null,
+      "window": {
+        "anchor": "actual_publication_date",
+        "min_months": null,
+        "max_months": null,
+        "scenario_year": 2030
+      },
+      "insight_ids": [],
+      "source_ids": [],
+      "observable_signals": [],
+      "revision_conditions": [],
+      "uncertainty": null
+    }
+  ]
+}

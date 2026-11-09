@@ -1,0 +1,236 @@
+{
+  "version": "1.0.0",
+  "note": "登记现有材料入口，不表示十二项主张已验证；前置稿来源核对日期 2026-11-09。",
+  "records": [
+    {
+      "insight_id": "I01",
+      "source_ids": [
+        "S02"
+      ],
+      "available_evidence": "来源入口及前置稿概括已归档；母稿实证继承原核验状态。",
+      "source_locators": [
+        "S02：31—41 页、50—54 页、138—145 页，依问题选取，窗口各自注明。"
+      ],
+      "required_next": "同窗口的规模、增长与影响数据；历史地理快照、未知比例及可比样本。",
+      "open_item_ids": [
+        "O01",
+        "O03"
+      ],
+      "status": "待检验",
+      "verified_figure_ids": [],
+      "last_registered_on": "2026-11-09"
+    },
+    {
+      "insight_id": "I02",
+      "source_ids": [
+        "S02"
+      ],
+      "available_evidence": "来源入口及前置稿概括已归档；母稿实证继承原核验状态。",
+      "source_locators": [
+        "S02：31—41 页、50—54 页、138—145 页，依问题选取，窗口各自注明。"
+      ],
+      "required_next": "跨对象身份与关系映射、跨层协作证据、可追溯案例。",
+      "open_item_ids": [
+        "O03",
+        "O05"
+      ],
+      "status": "待检验",
+      "verified_figure_ids": [],
+      "last_registered_on": "2026-11-09"
+    },
+    {
+      "insight_id": "I03",
+      "source_ids": [
+        "S02",
+        "S05"
+      ],
+      "available_evidence": "来源入口及前置稿概括已归档；母稿实证继承原核验状态。",
+      "source_locators": [
+        "S02：31—41 页、50—54 页、138—145 页，依问题选取，窗口各自注明。"
+      ],
+      "required_next": "派生、依赖、贡献及维护记录，主体和地区映射。",
+      "open_item_ids": [
+        "O03",
+        "O04",
+        "O05"
+      ],
+      "status": "待检验",
+      "verified_figure_ids": [],
+      "last_registered_on": "2026-11-09"
+    },
+    {
+      "insight_id": "I04",
+      "source_ids": [
+        "S02",
+        "S05"
+      ],
+      "available_evidence": "来源入口及前置稿概括已归档；母稿实证继承原核验状态。",
+      "source_locators": [
+        "具体材料与时间见 sources.json；正式图文单元另补图号及精确页段。"
+      ],
+      "required_next": "模型家族边界、派生计数、跨境主体与同口径比较。",
+      "open_item_ids": [
+        "O02",
+        "O04"
+      ],
+      "status": "待检验",
+      "verified_figure_ids": [],
+      "last_registered_on": "2026-11-09"
+    },
+    {
+      "insight_id": "I05",
+      "source_ids": [
+        "S02",
+        "S05"
+      ],
+      "available_evidence": "来源入口及前置稿概括已归档；母稿实证继承原核验状态。",
+      "source_locators": [
+        "具体材料与时间见 sources.json；正式图文单元另补图号及精确页段。"
+      ],
+      "required_next": "版本化分类、项目轨迹、依赖与维护证据。",
+      "open_item_ids": [
+        "O04",
+        "O05"
+      ],
+      "status": "待检验",
+      "verified_figure_ids": [],
+      "last_registered_on": "2026-11-09"
+    },
+    {
+      "insight_id": "I06",
+      "source_ids": [
+        "S02",
+        "S06",
+        "S07"
+      ],
+      "available_evidence": "来源入口及前置稿概括已归档；母稿实证继承原核验状态。",
+      "source_locators": [
+        "具体材料与时间见 sources.json；正式图文单元另补图号及精确页段。"
+      ],
+      "required_next": "制度文本、项目接收与治理实践、接口和共同维护记录。",
+      "open_item_ids": [
+        "O03",
+        "O06"
+      ],
+      "status": "待检验",
+      "verified_figure_ids": [],
+      "last_registered_on": "2026-11-09"
+    },
+    {
+      "insight_id": "I07",
+      "source_ids": [
+        "S02",
+        "S08",
+        "S09"
+      ],
+      "available_evidence": "来源入口及前置稿概括已归档；母稿实证继承原核验状态。",
+      "source_locators": [
+        "具体材料与时间见 sources.json；正式图文单元另补图号及精确页段。"
+      ],
+      "required_next": "多个地区的实际参与记录、当地伙伴资料和跨境协作路径。",
+      "open_item_ids": [
+        "O07"
+      ],
+      "status": "待检验",
+      "verified_figure_ids": [],
+      "last_registered_on": "2026-11-09"
+    },
+    {
+      "insight_id": "I08",
+      "source_ids": [
+        "S02",
+        "S08",
+        "S09"
+      ],
+      "available_evidence": "来源入口及前置稿概括已归档；母稿实证继承原核验状态。",
+      "source_locators": [
+        "具体材料与时间见 sources.json；正式图文单元另补图号及精确页段。"
+      ],
+      "required_next": "成本、本地化、维护与结果四类证据，公开资源及实际运行条件。",
+      "open_item_ids": [
+        "O06",
+        "O07"
+      ],
+      "status": "待检验",
+      "verified_figure_ids": [],
+      "last_registered_on": "2026-11-09"
+    },
+    {
+      "insight_id": "I09",
+      "source_ids": [
+        "S02",
+        "S07",
+        "S08",
+        "S09"
+      ],
+      "available_evidence": "来源入口及前置稿概括已归档；母稿实证继承原核验状态。",
+      "source_locators": [
+        "具体材料与时间见 sources.json；正式图文单元另补图号及精确页段。"
+      ],
+      "required_next": "治理章程、资金或维护安排、伙伴参与及长期结果。",
+      "open_item_ids": [
+        "O06",
+        "O07"
+      ],
+      "status": "待检验",
+      "verified_figure_ids": [],
+      "last_registered_on": "2026-11-09"
+    },
+    {
+      "insight_id": "I10",
+      "source_ids": [
+        "S02"
+      ],
+      "available_evidence": "来源入口及前置稿概括已归档；母稿实证继承原核验状态。",
+      "source_locators": [
+        "S02：31—41 页、50—54 页、138—145 页，依问题选取，窗口各自注明。"
+      ],
+      "required_next": "组织身份、技术分类、持续贡献和跨主体协作。",
+      "open_item_ids": [
+        "O02",
+        "O03",
+        "O05"
+      ],
+      "status": "待检验",
+      "verified_figure_ids": [],
+      "last_registered_on": "2026-11-09"
+    },
+    {
+      "insight_id": "I11",
+      "source_ids": [
+        "S02"
+      ],
+      "available_evidence": "来源入口及前置稿概括已归档；母稿实证继承原核验状态。",
+      "source_locators": [
+        "S02：31—41 页、50—54 页、138—145 页，依问题选取，窗口各自注明。"
+      ],
+      "required_next": "前 5% 样本细则、角色定义、持续参与及组织关系。",
+      "open_item_ids": [
+        "O01",
+        "O03"
+      ],
+      "status": "待检验",
+      "verified_figure_ids": [],
+      "last_registered_on": "2026-11-09"
+    },
+    {
+      "insight_id": "I12",
+      "source_ids": [
+        "S02"
+      ],
+      "available_evidence": "来源入口及前置稿概括已归档；母稿实证继承原核验状态。",
+      "source_locators": [
+        "S02：31—41 页、50—54 页、138—145 页，依问题选取，窗口各自注明。"
+      ],
+      "required_next": "固定十城时序、省级模型样本、城市与组织映射及合作案例。",
+      "open_item_ids": [
+        "O01",
+        "O02",
+        "O03"
+      ],
+      "status": "待检验",
+      "verified_figure_ids": [],
+      "last_registered_on": "2026-11-09"
+    }
+  ]
+}

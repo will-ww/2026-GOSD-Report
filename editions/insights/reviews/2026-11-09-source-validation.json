@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-09",
+  "scope": "前置 v0.3 源码归档复建；不等于事实核验",
+  "comparison_reference_sha256": "071b0aabeea0800c3e45fbc20375cb0746d89920f6e023d8b003e833c853e9d8",
+  "pages": 9,
+  "all_page_text_identical": true,
+  "all_page_pixels_identical_at_108dpi": true,
+  "all_link_targets_identical": true,
+  "all_fonts_embedded": true,
+  "tex_warnings": [],
+  "canonical_header_svg_matches_original_except_trailing_newline": true,
+  "brand_validation": "PASS: 131 exact approved SVGs; ten node identities; four-pillar/ten-dimension registry",
+  "runtime": {
+    "pymupdf": "1.26.6",
+    "xelatex": "XeTeX 3.141592653-2.6-0.999996 (TeX Live 2025/dev/Debian)",
+    "inkscape": "Inkscape 1.4 (e7c3feb100, 2024-10-09)"
+  },
+  "pdf_stored_in_repository": false,
+  "source_guard": "本次提交前运行 scripts/check_sources.py；不作未来自动通过的保证"
+}
