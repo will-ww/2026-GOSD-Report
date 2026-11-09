@@ -7,9 +7,9 @@
   "repository_base_commit": "b3f7fd60400d6b46e1c3086b225e5b348a753c47",
   "brand_version": "2.0.0",
   "brand_application_version": "0.6.0",
-  "frontmatter_version": "0.3",
-  "frontmatter_source": "frontmatter/v0.3",
-  "frontmatter_editorial_status": "方向获认可，事实核查逐项继承",
+  "frontmatter_version": "0.4",
+  "frontmatter_source": "frontmatter/v0.4",
+  "frontmatter_editorial_status": "视觉强化稿，待作者 PDF 评审",
   "target_pages_approx": 100,
   "main_window": {
     "start": "2025-07-01",
@@ -17,16 +17,23 @@
   },
   "publication_date": null,
   "external_evidence_cutoff": null,
-  "review": "reviews/2026-11-09-baseline.md",
-  "new_chapter6_in_archived_frontmatter": false,
+  "review": "reviews/2026-11-09-visual-strengthening.md",
+  "new_chapter6_in_archived_frontmatter": true,
   "pdf_in_repository": false,
   "chapter1_review": {
-    "version": "0.2",
-    "source": "chapters/01/v0.2",
+    "version": "0.3",
+    "source": "chapters/01/v0.3",
     "status": "待作者 PDF 评审",
-    "pages": 8,
+    "pages": 10,
     "narrative": "AI 重塑开源，开源塑造 AI",
     "updated_on": "2026-11-09",
-    "previous_source": "chapters/01/v0.1"
+    "previous_source": "chapters/01/v0.2"
+  },
+  "review_pack": {
+    "version": "0.4",
+    "pages": 20,
+    "frontmatter_pages": 10,
+    "chapter1_pages": 10,
+    "pdf_in_repository": false
   }
 }

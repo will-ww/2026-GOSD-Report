@@ -1,0 +1,96 @@
+{
+  "github": {
+    "source": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+    "window": "Each year: 12 months ending September 30; public and private repositories",
+    "years": [
+      2024,
+      2025,
+      2026
+    ],
+    "unit": "billion",
+    "commits": [
+      10.0,
+      12.9,
+      34.3
+    ],
+    "actions_jobs": [
+      8.0,
+      14.0,
+      45.4
+    ],
+    "merged_prs": [
+      0.402,
+      0.538,
+      1.3
+    ],
+    "agent_assisted_pr_start_share": {
+      "value": 0.4,
+      "comparison": "greater_than",
+      "window": "2026-09",
+      "source_statement": "developers start more than 40% of pull requests with an agent",
+      "scope": "来源所述指标；不改称全部开源 PR，不作为 AI 因果贡献率。"
+    }
+  },
+  "huggingface": {
+    "source": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "published": "2026-08-14",
+    "window": "January–August 2026, as reported by source",
+    "public_model_repositories": [
+      2430000,
+      2960000
+    ],
+    "datasets": [
+      711000,
+      1000000
+    ],
+    "spaces": [
+      1000000,
+      1440000
+    ],
+    "qwen_gguf_conversions": 28531,
+    "qwen_official_gguf_conversions": 54,
+    "other_publishers_gguf_conversions_derived": 28477,
+    "qwen_derivative_repositories": 151448,
+    "window_note": "导言称 2026 年 1—8 月；方法说明以前七个月为主，8 月补充新发布。逐指标窗口分别标注，存量快照具体日期未列明。",
+    "non_official_gguf_share_derived": 0.9981073218604325
+  },
+  "note": "Primary-source transcriptions, not new GOSD observations. Conceptual diagrams are not data plots.",
+  "comparison_status": "官方外部参照，不并入 GOSD 主统计期，不据活动增长估计 AI 因果效应。",
+  "chapter1_note": "第一章 v0.3：Qwen 与 DeepSeek 并列展示不同观测维度，不构成同指标排行榜；NVIDIA 案例的箭头仅表示已披露的合成数据利用。",
+  "deepseek": {
+    "atom": {
+      "source": "https://arxiv.org/html/2604.07190v1",
+      "published": "2026-04-08",
+      "version": "v1",
+      "tracked_large_model_download_share": 0.47,
+      "large_model_scope": "论文图 12；追踪的总参数 250B+ 开放权重生成语言模型，累计下载，不含全部 AI 模型，也非全球份额。",
+      "openrouter_token_share": 0.311,
+      "openrouter_label": "2026-01",
+      "openrouter_scope": "论文图 9 和方法 §2.1：每月前十开放模型样本，按 token 使用排序；月份标签沿用原文，累计序列首日/前月末约定不能伪装月末值。",
+      "status": "研究方报告值；本轮核对论文，未复算底层观测；不采用论文争议总量。"
+    },
+    "nvidia": {
+      "source": "https://developer.nvidia.com/blog/build-custom-reasoning-models-with-advanced-open-post-training-datasets/",
+      "published": "2025-05-14",
+      "r1_generated_samples": 1212994,
+      "display_wan": 121.3,
+      "locator": "Table 2. Source models and sample sizes",
+      "scope": "NVIDIA 披露 Llama-Nemotron 后训练数据中由 DeepSeek-R1 生成的样本；不是独立问题数、训练词元数、权重继承关系或性能贡献比例。",
+      "time_class": "历史背景，早于 GOSD 主统计期"
+    },
+    "infra": {
+      "source": "https://github.com/deepseek-ai/open-infra-index",
+      "event_start": "2025-02-24",
+      "examples": [
+        "FlashMLA",
+        "DeepEP",
+        "DeepGEMM",
+        "DualPipe",
+        "3FS"
+      ],
+      "scope": "代表组件，不声称完整开放全部训练系统；不把最初五天公告等同实际仓库总数。",
+      "time_class": "历史背景"
+    },
+    "retrieved_on": "2026-11-09"
+  }
+}

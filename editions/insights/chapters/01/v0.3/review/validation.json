@@ -1,0 +1,45 @@
+{
+  "review_pack": "0.4",
+  "frontmatter": "0.4",
+  "chapter1": "0.3",
+  "date": "2026-11-09",
+  "pages": 10,
+  "pdf_sha256": "7c71a7ecabc716d9ce946bb6458d5f66a2257c1833c593a8e0175c96ef59a0c0",
+  "pdf_bytes": 1079383,
+  "fonts_embedded": true,
+  "cjk_source": "Noto CJK SC selected from TTC index 2, verified name before extraction",
+  "text_bounds_violations": [],
+  "overlapping_text_blocks": [],
+  "bookmarks": [
+    [
+      1,
+      "第一章 从开放协作到公共价值",
+      1
+    ],
+    [
+      2,
+      "1.1　人工智能时代的开源协作：双向重塑",
+      2
+    ],
+    [
+      2,
+      "1.2　开源发展目标：从开放资源到公共能力",
+      4
+    ],
+    [
+      2,
+      "1.3　观察方法：跨平台的全球开源全景",
+      7
+    ]
+  ],
+  "external_links": 12,
+  "internal_links": 0,
+  "main_window_present": false,
+  "candidate_status_present": true,
+  "svg_exports": 4,
+  "pdf_in_repository": false,
+  "automated_check_passed": true,
+  "visual_review": "Rendered all 20 pages; contact-sheet and key-page inspection; final changed pages rechecked.",
+  "version": "0.3",
+  "validation_scope": "10-page chapter; see edition review record for 20-page merged pack"
+}

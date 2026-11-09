@@ -161,6 +161,26 @@
       "verification": "本轮核对原始正文；边界见第一章 v0.2 证据记录",
       "data_path": "../chapters/01/v0.2/sources/chart-data.json",
       "event_start": "2025-02-24"
+    },
+    {
+      "id": "S14",
+      "type": "official_web",
+      "title": "联合国可持续发展目标：17 SDGs",
+      "url": "https://sdgs.un.org/goals",
+      "accessed_on": "2026-11-09",
+      "time_class": "framework_background",
+      "verification": "官方目标名称核对；不属于本报告原创框架，不提供联合国背书"
+    },
+    {
+      "id": "S15",
+      "type": "official_standard",
+      "title": "DPGA Digital Public Goods Standard",
+      "url": "https://www.digitalpublicgoods.net/standard",
+      "accessed_on": "2026-11-09",
+      "time_class": "current_standard_background",
+      "scope": "九项指标；第九项含 9A、9B、9C；评审核心方案而非本地实施结果",
+      "licence": "CC BY-SA 4.0",
+      "verification": "官方当前页面已核对；中文简述与改绘；不视为主统计期末版本冻结"
     }
   ]
 }

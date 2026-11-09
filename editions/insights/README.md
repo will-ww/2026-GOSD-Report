@@ -1,6 +1,6 @@
 # 2026 全球开源发展报告·精要版
 
-管理基线 v1.0 · 2026-11-09；前置稿 v0.3 · 9 页。正式发布日期尚未确定。
+管理基线 v1.0 · 2026-11-09；前置稿 v0.4 · 10 页；第一章 v0.3 · 10 页。正式发布日期尚未确定。
 
 本目录独立管理约 100 页精要版的研究、编辑、证据和评审，以 2025 版与 2026 版为核心材料，形成贯穿全书的人工智能时代叙事。首要读者是政府与国际组织决策者，兼顾产业、基金会、研究机构与社区。
 
@@ -17,9 +17,9 @@
 | 十大趋势判断与前瞻 | [outlook-method.md](outlook-method.md) | 时间分层已采纳；具体十条尚未定稿 |
 | 十大战略建议 | [recommendations-method.md](recommendations-method.md) | 结构已采纳；具体十条尚未定稿 |
 | 材料、证据与缺口 | [材料清单](evidence/README.md) · [证据台账](evidence/ledger.json) · [待核查项](evidence/open-items.md) | 继承原核验状态，不因归档自动升级 |
-| 本轮决策与版本 | [评审记录](reviews/2026-11-09-baseline.md) · [版本指针](current.json) | 管理 v1.0 与内容 v0.3 分开编号 |
-| 前置内容可编辑源码 | [frontmatter/v0.3](frontmatter/v0.3/README.md) | 原 9 页快照；PDF 在仓库外保存 |
-| 第一章精要稿 | [chapters/01/v0.2](chapters/01/v0.2/README.md) | 8 页，新增 DeepSeek 与全球接续；待作者 PDF 评审 |
+| 本轮决策与版本 | [评审记录](reviews/2026-11-09-baseline.md) · [版本指针](current.json) | 管理基线与内容版本分开编号 |
+| 前置内容可编辑源码 | [frontmatter/v0.4](frontmatter/v0.4/README.md) | 宣言视觉强化 10 页；PDF 在仓库外保存 |
+| 第一章精要稿 | [chapters/01/v0.3](chapters/01/v0.3/README.md) | 10 页，新增 SDGs/DPG 与 OSDI，强化 OSDGs；待作者 PDF 评审 |
 
 ## 当前边界
 
@@ -46,3 +46,5 @@ git diff --check
 本次归档不等于对外正式发布，不自动更新 Web。
 
 第一章 v0.2 按用户认可方案补充 DeepSeek，保留 [v0.1 历史快照](chapters/01/v0.1/README.md)。新增数据和后续章节安排见 [v0.2 证据记录](chapters/01/v0.2/review/evidence.md)。
+
+本轮最新为[视觉强化评审稿](reviews/2026-11-09-visual-strengthening.md)：前置 v0.4 与第一章 v0.3，共 20 页。目录、当前页码、四张矢量图和术语解释已联动。旧版本说明保留为历史，不代表当前目录。
