@@ -1,0 +1,30 @@
+{
+  "version": "0.4",
+  "date": "2026-11-09",
+  "status": "待作者 PDF 评审",
+  "pages_target": 8,
+  "content_baseline": "2026 版为准，2025 版为历史参照",
+  "narrative": "AI 重塑开源，开源塑造 AI",
+  "sections": [
+    "1.1 人工智能时代的开源协作：双向重塑",
+    "1.2 开源发展目标：从开放资源到公共能力",
+    "1.3 观察方法：跨平台的全球开源全景"
+  ],
+  "main_window": [
+    "2025-07-01",
+    "2026-06-30"
+  ],
+  "sources_preserved": true,
+  "pdf_in_repository": false,
+  "based_on": "0.3",
+  "modified_pages": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "change": "SDGs/DPG/公共能力合页；OSDI/六类对象合页；重设计 OSDGs、复用、观察尺度与四视角信息图。"
+}

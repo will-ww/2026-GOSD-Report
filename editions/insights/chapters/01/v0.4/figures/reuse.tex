@@ -1,0 +1,38 @@
+\shade[left color=blue!10,right color=blue!2,rounded corners=2mm,draw=blue!17,line width=.45pt] \Pos{22}{99} rectangle \Pos{102}{163};
+\path[fill=blue!9] \Pos{50.8}{163} .. controls \Pos{76.4}{162} and \Pos{82.8}{158} .. \Pos{101}{159} -- \Pos{101}{162} -- \Pos{50.8}{163} -- cycle;
+\Box{26}{103}{72}{\sffamily\bfseries\fontsize{10.3}{15}\selectfont\color{blue}Qwen｜广泛的社区派生}
+\shade[left color=teal!10,right color=teal!2,rounded corners=2mm,draw=teal!17,line width=.45pt] \Pos{108}{99} rectangle \Pos{188}{163};
+\path[fill=teal!9] \Pos{136.8}{163} .. controls \Pos{162.4}{162} and \Pos{168.8}{158} .. \Pos{187}{159} -- \Pos{187}{162} -- \Pos{136.8}{163} -- cycle;
+\Box{112}{103}{72}{\sffamily\bfseries\fontsize{10.3}{15}\selectfont\color{teal}DeepSeek｜大型模型与推理使用}
+\Box{26}{115}{72}{\sffamily\bfseries\fontsize{24}{28}\selectfont\color{blue}151,448}
+\Box{26}{129}{72}{\sffamily\fontsize{9}{13}\selectfont\color{navy}HF 报告记录的社区衍生仓库}
+\Box{26}{141}{72}{\sffamily\fontsize{8.4}{12}\selectfont\color{muted}GGUF 是便于本地运行的模型文件格式。}
+\Box{26}{149}{72}{\sffamily\fontsize{8.4}{12}\selectfont\color{muted}28,531 个转换中，官方发布 54 个；约 99.8\% 来自其他账号。}
+\Box{112}{116}{34}{\sffamily\bfseries\fontsize{23}{28}\selectfont\color{teal}47\%}
+\Box{151}{116}{33}{\sffamily\bfseries\fontsize{23}{28}\selectfont\color{teal}31.1\%}
+\Box{112}{129}{34}{\sffamily\fontsize{8.5}{12}\selectfont\color{navy}所追踪模型下载份额}
+\Box{151}{129}{33}{\sffamily\fontsize{8.5}{12}\selectfont\color{navy}所选样本词元份额}
+\Box{112}{141}{72}{\sffamily\fontsize{8.4}{12}\selectfont\color{muted}总参数 2500 亿及以上模型；}
+\Box{112}{149}{72}{\sffamily\fontsize{8.4}{12}\selectfont\color{muted}OpenRouter 模型调用平台的前十开放模型样本。}
+\Box{22}{169}{166}{\sffamily\bfseries\fontsize{10.5}{15}\selectfont\color{navy}从模型输出，到开放数据，再到后续模型}
+\draw[teal!50,line width=1pt,-{Stealth[length=1.4mm]}] \Pos{53}{196} .. controls \Pos{61}{193} and \Pos{64}{199} .. \Pos{72}{196};
+\draw[gold!50,line width=1pt,-{Stealth[length=1.4mm]}] \Pos{137}{196} .. controls \Pos{145}{193} and \Pos{149}{199} .. \Pos{157}{196};
+\fill[blue!5] \Pos{41}{196} circle[radius=11.2mm];
+\shade[top color=white,bottom color=blue!28,shading angle=30,draw=blue!35,line width=.45pt] \Pos{41}{196} circle[radius=10mm];
+\draw[white,line width=.7pt] \Pos{35.2}{190.2} arc[start angle=135,end angle=65,radius=8.2mm];
+\Box{35.8}{190.8}{10.4}{\sffamily\fontsize{9.5}{14}\selectfont\color{ink}\includegraphics[width=10.4mm]{.build/assets/D04.pdf}}
+\Box{22}{209}{39}{\sffamily\bfseries\fontsize{9.8}{13}\selectfont\color{blue}\centering DeepSeek-R1}
+\shade[left color=teal!10,right color=teal!2,rounded corners=2mm,draw=teal!17,line width=.45pt] \Pos{75}{181} rectangle \Pos{137}{217};
+\path[fill=teal!9] \Pos{97.32}{217} .. controls \Pos{117.16}{216} and \Pos{122.12}{212} .. \Pos{136}{213} -- \Pos{136}{216} -- \Pos{97.32}{217} -- cycle;
+\Box{79}{184}{54}{\sffamily\bfseries\fontsize{9.1}{13}\selectfont\color{teal}NVIDIA 开放后训练数据}
+\Box{79}{194}{54}{\sffamily\bfseries\fontsize{19}{23}\selectfont\color{teal}121.3 万条}
+\Box{79}{207}{54}{\sffamily\fontsize{7.7}{11}\selectfont\color{muted}明确列为 R1 生成的样本}
+\fill[gold!5] \Pos{169}{196} circle[radius=11.2mm];
+\shade[top color=white,bottom color=gold!28,shading angle=30,draw=gold!35,line width=.45pt] \Pos{169}{196} circle[radius=10mm];
+\draw[white,line width=.7pt] \Pos{163.2}{190.2} arc[start angle=135,end angle=65,radius=8.2mm];
+\Box{163.8}{190.8}{10.4}{\sffamily\fontsize{9.5}{14}\selectfont\color{ink}\includegraphics[width=10.4mm]{.build/assets/D04.pdf}}
+\Box{148}{209}{42}{\sffamily\bfseries\fontsize{8.7}{12}\selectfont\color{gold}\centering Llama-Nemotron}
+\Box{22}{220}{166}{\sffamily\bfseries\fontsize{8.8}{13}\selectfont\color{navy}图 1-2　派生、使用与数据接续，共同揭示开放影响}
+\Box{22}{227}{166}{\sffamily\fontsize{7.8}{11}\selectfont\color{muted}后训练指基础训练之后的能力调整；样本复用不等于模型参数继承，也不代表性能贡献比例。}
+\Box{22}{238}{166}{\sffamily\bfseries\fontsize{9.5}{14}\selectfont\color{teal}开放继续延伸至基础设施}
+\Box{22}{245}{166}{\sffamily\fontsize{8.7}{12}\selectfont\color{ink}DeepSeek 开放计算内核、通信、并行训练与存储组件，为模型之外的体系协作提供基础。}
