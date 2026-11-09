@@ -42,11 +42,13 @@
       "insight_id": "I03",
       "source_ids": [
         "S02",
-        "S05"
+        "S05",
+        "S12"
       ],
-      "available_evidence": "来源入口及前置稿概括已归档；母稿实证继承原核验状态。",
+      "available_evidence": "来源入口及前置稿概括已归档；母稿实证继承原核验状态。 新增 NVIDIA 使用 R1 输出生成后训练数据的明确披露；长期维护仍需核验。",
       "source_locators": [
-        "S02：31—41 页、50—54 页、138—145 页，依问题选取，窗口各自注明。"
+        "S02：31—41 页、50—54 页、138—145 页，依问题选取，窗口各自注明。",
+        "第一章 v0.2 第 3 页图 1-2；chapters/01/v0.2/review/evidence.md"
       ],
       "required_next": "派生、依赖、贡献及维护记录，主体和地区映射。",
       "open_item_ids": [
@@ -62,11 +64,14 @@
       "insight_id": "I04",
       "source_ids": [
         "S02",
-        "S05"
+        "S05",
+        "S11",
+        "S12"
       ],
-      "available_evidence": "来源入口及前置稿概括已归档；母稿实证继承原核验状态。",
+      "available_evidence": "来源入口及前置稿概括已归档；母稿实证继承原核验状态。 新增 DeepSeek 特定样本下载/词元份额与跨境数据利用；不代表全球份额。",
       "source_locators": [
-        "具体材料与时间见 sources.json；正式图文单元另补图号及精确页段。"
+        "具体材料与时间见 sources.json；正式图文单元另补图号及精确页段。",
+        "第一章 v0.2 第 3 页图 1-2；chapters/01/v0.2/review/evidence.md"
       ],
       "required_next": "模型家族边界、派生计数、跨境主体与同口径比较。",
       "open_item_ids": [
@@ -81,11 +86,13 @@
       "insight_id": "I05",
       "source_ids": [
         "S02",
-        "S05"
+        "S05",
+        "S13"
       ],
-      "available_evidence": "来源入口及前置稿概括已归档；母稿实证继承原核验状态。",
+      "available_evidence": "来源入口及前置稿概括已归档；母稿实证继承原核验状态。 新增 DeepSeek 多层基础设施开放记录；实际使用、成本与成效仍待验证。",
       "source_locators": [
-        "具体材料与时间见 sources.json；正式图文单元另补图号及精确页段。"
+        "具体材料与时间见 sources.json；正式图文单元另补图号及精确页段。",
+        "第一章 v0.2 第 3 页图 1-2；chapters/01/v0.2/review/evidence.md"
       ],
       "required_next": "版本化分类、项目轨迹、依赖与维护证据。",
       "open_item_ids": [

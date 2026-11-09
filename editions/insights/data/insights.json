@@ -95,7 +95,8 @@
       ],
       "source_ids": [
         "S02",
-        "S05"
+        "S05",
+        "S12"
       ],
       "required_evidence": "派生、依赖、贡献及维护记录，主体和地区映射。",
       "counterevidence_or_limit": "不能把声明边当作完整训练过程或独立贡献；缺失维护证据时不推断持续能力。",
@@ -113,7 +114,7 @@
       "group": "B",
       "title": "模型优势",
       "question": "中国模型在哪些开放复用维度形成领先位置？",
-      "candidate_claim": "以 Qwen 为代表的中国模型在来源所覆盖的开放模型复用网络中具有突出位置；具体领先维度须进一步比较。",
+      "candidate_claim": "Qwen 与 DeepSeek 等中国模型在来源所覆盖的派生复用、大型模型使用等不同维度具有突出位置；具体领先维度须进一步比较。",
       "evidence_status": "待检验",
       "editorial_status": "所属大方向获认可；子项工作表述待章节验证",
       "chapters": [
@@ -123,7 +124,9 @@
       ],
       "source_ids": [
         "S02",
-        "S05"
+        "S05",
+        "S11",
+        "S12"
       ],
       "required_evidence": "模型家族边界、派生计数、跨境主体与同口径比较。",
       "counterevidence_or_limit": "量化转换、重复仓库和窗口变化可能改变排序；不外推为全部 AI 技术领先。",
@@ -151,7 +154,8 @@
       ],
       "source_ids": [
         "S02",
-        "S05"
+        "S05",
+        "S13"
       ],
       "required_evidence": "版本化分类、项目轨迹、依赖与维护证据。",
       "counterevidence_or_limit": "单个项目热度或模型份额不能证明完整技术栈成熟；分类变化需重算。",

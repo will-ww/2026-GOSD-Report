@@ -19,7 +19,7 @@
 | 材料、证据与缺口 | [材料清单](evidence/README.md) · [证据台账](evidence/ledger.json) · [待核查项](evidence/open-items.md) | 继承原核验状态，不因归档自动升级 |
 | 本轮决策与版本 | [评审记录](reviews/2026-11-09-baseline.md) · [版本指针](current.json) | 管理 v1.0 与内容 v0.3 分开编号 |
 | 前置内容可编辑源码 | [frontmatter/v0.3](frontmatter/v0.3/README.md) | 原 9 页快照；PDF 在仓库外保存 |
-| 第一章精要稿 | [chapters/01/v0.1](chapters/01/v0.1/README.md) | 8 页，AI 与开源双向叙事；待作者 PDF 评审 |
+| 第一章精要稿 | [chapters/01/v0.2](chapters/01/v0.2/README.md) | 8 页，新增 DeepSeek 与全球接续；待作者 PDF 评审 |
 
 ## 当前边界
 
@@ -44,3 +44,5 @@ git diff --check
 ~~~
 
 本次归档不等于对外正式发布，不自动更新 Web。
+
+第一章 v0.2 按用户认可方案补充 DeepSeek，保留 [v0.1 历史快照](chapters/01/v0.1/README.md)。新增数据和后续章节安排见 [v0.2 证据记录](chapters/01/v0.2/review/evidence.md)。

@@ -21,10 +21,12 @@
   "new_chapter6_in_archived_frontmatter": false,
   "pdf_in_repository": false,
   "chapter1_review": {
-    "version": "0.1",
-    "source": "chapters/01/v0.1",
+    "version": "0.2",
+    "source": "chapters/01/v0.2",
     "status": "待作者 PDF 评审",
     "pages": 8,
-    "narrative": "AI 重塑开源，开源塑造 AI"
+    "narrative": "AI 重塑开源，开源塑造 AI",
+    "updated_on": "2026-11-09",
+    "previous_source": "chapters/01/v0.1"
   }
 }

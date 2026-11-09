@@ -125,6 +125,42 @@
       "read_head": "b3f7fd60400d6b46e1c3086b225e5b348a753c47",
       "time_class": "governance",
       "verification": "宪法、主张、最新评审及视觉资产本轮已读取"
+    },
+    {
+      "id": "S11",
+      "type": "research_paper",
+      "title": "The ATOM Report v1",
+      "url": "https://arxiv.org/html/2604.07190v1",
+      "published_on": "2026-04-08",
+      "accessed_on": "2026-11-09",
+      "time_class": "external_window",
+      "scope": "图 9、12 与 §2.1；特定开放权重模型及 OpenRouter 前十样本；报告值未复算",
+      "verification": "本轮核对原始正文；边界见第一章 v0.2 证据记录",
+      "data_path": "../chapters/01/v0.2/sources/chart-data.json"
+    },
+    {
+      "id": "S12",
+      "type": "official_implementation_disclosure",
+      "title": "NVIDIA Llama-Nemotron 后训练数据说明",
+      "url": "https://developer.nvidia.com/blog/build-custom-reasoning-models-with-advanced-open-post-training-datasets/",
+      "published_on": "2025-05-14",
+      "accessed_on": "2026-11-09",
+      "time_class": "historical",
+      "scope": "表 2 R1 生成样本 1,212,994 条及后续模型；非性能归因",
+      "verification": "本轮核对原始正文；边界见第一章 v0.2 证据记录",
+      "data_path": "../chapters/01/v0.2/sources/chart-data.json"
+    },
+    {
+      "id": "S13",
+      "type": "official_repository",
+      "title": "DeepSeek Open Infra",
+      "url": "https://github.com/deepseek-ai/open-infra-index",
+      "accessed_on": "2026-11-09",
+      "time_class": "historical",
+      "scope": "202502 开源周；代表组件与技术层次，不代表完整系统和实施效果",
+      "verification": "本轮核对原始正文；边界见第一章 v0.2 证据记录",
+      "data_path": "../chapters/01/v0.2/sources/chart-data.json",
+      "event_start": "2025-02-24"
     }
   ]
 }
