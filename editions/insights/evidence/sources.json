@@ -57,8 +57,13 @@
       "time_class": "external_window",
       "window": "各年截至 9 月 30 日的 12 个月",
       "scope": "公开与私有仓库；不是全部开源活动",
-      "verification": "前置稿制作时核对并转录；不并入本期统计",
-      "data_path": "../frontmatter/v0.3/sources/chart-data.json"
+      "verification": "2026-11-09 核对官方正文 Developers are reshaping their workflow；新增比例转录，非净因果估计",
+      "data_path": "../frontmatter/v0.3/sources/chart-data.json",
+      "metric_windows": {
+        "agent_pr_share": "2026-03：17%；2026-09：超过40%，后者为期后观察",
+        "copilot_agentic_mau_share": "来源所述年度比较：35%→55%；总体为 Copilot 月活用户，不是全部 GitHub 用户"
+      },
+      "additional_data_path": "../chapters/01/v0.5/sources/chart-data.json"
     },
     {
       "id": "S05",
@@ -181,6 +186,26 @@
       "scope": "九项指标；第九项含 9A、9B、9C；评审核心方案而非本地实施结果",
       "licence": "CC BY-SA 4.0",
       "verification": "官方当前页面已核对；中文简述与改绘；不视为主统计期末版本冻结"
+    },
+    {
+      "id": "S16",
+      "type": "user_supplied_reference",
+      "title": "OSDGs 指标体系与从洞察到共建：两张用户补充图",
+      "received_on": "2026-11-09",
+      "files": [
+        {
+          "filename": "image(20261109-083724).png",
+          "sha256": "f3c7a08073a01e20aa79c0928297c89298692935e4c09111afe6299902d83497"
+        },
+        {
+          "filename": "image(20261109-083746).png",
+          "sha256": "383fc60eacfe8bc5df9e69d3d884b8d0452c985a92c72e9c5f7c66cd046052c1"
+        }
+      ],
+      "stored_in_repository": false,
+      "scope": "4 目标、10 方向、29 指标及用途，与获批第一章逐项核对；SDG 目标关联仅来自补充图",
+      "verification": "名称与用途核对通过；不引入联合国或 AI for Good 背书；操作定义与 SDG 关联继续核验",
+      "data_path": "../chapters/01/v0.5/sources/osdi-catalogue.json"
     }
   ]
 }

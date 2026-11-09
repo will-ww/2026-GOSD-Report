@@ -4,12 +4,12 @@
   "management_version": "1.0.0",
   "registered_on": "2026-11-09",
   "research_baseline_commit": "fff392e957bab9fb6d89d49dea712af47484efaa",
-  "repository_base_commit": "2e92bfcf5b5e3d161f9cdbb51a0365860e0506ea",
+  "repository_base_commit": "3fcf93a9a0757a1e0b80b14544cad1ccfd0ac019",
   "brand_version": "2.0.0",
   "brand_application_version": "0.6.0",
-  "frontmatter_version": "0.5",
-  "frontmatter_source": "frontmatter/v0.5",
-  "frontmatter_editorial_status": "紧凑信息图重设计，待作者 PDF 评审",
+  "frontmatter_version": "0.6",
+  "frontmatter_source": "frontmatter/v0.6",
+  "frontmatter_editorial_status": "可读性与内容深化，待作者 PDF 评审",
   "target_pages_approx": 100,
   "main_window": {
     "start": "2025-07-01",
@@ -17,23 +17,24 @@
   },
   "publication_date": null,
   "external_evidence_cutoff": null,
-  "review": "reviews/2026-11-09-compact-infographics.md",
+  "review": "reviews/2026-11-09-readable-content.md",
   "new_chapter6_in_archived_frontmatter": true,
   "pdf_in_repository": false,
   "chapter1_review": {
-    "version": "0.4",
-    "source": "chapters/01/v0.4",
+    "version": "0.5",
+    "source": "chapters/01/v0.5",
     "status": "待作者 PDF 评审",
-    "pages": 8,
+    "pages": 11,
     "narrative": "AI 重塑开源，开源塑造 AI",
     "updated_on": "2026-11-09",
-    "previous_source": "chapters/01/v0.3"
+    "previous_source": "chapters/01/v0.4"
   },
   "review_pack": {
-    "version": "0.5",
-    "pages": 17,
+    "version": "0.6",
+    "pages": 20,
     "frontmatter_pages": 9,
-    "chapter1_pages": 8,
+    "chapter1_pages": 11,
     "pdf_in_repository": false
-  }
+  },
+  "archive_parent_commit": "83fdffc35ec0d96a8d149b5f42f633d69c061be1"
 }

@@ -1,0 +1,84 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{layout}
+\begin{document}
+
+% 01 — Original 2026 cover; only OSDGs labels replaced with GOSD.
+\begin{canvas}
+\pdfbookmark[0]{封面}{cover}
+\node[anchor=north west,inner sep=0pt,outer sep=0pt] at (current page.north west){\includegraphics[width=210mm,height=297mm]{.build/assets/cover2026-gosd.pdf}};
+\end{canvas}
+
+% 02 — Editorial board. Visual reading order preserved from the 2025 source.
+\begin{canvas}
+\pdfbookmark[0]{编委会}{board}
+\Header{编委会}{teal}\Footer{02}
+\Kicker{teal}{EDITORIAL BOARD}\Title{编委会}
+\Subhead{72}{teal}{主编}\Rule{43}{77}{188}{line}
+\Box{22}{85}{166}{\sffamily\fontsize{12}{20}\selectfont 王\quad 伟\hspace{13mm}李建忠}
+\Subhead{108}{teal}{联合主席}\Rule{49}{113}{188}{line}
+\Box{22}{121}{166}{\sffamily\fontsize{12}{20}\selectfont 王建民\hspace{13mm}张延川}
+\Subhead{144}{teal}{副主席}\Rule{47}{149}{188}{line}
+\Box{22}{157}{166}{\sffamily\fontsize{11}{19}\selectfont 陈\quad 钟\hspace{6mm}胡春明\hspace{6mm}黄\quad 韬\hspace{6mm}高\quad 跃\hspace{6mm}堵俊平\hspace{6mm}蒋\quad 涛}
+\Subhead{181}{teal}{编委}\Rule{43}{186}{188}{line}
+\Box{22}{196}{166}{\sffamily\fontsize{9.8}{21.5}\selectfont\setlength{\tabcolsep}{0pt}\begin{tabular*}{166mm}{@{\extracolsep{\fill}}llllllllll@{}}
+吴发国&崔鹤鸣&于仕琪&周明辉&胡\ 钰&黄向东&王\ 博&余\ 跃&彭煜玮&陈\ 阳\\
+顾\ 荣&金耀辉&游\ 兰&王\ 莹&张宇霞&何海洋&杨丽蕴&张俊霞&郭\ 雪&任旭东\\
+许哲平&姜\ 宁&边思康&马红伟&郭\ 炜&谭中意&林旅强&江\ 波&陈\ 阳&陈\ 绪\\
+贾\ 开&郑宏威&竺彩华&刘\ 广&隆云滔&乔嘉林&吴咏炜&瞿晶晶&于晓轶&邹\ 慧\\
+夏小雅&赵生宇&武剑凌&方心雨&王\ 哲&汤文泰&董\ 超&彭佳恒&张\ 震&李沫南
+\end{tabular*}}
+\Source{263}{编委会沿用 2025 版，职务、名单及排列顺序按原版保留。}
+\end{canvas}
+
+% 03 — Contents I
+\begin{canvas}
+\pdfbookmark[0]{目录}{contents}
+\Header{目录 · 上}{blue}\Footer{03}
+\Kicker{blue}{CONTENTS / 01}\Title{目录}
+\Box{22}{64}{166}{\sffamily\fontsize{10}{16}\selectfont\hyperlink{board.0}{编委会\quad 02}\hfill\hyperlink{summary}{执行摘要\quad 05}\hfill\hyperlink{intro}{引言：开源共创智能未来\quad 07}}
+\Chapter{86}{01}{teal}{从开放协作到公共价值\hfill{\fontsize{10}{12}\selectfont 10}}
+\Tocline{100}{1.1}{人工智能时代的开源协作：双向重塑\hfill 11}
+\Tocline{108}{1.2}{开源发展目标：从开放资源到公共能力\hfill 14}
+\Tocline{116}{1.3}{观察方法：跨平台的全球开源全景\hfill 16}
+\Chapter{134}{02}{blue}{全球开源生态观测地图}
+\Tocline{148}{2.1}{全球开源活跃地图}
+\Tocline{156}{2.2}{全球开源贡献地图}
+\Tocline{164}{2.3}{全球开源项目影响力地图}
+\Tocline{172}{2.4}{全球开源人才地图}
+\Tocline{180}{2.5}{全球开源资产地图}
+\Tocline{188}{2.6}{全球开源多样性地图}
+\Tocline{196}{2.7}{全球开源治理与社会公益地图}
+\Chapter{207}{03}{gold}{全球开源影响力排行榜}
+\Tocline{221}{3.1}{全球行政区划影响力排行榜}
+\Tocline{229}{3.2}{全球开源企业影响力排行榜}
+\Tocline{237}{3.3}{全球开源基金会影响力排行榜}
+\Tocline{245}{3.4}{全球开源项目影响力排行榜}
+\Tocline{253}{3.5}{全球新势力开源仓库与项目排行榜}
+\Tocline{261}{3.6}{全球开源模型影响力排行榜}
+\end{canvas}
+
+% 04 — Contents II
+\begin{canvas}
+\Header{目录 · 下}{blue}\Footer{04}
+\Kicker{blue}{CONTENTS / 02}\Title{由生态格局，走向共同能力}
+\Chapter{68}{04}{teal}{全球开源技术全景洞察}
+\Tocline{82}{4.1}{Agentic AI 全景洞察}
+\Tocline{90}{4.2}{AI 大模型全景洞察}
+\Tocline{98}{4.3}{云基础设施全景洞察}
+\Tocline{106}{4.4}{数据库系统全景洞察}
+\Tocline{114}{4.5}{RISC-V 全景洞察}
+\Tocline{122}{4.6}{PyTorch 生态观察样本}
+\Chapter{140}{05}{gold}{全球开源大模型发展洞察}
+\Tocline{154}{5.1}{供给与贡献}
+\Tocline{162}{5.2}{网络与影响力}
+\Tocline{170}{5.3}{开放条件与分级}
+\Chapter{188}{06}{violet}{未来展望与行动建议}
+\Tocline{202}{6.1}{十二项关键洞察}
+\Tocline{210}{6.2}{十大趋势判断与前瞻}
+\Tocline{218}{6.3}{十大战略建议}
+\Tocline{226}{6.4}{结语：开源共创智能未来}
+\Box{22}{251}{166}{\sffamily\fontsize{10.2}{15}\selectfont\textbf{附录 A}\quad 指标体系与数据来源\hfill\textbf{致谢}}
+\Source{265}{本次评审：前置内容 01—09 页，第一章 10—20 页；后续章节页码在合稿时生成。}
+\end{canvas}
+
+\input{revised-content.tex}
