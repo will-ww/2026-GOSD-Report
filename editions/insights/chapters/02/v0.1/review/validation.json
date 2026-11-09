@@ -1,0 +1,32 @@
+{
+  "version": "0.1",
+  "pages": 3,
+  "formal_pages": 2,
+  "feedback_pages": 1,
+  "a4_portrait": true,
+  "fonts_all_embedded": true,
+  "data_recomputed": true,
+  "source_links": 2,
+  "latex_warnings": [],
+  "toc": [
+    [
+      1,
+      "第二章 2.1 全球开源活跃地图",
+      1
+    ],
+    [
+      2,
+      "规模与增幅不同序",
+      2
+    ],
+    [
+      1,
+      "摘要与第六章联动建议（待评审）",
+      3
+    ]
+  ],
+  "pdf_sha256": "ed114eb6999f44ec22fa39094ca73bf37eda283e1e32971bf8db55d9d69ed6ce",
+  "figure_label_geometry": "three SVGs: no out-of-bounds or text-overlap candidates",
+  "visual_status": "已逐页检查最终3页渲染：地图、标签、两组刻度、正文、来源、页眉页脚均无可见裁切或重叠",
+  "review_status": "待作者 PDF 评审"
+}

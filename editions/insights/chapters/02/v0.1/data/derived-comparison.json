@@ -1,0 +1,37 @@
+[
+  {
+    "group": "欧洲",
+    "active_2022": 3703500,
+    "active_2026": 6753891,
+    "multiple": 1.8236508707978938,
+    "cumulative_growth_pct": 82.36508707978938
+  },
+  {
+    "group": "美国",
+    "active_2022": 2524250,
+    "active_2026": 4651526,
+    "multiple": 1.8427358621372685,
+    "cumulative_growth_pct": 84.27358621372684
+  },
+  {
+    "group": "中国",
+    "active_2022": 2377929,
+    "active_2026": 4545340,
+    "multiple": 1.9114700228644337,
+    "cumulative_growth_pct": 91.14700228644337
+  },
+  {
+    "group": "南方六国代表组",
+    "active_2022": 1346000,
+    "active_2026": 3004584,
+    "multiple": 2.2322317979197623,
+    "cumulative_growth_pct": 123.22317979197624
+  },
+  {
+    "group": "印度",
+    "active_2022": 1259000,
+    "active_2026": 2723577,
+    "multiple": 2.163285941223193,
+    "cumulative_growth_pct": 116.32859412231929
+  }
+]

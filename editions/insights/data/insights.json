@@ -38,17 +38,27 @@
         "3.1"
       ],
       "source_ids": [
-        "S02"
+        "S02",
+        "S17"
       ],
       "required_evidence": "同窗口的规模、增长与影响数据；历史地理快照、未知比例及可比样本。",
       "counterevidence_or_limit": "若控制覆盖与指标版本后差异消失，应收窄地域结构判断。",
       "open_item_ids": [
         "O01",
-        "O03"
+        "O03",
+        "O13"
       ],
-      "figure_ids": [],
+      "figure_ids": [
+        "INS-2-2"
+      ],
       "outlook_ids": [],
-      "recommendation_ids": []
+      "recommendation_ids": [],
+      "partial_evidence": {
+        "source": "chapters/02/v0.1/review/evidence.md",
+        "scope": "组内参与规模与累计增幅不同序",
+        "verification": "原值及运算复核；上游覆盖执行记录未独立核完",
+        "editorial_status": "2.1样节待作者PDF评审"
+      }
     },
     {
       "id": "I02",
@@ -214,16 +224,26 @@
       "source_ids": [
         "S02",
         "S08",
-        "S09"
+        "S09",
+        "S17"
       ],
       "required_evidence": "多个地区的实际参与记录、当地伙伴资料和跨境协作路径。",
       "counterevidence_or_limit": "单一非洲语言案例不能代表全球南方；缺少比较时保留为个案。",
       "open_item_ids": [
-        "O07"
+        "O07",
+        "O13"
       ],
-      "figure_ids": [],
+      "figure_ids": [
+        "INS-2-2"
+      ],
       "outlook_ids": [],
-      "recommendation_ids": []
+      "recommendation_ids": [],
+      "partial_evidence": {
+        "source": "chapters/02/v0.1/review/evidence.md",
+        "scope": "南方六国代表组的参与规模扩大，只是参与路径的背景",
+        "verification": "原值及运算复核；上游覆盖执行记录未独立核完",
+        "editorial_status": "2.1样节待作者PDF评审"
+      }
     },
     {
       "id": "I08",

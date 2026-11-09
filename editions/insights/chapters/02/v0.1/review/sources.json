@@ -1,0 +1,70 @@
+{
+  "version": "0.1",
+  "checked_on": "2026-11-09",
+  "archive_commit": "2213819ad32f47ab12e4cccd83ff6691786d8d16",
+  "primary_commit": "c51e3441361407b68f10b339d97eff288319b503",
+  "main_window": [
+    "2025-07-01",
+    "2026-06-30"
+  ],
+  "records": [
+    {
+      "path": "data/five_groups_active_trend.csv",
+      "archive_path": "reports/round2-v2.0/source/chapters/02/modules/02/data/21/five_groups_active_trend.csv",
+      "sha256": "4afa1746472acb74221dd8885d5034695288f04f1636b7465e84ed42961f091e",
+      "status": "逐字节一致"
+    },
+    {
+      "path": "data/five_groups_current.csv",
+      "archive_path": "reports/round2-v2.0/source/chapters/02/modules/02/data/21/five_groups_current.csv",
+      "sha256": "102182a31bdff43cd4bc4695855232831e7f1ca1585c612bb85a35c68fdedc73",
+      "status": "逐字节一致"
+    },
+    {
+      "path": "data/global_2026_top10.csv",
+      "archive_path": "reports/round2-v2.0/source/chapters/02/modules/02/data/21/global_2026_top10.csv",
+      "sha256": "cfce2b8e62bbe8c677008048eb228f0cf3abb25a020b98ccfd15ef070a81850e",
+      "status": "逐字节一致"
+    },
+    {
+      "path": "data/global_active_excerpt.csv",
+      "archive_path": "reports/round2-v2.0/source/chapters/02/modules/02/data/21/global_active_excerpt.csv",
+      "sha256": "2bfd4e7b4173a637f98635dfaa24e9144158430da184fd032aa7907338d803ae",
+      "status": "逐字节一致"
+    }
+  ],
+  "sources": [
+    {
+      "id": "2-1a",
+      "title": "全球地理记录与报告年度说明",
+      "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/vmap/source/README.md",
+      "read_on": "2026-11-09",
+      "scope": "GitHub地理记录；历史2022—2026，7月至次年6月；与五域汇总不同"
+    },
+    {
+      "id": "2-1b",
+      "title": "五域开发者活跃序列",
+      "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-1-3_five_region_active_developers_trend.csv",
+      "read_on": "2026-11-09",
+      "scope": "五个固定比较组；非世界完整分区；覆盖与地理表不同",
+      "verification": "原英文字段和归档中文字段，5组×5年数值逐项一致；当前规模与增长重算"
+    },
+    {
+      "id": "map-geometry",
+      "title": "归档世界图与地图说明",
+      "path": "reports/round2-v2.0/source/chapters/02/modules/02/figures/21/world_map.svg",
+      "metadata": "reports/round2-v2.0/source/chapters/02/modules/02/data/21/maps/README.md",
+      "license_record": "Natural Earth public domain，继承归档；正式出版边界复核待完成"
+    }
+  ],
+  "display_precision": {
+    "fig-2-1": "万人显示两位截断，按来源约定；原值保留",
+    "fig-2-2": "万人显示两位四舍五入，增幅一位四舍五入，按原值计算"
+  },
+  "pending": [
+    "活跃操作定义及识别、机器人与身份去重执行",
+    "五组平台覆盖、欧洲成员范围、历年可比性执行记录",
+    "地理未知比例与地图出版复核"
+  ],
+  "scope_limit": "数值与运算核对不构成上游识别完全独立复核；无模拟数据、无跨口径拼接。"
+}

@@ -36,5 +36,16 @@
     "chapter1_pages": 11,
     "pdf_in_repository": false
   },
-  "archive_parent_commit": "83fdffc35ec0d96a8d149b5f42f633d69c061be1"
+  "archive_parent_commit": "83fdffc35ec0d96a8d149b5f42f633d69c061be1",
+  "chapter2_review": {
+    "version": "0.1",
+    "source": "chapters/02/v0.1",
+    "status": "2.1样节待作者PDF评审",
+    "formal_pages": 2,
+    "feedback_pages": 1,
+    "scope": "全球参与地图与五组规模增长；摘要及第六章联动建议",
+    "updated_on": "2026-11-09",
+    "plan": "chapters/02/plan.md",
+    "pdf_in_repository": false
+  }
 }

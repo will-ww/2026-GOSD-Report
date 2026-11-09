@@ -206,6 +206,24 @@
       "scope": "4 目标、10 方向、29 指标及用途，与获批第一章逐项核对；SDG 目标关联仅来自补充图",
       "verification": "名称与用途核对通过；不引入联合国或 AI for Good 背书；操作定义与 SDG 关联继续核验",
       "data_path": "../chapters/01/v0.5/sources/osdi-catalogue.json"
+    },
+    {
+      "id": "S17",
+      "type": "versioned_repository_data",
+      "title": "第二章2.1全球地理归档与五域历史序列",
+      "time_class": "main_period_and_matched_historical",
+      "main_window": [
+        "2025-07-01",
+        "2026-06-30"
+      ],
+      "repository_commit": "2213819ad32f47ab12e4cccd83ff6691786d8d16",
+      "primary_commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "locators": [
+        "chapters/02/v0.1/review/sources.json",
+        "chapters/02/v0.1/review/evidence.md"
+      ],
+      "verification": "数值、派生运算和图件核对；覆盖与识别执行记录仍待核查",
+      "stored_in_repository": true
     }
   ]
 }
