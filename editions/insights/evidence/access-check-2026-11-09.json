@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-11-09",
+  "purpose": "按作者要求复测 OpenDigger Skill 与数据库访问",
+  "database": "opensource",
+  "server_version": "25.3.6.1",
+  "authentication": "successful",
+  "credential_in_record": false,
+  "operations": "SELECT, SHOW DATABASES, SHOW TABLES, SHOW GRANTS；无数据库写入",
+  "skill_urls": [
+    "https://github.com/X-lab2017/open-digger/blob/master/skills/open-digger-data-retrieval/SKILL.md",
+    "https://github.com/X-lab2017/open-digger/blob/master/skills/open-digger-clickhouse-schema/SKILL.md",
+    "https://github.com/X-lab2017/open-digger/blob/master/skills/open-digger-clickhouse-schema/events-table-reference.md"
+  ],
+  "public_metrics": {
+    "url": "https://oss.open-digger.cn/github/X-lab2017/open-digger/openrank.json",
+    "status": 200,
+    "monthly_keys": 73,
+    "latest_month": "2026-09",
+    "latest_value": 1.33
+  },
+  "select_granted_tables": [
+    "community_openrank", "flatten_labels", "gh_repo_info", "global_openrank",
+    "labels", "name_info", "normalized_community_openrank"
+  ],
+  "denied_table_probes": [
+    {"sql": "SELECT 1 FROM opensource.events LIMIT 0", "code": 497, "reason": "ACCESS_DENIED: SELECT privilege required"},
+    {"sql": "SELECT 1 FROM opensource.user_info LIMIT 0", "code": 497, "reason": "ACCESS_DENIED: SELECT privilege required"}
+  ],
+  "openrank_read": {
+    "platform": "GitHub",
+    "repo_id": 288431943,
+    "repo_name": "X-lab2017/open-digger",
+    "window": ["2025-07-01", "2026-07-01"],
+    "end_exclusive": true,
+    "monthly_rows": 12,
+    "first_month": 202507,
+    "first_value": 4.2408047,
+    "last_month": 202606,
+    "last_value": 7.2092156
+  },
+  "normalized_contribution_read": {
+    "sql": "SELECT count() AS rows, uniqExact(actor_id) AS developer_accounts, sum(openrank) AS contribution_total FROM opensource.normalized_community_openrank WHERE repo_id=288431943 AND platform='GitHub' AND yyyymm=202606 SETTINGS max_execution_time=15, max_rows_to_read=1000000",
+    "rows": 4,
+    "developer_accounts": 4,
+    "contribution_total": 7.111157059669495,
+    "meaning": "仅为连接与读取样本，不代表原始事件活跃人数"
+  },
+  "labels_probe": {
+    "status": "query_succeeded_no_matching_rows",
+    "filter": "id IN (':divisions/China', ':divisions/India', ':divisions/United_States')",
+    "interpretation": "示例标签未匹配；须核对实际标签，不能解释为国家数据为零"
+  },
+  "report_data_status": "未替换第二章 v0.2 的归档数据；连接验收不等于报告数值核验"
+}
