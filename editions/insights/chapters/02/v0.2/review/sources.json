@@ -1,0 +1,84 @@
+{
+  "version": "0.2",
+  "checked_on": "2026-11-09",
+  "archive_commit": "2213819ad32f47ab12e4cccd83ff6691786d8d16",
+  "working_commit": "b5c6591789f1d94177b3ba3b61bc479360fe27a2",
+  "primary_commit": "c51e3441361407b68f10b339d97eff288319b503",
+  "main_window": [
+    "2025-07-01",
+    "2026-06-30"
+  ],
+  "records": [
+    {
+      "path": "data/china_provinces_with_change.csv",
+      "archive_path": "reports/round2-v2.0/source/chapters/02/modules/02/data/21/china_provinces_with_change.csv",
+      "sha256": "72fd2a760c921d6186aab50b3b1c73edf70a6dd7b94419e57001ec2a4f37b54c",
+      "status": "逐字节保留；五域中国修订另存 scenarios.json"
+    },
+    {
+      "path": "data/five_groups_active_trend.csv",
+      "archive_path": "reports/round2-v2.0/source/chapters/02/modules/02/data/21/five_groups_active_trend.csv",
+      "sha256": "4afa1746472acb74221dd8885d5034695288f04f1636b7465e84ed42961f091e",
+      "status": "逐字节保留；五域中国修订另存 scenarios.json"
+    },
+    {
+      "path": "data/global_2026_top10.csv",
+      "archive_path": "reports/round2-v2.0/source/chapters/02/modules/02/data/21/global_2026_top10.csv",
+      "sha256": "cfce2b8e62bbe8c677008048eb228f0cf3abb25a020b98ccfd15ef070a81850e",
+      "status": "逐字节保留；五域中国修订另存 scenarios.json"
+    },
+    {
+      "path": "data/global_report_year_trend.csv",
+      "archive_path": "reports/round2-v2.0/source/chapters/02/modules/02/data/21/global_report_year_trend.csv",
+      "sha256": "c36c0d6e22aaeb35cedc8b269515e46d31069a799f12bedf39bbf48d132fe042",
+      "status": "逐字节保留；五域中国修订另存 scenarios.json"
+    },
+    {
+      "path": "data/top20_display.csv",
+      "archive_path": "reports/round2-v2.0/source/chapters/02/modules/02/data/21/top20_display.csv",
+      "sha256": "855eddd14e8f74d5c0b9d642d4817bb2bcb55b196150a37c67ae095419dc9765",
+      "status": "逐字节保留；五域中国修订另存 scenarios.json"
+    }
+  ],
+  "external_sources": [
+    {
+      "title": "OpenDigger 公开指标 Skill",
+      "url": "https://github.com/X-lab2017/open-digger/blob/master/skills/open-digger-data-retrieval/SKILL.md",
+      "role": "定义核对，非本轮人数查询"
+    },
+    {
+      "title": "OpenDigger ClickHouse 表结构 Skill",
+      "url": "https://github.com/X-lab2017/open-digger/blob/master/skills/open-digger-clickhouse-schema/SKILL.md",
+      "role": "使用入口；本轮连接超时，无查询结果"
+    },
+    {
+      "title": "Forecasting: Principles and Practice，第3版，第6.5节",
+      "url": "https://otexts.com/fpp3/scenarios.html",
+      "role": "条件情景的概念参考；本报告的0.8并非来源拟合参数"
+    },
+    {
+      "title": "原版中国省级图",
+      "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/vmap/print/fig-2-1-3_china.svg",
+      "role": "36要素绘图几何；等比缩放并重着色，无边界编辑",
+      "provider": "OpenShare / GeoJSON.CN 1.6.3",
+      "publication_map_review": "待核查"
+    }
+  ],
+  "author_correction": {
+    "received_on": "2026-11-09",
+    "field": "五域中国2026活跃规模",
+    "old_10k": 454.534,
+    "new_10k": 350,
+    "approximate": true,
+    "prior_years_unchanged": true,
+    "github_map_unchanged": true
+  },
+  "china_local_platforms": {
+    "value_10k_approx": 120,
+    "source": "编制组旧稿与作者附件2",
+    "not_added_to_github": true,
+    "relationship_to_five_groups": "待核定"
+  },
+  "display_precision": "本版统一四舍五入；运算和排序使用未舍入值",
+  "map_geometry": "世界继承归档Natural Earth Equal Earth；中国继承原版OpenShare/GeoJSON.CN；正式出版与使用条件待复核"
+}

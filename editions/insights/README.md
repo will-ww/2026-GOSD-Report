@@ -20,7 +20,7 @@
 | 本轮决策与版本 | [评审记录](reviews/2026-11-09-baseline.md) · [版本指针](current.json) | 管理基线与内容版本分开编号 |
 | 前置内容可编辑源码 | [frontmatter/v0.6](frontmatter/v0.6/README.md) | 宣言总览嵌入引言，9 页；PDF 在仓库外保存 |
 | 第一章精要稿 | [chapters/01/v0.5](chapters/01/v0.5/README.md) | 11 页，标题层级、指标目录与生态解释；待作者 PDF 评审 |
-| 第二章精选计划与首节样稿 | [计划 v0.2](chapters/02/plan.md) · [2.1 样节 v0.1](chapters/02/v0.1/README.md) | 2 页正文＋1 页摘要／第六章联动建议；待作者 PDF 评审 |
+| 第二章精选计划与首节样稿 | [计划 v0.2](chapters/02/plan.md) · [2.1 样节 v0.2](chapters/02/v0.2/README.md) | 3 幅组合图文＋附录 1 两页，含 2030 条件情景；待作者 PDF 评审 |
 
 ## 当前边界
 

@@ -220,10 +220,44 @@
       "primary_commit": "c51e3441361407b68f10b339d97eff288319b503",
       "locators": [
         "chapters/02/v0.1/review/sources.json",
-        "chapters/02/v0.1/review/evidence.md"
+        "chapters/02/v0.1/review/evidence.md",
+        "chapters/02/v0.2/review/sources.json",
+        "chapters/02/v0.2/review/evidence.md"
       ],
       "verification": "数值、派生运算和图件核对；覆盖与识别执行记录仍待核查",
       "stored_in_repository": true
+    },
+    {
+      "id": "S18",
+      "type": "official_repository_documentation",
+      "title": "OpenDigger 开放指标与 ClickHouse 表结构两份 Skill",
+      "url": "https://github.com/X-lab2017/open-digger/tree/master/skills",
+      "accessed_on": "2026-11-09",
+      "time_class": "method_definition",
+      "verification": "两份说明已阅读；定义核对，不表示旧数据处理执行核验完成",
+      "locators": [
+        "evidence/opendigger-access.md"
+      ]
+    },
+    {
+      "id": "S19",
+      "type": "author_correction",
+      "title": "五域中国2026约350万更正与三幅组合主图修订要求",
+      "received_on": "2026-11-09",
+      "time_class": "main_period_correction",
+      "scope": "只覆盖五域2026中国单点；历史、GitHub地图及旧本土补充分别保留",
+      "verification": "按作者更正重算，覆盖与跨平台关系待核定",
+      "data_path": "../chapters/02/v0.2/data/scenarios.json"
+    },
+    {
+      "id": "S20",
+      "type": "primary_method_reference",
+      "title": "Hyndman与Athanasopoulos：Forecasting: Principles and Practice，第3版§6.5",
+      "url": "https://otexts.com/fpp3/scenarios.html",
+      "accessed_on": "2026-11-09",
+      "time_class": "method_background",
+      "scope": "条件情景概念；0.8为编制组假设，不是该来源模型估计",
+      "verification": "公开原文已核对"
     }
   ]
 }

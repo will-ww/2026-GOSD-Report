@@ -1,0 +1,38 @@
+\documentclass[11pt]{article}\usepackage{layout}\begin{document}
+\begin{canvas}\Header{附录 1 · 指标与数据}{teal}\Footer{A1}\Kicker{teal}{附录 1}\Title{怎样读懂这些人数与变化}
+\Box{22}{65}{35}{\fontsize{10.4}{16}\selectfont\color{teal}\sffamily\bfseries 累计规模}
+\Box{61}{65}{127}{\fontsize{10.1}{16}\selectfont\color{ink}截至统计期末的用户基础，包含当期未活跃账号；地区值含平台估计，不等同于职业人口。}
+\Box{22}{95}{35}{\fontsize{10.4}{16}\selectfont\color{teal}\sffamily\bfseries 活跃开发者}
+\Box{61}{95}{127}{\fontsize{10.1}{16}\selectfont\color{ink}报告期内在公开事件记录中出现过的账号；包括收藏项目、复制仓库继续开发、提交修改、讨论等公开活动。不是代码贡献者人数。}
+\Box{22}{125}{35}{\fontsize{10.4}{16}\selectfont\color{teal}\sffamily\bfseries 参与者与贡献者}
+\Box{61}{125}{127}{\fontsize{10.1}{16}\selectfont\color{ink}参与者统计问题讨论（Issue）及代码修改请求（PR）中的互动账号；贡献者统计修改请求被项目采纳的作者。二者都不同于活跃人数。}
+\Box{22}{155}{35}{\fontsize{10.4}{16}\selectfont\color{teal}\sffamily\bfseries 地区与净增}
+\Box{61}{155}{127}{\fontsize{10.1}{16}\selectfont\color{ink}按公开所在地归属，不表示国籍或雇主所在地。净增 = 本期活跃 − 上期活跃，不能推断首次参与、迁入或留存。}
+\Box{22}{189}{166}{\fontsize{11.5}{16}\selectfont\color{blue}\sffamily\bfseries 2022—2026 报告年度的规模序列／万人}
+\Box{22}{200}{166}{\sffamily\fontsize{9.5}{16}\selectfont\begin{tabular}{lrrrrr}\textbf{比较组}&\textbf{2022}&\textbf{2023}&\textbf{2024}&\textbf{2025}&\textbf{2026}\\\hline
+欧洲&370.35&414.79&464.56&520.48&675.39\\
+美国&252.43&282.72&316.65&354.60&465.15\\
+中国&237.79&266.80&299.60&320.00&350.00\\
+印度&125.90&149.80&178.30&212.20&272.36\\
+南方六国代表组&134.60&161.50&193.80&232.62&300.46\\
+全球累计规模&8366.77&10495.32&12884.93&15670.27&19389.61\\
+全球当期活跃&1543.27&1794.31&2009.11&2644.05&2890.37\\
+\end{tabular}}
+\Box{22}{249}{166}{\fontsize{9.4}{14.5}\selectfont\color{ink}报告年度统一指上年 7 月 1 日至当年 6 月 30 日。五域是编制组独立比较序列，欧洲成员与平台覆盖的详细执行记录仍待补齐；不作为全球完整分区。南方六国指巴西、印尼、越南、菲律宾、埃及、南非。}
+\end{canvas}
+\begin{canvas}\Header{附录 1 · 情景方法}{teal}\Footer{A2}\Kicker{teal}{附录 1 · 续}\Title{2030 情景如何形成，如何更新}
+\Box{22}{65}{166}{\fontsize{10.5}{17}\selectfont\color{ink}以 2026 报告年度末为算术起点。历史年均增速 g =（2026 人数 ÷ 2022 人数）的四次方根 − 1。历史延续情景每年按 g 增长；逐步放缓情景第 h 年增速为 g × 0.8 的 h 次方。每年逐次相乘，得到 2027—2030 年人数。}
+\Box{22}{100}{166}{\fontsize{10.1}{16}\selectfont\color{ink}0.8 是用于检验敏感性的预设参数，不是拟合所得。只有五个年度点，不估计置信区间或情景概率；外推不识别 AI、政策、人口等因素的因果作用。所有情景都可能因结构变化而失效。}
+\Box{22}{134}{166}{\sffamily\fontsize{9.6}{16}\selectfont\begin{tabular}{lrrr}\textbf{对象}&\textbf{历史年均增速}&\textbf{2030 放缓}&\textbf{2030 延续}\\\hline
+欧洲&16.2\%&973万&1,232万\\
+美国&16.5\%&674万&857万\\
+中国&10.1\%&442万&515万\\
+印度&21.3\%&437万&589万\\
+南方六国代表组&22.2\%&491万&671万\\
+全球累计规模&23.4\%&32,466万&44,935万\\
+全球当期活跃&17.0\%&4,232万&5,413万\\
+\end{tabular}}
+\Box{22}{184}{166}{\fontsize{9.7}{15}\selectfont\color{ink}修订与口径：五域中国 2026 年按编制组本轮更正取约 350 万，2022—2025 年保持原序列；旧值 454.53 万不再用于本版。GitHub 地图的中国约 250.48 万与旧本土补充约 120 万各自保留，不能由二者推出五域数值或另行混排。}
+\Box{22}{220}{166}{\fontsize{9.4}{14.5}\selectfont\color{ink}数据与复核：图 2-1、2-3 使用 OpenDigger／OpenShare 报告年度归档；累计规模及地区活跃含估计。图 2-2 使用编制组五域序列。定义已核对 OpenDigger 公开指标文档；上游去重、历史地理执行与本土补充覆盖仍待逐项核定。}
+\Box{22}{252}{166}{\fontsize{8.8}{13.4}\selectfont\color{ink}复核频率：每年补入同口径观测，重算情景；发布后 6—12 个月先监测持续贡献和维护条件。方法参照：Hyndman 与 Athanasopoulos，Forecasting: Principles and Practice，第 3 版，第 6.5 节“情景预测”。}
+\end{canvas}\end{document}

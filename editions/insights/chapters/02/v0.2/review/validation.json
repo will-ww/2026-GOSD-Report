@@ -1,0 +1,28 @@
+{
+  "version": "0.2",
+  "checked_on": "2026-11-09",
+  "pages": 5,
+  "figures": 3,
+  "dimensions": [
+    1600,
+    900
+  ],
+  "png_dimensions": [
+    3840,
+    2160
+  ],
+  "font_embedding": "all yes",
+  "archive_csv_bytes_equal": true,
+  "china_2026_override_10k": 350,
+  "scenarios_independently_recomputed": true,
+  "china_active_10k": 250.482493,
+  "china_net_increase_10k": 30.404659,
+  "taiwan_zhejiang_active_share": 0.1885869404852977,
+  "taiwan_zhejiang_increment_share": 0.23313996055670286,
+  "svg_text_outside_or_overlap": 0,
+  "pdf_text_outside_pages": 0,
+  "latex_overfull_or_missing_glyph": 0,
+  "visual_review": "全部5页渲染检查；地图标注定位、图例、来源与分析可读性复核",
+  "pdf_sha256_before_host_save": "e4ec982f9cc666ac6f27d02a5f204d7c5d85d9bd4d00df4217ebacddfbcc1670",
+  "not_verified": "上游完整去重、五域覆盖、350/250/120关系、出版地图、数据库查询；未关闭核查项"
+}
