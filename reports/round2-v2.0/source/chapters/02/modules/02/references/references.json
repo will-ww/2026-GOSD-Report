@@ -1,0 +1,622 @@
+[
+  {
+    "id": "ref1",
+    "title": "GOSD编制组. 全球开发者与活跃开发者报告年度归档（2022—2026）. OpenDigger / OpenShare来源记录，固定提交 c51e344.",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/vmap/source/README.md",
+    "section_keys": [
+      [
+        21,
+        "world"
+      ]
+    ],
+    "print_title": "GOSD编制组．全球开发者与活跃开发者报告年度归档，2022—2026．OpenDigger／OpenShare来源记录，版本c51e344。"
+  },
+  {
+    "id": "ref2",
+    "title": "GOSD编制组. 五域开发者总量、活跃开发者年度序列. 第二章结构化底表，固定提交 c51e344.",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-1-3_five_region_active_developers_trend.csv",
+    "section_keys": [
+      [
+        21,
+        "five"
+      ]
+    ],
+    "print_title": "GOSD编制组．五域开发者总量与活跃开发者序列，2022—2026报告年度．版本c51e344。"
+  },
+  {
+    "id": "ref3",
+    "title": "GOSD编制组. 2.1报告年度修订记录. 本土平台约120万去重补充量及使用边界，2026-10-20.",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/docs/vmap-publication-revision-20261020.md",
+    "section_keys": [
+      [
+        21,
+        "platform"
+      ]
+    ],
+    "print_title": "GOSD编制组．本土平台补充量与覆盖比较说明，2026-10-20．版本c51e344。"
+  },
+  {
+    "id": "ref4",
+    "title": "GOSD编制组. 中国34个省级地区总量、活跃与同比增量. 固定提交 c51e344；本稿派生份额另附计算脚本.",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/vmap/fig-2-1-3_china-provinces.csv",
+    "section_keys": [
+      [
+        21,
+        "province"
+      ]
+    ],
+    "print_title": "GOSD编制组．中国34个省级地区总量、活跃与同比增量．版本c51e344。"
+  },
+  {
+    "id": "ref5",
+    "title": "GitHub. Octoverse 2026: Commits, pushes, reach new highs in 2026 as developers build with agents. 2026-10-28. 本稿访问与核对：2026-11-05.",
+    "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+    "section_keys": [
+      [
+        21,
+        "octoverse"
+      ],
+      [
+        25,
+        "gh26"
+      ],
+      [
+        26,
+        "gh26"
+      ]
+    ],
+    "print_title": "GitHub．Octoverse 2026: Commits, pushes, reach new highs in 2026 as developers build with agents．2026-10-28。"
+  },
+  {
+    "id": "ref6",
+    "title": "OpenDigger. 指标使用指南；活跃度与贡献者指标说明. 2026-11-05核对.",
+    "url": "https://open-digger.cn/docs/user-docs/metrics/metrics-usage-guide",
+    "section_keys": [
+      [
+        21,
+        "usage"
+      ],
+      [
+        23,
+        "usage"
+      ]
+    ],
+    "print_title": "OpenDigger. 指标使用指南；活跃度与贡献者指标说明. 2026-11-05核对."
+  },
+  {
+    "id": "ref7",
+    "title": "GOSD编制组. C-Map国家贡献与活跃快照（2025年）. 本版按固定来源提取236个地域贡献值；全球排名使用原表位次.",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/cmap/countries.csv",
+    "section_keys": [
+      [
+        22,
+        "world"
+      ],
+      [
+        26,
+        "geography"
+      ]
+    ],
+    "print_title": "GOSD编制组．C-Map国家贡献与活跃快照，2025年．236个地域记录，版本c51e344。"
+  },
+  {
+    "id": "ref8",
+    "title": "GOSD编制组. 五域开发者OpenRank贡献度序列，2022—2026报告年度.",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-2-2_five_region_openrank_contribution_trend.csv",
+    "section_keys": [
+      [
+        22,
+        "five"
+      ]
+    ],
+    "print_title": "GOSD编制组. 五域开发者OpenRank贡献度序列，2022—2026报告年度."
+  },
+  {
+    "id": "ref9",
+    "title": "GOSD编制组. 中国34个省级地区贡献与活跃快照（2025年）. 平均值由同表分子、分母计算.",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/cmap/provinces.csv",
+    "section_keys": [
+      [
+        22,
+        "province"
+      ]
+    ],
+    "print_title": "GOSD编制组．中国34个省级地区贡献与活跃快照，2025年．版本c51e344。"
+  },
+  {
+    "id": "ref10",
+    "title": "GOSD编制组. 中美项目贡献来源前十表及方法说明，2026报告年度. 20条关系，14个来源国家.",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/cmap/flow-method.md",
+    "section_keys": [
+      [
+        22,
+        "flows"
+      ]
+    ],
+    "print_title": "GOSD编制组. 中美项目贡献来源前十表及方法说明，2026报告年度. 20条关系，14个来源国家."
+  },
+  {
+    "id": "ref11",
+    "title": "GOSD编制组. 2.2图文与出版修订记录，2026-10-20. 地理快照、五域表及独立平均贡献样本分别保留.",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/docs/cmap-publication-revision-20261020.md",
+    "section_keys": [
+      [
+        22,
+        "boundary"
+      ]
+    ],
+    "print_title": "GOSD编制组. 2.2图文与出版修订记录，2026-10-20. 地理快照、五域表及独立平均贡献样本分别保留."
+  },
+  {
+    "id": "ref12",
+    "title": "OpenDigger. 社区OpenRank贡献度. 项目内协作网络定义与实现入口，2026-11-05核对.",
+    "url": "https://open-digger.cn/docs/user-docs/metrics/community-openrank",
+    "section_keys": [
+      [
+        22,
+        "openrank"
+      ]
+    ],
+    "print_title": "OpenDigger. 社区OpenRank贡献度. 项目内协作网络定义与实现入口，2026-11-05核对."
+  },
+  {
+    "id": "ref13",
+    "title": "OpenDigger. 全域OpenRank影响力. 开发者—仓库协作网络及历史继承机制，2026-11-05核对.",
+    "url": "https://open-digger.cn/docs/user-docs/metrics/global-openrank",
+    "section_keys": [
+      [
+        22,
+        "globalrank"
+      ],
+      [
+        23,
+        "metric"
+      ],
+      [
+        24,
+        "method"
+      ]
+    ],
+    "print_title": "OpenDigger. 全域OpenRank影响力. 开发者—仓库协作网络及历史继承机制，2026-11-05核对."
+  },
+  {
+    "id": "ref14",
+    "title": "GOSD编制组. I-Map地域与企业影响力归档，2025自然年. 本稿提取30国及企业前六字段；原库固定提交c51e344.",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/imap/influence.json",
+    "section_keys": [
+      [
+        23,
+        "global"
+      ]
+    ],
+    "print_title": "GOSD编制组．I-Map地域与企业影响力归档，2025自然年．版本c51e344。"
+  },
+  {
+    "id": "ref15",
+    "title": "GOSD编制组. 五域项目影响力与开发者贡献度，2022—2026报告年度. 原稿数据组合保留.",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/imap/observations.json",
+    "section_keys": [
+      [
+        23,
+        "five"
+      ],
+      [
+        23,
+        "china"
+      ]
+    ],
+    "print_title": "GOSD编制组. 五域项目影响力与开发者贡献度，2022—2026报告年度. 原稿数据组合保留."
+  },
+  {
+    "id": "ref16",
+    "title": "GOSD编制组. 2.3 I-Map出版修订记录，2026-10-20. 记录自然年与报告年度的版本差异.",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/docs/imap-publication-revision-20261020.md",
+    "section_keys": [
+      [
+        23,
+        "revision"
+      ]
+    ],
+    "print_title": "GOSD编制组. 2.3 I-Map出版修订记录，2026-10-20. 记录自然年与报告年度的版本差异."
+  },
+  {
+    "id": "ref17",
+    "title": "OpenDigger. 项目标签：OpenHarmony、openEuler、AgentScope；基金会关联标签. 固定提交5c2ffc4；逐文件入口见来源清单.",
+    "url": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/companies/huawei/openharmony.yml",
+    "section_keys": [
+      [
+        23,
+        "labels"
+      ]
+    ],
+    "print_title": "OpenDigger. 项目标签：OpenHarmony、openEuler、AgentScope；基金会关联标签. 固定提交5c2ffc4；逐文件入口见来源清单."
+  },
+  {
+    "id": "ref18",
+    "title": "OpenDigger. chinaAnnualReport.ts：项目、发起方与基金会分别识别的公开示例. 示例年份为2024，不等同本报告生产记录.",
+    "url": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/src/dataProduction/chinaAnnualReport.ts",
+    "section_keys": [
+      [
+        23,
+        "code"
+      ]
+    ],
+    "print_title": "OpenDigger. chinaAnnualReport.ts：项目、发起方与基金会分别识别的公开示例. 示例年份为2024，不等同本报告生产记录."
+  },
+  {
+    "id": "ref19",
+    "title": "GOSD编制组. 全球高影响力人才地域表：175条记录，2026年7月快照；前5%定义沿用同目录章节正文，具体筛选规则待核。固定提交c51e344。",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/tmap/fig-2-4-1_global_open_source_talent_map.csv",
+    "section_keys": [
+      [
+        24,
+        "world"
+      ]
+    ],
+    "print_title": "GOSD编制组．全球高影响力人才地域表，2026年7月快照．前5%定义沿用源表，筛选方法待核。"
+  },
+  {
+    "id": "ref20",
+    "title": "GOSD编制组. 五域高影响力人才序列，2022—2026报告年度。",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/tmap/fig-2-4-2_five_region_open_source_talent_trend.csv",
+    "section_keys": [
+      [
+        24,
+        "five"
+      ]
+    ],
+    "print_title": "GOSD编制组. 五域高影响力人才序列，2022—2026报告年度。"
+  },
+  {
+    "id": "ref21",
+    "title": "GOSD编制组. 中国固定十城人才序列及人数表，2022—2026报告年度。",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/tmap/fig-2-4-4_china_top10_city_talent_trend.csv",
+    "section_keys": [
+      [
+        24,
+        "cities"
+      ]
+    ],
+    "print_title": "GOSD编制组. 中国固定十城人才序列及人数表，2022—2026报告年度。"
+  },
+  {
+    "id": "ref22",
+    "title": "GOSD编制组．四平台活跃仓库年度序列，2022—2026报告年度．固定版本c51e344。",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-7-1_platform_active_repository_trend.csv",
+    "section_keys": [
+      [
+        25,
+        "code"
+      ]
+    ],
+    "print_title": "GOSD编制组．四平台活跃仓库年度序列，2022—2026报告年度．固定版本c51e344。"
+  },
+  {
+    "id": "ref23",
+    "title": "OpenDigger / GOSD 2025．Technology-Domain Bubble Chart Analysis．12类项目数量及影响力；版本5c2ffc4。",
+    "url": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/notebook/GOSD2025/Chapter2_Global%20Open%20Source%20Observatory/2.3.3_Technology-Domain%20Bubble%20Chart%20Analysis.html",
+    "section_keys": [
+      [
+        25,
+        "tech25"
+      ]
+    ],
+    "print_title": "OpenDigger／GOSD 2025．Technology-Domain Bubble Chart Analysis．12类项目数量及影响力，版本5c2ffc4。"
+  },
+  {
+    "id": "ref24",
+    "title": "Hugging Face．State of Open Models: Summer 2026 Observations，2026-08-14．固定文本9e982d5。",
+    "url": "https://github.com/huggingface/blog/blob/9e982d5f2ff0c93248a897bf1e0c59c9828c5ab8/state-of-open-models-summer-2026.md",
+    "section_keys": [
+      [
+        25,
+        "hfU"
+      ]
+    ],
+    "print_title": "Hugging Face．State of Open Models: Summer 2026 Observations，2026-08-14．固定文本9e982d5。"
+  },
+  {
+    "id": "ref25",
+    "title": "GOSD编制组．A-Map发布单位累计样本：observations.json；快照日期未注明。",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/amap/observations.json",
+    "section_keys": [
+      [
+        25,
+        "sample"
+      ]
+    ],
+    "print_title": "GOSD编制组．A-Map发布单位累计样本，observations.json．快照日期未注明，版本c51e344。"
+  },
+  {
+    "id": "ref26",
+    "title": "GOSD归档数据服务．模型任务分布modelTasks.json，采集于2026-10-15。",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/amap/modelTasks.json",
+    "section_keys": [
+      [
+        25,
+        "modeltasks"
+      ]
+    ],
+    "print_title": "GOSD归档数据服务．模型任务分布modelTasks.json，采集于2026-10-15。"
+  },
+  {
+    "id": "ref27",
+    "title": "Hugging Face．Models Download Stats．下载计数规则；访问于2026-11-05。",
+    "url": "https://huggingface.co/docs/hub/models-download-stats",
+    "section_keys": [
+      [
+        25,
+        "mdownload"
+      ]
+    ],
+    "print_title": "Hugging Face．Models Download Stats．下载计数规则；访问于2026-11-05。"
+  },
+  {
+    "id": "ref28",
+    "title": "Hugging Face．Dataset Cards．数据说明与任务标签；访问于2026-11-05。",
+    "url": "https://huggingface.co/docs/hub/datasets-cards",
+    "section_keys": [
+      [
+        25,
+        "datacard"
+      ]
+    ],
+    "print_title": "Hugging Face．Dataset Cards．数据说明与任务标签；访问于2026-11-05。"
+  },
+  {
+    "id": "ref29",
+    "title": "GOSD归档数据服务．数据集任务分布datasetTasks.json，采集于2026-10-15。",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/amap/datasetTasks.json",
+    "section_keys": [
+      [
+        25,
+        "datatasks"
+      ]
+    ],
+    "print_title": "GOSD归档数据服务．数据集任务分布datasetTasks.json，采集于2026-10-15。"
+  },
+  {
+    "id": "ref30",
+    "title": "Hugging Face．State of Open Source on Hugging Face: Spring 2026，2026-03-17．机器人数据集历史观察。",
+    "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+    "section_keys": [
+      [
+        25,
+        "hfS"
+      ],
+      [
+        26,
+        "hf26"
+      ]
+    ],
+    "print_title": "Hugging Face．State of Open Source on Hugging Face: Spring 2026，2026-03-17．机器人数据集历史观察。"
+  },
+  {
+    "id": "ref31",
+    "title": "Hugging Face．Datasets Download Stats．数据集下载计数规则；访问于2026-11-05。",
+    "url": "https://huggingface.co/docs/hub/datasets-download-stats",
+    "section_keys": [
+      [
+        25,
+        "ddownload"
+      ]
+    ],
+    "print_title": "Hugging Face．Datasets Download Stats．数据集下载计数规则；访问于2026-11-05。"
+  },
+  {
+    "id": "ref32",
+    "title": "Hugging Face．Model Cards．模型用途、局限与使用条件；访问于2026-11-05。",
+    "url": "https://huggingface.co/docs/hub/model-cards",
+    "section_keys": [
+      [
+        25,
+        "modelcard"
+      ]
+    ],
+    "print_title": "Hugging Face．Model Cards．模型用途、局限与使用条件；访问于2026-11-05。"
+  },
+  {
+    "id": "ref33",
+    "title": "GOSD研究组．GitHub与人机协作开发证据研究；HF与模型生态材料深度研究，2026-11-04．本轮研究输入。",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/tree/65a5fbda5c9192a11328ed9926959a0f0c5dc8f1/docs/research/2026-11-04",
+    "section_keys": [
+      [
+        25,
+        "research"
+      ]
+    ],
+    "print_title": "GOSD研究组．GitHub与人机协作开发证据研究；HF与模型生态材料深度研究，2026-11-04．本轮研究输入。"
+  },
+  {
+    "id": "ref34",
+    "title": "GOSD编制组. 固定五国与其他国家贡献份额序列，2022—2026报告年度。",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/dmap/source/fig-2-5-1_country_contribution_share_trend.csv",
+    "section_keys": [
+      [
+        26,
+        "shares"
+      ]
+    ],
+    "print_title": "GOSD编制组. 固定五国与其他国家贡献份额序列，2022—2026报告年度。"
+  },
+  {
+    "id": "ref35",
+    "title": "GOSD编制组. 中美项目贡献来源前十表，独立样本。",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/dmap/source/table-2-5-1_china_us_project_contribution_top10.csv",
+    "section_keys": [
+      [
+        26,
+        "source"
+      ]
+    ],
+    "print_title": "GOSD编制组. 中美项目贡献来源前十表，独立样本。"
+  },
+  {
+    "id": "ref36",
+    "title": "GOSD编制组. 跨地域项目贡献关系表，60条已列关系。",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/dmap/source/fig-2-5-2_cross_border_project_contribution_flow.csv",
+    "section_keys": [
+      [
+        26,
+        "flows"
+      ]
+    ],
+    "print_title": "GOSD编制组. 跨地域项目贡献关系表，60条已列关系。"
+  },
+  {
+    "id": "ref37",
+    "title": "GOSD编制组. D-Map来源清单、样本定义与缺项记录。",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/dmap/source-manifest.json",
+    "section_keys": [
+      [
+        26,
+        "manifest"
+      ]
+    ],
+    "print_title": "GOSD编制组. D-Map来源清单、样本定义与缺项记录。"
+  },
+  {
+    "id": "ref39",
+    "title": "GOSD编制组. 基金会项目影响份额与活跃仓库序列，2022—2026。",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-6-1_foundation_share_and_active_repositories.csv",
+    "section_keys": [
+      [
+        27,
+        "foundation"
+      ]
+    ],
+    "print_title": "GOSD编制组. 基金会项目影响份额与活跃仓库序列，2022—2026。"
+  },
+  {
+    "id": "ref40",
+    "title": "GOSD编制组. 所列五种许可证的活跃仓库序列，2022—2026。",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-6-2_active_repository_license_trend.csv",
+    "section_keys": [
+      [
+        27,
+        "licenses"
+      ]
+    ],
+    "print_title": "GOSD编制组. 所列五种许可证的活跃仓库序列，2022—2026。"
+  },
+  {
+    "id": "ref41",
+    "title": "GOSD编制组. 木兰宽松许可证累计活跃仓库与项目影响力序列。",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-6-3_mulan_permissive_license_trend.csv",
+    "section_keys": [
+      [
+        27,
+        "mulan"
+      ]
+    ],
+    "print_title": "GOSD编制组. 木兰宽松许可证累计活跃仓库与项目影响力序列。"
+  },
+  {
+    "id": "ref42",
+    "title": "Apache Software Foundation. How the ASF Works，访问于2026-11-05。",
+    "url": "https://apache.org/foundation/how-it-works/",
+    "section_keys": [
+      [
+        27,
+        "apache"
+      ]
+    ],
+    "print_title": "Apache Software Foundation. How the ASF Works，访问于2026-11-05。"
+  },
+  {
+    "id": "ref43",
+    "title": "GOSD编制组. G-Map来源清单；原表样本、统计窗口与复现状态。",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gmap/source-manifest.json",
+    "section_keys": [
+      [
+        27,
+        "method"
+      ]
+    ],
+    "print_title": "GOSD编制组. G-Map来源清单；原表样本、统计窗口与复现状态。"
+  },
+  {
+    "id": "ref44",
+    "title": "GitHub. Octoverse 2025，Community health及Methodology；2025-10-28，页面2026-02更新。",
+    "url": "https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/",
+    "section_keys": [
+      [
+        27,
+        "gh25"
+      ]
+    ],
+    "print_title": "GitHub. Octoverse 2025，Community health及Methodology；2025-10-28，页面2026-02更新。"
+  },
+  {
+    "id": "ref46",
+    "title": "Open Source Initiative. The MIT License，原文。",
+    "url": "https://opensource.org/license/mit",
+    "section_keys": [
+      [
+        27,
+        "mit"
+      ]
+    ],
+    "print_title": "Open Source Initiative. The MIT License，原文。"
+  },
+  {
+    "id": "ref47",
+    "title": "Open Source Initiative. The 3-Clause BSD License，原文。",
+    "url": "https://opensource.org/license/bsd-3-clause",
+    "section_keys": [
+      [
+        27,
+        "bsd"
+      ]
+    ],
+    "print_title": "Open Source Initiative. The 3-Clause BSD License，原文。"
+  },
+  {
+    "id": "ref48",
+    "title": "Apache Software Foundation. Apache License, Version 2.0，第3—4条。",
+    "url": "https://www.apache.org/licenses/LICENSE-2.0",
+    "section_keys": [
+      [
+        27,
+        "apachelicense"
+      ]
+    ],
+    "print_title": "Apache Software Foundation. Apache License, Version 2.0，第3—4条。"
+  },
+  {
+    "id": "ref49",
+    "title": "SPDX. GNU General Public License v3.0 only，原文第5—6条。",
+    "url": "https://spdx.org/licenses/GPL-3.0-only.html",
+    "section_keys": [
+      [
+        27,
+        "gpl"
+      ]
+    ],
+    "print_title": "SPDX. GNU General Public License v3.0 only，原文第5—6条。"
+  },
+  {
+    "id": "ref50",
+    "title": "SPDX. GNU Affero General Public License v3.0 only，原文第13条。",
+    "url": "https://spdx.org/licenses/AGPL-3.0-only.html",
+    "section_keys": [
+      [
+        27,
+        "agpl"
+      ]
+    ],
+    "print_title": "SPDX. GNU Affero General Public License v3.0 only，原文第13条。"
+  },
+  {
+    "id": "ref51",
+    "title": "Open Source Initiative. Mulan Permissive Software License v2，原文及批准记录。",
+    "url": "https://opensource.org/license/MulanPSL-2.0",
+    "section_keys": [
+      [
+        27,
+        "mulanlicense"
+      ]
+    ],
+    "print_title": "Open Source Initiative. Mulan Permissive Software License v2，原文及批准记录。"
+  }
+]

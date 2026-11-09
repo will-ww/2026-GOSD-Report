@@ -1,0 +1,25 @@
+region,year,share_pct,annual_change_pp,change_since_2022_pp
+United States,2023,23.18,-0.93,-0.93
+United States,2024,22.17,-1.01,-1.94
+United States,2025,22.74,0.57,-1.37
+United States,2026,21.77,-0.97,-2.34
+Germany,2023,7.48,-0.26,-0.26
+Germany,2024,7.71,0.23,-0.03
+Germany,2025,8.03,0.32,0.29
+Germany,2026,8.01,-0.02,0.27
+China,2023,8.01,0.59,0.59
+China,2024,8.27,0.26,0.85
+China,2025,7.58,-0.69,0.16
+China,2026,8.01,0.43,0.59
+United Kingdom,2023,5.78,0.06,0.06
+United Kingdom,2024,5.39,-0.39,-0.33
+United Kingdom,2025,5.71,0.32,-0.01
+United Kingdom,2026,5.55,-0.16,-0.17
+India,2023,5.08,0.6,0.6
+India,2024,5.29,0.21,0.81
+India,2025,4.87,-0.42,0.39
+India,2026,5.28,0.41,0.8
+Other countries,2023,50.47,-0.06,-0.06
+Other countries,2024,51.17,0.7,0.64
+Other countries,2025,51.07,-0.1,0.54
+Other countries,2026,51.38,0.31,0.85

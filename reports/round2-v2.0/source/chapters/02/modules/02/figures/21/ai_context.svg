@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="45mm" viewBox="0 0 170 45"><rect width="170" height="45" fill="white"/>
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB"/><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#49A1A0" stroke-width="0.3"/></pattern></defs>
+<rect x="0.0000" y="0.0000" width="170.0000" height="45.0000" rx="1.5" fill="#F0F6F6" stroke="none" stroke-width="0.18"/>
+<text x="4.0000" y="7.0000" font-family="Noto Sans CJK SC" font-size="3.70417" font-weight="700" fill="#193C4E" text-anchor="start">外部参照｜GitHub Octoverse 2026</text>
+<text x="4.0000" y="16.0000" font-family="Noto Sans CJK SC" font-size="3.13972" font-weight="400" fill="#57717D" text-anchor="start">提交（commits）</text>
+<text x="4.0000" y="25.0000" font-family="Noto Sans CJK SC" font-size="4.58611" font-weight="700" fill="#168A8D" text-anchor="start">129 → 343 亿</text>
+<text x="4.0000" y="32.0000" font-family="Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#57717D" text-anchor="start">2025 → 2026 Octoverse年度</text>
+<path d="M57.000,12.000 L57.000,36.000" fill="none" stroke="#D8E4E7" stroke-width="0.22"/>
+<text x="60.0000" y="16.0000" font-family="Noto Sans CJK SC" font-size="3.13972" font-weight="400" fill="#57717D" text-anchor="start">公开贡献</text>
+<text x="60.0000" y="25.0000" font-family="Noto Sans CJK SC" font-size="4.58611" font-weight="700" fill="#168A8D" text-anchor="start">11.2 → 25 亿</text>
+<text x="60.0000" y="32.0000" font-family="Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#57717D" text-anchor="start">2025 → 2026 Octoverse年度</text>
+<path d="M113.000,12.000 L113.000,36.000" fill="none" stroke="#D8E4E7" stroke-width="0.22"/>
+<text x="116.0000" y="16.0000" font-family="Noto Sans CJK SC" font-size="3.13972" font-weight="400" fill="#57717D" text-anchor="start">Agent起草PR占比</text>
+<text x="116.0000" y="25.0000" font-family="Noto Sans CJK SC" font-size="4.58611" font-weight="700" fill="#168A8D" text-anchor="start">17% → 超过40%</text>
+<text x="116.0000" y="32.0000" font-family="Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#57717D" text-anchor="start">2026年3月 → 9月</text>
+<text x="4.0000" y="41.0000" font-family="Noto Sans CJK SC" font-size="2.92806" font-weight="400" fill="#57717D" text-anchor="start">这是平台观察，不是AI的因果效应估计；人数与活动量分别观察。</text></svg>

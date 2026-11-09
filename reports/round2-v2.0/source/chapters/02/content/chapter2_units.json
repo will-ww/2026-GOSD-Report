@@ -1,0 +1,275 @@
+[
+  {
+    "tex": "\\renewcommand{\\CurrentSection}{2.1 全球开源活跃地图}\n\n\n\\phantomsection\\label{ch2-sec21}\\pdfbookmark[1]{2.1 全球开源活跃地图}{ch2-section21}\n\\label{ch2-unit21-0}\n\\noindent\\includegraphics[width=\\linewidth]{figures/new/nav_21.pdf}\\par\\vspace{3pt}\n\\section*{2.1 全球开源活跃地图}\n\\lead{参与基础在扩大，活跃与增长呈现不同格局}\n开源协作从人的参与开始。一个地区积累了多少开发者，当期有多少人实际参与，新增活跃又发生在哪里，是三个彼此相关、却不能相互替代的问题。本节由全球进入五域与中国省级地区，观察参与规模、增长节奏和平台覆盖。\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/21/world_map.pdf}\\par\n\\includegraphics[width=\\linewidth]{modules/02/figures/21/world_rank.pdf}\\par\n\\captionof{figure}{全球活跃参与的空间分布与前20个国家读数}\\label{ch2-s21-world}\\end{minipage}\\par\\vspace{4pt}\n\\src{归档GitHub报告年度读数，2025-07-01—2026-06-30；按万人展示。底图未匹配项不作零值，圆心仅用于定位。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/vmap/source/README.md}{2-R1}}",
+    "figures": [
+      "figures/new/nav_21.pdf",
+      "modules/02/figures/21/world_map.pdf",
+      "modules/02/figures/21/world_rank.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit21-1}\n\\subsection*{2.1.1 全球参与：累计基础与当期活跃增长不同步}\n\\pdfbookmark[2]{2.1.1 全球参与：累计基础与当期活跃增长不同步}{ch2-outline21-1}\n2026报告年度，归档记录中的开发者总量约为\\key{1.94亿}，活跃开发者约为\\key{2,890万}。总量反映长期积累的参与基础，活跃人数则反映当期发生了纳入统计的协作。两者均在扩大，但增长速度并不一致。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/vmap/source/README.md}{2-R1}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/21/global_comparison.pdf}\\par\n\\captionof{figure}{参与基础与当期活跃：相对增长和地区排序的双重观察}\\label{ch2-s21-tempo}\\end{minipage}\\par\\vspace{4pt}\n\\src{2022—2026报告年度；年度累计与当期活跃按原表定义分别比较。}\n2022—2026报告年度，开发者总量增至期初的\\key{2.32倍}，活跃人数增至\\key{1.87倍}；最近一年分别增长23.7\\%和9.3\\%。地区排序也有所不同：英国的开发者总量高于德国，当期活跃人数却较少。较大的参与基础，不会自动转化为同等规模的当期协作。\n\n累计基础保留了过去进入生态的人，当期活跃还受到首次参与、持续参与、回流与暂停参与共同影响。因而，活跃增速较低不能直接解释为参与意愿下降，也不能由两个年度汇总值推算同一批人的留存率。\n\nAI进一步增加了解读这类变化的必要性。同一个人借助工具完成更多工作，活动次数会上升，在去重人数中却仍只计一次。GitHub的外部观察提供了活动加速的背景，详见2.5节；本节不据此判断AI对人数增长的净影响。\\SourceCite{https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/}{2-R5}",
+    "figures": [
+      "modules/02/figures/21/global_comparison.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit21-2}\n\\subsection*{2.1.2 五域比较：独立汇总与平台覆盖分开阅读}\n\\pdfbookmark[2]{2.1.2 五域比较：独立汇总与平台覆盖分开阅读}{ch2-outline21-2}\n编制组独立五域表中，欧洲、美国和中国的开发者总量均接近3,000万，当期活跃分别约为675.39万、465.15万和454.53万。该表的汇总覆盖与GitHub地理表不同，应在本表内比较；其中的454.53万不能与下方约370万互换。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-1-3_five_region_active_developers_trend.csv}{2-R2}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/21/five_activity.pdf}\\par\n\\captionof{figure}{五域开发者总量与当期活跃规模}\\label{ch2-s21-five}\\end{minipage}\\par\\vspace{4pt}\n\\src{独立五域汇总，2025-07-01至2026-06-30；覆盖不同于GitHub地理表。}\n另一组覆盖比较以GitHub地理表为起点：中国250.48万，加上编制组登记的约120万本土平台补充量，得到约370万；美国与印度仍保留GitHub读数。补充量用于说明平台覆盖，不再加入五域表，也不形成统一多平台排名。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/docs/vmap-publication-revision-20261020.md}{2-R3}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/21/platform_coverage.pdf}\\par\n\\captionof{figure}{扩大平台覆盖后，部分参与力量才进入视野}\\label{ch2-s21-coverage}\\end{minipage}\\par\\vspace{4pt}\n\\src{上图为独立五域汇总，下图为GitHub地理读数与中国平台补充。约120万沿用编制组登记记录，去重执行尚未独立复核；不分配至省份。}",
+    "figures": [
+      "modules/02/figures/21/five_activity.pdf",
+      "modules/02/figures/21/platform_coverage.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit21-3}\n\\subsection*{规模中心与成长中的社区，需要不同的观察}\n本页继续使用编制组独立五域序列。当前规模说明各组可见的参与基础，相对增幅说明它们相对于自身起点的扩张。两种排序并列，有助于同时观察已有中心与成长群体；不能将本表增幅移用到GitHub地理表。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-1-3_five_region_active_developers_trend.csv}{2-R2}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/21/five_compass.pdf}\\par\n\\captionof{figure}{五域活跃规模与相对扩张：两种排序，两类观察}\\label{ch2-s21-growth}\\end{minipage}\\par\\vspace{4pt}\n\\src{2022—2026报告年度；五域固定比较组，相对变化均以自身起点为基准。}\n欧洲的当期活跃规模最高，南方六国代表组和印度的累计扩张更快，分别达到2022年的\\key{2.23倍与2.16倍}。中国约为1.91倍，最近一年增长42.0\\%。不同排序提示，国际合作既可以连接已有中心，也可以关注成长中的参与群体。\n\n“南方六国代表组”固定指巴西、印度尼西亚、越南、菲律宾、埃及和南非，不代表整个全球南方。五域也是比较组，而非对世界的完整划分。具体合作仍需落到项目需求、维护团队与当地条件。",
+    "figures": [
+      "modules/02/figures/21/five_compass.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit21-4}\n\\subsection*{2.1.3 中国省级观察：头部集聚，多地参与}\n\\pdfbookmark[2]{2.1.3 中国省级观察：头部集聚，多地参与}{ch2-outline21-4}\n中国省级分布呈现明显的规模梯度。34个省级地区中，京沪粤合计约\\key{131.7万}活跃开发者，占省级合计的\\key{52.6\\%}。台湾、浙江、江苏、四川与湖北等地则构成头部之外的重要参与节点。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/vmap/fig-2-1-3_china-provinces.csv}{2-R4}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/21/china_atlas.pdf}\\par\n\\captionof{figure}{中国34个省级地区的活跃分布、前10地区与结构份额}\\label{ch2-s21-china}\\end{minipage}\\par\\vspace{4pt}\n前三地之外，第4—10位地区合计占约36.0\\%，其余24地占约11.5\\%。地图和排行共同呈现出“头部集聚、多地参与”的结构；不能将后两组的参与简单视为可以忽略的余量。\n\n这种梯度为区域支持提供了不同起点。头部地区可进一步关注密集参与背后的维护需求，其他地区则可结合当地项目与人才条件拓展协作。地域相邻或规模接近，本身并不证明已经形成跨地区合作网络。\n\n\\src{2026报告年度，GitHub省级记录；本土平台补充量未分配至省份。图谱表示近似方位，不表达行政面积、人口密度或个人位置。}",
+    "figures": [
+      "modules/02/figures/21/china_atlas.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit21-5}\n\\subsection*{中国省级增长：新增活跃与既有规模}\n2026报告年度，省级活跃人数较上年净增约\\key{30.4万}。京沪粤贡献了过半净增量；台湾与浙江的净增量份额则高于其当前规模份额。比较这两种份额，可以辨认总量排行没有充分呈现的增长差异。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/vmap/fig-2-1-3_china-provinces.csv}{2-R4}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/21/china_growth_mix.pdf}\\par\n\\captionof{figure}{各地区组的活跃规模份额、净增量份额与净增前10地区}\\label{ch2-s21-mix}\\end{minipage}\\par\\vspace{4pt}\n台湾与浙江的净增量份额高出规模份额约\\key{4.5个百分点}；京沪粤两项均约为52\\%。四组人数都在增加，增量份额较低并不等于人数下降。下方净增排行进一步说明，北京、上海和广东仍提供了最大的绝对增量。\n\n从已有规模到新增活跃，问题由“参与在哪里”推进到“变化发生在哪里”。这为下一节的贡献观察奠定基础：参与扩大之后，哪些工作进入了项目的共同建设？\n\n\\src{两类份额分别以34地活跃合计和净增合计为分母；净增不等于首次参与人数。}",
+    "figures": [
+      "modules/02/figures/21/china_growth_mix.pdf"
+    ]
+  },
+  {
+    "tex": "\\renewcommand{\\CurrentSection}{2.2 全球开源贡献地图}\n\n\n\\phantomsection\\label{ch2-sec22}\\pdfbookmark[1]{2.2 全球开源贡献地图}{ch2-section22}\n\\label{ch2-unit22-0}\n\\noindent\\includegraphics[width=\\linewidth]{figures/new/nav_22.pdf}\\par\\vspace{3pt}\n\\section*{2.2 全球开源贡献地图}\n\\lead{人数之外，看见协作工作的分布与连接}\n贡献地图观察改进代码、审阅修改与维护等协作工作在哪里汇聚、与哪些项目相连，由全球分布进入五域变化、中国区域和项目来源。\n\n本节沿用源表“开发者OpenRank贡献度”，观察协作网络中的贡献位置。总量、平均值与来源关系分别提供线索，不视为个人能力评分。\\SourceCite{https://open-digger.cn/docs/user-docs/metrics/community-openrank}{2-R12}\\SourceCite{https://open-digger.cn/docs/user-docs/metrics/global-openrank}{2-R13}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/22/world_map.pdf}\\par\n\\includegraphics[width=\\linewidth]{modules/02/figures/22/world_rank.pdf}\\par\n\\captionof{figure}{全球开发者贡献的空间分布与前20国家}\\label{ch2-s22-fig-world}\\end{minipage}\\par\\vspace{4pt}\n\\src{2025年OpenShare地理快照；单位：OpenRank。地图按236个地域记录匹配底图，未匹配项不作零值。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/cmap/countries.csv}{2-R7}}",
+    "figures": [
+      "figures/new/nav_22.pdf",
+      "modules/02/figures/22/world_map.pdf",
+      "modules/02/figures/22/world_rank.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit22-1}\n\\subsection*{2.2.1 全球贡献：参与规模与贡献强度不完全对应}\n\\pdfbookmark[2]{2.2.1 全球贡献：参与规模与贡献强度不完全对应}{ch2-outline22-1}\n在同一份2025年地理快照中，美国、德国和中国的贡献规模位列前三。德国的活跃人数位列第5、贡献位列第2；印度的相应位次为第2和第5。\\key{人数排序与贡献排序并不重合}，说明参与规模不能替代对协作结构的观察。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/cmap/countries.csv}{2-R7}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/22/participation_contribution.pdf}\\par\n\\captionof{figure}{贡献规模前10国家的活跃位次、贡献位次与平均贡献}\\label{ch2-s22-fig-comparison}\\end{minipage}\\par\\vspace{4pt}\n在贡献规模前十国家中，德国与荷兰的平均贡献分别约为1.143和1.131 OpenRank／活跃开发者，印度与巴西分别约为0.329和0.335。比值由地区总量计算，表示相对于同表活跃人数的贡献强度，不是当地每个人的实际得分。\n\n参与角色、项目构成、持续协作以及少数高贡献者的分布，都可能影响这一差异。汇总表不能分离这些因素，更不能据平均值评价代码质量、开发效率或地区人才素质。\\SourceCite{https://open-digger.cn/docs/user-docs/metrics/global-openrank}{2-R13}\n\n对合作伙伴的识别而言，规模提供搜索范围，贡献强度提供进一步了解项目与社区的线索；两者适合结合使用，而不宜合成一个笼统的地区实力分数。\n\n\\src{贡献度与活跃人数取自同一2025快照；位次对照不是跨年排名变化。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/cmap/countries.csv}{2-R7}}",
+    "figures": [
+      "modules/02/figures/22/participation_contribution.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit22-2}\n\\subsection*{2.2.2 五域比较：规模与增长呈现不同次序}\n\\pdfbookmark[2]{2.2.2 五域比较：规模与增长呈现不同次序}{ch2-outline22-2}\n2026报告年度五域表中，欧洲的开发者贡献度约为\\key{650.16万OpenRank}，中国与美国分别为442.92万和423.97万。中国在本表高于美国约18.95万，但这一比较仅指特定口径的协作贡献，不扩展为整体技术实力判断。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-2-2_five_region_openrank_contribution_trend.csv}{2-R8}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/22/five_evolution.pdf}\\par\n\\captionof{figure}{五域贡献规模的年度轨迹、当期读数与增长幅度}\\label{ch2-s22-fig-five}\\end{minipage}\\par\\vspace{4pt}\n\\src{2026报告年度为2025-07-01至2026-06-30；累计倍数以各组2022年为起点。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-2-2_five_region_openrank_contribution_trend.csv}{2-R8}}\n2022—2026报告年度，中国贡献度增至起点的\\key{3.32倍}，最近一年增长47.2\\%；欧洲与美国分别为期初的1.38倍和1.25倍。欧洲保持较大的贡献规模，中国较快的增长则改变了本序列中的相对位置。\n\n南方六国代表组与印度分别为期初的1.32倍和1.31倍。与2.1的活跃人数增长对照，贡献与人数并未同步扩张；由于对象、覆盖及指标仍需逐项对齐，这种差异适合提出研究问题，不宜直接计算跨表的“转化效率”。",
+    "figures": [
+      "modules/02/figures/22/five_evolution.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit22-3}\n\\subsection*{2.2.3 中国区域：贡献规模呈现分层集聚}\n\\pdfbookmark[2]{2.2.3 中国区域：贡献规模呈现分层集聚}{ch2-outline22-3}\n中国省级贡献同样呈现集聚，但次序与活跃人数并非完全一致。2025年快照中，京沪粤合计约\\key{64.07万OpenRank}，占34地合计的52.9\\%；浙江与台湾分别超过14万，江苏、四川、湖北等地也形成了可观的贡献规模。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/cmap/provinces.csv}{2-R9}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/22/china_map.pdf}\\par\n\\includegraphics[width=\\linewidth]{modules/02/figures/22/china_rank.pdf}\\par\n\\captionof{figure}{中国34个省级地区的贡献分布与贡献规模前10地区}\\label{ch2-s22-fig-china}\\end{minipage}\\par\\vspace{4pt}\n\\src{2025年OpenShare省级快照。色阶与排行均使用贡献度；台湾、香港、澳门纳入34地统计。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/cmap/provinces.csv}{2-R9}}\n京沪粤与浙江、台湾五地合计占76.2\\%，其余29地占23.8\\%。这一分布刻画贡献在何处汇聚，并不说明贡献仅在本地项目中发生。理解区域作用，还需要结合参与者所连接的项目及其维护任务。",
+    "figures": [
+      "modules/02/figures/22/china_map.pdf",
+      "modules/02/figures/22/china_rank.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit22-4}\n\\subsection*{平均贡献：规模比较之外的补充视角}\n对贡献总量前十地区，以同表活跃人数为分母，平均贡献形成了另一种次序。浙江、台湾、上海与四川分别约为\\key{0.655、0.644、0.605和0.540}，均高于34地合计计算的0.516；北京总量最大，相应平均值约为0.495。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/cmap/provinces.csv}{2-R9}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/22/china_average.pdf}\\par\n\\captionof{figure}{贡献总量前10地区的平均贡献与活跃人数}\\label{ch2-s22-fig-average}\\end{minipage}\\par\\vspace{4pt}\n\\src{平均贡献＝地区贡献度／同表活跃开发者数；所选十地并非全国平均贡献前十榜。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/cmap/provinces.csv}{2-R9}}\n总量与平均值的差异，可能来自学习者、偶发参与者、持续贡献者的组合，也可能来自所参与项目及其协作方式。平均值能够提示值得深入了解的结构，却不能替代对个人工作与项目质量的核查。\n\n因此，区域支持既不应只奖励“大体量”，也不宜只追求“高均值”。更具体的问题是：贡献者承担哪些工作，评审和维护是否得到支持，不同阶段的参与者能否持续获得机会。\n\n\\src{各地区比值采用同一2025年省级快照；未列地区不表示零贡献。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/cmap/provinces.csv}{2-R9}}",
+    "figures": [
+      "modules/02/figures/22/china_average.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit22-5}\n\\subsection*{2.2.4 协作连接：项目归属不等于贡献来源}\n\\pdfbookmark[2]{2.2.4 协作连接：项目归属不等于贡献来源}{ch2-outline22-5}\n项目归属地与开发者所在地描述的是两类对象。一个由某地组织发起的项目，可以由不同地区共同建设。中美项目来源前十表记录\\key{20条关系、14个来源国家}，为观察这种联系提供了具体样本。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/cmap/flow-method.md}{2-R10}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/22/sources_world_flows.pdf}\\par\n\\captionof{figure}{中美项目样本的全球贡献连接}\\label{ch2-s22-flow-world}\\end{minipage}\\par\\vspace{4pt}\n\\src{2026报告年度；中美项目来源前十样本。连线方向为开发者所在地至项目归属地。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/cmap/flow-method.md}{2-R10}}\n已列来源横跨北美、欧洲与亚洲。中美开发者均参与对方归属项目，加拿大、德国、英国和印度等来源也同时出现在两组记录中。地图说明贡献来自哪里；各来源的份额与已列跨境构成，集中在2.6节比较。\n\n这里的连线表示协作贡献，而非人员迁居、资金转移或软件使用流向。两端的地域标签都必须保留，才能避免把“项目在哪里”误写成“所有工作由哪里完成”。",
+    "figures": [
+      "modules/02/figures/22/sources_world_flows.pdf"
+    ]
+  },
+  {
+    "tex": "\\renewcommand{\\CurrentSection}{2.3 全球开源项目影响力地图}\n\n\n\\phantomsection\\label{ch2-sec23}\\pdfbookmark[1]{2.3 全球开源项目影响力地图}{ch2-section23}\n\\label{ch2-unit23-0}\n\\noindent\\includegraphics[width=\\linewidth]{figures/new/nav_23.pdf}\\par\\vspace{3pt}\n\\section*{2.3 全球开源项目影响力地图}\n\\lead{协作汇聚为项目，影响分布未必与贡献来源相同}\n项目的网络影响不会简单复制开发者所在地的分布。本节从全球归属、五域变化和中国项目样本，观察协作网络中的项目位置。\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/23/world_map.pdf}\\par\n\\includegraphics[width=\\linewidth]{modules/02/figures/23/world_rank.pdf}\\par\n\\captionof{figure}{项目影响力的地域分布与前20国家读数}\\label{ch2-s23-world}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：OpenDigger / OpenShare，2025自然年；沿用原表30国标签，未列项不作零值。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/imap/influence.json}{2-R14}}\n“项目”沿用源表边界，可能包含多个仓库。OpenRank提供识别协作节点的线索，不直接代表产品质量、用户规模或经济价值。\\SourceCite{https://open-digger.cn/docs/user-docs/metrics/global-openrank}{2-R13}",
+    "figures": [
+      "figures/new/nav_23.pdf",
+      "modules/02/figures/23/world_map.pdf",
+      "modules/02/figures/23/world_rank.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit23-1}\n\\subsection*{2.3.1 全球分布：集中格局与组织线索}\n\\pdfbookmark[2]{2.3.1 全球分布：集中格局与组织线索}{ch2-outline23-1}\n2025自然年归档的30个国家标签中，项目影响力合计约\\key{273.91万OpenRank}，美国与中国合计占88.8\\%。这一集中度首先反映已纳入标签统计的项目结构，不能据此推及全部开源资源的归属。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/imap/influence.json}{2-R14}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/23/geography_organizations.pdf}\\par\n\\captionof{figure}{国家标签得分结构与企业条目读数}\\label{ch2-s23-orgs}\\end{minipage}\\par\\vspace{4pt}\n原企业榜前六为微软、华为、谷歌、Meta、亚马逊和英伟达。企业条目为理解项目背后的组织提供入口，但国家与企业是不同归属视角，不能将两类得分相加。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/imap/influence.json}{2-R14}\n\n较高网络得分通常使项目值得进一步关注；支持重点仍须落实到维护需求、外部参与及实际依赖。对于一项目多仓库、基金会托管和组织发起等情形，还需核对历史映射，不能仅凭当前名称重分历史得分。\n\n\\src{本节沿用原表项目与地域标签；项目—仓库边界、跨平台去重及地域汇总的生产版本尚待补齐，不据现有标签重新划分历史分数。}",
+    "figures": [
+      "modules/02/figures/23/geography_organizations.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit23-2}\n\\subsection*{2.3.2 五域比较：贡献投入与项目影响力的地域差异}\n\\pdfbookmark[2]{2.3.2 五域比较：贡献投入与项目影响力的地域差异}{ch2-outline23-2}\n开发者贡献较多的地区，是否也具有较大的项目影响力？五域比较给出了不同排序：欧洲在贡献度中居首，美国在项目影响力中居首，中国两项均居第二。两项指标分别观察协作者投入与项目网络位置。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/imap/observations.json}{2-R15}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/23/five_comparison.pdf}\\par\n\\captionof{figure}{五域开发者贡献度与项目影响力的独立排序}\\label{ch2-s23-compare}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：编制组五域底表，2025-07-01—2026-06-30。}\n欧洲贡献度约650.16万、项目影响力约18.35万OpenRank；美国分别约423.97万与175.14万。它们不是同一数量的流入和流出，不能相除为“贡献转化率”，也不能用其差额计算净收益。\n\n这一差异与2.2的跨境连接相互提示：开发者可以持续建设归属其他地区的项目。同时，项目标签覆盖与组织归属规则也会改变汇总结果。真实协作结构与统计覆盖各自解释多少，仍需项目级证据。\n\n印度与南方六国代表组在本表的项目得分较小，不等于其开发者能力或本地创新较弱。对较少被标签覆盖的地区，补齐项目清单应先于扩展判断。",
+    "figures": [
+      "modules/02/figures/23/five_comparison.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit23-3}\n\\subsection*{项目影响：同时观察规模与相对变化}\n五年间，美国保持项目影响力的规模优势，中国相对增长较快。2022—2026报告年度，中国由27.74万增至72.10万，美国由134.19万增至175.14万。不同起点使绝对差额与相对位置呈现不同变化。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/imap/observations.json}{2-R15}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/23/five_evolution.pdf}\\par\n\\captionof{figure}{五域项目影响力轨迹与累计增幅}\\label{ch2-s23-growth}\\end{minipage}\\par\\vspace{4pt}\n中国得分相当于美国的比例由\\key{20.7\\%升至41.2\\%}，但绝对差距并非逐年缩小。统一基期的指数显示扩张幅度，原始读数保留量级，两者应一起阅读。\n\n高存量与快增长对应不同的支持问题：前者需要了解已有依赖与维护连续性，后者需要考察增长中的协作安排能否跟上。区域曲线不能替代对具体项目的判断。\n\n\\src{增长指数以各组2022年为100，五组使用共同尺度；当前得分另列。}",
+    "figures": [
+      "modules/02/figures/23/five_evolution.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit23-4}\n\\subsection*{2.3.3 中国观察：头部项目与样本结构}\n\\pdfbookmark[2]{2.3.3 中国观察：头部项目与样本结构}{ch2-outline23-4}\n中国30项项目样本提供了比地域汇总更具体的观察。OpenHarmony与openEuler得分居前，两项合计占条目得分的\\key{53.7\\%}；前十项合计占84.3\\%。前15项读数与完整30项的分组结构共同呈现了样本层次。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/imap/observations.json}{2-R15}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/23/china_sample.pdf}\\par\n\\captionof{figure}{中国项目样本的前15项读数与30项得分结构}\\label{ch2-s23-china}\\end{minipage}\\par\\vspace{4pt}\n\\src{分母为原表30项条目得分合计17.63万OpenRank；不是全国项目影响力总量。}\n头部集中提示应进一步关注关键项目的维护连续性，但单期样本不能说明这些项目贡献了全国增长的多少，也不能把样本以外的项目视为不存在。\n\n稳定关键项目与支持成长项目并不矛盾。前者可重点检查依赖和维护缺口，后者可结合真实用途、外部反馈与共同建设条件确定支持方式。",
+    "figures": [
+      "modules/02/figures/23/china_sample.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit23-5}\n\\subsection*{项目影响力与参与规模，提供互补的观察}\n在样本影响力前十项中，按活跃人数重排后，CANN与Ascend次序互换，Cangjie与openGauss也出现不同位次。\\key{参与人数与网络影响提供的是两种信息}，不宜互相替代。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/imap/observations.json}{2-R15}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/23/project_participation.pdf}\\par\n\\captionof{figure}{中国样本前十项的影响力与活跃开发者排序}\\label{ch2-s23-people}\\end{minipage}\\par\\vspace{4pt}\n人数回答参与规模，网络得分还涉及协作关系与历史积累。得分除以人数并不等于开发效率；是否形成可靠成果，还需质量、采用与维护证据。\\SourceCite{https://open-digger.cn/docs/user-docs/metrics/global-openrank}{2-R13}\n\n公开标签显示，OpenHarmony与openEuler关联多个平台组织，AgentScope以GitHub组织为入口。这说明项目未必等于单个仓库，也提醒跨平台汇总必须保留去重与归属依据。\\SourceCite{https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/companies/huawei/openharmony.yml}{2-R17}\n\n因此，项目支持应落到具体的维护团队与工作，而不只看归属标签。下一节由项目回到人，观察网络影响较高的参与者在不同地区怎样积累与变化。",
+    "figures": [
+      "modules/02/figures/23/project_participation.pdf"
+    ]
+  },
+  {
+    "tex": "\\renewcommand{\\CurrentSection}{2.4 全球开源人才地图}\n\n\n\\phantomsection\\label{ch2-sec24}\\pdfbookmark[1]{2.4 全球开源人才地图}{ch2-section24}\n\\label{ch2-unit24-0}\n\\noindent\\includegraphics[width=\\linewidth]{figures/new/nav_24.pdf}\\par\\vspace{3pt}\n\\section*{2.4 全球开源人才地图}\n\\lead{观察高影响力参与者的地域积累与变化}\n人才地图沿用“个人全域OpenRank前5\\%”样本，观察地域分布、净增与增幅。筛选总体、得分窗口和并列规则仍待核；人数变化不直接代表能力评价或培养成效。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/tmap/fig-2-4-1_global_open_source_talent_map.csv}{2-R19}\\SourceCite{https://open-digger.cn/docs/user-docs/metrics/global-openrank}{2-R13}\n\n\\eyebrow{2.4.1 全球分布：规模中心与广泛节点}\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/24/world_talent.pdf}\\par\n\\includegraphics[width=\\linewidth]{modules/02/figures/24/world_rank.pdf}\\par\n\\captionof{figure}{高影响力人才的全球分布与前20个国家读数}\\label{ch2-s24-world}\\end{minipage}\\par\\vspace{4pt}\n\\src{全球图沿用2026年7月快照；其他年度比较另用报告年度底表。未收录地域不记为零，地域记录不据此推算全球人才总量。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/tmap/fig-2-4-1_global_open_source_talent_map.csv}{2-R19}}",
+    "figures": [
+      "figures/new/nav_24.pdf",
+      "modules/02/figures/24/world_talent.pdf",
+      "modules/02/figures/24/world_rank.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit24-1}\n\\subsection*{2.4.2 五域比较：人才积累与当期变化}\n\\pdfbookmark[2]{2.4.2 五域比较：人才积累与当期变化}{ch2-outline24-1}\n在固定五域年度序列中，欧洲保持最大的样本规模。该序列用于比较各组长期积累，与前页2026年7月的全球快照分别阅读，不由两者推算覆盖率。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/tmap/fig-2-4-2_five_region_open_source_talent_trend.csv}{2-R20}\n\n2026报告年度，欧洲为\\key{58,000人}，美国35,000人，中国13,100人；南方六国代表组和印度分别为9,032人与7,515人。五组较2022年均有增加，当前规模仍呈明显梯度。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/tmap/fig-2-4-2_five_region_open_source_talent_trend.csv}{2-R20}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/24/five_trend.pdf}\\par\n\\captionof{figure}{五域高影响力人才的年度积累与当期变化}\\label{ch2-s24-five-trend}\\end{minipage}\\par\\vspace{4pt}\n\\src{五域报告年度序列，2022—2026；与2026年7月全球快照分开阅读。}\n较大的群体提供了寻找同行与项目的广泛基础，较小群体则不应因规模而被排除在合作之外。参与者能否获得真实任务、评审反馈和维护机会，需要在地域数量之外继续观察。\n\n\\src{五域采用固定比较组，南方六国的成员范围见章首阅读说明；该表不用于推算全球总人数。}",
+    "figures": [
+      "modules/02/figures/24/five_trend.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit24-2}\n\\subsection*{增长的两种尺度：净增人数与相对幅度}\n2026较2025报告年度，欧洲净增\\key{2,867人}，中国净增\\key{982人}；中国同比增幅8.1\\%，为五组最高。净增人数与相对增幅分别回答增加了多少、扩大得多快，因而排序可以不同。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/tmap/fig-2-4-2_five_region_open_source_talent_trend.csv}{2-R20}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/24/five_change.pdf}\\par\n\\captionof{figure}{五域人才净增与同比增幅：不同基数下的两种排序}\\label{ch2-s24-five-change}\\end{minipage}\\par\\vspace{4pt}\n\\src{同比为2026较2025报告年度；五域筛选规则沿用归档，细节待核。}\n\\par\\vspace{4pt}\\noindent\\includegraphics[width=\\linewidth]{modules/02/figures/24/relative_gap.pdf}\\par\\vspace{5pt}\n中国人数相当于美国的比例从2022年的35.1\\%升至2026年的37.4\\%。整个区间的中美人数差额仍扩大，但最近一年缩小538人。一个区间的累计变化，不能概括每一年的方向。\n\n对人才支持而言，两种尺度相互补充：已有中心承接的新增需求较多，较快成长的群体也可能需要更稳定的合作条件。判断仍须回到参与和工作机会，而非单凭增幅。",
+    "figures": [
+      "modules/02/figures/24/five_change.pdf",
+      "modules/02/figures/24/relative_gap.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit24-3}\n\\subsection*{2.4.3 中国城市：规模中心与成长节点并存}\n\\pdfbookmark[2]{2.4.3 中国城市：规模中心与成长节点并存}{ch2-outline24-3}\n中国固定十城样本进一步呈现了城市间的差异。2026报告年度，十城合计\\key{3,590人}，北京与上海合计占52.5\\%；杭州、深圳和台北居其后，成都、广州、武汉、南京与苏州也各有一定规模。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/tmap/fig-2-4-4_china_top10_city_talent_trend.csv}{2-R21}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/24/city_map_rank.pdf}\\par\n\\captionof{figure}{中国固定十城的人才位置、人数排行与样本结构}\\label{ch2-s24-city-map}\\end{minipage}\\par\\vspace{4pt}\n这是对固定十城的观察，不是全国城市完整排名。点位表示城市位置，不能据其推算人才密度、迁入人数，或将未列城市视为没有人才。\n\n规模中心与其他节点可为区域合作提供不同入口，但地图上的接近不等于已经发生协作。连接是否稳定，还需共同项目、任务分工与持续维护记录。\n\n\\src{样本范围固定为原表十城；台北纳入中国城市观察。地图锚点表示城市中心，不表示个人位置。}",
+    "figures": [
+      "modules/02/figures/24/city_map_rank.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit24-4}\n\\subsection*{城市增长：头部贡献更多增量，较小节点也在扩大}\n2022—2026报告年度，十城合计净增\\key{722人}，北京与上海合计贡献49.3\\%的净增量。武汉与成都的累计增幅较高，分别为45.8\\%和43.7\\%，对应增加33人与55人。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/tmap/fig-2-4-4_china_top10_city_talent_trend.csv}{2-R21}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/24/city_growth.pdf}\\par\n\\captionof{figure}{固定十城的累计净增人数与相对增幅}\\label{ch2-s24-city-growth}\\end{minipage}\\par\\vspace{4pt}\n\\src{中国固定十城，2022—2026报告年度；净增由两期人数相减。}\n最近一年则是上海净增118人最多、杭州增幅17.4\\%最高。比较长度不同，增长重点也会变化。因此，既要看长期积累，也要看近期变化，避免只凭一个增长率选取合作对象。\n\n本节支持的行动是扩大真实任务、导师评审与维护时间的供给，而非按个人网络得分作全面能力判断。人的持续投入还会沉淀为代码、模型与数据；下一节转向这些可继续使用的开放资产。",
+    "figures": [
+      "modules/02/figures/24/city_growth.pdf"
+    ]
+  },
+  {
+    "tex": "\\renewcommand{\\CurrentSection}{2.5 全球开源资产地图}\n\n\n\\phantomsection\\label{ch2-sec25}\\pdfbookmark[1]{2.5 全球开源资产地图}{ch2-section25}\n\\label{ch2-unit25-0}\n\\noindent\\includegraphics[width=\\linewidth]{figures/new/nav_25.pdf}\\par\\vspace{3pt}\n\\section*{2.5 全球开源资产地图}\n\\lead{供给加速扩张，发布之后的工作同样重要}\n代码、模型与数据集，是协作留下的可继续使用和改进的成果。AI改变了生成与发布的节奏，也使供给观察需要区分：产生了多少活动，积累了多少资产，以及这些成果能否被理解、采用和维护。\n\nGitHub 2026年报显示，代码提交、合入修改请求及公共贡献均显著增加。本图保留三类计数，作为理解工作节奏的外部参照；它们不是独立项目数，也不能直接换算为生产率。\\SourceCite{https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/}{2-R5}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/25/github_ai_activity.pdf}\\par\n\\captionof{figure}{GitHub官方观察：代码活动的扩张及其不同计数对象}\\label{ch2-s25-fig-gh}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：GitHub Octoverse 2026。2026标签指截至2026-09-30的12个月；对比数值沿用该报告口径，与GOSD年度资产存量分开呈现。}\n资产地图由此先观察代码供给，再看模型与数据。平台官方观察与本报告发布单位样本分别呈现活动、供给与使用结构，采用各自的对象清单和时间窗口。",
+    "figures": [
+      "figures/new/nav_25.pdf",
+      "modules/02/figures/25/github_ai_activity.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit25-1}\n\\subsection*{2.5.1 代码资产：规模与增长分别观察}\n\\pdfbookmark[2]{2.5.1 代码资产：规模与增长分别观察}{ch2-outline25-1}\n2026报告年度，四个平台的活跃仓库记录均较上年增加。GitHub为\\key{632.86万个}，Gitee为438.89万个，AtomGit和GitLab分别为60.41万个与11.78万个。规模排序并不等于净增排序。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-7-1_platform_active_repository_trend.csv}{2-R22}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/25/platform_scale_growth.pdf}\\par\n\\captionof{figure}{四平台活跃仓库规模、同比净增与增幅}\\label{ch2-s25-fig-platform}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：报告编制组原表。2026报告年度为2025-07-01至2026-06-30；GitCode按既定口径显示为AtomGit。}\nGitee净增51.40万个，略高于GitHub的49.75万个；AtomGit净增47.58万个，与前两者接近，但较小基数使其同比增幅达到371.0\\%。判断扩张应同时看当前规模、净增量与基数。",
+    "figures": [
+      "modules/02/figures/25/platform_scale_growth.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit25-2}\n\\subsection*{沿时间观察：年度回升与长期扩张有所不同}\n五年序列补充了单年比较看不到的路径。GitHub与Gitee的活跃仓库记录逐年增加，累计均增长约30.3\\%；GitLab在2026年同比回升5.2\\%，但仍比2022年低约9.6\\%。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-7-1_platform_active_repository_trend.csv}{2-R22}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/25/platform_paths.pdf}\\par\n\\captionof{figure}{四个平台的活跃仓库历史路径}\\label{ch2-s25-fig-paths}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：报告编制组原表。AtomGit在2022、2023年无值；独立纵轴用于辨认各平台路径，不用于比较曲线的视觉陡峭程度。}\n活跃净增不等于新建仓库。既有仓库重新发生协作，会进入当期活跃集合；暂停协作则可能退出。平台收录和判定规则也会影响结果，因此不能将净增全部解释为新项目创建。\n\n四平台记录合计1,143.94万个，反映各平台的观察范围，而非跨平台去重后的全球独立项目总量。对供给的进一步判断，应结合持续维护、版本更新与实际使用。",
+    "figures": [
+      "modules/02/figures/25/platform_paths.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit25-5}\n\\subsection*{2.5.2 模型资产：目录扩大，可用供给也在重组}\n\\pdfbookmark[2]{2.5.2 模型资产：目录扩大，可用供给也在重组}{ch2-outline25-5}\nHugging Face（HF）是模型、数据集与应用演示的重要托管平台。其2026年夏季观察记录，公开模型仓库由约243万增至296万，数据集由71.1万增至100万，应用展示空间（Spaces）由100万增至144万。目录扩张也包含适配、格式转换与试用入口。\\SourceCite{https://github.com/huggingface/blog/blob/9e982d5f2ff0c93248a897bf1e0c59c9828c5ab8/state-of-open-models-summer-2026.md}{2-R24}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/25/hf_growth_and_reuse.pdf}\\par\n\\captionof{figure}{HF官方观察：平台供给增长与模型再加工的参与主体}\\label{ch2-s25-fig-hf}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：HF Summer 2026固定文本。原文总体观察为2026年1—8月，部分分析止于7月；期初／期末数值为约数。Qwen转换统计按原文独立范围呈现。}\n原研究列出的28,531个Qwen相关GGUF转换条目中，Qwen账号发布54个，其余由其他账号发布。GGUF是一种便于相关运行工具加载模型的文件格式；转换记录说明，\\key{基础发布与后续加工由不同参与者共同完成}。\\SourceCite{https://github.com/huggingface/blog/blob/9e982d5f2ff0c93248a897bf1e0c59c9828c5ab8/state-of-open-models-summer-2026.md}{2-R24}\n\n条目增加并不自动意味着新增独立能力，适配能降低哪些门槛仍需具体核查。下面以发布单位样本观察地域供给；模型家族、派生关系与开放条件留待第五章系统展开。",
+    "figures": [
+      "modules/02/figures/25/hf_growth_and_reuse.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit25-6}\n\\subsection*{模型地域：全球平台之外的发布单位观察}\n本报告沿用的发布单位累计样本覆盖63个国家和地区、826家发布单位，共有\\key{72,280个模型条目}。美国为45,801个、中国6,017个，法国、德国、芬兰和英国等地也形成了可识别的供给节点。该样本补充的是发布方结构，不是平台全量。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/amap/observations.json}{2-R25}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/25/model_geography.pdf}\\par\n\\captionof{figure}{模型发布单位样本的地域分布与数量排序}\\label{ch2-s25-fig-models}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：原稿Hugging Face发布单位累计样本。快照日期未注明；不作为本报告主统计期的年度新增量。}\n欧洲已列六国合计10,084个，占完整样本14.0\\%；已列14国覆盖样本数量的94.3\\%。欧洲小计只包括原表已列成员，其余地域保留在总体分母中，不视为没有供给。\n\n发布方所在地不同于模型使用者所在地。样本快照日期尚未注明，因此不与官方平台总量相除求覆盖率，也不改称本报告年度新增量。",
+    "figures": [
+      "modules/02/figures/25/model_geography.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit25-7}\n\\subsection*{模型使用：数量、下载与任务各有侧重}\n同一发布单位样本中，美国模型的数量与下载份额分别为63.4\\%和73.9\\%，中国分别为8.3\\%和12.6\\%。中国下载份额高出数量份额约\\key{4.3个百分点}，显示发布积累与下载信号并非按相同比例分布。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/amap/observations.json}{2-R25}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/25/model_use_tasks.pdf}\\par\n\\captionof{figure}{模型数量与下载份额，以及独立任务快照}\\label{ch2-s25-fig-modeluse}\\end{minipage}\\par\\vspace{4pt}\n\\src{A：原稿发布单位样本；B：2026-10-15采集的独立任务分布。两个面板不共享样本总量。}\n独立任务快照从用途补充这一观察：文本生成条目最多，文本分类、图像生成与语音识别等也各有规模。任务标签记录资源如何被描述，不直接评价技术水平或需求满足程度。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/amap/modelTasks.json}{2-R26}\n\n下载计数可能包含重复与自动化请求，不等于独立用户或生产部署。不同库、格式与文件请求的规则也会影响读数，因此这里只将它作为受统计口径约束的使用信号。\\SourceCite{https://huggingface.co/docs/hub/models-download-stats}{2-R27}",
+    "figures": [
+      "modules/02/figures/25/model_use_tasks.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit25-8}\n\\subsection*{2.5.3 数据资产：发布结构与模型并不相同}\n\\pdfbookmark[2]{2.5.3 数据资产：发布结构与模型并不相同}{ch2-outline25-8}\n数据集与模型的供给结构并不相同。发布单位样本中的\\key{12,291个数据集条目}，包括美国5,871个、中国1,338个；德国、法国和爱尔兰等地亦位于已列国家前列。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/amap/observations.json}{2-R25}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/25/dataset_geography.pdf}\\par\n\\captionof{figure}{数据集发布单位样本的地域分布与数量排序}\\label{ch2-s25-fig-datasets}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：原稿Hugging Face发布单位累计样本。快照日期未注明；地域表示发布方归属，不表示数据采集或使用地点。}\n欧洲已列五国合计2,359个，占完整样本19.2\\%。德国与爱尔兰在数据集数量表中的位次高于模型表，提示不同类型资产需要分别观察，不能由模型供给概括整个开放生态。\n\n可复用的数据还需要来源、许可、字段与任务说明。数据卡提供这些信息的结构化入口，帮助使用者判断适用性；发布数量本身不能替代材料检查。\\SourceCite{https://huggingface.co/docs/hub/datasets-cards}{2-R28}",
+    "figures": [
+      "modules/02/figures/25/dataset_geography.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit25-9}\n\\subsection*{数据使用：任务变化带来新的供给需求}\n美国数据集的数量与下载份额分别为47.8\\%和82.6\\%，中国分别为10.9\\%和4.7\\%。中国下载份额低约\\key{6.2个百分点}，与模型样本形成对照，说明不同资产的使用结构不可互相推断。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/amap/observations.json}{2-R25}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/25/dataset_use_tasks.pdf}\\par\n\\captionof{figure}{数据集数量与下载份额，以及独立任务快照}\\label{ch2-s25-fig-datause}\\end{minipage}\\par\\vspace{4pt}\n\\src{A：原稿发布单位样本；B：2026-10-15采集的独立任务分布。任务标签可重叠，不作为互斥资产类别。}\n独立任务快照中，机器人标签条目居首；HF春季研究另记录该类数据集由2024年的1,145个增至2025年的26,991个。两套资料都提示新任务带来的供给需求，但不拼接为同一连续序列。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/amap/datasetTasks.json}{2-R29}\\SourceCite{https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026}{2-R30}\n\n从代码、模型到数据，支持重点不应停留在发布量。版本、说明、测试、反馈与维护决定成果能否被接续使用。下一节观察这些供给背后的参与来源和技术选择，进一步辨认谁进入了共同建设。",
+    "figures": [
+      "modules/02/figures/25/dataset_use_tasks.pdf"
+    ]
+  },
+  {
+    "tex": "\\renewcommand{\\CurrentSection}{2.6 全球开源多样性地图}\n\n\n\\phantomsection\\label{ch2-sec26}\\pdfbookmark[1]{2.6 全球开源多样性地图}{ch2-section26}\n\\label{ch2-unit26-0}\n\\noindent\\includegraphics[width=\\linewidth]{figures/new/nav_26.pdf}\\par\\vspace{3pt}\n\\section*{2.6 全球开源多样性地图}\n\\lead{由规模转向构成，看见不同来源与技术选择}\n从参与、贡献、项目、人才与资产出发，本节进一步观察来源构成、技术选择与跨地域连接，分别呈现有明确范围的多样性。\n\n\\eyebrow{2.6.1 全球来源：从主要节点看向更广泛的参与}\n在2025自然年贡献快照中，固定五国——美国、德国、中国、英国和印度——之外，法国、加拿大、巴西、荷兰、日本等地也提供了可观贡献。展开头部之外的来源，有助于避免把生态理解为少数中心的集合。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/cmap/countries.csv}{2-R7}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/26/global_origins.pdf}\\par\n\\captionof{figure}{全球贡献分布与固定五国之外的主要来源}\\label{ch2-s26-fig-origins}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：OpenDigger／GOSD归档，2025自然年快照。排行份额以已列236个地区的贡献合计为分母。}",
+    "figures": [
+      "figures/new/nav_26.pdf",
+      "modules/02/figures/26/global_origins.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit26-1}\n\\subsection*{总体构成稳定，年度份额变化并非单向}\n2022—2026报告年度，固定五国的合计份额由49.47\\%变为48.62\\%，总体变化较小。逐年展开后，各来源的调整路径则明显不同。构成条保留当期结构，变化矩阵区分每年的升降。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/dmap/source/fig-2-5-1_country_contribution_share_trend.csv}{2-R34}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/26/source_structure_change.pdf}\\par\n\\captionof{figure}{贡献来源的当期构成、逐年变化与累计变化}\\label{ch2-s26-fig-sharechange}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：报告编制组份额表，2022—2026报告年度。热力色深共用尺度，表示年度变动幅度；右栏为2026较2022的百分点差额。}\n最近一年，中国与印度分别回升\\key{0.43和0.41个百分点}，美国下降0.97个百分点。中国2025年下降后回升，美国2025年上升后回落，说明年度调整并非持续的单向转移。\n\n五年累计，美国下降2.34个百分点，印度上升0.80个百分点，其他地区合计上升0.85个百分点。其他地区仍是集合，不能据此判断新增了多少国家；份额升降也不同于贡献总量增减。",
+    "figures": [
+      "modules/02/figures/26/source_structure_change.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit26-2}\n\\subsection*{技术参与：2026年语言社区的规模与扩张}\n地域之外，编程语言提供了观察技术参与的另一条线索。GitHub Octoverse 2026显示，TypeScript、Python与JavaScript的月度参与规模保持前三；2025年9月至2026年9月，分别净增约362万、323万与182万月度贡献者。\\SourceCite{https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/}{2-R5}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/26/language_profile.pdf}\\par\n\\captionof{figure}{2026年主要语言的月度贡献者增量与部分语言同比增幅}\\label{ch2-s26-fig-language}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：GitHub Octoverse 2026正文及官方图。2025年9月至2026年9月；默认含公私仓，账号可跨语言重复。仅绘制已明确公布的值，不使用2027年预测。}\n人数增量最大的是TypeScript，官方所列主要语言中同比增幅最高的是Rust，达到162\\%；TypeScript、Python和Java分别为134\\%、118\\%与30\\%。较小社区可以更快扩张，大型社区仍可能增加更多参与者。\n\n月度贡献者包括在对应语言仓库中推送、提出问题、提交修改和参与评审的去重账号，不仅是直接写代码的人。账号可同时参与多种语言，不能把各语言人数相加为独立总人数。",
+    "figures": [
+      "modules/02/figures/26/language_profile.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit26-3}\n\\subsection*{工具使用与仓库结构：关联存在，机制仍需辨认}\n工具使用与技术选择也呈现关联。GitHub同时观察了各语言已合入修改请求中的可检测AI参与比例，以及不同仓库群体的主语言构成。前者描述工作流程，后者描述代码组织，分母不同。\\SourceCite{https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/}{2-R5}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/26/language_agent_patterns.pdf}\\par\n\\captionof{figure}{不同语言的AI参与信号与TypeScript仓库构成}\\label{ch2-s26-fig-languageai}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：GitHub Octoverse 2026官方图及正文，观察至2026年9月。上图以各语言已合入PR为分母；下图以相应仓库组为分母。检出比例不代表AI生成代码占比。}\n所列八种语言中，AI检出比例介于Java的21.2\\%与TypeScript的44.1\\%之间。这里识别的是可见信号，不是AI生成代码的比例；未检出也不能判为没有使用AI。\n\n2026年新建仓库中，有Agent信号者35\\%以TypeScript为主语言，无该信号者为24\\%；此前创建的仓库分别为27\\%与17\\%。差异提示工具与技术选择值得联合研究，但不能排除项目用途、团队经验和框架选择等因素。",
+    "figures": [
+      "modules/02/figures/26/language_agent_patterns.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit26-4}\n\\subsection*{2.6.2 中美对照：跨境份额与来源构成分别观察}\n\\pdfbookmark[2]{2.6.2 中美对照：跨境份额与来源构成分别观察}{ch2-outline26-4}\n2.2已呈现中美项目的贡献连接。本节沿用同一来源前十表，比较本土与跨境份额，并观察已列海外贡献由谁构成：中国项目的已列跨境份额为14.02\\%，美国为39.66\\%；未列来源继续单独保留。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/dmap/source/table-2-5-1_china_us_project_contribution_top10.csv}{2-R35}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/26/external_structure_bounds.pdf}\\par\n\\captionof{figure}{中美项目的来源覆盖与已列跨境贡献内部构成}\\label{ch2-s26-fig-external}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：中美项目来源前十表，2026报告年度。上栏分母为各组全部贡献，下栏为各自已列海外贡献；未列来源保留。}\n仅以各自已列海外贡献为分母，美国来源占中国项目的44.4\\%；中国来源占美国项目的19.6\\%，德国、英国与加拿大也各占较大部分。跨境份额说明海外贡献占多少，内部构成则说明这些贡献由谁提供。\n\n中国样本的已列海外贡献更集中于最大单一来源，美国样本相对分散。该观察只涉及前十表已列部分，完整结构仍受未列来源影响，不能据此推导项目吸引力或治理优劣。",
+    "figures": [
+      "modules/02/figures/26/external_structure_bounds.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit26-5}\n\\subsection*{2.6.3 贡献连接：同一来源可支持多地项目}\n\\pdfbookmark[2]{2.6.3 贡献连接：同一来源可支持多地项目}{ch2-outline26-5}\n另一份扩展关系表覆盖14个来源和10个项目归属地区。本页选取其中进入中美项目的20条，用统一尺度呈现本土支持与跨地域参与；它与2.2的来源前十表是独立样本，不能用两表差额解释变化。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/dmap/source/fig-2-5-2_cross_border_project_contribution_flow.csv}{2-R36}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/26/contribution_sankey.pdf}\\par\n\\captionof{figure}{中美项目样本的跨地域贡献连接}\\label{ch2-s26-fig-sankey}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：60条归档关系中进入中美项目的20条，2026报告年度。带宽按贡献度线性绘制；与图\\ref{ch2-s26-fig-external}的来源前十表为独立样本。}\n本表中国来源对本土项目的贡献为44,698.58 OpenRank，对美国项目为43,542.15，两者接近。\\key{参与国际项目与支持本土项目可以同时发生}，不宜将其视为相互替代的选择。\n\n带宽表示已列贡献度，不是人数、资金或迁移数量。关系能否延续、外部贡献者能否承担共同维护，仍需项目层面的长期观察。",
+    "figures": [
+      "modules/02/figures/26/contribution_sankey.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit26-6}\n\\subsection*{从重点流向展开到全部已列关系}\n同一扩展关系表的全部60条记录，在图\\ref{ch2-s26-fig-matrix}中展开为来源—目的地矩阵。与前页桑基图相比，矩阵便于逐项查找，保留了主要通道之外的连接。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/dmap/source/fig-2-5-2_cross_border_project_contribution_flow.csv}{2-R36}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/26/flow_matrix.pdf}\\par\n\\captionof{figure}{贡献来源与项目归属地区的已列关系矩阵}\\label{ch2-s26-fig-matrix}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：报告编制组60条关系表，2026报告年度。单位：万OpenRank；本土单元格以边框标识，灰格为未列。}\n中国来源还出现在印度、德国、英国、加拿大、法国和波兰的项目记录中，其他来源也呈现多向参与。不同地区的协作不是只有单向“输出”或“接收”，项目归属与共同建设者所在地需同时保留。\n\n中美目的地各列10个来源，其他目的地各列5个，因而灰格表示未列、不是零。支持多元参与，应从可进入的任务、可获得的反馈和明确的维护职责着手，而非单凭已列连接数评价。下一节转向这些合作的组织与规则基础。",
+    "figures": [
+      "modules/02/figures/26/flow_matrix.pdf"
+    ]
+  },
+  {
+    "tex": "\\renewcommand{\\CurrentSection}{2.7 全球开源治理与社会公益地图}\n\n\n\\phantomsection\\label{ch2-sec27}\\pdfbookmark[1]{2.7 全球开源治理与社会公益地图}{ch2-section27}\n\\label{ch2-unit27-0}\n\\noindent\\includegraphics[width=\\linewidth]{figures/new/nav_27.pdf}\\par\\vspace{3pt}\n\\section*{2.7 全球开源治理与社会公益地图}\n\\lead{组织支持与共享规则，为持续合作提供条件}\n开源协作需要清楚的责任、参与入口与复用规则。本节从基金会项目、协作材料、许可采用与木兰实践，观察持续合作的支持条件。\n\n\\eyebrow{2.7.1 组织承载：规模扩展与影响累积节奏不同}\n基金会项目样本中，2022—2026年活跃仓库净增187个，其中157个集中在最近一年，约占84.0\\%；OpenRank份额由2.63\\%逐年升至2.93\\%。两项指标均提高，规模扩展与份额积累却有不同节奏。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-6-1_foundation_share_and_active_repositories.csv}{2-R38}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/27/foundation_observation.pdf}\\par\n\\captionof{figure}{基金会项目样本的规模、影响份额与年度增量}\\label{ch2-s27-fig-foundation}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：报告编制组归档，2022—2026报告年度。图线展示相对2022的累计增量，原始起止值单列；样本名单及份额分母待核验。}",
+    "figures": [
+      "figures/new/nav_27.pdf",
+      "modules/02/figures/27/foundation_observation.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit27-1}\n\\subsection*{组织分工与协作入口：责任清楚，规则易得}\nApache的公开治理文件将基金会共同服务、项目管理和贡献者工作分别安排：法律实体与基础设施提供共同支持，项目层面的技术方向、发布和社区事务依其治理规则处理。这为理解“组织承载”提供了具体而非抽象的例子。\\SourceCite{https://apache.org/foundation/how-it-works/}{2-R41}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/27/governance_roles.pdf}\\par\n\\captionof{figure}{Apache实践中的机构支持、项目管理与贡献参与}\\label{ch2-s27-fig-roles}\\end{minipage}\\par\\vspace{4pt}\n\\src{依据Apache官方治理说明整理，查证于2026年11月5日；单一机构实践，不作治理评分。}\n明确职责之外，参与者还需要找到规则。GitHub 2025报告中，README、贡献指南与行为准则的覆盖分别约为63\\%、5.5\\%和2\\%。项目介绍与共同参与的入口，并不具有相同覆盖。\\SourceCite{https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/}{2-R43}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/27/governance_file_coverage.pdf}\\par\n\\captionof{figure}{GitHub公共仓库中项目说明与协作规则材料的覆盖}\\label{ch2-s27-fig-govfiles}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：GitHub Octoverse 2025。三项覆盖率独立统计、可能重叠；文件存在不等于规则有效执行。}\n未检出也可能是材料位于网站或基金会文档。更有意义的检查是：入口是否清楚、内容对应哪个版本、谁回应问题、责任如何接续。",
+    "figures": [
+      "modules/02/figures/27/governance_roles.pdf",
+      "modules/02/figures/27/governance_file_coverage.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit27-2}\n\\subsection*{2.7.2 共享规则：规模排序与增长幅度并不相同}\n\\pdfbookmark[2]{2.7.2 共享规则：规模排序与增长幅度并不相同}{ch2-outline27-2}\n许可证说明他人可以怎样使用、修改和分发成果，是共享规则的重要入口。所列五种许可证的采用数量均增长，MIT与Apache-2.0保持规模前两位；BSD-3-Clause在2025年超过GPL-3.0。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-6-2_active_repository_license_trend.csv}{2-R39}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/27/license_trend_shared_axis.pdf}\\par\n\\captionof{figure}{所列五种许可证的采用规模、历史趋势与累计增幅}\\label{ch2-s27-fig-licenses}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：报告编制组归档，2022—2026报告年度。五条序列采用同一零起点纵轴；仅代表所列样本，不是全球完整许可排名。}\n2022—2026年，MIT、Apache-2.0与BSD-3-Clause分别增长24.2\\%、26.5\\%和51.5\\%。规模排序与增长幅度并不相同，但都不是条款优劣的排名。具体选择还需结合用途、依赖和分发方式。\n\n五条序列采用相同纵轴，适合比较本样本的规模与路径；全球许可覆盖仍需更完整的仓库清单与一致的识别规则。",
+    "figures": [
+      "modules/02/figures/27/license_trend_shared_axis.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit27-3}\n\\subsection*{从许可名称到可核对的复用条件}\n许可名称不能替代具体条款。复用一个项目，仍需明确许可证版本、适用的代码或材料，以及分发或提供网络服务时触发的责任。下图以六种许可证概括若干关键条件，帮助读者找到核对入口。\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/27/license_terms.pdf}\\par\n\\captionof{figure}{六种许可证的关键条件与适用场景}\\label{ch2-s27-fig-terms}\\end{minipage}\\par\\vspace{4pt}\n\\src{依据OSI、ASF与SPDX官方文本概括，查证于2026年11月5日。图为阅读索引，不替代完整条款或具体适用判断。}\nMIT与BSD-3-Clause有相应声明要求；Apache-2.0还涉及明确的专利许可、修改说明及适用的NOTICE处理；GPL与AGPL分别涉及分发和修改后程序网络交互等场景下的对应源码义务。图中概括不替代完整条款及具体适用判断。\\SourceCite{https://opensource.org/license/mit}{2-R44}\\SourceCite{https://opensource.org/license/bsd-3-clause}{2-R45}\\SourceCite{https://www.apache.org/licenses/LICENSE-2.0}{2-R46}\\SourceCite{https://spdx.org/licenses/GPL-3.0-only.html}{2-R47}\\SourceCite{https://spdx.org/licenses/AGPL-3.0-only.html}{2-R48}\n\n将许可文本、第三方声明及依赖记录与发布版本关联，可以减少下游识别使用条件的困难。原统计中的GPL-3.0与AGPL-3.0未细分only和or-later，本章保留原字段，不补造更细的版本分布。",
+    "figures": [
+      "modules/02/figures/27/license_terms.pdf"
+    ]
+  },
+  {
+    "tex": "\\label{ch2-unit27-4}\n\\subsection*{2.7.3 本土实践：采用扩展与项目影响分别计量}\n\\pdfbookmark[2]{2.7.3 本土实践：采用扩展与项目影响分别计量}{ch2-outline27-4}\n木兰宽松许可证样本中，2022—2026年累计活跃仓库由27个增至391个，项目OpenRank由689增至2,580，分别约为期初的14.5倍与3.7倍。采用范围与项目影响都在增加，但变化节奏不同。\\SourceCite{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-6-3_mulan_permissive_license_trend.csv}{2-R40}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/27/mulan_adoption.pdf}\\par\n\\captionof{figure}{木兰宽松许可证样本的累计采用与项目影响力}\\label{ch2-s27-fig-mulan}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：报告编制组归档，2022—2026报告年度。“累计活跃仓库”沿用原定义，不代表当年新建仓库；原表未分许可版本。}\n最近一年，仓库数增加51个、增长15.0\\%；项目OpenRank增加373、增长16.9\\%。较大的累计倍数需要与较小的期初基数并看，不能据此认定许可本身带来了技术质量提升。\n\nMulanPSL-2.0有明确的专利授权、声明和双语条款，并列入OSI批准记录；原采用表未区分版本，不能将全部记录都认定为该版本。\\SourceCite{https://opensource.org/license/MulanPSL-2.0}{2-R49}",
+    "figures": [
+      "modules/02/figures/27/mulan_adoption.pdf"
+    ]
+  }
+]

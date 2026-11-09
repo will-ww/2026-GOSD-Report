@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="143mm" viewBox="0 0 170 143"><rect width="170" height="143" fill="white" />
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB" /><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#329A9B" stroke-width="0.3" /></pattern></defs>
+<text x="1.0000" y="6.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.23333" font-weight="700" fill="#142C49" text-anchor="start">同一尺度看采用规模，累计增幅补充变化速度</text>
+<text x="1.0000" y="12.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="start">2022—2026报告年度 · 活跃仓库 / 个</text>
+<path d="M17.000,103.000 L128.000,103.000" fill="none" stroke="#D8E3E9" stroke-width="0.22" />
+<text x="15.0000" y="104.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.92806" font-weight="400" fill="#506778" text-anchor="end">0</text>
+<path d="M17.000,83.500 L128.000,83.500" fill="none" stroke="#D8E3E9" stroke-width="0.22" />
+<text x="15.0000" y="84.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.92806" font-weight="400" fill="#506778" text-anchor="end">20,000</text>
+<path d="M17.000,64.000 L128.000,64.000" fill="none" stroke="#D8E3E9" stroke-width="0.22" />
+<text x="15.0000" y="65.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.92806" font-weight="400" fill="#506778" text-anchor="end">40,000</text>
+<path d="M17.000,44.500 L128.000,44.500" fill="none" stroke="#D8E3E9" stroke-width="0.22" />
+<text x="15.0000" y="45.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.92806" font-weight="400" fill="#506778" text-anchor="end">60,000</text>
+<path d="M17.000,25.000 L128.000,25.000" fill="none" stroke="#D8E3E9" stroke-width="0.22" />
+<text x="15.0000" y="26.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.92806" font-weight="400" fill="#506778" text-anchor="end">80,000</text>
+<text x="17.0000" y="110.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.03389" font-weight="400" fill="#506778" text-anchor="middle">2022</text>
+<text x="44.7500" y="110.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.03389" font-weight="400" fill="#506778" text-anchor="middle">2023</text>
+<text x="72.5000" y="110.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.03389" font-weight="400" fill="#506778" text-anchor="middle">2024</text>
+<text x="100.2500" y="110.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.03389" font-weight="400" fill="#506778" text-anchor="middle">2025</text>
+<text x="128.0000" y="110.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.03389" font-weight="400" fill="#506778" text-anchor="middle">2026</text>
+<path d="M17.0,46.66255 L44.75,40.090075 L72.5,36.309025000000005 L100.25,35.583625 L128.0,33.034000000000006" fill="none" stroke="#155F91" stroke-width="0.68" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="17.000" cy="46.663" r="0.800" fill="#155F91" stroke="#155F91" stroke-width="0.12" opacity="1" />
+<circle cx="44.750" cy="40.090" r="0.800" fill="#155F91" stroke="#155F91" stroke-width="0.12" opacity="1" />
+<circle cx="72.500" cy="36.309" r="0.800" fill="#155F91" stroke="#155F91" stroke-width="0.12" opacity="1" />
+<circle cx="100.250" cy="35.584" r="0.800" fill="#155F91" stroke="#155F91" stroke-width="0.12" opacity="1" />
+<circle cx="128.000" cy="33.034" r="0.800" fill="#155F91" stroke="#155F91" stroke-width="0.12" opacity="1" />
+<path d="M17.0,66.136225 L44.75,61.411375 L72.5,58.792525 L100.25,58.0252 L128.0,56.3755" fill="none" stroke="#007D78" stroke-width="0.68" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="17.000" cy="66.136" r="0.800" fill="#007D78" stroke="#007D78" stroke-width="0.12" opacity="1" />
+<circle cx="44.750" cy="61.411" r="0.800" fill="#007D78" stroke="#007D78" stroke-width="0.12" opacity="1" />
+<circle cx="72.500" cy="58.793" r="0.800" fill="#007D78" stroke="#007D78" stroke-width="0.12" opacity="1" />
+<circle cx="100.250" cy="58.025" r="0.800" fill="#007D78" stroke="#007D78" stroke-width="0.12" opacity="1" />
+<circle cx="128.000" cy="56.376" r="0.800" fill="#007D78" stroke="#007D78" stroke-width="0.12" opacity="1" />
+<path d="M17.0,89.54305 L44.75,88.3555 L72.5,87.02365 L100.25,83.270875 L128.0,82.61275" fill="none" stroke="#776195" stroke-width="0.68" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="17.000" cy="89.543" r="0.800" fill="#776195" stroke="#776195" stroke-width="0.12" opacity="1" />
+<circle cx="44.750" cy="88.356" r="0.800" fill="#776195" stroke="#776195" stroke-width="0.12" opacity="1" />
+<circle cx="72.500" cy="87.024" r="0.800" fill="#776195" stroke="#776195" stroke-width="0.12" opacity="1" />
+<circle cx="100.250" cy="83.271" r="0.800" fill="#776195" stroke="#776195" stroke-width="0.12" opacity="1" />
+<circle cx="128.000" cy="82.613" r="0.800" fill="#776195" stroke="#776195" stroke-width="0.12" opacity="1" />
+<path d="M17.0,89.43775 L44.75,87.993775 L72.5,86.95345 L100.25,86.73895 L128.0,86.191" fill="none" stroke="#9C6A2D" stroke-width="0.68" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="17.000" cy="89.438" r="0.800" fill="#9C6A2D" stroke="#9C6A2D" stroke-width="0.12" opacity="1" />
+<circle cx="44.750" cy="87.994" r="0.800" fill="#9C6A2D" stroke="#9C6A2D" stroke-width="0.12" opacity="1" />
+<circle cx="72.500" cy="86.953" r="0.800" fill="#9C6A2D" stroke="#9C6A2D" stroke-width="0.12" opacity="1" />
+<circle cx="100.250" cy="86.739" r="0.800" fill="#9C6A2D" stroke="#9C6A2D" stroke-width="0.12" opacity="1" />
+<circle cx="128.000" cy="86.191" r="0.800" fill="#9C6A2D" stroke="#9C6A2D" stroke-width="0.12" opacity="1" />
+<path d="M17.0,98.471125 L44.75,97.677475 L72.5,97.0213 L100.25,96.66835 L128.0,96.45775" fill="none" stroke="#5C77A9" stroke-width="0.68" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="17.000" cy="98.471" r="0.800" fill="#5C77A9" stroke="#5C77A9" stroke-width="0.12" opacity="1" />
+<circle cx="44.750" cy="97.677" r="0.800" fill="#5C77A9" stroke="#5C77A9" stroke-width="0.12" opacity="1" />
+<circle cx="72.500" cy="97.021" r="0.800" fill="#5C77A9" stroke="#5C77A9" stroke-width="0.12" opacity="1" />
+<circle cx="100.250" cy="96.668" r="0.800" fill="#5C77A9" stroke="#5C77A9" stroke-width="0.12" opacity="1" />
+<circle cx="128.000" cy="96.458" r="0.800" fill="#5C77A9" stroke="#5C77A9" stroke-width="0.12" opacity="1" />
+<path d="M128.0,33.034000000000006 L131,33.034000000000006" fill="none" stroke="#155F91" stroke-width="0.25" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<text x="133.0000" y="34.1340" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="700" fill="#155F91" text-anchor="start">MIT</text>
+<text x="169.0000" y="38.0340" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#155F91" text-anchor="end">71,760</text>
+<path d="M128.0,56.3755 L131,56.3755" fill="none" stroke="#007D78" stroke-width="0.25" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<text x="133.0000" y="57.4755" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="700" fill="#007D78" text-anchor="start">Apache-2.0</text>
+<text x="169.0000" y="61.3755" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#007D78" text-anchor="end">47,820</text>
+<path d="M128.0,82.61275 L131,82.61275" fill="none" stroke="#776195" stroke-width="0.25" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<text x="133.0000" y="83.7127" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="700" fill="#776195" text-anchor="start">BSD-3-Clause</text>
+<text x="169.0000" y="87.6128" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#776195" text-anchor="end">20,910</text>
+<path d="M128.0,86.191 L131,89.91275" fill="none" stroke="#9C6A2D" stroke-width="0.25" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<text x="133.0000" y="91.0127" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="700" fill="#9C6A2D" text-anchor="start">GPL-3.0</text>
+<text x="169.0000" y="94.9128" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#9C6A2D" text-anchor="end">17,240</text>
+<path d="M128.0,96.45775 L131,97.21275" fill="none" stroke="#5C77A9" stroke-width="0.25" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<text x="133.0000" y="98.3127" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="700" fill="#5C77A9" text-anchor="start">AGPL-3.0</text>
+<text x="169.0000" y="102.2127" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#5C77A9" text-anchor="end">6,710</text>
+<path d="M1.000,117.000 L169.000,117.000" fill="none" stroke="#D8E3E9" stroke-width="0.22" />
+<text x="1.0000" y="124.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.21028" font-weight="400" fill="#506778" text-anchor="start">2022—2026累计增幅</text>
+<text x="17.0000" y="132.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="700" fill="#155F91" text-anchor="middle">MIT</text>
+<text x="17.0000" y="139.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#155F91" text-anchor="middle">+24.2%</text>
+<text x="50.5000" y="132.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="700" fill="#007D78" text-anchor="middle">Apache-2.0</text>
+<text x="50.5000" y="139.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#007D78" text-anchor="middle">+26.5%</text>
+<text x="84.0000" y="132.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="700" fill="#776195" text-anchor="middle">BSD-3-Clause</text>
+<text x="84.0000" y="139.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#776195" text-anchor="middle">+51.5%</text>
+<text x="117.5000" y="132.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="700" fill="#9C6A2D" text-anchor="middle">GPL-3.0</text>
+<text x="117.5000" y="139.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#9C6A2D" text-anchor="middle">+23.9%</text>
+<text x="151.0000" y="132.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="700" fill="#5C77A9" text-anchor="middle">AGPL-3.0</text>
+<text x="151.0000" y="139.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#5C77A9" text-anchor="middle">+44.5%</text></svg>

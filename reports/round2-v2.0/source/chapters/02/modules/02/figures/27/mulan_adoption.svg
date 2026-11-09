@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="146mm" viewBox="0 0 170 146"><rect width="170" height="146" fill="white" />
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB" /><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#329A9B" stroke-width="0.3" /></pattern></defs>
+<text x="1.0000" y="6.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.23333" font-weight="700" fill="#142C49" text-anchor="start">木兰许可：累计采用与项目影响力</text>
+<text x="1.0000" y="12.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="start">木兰宽松许可证原表样本 · 2022—2026报告年度</text>
+<text x="1.0000" y="23.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="start">A 累计活跃仓库</text>
+<text x="79.0000" y="23.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.85750" font-weight="400" fill="#506778" text-anchor="end">个</text>
+<path d="M9.000,90.000 L74.000,90.000" fill="none" stroke="#D8E3E9" stroke-width="0.18" />
+<text x="7.0000" y="91.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.64583" font-weight="400" fill="#506778" text-anchor="end">0</text>
+<path d="M9.000,62.500 L74.000,62.500" fill="none" stroke="#D8E3E9" stroke-width="0.18" />
+<text x="7.0000" y="63.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.64583" font-weight="400" fill="#506778" text-anchor="end">250</text>
+<path d="M9.000,35.000 L74.000,35.000" fill="none" stroke="#D8E3E9" stroke-width="0.18" />
+<text x="7.0000" y="36.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.64583" font-weight="400" fill="#506778" text-anchor="end">500</text>
+<rect x="10.8404" y="87.0300" width="6.0000" height="2.9700" rx="0.3" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="13.8404" y="95.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.68111" font-weight="400" fill="#506778" text-anchor="middle">2022</text>
+<text x="13.8404" y="84.0300" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="700" fill="#155F91" text-anchor="middle">27</text>
+<rect x="24.6702" y="65.8000" width="6.0000" height="24.2000" rx="0.3" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="27.6702" y="95.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.68111" font-weight="400" fill="#506778" text-anchor="middle">2023</text>
+<text x="27.6702" y="62.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="700" fill="#155F91" text-anchor="middle">220</text>
+<rect x="38.5000" y="55.9000" width="6.0000" height="34.1000" rx="0.3" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="41.5000" y="95.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.68111" font-weight="400" fill="#506778" text-anchor="middle">2024</text>
+<text x="41.5000" y="52.9000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="700" fill="#155F91" text-anchor="middle">310</text>
+<rect x="52.3298" y="52.6000" width="6.0000" height="37.4000" rx="0.3" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="55.3298" y="95.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.68111" font-weight="400" fill="#506778" text-anchor="middle">2025</text>
+<text x="55.3298" y="49.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="700" fill="#155F91" text-anchor="middle">340</text>
+<rect x="66.1596" y="46.9900" width="6.0000" height="43.0100" rx="0.3" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="69.1596" y="95.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.68111" font-weight="400" fill="#506778" text-anchor="middle">2026</text>
+<text x="69.1596" y="43.9900" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="700" fill="#155F91" text-anchor="middle">391</text>
+<text x="91.0000" y="23.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="start">B 项目影响力</text>
+<text x="169.0000" y="23.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.85750" font-weight="400" fill="#506778" text-anchor="end">OpenRank</text>
+<path d="M99.000,90.000 L164.000,90.000" fill="none" stroke="#D8E3E9" stroke-width="0.18" />
+<text x="97.0000" y="91.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.64583" font-weight="400" fill="#506778" text-anchor="end">0</text>
+<path d="M99.000,62.500 L164.000,62.500" fill="none" stroke="#D8E3E9" stroke-width="0.18" />
+<text x="97.0000" y="63.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.64583" font-weight="400" fill="#506778" text-anchor="end">1,500</text>
+<path d="M99.000,35.000 L164.000,35.000" fill="none" stroke="#D8E3E9" stroke-width="0.18" />
+<text x="97.0000" y="36.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.64583" font-weight="400" fill="#506778" text-anchor="end">3,000</text>
+<text x="103.8404" y="95.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.68111" font-weight="400" fill="#506778" text-anchor="middle">2022</text>
+<text x="103.8404" y="74.3683" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="700" fill="#007D78" text-anchor="middle">689</text>
+<text x="117.6702" y="95.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.68111" font-weight="400" fill="#506778" text-anchor="middle">2023</text>
+<text x="117.6702" y="60.4350" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="700" fill="#007D78" text-anchor="middle">1,449</text>
+<text x="131.5000" y="95.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.68111" font-weight="400" fill="#506778" text-anchor="middle">2024</text>
+<text x="131.5000" y="50.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="700" fill="#007D78" text-anchor="middle">1,980</text>
+<text x="145.3298" y="95.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.68111" font-weight="400" fill="#506778" text-anchor="middle">2025</text>
+<text x="145.3298" y="46.5383" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="700" fill="#007D78" text-anchor="middle">2,207</text>
+<text x="159.1596" y="95.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.68111" font-weight="400" fill="#506778" text-anchor="middle">2026</text>
+<text x="159.1596" y="39.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="700" fill="#007D78" text-anchor="middle">2,580</text>
+<path d="M103.84,77.37 L117.67,63.44 L131.50,53.70 L145.33,49.54 L159.16,42.70" fill="none" stroke="#007D78" stroke-width="0.7" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="103.840" cy="77.368" r="0.950" fill="#007D78" stroke="#FFFFFF" stroke-width="0.22" opacity="1" />
+<circle cx="117.670" cy="63.435" r="0.950" fill="#007D78" stroke="#FFFFFF" stroke-width="0.22" opacity="1" />
+<circle cx="131.500" cy="53.700" r="0.950" fill="#007D78" stroke="#FFFFFF" stroke-width="0.22" opacity="1" />
+<circle cx="145.330" cy="49.538" r="0.950" fill="#007D78" stroke="#FFFFFF" stroke-width="0.22" opacity="1" />
+<circle cx="159.160" cy="42.700" r="0.950" fill="#007D78" stroke="#FFFFFF" stroke-width="0.22" opacity="1" />
+<path d="M1.000,104.000 L169.000,104.000" fill="none" stroke="#D8E3E9" stroke-width="0.22" />
+<text x="1.0000" y="113.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#155F91" text-anchor="start">累计仓库：2026为2022的14.5倍</text>
+<text x="91.0000" y="113.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#007D78" text-anchor="start">项目影响力：同期为3.7倍</text>
+<text x="1.0000" y="123.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#142C49" text-anchor="start">最近一年：340 → 391，增长15.0%</text>
+<text x="91.0000" y="123.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="start">最近一年：2,207 → 2,580，增长16.9%</text>
+<text x="1.0000" y="135.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.92806" font-weight="400" fill="#506778" text-anchor="start">仓库指标沿用“累计活跃”定义，不代表当年新增；原表未区分许可版本，不将全部记录归入MulanPSL-2.0。</text></svg>

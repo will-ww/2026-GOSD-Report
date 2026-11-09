@@ -1,0 +1,147 @@
+[
+  {
+    "figure": "5-1",
+    "page": 3,
+    "section": "5.1",
+    "title": "公开供给的积累规模与月度发布节奏",
+    "source_links": [
+      "https://www.x-lab.info/2026-Global-Open-Source-Development-Report/assets/gosm/data/fig-5-1-1_hf_cumulative_models_publishers.csv",
+      "https://www.x-lab.info/2026-Global-Open-Source-Development-Report/assets/gosm/supply-observation.json",
+      "https://www.x-lab.info/2026-Global-Open-Source-Development-Report/assets/gosm/supply-methods.md"
+    ],
+    "status": "Caption and text layer recovered; chart artwork and numerical source not reconstructed."
+  },
+  {
+    "figure": "5-2",
+    "page": 4,
+    "section": "5.1",
+    "title": "地域组织样本中的模型分布",
+    "source_links": [
+      "https://www.x-lab.info/2026-Global-Open-Source-Development-Report/assets/gosm/supply-observation.json",
+      "https://www.x-lab.info/2026-Global-Open-Source-Development-Report/assets/gosm/supply-methods.md"
+    ],
+    "status": "Caption and text layer recovered; chart artwork and numerical source not reconstructed."
+  },
+  {
+    "figure": "5-3",
+    "page": 5,
+    "section": "5.1",
+    "title": "同一组织样本中模型与数据的头部名单",
+    "source_links": [
+      "https://www.x-lab.info/2026-Global-Open-Source-Development-Report/assets/gosm/supply-observation.json"
+    ],
+    "status": "Caption and text layer recovered; chart artwork and numerical source not reconstructed."
+  },
+  {
+    "figure": "5-4",
+    "page": 6,
+    "section": "5.1",
+    "title": "中国供给的区域集聚与指标差异",
+    "source_links": [
+      "https://www.x-lab.info/2026-Global-Open-Source-Development-Report/assets/gosm/supply-observation.json",
+      "https://www.x-lab.info/2026-Global-Open-Source-Development-Report/assets/gosm/supply-methods.md"
+    ],
+    "status": "Caption and text layer recovered; chart artwork and numerical source not reconstructed."
+  },
+  {
+    "figure": "5-5",
+    "page": 7,
+    "section": "5.2",
+    "title": "派生模型的年度积累与占比",
+    "source_links": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter5/fig-5-2-1_hf_cumulative_derivation.csv"
+    ],
+    "status": "Caption and text layer recovered; chart artwork and numerical source not reconstructed."
+  },
+  {
+    "figure": "5-6",
+    "page": 8,
+    "section": "5.2",
+    "title": "派生关系示意与模型网络全景",
+    "source_links": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/lineage-live-provenance.json"
+    ],
+    "status": "Caption and text layer recovered; chart artwork and numerical source not reconstructed."
+  },
+  {
+    "figure": "5-7",
+    "page": 9,
+    "section": "5.2",
+    "title": "跨国模型派生的来源与去向",
+    "source_links": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter5/fig-5-2-2_cross_country_derivation_flows.csv"
+    ],
+    "status": "Caption and text layer recovered; chart artwork and numerical source not reconstructed."
+  },
+  {
+    "figure": "5-8",
+    "page": 10,
+    "section": "5.2",
+    "title": "主报告期末与期后榜单的地域构成",
+    "source_links": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter5/fig-5-2-3_modelrank_country_head_trend.csv"
+    ],
+    "status": "Caption and text layer recovered; chart artwork and numerical source not reconstructed."
+  },
+  {
+    "figure": "5-9",
+    "page": 11,
+    "section": "5.2",
+    "title": "不同榜单深度的月度席位变化",
+    "source_links": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter5/fig-5-2-3_modelrank_country_head_trend.csv"
+    ],
+    "status": "Caption and text layer recovered; chart artwork and numerical source not reconstructed."
+  },
+  {
+    "figure": "5-10",
+    "page": 12,
+    "section": "5.3",
+    "title": "模型开放分级的两条观察轴",
+    "source_links": [
+      "https://wap.miit.gov.cn/jgsj/kjs/wjfb/art/2026/art_eb6516dbd5014ddb9984b77494d6b54c.html"
+    ],
+    "status": "Caption and text layer recovered; chart artwork and numerical source not reconstructed."
+  },
+  {
+    "figure": "5-11",
+    "page": 13,
+    "section": "5.3",
+    "title": "材料完整性与许可开放性的四类组合",
+    "source_links": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter5/fig-5-3-1_openness_quadrants.csv"
+    ],
+    "status": "Caption and text layer recovered; chart artwork and numerical source not reconstructed."
+  },
+  {
+    "figure": "5-12",
+    "page": 14,
+    "section": "5.3",
+    "title": "地域开放结构与两项组内比例",
+    "source_links": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter5/fig-5-3-2_openness_region_structure.csv"
+    ],
+    "status": "Caption and text layer recovered; chart artwork and numerical source not reconstructed."
+  },
+  {
+    "figure": "5-13",
+    "page": 15,
+    "section": "5.3",
+    "title": "发布主体的供给规模与双高比例",
+    "source_links": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter5/fig-5-3-3_openness_publisher_types.csv"
+    ],
+    "status": "Caption and text layer recovered; chart artwork and numerical source not reconstructed."
+  },
+  {
+    "figure": "5-14",
+    "page": 16,
+    "section": "5.3",
+    "title": "同一模型的影响位置与开放条件分别核验",
+    "source_links": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/cases.json",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/openness53.json"
+    ],
+    "status": "Caption and text layer recovered; chart artwork and numerical source not reconstructed."
+  }
+]

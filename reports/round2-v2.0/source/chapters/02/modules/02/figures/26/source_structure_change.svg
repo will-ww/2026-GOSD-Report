@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="142mm" viewBox="0 0 170 142"><rect width="170" height="142" fill="white" />
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB" /><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#329A9B" stroke-width="0.3" /></pattern></defs>
+<text x="1.0000" y="6.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.23333" font-weight="700" fill="#142C49" text-anchor="start">贡献份额：总构成变化有限，年度调整更为清晰</text>
+<text x="1.0000" y="12.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="start">2022—2026报告年度 · 变化统一使用百分点，不表示贡献量增长率</text>
+<text x="1.0000" y="23.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="start">A  2026年的总体构成</text>
+<rect x="1.0000" y="28.0000" width="81.6816" height="7.0000" rx="0.5" fill="#155F91" stroke="none" stroke-width="0.18" />
+<rect x="82.6816" y="28.0000" width="86.3184" height="7.0000" rx="0.5" fill="#D6E5E8" stroke="none" stroke-width="0.18" />
+<text x="41.8408" y="32.9000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="700" fill="#FFFFFF" text-anchor="middle">固定五国  48.62%</text>
+<text x="125.8408" y="32.9000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="700" fill="#142C49" text-anchor="middle">其他地区  51.38%</text>
+<text x="1.0000" y="44.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="start">B  年际变化与累计变化</text>
+<text x="1.0000" y="52.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#506778" text-anchor="start">来源</text>
+<text x="39.0000" y="52.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.92806" font-weight="400" fill="#506778" text-anchor="end">2026份额</text>
+<text x="53.0000" y="52.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.85750" font-weight="400" fill="#506778" text-anchor="middle">2023同比</text>
+<text x="71.5000" y="52.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.85750" font-weight="400" fill="#506778" text-anchor="middle">2024同比</text>
+<text x="90.0000" y="52.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.85750" font-weight="400" fill="#506778" text-anchor="middle">2025同比</text>
+<text x="108.5000" y="52.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.85750" font-weight="400" fill="#506778" text-anchor="middle">2026同比</text>
+<text x="146.0000" y="48.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="700" fill="#506778" text-anchor="middle">2026较2022</text>
+<text x="146.0000" y="53.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.75167" font-weight="400" fill="#506778" text-anchor="middle">累计百分点变化</text>
+<path d="M132.200,57.000 L132.200,120.000" fill="none" stroke="#D8E3E9" stroke-width="0.18" />
+<path d="M145.200,57.000 L145.200,120.000" fill="none" stroke="#D8E3E9" stroke-width="0.18" />
+<path d="M151.700,57.000 L151.700,120.000" fill="none" stroke="#D8E3E9" stroke-width="0.18" />
+<path d="M145.200,57.000 L145.200,120.000" fill="none" stroke="#AABCC3" stroke-width="0.35" />
+<text x="1.0000" y="63.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="400" fill="#142C49" text-anchor="start">美国</text>
+<text x="39.0000" y="63.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">21.77%</text>
+<rect x="44.6000" y="57.6000" width="16.8000" height="8.6000" rx="0.65" fill="#62829d" stroke="none" stroke-width="0.18" />
+<text x="53.0000" y="63.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#FFFFFF" text-anchor="middle">−0.93</text>
+<rect x="63.1000" y="57.6000" width="16.8000" height="8.6000" rx="0.65" fill="#577995" stroke="none" stroke-width="0.18" />
+<text x="71.5000" y="63.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#FFFFFF" text-anchor="middle">−1.01</text>
+<rect x="81.6000" y="57.6000" width="16.8000" height="8.6000" rx="0.65" fill="#7fbfc0" stroke="none" stroke-width="0.18" />
+<text x="90.0000" y="63.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#142C49" text-anchor="middle">+0.57</text>
+<rect x="100.1000" y="57.6000" width="16.8000" height="8.6000" rx="0.65" fill="#5c7e99" stroke="none" stroke-width="0.18" />
+<text x="108.5000" y="63.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#FFFFFF" text-anchor="middle">−0.97</text>
+<rect x="129.9900" y="60.7000" width="15.2100" height="3.2000" rx="0.25" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="63.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="700" fill="#155F91" text-anchor="end">−2.34</text>
+<text x="1.0000" y="73.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="400" fill="#142C49" text-anchor="start">德国</text>
+<text x="39.0000" y="73.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">8.01%</text>
+<rect x="44.6000" y="67.9000" width="16.8000" height="8.6000" rx="0.65" fill="#c1ced8" stroke="none" stroke-width="0.18" />
+<text x="53.0000" y="73.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="middle">−0.26</text>
+<rect x="63.1000" y="67.9000" width="16.8000" height="8.6000" rx="0.65" fill="#b9dcdd" stroke="none" stroke-width="0.18" />
+<text x="71.5000" y="73.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="middle">+0.23</text>
+<rect x="81.6000" y="67.9000" width="16.8000" height="8.6000" rx="0.65" fill="#aad4d5" stroke="none" stroke-width="0.18" />
+<text x="90.0000" y="73.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="middle">+0.32</text>
+<rect x="100.1000" y="67.9000" width="16.8000" height="8.6000" rx="0.65" fill="#e3e9ed" stroke="none" stroke-width="0.18" />
+<text x="108.5000" y="73.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="middle">−0.02</text>
+<rect x="145.2000" y="71.0000" width="1.7550" height="3.2000" rx="0.25" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="73.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="700" fill="#007D78" text-anchor="end">+0.27</text>
+<rect x="0.3000" y="77.8000" width="169.4000" height="9.5000" rx="0.5" fill="#F5FAFA" stroke="none" stroke-width="0.18" />
+<text x="1.0000" y="83.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="700" fill="#142C49" text-anchor="start">中国</text>
+<text x="39.0000" y="83.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">8.01%</text>
+<rect x="44.6000" y="78.2000" width="16.8000" height="8.6000" rx="0.65" fill="#7cbdbf" stroke="none" stroke-width="0.18" />
+<text x="53.0000" y="83.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#142C49" text-anchor="middle">+0.59</text>
+<rect x="63.1000" y="78.2000" width="16.8000" height="8.6000" rx="0.65" fill="#b4d9da" stroke="none" stroke-width="0.18" />
+<text x="71.5000" y="83.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="middle">+0.26</text>
+<rect x="81.6000" y="78.2000" width="16.8000" height="8.6000" rx="0.65" fill="#849db2" stroke="none" stroke-width="0.18" />
+<text x="90.0000" y="83.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#FFFFFF" text-anchor="middle">−0.69</text>
+<rect x="100.1000" y="78.2000" width="16.8000" height="8.6000" rx="0.65" fill="#97cbcc" stroke="none" stroke-width="0.18" />
+<text x="108.5000" y="83.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#142C49" text-anchor="middle">+0.43</text>
+<rect x="145.2000" y="81.3000" width="3.8350" height="3.2000" rx="0.25" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="83.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="700" fill="#007D78" text-anchor="end">+0.59</text>
+<text x="1.0000" y="93.9000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="400" fill="#142C49" text-anchor="start">英国</text>
+<text x="39.0000" y="93.9000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">5.55%</text>
+<rect x="44.6000" y="88.5000" width="16.8000" height="8.6000" rx="0.65" fill="#d6ebeb" stroke="none" stroke-width="0.18" />
+<text x="53.0000" y="94.1000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="middle">+0.06</text>
+<rect x="63.1000" y="88.5000" width="16.8000" height="8.6000" rx="0.65" fill="#afbfcd" stroke="none" stroke-width="0.18" />
+<text x="71.5000" y="94.1000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="middle">−0.39</text>
+<rect x="81.6000" y="88.5000" width="16.8000" height="8.6000" rx="0.65" fill="#aad4d5" stroke="none" stroke-width="0.18" />
+<text x="90.0000" y="94.1000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="middle">+0.32</text>
+<rect x="100.1000" y="88.5000" width="16.8000" height="8.6000" rx="0.65" fill="#cfd9e1" stroke="none" stroke-width="0.18" />
+<text x="108.5000" y="94.1000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="middle">−0.16</text>
+<rect x="144.0950" y="91.6000" width="1.1050" height="3.2000" rx="0.25" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="93.9000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="700" fill="#155F91" text-anchor="end">−0.17</text>
+<text x="1.0000" y="104.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="400" fill="#142C49" text-anchor="start">印度</text>
+<text x="39.0000" y="104.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">5.28%</text>
+<rect x="44.6000" y="98.8000" width="16.8000" height="8.6000" rx="0.65" fill="#7abcbe" stroke="none" stroke-width="0.18" />
+<text x="53.0000" y="104.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#142C49" text-anchor="middle">+0.60</text>
+<rect x="63.1000" y="98.8000" width="16.8000" height="8.6000" rx="0.65" fill="#bddedf" stroke="none" stroke-width="0.18" />
+<text x="71.5000" y="104.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="middle">+0.21</text>
+<rect x="81.6000" y="98.8000" width="16.8000" height="8.6000" rx="0.65" fill="#aabcca" stroke="none" stroke-width="0.18" />
+<text x="90.0000" y="104.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#142C49" text-anchor="middle">−0.42</text>
+<rect x="100.1000" y="98.8000" width="16.8000" height="8.6000" rx="0.65" fill="#9acdce" stroke="none" stroke-width="0.18" />
+<text x="108.5000" y="104.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#142C49" text-anchor="middle">+0.41</text>
+<rect x="145.2000" y="101.9000" width="5.2000" height="3.2000" rx="0.25" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="104.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="700" fill="#007D78" text-anchor="end">+0.80</text>
+<text x="1.0000" y="114.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="400" fill="#142C49" text-anchor="start">其他地区</text>
+<text x="39.0000" y="114.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">51.38%</text>
+<rect x="44.6000" y="109.1000" width="16.8000" height="8.6000" rx="0.65" fill="#dde4ea" stroke="none" stroke-width="0.18" />
+<text x="53.0000" y="114.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="middle">−0.06</text>
+<rect x="63.1000" y="109.1000" width="16.8000" height="8.6000" rx="0.65" fill="#69b4b6" stroke="none" stroke-width="0.18" />
+<text x="71.5000" y="114.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#FFFFFF" text-anchor="middle">+0.70</text>
+<rect x="81.6000" y="109.1000" width="16.8000" height="8.6000" rx="0.65" fill="#d8e0e6" stroke="none" stroke-width="0.18" />
+<text x="90.0000" y="114.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="middle">−0.10</text>
+<rect x="100.1000" y="109.1000" width="16.8000" height="8.6000" rx="0.65" fill="#acd5d6" stroke="none" stroke-width="0.18" />
+<text x="108.5000" y="114.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="middle">+0.31</text>
+<rect x="145.2000" y="112.2000" width="5.5250" height="3.2000" rx="0.25" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="114.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="700" fill="#007D78" text-anchor="end">+0.85</text>
+<text x="132.2000" y="125.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.68111" font-weight="400" fill="#506778" text-anchor="middle">-2</text>
+<text x="145.2000" y="125.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.68111" font-weight="400" fill="#506778" text-anchor="middle">0</text>
+<text x="151.7000" y="125.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.68111" font-weight="400" fill="#506778" text-anchor="middle">1</text>
+<rect x="1.0000" y="126.0000" width="4.5000" height="2.7000" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="8.0000" y="128.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="start">份额下降</text>
+<rect x="38.0000" y="126.0000" width="4.5000" height="2.7000" rx="0" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="45.0000" y="128.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="start">份额上升</text>
+<text x="1.0000" y="138.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">年度变化揭示往返调整；其他地区是合计项，不能据此判断其内部是否更均衡。</text></svg>

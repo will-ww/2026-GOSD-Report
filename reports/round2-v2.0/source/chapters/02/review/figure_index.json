@@ -1,0 +1,227 @@
+[
+  {
+    "new_number": "2-1",
+    "title_tex": "全球活跃参与的空间分布与前20个国家读数",
+    "stable_label": "ch2-s21-world"
+  },
+  {
+    "new_number": "2-2",
+    "title_tex": "参与基础与当期活跃：相对增长和地区排序的双重观察",
+    "stable_label": "ch2-s21-tempo"
+  },
+  {
+    "new_number": "2-3",
+    "title_tex": "五域开发者总量与当期活跃规模",
+    "stable_label": "ch2-s21-five"
+  },
+  {
+    "new_number": "2-4",
+    "title_tex": "扩大平台覆盖后，部分参与力量才进入视野",
+    "stable_label": "ch2-s21-coverage"
+  },
+  {
+    "new_number": "2-5",
+    "title_tex": "五域活跃规模与相对扩张：两种排序，两类观察",
+    "stable_label": "ch2-s21-growth"
+  },
+  {
+    "new_number": "2-6",
+    "title_tex": "中国34个省级地区的活跃分布、前10地区与结构份额",
+    "stable_label": "ch2-s21-china"
+  },
+  {
+    "new_number": "2-7",
+    "title_tex": "各地区组的活跃规模份额、净增量份额与净增前10地区",
+    "stable_label": "ch2-s21-mix"
+  },
+  {
+    "new_number": "2-8",
+    "title_tex": "全球开发者贡献的空间分布与前20国家",
+    "stable_label": "ch2-s22-fig-world"
+  },
+  {
+    "new_number": "2-9",
+    "title_tex": "贡献规模前10国家的活跃位次、贡献位次与平均贡献",
+    "stable_label": "ch2-s22-fig-comparison"
+  },
+  {
+    "new_number": "2-10",
+    "title_tex": "五域贡献规模的年度轨迹、当期读数与增长幅度",
+    "stable_label": "ch2-s22-fig-five"
+  },
+  {
+    "new_number": "2-11",
+    "title_tex": "中国34个省级地区的贡献分布与贡献规模前10地区",
+    "stable_label": "ch2-s22-fig-china"
+  },
+  {
+    "new_number": "2-12",
+    "title_tex": "贡献总量前10地区的平均贡献与活跃人数",
+    "stable_label": "ch2-s22-fig-average"
+  },
+  {
+    "new_number": "2-13",
+    "title_tex": "中美项目样本的全球贡献连接",
+    "stable_label": "ch2-s22-flow-world"
+  },
+  {
+    "new_number": "2-14",
+    "title_tex": "项目影响力的地域分布与前20国家读数",
+    "stable_label": "ch2-s23-world"
+  },
+  {
+    "new_number": "2-15",
+    "title_tex": "国家标签得分结构与企业条目读数",
+    "stable_label": "ch2-s23-orgs"
+  },
+  {
+    "new_number": "2-16",
+    "title_tex": "五域开发者贡献度与项目影响力的独立排序",
+    "stable_label": "ch2-s23-compare"
+  },
+  {
+    "new_number": "2-17",
+    "title_tex": "五域项目影响力轨迹与累计增幅",
+    "stable_label": "ch2-s23-growth"
+  },
+  {
+    "new_number": "2-18",
+    "title_tex": "中国项目样本的前15项读数与30项得分结构",
+    "stable_label": "ch2-s23-china"
+  },
+  {
+    "new_number": "2-19",
+    "title_tex": "中国样本前十项的影响力与活跃开发者排序",
+    "stable_label": "ch2-s23-people"
+  },
+  {
+    "new_number": "2-20",
+    "title_tex": "高影响力人才的全球分布与前20个国家读数",
+    "stable_label": "ch2-s24-world"
+  },
+  {
+    "new_number": "2-21",
+    "title_tex": "五域高影响力人才的年度积累与当期变化",
+    "stable_label": "ch2-s24-five-trend"
+  },
+  {
+    "new_number": "2-22",
+    "title_tex": "五域人才净增与同比增幅：不同基数下的两种排序",
+    "stable_label": "ch2-s24-five-change"
+  },
+  {
+    "new_number": "2-23",
+    "title_tex": "中国固定十城的人才位置、人数排行与样本结构",
+    "stable_label": "ch2-s24-city-map"
+  },
+  {
+    "new_number": "2-24",
+    "title_tex": "固定十城的累计净增人数与相对增幅",
+    "stable_label": "ch2-s24-city-growth"
+  },
+  {
+    "new_number": "2-25",
+    "title_tex": "GitHub官方观察：代码活动的扩张及其不同计数对象",
+    "stable_label": "ch2-s25-fig-gh"
+  },
+  {
+    "new_number": "2-26",
+    "title_tex": "四平台活跃仓库规模、同比净增与增幅",
+    "stable_label": "ch2-s25-fig-platform"
+  },
+  {
+    "new_number": "2-27",
+    "title_tex": "四个平台的活跃仓库历史路径",
+    "stable_label": "ch2-s25-fig-paths"
+  },
+  {
+    "new_number": "2-28",
+    "title_tex": "HF官方观察：平台供给增长与模型再加工的参与主体",
+    "stable_label": "ch2-s25-fig-hf"
+  },
+  {
+    "new_number": "2-29",
+    "title_tex": "模型发布单位样本的地域分布与数量排序",
+    "stable_label": "ch2-s25-fig-models"
+  },
+  {
+    "new_number": "2-30",
+    "title_tex": "模型数量与下载份额，以及独立任务快照",
+    "stable_label": "ch2-s25-fig-modeluse"
+  },
+  {
+    "new_number": "2-31",
+    "title_tex": "数据集发布单位样本的地域分布与数量排序",
+    "stable_label": "ch2-s25-fig-datasets"
+  },
+  {
+    "new_number": "2-32",
+    "title_tex": "数据集数量与下载份额，以及独立任务快照",
+    "stable_label": "ch2-s25-fig-datause"
+  },
+  {
+    "new_number": "2-33",
+    "title_tex": "全球贡献分布与固定五国之外的主要来源",
+    "stable_label": "ch2-s26-fig-origins"
+  },
+  {
+    "new_number": "2-34",
+    "title_tex": "贡献来源的当期构成、逐年变化与累计变化",
+    "stable_label": "ch2-s26-fig-sharechange"
+  },
+  {
+    "new_number": "2-35",
+    "title_tex": "2026年主要语言的月度贡献者增量与部分语言同比增幅",
+    "stable_label": "ch2-s26-fig-language"
+  },
+  {
+    "new_number": "2-36",
+    "title_tex": "不同语言的AI参与信号与TypeScript仓库构成",
+    "stable_label": "ch2-s26-fig-languageai"
+  },
+  {
+    "new_number": "2-37",
+    "title_tex": "中美项目的来源覆盖与已列跨境贡献内部构成",
+    "stable_label": "ch2-s26-fig-external"
+  },
+  {
+    "new_number": "2-38",
+    "title_tex": "中美项目样本的跨地域贡献连接",
+    "stable_label": "ch2-s26-fig-sankey"
+  },
+  {
+    "new_number": "2-39",
+    "title_tex": "贡献来源与项目归属地区的已列关系矩阵",
+    "stable_label": "ch2-s26-fig-matrix"
+  },
+  {
+    "new_number": "2-40",
+    "title_tex": "基金会项目样本的规模、影响份额与年度增量",
+    "stable_label": "ch2-s27-fig-foundation"
+  },
+  {
+    "new_number": "2-41",
+    "title_tex": "Apache实践中的机构支持、项目管理与贡献参与",
+    "stable_label": "ch2-s27-fig-roles"
+  },
+  {
+    "new_number": "2-42",
+    "title_tex": "GitHub公共仓库中项目说明与协作规则材料的覆盖",
+    "stable_label": "ch2-s27-fig-govfiles"
+  },
+  {
+    "new_number": "2-43",
+    "title_tex": "所列五种许可证的采用规模、历史趋势与累计增幅",
+    "stable_label": "ch2-s27-fig-licenses"
+  },
+  {
+    "new_number": "2-44",
+    "title_tex": "六种许可证的关键条件与适用场景",
+    "stable_label": "ch2-s27-fig-terms"
+  },
+  {
+    "new_number": "2-45",
+    "title_tex": "木兰宽松许可证样本的累计采用与项目影响力",
+    "stable_label": "ch2-s27-fig-mulan"
+  }
+]

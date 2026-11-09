@@ -1,0 +1,217 @@
+{
+  "version": "v1.0.0-chapter-review",
+  "status": "整章整合评审稿；待作者评审",
+  "pages": [
+    {
+      "title": "2.3 全球开源项目影响力地图（I-Map）",
+      "subtitle": "协作汇聚为项目，影响分布未必与贡献来源相同",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "参与与贡献最终进入具体项目，但项目的网络影响不会简单复制开发者所在地的分布。本节从全球归属、五域变化与中国项目样本展开，观察影响力在哪里集聚，并将归属地、贡献来源和参与规模放在各自的位置上理解。"
+        },
+        {
+          "type": "group",
+          "assets": [
+            "world_map",
+            "world_rank"
+          ],
+          "caption": "项目影响力的地域分布与前20国家读数",
+          "label": "world",
+          "source": "来源：OpenDigger / OpenShare，2025自然年；沿用原表30国标签，未列项不作零值。[[global]]"
+        },
+        {
+          "type": "p",
+          "text": "本节“项目”沿用数据源的对象边界，可能包含一个或多个仓库。项目影响力使用OpenRank衡量协作网络中的位置；它提供识别关键节点的线索，不直接代表产品质量、用户规模或经济价值。[[metric]]"
+        }
+      ]
+    },
+    {
+      "title": "2.3.1 全球分布：集中格局与组织线索",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "2025自然年归档的30个国家标签中，项目影响力合计约**273.91万OpenRank**，美国与中国合计占88.8%。这一集中度首先反映已纳入标签统计的项目结构，不能据此推及全部开源资源的归属。[[global]]"
+        },
+        {
+          "type": "figure",
+          "asset": "geography_organizations",
+          "caption": "国家标签得分结构与企业条目读数",
+          "label": "orgs",
+          "source": null
+        },
+        {
+          "type": "p",
+          "text": "原企业榜前六为微软、华为、谷歌、Meta、亚马逊和英伟达。企业条目为理解项目背后的组织提供入口，但国家与企业是不同归属视角，不能将两类得分相加。[[global]]"
+        },
+        {
+          "type": "p",
+          "text": "较高网络得分通常使项目值得进一步关注；支持重点仍须落实到维护需求、外部参与及实际依赖。对于一项目多仓库、基金会托管和组织发起等情形，还需核对历史映射，不能仅凭当前名称重分历史得分。"
+        },
+        {
+          "type": "note",
+          "text": "本节沿用原表项目与地域标签；项目—仓库边界、跨平台去重及地域汇总的生产版本尚待补齐，不据现有标签重新划分历史分数。"
+        }
+      ]
+    },
+    {
+      "title": "2.3.2 五域比较：贡献投入与项目影响力的地域差异",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "开发者贡献较多的地区，是否也具有较大的项目影响力？五域比较给出了不同排序：欧洲在贡献度中居首，美国在项目影响力中居首，中国两项均居第二。两项指标分别观察协作者投入与项目网络位置。[[five]]"
+        },
+        {
+          "type": "figure",
+          "asset": "five_comparison",
+          "caption": "五域开发者贡献度与项目影响力的独立排序",
+          "label": "compare",
+          "source": "来源：编制组五域底表，2025-07-01—2026-06-30。"
+        },
+        {
+          "type": "p",
+          "text": "欧洲贡献度约650.16万、项目影响力约18.35万OpenRank；美国分别约423.97万与175.14万。它们不是同一数量的流入和流出，不能相除为“贡献转化率”，也不能用其差额计算净收益。"
+        },
+        {
+          "type": "p",
+          "text": "这一差异与2.2的跨境连接相互提示：开发者可以持续建设归属其他地区的项目。同时，项目标签覆盖与组织归属规则也会改变汇总结果。真实协作结构与统计覆盖各自解释多少，仍需项目级证据。"
+        },
+        {
+          "type": "p",
+          "text": "印度与南方六国代表组在本表的项目得分较小，不等于其开发者能力或本地创新较弱。对较少被标签覆盖的地区，补齐项目清单应先于扩展判断。"
+        }
+      ]
+    },
+    {
+      "title": "项目影响：同时观察规模与相对变化",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "五年间，美国保持项目影响力的规模优势，中国相对增长较快。2022—2026报告年度，中国由27.74万增至72.10万，美国由134.19万增至175.14万。不同起点使绝对差额与相对位置呈现不同变化。[[five]]"
+        },
+        {
+          "type": "figure",
+          "asset": "five_evolution",
+          "caption": "五域项目影响力轨迹与累计增幅",
+          "label": "growth",
+          "source": null
+        },
+        {
+          "type": "p",
+          "text": "中国得分相当于美国的比例由**20.7%升至41.2%**，但绝对差距并非逐年缩小。统一基期的指数显示扩张幅度，原始读数保留量级，两者应一起阅读。"
+        },
+        {
+          "type": "p",
+          "text": "高存量与快增长对应不同的支持问题：前者需要了解已有依赖与维护连续性，后者需要考察增长中的协作安排能否跟上。区域曲线不能替代对具体项目的判断。"
+        },
+        {
+          "type": "note",
+          "text": "增长指数以各组2022年为100，五组使用共同尺度；当前得分另列。"
+        }
+      ]
+    },
+    {
+      "title": "2.3.3 中国观察：头部项目与样本结构",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "中国30项项目样本提供了比地域汇总更具体的观察。OpenHarmony与openEuler得分居前，两项合计占条目得分的**53.7%**；前十项合计占84.3%。前15项读数与完整30项的分组结构共同呈现了样本层次。[[china]]"
+        },
+        {
+          "type": "figure",
+          "asset": "china_sample",
+          "caption": "中国项目样本的前15项读数与30项得分结构",
+          "label": "china",
+          "source": "分母为原表30项条目得分合计17.63万OpenRank；不是全国项目影响力总量。"
+        },
+        {
+          "type": "p",
+          "text": "头部集中提示应进一步关注关键项目的维护连续性，但单期样本不能说明这些项目贡献了全国增长的多少，也不能把样本以外的项目视为不存在。"
+        },
+        {
+          "type": "p",
+          "text": "稳定关键项目与支持成长项目并不矛盾。前者可重点检查依赖和维护缺口，后者可结合真实用途、外部反馈与共同建设条件确定支持方式。"
+        }
+      ]
+    },
+    {
+      "title": "项目影响力与参与规模，提供互补的观察",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "在样本影响力前十项中，按活跃人数重排后，CANN与Ascend次序互换，Cangjie与openGauss也出现不同位次。**参与人数与网络影响提供的是两种信息**，不宜互相替代。[[china]]"
+        },
+        {
+          "type": "figure",
+          "asset": "project_participation",
+          "caption": "中国样本前十项的影响力与活跃开发者排序",
+          "label": "people",
+          "source": null
+        },
+        {
+          "type": "p",
+          "text": "人数回答参与规模，网络得分还涉及协作关系与历史积累。得分除以人数并不等于开发效率；是否形成可靠成果，还需质量、采用与维护证据。[[metric]]"
+        },
+        {
+          "type": "p",
+          "text": "公开标签显示，OpenHarmony与openEuler关联多个平台组织，AgentScope以GitHub组织为入口。这说明项目未必等于单个仓库，也提醒跨平台汇总必须保留去重与归属依据。[[labels]]"
+        },
+        {
+          "type": "p",
+          "text": "因此，项目支持应落到具体的维护团队与工作，而不只看归属标签。下一节由项目回到人，观察网络影响较高的参与者在不同地区怎样积累与变化。"
+        }
+      ],
+      "section_implication": {
+        "title": "2.3.4 观察启示：关键项目与成长项目并重",
+        "text": "高影响项目需要稳定维护，成长项目需要可进入的共建机会。二者都应结合真实用途、依赖与维护缺口，而非按同一个排名阈值配置资源。"
+      }
+    }
+  ],
+  "section": "2.3",
+  "references": [
+    [
+      "global",
+      "GOSD编制组. I-Map地域与企业影响力归档，2025自然年. 本稿提取30国及企业前六字段；原库固定提交c51e344.",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/imap/influence.json"
+    ],
+    [
+      "five",
+      "GOSD编制组. 五域项目影响力与开发者贡献度，2022—2026报告年度. 原稿数据组合保留.",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/imap/observations.json"
+    ],
+    [
+      "china",
+      "GOSD编制组. 中国项目样本30项：OpenRank、活跃开发者及原组织字段. 固定提交c51e344.",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/imap/observations.json"
+    ],
+    [
+      "revision",
+      "GOSD编制组. 2.3 I-Map出版修订记录，2026-10-20. 记录自然年与报告年度的版本差异.",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/docs/imap-publication-revision-20261020.md"
+    ],
+    [
+      "metric",
+      "OpenDigger. 全域OpenRank影响力：协作网络及历史继承. 本轮核对：2026-11-05.",
+      "https://open-digger.cn/docs/user-docs/metrics/global-openrank"
+    ],
+    [
+      "usage",
+      "OpenDigger. 指标使用指南：导出范围、时间键与元数据. 本轮核对：2026-11-05.",
+      "https://open-digger.cn/docs/user-docs/metrics/metrics-usage-guide"
+    ],
+    [
+      "labels",
+      "OpenDigger. 项目标签：OpenHarmony、openEuler、AgentScope；基金会关联标签. 固定提交5c2ffc4；逐文件入口见来源清单.",
+      "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/companies/huawei/openharmony.yml"
+    ],
+    [
+      "code",
+      "OpenDigger. chinaAnnualReport.ts：项目、发起方与基金会分别识别的公开示例. 示例年份为2024，不等同本报告生产记录.",
+      "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/src/dataProduction/chinaAnnualReport.ts"
+    ]
+  ],
+  "editorial_notes": {
+    "input_version": "v0.1.0",
+    "scope": "正文精修、重复收束与图文对齐；不改原始统计值"
+  }
+}

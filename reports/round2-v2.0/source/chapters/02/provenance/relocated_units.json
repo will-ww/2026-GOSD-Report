@@ -1,0 +1,22 @@
+[
+  {
+    "unit": "22-6",
+    "reason": "来源前十表在2.6展开，完整明细归档",
+    "content": "\\label{ch2-unit22-6}\n\\subsection*{来源结构：本土与跨境贡献的不同组合}\n将每组项目样本分别设为100\\%，可在同一份额尺度下比较来源构成。图中区分本土、对方国家、其余已列国家与未列来源；两侧图形等高只表示各自的完整份额，不表示两组贡献总量相同。\\cite{ch2-ref10}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/22/sources_sankey_share.pdf}\\par\n\\captionof{figure}{中美项目样本的贡献来源结构（各自样本＝100\\%）}\\label{ch2-s22-flow-share}\\end{minipage}\\par\\vspace{4pt}\n\\src{2026报告年度；带宽与原表份额线性对应，“其余已列8国”为各组其余八条记录的合计。\\cite{ch2-ref10}}\n中国归属项目的本土贡献占79.22\\%，已列跨境贡献占14.02\\%；美国归属项目分别为38.28\\%与39.66\\%。前者更多由本土来源支撑，后者的已列跨境来源占比更高。\n\n未列来源分别占6.76\\%与22.06\\%，不分配至具体国家。来源构成刻画样本结构，不能单独评价项目开放程度、合作持续性或治理质量；这些问题还需项目规则、参与过程与长期记录。\n\n\n\\clearpage\n"
+  },
+  {
+    "unit": "22-7",
+    "reason": "来源前十表在2.6展开，完整明细归档",
+    "content": "\\label{ch2-unit22-7}\n\\subsection*{来源明细：跨境联系与贡献读数}\n具体读数进一步揭示了双向参与。中国归属项目最大的已列境外来源是美国，美国归属项目最大的已列境外来源是中国，其后为德国、英国和加拿大。\\cite{ch2-ref10}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/22/sources_ranking_refined.pdf}\\par\n\\captionof{figure}{中美项目样本的贡献来源前十及原表份额}\\label{ch2-s22-flow-records}\\end{minipage}\\par\\vspace{4pt}\n\\src{2026报告年度；单位：OpenRank。份额分母为各自项目样本，未列来源的贡献值不反推。\\cite{ch2-ref10}}\n中国来源对美国项目的贡献为\\key{24,420.69 OpenRank}，反向为1,980.46，约相差12.3倍。这是本表指定方向的比值，而非两国全部贡献之比，亦不表示国家净输出。\n\n贡献地图由规模走向关系，说明持续合作不止于项目的发布或归属。支持可以进一步落到评审、问题响应与共同维护；下一节转向项目影响力，考察这些协作在项目层面形成怎样的网络位置。\n\n\\src{本表与2.6的60条扩展关系表不是同一样本；数值和份额分别保留，不拼接汇总。}\n\n\\clearpage\n"
+  },
+  {
+    "unit": "25-3",
+    "reason": "未验证的结构外推转入方法留档，不作为本章观测发现",
+    "content": "\\label{ch2-unit25-3}\n\\subsection*{技术结构估算：在已知总量下观察可能的组成}\n去年技术地图提供了12类、合计\\key{13,103项}项目分类数量。本图将其比例作为基准，按2026年GitHub活跃仓库总量分配，给出“结构延续”条件下的类别规模。使用的是项目数量比例，不是OpenRank影响力比例。\\cite{ch2-ref23}\\cite{ch2-ref22}\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/25/technology_estimate_tree.pdf}\\par\n\\captionof{figure}{2026年十二类技术资产结构估算：历史比例与总量约束}\\label{ch2-s25-fig-estimate}\\end{minipage}\\par\\vspace{4pt}\n\\src{来源：去年技术图表数量字段、本报告GitHub活跃仓库总量。外推假设与方法见统计说明。}\n在“项目样本可代表仓库总体、类别不重叠且比例不变”的假设下，AI与大模型约121.0万个，占19.1\\%；前端与交互约107.4万个，云基础设施约98.5万个。\\key{这些是假设下的估计，不是2026年实测分类。} 样本偏差、一项目多仓库及多标签关系均可能改变结果。\n\n\n\\clearpage\n"
+  },
+  {
+    "unit": "25-4",
+    "reason": "未验证的结构外推转入方法留档，不作为本章观测发现",
+    "content": "\\label{ch2-unit25-4}\n\\subsection*{分类增长：用情景比较辨认结构敏感性}\n总量净增49.745万个，并不能唯一确定增长落在哪些类别。结构延续基准使各类同增约8.53\\%；另一组情景则假设AI相关类别增幅较高，并使其他类别的增长与总量保持平衡。\n\n\\par\\vspace{4pt}\\noindent\\begin{minipage}{\\linewidth}\\centering\n\\includegraphics[width=\\linewidth]{modules/02/figures/25/technology_growth_scenarios.pdf}\\par\n\\captionof{figure}{十二类估计净增量与AI扩张敏感性分析}\\label{ch2-s25-fig-sensitivity}\\end{minipage}\\par\\vspace{4pt}\n\\src{计算：结构延续分配及总量平衡。AI参数是情景假设；类别明细、公式与未舍入结果见配套底表。}\nAI增幅分别设为20\\%、30\\%和40\\%时，估计份额为21.1\\%、22.9\\%和24.7\\%，其他类别的平衡增幅相应为5.8\\%、3.5\\%和1.1\\%。它们展示假设的影响，不代表实际技术增速、预测区间或最可能结果。估算用于确定后续分类核查的重点。\n\n\n\\clearpage\n"
+  }
+]

@@ -1,0 +1,321 @@
+{
+  "palette": {
+    "#193C4E": "#142C49",
+    "#168A8D": "#007D78",
+    "#49A1A0": "#329A9B",
+    "#3E6686": "#155F91",
+    "#AF824E": "#9C6A2D",
+    "#76698F": "#776195",
+    "#57717D": "#506778",
+    "#D8E4E7": "#D8E3E9",
+    "#F0F6F6": "#F1F6F8"
+  },
+  "figures": [
+    {
+      "path": "modules/02/figures/21/china_atlas.pdf",
+      "labels_unchanged": true,
+      "label_count": 109,
+      "minimum_font_pt": 7.8
+    },
+    {
+      "path": "modules/02/figures/21/china_growth_mix.pdf",
+      "labels_unchanged": true,
+      "label_count": 58,
+      "minimum_font_pt": 8.0
+    },
+    {
+      "path": "modules/02/figures/21/five_activity.pdf",
+      "labels_unchanged": true,
+      "label_count": 25,
+      "minimum_font_pt": 7.9
+    },
+    {
+      "path": "modules/02/figures/21/five_compass.pdf",
+      "labels_unchanged": true,
+      "label_count": 44,
+      "minimum_font_pt": 8.5
+    },
+    {
+      "path": "modules/02/figures/21/global_comparison.pdf",
+      "labels_unchanged": true,
+      "label_count": 30,
+      "minimum_font_pt": 7.5
+    },
+    {
+      "path": "modules/02/figures/21/platform_coverage.pdf",
+      "labels_unchanged": true,
+      "label_count": 14,
+      "minimum_font_pt": 8.0
+    },
+    {
+      "path": "modules/02/figures/21/world_map.pdf",
+      "labels_unchanged": true,
+      "label_count": 10,
+      "minimum_font_pt": 8.1
+    },
+    {
+      "path": "modules/02/figures/21/world_rank.pdf",
+      "labels_unchanged": true,
+      "label_count": 62,
+      "minimum_font_pt": 8.2
+    },
+    {
+      "path": "modules/02/figures/22/china_average.pdf",
+      "labels_unchanged": true,
+      "label_count": 40,
+      "minimum_font_pt": 8.3
+    },
+    {
+      "path": "modules/02/figures/22/china_map.pdf",
+      "labels_unchanged": true,
+      "label_count": 76,
+      "minimum_font_pt": 8.0
+    },
+    {
+      "path": "modules/02/figures/22/china_rank.pdf",
+      "labels_unchanged": true,
+      "label_count": 32,
+      "minimum_font_pt": 8.4
+    },
+    {
+      "path": "modules/02/figures/22/five_evolution.pdf",
+      "labels_unchanged": true,
+      "label_count": 37,
+      "minimum_font_pt": 8.2
+    },
+    {
+      "path": "modules/02/figures/22/participation_contribution.pdf",
+      "labels_unchanged": true,
+      "label_count": 34,
+      "minimum_font_pt": 8.0
+    },
+    {
+      "path": "modules/02/figures/22/sources_world_flows.pdf",
+      "labels_unchanged": true,
+      "label_count": 29,
+      "minimum_font_pt": 8.1
+    },
+    {
+      "path": "modules/02/figures/22/world_map.pdf",
+      "labels_unchanged": true,
+      "label_count": 9,
+      "minimum_font_pt": 8.4
+    },
+    {
+      "path": "modules/02/figures/22/world_rank.pdf",
+      "labels_unchanged": true,
+      "label_count": 62,
+      "minimum_font_pt": 8.3
+    },
+    {
+      "path": "modules/02/figures/23/china_sample.pdf",
+      "labels_unchanged": true,
+      "label_count": 53,
+      "minimum_font_pt": 7.9
+    },
+    {
+      "path": "modules/02/figures/23/five_comparison.pdf",
+      "labels_unchanged": true,
+      "label_count": 43,
+      "minimum_font_pt": 8.2
+    },
+    {
+      "path": "modules/02/figures/23/five_evolution.pdf",
+      "labels_unchanged": true,
+      "label_count": 37,
+      "minimum_font_pt": 7.8
+    },
+    {
+      "path": "modules/02/figures/23/geography_organizations.pdf",
+      "labels_unchanged": true,
+      "label_count": 34,
+      "minimum_font_pt": 8.0
+    },
+    {
+      "path": "modules/02/figures/23/project_participation.pdf",
+      "labels_unchanged": true,
+      "label_count": 67,
+      "minimum_font_pt": 8.2
+    },
+    {
+      "path": "modules/02/figures/23/world_map.pdf",
+      "labels_unchanged": true,
+      "label_count": 9,
+      "minimum_font_pt": 8.2
+    },
+    {
+      "path": "modules/02/figures/23/world_rank.pdf",
+      "labels_unchanged": true,
+      "label_count": 62,
+      "minimum_font_pt": 8.3
+    },
+    {
+      "path": "modules/02/figures/24/city_growth.pdf",
+      "labels_unchanged": true,
+      "label_count": 71,
+      "minimum_font_pt": 8.0
+    },
+    {
+      "path": "modules/02/figures/24/city_map_rank.pdf",
+      "labels_unchanged": true,
+      "label_count": 48,
+      "minimum_font_pt": 8.2
+    },
+    {
+      "path": "modules/02/figures/24/five_change.pdf",
+      "labels_unchanged": true,
+      "label_count": 33,
+      "minimum_font_pt": 8.0
+    },
+    {
+      "path": "modules/02/figures/24/five_trend.pdf",
+      "labels_unchanged": true,
+      "label_count": 45,
+      "minimum_font_pt": 8.0
+    },
+    {
+      "path": "modules/02/figures/24/relative_gap.pdf",
+      "labels_unchanged": true,
+      "label_count": 8,
+      "minimum_font_pt": 8.4
+    },
+    {
+      "path": "modules/02/figures/24/world_rank.pdf",
+      "labels_unchanged": true,
+      "label_count": 62,
+      "minimum_font_pt": 8.0
+    },
+    {
+      "path": "modules/02/figures/24/world_talent.pdf",
+      "labels_unchanged": true,
+      "label_count": 10,
+      "minimum_font_pt": 8.0
+    },
+    {
+      "path": "modules/02/figures/25/dataset_geography.pdf",
+      "labels_unchanged": true,
+      "label_count": 56,
+      "minimum_font_pt": 8.0
+    },
+    {
+      "path": "modules/02/figures/25/dataset_use_tasks.pdf",
+      "labels_unchanged": true,
+      "label_count": 52,
+      "minimum_font_pt": 7.6
+    },
+    {
+      "path": "modules/02/figures/25/github_ai_activity.pdf",
+      "labels_unchanged": true,
+      "label_count": 36,
+      "minimum_font_pt": 7.8
+    },
+    {
+      "path": "modules/02/figures/25/hf_growth_and_reuse.pdf",
+      "labels_unchanged": true,
+      "label_count": 22,
+      "minimum_font_pt": 8.0
+    },
+    {
+      "path": "modules/02/figures/25/model_geography.pdf",
+      "labels_unchanged": true,
+      "label_count": 56,
+      "minimum_font_pt": 8.0
+    },
+    {
+      "path": "modules/02/figures/25/model_use_tasks.pdf",
+      "labels_unchanged": true,
+      "label_count": 52,
+      "minimum_font_pt": 7.6
+    },
+    {
+      "path": "modules/02/figures/25/platform_paths.pdf",
+      "labels_unchanged": true,
+      "label_count": 41,
+      "minimum_font_pt": 7.6
+    },
+    {
+      "path": "modules/02/figures/25/platform_scale_growth.pdf",
+      "labels_unchanged": true,
+      "label_count": 34,
+      "minimum_font_pt": 8.1
+    },
+    {
+      "path": "modules/02/figures/26/contribution_sankey.pdf",
+      "labels_unchanged": true,
+      "label_count": 24,
+      "minimum_font_pt": 8.5
+    },
+    {
+      "path": "modules/02/figures/26/external_structure_bounds.pdf",
+      "labels_unchanged": true,
+      "label_count": 54,
+      "minimum_font_pt": 8.4
+    },
+    {
+      "path": "modules/02/figures/26/flow_matrix.pdf",
+      "labels_unchanged": true,
+      "label_count": 94,
+      "minimum_font_pt": 8.0
+    },
+    {
+      "path": "modules/02/figures/26/global_origins.pdf",
+      "labels_unchanged": true,
+      "label_count": 60,
+      "minimum_font_pt": 7.9
+    },
+    {
+      "path": "modules/02/figures/26/language_agent_patterns.pdf",
+      "labels_unchanged": true,
+      "label_count": 37,
+      "minimum_font_pt": 7.8
+    },
+    {
+      "path": "modules/02/figures/26/language_profile.pdf",
+      "labels_unchanged": true,
+      "label_count": 33,
+      "minimum_font_pt": 7.9
+    },
+    {
+      "path": "modules/02/figures/26/source_structure_change.pdf",
+      "labels_unchanged": true,
+      "label_count": 62,
+      "minimum_font_pt": 7.6
+    },
+    {
+      "path": "modules/02/figures/27/foundation_observation.pdf",
+      "labels_unchanged": true,
+      "label_count": 45,
+      "minimum_font_pt": 7.4
+    },
+    {
+      "path": "modules/02/figures/27/governance_file_coverage.pdf",
+      "labels_unchanged": true,
+      "label_count": 16,
+      "minimum_font_pt": 7.9
+    },
+    {
+      "path": "modules/02/figures/27/governance_roles.pdf",
+      "labels_unchanged": true,
+      "label_count": 15,
+      "minimum_font_pt": 8.2
+    },
+    {
+      "path": "modules/02/figures/27/license_terms.pdf",
+      "labels_unchanged": true,
+      "label_count": 23,
+      "minimum_font_pt": 8.4
+    },
+    {
+      "path": "modules/02/figures/27/license_trend_shared_axis.pdf",
+      "labels_unchanged": true,
+      "label_count": 33,
+      "minimum_font_pt": 8.2
+    },
+    {
+      "path": "modules/02/figures/27/mulan_adoption.pdf",
+      "labels_unchanged": true,
+      "label_count": 37,
+      "minimum_font_pt": 7.5
+    }
+  ]
+}

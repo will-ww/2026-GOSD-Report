@@ -1,0 +1,16 @@
+\documentclass[11pt,a4paper,openany,oneside]{book}
+\usepackage{design/gosd-book}
+\hypersetup{pdftitle={2026全球开源发展报告：第四章清洁整理评审稿 v0.1},pdfsubject={动态星座v2.0.0；2025-07-01至2026-06-30主统计期；未公开发布}}
+\renewcommand{\figurename}{图}
+\newcommand{\plate}[3]{\par\vspace{2pt}\noindent\begin{minipage}{\linewidth}\centering\includegraphics[width=\linewidth]{#1}\par\vspace{4pt}\raggedright{\sffamily\bfseries\fontsize{10}{14}\selectfont\color{navy}#2\par}\src{#3}\end{minipage}\par\vspace{4pt}}
+\newcommand{\Atlas}[3]{\clearpage\includepdf[pages=1,fitpaper=true,pagecommand={\thispagestyle{empty}\phantomsection\pdfbookmark[1]{#2}{atlas-#1}\label{atlas-#1}}]{figures/atlas/#1.pdf}\renewcommand{\CurrentSection}{#3}}
+\newcommand{\BodyPage}[3]{\clearpage\SetRegion{#1}{rust}{network}\phantomsection\pdfbookmark[2]{#2}{#3}\RunTitle{#2}}
+\newcommand{\DataRef}{\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/tree/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter4}{原报告冻结表}}
+\newcommand{\AgentRef}{\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/tree/c51e3441361407b68f10b339d97eff288319b503/preview/content/landscape/opendigger-20261017}{OpenDigger冻结响应}}
+\newcommand{\HFRef}{\href{https://huggingface.co/blog/state-of-open-models-summer-2026}{HF Summer 2026}}
+\begin{document}
+\FullPage{figures/new/chapter4_cover.pdf}{ch4-cover}{第四章 全球开源技术全景洞察}
+\input{content/opening.tex}
+\input{content/chapter4_body.tex}
+\FullPage{figures/new/chapter4_closing.pdf}{ch4-closing}{第四章回望：从完整全景走向可复用的能力}
+\end{document}

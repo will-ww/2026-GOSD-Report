@@ -1,0 +1,5 @@
+scenario,ai_growth_assumption_pct,ai_estimated_count,ai_share_pct,non_ai_balancing_growth_pct,status
+结构延续,8.5308487633,1210377.1533236662,19.1253911318,8.5308487633,"sensitivity assumption, not forecast or confidence interval"
+AI增幅20%,20.0000000000,1338285.4741662215,21.1464939413,5.8186006743,"sensitivity assumption, not forecast or confidence interval"
+AI增幅30%,30.0000000000,1449809.2636800734,22.9087017697,3.4537804421,"sensitivity assumption, not forecast or confidence interval"
+AI增幅40%,40.0000000000,1561333.0531939249,24.6709095982,1.0889602100,"sensitivity assumption, not forecast or confidence interval"

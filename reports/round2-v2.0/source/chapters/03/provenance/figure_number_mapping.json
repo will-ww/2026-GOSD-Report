@@ -1,0 +1,362 @@
+[
+  {
+    "old": "图3-1-1",
+    "new": "图3-1",
+    "title": "全球行政区影响力 Top 30：名次、国别与分值",
+    "source_file": "work/sections/31.tex",
+    "asset": "work/figures/31/01_global.pdf",
+    "source_note": "来源：3.1-S1。横条以榜首为100\\%，各行同尺度。州、省、构成国等统计单元不完全等价；底表不含日期字段，统计窗口及其与主统计期的对应待核。}",
+    "chapter_page": 3
+  },
+  {
+    "old": "图3-1-2",
+    "new": "图3-2",
+    "title": "全球 Top 100 行政区的国别席位图谱",
+    "source_file": "work/sections/31.tex",
+    "asset": "work/figures/31/02_seats.pdf",
+    "source_note": "来源：3.1-S2，32国合计100席，统计窗口待核。每格为1席，字母为国家代码；按国家连续编排，不对应具体地区或榜次。前六国用独立颜色，其余用灰色与代码区分；国旗许可见章末来源说明。}",
+    "chapter_page": 4
+  },
+  {
+    "old": "图3-1-3",
+    "new": "图3-3",
+    "title": "国别名次分布：由地区榜读取多节点结构",
+    "source_file": "work/sections/31.tex",
+    "asset": "work/figures/31/03_footprints.pdf",
+    "source_note": "来源：3.1-S1、S2，统计窗口待核。每格对应Top 30的一条地区记录；行按各国最佳位次排列，不是国家影响力排行。右侧为两种榜单范围内的数量，不是OpenRank之和。}",
+    "chapter_page": 5
+  },
+  {
+    "old": "图3-1-4",
+    "new": "图3-4",
+    "title": "参与规模位次与 OpenRank 位次的对应",
+    "source_file": "work/sections/31.tex",
+    "asset": "work/figures/31/04_compare.pdf",
+    "source_note": "来源：3.1-S1及同样本重排，统计窗口待核。两轴均为位次，点内数字为影响位次；虚线表示两者相同，不是回归线。数量字段的单位与账号口径待核，因此不使用绝对人数，不计算人均效率；位次差不是跨期升降。}",
+    "chapter_page": 6
+  },
+  {
+    "old": "图3-1-5",
+    "new": "图3-5",
+    "title": "中国省级行政区影响力 Top 30",
+    "source_file": "work/sections/31.tex",
+    "asset": "work/figures/31/05_province.pdf",
+    "source_note": "来源：3.1-S3，统计窗口待核。横条以省级榜榜首为100\\%，同列同尺度。“全球Top 30”按地区名与S1匹配，横线仅表示未在该30条记录中出现。台湾省及香港特别行政区纳入中国范围。}",
+    "chapter_page": 7
+  },
+  {
+    "old": "图3-1-6",
+    "new": "图3-6",
+    "title": "中国城市影响力 Top 30：保留省级归属",
+    "source_file": "work/sections/31.tex",
+    "asset": "work/figures/31/06_city.pdf",
+    "source_note": "来源：3.1-S4，统计窗口待核。横条以城市榜榜首为100\\%，同列同尺度，保留来源榜次与两位小数。省级、城市分别聚合，直辖市的两级记录也不合并；广州与成都的细小差距仅是当前底表差值。}",
+    "chapter_page": 8
+  },
+  {
+    "old": "图3-1-7",
+    "new": "图3-7",
+    "title": "七个多城市入榜地区的省市关联",
+    "source_file": "work/sections/31.tex",
+    "asset": "work/figures/31/07_links.pdf",
+    "source_note": "来源：3.1-S3、S4，统计窗口待核。左侧为省级原榜次，横轴为城市全国榜次，两级分别排序。线条仅辅助表示归属，不证明城市之间存在协作关系；不以城市分值汇总省级OpenRank。}",
+    "chapter_page": 9
+  },
+  {
+    "old": "图3-2-1",
+    "new": "图3-8",
+    "title": "全球企业影响力 Top 30：影响、仓库与关联开发者",
+    "source_file": "work/sections/32.tex",
+    "asset": "work/figures/32/01_global.pdf",
+    "source_note": "来源：3.2-S1。保留原表名称、国别标签与分值，统计窗口及企业归并边界待核。国别不等于贡献发生地；数量不跨企业简单加总，列间不比较条形长度。}",
+    "chapter_page": 10
+  },
+  {
+    "old": "图3-2-2",
+    "new": "图3-9",
+    "title": "全球 Top 30 企业的三指标位次画像",
+    "source_file": "work/sections/32.tex",
+    "asset": "work/figures/32/02_profiles.pdf",
+    "source_note": "来源：3.2-S1及同样本重排，统计窗口待核。条长按（31－位次）/30编码，只表示本榜30家企业中的排序，不是原始分值或效率；三列不合成为总分。}",
+    "chapter_page": 11
+  },
+  {
+    "old": "图3-2-3",
+    "new": "图3-10",
+    "title": "中国企业影响力 Top 30：完整名单与参与结构",
+    "source_file": "work/sections/32.tex",
+    "asset": "work/figures/32/03_china.pdf",
+    "source_note": "来源：3.2-S2，统计窗口待核。沿用来源实体与分类，不自行将品牌、社区或项目归并为母公司；“深度”“开放麒麟”等记录的企业实体边界待核。关联开发者数不能解释为雇员数。}",
+    "chapter_page": 12
+  },
+  {
+    "old": "图3-2-4",
+    "new": "图3-11",
+    "title": "两张 Top 30 榜单的 OpenRank 分值构成",
+    "source_file": "work/sections/32.tex",
+    "asset": "work/figures/32/04_concentration.pdf",
+    "source_note": "来源：3.2-S1、S2及表内复算，统计窗口待核。分母分别为925,555.48与261,083.87，两条均用0—100\\%尺度。比例仅描述截断榜内构成，不是市场份额或生态总体集中度；两榜重叠，不可相加。}",
+    "chapter_page": 13
+  },
+  {
+    "old": "图3-2-5",
+    "new": "图3-12",
+    "title": "全球与中国所选企业的月度排名变化",
+    "source_file": "work/sections/32.tex",
+    "asset": "work/figures/32/05_monthly.pdf",
+    "source_note": "来源：3.2-S4、S6，2025-07—2026-06，两组各10家。位次轴为线性，越上越靠前；连线不表示月内连续变化。各榜分别排序，未画出的企业也可能占据中间名次，月度名次不能平均为本期排名。}",
+    "chapter_page": 14
+  },
+  {
+    "old": "图3-2-6",
+    "new": "图3-13",
+    "title": "全球所选企业年度排名：前列比较与完整历史",
+    "source_file": "work/sections/32.tex",
+    "asset": "work/figures/32/06_global_history.pdf",
+    "source_note": "来源：3.2-S3，保留2016—2026原标签。上图为线性位次，下图为对数位次，距离不表示相同名次数差。缺失处断线；上图未出现可能是超出前15或缺失。各年起止范围及2026标签覆盖期待核，不称完整自然年。}",
+    "chapter_page": 15
+  },
+  {
+    "old": "图3-2-7",
+    "new": "图3-14",
+    "title": "中国所选企业年度排名：前列比较与完整历史",
+    "source_file": "work/sections/32.tex",
+    "asset": "work/figures/32/07_china_history.pdf",
+    "source_note": "来源：3.2-S5，保留原年度标签，各年起止范围与2026覆盖期待核。上图线性、下图对数位次，缺失不插补。仅追踪所选10家，不能据此判定所有企业的历年进入与退出；名称与Logo沿用来源映射。}",
+    "chapter_page": 16
+  },
+  {
+    "old": "图3-3-1",
+    "new": "图3-15",
+    "title": "全球基金会影响力榜：21个来源条目",
+    "source_file": "work/sections/33.tex",
+    "asset": "work/figures/33/01_board.pdf",
+    "source_note": "来源：3.3-R1。主榜窗口、组织归并、聚合方法与人数去重待核；保留原始值，不与后文仓库月均OpenRank直接比较。LF整体与单列OpenInfra可能重叠，不据本榜计算全球份额。}",
+    "chapter_page": 17
+  },
+  {
+    "old": "图3-3-2",
+    "new": "图3-16",
+    "title": "八家基金会的月度位次变化",
+    "source_file": "work/sections/33.tex",
+    "asset": "work/figures/33/02_foundation_monthly.pdf",
+    "source_note": "来源：3.3-R1月度表，2025-07—2026-06，保留8条完整轨迹。连线仅连接月度观测，不表示月内连续变化或分值增减；组织范围与指标聚合仍待上游核验。}",
+    "chapter_page": 18
+  },
+  {
+    "old": "图3-3-3",
+    "new": "图3-17",
+    "title": "四组LF项目组合的可观测结构",
+    "source_file": "work/sections/33.tex",
+    "asset": "work/figures/33/03_portfolios.pdf",
+    "source_note": "来源：3.3-R2、R3、R4，活动期2025-07—2026-06，采集日2026-11-05。按组内完整样本的仓库月均值分配条带：首位、第2—3位、其余。分组按期末名录回溯，不表示全年归属恒定；各组覆盖率不同，不能外推整体集中度。}",
+    "chapter_page": 19
+  },
+  {
+    "old": "图3-3-4",
+    "new": "图3-18",
+    "title": "LF项目主仓库样本 Top 30",
+    "source_file": "work/sections/33.tex",
+    "asset": "work/figures/33/04_top30.pdf",
+    "source_note": "来源：3.3-R2—R4，2025-07—2026-06，采集日2026-11-05。月均值是12个月OpenRank的算术平均，不是重算的年度网络得分。仅比较233个完整仓库，不是LF全体项目排行；“LF直列/未分组”是名录字段状态。}",
+    "chapter_page": 20
+  },
+  {
+    "old": "图3-3-5",
+    "new": "图3-19",
+    "title": "重点仓库在固定样本中的月度位次",
+    "source_file": "work/sections/33.tex",
+    "asset": "work/figures/33/05_repository_monthly.pdf",
+    "source_note": "来源：3.3-R3，2025-07—2026-06，采集日2026-11-05。按全部233个仓库逐月降序排序，同值取最小名次；仅展示选定8条轨迹。期末名录回溯全年，加入前活动不解释为基金会支持成效。}",
+    "chapter_page": 21
+  },
+  {
+    "old": "图3-4-1",
+    "new": "图3-20",
+    "title": "全球项目影响力Top 30的名次与技术用途",
+    "source_file": "work/sections/34.tex",
+    "asset": "work/figures/34/01_global.pdf",
+    "source_note": "来源：[3.4-S1]固定底表，保留全部30项。原榜统计窗口、完整项目—仓库映射与去重日志尚待核验，不认定为已核定年度榜。活跃开发者数沿用底表，不据此计算“人均影响力”。*Claude Code沿用来源名称，其公开协作仓库不能证明整个产品按开源许可发布。}",
+    "chapter_page": 22
+  },
+  {
+    "old": "图3-4-2",
+    "new": "图3-21",
+    "title": "两份Top 30的项目资源结构",
+    "source_file": "work/sections/34.tex",
+    "asset": "work/figures/34/02_atlas.pdf",
+    "source_note": "来源：[3.4-S1、3.4-S2]及同版本项目用途元数据，按主要用途赋予单一类别。每格一项，面积表示名单数量，颜色表示用途，不表示影响分值或市场份额。两榜共同对象为OpenHarmony、openEuler、CANN、Ascend，合计56个不同来源名称。}",
+    "chapter_page": 23
+  },
+  {
+    "old": "图3-4-3",
+    "new": "图3-22",
+    "title": "中国项目影响力Top 30的名次与技术用途",
+    "source_file": "work/sections/34.tex",
+    "asset": "work/figures/34/03_china.pdf",
+    "source_note": "来源：[3.4-S2]固定底表，保留全部30项，与图3-4-1采用相同分值刻度。对象、地区归属与统计边界沿用来源；原榜窗口、项目映射及去重状态仍待核验。}",
+    "chapter_page": 24
+  },
+  {
+    "old": "图3-4-4",
+    "new": "图3-23",
+    "title": "中国项目跃升名单的起止位次",
+    "source_file": "work/sections/34.tex",
+    "asset": "work/figures/34/08_rising.pdf",
+    "source_note": "来源：[3.4-S3]，保留全部10项，数值轴覆盖1—151；两项新进保留非数值起点。原始比较窗口与完整项目范围待核，新进不等于项目首次公开。}",
+    "chapter_page": 25
+  },
+  {
+    "old": "图3-4-5",
+    "new": "图3-24",
+    "title": "OpenHarmony默认源码清单的资源构成",
+    "source_file": "work/sections/34.tex",
+    "asset": "work/figures/34/portrait_oh_resources.pdf",
+    "source_note": "来源：[3.4-S20]期末固定manifest，按本地路径首段计数。面积与条目数成比例，不表示代码量、原创比例或技术自主性。默认清单不是全社区仓库总表，也不是原榜计算映射。}",
+    "chapter_page": 26
+  },
+  {
+    "old": "图3-4-6",
+    "new": "图3-25",
+    "title": "PyTorch核心仓库的工作流入与发布节奏",
+    "source_file": "work/sections/34.tex",
+    "asset": "work/figures/34/portrait_delivery.pdf",
+    "source_note": "来源：[3.4-S11、3.4-S12]。主期为2025-07-01至2026-06-30（UTC）；创建记录按月查询，12个月之和与整期一致。Release按published\\_at及prerelease=false筛选。记录包含自动化与堆叠工作流，不能换算为独立人员数或生产率。}",
+    "chapter_page": 27
+  },
+  {
+    "old": "图3-4-7",
+    "new": "图3-26",
+    "title": "OpenHarmony贡献榜样本的平台构成",
+    "source_file": "work/sections/34.tex",
+    "asset": "work/figures/34/portrait_oh_platform.pdf",
+    "source_note": "来源：[3.4-S15]，2025-07至2026-06，每月社区OpenRank前100条，以平台+稳定账号ID识别。图示为榜内构成，不是全社区平台份额；跨平台同一人的身份尚未归并。}",
+    "chapter_page": 28
+  },
+  {
+    "old": "图3-4-8",
+    "new": "图3-27",
+    "title": "PyTorch贡献榜名次、当期贡献值与持续性",
+    "source_file": "work/sections/34.tex",
+    "asset": "work/figures/34/portrait_pytorch_people.pdf",
+    "source_note": "来源：[3.4-S15]，主期12个月的项目标签社区贡献榜。热图追踪2026年6月前12条目的月度名次；灰格表示未进入当月前100，不表示退出。已知机器人标签及[bot]名称规则筛查无命中，不代表全部账号已经人工确认。}",
+    "chapter_page": 29
+  },
+  {
+    "old": "图3-4-9",
+    "new": "图3-28",
+    "title": "六个代表仓库的高活跃账号交集",
+    "source_file": "work/sections/34.tex",
+    "asset": "work/figures/34/06_connections.pdf",
+    "source_note": "来源：[3.4-S6]，2025-07至2026-06，每仓库每月最多100条。按归一化登录名求并集和交集，先截榜后剔除已知机器人，不回补。未完整处理改名与稳定身份，只代表公开前列样本；颜色编码交集账号数。}",
+    "chapter_page": 30
+  },
+  {
+    "old": "图3-4-10",
+    "new": "图3-29",
+    "title": "高活跃账号样本的月度出现频次",
+    "source_file": "work/sections/34.tex",
+    "asset": "work/figures/34/07_frequency.pdf",
+    "source_note": "来源：[3.4-S6]。分母为各仓库主期12个月名单的账号并集，同一账号在不同仓库分别计入；横向为仓库内比例，数字为账号数。频次不是连续工作月份，也不是全社区留存率。本图PyTorch的36个账号来自核心仓库activity榜，图3-4-8的61个账号来自项目标签社区OpenRank榜，两者范围、排序和身份处理均不同。}",
+    "chapter_page": 31
+  },
+  {
+    "old": "图3-4-11",
+    "new": "图3-30",
+    "title": "两个推理项目的直接软件依赖",
+    "source_file": "work/sections/34.tex",
+    "asset": "work/figures/34/05_dependencies.pdf",
+    "source_note": "来源：[3.4-S5、3.4-S22]，固定至2026-06-30及此前提交；两来源号指向同组证据，不重复计作独立验证。箭头由使用方指向依赖项，只展示三组选定依赖，不代表完整供应链、实际安装状态或贡献关系。}",
+    "chapter_page": 32
+  },
+  {
+    "old": "图3-4-12",
+    "new": "图3-31",
+    "title": "PyTorch维护观测的分布与缺失月份",
+    "source_file": "work/sections/34.tex",
+    "asset": "work/figures/34/portrait_maintenance.pdf",
+    "source_note": "来源：[3.4-S10]。响应及Issue年龄有8/12个月度值，PR解决时长仅有4/12月。响应指标对未观测到响应者代入15天，关闭也可算作响应，并非纯人工服务时效；缺月留白，不补零，月度分位数不直接平均为年度分位数。}",
+    "chapter_page": 33
+  },
+  {
+    "old": "图3-4-13",
+    "new": "图3-32",
+    "title": "PyTorch完整项目标杆画像",
+    "source_file": "work/atlas/atlas.tex",
+    "asset": "work/atlas/atlas.pdf#page=1",
+    "source_note": "3.4-S8—3.4-S23",
+    "chapter_page": 35
+  },
+  {
+    "old": "图3-4-14",
+    "new": "图3-33",
+    "title": "OpenHarmony完整项目标杆画像",
+    "source_file": "work/atlas/atlas.tex",
+    "asset": "work/atlas/atlas.pdf#page=2",
+    "source_note": "3.4-S8、3.4-S9、3.4-S15、3.4-S20、3.4-S21",
+    "chapter_page": 36
+  },
+  {
+    "old": "图3-5-1",
+    "new": "图3-34",
+    "title": "新项目 Top 30 的协作影响与仓库范围",
+    "source_file": "work/sections/35.tex",
+    "asset": "work/figures/35/01_projects.pdf",
+    "source_note": "来源：3.5-E1、E2、E5。沿用来源主期2025-07—2026-06；完整纳入范围与新建资格待核。标识为2026年11月取得的官方项目或所属组织标识，不作历史归属证据。}",
+    "chapter_page": 37
+  },
+  {
+    "old": "图3-5-2",
+    "new": "图3-35",
+    "title": "新仓库 Top 30 的完整路径与协作影响",
+    "source_file": "work/sections/35.tex",
+    "asset": "work/figures/35/02_repos.pdf",
+    "source_note": "来源：3.5-E1—E3、E5。G为GitHub，A为AtomGit。30仓主期OpenRank回算与来源值最大绝对差0.02；人数未重新聚合，不跨仓相加。平台新建记录不等于技术首次公开。}",
+    "chapter_page": 38
+  },
+  {
+    "old": "图3-5-3",
+    "new": "图3-36",
+    "title": "两份 Top 30 的技术构成与平台范围",
+    "source_file": "work/sections/35.tex",
+    "asset": "work/figures/35/03_macro.pdf",
+    "source_note": "来源：3.5-E1、E2。每项按一个主领域进行编辑分类；等面积格表示对象数量，不表示分值。语言仅为仓库榜汇总，TS、C\\#、QML各1项。分类差异记录见章末。}",
+    "chapter_page": 39
+  },
+  {
+    "old": "图3-5-4",
+    "new": "图3-37",
+    "title": "CANN项目范围与八个入榜组件的功能构成",
+    "source_file": "work/sections/35.tex",
+    "asset": "work/figures/35/04_cann.pdf",
+    "source_note": "来源：3.5-E1、E2。顶部为来源项目指标，面积图仅含8个关联入榜仓库；功能占比以8仓分值之和10,028.22为分母，不是68仓全景或项目总分分解，不跨仓相加活跃者。}",
+    "chapter_page": 40
+  },
+  {
+    "old": "图3-6-1",
+    "new": "图3-38",
+    "title": "模型影响力前十名与复用相关记录",
+    "source_file": "work/sections/36.tex",
+    "asset": "work/figures/36/01_models.pdf",
+    "source_note": "来源：3.6-E1—E3。2026年6月月榜，条形从0起；下载、衍生字段的窗口与去重待核，不解释为当月新增。标识为发布账户当前官方头像。}",
+    "chapter_page": 41
+  },
+  {
+    "old": "图3-6-2",
+    "new": "图3-39",
+    "title": "任务入榜数量与名次分布",
+    "source_file": "work/sections/36.tex",
+    "asset": "work/figures/36/02_tasks.pdf",
+    "source_note": "来源：3.6-E1。2026年6月，按原始主任务字段复算。左侧橙色为前20名子集，右侧短线保留原榜名次；5条未标注记录保持缺失，不以当前模型卡回填历史。}",
+    "chapter_page": 42
+  },
+  {
+    "old": "图3-6-3",
+    "new": "图3-40",
+    "title": "发布账户的入榜数量与任务布局",
+    "source_file": "work/sections/36.tex",
+    "asset": "work/figures/36/03_publishers.pdf",
+    "source_note": "来源：3.6-E1、E3。2026年6月月榜；账户分别统计，不并入母公司。21个账户有官方头像，缺独立头像者保留文字；任务数0仅表示本样本未取得任务标签。}",
+    "chapter_page": 43
+  }
+]

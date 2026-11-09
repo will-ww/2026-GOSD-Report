@@ -1,0 +1,34 @@
+{
+  "unchanged": true,
+  "pairs": [
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      3,
+      0
+    ],
+    [
+      4,
+      1
+    ],
+    [
+      5,
+      2
+    ],
+    [
+      6,
+      3
+    ]
+  ],
+  "interpretation": "Reading relations only; no weights or causal claims."
+}

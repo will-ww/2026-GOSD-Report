@@ -1,0 +1,6 @@
+language,monthly_participation_rank_2026,monthly_contributor_increment,yoy_growth_pct,extraction_note
+TypeScript,1.0,3620000.0,134.0,正文增量；官方图替代文本明确134%
+Python,2.0,3230000.0,118.0,正文增量；官方图替代文本明确118%
+JavaScript,3.0,1820000.0,,正文公布增量；不从气泡横坐标估读增幅
+Rust,,,162.0,官方图替代文本明确162%；不把“doubling”转成100%
+Java,,,30.0,官方图替代文本明确30%

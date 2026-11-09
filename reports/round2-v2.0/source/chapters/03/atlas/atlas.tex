@@ -1,0 +1,93 @@
+\documentclass[11pt]{article}
+\usepackage[paperwidth=297mm,paperheight=420mm,margin=12mm,headheight=0pt,footskip=7mm]{geometry}
+\usepackage{fontspec,graphicx,xcolor,tabularx,array,booktabs,hyperref,fancyhdr,eso-pic}
+\setmainfont[Path=../.build_fonts/,BoldFont=NotoSansSC-Bold.otf]{NotoSansSC-Regular.otf}\setsansfont[Path=../.build_fonts/,BoldFont=NotoSansSC-Bold.otf]{NotoSansSC-Regular.otf}\XeTeXlinebreaklocale "zh"\XeTeXlinebreakskip=0pt plus 1pt
+\definecolor{ink}{HTML}{211E3C}\definecolor{teal}{HTML}{6146A5}\definecolor{muted}{HTML}{5C6B7A}\definecolor{pale}{HTML}{F2EFF6}\definecolor{orange}{HTML}{D65C3E}
+\color{ink}\linespread{1.10}\setlength{\parindent}{0pt}\setlength{\parskip}{3pt}\setlength{\emergencystretch}{2em}
+\hypersetup{colorlinks=true,urlcolor=teal,pdftitle={3.4 完整项目画像：PyTorch与OpenHarmony}}
+\pagestyle{fancy}\fancyhf{}\renewcommand{\headrulewidth}{0pt}\fancyfoot[L]{\scriptsize\color{muted}OSDGs / GOSD 2026 · 完整项目画像}\fancyfoot[R]{\scriptsize \thepage}
+\newcommand{\profilenum}{32}
+\newcommand{\heading}[2]{\colorbox{ink}{\parbox{\dimexpr\linewidth-2\fboxsep\relax}{\vspace{2mm}\color{white}{\LARGE\bfseries #1}\hfill{\small 图3-\profilenum\quad 项目标杆画像}\par\small #2\vspace{2mm}}}\par}
+\newcommand{\panel}[3]{\textbf{\color{teal}#1}\par\vspace{1mm}\includegraphics[width=\linewidth]{figures/#2.pdf}\par{\fontsize{9}{13}\selectfont\color{muted}#3}\par}
+\newcommand{\fact}[3]{\begin{minipage}[t]{.155\linewidth}\textbf{\fontsize{14}{17}\selectfont\color{teal}#1}\par{\fontsize{9.5}{12}\selectfont #2}\par{\fontsize{8}{11}\selectfont\color{muted}#3}\end{minipage}}
+\AddToShipoutPictureBG{\AtPageLowerLeft{\includegraphics[width=\paperwidth]{../figures/new/footer-wave.pdf}}}
+\begin{document}
+\input{pageoffset.tex}
+
+\pdfbookmark[1]{3.4 项目标杆画像｜PyTorch}{profile-pytorch}
+\heading{PyTorch}{张量计算、自动求导与神经网络框架 · 从协作影响到可获得、可维护的计算资源}
+\begin{minipage}{.15\linewidth}\includegraphics[width=34mm]{assets/PyTorch_wordmark.png}\end{minipage}\hfill\begin{minipage}{.83\linewidth}\small
+主期：2025.07—2026.06；历史与期后单列。项目标签：pytorch组织；工程交付：pytorch/pytorch；版本制品：torch 2.12.1。基金会与项目边界分开。\end{minipage}
+\vspace{2mm}\par
+\fact{23,777}{新增PR记录}{核心仓库 · 主期}\hfill
+\fact{7,329}{新增Issue记录}{核心仓库 · 主期}\hfill
+\fact{7}{非预发布版本}{按实际发布时间}\hfill
+\fact{244}{贡献榜账号并集}{每月前100样本}\hfill
+\fact{61}{持续出现账号}{样本内9—12个月}\hfill
+\fact{24}{版本wheel}{PyPI · torch 2.12.1}
+\vspace{3mm}\hrule\vspace{3mm}
+\begin{minipage}[t]{.486\linewidth}
+\panel{01　长期轨迹｜影响、活动与参与}{pytorch_history}{四种指标互补。近期导出与GitHub创建记录方向不同，断点先核查观测过程；期后10月不混入年度结果。\href{https://oss.open-digger.cn/companies/meta/pytorch/openrank.json}{[3.4-S8、3.4-S10、3.4-S11]}}
+\end{minipage}\hfill\begin{minipage}[t]{.486\linewidth}
+\panel{02　空间参与｜地域与贡献权重}{geography}{美国条目占已列账号41.1\%、贡献值65.4\%；未知地区未返回。位置不是国籍，贡献权重不是能力评价。\href{https://github.com/X-lab2017/open-digger/blob/master/src/cron/tasks/monthlyExport.ts}{[3.4-S9、3.4-S14]}}
+\end{minipage}
+\vspace{3mm}\hrule\vspace{3mm}
+\begin{minipage}[t]{.486\linewidth}
+\panel{03　贡献接续｜当前榜单与十二个月名次}{pytorch_people}{61/244个账号在至少9个月的公开榜内出现。灰格仅表示未进入前100，不能据此判断退出；身份采用平台+稳定ID。\href{https://oss.open-digger.cn/companies/meta/pytorch/community_openrank_details.json}{[3.4-S15]}}
+\end{minipage}\hfill\begin{minipage}[t]{.486\linewidth}
+\panel{04　工程交付｜工作流入与版本节奏}{delivery}{后半期PR较前半期增加31.4\%，是工作流入变化，不等同生产率。版本发布与贡献人数使用各自统计窗口。\href{https://api.github.com/search/issues?q=repo:pytorch/pytorch+is:pr+created:2025-07-01..2026-06-30&per_page=1}{[3.4-S11—3.4-S13]}}
+\end{minipage}
+\vspace{3mm}\hrule\vspace{3mm}
+\begin{minipage}[t]{.486\linewidth}
+\panel{05　获得与复用｜制品、平台和成本线索}{package}{期末vLLM与SGLang均声明torch 2.11.0依赖。2026-11-06期后对2.12.1的解析有15项直接、13项间接依赖；实际安装成本须另测。\href{https://pypi.org/pypi/torch/2.12.1/json}{[3.4-S16、3.4-S17、3.4-S22]}}
+\end{minipage}\hfill\begin{minipage}[t]{.486\linewidth}
+\panel{06　维护体检｜响应、存量与缺口}{maintenance}{部分高级指标缺4—8个月；响应值含未响应15日代入。配合模块维护者名册复查，才能定位责任和负荷。\href{https://github.com/X-lab2017/open-digger/blob/master/src/metrics/chaoss.ts}{[3.4-S10、3.4-S18]}}
+\end{minipage}
+\vspace{3mm}
+\colorbox{pale}{\parbox{\dimexpr\linewidth-2\fboxsep\relax}{\small\textbf{治理与安全}　技术治理分层、角色可查；安全政策仅为当前版本提供修复。2026-11-06期后OSV对torch 2.12.1命中1条公告，记录修复边界2.13.0；部署适用性未测试。\href{https://github.com/pytorch/pytorch/blob/v2.12.1/docs/source/community/governance.rst}{[3.4-S18、3.4-S19]}\par\textbf{行动方向}　按模块核对新增工作与评审容量；支持持续骨干和新人进入；将制品、驱动、依赖及升级能力纳入采用评估。}}
+\vspace{1mm}\par{\fontsize{8}{11}\selectfont\color{muted}来源：OpenDigger、GitHub与项目官方材料，逐面板标注。地域为2026-11-02更新的期后滚动快照；未列未知地区；南极洲1条作为异常保留。不合成统一健康分。}
+
+\newpage
+\renewcommand{\profilenum}{33}
+\pdfbookmark[1]{3.4 项目标杆画像｜OpenHarmony}{profile-openharmony}
+\heading{OpenHarmony}{智能终端操作系统框架与平台 · 以模块、依赖与跨平台协作理解系统型项目}
+\begin{minipage}{.20\linewidth}\includegraphics[width=43mm]{assets/OpenHarmony.png}\end{minipage}\hfill\begin{minipage}{.77\linewidth}\small
+主期：2025.07—2026.06。影响与活动：OpenDigger项目标签；资源结构：2026-06-30固定manifest。多仓库、多组织与多平台保持各自边界。\end{minipage}
+\vspace{2mm}\par
+\fact{512}{默认源码条目}{固定manifest}\hfill
+\fact{183}{第三方依赖条目}{占默认清单35.7\%}\hfill
+\fact{6,214.53}{OpenRank}{2026.06 标签值}\hfill
+\fact{32,726.58}{活跃度}{2026.06 标签值}\hfill
+\fact{2,859}{参与账号观测}{2026.06 未重认身份}\hfill
+\fact{64,569}{活跃Issue/PR}{2026.06 标签值}
+\vspace{3mm}\hrule\vspace{3mm}
+\begin{minipage}[t]{.486\linewidth}
+\panel{01　资源组合｜用面积读懂系统结构}{oh_resources}{183项第三方依赖、117项系统框架、109项基础能力。面积表示条目数，不表示代码量、原创性或技术自主性。\href{https://github.com/openharmony/manifest/tree/36a80ca0ea0101ed0df1d7b773559e428f6eef0f}{[3.4-S20]}}
+\end{minipage}\hfill\begin{minipage}[t]{.486\linewidth}
+\panel{02　长期轨迹｜协作规模与观测变化}{openharmony_history}{主期末指标保留原始标签观测值；跨平台身份与事件去重未完整验证。近期波动不能只由平台变更解释。\href{https://oss.open-digger.cn/companies/meta/pytorch/openrank.json}{[3.4-S8、3.4-S21]}}
+\end{minipage}
+\vspace{3mm}\hrule\vspace{3mm}
+\begin{minipage}[t]{.486\linewidth}
+\panel{03　贡献账号｜平台身份与月度名次}{openharmony_people}{每月前100条目的十二个月并集为513个平台账号标识；同名未跨平台合并。OpenHarmony\_CMO等角色类型待核，不称为自然人贡献榜。\href{https://oss.open-digger.cn/companies/meta/pytorch/community_openrank_details.json}{[3.4-S15]}}
+\end{minipage}\hfill\begin{minipage}[t]{.486\linewidth}
+\panel{04　平台构成｜保留迁移前后的观察入口}{oh_platform}{2025.07的91/9转为10月8/92，11月起全部前100条目来自AtomGit。只描述榜内构成，不证明全社区迁移完成。\href{https://oss.open-digger.cn/companies/meta/pytorch/community_openrank_details.json}{[3.4-S15]}}
+\vspace{3mm}\textbf{\color{teal}项目边界需要三份表}\par\small
+\textbf{标签入口：}期末YAML有3个Gitee、9个AtomGit组织入口。\par
+\textbf{展示预览：}meta主动截取前5项，不能据此判断只有5项被计算。\par
+\textbf{工程资源：}默认manifest为512项，远端为GitCode；与排名映射的用途不同。\href{https://github.com/X-lab2017/open-digger/blob/master/src/cron/tasks/monthlyExport.ts}{[3.4-S9、3.4-S20、3.4-S21]}
+\end{minipage}
+\vspace{3mm}\hrule\vspace{4mm}
+\textbf{\color{teal}05　面向项目方的维护体检｜从系统结构落到可执行责任}\par
+\renewcommand{\arraystretch}{1.5}
+\begin{tabularx}{\linewidth}{@{}p{31mm}XX@{}}\toprule
+维护对象 & 当前证据 & 应继续观察的责任与结果\\\midrule
+第三方依赖 & third\_party 183项 & 上游版本、补丁跟进、许可证、漏洞修复与回馈记录\\
+系统核心 & foundation 117项、base 109项 & 模块维护者与替补、评审容量、跨版本回归及接口兼容\\
+设备与应用 & applications 30项；设备、内核等分组 & 适配矩阵、测试可重复性、发行版本支持和用户问题闭环\\
+跨平台协作 & 贡献榜出现明显平台构成转换 & 稳定身份对应、镜像识别、事件去重与迁移前后可比窗口\\
+空间与采用 & 本次未取得可用地域及完整采用数据 & 不由项目来源地推断开发者位置；实施案例需补成本、维护和结果\\\bottomrule
+\end{tabularx}
+\vspace{4mm}
+\colorbox{pale}{\parbox{\dimexpr\linewidth-2\fboxsep\relax}{\small\textbf{当前判断}　OpenHarmony是由多个系统层与外部依赖组织起来的开放资源组合。影响画像的下一步，是把资源条目连接到持续维护责任，再用可比的协作记录检查这些责任能否接续。\par\textbf{优先行动}　建立“仓库—平台—有效期—维护者—上游—版本”台账；对核心模块、第三方依赖与设备适配分别组织体检；补充跨平台账号映射后再讨论人员接续。}}
+\vspace{2mm}\par{\fontsize{8}{11}\selectfont\color{muted}来源：OpenDigger、期末标签与源码清单，逐面板标注。保持与PyTorch相同的研究问题，按系统型项目调整图型；缺地域证据时明确缺口，不绘制虚构地图。当前数值不构成安全、质量或公共价值认证。}
+\end{document}

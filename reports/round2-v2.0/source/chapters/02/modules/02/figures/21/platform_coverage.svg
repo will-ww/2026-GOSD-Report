@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="71mm" viewBox="0 0 170 71"><rect width="170" height="71" fill="white" />
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB" /><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#329A9B" stroke-width="0.3" /></pattern></defs>
+<text x="1.0000" y="6.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.23333" font-weight="700" fill="#142C49" text-anchor="start">多看一个平台，就多看见一部分参与</text>
+<text x="1.0000" y="12.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="start">中国增加本土平台补充；美国和印度仅展示GitHub口径</text>
+<rect x="1.0000" y="17.0000" width="6.0000" height="2.2000" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="10.0000" y="19.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">GitHub</text>
+<rect x="45.0000" y="17.0000" width="6.0000" height="2.2000" rx="0" fill="url(#hatch)" stroke="#329A9B" stroke-width="0.18" />
+<text x="54.0000" y="19.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">中国本土平台补充（去重）</text>
+<text x="1.0000" y="30.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="400" fill="#142C49" text-anchor="start">美国</text>
+<rect x="24.0000" y="26.0000" width="113.0000" height="4.8000" rx="0" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="24.0000" y="26.0000" width="107.3815" height="4.8000" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="169.0000" y="30.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="end">494.14万</text>
+<text x="1.0000" y="42.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="start">中国</text>
+<rect x="24.0000" y="38.0000" width="113.0000" height="4.8000" rx="0" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="24.0000" y="38.0000" width="54.4318" height="4.8000" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<rect x="78.4318" y="38.0000" width="26.0769" height="4.8000" rx="0" fill="url(#hatch)" stroke="#329A9B" stroke-width="0.22" />
+<text x="51.2159" y="41.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#FFFFFF" text-anchor="middle">250.48万</text>
+<text x="91.4702" y="36.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#007D78" text-anchor="middle">约120万</text>
+<text x="169.0000" y="42.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="end">约370万</text>
+<text x="1.0000" y="54.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="400" fill="#142C49" text-anchor="start">印度</text>
+<rect x="24.0000" y="50.0000" width="113.0000" height="4.8000" rx="0" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="24.0000" y="50.0000" width="61.9519" height="4.8000" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="169.0000" y="54.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="end">285.09万</text>
+<path d="M24.000,62.000 L137.000,62.000" fill="none" stroke="#D8E3E9" stroke-width="0.22" />
+<text x="24.0000" y="67.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#506778" text-anchor="middle">0</text>
+<text x="132.6538" y="67.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#506778" text-anchor="middle">500</text></svg>

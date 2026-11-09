@@ -1,0 +1,11 @@
+.build_fonts/
+__pycache__/
+*.pyc
+*.aux
+*.log
+*.out
+*.toc
+chapter2.pdf
+qa/rendered/
+qa/contact-*.png
+qa/initial/

@@ -1,0 +1,7 @@
+metric,period,value,unit,boundary
+commits,2025,12.9,billion,October_September_public_and_private
+commits,2026,34.3,billion,October_September_public_and_private
+public_contributions,2025,1.12,billion,October_September_public_only
+public_contributions,2026,2.5,billion,October_September_public_only
+agent_started_pr_share,2026-03,17,percent,reported_value
+agent_started_pr_share,2026-09,40,percent,strict_lower_bound

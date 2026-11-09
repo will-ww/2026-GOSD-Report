@@ -1,0 +1,362 @@
+[
+  {
+    "id": "3.4-S1",
+    "description_tex": "\\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-4-1_global_project_openrank_top30.csv}{全球项目Top 30固定底表}。原仓库c51e344提交；保留项目名、OpenRank与活跃开发者数。用途分类来自同版本项目参考元数据，采用主要用途单标签。",
+    "urls": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-4-1_global_project_openrank_top30.csv"
+    ]
+  },
+  {
+    "id": "3.4-S2",
+    "description_tex": "\\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-4-3_china_project_openrank_top30.csv}{中国项目Top 30固定底表}。同一提交；与全球榜共同对象为OpenHarmony、openEuler、CANN、Ascend，两榜合计56个不同来源名称。",
+    "urls": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-4-3_china_project_openrank_top30.csv"
+    ]
+  },
+  {
+    "id": "3.4-S3",
+    "description_tex": "\\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-4-4_china_project_rising.csv}{中国项目跃升固定底表}。10项来源记录；原表未明确基期和本期窗口，新进条目保留非数值起点。",
+    "urls": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-4-4_china_project_rising.csv"
+    ]
+  },
+  {
+    "id": "3.4-S4",
+    "description_tex": "\\href{https://github.com/X-lab2017/open-digger/tree/ead4515179ae93a3bcbb151707a90fe7e1750f49/labeled_data}{OpenDigger期末项目与机器人标签}。ead4515固定提交；用于项目边界和明确机器人筛查，不证明跨平台身份已完全核验。",
+    "urls": [
+      "https://github.com/X-lab2017/open-digger/tree/ead4515179ae93a3bcbb151707a90fe7e1750f49/labeled_data"
+    ]
+  },
+  {
+    "id": "3.4-S5",
+    "description_tex": "\\href{https://github.com/vllm-project/vllm/tree/ab80b3dff4829768347b322c7a5d444e522ef7b3}{vLLM期末提交}的requirements/cuda.txt、common.txt；\\href{https://github.com/sgl-project/sglang/tree/bae78a44da62ad98ee501adbc2823af37fe3f94b}{SGLang期末提交}的python/pyproject.toml。版本依赖逐项记录于证据表；与3.4-S22为同一组来源，不重复计作独立验证。",
+    "urls": [
+      "https://github.com/vllm-project/vllm/tree/ab80b3dff4829768347b322c7a5d444e522ef7b3",
+      "https://github.com/sgl-project/sglang/tree/bae78a44da62ad98ee501adbc2823af37fe3f94b"
+    ]
+  },
+  {
+    "id": "3.4-S6",
+    "description_tex": "\\href{https://oss.open-digger.cn/github/pytorch/pytorch/activity_details.json}{OpenDigger核心仓库activity\\_details.json}：pytorch/pytorch、vllm-project/vllm、sgl-project/sglang、langchain-ai/langchain、langgenius/dify、kubernetes/kubernetes共六份。主期每月最多100项；按归一化登录名匹配，剔除空账号、[bot]及3.4-S4已知机器人后不回补。原始名单、排除记录与交集计算均随附。",
+    "urls": [
+      "https://oss.open-digger.cn/github/pytorch/pytorch/activity_details.json"
+    ]
+  },
+  {
+    "id": "3.4-S7",
+    "description_tex": "\\href{https://github.com/openharmony/docs/blob/55311f494f7861393890d8faec59b1c5afc0a1f9/README_zh.md}{OpenHarmony官方文档}；\\href{https://github.com/pytorch/pytorch/blob/v2.11.0/README.md}{PyTorch版本README}。用于资源定位。项目标识来自官方品牌、官网或仓库；逐项来源保留在logo清单中。",
+    "urls": [
+      "https://github.com/openharmony/docs/blob/55311f494f7861393890d8faec59b1c5afc0a1f9/README_zh.md",
+      "https://github.com/pytorch/pytorch/blob/v2.11.0/README.md"
+    ]
+  },
+  {
+    "id": "3.4-S8",
+    "description_tex": "\\href{https://oss.open-digger.cn/companies/meta/pytorch/openrank.json}{OpenDigger PyTorch项目标签}；\\href{https://oss.open-digger.cn/companies/huawei/openharmony/openrank.json}{OpenHarmony项目标签}。同目录activity、participants、issues\\_and\\_change\\_request\\_active四种月度序列。采集2026-11-06。",
+    "urls": [
+      "https://oss.open-digger.cn/companies/meta/pytorch/openrank.json",
+      "https://oss.open-digger.cn/companies/huawei/openharmony/openrank.json"
+    ]
+  },
+  {
+    "id": "3.4-S9",
+    "description_tex": "\\href{https://github.com/X-lab2017/open-digger/blob/master/src/cron/tasks/monthlyExport.ts}{OpenDigger monthlyExport.ts}，本次读取blob 0241d68b。含meta前五入口截取、地域滚动一年、非空country及GitHub平台限定。",
+    "urls": [
+      "https://github.com/X-lab2017/open-digger/blob/master/src/cron/tasks/monthlyExport.ts"
+    ]
+  },
+  {
+    "id": "3.4-S10",
+    "description_tex": "\\href{https://github.com/X-lab2017/open-digger/blob/master/src/metrics/chaoss.ts}{OpenDigger指标实现}；\\href{https://github.com/X-lab2017/open-digger/issues/1787}{数据缺失问题\\#1787}（2026-06-20）。核心仓库指标\\href{https://oss.open-digger.cn/github/pytorch/pytorch/issue_response_time.json}{响应时间接口}及同目录高级指标；不套用宏观校正率。",
+    "urls": [
+      "https://github.com/X-lab2017/open-digger/blob/master/src/metrics/chaoss.ts",
+      "https://github.com/X-lab2017/open-digger/issues/1787",
+      "https://oss.open-digger.cn/github/pytorch/pytorch/issue_response_time.json"
+    ]
+  },
+  {
+    "id": "3.4-S11",
+    "description_tex": "\\href{https://api.github.com/search/issues?q=repo:pytorch/pytorch+is:pr+created:2025-07-01..2026-06-30&per_page=1}{GitHub核心仓库创建记录查询}。PR/Issue整期及月度响应、查询状态与原始对照表见数据包。当前索引可受删除、迁移等影响。",
+    "urls": [
+      "https://api.github.com/search/issues?q=repo:pytorch/pytorch+is:pr+created:2025-07-01..2026-06-30&per_page=1"
+    ]
+  },
+  {
+    "id": "3.4-S12",
+    "description_tex": "\\href{https://api.github.com/repos/pytorch/pytorch/releases?per_page=50}{PyTorch Release API}。使用published\\_at与prerelease字段筛选主期，七条记录另存。",
+    "urls": [
+      "https://api.github.com/repos/pytorch/pytorch/releases?per_page=50"
+    ]
+  },
+  {
+    "id": "3.4-S13",
+    "description_tex": "\\href{https://pytorch.org/blog/pytorch-2-12-release-blog/}{PyTorch 2.12 Release Blog}，PyTorch Foundation，2026-05-13发布、05-19修订。版本贡献人数与提交数为项目方自报。",
+    "urls": [
+      "https://pytorch.org/blog/pytorch-2-12-release-blog/"
+    ]
+  },
+  {
+    "id": "3.4-S14",
+    "description_tex": "\\href{https://oss.open-digger.cn/companies/meta/pytorch/meta.json}{PyTorch meta.json}。更新2026-11-02；contributions为65行地域数据。元数据标签不是法律归属或个人国籍证明。",
+    "urls": [
+      "https://oss.open-digger.cn/companies/meta/pytorch/meta.json"
+    ]
+  },
+  {
+    "id": "3.4-S15",
+    "description_tex": "\\href{https://oss.open-digger.cn/companies/meta/pytorch/community_openrank_details.json}{PyTorch社区贡献榜明细}；\\href{https://oss.open-digger.cn/companies/huawei/openharmony/community_openrank_details.json}{OpenHarmony明细}。按主期12个月读取；稳定ID与平台保留。",
+    "urls": [
+      "https://oss.open-digger.cn/companies/meta/pytorch/community_openrank_details.json",
+      "https://oss.open-digger.cn/companies/huawei/openharmony/community_openrank_details.json"
+    ]
+  },
+  {
+    "id": "3.4-S16",
+    "description_tex": "\\href{https://pypi.org/pypi/torch/2.12.1/json}{PyPI torch 2.12.1 JSON}。24个wheel的文件名、SHA-256、压缩大小与上传时间。许可证字段为BSD-3-Clause，完整条款见\\href{https://github.com/pytorch/pytorch/blob/v2.12.1/LICENSE}{固定版本LICENSE}。",
+    "urls": [
+      "https://pypi.org/pypi/torch/2.12.1/json",
+      "https://github.com/pytorch/pytorch/blob/v2.12.1/LICENSE"
+    ]
+  },
+  {
+    "id": "3.4-S17",
+    "description_tex": "\\href{https://api.deps.dev/v3/systems/pypi/packages/torch/versions/2.12.1:dependencies}{deps.dev依赖解析}；\\href{https://docs.deps.dev/api/v3/}{官方API文档}。2026-11-06期后快照；不是历史锁文件或实际部署SBOM。",
+    "urls": [
+      "https://api.deps.dev/v3/systems/pypi/packages/torch/versions/2.12.1:dependencies",
+      "https://docs.deps.dev/api/v3/"
+    ]
+  },
+  {
+    "id": "3.4-S18",
+    "description_tex": "PyTorch v2.12.1：\\href{https://github.com/pytorch/pytorch/blob/v2.12.1/docs/source/community/governance.rst}{技术治理}、\\href{https://github.com/pytorch/pytorch/blob/v2.12.1/docs/source/community/persons_of_interest.rst}{维护者名册}、\\href{https://github.com/pytorch/pytorch/blob/v2.12.1/SECURITY.md}{安全政策}、\\href{https://github.com/pytorch/pytorch/blob/v2.12.1/RELEASE.md}{发布规则}、\\href{https://github.com/pytorch/pytorch/blob/v2.12.1/.github/merge_rules.yaml}{合入规则}；\\href{https://github.com/pytorch/pytorch/pull/188604}{PR\\#188604}与官方外部贡献统计脚本。",
+    "urls": [
+      "https://github.com/pytorch/pytorch/blob/v2.12.1/docs/source/community/governance.rst",
+      "https://github.com/pytorch/pytorch/blob/v2.12.1/docs/source/community/persons_of_interest.rst",
+      "https://github.com/pytorch/pytorch/blob/v2.12.1/SECURITY.md",
+      "https://github.com/pytorch/pytorch/blob/v2.12.1/RELEASE.md",
+      "https://github.com/pytorch/pytorch/blob/v2.12.1/.github/merge_rules.yaml",
+      "https://github.com/pytorch/pytorch/pull/188604"
+    ]
+  },
+  {
+    "id": "3.4-S19",
+    "description_tex": "\\href{https://api.osv.dev/v1/query}{OSV查询接口}：PyPI/torch/2.12.1；\\href{https://github.com/advisories/GHSA-rrmf-rvhw-rf47}{公告GHSA-rrmf-rvhw-rf47}及\\href{https://github.com/pytorch/pytorch/issues/149623}{上游问题\\#149623}。期后查询，公告修订2026-09-10。\\href{https://api.securityscorecards.dev/projects/github.com/pytorch/pytorch}{OpenSSF接口}返回2022-10-26记录，未用于当前评分。",
+    "urls": [
+      "https://api.osv.dev/v1/query",
+      "https://github.com/advisories/GHSA-rrmf-rvhw-rf47",
+      "https://github.com/pytorch/pytorch/issues/149623",
+      "https://api.securityscorecards.dev/projects/github.com/pytorch/pytorch"
+    ]
+  },
+  {
+    "id": "3.4-S20",
+    "description_tex": "\\href{https://github.com/openharmony/manifest/tree/36a80ca0ea0101ed0df1d7b773559e428f6eef0f}{OpenHarmony manifest固定提交}，2026-06-30。递归7个XML，512项；原文件、计数表与路径分类保留。",
+    "urls": [
+      "https://github.com/openharmony/manifest/tree/36a80ca0ea0101ed0df1d7b773559e428f6eef0f"
+    ]
+  },
+  {
+    "id": "3.4-S21",
+    "description_tex": "\\href{https://github.com/X-lab2017/open-digger/blob/ead4515179ae93a3bcbb151707a90fe7e1750f49/labeled_data/companies/huawei/openharmony.yml}{OpenHarmony期末项目标签}，3个Gitee与9个AtomGit入口；该提交同时固定PyTorch标签及GitHub机器人标签。",
+    "urls": [
+      "https://github.com/X-lab2017/open-digger/blob/ead4515179ae93a3bcbb151707a90fe7e1750f49/labeled_data/companies/huawei/openharmony.yml"
+    ]
+  },
+  {
+    "id": "3.4-S22",
+    "description_tex": "\\href{https://github.com/vllm-project/vllm/tree/ab80b3dff4829768347b322c7a5d444e522ef7b3}{vLLM固定提交}与\\href{https://github.com/sgl-project/sglang/tree/bae78a44da62ad98ee501adbc2823af37fe3f94b}{SGLang固定提交}，2026-06-30。torch依赖文件及版本来源沿用v0.6证据包。",
+    "urls": [
+      "https://github.com/vllm-project/vllm/tree/ab80b3dff4829768347b322c7a5d444e522ef7b3",
+      "https://github.com/sgl-project/sglang/tree/bae78a44da62ad98ee501adbc2823af37fe3f94b"
+    ]
+  },
+  {
+    "id": "3.4-S23",
+    "description_tex": "\\href{https://github.com/opensharehq/frontend}{OpenShare公开前端}：提供项目趋势、地域与贡献榜的访问和呈现组件；相关数据与指标基础为OpenDigger。本稿重新绘制，不将同一上游的不同访问路径计作独立验证。项目logo沿用已核验官方资产。",
+    "urls": [
+      "https://github.com/opensharehq/frontend"
+    ]
+  },
+  {
+    "id": "3.1-S1",
+    "file": "sources/s3.1/ch31_v02/data/table-3-1-1_global_division_openrank_top30.csv",
+    "urls": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-1-1_global_division_openrank_top30.csv"
+    ],
+    "sha256": "7d43293d3472f455473fc76b5396b628f53794d647f89d53e8991b0eea777bbb"
+  },
+  {
+    "id": "3.1-S2",
+    "file": "sources/s3.1/ch31_v02/data/table-3-1-2_division_country_entry_counts.csv",
+    "urls": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-1-2_division_country_entry_counts.csv"
+    ],
+    "sha256": "99aad1cdca0ccaa1a3bb87fe5f405da04256531058f144e2bf3b0898b8c3eb4f"
+  },
+  {
+    "id": "3.1-S3",
+    "file": "sources/s3.1/ch31_v02/data/table-3-1-3_china_province_openrank_top30.csv",
+    "urls": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-1-3_china_province_openrank_top30.csv"
+    ],
+    "sha256": "f926552405b731aa18c9e1af06a89eb50b1230142eaaff43c84e545c8a15b8bf"
+  },
+  {
+    "id": "3.1-S4",
+    "file": "sources/s3.1/ch31_v02/data/table-3-1-4_china_city_openrank_top30.csv",
+    "urls": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-1-4_china_city_openrank_top30.csv"
+    ],
+    "sha256": "eae7bbd9774628db53267e7cc749fd152f133f81d72aa95f60cde4e04c6dcb29"
+  },
+  {
+    "id": "3.2-S3",
+    "file": "sources/s3.2/ch32_v03/data/fig-3-2-1_global_company_yearly_rank.csv",
+    "urls": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/fig-3-2-1_global_company_yearly_rank.csv"
+    ],
+    "sha256": "f296cb6f7cef529f3b32c9236013de0741060abfddd66a90b40b4f0b2fd565cf"
+  },
+  {
+    "id": "3.2-S4",
+    "file": "sources/s3.2/ch32_v03/data/fig-3-2-2_global_company_monthly_rank.csv",
+    "urls": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/fig-3-2-2_global_company_monthly_rank.csv"
+    ],
+    "sha256": "79221344e1f6865e7cba4ec86bfc7f0097d40c0913cb5a2a0ab5615ce151ae78"
+  },
+  {
+    "id": "3.2-S5",
+    "file": "sources/s3.2/ch32_v03/data/fig-3-2-3_china_company_yearly_rank.csv",
+    "urls": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/fig-3-2-3_china_company_yearly_rank.csv"
+    ],
+    "sha256": "ae91e36f5574d6dbb38bb378d33f615c987fe80290ddcae31d55eec77ee3fa02"
+  },
+  {
+    "id": "3.2-S6",
+    "file": "sources/s3.2/ch32_v03/data/fig-3-2-4_china_company_monthly_rank.csv",
+    "urls": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/fig-3-2-4_china_company_monthly_rank.csv"
+    ],
+    "sha256": "8f2bfce0136fa2281d9006c1ab84a7f8b2166caa97c7287f944830bab09a0203"
+  },
+  {
+    "id": "3.2-S1",
+    "file": "sources/s3.2/ch32_v03/data/table-3-2-1_global_company_openrank_top30.csv",
+    "urls": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-2-1_global_company_openrank_top30.csv"
+    ],
+    "sha256": "02104560db9865fde4883b3ab40982b875cfa4834a6b301d123b1e667347762c"
+  },
+  {
+    "id": "3.2-S2",
+    "file": "sources/s3.2/ch32_v03/data/table-3-2-2_china_company_openrank_top30.csv",
+    "urls": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-2-2_china_company_openrank_top30.csv"
+    ],
+    "sha256": "cb99fec5ff7025fb7ca128306b853d43b3d32167f7aa2d56d1d6db504e0080c6"
+  },
+  {
+    "id": "3.3-R1",
+    "description_tex": "同一固定目录的table-3-3-1基金会21条主榜与fig-3-3-1八家月度位次。主榜聚合与去重待核，不以新样本回算原榜LF总分。",
+    "urls": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-3-1_global_foundation_openrank.csv",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/fig-3-3-1_foundation_monthly_rank.csv"
+    ]
+  },
+  {
+    "id": "3.3-R2",
+    "description_tex": "\\href{https://github.com/jmertic/lf-landscape/blob/8fcfd93efdf91697b88b97b6ee4abdd2328b3a7b/landscape.yml}{LF Landscape期末固定名录}，提交\\texttt{8fcfd93e}，2026-06-30。只提取Projects/All的主仓库与项目组，不扩展additional\\_repos；期末名录不是全年治理归属证明。公开项目入口：\\href{https://www.linuxfoundation.org/projects}{Linux Foundation Projects}。",
+    "urls": [
+      "https://github.com/jmertic/lf-landscape/blob/8fcfd93efdf91697b88b97b6ee4abdd2328b3a7b/landscape.yml",
+      "https://www.linuxfoundation.org/projects"
+    ]
+  },
+  {
+    "id": "3.3-R3",
+    "description_tex": "\\href{https://open-digger.cn/docs/user_docs/metrics/global_openrank}{OpenDigger global OpenRank定义}及\\href{https://open-digger.cn/docs/user_docs/metrics/metrics_usage_guide}{使用说明}。按主仓库取公开月度JSON，2026-11-05采集，主期2025-07—2026-06；历史值可能已由上游回填。571份文件哈希与233个完整仓库的既有核验记录随输入保存。",
+    "urls": [
+      "https://open-digger.cn/docs/user_docs/metrics/global_openrank",
+      "https://open-digger.cn/docs/user_docs/metrics/metrics_usage_guide"
+    ]
+  },
+  {
+    "id": "3.3-R4",
+    "description_tex": "\\href{https://www.linuxfoundation.org/press/press-release/meta-transitions-pytorch-to-the-linux-foundation}{LF关于PyTorch的2022-09-12公告}与\\href{https://github.com/pytorch/pytorch}{PyTorch官方仓库}，用于补证该条目缺失的主仓库字段，不据此填充其他空值。",
+    "urls": [
+      "https://www.linuxfoundation.org/press/press-release/meta-transitions-pytorch-to-the-linux-foundation",
+      "https://github.com/pytorch/pytorch"
+    ]
+  },
+  {
+    "id": "3.5-E1",
+    "description_tex": "\n\\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/tree/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3}{原始榜表与结构汇总}，固定提交\\texttt{c51e344}。包括项目、仓库两榜及领域、语言汇总。",
+    "urls": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/tree/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3"
+    ]
+  },
+  {
+    "id": "3.5-E2",
+    "description_tex": "\n同一提交的\\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/emerging-reference.json}{emerging-reference.json}，2026-10-17编辑分类与仓库关联；不替代主期完整映射。",
+    "urls": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/emerging-reference.json"
+    ]
+  },
+  {
+    "id": "3.5-E3",
+    "description_tex": "\n\\href{https://oss.open-digger.cn/github/openclaw/openclaw/openrank.json}{OpenDigger公开OpenRank文件}，2026-11-06 UTC快照。用于30仓主期回算；原始字节、下载时间与哈希保存在源码包。",
+    "urls": [
+      "https://oss.open-digger.cn/github/openclaw/openclaw/openrank.json"
+    ]
+  },
+  {
+    "id": "3.5-E4",
+    "description_tex": "\n华为\\href{https://www.huawei.com/cn/news/2025/8/ascend-summit-cann-open-source}{2025-08-05}、\\href{https://www.huawei.com/cn/news/2025/9/hc-shengten-opensource}{2025-09-20}公告及\\href{https://www.mindspore.cn/news/zh/3758}{MindSpore官方历史材料}；用于开放进程和历史身份。项目方自报不替代成效验证。",
+    "urls": [
+      "https://www.huawei.com/cn/news/2025/8/ascend-summit-cann-open-source",
+      "https://www.huawei.com/cn/news/2025/9/hc-shengten-opensource",
+      "https://www.mindspore.cn/news/zh/3758"
+    ]
+  },
+  {
+    "id": "3.5-E5",
+    "description_tex": "\n各项目官方仓库、官网及官方组织图标。逐项记录在\\texttt{report/logos/manifest.json}，包含原始URL、资产类型、检索时间及SHA-256；均保持原始图形与比例。",
+    "urls": []
+  },
+  {
+    "id": "3.6-E1",
+    "description_tex": "\n\\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2026-06-top100.raw.json}{2026-06 ModelRank Top 100原始返回}及同目录\\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/manifest.json}{下载清单}，固定提交\\texttt{c51e344}。榜单、任务与账户统计的唯一数值来源。",
+    "urls": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2026-06-top100.raw.json",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/manifest.json"
+    ]
+  },
+  {
+    "id": "3.6-E2",
+    "description_tex": "\n同提交的\\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-rankings-snapshot.json}{月榜整理说明}及指标字典，提供字段边界；算法和复现链仍有待核项。",
+    "urls": [
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-rankings-snapshot.json"
+    ]
+  },
+  {
+    "id": "3.6-E3",
+    "description_tex": "\n\\href{https://huggingface.co/black-forest-labs/FLUX.1-dev}{FLUX.1-dev}、\\href{https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0}{SDXL}、\\href{https://huggingface.co/Qwen/Qwen2.5-7B}{Qwen基础版}、\\href{https://huggingface.co/Qwen/Qwen2.5-7B-Instruct}{指令版}、\\href{https://huggingface.co/unsloth/Qwen2.5-7B-Instruct}{unsloth版本}、\\href{https://huggingface.co/lerobot/smolvla_base}{SmolVLA}的官方元数据；账户头像来源、检索日期和哈希逐项记录于源码包。",
+    "urls": [
+      "https://huggingface.co/black-forest-labs/FLUX.1-dev",
+      "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
+      "https://huggingface.co/Qwen/Qwen2.5-7B",
+      "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+      "https://huggingface.co/unsloth/Qwen2.5-7B-Instruct",
+      "https://huggingface.co/lerobot/smolvla_base"
+    ]
+  },
+  {
+    "id": "3.6-E4",
+    "description_tex": "\nHugging Face官方\\href{https://huggingface.co/docs/hub/models-download-stats}{下载计数说明}与\\href{https://huggingface.co/docs/hub/model-cards}{模型卡文档}，2026-11-07读取；用于解释统计和元数据边界。",
+    "urls": [
+      "https://huggingface.co/docs/hub/models-download-stats",
+      "https://huggingface.co/docs/hub/model-cards"
+    ]
+  }
+]

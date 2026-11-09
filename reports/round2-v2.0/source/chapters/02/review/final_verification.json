@@ -1,0 +1,20 @@
+{
+  "version": "chapter2-clean-v0.1",
+  "pages": 48,
+  "numbered_figures": 45,
+  "data_files_unchanged": 130,
+  "main_period": [
+    "2025-07-01",
+    "2026-06-30"
+  ],
+  "all_fonts_embedded": true,
+  "font_objects": 244,
+  "links": 77,
+  "source_records": 49,
+  "sources_used": 39,
+  "undefined_references": 0,
+  "overflow_warnings": 0,
+  "unintended_blank_or_fragment_pages": [],
+  "missing_control_glyphs": [],
+  "sha256": "bb1404b783b50938682ea94845a7f61ec56f151e44cd62a52a68daa88a4f022b"
+}

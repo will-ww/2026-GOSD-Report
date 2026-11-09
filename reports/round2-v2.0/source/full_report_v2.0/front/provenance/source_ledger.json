@@ -1,0 +1,114 @@
+[
+  {
+    "number": 1,
+    "key": "ch1-undp2025",
+    "original_label": "1-R1",
+    "source_url": "https://hdr.undp.org/content/human-development-report-2025",
+    "original_tex": "UNDP (2025). \\emph{Human Development Report 2025: A Matter of Choice}.  \\href{https://hdr.undp.org/content/human-development-report-2025}{UNDP 官方报告}."
+  },
+  {
+    "number": 2,
+    "key": "ch1-github2026",
+    "original_label": "1-R2",
+    "source_url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+    "original_tex": "GitHub (2026). \\emph{Octoverse 2026: Developers Build with Agents}.  \\href{https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/}{GitHub Octoverse 2026 原文}."
+  },
+  {
+    "number": 3,
+    "key": "ch1-hfsummer",
+    "original_label": "1-R3",
+    "source_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "original_tex": "Hugging Face (2026). \\emph{State of Open Models, Summer 2026}.  \\href{https://huggingface.co/blog/state-of-open-models-summer-2026}{Hugging Face 原文}."
+  },
+  {
+    "number": 4,
+    "key": "ch1-sdg",
+    "original_label": "1-R4",
+    "source_url": "https://sdgs.un.org/goals",
+    "original_tex": "United Nations. \\emph{Sustainable Development Goals (17 Goals)}. \\url{https://sdgs.un.org/goals}."
+  },
+  {
+    "number": 5,
+    "key": "ch1-osi",
+    "original_label": "1-R5",
+    "source_url": "https://opensource.org/ai/open-source-ai-definition",
+    "original_tex": "Open Source Initiative. \\emph{Open Source AI Definition, Version 1.0}. \\url{https://opensource.org/ai/open-source-ai-definition}."
+  },
+  {
+    "number": 6,
+    "key": "ch1-dpga",
+    "original_label": "1-R6",
+    "source_url": "https://www.digitalpublicgoods.net/standard",
+    "original_tex": "Digital Public Goods Alliance. \\emph{Digital Public Goods Standard}. \\url{https://www.digitalpublicgoods.net/standard}."
+  },
+  {
+    "number": 7,
+    "key": "ch1-atom",
+    "original_label": "1-R7",
+    "source_url": "https://arxiv.org/html/2604.07190v1",
+    "original_tex": "Lambert, N. and Brand, F. (2026). \\emph{The ATOM Report: Measuring the Open Language Model Ecosystem}. \\url{https://arxiv.org/html/2604.07190v1}."
+  },
+  {
+    "number": 8,
+    "key": "ch1-openrank",
+    "original_label": "1-R8",
+    "source_url": "https://github.com/X-lab2017/open-digger",
+    "original_tex": "X-lab / OpenDigger. \\emph{OpenRank and collaboration measurement}. \\url{https://github.com/X-lab2017/open-digger}."
+  },
+  {
+    "number": 9,
+    "key": "ch1-gdc",
+    "original_label": "1-R9",
+    "source_url": "https://www.un.org/global-digital-compact/en",
+    "original_tex": "United Nations (2024). \\emph{Global Digital Compact}. \\href{https://www.un.org/global-digital-compact/en}{United Nations official overview}."
+  },
+  {
+    "number": 10,
+    "key": "ch1-unpanel",
+    "original_label": "1-R10",
+    "source_url": "https://digitallibrary.un.org/record/4087699",
+    "original_tex": "UN General Assembly (2025). \\emph{Resolution A/RES/79/325}: AI Scientific Panel and Global Dialogue. \\href{https://digitallibrary.un.org/record/4087699}{UN Digital Library}."
+  },
+  {
+    "number": 11,
+    "key": "ch1-undialogue",
+    "original_label": "1-R11",
+    "source_url": "https://www.un.org/global-dialogue-ai-governance/en",
+    "original_tex": "United Nations (2026). \\emph{Global Dialogue on AI Governance}, Geneva, 6--7 July. \\href{https://www.un.org/global-dialogue-ai-governance/en}{Official programme page}."
+  },
+  {
+    "number": 12,
+    "key": "ch1-waico",
+    "original_label": "1-R12",
+    "source_url": "https://www.mfa.gov.cn/eng/wjbzhd/202607/t20260717_11984747.html",
+    "original_tex": "Ministry of Foreign Affairs of China (2026). \\emph{World AI Cooperation Organization: Signing Ceremony}, 16 July. \\href{https://www.mfa.gov.cn/eng/wjbzhd/202607/t20260717_11984747.html}{Official statement}."
+  },
+  {
+    "number": 13,
+    "key": "ch1-constitution",
+    "original_label": "1-R13",
+    "source_url": "https://github.com/will-ww/2026-GOSD-Report",
+    "original_tex": "《2026全球开源发展报告》报告宪法与主张地图，v0.3 获批基线，commit \\texttt{fff392e957bab9fb6d89d49dea712af47484efaa}. \\href{https://github.com/will-ww/2026-GOSD-Report}{权威工作仓库}."
+  },
+  {
+    "number": 14,
+    "key": "ch1-ref1",
+    "original_label": "1-R14",
+    "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/vmap/source/README.md",
+    "original_tex": "\\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/vmap/source/README.md}{GOSD编制组．全球开发者与活跃开发者报告年度归档，2022—2026．OpenDigger／OpenShare来源记录，版本c51e344。}"
+  },
+  {
+    "number": 15,
+    "key": "ch1-ref7",
+    "original_label": "1-R15",
+    "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/cmap/countries.csv",
+    "original_tex": "\\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/cmap/countries.csv}{GOSD编制组．C-Map国家贡献与活跃快照，2025年．236个地域记录，版本c51e344。}"
+  },
+  {
+    "number": 16,
+    "key": "ch1-ref14",
+    "original_label": "1-R16",
+    "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/imap/influence.json",
+    "original_tex": "\\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/imap/influence.json}{GOSD编制组．I-Map地域与企业影响力归档，2025自然年．版本c51e344。}\n\n\n\\end{thebibliography}\\endgroup"
+  }
+]

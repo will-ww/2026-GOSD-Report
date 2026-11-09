@@ -1,0 +1,110 @@
+{
+  "checked_on": "2026-11-09",
+  "scope": "Archive provenance, integrity and PDF text snapshot; not independent research recertification or full typesetting",
+  "baseline_commit": "b3f7fd60400d6b46e1c3086b225e5b348a753c47",
+  "performed": {
+    "four_source_package_sha256_size_crc_and_safe_extraction": "PASS; restored locally without executing packaged scripts",
+    "original_source_files": 432,
+    "syntax": {
+      "json_files": 77,
+      "python_files": 57,
+      "svg_files": 129,
+      "status": "PASS"
+    },
+    "full_report": {
+      "pages": 173,
+      "bookmarks": 144,
+      "links": 793,
+      "portrait_pages": 173,
+      "a3_pages": [
+        106,
+        107,
+        118,
+        119,
+        125,
+        132,
+        133,
+        134,
+        135
+      ]
+    },
+    "all_173_page_text_layers_match_canonical_pdf": true,
+    "fixed_chapter_pdf_inputs": [
+      {
+        "chapter": 2,
+        "pages": 48,
+        "sha256": "c0f81a8106ed29acc85b335169b57ec37950c66a4ab8c1a63cd143ec043a8c10",
+        "matches_assembly": true,
+        "chapter_package_metadata_hash_references": []
+      },
+      {
+        "chapter": 3,
+        "pages": 40,
+        "sha256": "8f4f2e4b24818a20b59f04334e1c7a52049c0074eae7c0d16993482a40fa9513",
+        "matches_assembly": true,
+        "chapter_package_metadata_hash_references": []
+      },
+      {
+        "chapter": 4,
+        "pages": 21,
+        "sha256": "e986ccef87fcefdb43e4ce3f8a6b3fdbb2d0b6cae8246f0b8b1daae2599e817d",
+        "matches_assembly": true,
+        "chapter_package_metadata_hash_references": []
+      },
+      {
+        "chapter": 5,
+        "pages": 17,
+        "sha256": "d44536ae4de6be29654b6f5932e7593003ba7acc0e89d664cece358b4182dc5a",
+        "matches_assembly": true
+      }
+    ],
+    "chapter5_recovery": {
+      "input_pdf_matches_assembly": true,
+      "pages": 17,
+      "figure_inventory_count": 14,
+      "text_round_trip": "PASS",
+      "visual_review": "17-page low-resolution contact-sheet structure review, not typography certification",
+      "original_layout_and_plotting_source_recovered": false,
+      "text_block_transport": {
+        "parts": 13,
+        "each_part_max_bytes": 90000,
+        "lossless_reconstruction_sha256": "2420982cfbf7ca9079900902367577d005f137c8e18370cc1e49b6635b4376de",
+        "overwrite_refusal_test": "PASS"
+      }
+    },
+    "public_archive_boundary": "PASS: no PDF/PPT/font binaries, private input directories, embedded-raster SVGs, symlinks or obvious credentials",
+    "negative_tests": {
+      "changed_file_rejected": true,
+      "unlisted_pptx_rejected": true,
+      "wrong_package_rejected_before_extraction": true
+    },
+    "existing_brand_verification": "PASS: 131 exact approved SVGs, ten node identities, four-pillar/ten-dimension registry",
+    "existing_brand_and_chapter1_paths_modified": false,
+    "second_review": "Read-only review found no publication blocker; historical network-script warning added"
+  },
+  "not_performed": [
+    "Full-book source compilation or pixel-identical PDF rebuild",
+    "Independent recreation of fifth-chapter plot data or layout",
+    "Live link availability checks",
+    "New statistical, legal, license, or acknowledgment approval",
+    "Website or Pages deployment"
+  ],
+  "open_gaps": [
+    "Final chapter5 v0.1r original LaTeX/layout and plot source unavailable; verified PDF text recovery is explicitly separate.",
+    "External legal-use assets, fonts, PDFs and source originals must be supplied outside Git for full reproduction.",
+    "Chapter source package identities follow delivered versions; binary-equivalent compiled outputs were not independently established.",
+    "Historical source scripts can use network and old retrieval dates; review before rerunning."
+  ],
+  "publication_scope_revision": {
+    "reason": "Exclude historical whole-package inventories and third-party original-asset indexes; no manuscript or figure content changed.",
+    "excluded_archive_paths": [
+      "source/chapters/03/review/package_manifest.json",
+      "source/chapters/03/review/source_preservation.json",
+      "source/chapters/04/review/package_manifest.json",
+      "source/chapters/04/review/source_preservation.json",
+      "source/chapters/04/review/logo_manifest.json",
+      "source/chapters/04/review/new_account_assets.json"
+    ],
+    "actual_public_source_files": 432
+  }
+}

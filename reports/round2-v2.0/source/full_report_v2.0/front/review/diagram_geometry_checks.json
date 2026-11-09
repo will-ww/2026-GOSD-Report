@@ -1,0 +1,42 @@
+[
+  {
+    "file": "report_architecture_full",
+    "labels": 31,
+    "outside": []
+  },
+  {
+    "file": "declaration_structure_2026",
+    "labels": 38,
+    "outside": []
+  },
+  {
+    "file": "chapter1_closing",
+    "labels": 23,
+    "outside": []
+  },
+  {
+    "file": "fig_osdgs_pillars",
+    "labels": 28,
+    "outside": []
+  },
+  {
+    "file": "fig_capacity_gates",
+    "labels": 20,
+    "outside": []
+  },
+  {
+    "file": "fig_ai_open_landscape",
+    "labels": 18,
+    "outside": []
+  },
+  {
+    "file": "fig_osdi_logic",
+    "labels": 17,
+    "outside": []
+  },
+  {
+    "file": "fig_pillars_theme_matrix",
+    "labels": 32,
+    "outside": []
+  }
+]

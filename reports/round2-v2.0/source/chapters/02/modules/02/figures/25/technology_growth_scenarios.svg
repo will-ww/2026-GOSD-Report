@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="164mm" viewBox="0 0 170 164"><rect width="170" height="164" fill="white"/>
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB"/><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#49A1A0" stroke-width="0.3"/></pattern></defs>
+<text x="1.0000" y="6.0000" font-family="Noto Sans CJK SC" font-size="4.23333" font-weight="700" fill="#193C4E" text-anchor="start">增长下钻：基准净增，与AI扩张假设分开看</text>
+<text x="1.0000" y="12.0000" font-family="Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#57717D" text-anchor="start">结构延续基准与AI增幅敏感性 · 条件估算</text>
+<text x="1.0000" y="23.0000" font-family="Noto Sans CJK SC" font-size="3.66889" font-weight="700" fill="#193C4E" text-anchor="start">A  各技术类型的估计净增</text>
+<text x="167.0000" y="23.0000" font-family="Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#57717D" text-anchor="end">较2025 · 万个</text>
+<text x="57.0000" y="29.0000" font-family="Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#57717D" text-anchor="start">结构延续基准：各类同增8.53%，净增合计49.745万个</text>
+<text x="1.0000" y="36.0000" font-family="Noto Sans CJK SC" font-size="2.75167" font-weight="400" fill="#57717D" text-anchor="start">01</text>
+<text x="8.0000" y="36.0000" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#193C4E" text-anchor="start">AI 与大模型</text>
+<rect x="57.0000" y="33.7000" width="83.0000" height="3.0000" rx="0.25" fill="#F0F6F6" stroke="none" stroke-width="0.18"/>
+<rect x="57.0000" y="33.7000" width="78.9656" height="3.0000" rx="0.25" fill="#168A8D" stroke="none" stroke-width="0.18"/>
+<text x="168.0000" y="36.0000" font-family="Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#193C4E" text-anchor="end">+9.5</text>
+<text x="1.0000" y="41.9000" font-family="Noto Sans CJK SC" font-size="2.75167" font-weight="400" fill="#57717D" text-anchor="start">02</text>
+<text x="8.0000" y="41.9000" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#193C4E" text-anchor="start">前端与交互</text>
+<rect x="57.0000" y="39.6000" width="83.0000" height="3.0000" rx="0.25" fill="#F0F6F6" stroke="none" stroke-width="0.18"/>
+<rect x="57.0000" y="39.6000" width="70.0796" height="3.0000" rx="0.25" fill="#47728E" stroke="none" stroke-width="0.18"/>
+<text x="168.0000" y="41.9000" font-family="Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#193C4E" text-anchor="end">+8.4</text>
+<text x="1.0000" y="47.8000" font-family="Noto Sans CJK SC" font-size="2.75167" font-weight="400" fill="#57717D" text-anchor="start">03</text>
+<text x="8.0000" y="47.8000" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#193C4E" text-anchor="start">云基础设施</text>
+<rect x="57.0000" y="45.5000" width="83.0000" height="3.0000" rx="0.25" fill="#F0F6F6" stroke="none" stroke-width="0.18"/>
+<rect x="57.0000" y="45.5000" width="64.2501" height="3.0000" rx="0.25" fill="#688FA2" stroke="none" stroke-width="0.18"/>
+<text x="168.0000" y="47.8000" font-family="Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#193C4E" text-anchor="end">+7.7</text>
+<text x="1.0000" y="53.7000" font-family="Noto Sans CJK SC" font-size="2.75167" font-weight="400" fill="#57717D" text-anchor="start">04</text>
+<text x="8.0000" y="53.7000" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#193C4E" text-anchor="start">应用与解决方案</text>
+<rect x="57.0000" y="51.4000" width="83.0000" height="3.0000" rx="0.25" fill="#F0F6F6" stroke="none" stroke-width="0.18"/>
+<rect x="57.0000" y="51.4000" width="47.0138" height="3.0000" rx="0.25" fill="#7E799D" stroke="none" stroke-width="0.18"/>
+<text x="168.0000" y="53.7000" font-family="Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#193C4E" text-anchor="end">+5.7</text>
+<text x="1.0000" y="59.6000" font-family="Noto Sans CJK SC" font-size="2.75167" font-weight="400" fill="#57717D" text-anchor="start">05</text>
+<text x="8.0000" y="59.6000" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#193C4E" text-anchor="start">编程语言与开发</text>
+<rect x="57.0000" y="57.3000" width="83.0000" height="3.0000" rx="0.25" fill="#F0F6F6" stroke="none" stroke-width="0.18"/>
+<rect x="57.0000" y="57.3000" width="43.3271" height="3.0000" rx="0.25" fill="#759A8B" stroke="none" stroke-width="0.18"/>
+<text x="168.0000" y="59.6000" font-family="Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#193C4E" text-anchor="end">+5.2</text>
+<text x="1.0000" y="65.5000" font-family="Noto Sans CJK SC" font-size="2.75167" font-weight="400" fill="#57717D" text-anchor="start">06</text>
+<text x="8.0000" y="65.5000" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#193C4E" text-anchor="start">区块链与 Web3</text>
+<rect x="57.0000" y="63.2000" width="83.0000" height="3.0000" rx="0.25" fill="#F0F6F6" stroke="none" stroke-width="0.18"/>
+<rect x="57.0000" y="63.2000" width="34.2205" height="3.0000" rx="0.25" fill="#AB8E5A" stroke="none" stroke-width="0.18"/>
+<text x="168.0000" y="65.5000" font-family="Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#193C4E" text-anchor="end">+4.1</text>
+<text x="1.0000" y="71.4000" font-family="Noto Sans CJK SC" font-size="2.75167" font-weight="400" fill="#57717D" text-anchor="start">07</text>
+<text x="8.0000" y="71.4000" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#193C4E" text-anchor="start">数据库</text>
+<rect x="57.0000" y="69.1000" width="83.0000" height="3.0000" rx="0.25" fill="#F0F6F6" stroke="none" stroke-width="0.18"/>
+<rect x="57.0000" y="69.1000" width="19.5051" height="3.0000" rx="0.25" fill="#8A6F82" stroke="none" stroke-width="0.18"/>
+<text x="168.0000" y="71.4000" font-family="Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#193C4E" text-anchor="end">+2.4</text>
+<text x="1.0000" y="77.3000" font-family="Noto Sans CJK SC" font-size="2.75167" font-weight="400" fill="#57717D" text-anchor="start">08</text>
+<text x="8.0000" y="77.3000" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#193C4E" text-anchor="start">RISC-V 与硬件</text>
+<rect x="57.0000" y="75.0000" width="83.0000" height="3.0000" rx="0.25" fill="#F0F6F6" stroke="none" stroke-width="0.18"/>
+<rect x="57.0000" y="75.0000" width="17.1418" height="3.0000" rx="0.25" fill="#5D8490" stroke="none" stroke-width="0.18"/>
+<text x="168.0000" y="77.3000" font-family="Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#193C4E" text-anchor="end">+2.1</text>
+<text x="1.0000" y="83.2000" font-family="Noto Sans CJK SC" font-size="2.75167" font-weight="400" fill="#57717D" text-anchor="start">09</text>
+<text x="8.0000" y="83.2000" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#193C4E" text-anchor="start">大数据与数据工程</text>
+<rect x="57.0000" y="80.9000" width="83.0000" height="3.0000" rx="0.25" fill="#F0F6F6" stroke="none" stroke-width="0.18"/>
+<rect x="57.0000" y="80.9000" width="13.3605" height="3.0000" rx="0.25" fill="#899A6D" stroke="none" stroke-width="0.18"/>
+<text x="168.0000" y="83.2000" font-family="Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#193C4E" text-anchor="end">+1.6</text>
+<text x="1.0000" y="89.1000" font-family="Noto Sans CJK SC" font-size="2.75167" font-weight="400" fill="#57717D" text-anchor="start">10</text>
+<text x="8.0000" y="89.1000" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#193C4E" text-anchor="start">物联网与边缘计算</text>
+<rect x="57.0000" y="86.8000" width="83.0000" height="3.0000" rx="0.25" fill="#F0F6F6" stroke="none" stroke-width="0.18"/>
+<rect x="57.0000" y="86.8000" width="10.7451" height="3.0000" rx="0.25" fill="#AF8574" stroke="none" stroke-width="0.18"/>
+<text x="168.0000" y="89.1000" font-family="Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#193C4E" text-anchor="end">+1.3</text>
+<text x="1.0000" y="95.0000" font-family="Noto Sans CJK SC" font-size="2.75167" font-weight="400" fill="#57717D" text-anchor="start">11</text>
+<text x="8.0000" y="95.0000" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#193C4E" text-anchor="start">操作系统</text>
+<rect x="57.0000" y="92.7000" width="83.0000" height="3.0000" rx="0.25" fill="#F0F6F6" stroke="none" stroke-width="0.18"/>
+<rect x="57.0000" y="92.7000" width="10.1464" height="3.0000" rx="0.25" fill="#637F73" stroke="none" stroke-width="0.18"/>
+<text x="168.0000" y="95.0000" font-family="Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#193C4E" text-anchor="end">+1.2</text>
+<text x="1.0000" y="100.9000" font-family="Noto Sans CJK SC" font-size="2.75167" font-weight="400" fill="#57717D" text-anchor="start">12</text>
+<text x="8.0000" y="100.9000" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#193C4E" text-anchor="start">工业软件</text>
+<rect x="57.0000" y="98.6000" width="83.0000" height="3.0000" rx="0.25" fill="#F0F6F6" stroke="none" stroke-width="0.18"/>
+<rect x="57.0000" y="98.6000" width="4.1279" height="3.0000" rx="0.25" fill="#8B929C" stroke="none" stroke-width="0.18"/>
+<text x="168.0000" y="100.9000" font-family="Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#193C4E" text-anchor="end">+0.5</text>
+<path d="M57.000,106.000 L140.000,106.000" fill="none" stroke="#D8E4E7" stroke-width="0.2"/>
+<text x="57.0000" y="111.0000" font-family="Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#57717D" text-anchor="middle">0</text>
+<text x="98.5000" y="111.0000" font-family="Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#57717D" text-anchor="middle">5</text>
+<text x="140.0000" y="111.0000" font-family="Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#57717D" text-anchor="middle">10</text>
+<path d="M1.000,116.000 L169.000,116.000" fill="none" stroke="#D8E4E7" stroke-width="0.25"/>
+<text x="1.0000" y="123.0000" font-family="Noto Sans CJK SC" font-size="3.59833" font-weight="700" fill="#193C4E" text-anchor="start">B  若AI相关类别增长更快，总量约束下会怎样？</text>
+<rect x="1.0000" y="128.0000" width="53.0000" height="28.0000" rx="0.8" fill="#F6F8F8" stroke="#D8E4E7" stroke-width="0.18"/>
+<text x="4.0000" y="134.0000" font-family="Noto Sans CJK SC" font-size="3.21028" font-weight="700" fill="#193C4E" text-anchor="start">AI增幅假设 +20%</text>
+<text x="4.0000" y="143.0000" font-family="Noto Sans CJK SC" font-size="4.58611" font-weight="700" fill="#168A8D" text-anchor="start">AI份额 21.1%</text>
+<text x="4.0000" y="150.5000" font-family="Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#57717D" text-anchor="start">其他类别平衡增幅 +5.8%</text>
+<rect x="59.0000" y="128.0000" width="53.0000" height="28.0000" rx="0.8" fill="#F6F8F8" stroke="#D8E4E7" stroke-width="0.18"/>
+<text x="62.0000" y="134.0000" font-family="Noto Sans CJK SC" font-size="3.21028" font-weight="700" fill="#193C4E" text-anchor="start">AI增幅假设 +30%</text>
+<text x="62.0000" y="143.0000" font-family="Noto Sans CJK SC" font-size="4.58611" font-weight="700" fill="#168A8D" text-anchor="start">AI份额 22.9%</text>
+<text x="62.0000" y="150.5000" font-family="Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#57717D" text-anchor="start">其他类别平衡增幅 +3.5%</text>
+<rect x="117.0000" y="128.0000" width="53.0000" height="28.0000" rx="0.8" fill="#F6F8F8" stroke="#D8E4E7" stroke-width="0.18"/>
+<text x="120.0000" y="134.0000" font-family="Noto Sans CJK SC" font-size="3.21028" font-weight="700" fill="#193C4E" text-anchor="start">AI增幅假设 +40%</text>
+<text x="120.0000" y="143.0000" font-family="Noto Sans CJK SC" font-size="4.58611" font-weight="700" fill="#168A8D" text-anchor="start">AI份额 24.7%</text>
+<text x="120.0000" y="150.5000" font-family="Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#57717D" text-anchor="start">其他类别平衡增幅 +1.1%</text>
+<text x="1.0000" y="163.0000" font-family="Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#57717D" text-anchor="start">三种假设均保持2026总量不变；20%、30%、40%是敏感性参数，不来自平台测算。</text></svg>

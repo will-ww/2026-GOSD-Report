@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="38mm" viewBox="0 0 170 38"><rect width="170" height="38" fill="white" />
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB" /><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#329A9B" stroke-width="0.3" /></pattern></defs>
+<path d="M1.000,1.000 L169.000,1.000" fill="none" stroke="#D8E3E9" stroke-width="0.3" />
+<text x="1.0000" y="8.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.63361" font-weight="700" fill="#142C49" text-anchor="start">同一个比较，长期与最近一年可以有不同方向</text>
+<text x="1.0000" y="17.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">2022年 美中人数差额</text>
+<text x="1.0000" y="26.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.76250" font-weight="700" fill="#155F91" text-anchor="start">17,539 人</text>
+<text x="58.0000" y="17.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">2025年 美中人数差额</text>
+<text x="58.0000" y="26.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.76250" font-weight="700" fill="#155F91" text-anchor="start">22,438 人</text>
+<text x="115.0000" y="17.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">2026年 美中人数差额</text>
+<text x="115.0000" y="26.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.76250" font-weight="700" fill="#155F91" text-anchor="start">21,900 人</text>
+<text x="1.0000" y="35.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">2026较2025缩小538人；但仍高于2022年的差额。差额变化不代表人员迁移。</text></svg>

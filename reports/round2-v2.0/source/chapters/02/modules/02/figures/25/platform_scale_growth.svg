@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="121mm" viewBox="0 0 170 121"><rect width="170" height="121" fill="white" />
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB" /><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#329A9B" stroke-width="0.3" /></pattern></defs>
+<text x="1.0000" y="6.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.23333" font-weight="700" fill="#142C49" text-anchor="start">规模、净增与增幅，呈现不同的平台位置</text>
+<text x="1.0000" y="12.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="start">2026报告年度 · 活跃仓库记录 · 当前规模与同比净增分别排序</text>
+<text x="1.0000" y="24.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.81000" font-weight="700" fill="#142C49" text-anchor="start">A  当前活跃规模</text>
+<text x="90.0000" y="24.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.81000" font-weight="700" fill="#142C49" text-anchor="start">B  较上年净增</text>
+<text x="1.0000" y="30.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">个</text>
+<text x="90.0000" y="30.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">个</text>
+<text x="169.0000" y="30.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="end">同比增幅</text>
+<text x="1.0000" y="40.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#155F91" text-anchor="start">GitHub</text>
+<text x="78.0000" y="40.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="end">6,328,640</text>
+<rect x="1.0000" y="44.0000" width="77.0000" height="4.4000" rx="0.35" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="1.0000" y="44.0000" width="69.6150" height="4.4000" rx="0.35" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="1.0000" y="57.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#007D78" text-anchor="start">Gitee</text>
+<text x="78.0000" y="57.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="end">4,388,923</text>
+<rect x="1.0000" y="61.0000" width="77.0000" height="4.4000" rx="0.35" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="1.0000" y="61.0000" width="48.2782" height="4.4000" rx="0.35" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="1.0000" y="74.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#9C6A2D" text-anchor="start">AtomGit</text>
+<text x="78.0000" y="74.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="end">604,072</text>
+<rect x="1.0000" y="78.0000" width="77.0000" height="4.4000" rx="0.35" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="1.0000" y="78.0000" width="6.6448" height="4.4000" rx="0.35" fill="#9C6A2D" stroke="none" stroke-width="0.18" />
+<text x="1.0000" y="91.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#776195" text-anchor="start">GitLab</text>
+<text x="78.0000" y="91.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="end">117,791</text>
+<rect x="1.0000" y="95.0000" width="77.0000" height="4.4000" rx="0.35" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="1.0000" y="95.0000" width="1.2957" height="4.4000" rx="0.35" fill="#776195" stroke="none" stroke-width="0.18" />
+<path d="M1.000,103.000 L78.000,103.000" fill="none" stroke="#D8E3E9" stroke-width="0.2" />
+<text x="1.0000" y="109.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.85750" font-weight="400" fill="#506778" text-anchor="start">0</text>
+<text x="39.5000" y="109.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.85750" font-weight="400" fill="#506778" text-anchor="middle">350万</text>
+<text x="78.0000" y="109.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.85750" font-weight="400" fill="#506778" text-anchor="end">700万</text>
+<text x="90.0000" y="40.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#007D78" text-anchor="start">Gitee</text>
+<text x="138.0000" y="40.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.38667" font-weight="700" fill="#142C49" text-anchor="end">+513,982</text>
+<text x="169.0000" y="40.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="400" fill="#506778" text-anchor="end">+13.3%</text>
+<rect x="90.0000" y="44.0000" width="55.0000" height="4.4000" rx="0.35" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="90.0000" y="44.0000" width="51.3982" height="4.4000" rx="0.35" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="90.0000" y="57.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#155F91" text-anchor="start">GitHub</text>
+<text x="138.0000" y="57.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.38667" font-weight="700" fill="#142C49" text-anchor="end">+497,450</text>
+<text x="169.0000" y="57.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="400" fill="#506778" text-anchor="end">+8.5%</text>
+<rect x="90.0000" y="61.0000" width="55.0000" height="4.4000" rx="0.35" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="90.0000" y="61.0000" width="49.7450" height="4.4000" rx="0.35" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="90.0000" y="74.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#9C6A2D" text-anchor="start">AtomGit</text>
+<text x="138.0000" y="74.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.38667" font-weight="700" fill="#142C49" text-anchor="end">+475,828</text>
+<text x="169.0000" y="74.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="400" fill="#506778" text-anchor="end">+371.0%</text>
+<rect x="90.0000" y="78.0000" width="55.0000" height="4.4000" rx="0.35" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="90.0000" y="78.0000" width="47.5828" height="4.4000" rx="0.35" fill="#9C6A2D" stroke="none" stroke-width="0.18" />
+<text x="90.0000" y="91.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#776195" text-anchor="start">GitLab</text>
+<text x="138.0000" y="91.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.38667" font-weight="700" fill="#142C49" text-anchor="end">+5,840</text>
+<text x="169.0000" y="91.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="400" fill="#506778" text-anchor="end">+5.2%</text>
+<rect x="90.0000" y="95.0000" width="55.0000" height="4.4000" rx="0.35" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="90.0000" y="95.0000" width="0.5840" height="4.4000" rx="0.35" fill="#776195" stroke="none" stroke-width="0.18" />
+<path d="M90.000,103.000 L145.000,103.000" fill="none" stroke="#D8E3E9" stroke-width="0.2" />
+<text x="90.0000" y="109.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.85750" font-weight="400" fill="#506778" text-anchor="start">0</text>
+<text x="115.0000" y="109.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.85750" font-weight="400" fill="#506778" text-anchor="middle">25万</text>
+<text x="140.0000" y="109.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.85750" font-weight="400" fill="#506778" text-anchor="end">50万</text>
+<text x="1.0000" y="118.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">平台范围分别计量；活跃净增不等于新建仓库，也不能直接解释为新增独立项目。</text></svg>

@@ -1,0 +1,42 @@
+[
+  {
+    "file": "nav_31",
+    "labels": 4,
+    "outside": []
+  },
+  {
+    "file": "nav_32",
+    "labels": 2,
+    "outside": []
+  },
+  {
+    "file": "nav_33",
+    "labels": 4,
+    "outside": []
+  },
+  {
+    "file": "nav_34",
+    "labels": 6,
+    "outside": []
+  },
+  {
+    "file": "nav_35",
+    "labels": 4,
+    "outside": []
+  },
+  {
+    "file": "nav_36",
+    "labels": 4,
+    "outside": []
+  },
+  {
+    "file": "chapter3_navigation",
+    "labels": 19,
+    "outside": []
+  },
+  {
+    "file": "chapter3_closing",
+    "labels": 23,
+    "outside": []
+  }
+]

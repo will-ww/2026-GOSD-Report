@@ -1,0 +1,97 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{design/gosd-book}[2026/11/06 GOSD open coordinates visual sample]
+\RequirePackage[left=22mm,right=22mm,top=22mm,bottom=21mm,headheight=29pt,headsep=5mm,footskip=10mm]{geometry}
+\RequirePackage[table]{xcolor}
+\RequirePackage{fontspec,graphicx,booktabs,tabularx,longtable,array,enumitem,tikz,hyperref,bookmark,fancyhdr,titlesec,caption,float,needspace,etoolbox,multirow,pdfpages,xurl}
+\usetikzlibrary{calc,positioning,arrows.meta}
+
+
+
+\setmainfont[Path=.build_fonts/,BoldFont=NotoSerifSC-Bold.otf]{NotoSerifSC-Regular.otf}
+\XeTeXlinebreaklocale "zh"\XeTeXlinebreakskip=0pt plus 1pt
+\setsansfont[Path=.build_fonts/,BoldFont=NotoSansSC-Bold.otf]{NotoSansSC-Regular.otf}
+\newfontfamily\DisplayFont[Path=.build_fonts/]{NotoSansSC-Regular.otf}
+\definecolor{deep}{HTML}{1B2D40}
+\definecolor{navy}{HTML}{13253D}
+\definecolor{teal}{HTML}{007D78}
+\definecolor{blue}{HTML}{7161BF}
+\definecolor{violet}{HTML}{78618C}
+\definecolor{rust}{HTML}{955A3C}
+\definecolor{green}{HTML}{476C58}
+\definecolor{gold}{HTML}{80682E}
+\definecolor{ink}{HTML}{1B2D40}
+\definecolor{muted}{HTML}{5C6B7A}
+\definecolor{line}{HTML}{D9DFE4}
+\definecolor{paper}{HTML}{F6F5F0}
+\definecolor{lightteal}{HTML}{F2F6F6}
+\definecolor{bluegray}{HTML}{F4F6F8}
+\definecolor{sand}{HTML}{F8FAFA}
+\color{ink}
+\hypersetup{colorlinks=true,linkcolor=deep,urlcolor=teal,citecolor=teal,pdftitle={2026全球开源发展报告｜第二章清洁整理评审版},pdfauthor={GOSD编制组},pdfsubject={OSDGs动态星座视觉基线 v2.0 · 第二章清洁整理评审稿 v0.1},bookmarksnumbered=false,pdfpagemode=UseOutlines}
+\setlength{\parindent}{2em}\setlength{\parskip}{5.3pt}
+\linespread{1.08}\AtBeginDocument{\fontsize{11.0}{18.1}\selectfont}
+\raggedbottom\setlength{\emergencystretch}{2em}
+\setlength{\floatsep}{9pt plus 2pt minus 2pt}
+\setlength{\textfloatsep}{10pt plus 2pt minus 2pt}
+\setlength{\intextsep}{9pt plus 2pt minus 2pt}
+\setlist[itemize]{leftmargin=1.6em,itemsep=4pt,topsep=4pt}
+\renewcommand{\arraystretch}{1.35}
+\captionsetup{font={small,sf},labelfont={bf,color=deep},labelsep=quad,skip=5pt,justification=raggedright,singlelinecheck=false,hypcap=false}
+\titleformat{\section}{\sffamily\bfseries\color{deep}\fontsize{17}{24}\selectfont}{\thesection}{.6em}{}
+\titlespacing*{\section}{0pt}{2.7ex}{1.2ex}
+\titleformat{\subsection}{\sffamily\bfseries\color{teal}\fontsize{14}{21}\selectfont}{}{0pt}{}
+\titlespacing*{\subsection}{0pt}{2ex}{.7ex}
+\newcommand{\CurrentSection}{封面与前置内容}
+\newcommand{\CurrentColor}{teal}
+\newcommand{\CurrentIcon}{compass}
+\newcommand{\SetRegion}[3]{\renewcommand{\CurrentSection}{#1}\renewcommand{\CurrentColor}{#2}\renewcommand{\CurrentIcon}{#3}}
+\pagestyle{fancy}\fancyhf{}
+\fancyhead[L]{\sffamily\fontsize{8}{10}\selectfont\color{muted}\raisebox{-1.5mm}{\includegraphics[width=6.5mm]{figures/new/osdgs_symbol_compact.pdf}}\hspace{1.3mm}\textbf{OSDGs}\quad /\quad GOSD 2026\quad 全球开源发展报告}
+\fancyhead[R]{\sffamily\fontsize{8}{10}\selectfont\color{muted}\CurrentSection}
+\fancyfoot[L]{\sffamily\fontsize{7.8}{10}\selectfont\color{muted}OPEN SOURCE / A SHARED INTELLIGENT FUTURE}
+\fancyfoot[R]{\sffamily\fontsize{10}{12}\selectfont\color{deep}\thepage}
+\renewcommand{\headrulewidth}{.35pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{\CurrentColor}\rule{9mm}{1.1pt}\hspace{2.2mm}\color{line}\leaders\hrule height .25pt\hfill}}
+\renewcommand{\footrulewidth}{0pt}
+\fancypagestyle{plain}{\fancyhf{}\fancyfoot[R]{\sffamily\color{deep}\thepage}\renewcommand{\headrulewidth}{0pt}}
+\newcommand{\kicker}[1]{\par\noindent{\sffamily\bfseries\fontsize{8.5}{12}\selectfont\color{\CurrentColor}#1\par}\vspace{7pt}}
+\newcommand{\PageTitle}[2]{\noindent{\sffamily\bfseries\fontsize{23}{33}\selectfont\color{deep}#1\par}\vspace{7pt}\noindent{\sffamily\fontsize{12}{18}\selectfont\color{\CurrentColor}#2}\par\vspace{9pt}}
+\newcommand{\SectionTitle}[1]{\noindent{\sffamily\bfseries\fontsize{18}{25}\selectfont\color{deep}#1}\par\vspace{8pt}}
+\newcommand{\RunTitle}[1]{\noindent{\sffamily\bfseries\fontsize{14}{20}\selectfont\color{\CurrentColor}#1}\par\vspace{5pt}}
+\newcommand{\eyebrow}[1]{\par\vspace{4pt}\noindent{\sffamily\bfseries\color{\CurrentColor}#1}\par\vspace{2pt}}
+\newcommand{\term}[1]{{\bfseries\color{deep}#1}}
+\newcommand{\key}[1]{{\bfseries\color{deep}#1}}
+\newcommand{\lead}[1]{\par\noindent{\sffamily\fontsize{12}{18}\selectfont\color{\CurrentColor}#1\par}\vspace{5pt}}
+\newcommand{\topic}[1]{\par\vspace{6pt}\noindent{\sffamily\bfseries\color{deep}#1}\par\vspace{2pt}}
+\newcommand{\src}[1]{\par\vspace{2pt}\noindent{\sffamily\fontsize{8.3}{11.7}\selectfont\color{muted}#1\par}}
+\newcommand{\figread}[1]{\par\vspace{1mm}\noindent{\sffamily\fontsize{8.6}{12.2}\selectfont\color{muted}#1\par}}
+\newcommand{\secquestion}[1]{\par\noindent{\sffamily\bfseries\color{deep}#1}\par\smallskip}
+\newcommand{\keypoint}[2]{\par\vspace{4pt}\noindent\colorbox{lightteal}{\parbox{\dimexpr\linewidth-2\fboxsep\relax}{\vspace{2mm}\hspace{1mm}\sffamily\bfseries\color{teal}#1\quad\normalfont\color{ink}#2\vspace{2mm}}}\par\vspace{5pt}}
+\newcommand{\insightbox}[2]{\keypoint{#1}{#2}}
+\newcommand{\miniinsight}[2]{\parbox[t]{.46\linewidth}{\textbf{#1}\par#2}}
+\newcommand{\TOCHead}[4]{\par\vspace{3mm}\noindent\begin{minipage}{11mm}{\sffamily\bfseries\ifstrequal{#1}{A/B}{\fontsize{17}{22}}{\fontsize{22}{25}}\selectfont\color{#3}#1}\end{minipage}\begin{minipage}{\dimexpr\linewidth-11mm\relax}{\sffamily\bfseries\fontsize{12.2}{16}\selectfont#2}\par{\sffamily\fontsize{8}{10.5}\selectfont\color{muted}#4}\end{minipage}\par\vspace{1mm}\noindent{\color{#3}\rule{\linewidth}{.55pt}}\par\vspace{.2mm}}
+\newcommand{\TOCLine}[3]{\begingroup\setlength{\parskip}{0pt}\fontsize{10.5}{14.5}\selectfont\noindent\hbox to\linewidth{\makebox[9mm][l]{\sffamily\color{muted}#1}#2\hfill{\sffamily\color{muted}#3}}\par\endgroup\vspace{.5mm}}
+\newcommand{\DeclHead}[2]{\par\vspace{5pt}\noindent{\sffamily\bfseries\color{teal}\fontsize{12}{17}\selectfont#1}\par\ifstrempty{#2}{}{\vspace{1pt}\noindent{\sffamily\fontsize{10}{14}\selectfont\color{muted}#2}\par}\vspace{2pt}}
+\newcommand{\Principle}[4]{\par\vspace{5pt}\noindent\begin{minipage}[t]{11mm}\vspace{0pt}{\sffamily\bfseries\fontsize{22}{25}\selectfont\color{teal}#1}\end{minipage}\begin{minipage}[t]{\dimexpr\linewidth-11mm\relax}\vspace{0pt}{\sffamily\bfseries\fontsize{12}{17}\selectfont#2}\par{\sffamily\fontsize{10}{15}\selectfont\color{teal}#3}\par\vspace{2pt}#4\end{minipage}\par}
+\newcommand{\FullPage}[3]{\clearpage\includepdf[pages=1,pagecommand={\thispagestyle{empty}\phantomsection\label{#2}\pdfbookmark[0]{#3}{bm-#2}}]{#1}}
+
+\renewcommand{\topfraction}{.88}
+\renewcommand{\bottomfraction}{.85}
+\renewcommand{\textfraction}{.08}
+\renewcommand{\floatpagefraction}{.76}
+\setcounter{topnumber}{3}\setcounter{bottomnumber}{3}\setcounter{totalnumber}{5}
+
+\newcommand{\GoalLead}[3]{\par\Needspace{5\baselineskip}\vspace{5pt}\noindent\makebox[12mm][l]{\sffamily\bfseries\color{#2}\fontsize{14}{18}\selectfont #1}{\sffamily\bfseries\color{deep}#3}\par\vspace{3pt}}
+\newcommand{\ReportNote}[1]{\par\noindent\textcolor{line}{\rule{\linewidth}{.4pt}}\par\noindent{\sffamily\fontsize{8.1}{11.8}\selectfont\color{muted}#1\par}}
+
+\RequirePackage{eso-pic}
+\AddToShipoutPictureBG{\AtPageLowerLeft{\includegraphics[width=\paperwidth]{figures/new/footer-wave.pdf}}}
+
+\newcommand{\LayerHeading}[1]{\par\Needspace{8\baselineskip}\vspace{7pt}\noindent{\sffamily\bfseries\color{deep}\fontsize{12}{17}\selectfont#1}\par\vspace{2pt}}
+\newcommand{\InfoLabel}[1]{\par\vspace{7pt}\noindent{\sffamily\bfseries\color{teal}\fontsize{10.3}{15}\selectfont#1}\par\vspace{1pt}}
+
+\definecolor{pillarone}{HTML}{155FA8}
+\definecolor{pillartwo}{HTML}{007D78}
+\definecolor{pillarthree}{HTML}{8E6500}
+\definecolor{pillarfour}{HTML}{943B9A}
+\newcommand{\SourceCite}[2]{\textsuperscript{\sffamily\fontsize{7.5}{9}\selectfont\href{#1}{[#2]}}}

@@ -1,0 +1,557 @@
+{
+  "rows": [
+    {
+      "kind": "project",
+      "rank": 1,
+      "identity": "CANN",
+      "openrank": 14719.47,
+      "active_developers": 5460,
+      "repo_count": "68",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 2,
+      "identity": "Hermes Agent",
+      "openrank": 1765.39,
+      "active_developers": 3960,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 3,
+      "identity": "DeepAgents",
+      "openrank": 1017.25,
+      "active_developers": 786,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 4,
+      "identity": "ZeroClaw",
+      "openrank": 876.96,
+      "active_developers": 819,
+      "repo_count": "2",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 5,
+      "identity": "Paperclip",
+      "openrank": 778.06,
+      "active_developers": 1077,
+      "repo_count": "7",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 6,
+      "identity": "vLLM-Omni",
+      "openrank": 703.14,
+      "active_developers": 539,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 7,
+      "identity": "RLinf",
+      "openrank": 661.9,
+      "active_developers": 231,
+      "repo_count": "4",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 8,
+      "identity": "CLIProxyAPI",
+      "openrank": 617.39,
+      "active_developers": 1292,
+      "repo_count": "9",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 9,
+      "identity": "OpenViking",
+      "openrank": 595.71,
+      "active_developers": 635,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 10,
+      "identity": "Pi Mono",
+      "openrank": 588.01,
+      "active_developers": 1152,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 11,
+      "identity": "Hive",
+      "openrank": 587.11,
+      "active_developers": 434,
+      "repo_count": "2",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 12,
+      "identity": "CC Switch",
+      "openrank": 528.45,
+      "active_developers": 1512,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 13,
+      "identity": "Oh My OpenAgent",
+      "openrank": 519.54,
+      "active_developers": 1358,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 14,
+      "identity": "Astron",
+      "openrank": 502.9,
+      "active_developers": 236,
+      "repo_count": "2",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 15,
+      "identity": "Lark CLI",
+      "openrank": 429.27,
+      "active_developers": 659,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 16,
+      "identity": "Nanobot",
+      "openrank": 427.89,
+      "active_developers": 941,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 17,
+      "identity": "Beads",
+      "openrank": 389.7,
+      "active_developers": 726,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 18,
+      "identity": "QwenPaw",
+      "openrank": 377.86,
+      "active_developers": 884,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 19,
+      "identity": "Spec Kit",
+      "openrank": 349.31,
+      "active_developers": 1058,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 20,
+      "identity": "Multica",
+      "openrank": 302.65,
+      "active_developers": 346,
+      "repo_count": "2",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 21,
+      "identity": "Claude Mem",
+      "openrank": 295.36,
+      "active_developers": 740,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 22,
+      "identity": "T3 Code",
+      "openrank": 292.24,
+      "active_developers": 631,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 23,
+      "identity": "Eigent",
+      "openrank": 281.45,
+      "active_developers": 185,
+      "repo_count": "3",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 24,
+      "identity": "Kimi CLI",
+      "openrank": 238.71,
+      "active_developers": 470,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 25,
+      "identity": "Agent Sandbox",
+      "openrank": 210.23,
+      "active_developers": 128,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 26,
+      "identity": "Superpowers",
+      "openrank": 206.3,
+      "active_developers": 627,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 27,
+      "identity": "Parameter Golf",
+      "openrank": 171.48,
+      "active_developers": 370,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 28,
+      "identity": "RTK",
+      "openrank": 167.74,
+      "active_developers": 394,
+      "repo_count": "6",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 29,
+      "identity": "OmniRoute",
+      "openrank": 141.08,
+      "active_developers": 328,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "project",
+      "rank": 30,
+      "identity": "Everything Claude Code",
+      "openrank": 131.81,
+      "active_developers": 359,
+      "repo_count": "1",
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 1,
+      "identity": "openclaw/openclaw",
+      "openrank": 7047.46,
+      "active_developers": 18624,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 2,
+      "identity": "cann/ops-transformer",
+      "openrank": 2607.14,
+      "active_developers": 1010,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 3,
+      "identity": "cann/ops-nn",
+      "openrank": 2146.38,
+      "active_developers": 1006,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 4,
+      "identity": "Ascend/pytorch",
+      "openrank": 1919.09,
+      "active_developers": 1050,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 5,
+      "identity": "mindspore/mindspore",
+      "openrank": 1823.15,
+      "active_developers": 1711,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 6,
+      "identity": "NousResearch/hermes-agent",
+      "openrank": 1765.39,
+      "active_developers": 3960,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 7,
+      "identity": "cann/pypto",
+      "openrank": 1224.15,
+      "active_developers": 431,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 8,
+      "identity": "cann/ops-math",
+      "openrank": 1096.59,
+      "active_developers": 713,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 9,
+      "identity": "langchain-ai/deepagents",
+      "openrank": 1017.25,
+      "active_developers": 786,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 10,
+      "identity": "openharmony/multimedia_media_library",
+      "openrank": 904.71,
+      "active_developers": 235,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 11,
+      "identity": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "openrank": 883.12,
+      "active_developers": 2223,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 12,
+      "identity": "cann/asc-devkit",
+      "openrank": 879.2,
+      "active_developers": 480,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 13,
+      "identity": "openharmony/ability_ability_runtime",
+      "openrank": 769.24,
+      "active_developers": 408,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 14,
+      "identity": "aden-hive/hive",
+      "openrank": 769.19,
+      "active_developers": 1454,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 15,
+      "identity": "cann/runtime",
+      "openrank": 761.13,
+      "active_developers": 347,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 16,
+      "identity": "Ascend/ModelZoo-PyTorch",
+      "openrank": 703.95,
+      "active_developers": 863,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 17,
+      "identity": "vllm-project/vllm-omni",
+      "openrank": 703.14,
+      "active_developers": 539,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 18,
+      "identity": "Ascend/mind-cluster",
+      "openrank": 691.49,
+      "active_developers": 279,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 19,
+      "identity": "Facepunch/sbox-public",
+      "openrank": 687.71,
+      "active_developers": 695,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 20,
+      "identity": "cann/hcomm",
+      "openrank": 684.72,
+      "active_developers": 292,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 21,
+      "identity": "Ascend/MindSpeed-LLM",
+      "openrank": 671.85,
+      "active_developers": 606,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 22,
+      "identity": "noctalia-dev/noctalia",
+      "openrank": 659.16,
+      "active_developers": 660,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 23,
+      "identity": "AvengeMedia/DankMaterialShell",
+      "openrank": 648.98,
+      "active_developers": 738,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 24,
+      "identity": "Ascend/op-plugin",
+      "openrank": 647.23,
+      "active_developers": 791,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 25,
+      "identity": "openharmony/multimedia_av_codec",
+      "openrank": 634.4,
+      "active_developers": 199,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 26,
+      "identity": "cann/ge",
+      "openrank": 628.91,
+      "active_developers": 434,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 27,
+      "identity": "Ascend/torchair",
+      "openrank": 603.0,
+      "active_developers": 602,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 28,
+      "identity": "Ascend/MindSpeed-MM",
+      "openrank": 602.54,
+      "active_developers": 289,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 29,
+      "identity": "Ascend/RecSDK",
+      "openrank": 598.0,
+      "active_developers": 121,
+      "repo_count": null,
+      "logo": true
+    },
+    {
+      "kind": "repo",
+      "rank": 30,
+      "identity": "PlatformNetwork/bounty-challenge",
+      "openrank": 596.41,
+      "active_developers": 543,
+      "repo_count": null,
+      "logo": true
+    }
+  ],
+  "count": 60,
+  "layout_checks": [
+    {
+      "file": "emerging_01_projects",
+      "labels": 186,
+      "outside": []
+    },
+    {
+      "file": "emerging_02_repos",
+      "labels": 185,
+      "outside": []
+    }
+  ]
+}

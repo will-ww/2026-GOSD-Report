@@ -1,0 +1,4 @@
+asset,start_count,end_count,period,source_url
+模型仓库,2430000,2960000,HF Summer 2026 January–August observation; some analyses end July; counts are rounded,https://github.com/huggingface/blog/blob/9e982d5f2ff0c93248a897bf1e0c59c9828c5ab8/state-of-open-models-summer-2026.md
+数据集,711000,1000000,HF Summer 2026 January–August observation; some analyses end July; counts are rounded,https://github.com/huggingface/blog/blob/9e982d5f2ff0c93248a897bf1e0c59c9828c5ab8/state-of-open-models-summer-2026.md
+Spaces,1000000,1440000,HF Summer 2026 January–August observation; some analyses end July; counts are rounded,https://github.com/huggingface/blog/blob/9e982d5f2ff0c93248a897bf1e0c59c9828c5ab8/state-of-open-models-summer-2026.md

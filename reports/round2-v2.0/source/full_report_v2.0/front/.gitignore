@@ -1,0 +1,10 @@
+*.pdf
+*.png
+*.aux
+*.log
+*.out
+*.toc
+work/
+output/
+.build_fonts/
+__pycache__/

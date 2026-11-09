@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="159mm" viewBox="0 0 170 159"><rect width="170" height="159" fill="white" />
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB" /><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#329A9B" stroke-width="0.3" /></pattern></defs>
+<text x="1.0000" y="6.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.23333" font-weight="700" fill="#142C49" text-anchor="start">模型：发布数量与下载份额并不重合</text>
+<text x="1.0000" y="14.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.59833" font-weight="700" fill="#142C49" text-anchor="start">A  发布单位样本：数量与下载份额</text>
+<rect x="1.0000" y="20.0000" width="5.0000" height="2.6000" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="9.0000" y="22.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">数量份额</text>
+<rect x="42.0000" y="20.0000" width="5.0000" height="2.6000" rx="0" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="50.0000" y="22.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">下载份额</text>
+<text x="150.0000" y="20.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.85750" font-weight="400" fill="#506778" text-anchor="middle">下载 − 数量</text>
+<text x="150.0000" y="24.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#506778" text-anchor="middle">百分点</text>
+<text x="1.0000" y="35.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.38667" font-weight="700" fill="#142C49" text-anchor="start">美国</text>
+<rect x="22.0000" y="30.0000" width="88.0000" height="3.4000" rx="0.25" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="22.0000" y="30.0000" width="55.7621" height="3.4000" rx="0.25" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="124.0000" y="32.9000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="700" fill="#155F91" text-anchor="end">63.4%</text>
+<rect x="22.0000" y="36.0000" width="88.0000" height="3.4000" rx="0.25" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="22.0000" y="36.0000" width="65.0320" height="3.4000" rx="0.25" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="124.0000" y="38.9000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="700" fill="#007D78" text-anchor="end">73.9%</text>
+<text x="150.0000" y="35.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.40972" font-weight="700" fill="#007D78" text-anchor="middle">+10.5</text>
+<text x="1.0000" y="50.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.38667" font-weight="700" fill="#142C49" text-anchor="start">中国</text>
+<rect x="22.0000" y="45.5000" width="88.0000" height="3.4000" rx="0.25" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="22.0000" y="45.5000" width="7.3256" height="3.4000" rx="0.25" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="124.0000" y="48.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="700" fill="#155F91" text-anchor="end">8.3%</text>
+<rect x="22.0000" y="51.5000" width="88.0000" height="3.4000" rx="0.25" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="22.0000" y="51.5000" width="11.0880" height="3.4000" rx="0.25" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="124.0000" y="54.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="700" fill="#007D78" text-anchor="end">12.6%</text>
+<text x="150.0000" y="51.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.40972" font-weight="700" fill="#007D78" text-anchor="middle">+4.3</text>
+<text x="22.0000" y="61.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.68111" font-weight="400" fill="#506778" text-anchor="start">0</text>
+<text x="110.0000" y="61.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.68111" font-weight="400" fill="#506778" text-anchor="end">100%</text>
+<path d="M1.000,67.000 L169.000,67.000" fill="none" stroke="#D8E3E9" stroke-width="0.25" />
+<text x="1.0000" y="75.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.59833" font-weight="700" fill="#142C49" text-anchor="start">B  独立任务快照：已列标签中的前10项</text>
+<text x="1.0000" y="81.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.92806" font-weight="400" fill="#506778" text-anchor="start">2026年10月15日采集 · 标签条目数 · 与上方发布单位样本分开计量</text>
+<text x="1.0000" y="90.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#506778" text-anchor="start">01</text>
+<text x="9.0000" y="90.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#142C49" text-anchor="start">文本生成</text>
+<rect x="59.0000" y="87.9000" width="79.8635" height="2.9000" rx="0.23" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="90.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#142C49" text-anchor="end">422,807</text>
+<text x="1.0000" y="95.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#506778" text-anchor="start">02</text>
+<text x="9.0000" y="95.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">文本分类</text>
+<rect x="59.0000" y="93.6000" width="23.4317" height="2.9000" rx="0.23" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="95.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="end">124,050</text>
+<text x="1.0000" y="101.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#506778" text-anchor="start">03</text>
+<text x="9.0000" y="101.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">文生图</text>
+<rect x="59.0000" y="99.3000" width="21.0639" height="2.9000" rx="0.23" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="101.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="end">111,515</text>
+<text x="1.0000" y="107.1000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#506778" text-anchor="start">04</text>
+<text x="9.0000" y="107.1000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">强化学习</text>
+<rect x="59.0000" y="105.0000" width="14.8146" height="2.9000" rx="0.23" fill="#94C1C2" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="107.1000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="end">78,430</text>
+<text x="1.0000" y="112.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#506778" text-anchor="start">05</text>
+<text x="9.0000" y="112.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">图文理解／生成文本</text>
+<rect x="59.0000" y="110.7000" width="7.9224" height="2.9000" rx="0.23" fill="#94C1C2" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="112.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="end">41,942</text>
+<text x="1.0000" y="118.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#506778" text-anchor="start">06</text>
+<text x="9.0000" y="118.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">自动语音识别</text>
+<rect x="59.0000" y="116.4000" width="7.0918" height="2.9000" rx="0.23" fill="#94C1C2" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="118.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="end">37,545</text>
+<text x="1.0000" y="124.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#506778" text-anchor="start">07</text>
+<text x="9.0000" y="124.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">机器人</text>
+<rect x="59.0000" y="122.1000" width="6.7027" height="2.9000" rx="0.23" fill="#94C1C2" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="124.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="end">35,485</text>
+<text x="1.0000" y="129.9000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#506778" text-anchor="start">08</text>
+<text x="9.0000" y="129.9000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">词元分类</text>
+<rect x="59.0000" y="127.8000" width="5.8573" height="2.9000" rx="0.23" fill="#94C1C2" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="129.9000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="end">31,009</text>
+<text x="1.0000" y="135.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#506778" text-anchor="start">09</text>
+<text x="9.0000" y="135.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">图像分类</text>
+<rect x="59.0000" y="133.5000" width="5.6092" height="2.9000" rx="0.23" fill="#94C1C2" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="135.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="end">29,696</text>
+<text x="1.0000" y="141.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#506778" text-anchor="start">10</text>
+<text x="9.0000" y="141.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">特征提取</text>
+<rect x="59.0000" y="139.2000" width="4.0607" height="2.9000" rx="0.23" fill="#94C1C2" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="141.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="end">21,498</text>
+<path d="M59.000,146.000 L144.000,146.000" fill="none" stroke="#D8E3E9" stroke-width="0.18" />
+<text x="59.0000" y="151.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.71639" font-weight="400" fill="#506778" text-anchor="middle">0</text>
+<text x="96.7778" y="151.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.71639" font-weight="400" fill="#506778" text-anchor="middle">20万</text>
+<text x="134.5556" y="151.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.71639" font-weight="400" fill="#506778" text-anchor="middle">40万</text>
+<text x="1.0000" y="157.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#506778" text-anchor="start">条目按原接口标签计数；不构造互斥类别占比，也不由单次快照推算增长。</text></svg>

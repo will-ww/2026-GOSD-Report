@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="141mm" viewBox="0 0 170 141"><rect width="170" height="141" fill="white" />
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB" /><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#329A9B" stroke-width="0.3" /></pattern></defs>
+<text x="1.0000" y="6.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.23333" font-weight="700" fill="#142C49" text-anchor="start">2026语言参与：最大人数增量与最高增幅并不重合</text>
+<text x="1.0000" y="12.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="start">GitHub Octoverse 2026 · 比较2025年9月与2026年9月的月度参与规模</text>
+<text x="1.0000" y="23.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.56306" font-weight="700" fill="#142C49" text-anchor="start">A  月度贡献者规模的增加</text>
+<text x="169.0000" y="23.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="end">人数增量 / 万人</text>
+<text x="1.0000" y="36.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="start">TypeScript</text>
+<text x="30.0000" y="36.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="start">第1</text>
+<rect x="46.0000" y="33.0000" width="93.2150" height="4.6000" rx="0.4" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="36.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.88056" font-weight="700" fill="#155F91" text-anchor="end">+362</text>
+<text x="1.0000" y="48.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="start">Python</text>
+<text x="30.0000" y="48.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="start">第2</text>
+<rect x="46.0000" y="45.0000" width="83.1725" height="4.6000" rx="0.4" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="48.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.88056" font-weight="700" fill="#007D78" text-anchor="end">+323</text>
+<text x="1.0000" y="60.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="start">JavaScript</text>
+<text x="30.0000" y="60.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="start">第3</text>
+<rect x="46.0000" y="57.0000" width="46.8650" height="4.6000" rx="0.4" fill="#776195" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="60.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.88056" font-weight="700" fill="#776195" text-anchor="end">+182</text>
+<path d="M46.000,68.000 L149.000,68.000" fill="none" stroke="#D8E3E9" stroke-width="0.22" />
+<text x="46.0000" y="73.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#506778" text-anchor="middle">0</text>
+<text x="71.7500" y="73.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#506778" text-anchor="middle">100</text>
+<text x="97.5000" y="73.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#506778" text-anchor="middle">200</text>
+<text x="123.2500" y="73.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#506778" text-anchor="middle">300</text>
+<text x="149.0000" y="73.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#506778" text-anchor="middle">400</text>
+<text x="1.0000" y="78.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.85750" font-weight="400" fill="#506778" text-anchor="start">“第1—3”表示2026年月度参与规模位次；条长表示两期人数差额。</text>
+<path d="M1.000,83.000 L169.000,83.000" fill="none" stroke="#D8E3E9" stroke-width="0.22" />
+<text x="1.0000" y="91.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.56306" font-weight="700" fill="#142C49" text-anchor="start">B  四种语言的同比增幅</text>
+<text x="169.0000" y="91.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="end">官方已明确披露的四项</text>
+<text x="1.0000" y="102.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="700" fill="#142C49" text-anchor="start">Rust</text>
+<rect x="46.0000" y="99.3500" width="92.7000" height="3.8000" rx="0.35" fill="#9C6A2D" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="102.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#9C6A2D" text-anchor="end">+162%</text>
+<text x="1.0000" y="110.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="400" fill="#142C49" text-anchor="start">TypeScript</text>
+<rect x="46.0000" y="107.5500" width="76.6778" height="3.8000" rx="0.35" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="110.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#155F91" text-anchor="end">+134%</text>
+<text x="1.0000" y="118.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="400" fill="#142C49" text-anchor="start">Python</text>
+<rect x="46.0000" y="115.7500" width="67.5222" height="3.8000" rx="0.35" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="118.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#007D78" text-anchor="end">+118%</text>
+<text x="1.0000" y="126.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="400" fill="#142C49" text-anchor="start">Java</text>
+<rect x="46.0000" y="123.9500" width="17.1667" height="3.8000" rx="0.35" fill="#AABCC3" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="126.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="end">+30%</text>
+<path d="M46.000,132.000 L149.000,132.000" fill="none" stroke="#D8E3E9" stroke-width="0.22" />
+<text x="46.0000" y="137.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#506778" text-anchor="middle">0%</text>
+<text x="80.3333" y="137.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#506778" text-anchor="middle">60%</text>
+<text x="114.6667" y="137.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#506778" text-anchor="middle">120%</text>
+<text x="149.0000" y="137.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#506778" text-anchor="middle">180%</text></svg>

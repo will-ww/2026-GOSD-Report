@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="151mm" viewBox="0 0 170 151"><rect width="170" height="151" fill="white" />
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB" /><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#329A9B" stroke-width="0.3" /></pattern></defs>
+<text x="1.0000" y="6.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.23333" font-weight="700" fill="#142C49" text-anchor="start">前两项占样本得分过半，头部集中较为明显</text>
+<text x="1.0000" y="12.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="start">2026报告年度 · 原表30项 · 以下列出前15项 · 单位：OpenRank</text>
+<text x="1.0000" y="23.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">01</text>
+<text x="10.0000" y="23.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.21028" font-weight="700" fill="#142C49" text-anchor="start">OpenHarmony</text>
+<rect x="54.0000" y="20.5000" width="81.4951" height="3.4000" rx="0.18" fill="#329A9B" stroke="none" stroke-width="0.18" />
+<text x="169.0000" y="23.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.13972" font-weight="700" fill="#142C49" text-anchor="end">75,809.42</text>
+<text x="1.0000" y="29.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">02</text>
+<text x="10.0000" y="29.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.21028" font-weight="700" fill="#142C49" text-anchor="start">openEuler</text>
+<rect x="54.0000" y="27.3000" width="20.3718" height="3.4000" rx="0.18" fill="#329A9B" stroke="none" stroke-width="0.18" />
+<text x="169.0000" y="29.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.13972" font-weight="700" fill="#142C49" text-anchor="end">18,950.48</text>
+<text x="1.0000" y="36.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">03</text>
+<text x="10.0000" y="36.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.21028" font-weight="400" fill="#142C49" text-anchor="start">CANN</text>
+<rect x="54.0000" y="34.1000" width="15.8234" height="3.4000" rx="0.18" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="169.0000" y="36.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.13972" font-weight="400" fill="#142C49" text-anchor="end">14,719.47</text>
+<text x="1.0000" y="43.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">04</text>
+<text x="10.0000" y="43.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.21028" font-weight="400" fill="#142C49" text-anchor="start">Ascend</text>
+<rect x="54.0000" y="40.9000" width="13.9463" height="3.4000" rx="0.18" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="169.0000" y="43.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.13972" font-weight="400" fill="#142C49" text-anchor="end">12,973.33</text>
+<text x="1.0000" y="50.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">05</text>
+<text x="10.0000" y="50.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.21028" font-weight="400" fill="#142C49" text-anchor="start">MindSpore</text>
+<rect x="54.0000" y="47.7000" width="7.8706" height="3.4000" rx="0.18" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="169.0000" y="50.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.13972" font-weight="400" fill="#142C49" text-anchor="end">7,321.46</text>
+<text x="1.0000" y="57.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">06</text>
+<text x="10.0000" y="57.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.21028" font-weight="400" fill="#142C49" text-anchor="start">PaddlePaddle</text>
+<rect x="54.0000" y="54.5000" width="7.0596" height="3.4000" rx="0.18" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="169.0000" y="57.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.13972" font-weight="400" fill="#142C49" text-anchor="end">6,567.09</text>
+<text x="1.0000" y="63.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">07</text>
+<text x="10.0000" y="63.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.21028" font-weight="400" fill="#142C49" text-anchor="start">Cangjie</text>
+<rect x="54.0000" y="61.3000" width="5.1667" height="3.4000" rx="0.18" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="169.0000" y="63.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.13972" font-weight="400" fill="#142C49" text-anchor="end">4,806.20</text>
+<text x="1.0000" y="70.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">08</text>
+<text x="10.0000" y="70.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.21028" font-weight="400" fill="#142C49" text-anchor="start">Ant Design</text>
+<rect x="54.0000" y="68.1000" width="2.8564" height="3.4000" rx="0.18" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="169.0000" y="70.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.13972" font-weight="400" fill="#142C49" text-anchor="end">2,657.10</text>
+<text x="1.0000" y="77.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">09</text>
+<text x="10.0000" y="77.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.21028" font-weight="400" fill="#142C49" text-anchor="start">openGauss</text>
+<rect x="54.0000" y="74.9000" width="2.6441" height="3.4000" rx="0.18" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="169.0000" y="77.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.13972" font-weight="400" fill="#142C49" text-anchor="end">2,459.62</text>
+<text x="1.0000" y="84.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">10</text>
+<text x="10.0000" y="84.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.21028" font-weight="400" fill="#142C49" text-anchor="start">魔搭</text>
+<rect x="54.0000" y="81.7000" width="2.5478" height="3.4000" rx="0.18" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="169.0000" y="84.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.13972" font-weight="400" fill="#142C49" text-anchor="end">2,370.03</text>
+<text x="1.0000" y="91.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">11</text>
+<text x="10.0000" y="91.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.21028" font-weight="400" fill="#142C49" text-anchor="start">TiDB</text>
+<rect x="54.0000" y="88.5000" width="2.4245" height="3.4000" rx="0.18" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="169.0000" y="91.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.13972" font-weight="400" fill="#142C49" text-anchor="end">2,255.32</text>
+<text x="1.0000" y="97.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">12</text>
+<text x="10.0000" y="97.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.21028" font-weight="400" fill="#142C49" text-anchor="start">verl</text>
+<rect x="54.0000" y="95.3000" width="2.4164" height="3.4000" rx="0.18" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="169.0000" y="97.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.13972" font-weight="400" fill="#142C49" text-anchor="end">2,247.85</text>
+<text x="1.0000" y="104.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">13</text>
+<text x="10.0000" y="104.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.21028" font-weight="400" fill="#142C49" text-anchor="start">1Panel</text>
+<rect x="54.0000" y="102.1000" width="2.1523" height="3.4000" rx="0.18" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="169.0000" y="104.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.13972" font-weight="400" fill="#142C49" text-anchor="end">2,002.13</text>
+<text x="1.0000" y="111.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">14</text>
+<text x="10.0000" y="111.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.21028" font-weight="400" fill="#142C49" text-anchor="start">openKylin</text>
+<rect x="54.0000" y="108.9000" width="1.8895" height="3.4000" rx="0.18" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="169.0000" y="111.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.13972" font-weight="400" fill="#142C49" text-anchor="end">1,757.69</text>
+<text x="1.0000" y="118.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#506778" text-anchor="start">15</text>
+<text x="10.0000" y="118.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.21028" font-weight="400" fill="#142C49" text-anchor="start">StarRocks</text>
+<rect x="54.0000" y="115.7000" width="1.8447" height="3.4000" rx="0.18" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="169.0000" y="118.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.13972" font-weight="400" fill="#142C49" text-anchor="end">1,716.00</text>
+<path d="M54.000,123.000 L140.000,123.000" fill="none" stroke="#D8E3E9" stroke-width="0.22" />
+<text x="54.0000" y="128.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#506778" text-anchor="middle">0</text>
+<text x="97.0000" y="128.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#506778" text-anchor="middle">40,000</text>
+<text x="140.0000" y="128.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.78694" font-weight="400" fill="#506778" text-anchor="middle">80,000</text>
+<rect x="1.0000" y="135.0000" width="90.2920" height="6.2000" rx="0" fill="#155F91" stroke="#FFFFFF" stroke-width="0.3" />
+<text x="46.1460" y="148.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="middle">前2项 53.7%</text>
+<rect x="91.2920" y="135.0000" width="51.3342" height="6.2000" rx="0" fill="#007D78" stroke="#FFFFFF" stroke-width="0.3" />
+<text x="116.9591" y="148.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="middle">第3—10项 30.6%</text>
+<rect x="142.6262" y="135.0000" width="26.3738" height="6.2000" rx="0" fill="#AABCC3" stroke="#FFFFFF" stroke-width="0.3" />
+<text x="155.8131" y="148.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="middle">第11—30项 15.7%</text></svg>

@@ -1,0 +1,117 @@
+[
+  {
+    "path": "data/22/README.md",
+    "sha256": "09a042e4f4c26573f916edeb893f9c34e04b63eab9fb4045a12ed135bf4714e8",
+    "unchanged": true
+  },
+  {
+    "path": "data/23/README.md",
+    "sha256": "d491d37d56d836b2ac46007dc2abfb485ad31dc0bdbd1a37eef01109613b7b1f",
+    "unchanged": true
+  },
+  {
+    "path": "data/21/china_provinces_with_change.csv",
+    "sha256": "72fd2a760c921d6186aab50b3b1c73edf70a6dd7b94419e57001ec2a4f37b54c",
+    "unchanged": true
+  },
+  {
+    "path": "data/21/top20_display.csv",
+    "sha256": "855eddd14e8f74d5c0b9d642d4817bb2bcb55b196150a37c67ae095419dc9765",
+    "unchanged": true
+  },
+  {
+    "path": "data/21/global_2026_top10.csv",
+    "sha256": "cfce2b8e62bbe8c677008048eb228f0cf3abb25a020b98ccfd15ef070a81850e",
+    "unchanged": true
+  },
+  {
+    "path": "data/21/global_active_excerpt.csv",
+    "sha256": "2bfd4e7b4173a637f98635dfaa24e9144158430da184fd032aa7907338d803ae",
+    "unchanged": true
+  },
+  {
+    "path": "data/21/five_groups_growth_display.csv",
+    "sha256": "ccdc8de589920a98e8c2c90b84f8a1671e57a1b0df3af5ae0ea4a3c6ed154e50",
+    "unchanged": true
+  },
+  {
+    "path": "data/21/china_growth_groups_derived.csv",
+    "sha256": "0834901add68a879e4a6db9bd44d7483c35c2fbf763df4a3c486f1f8d0dfb42c",
+    "unchanged": true
+  },
+  {
+    "path": "data/21/china_growth_comparison_display.csv",
+    "sha256": "9aeb63448df4ab0672c1d57d414647eb8b141f63025065e92d0d2458f2644c21",
+    "unchanged": true
+  },
+  {
+    "path": "data/21/octoverse_context.csv",
+    "sha256": "dc5f5024b4b1433d6034c60551d8c7d79de270be039c89fb949e0c64d9284638",
+    "unchanged": true
+  },
+  {
+    "path": "data/21/global_report_year_trend.csv",
+    "sha256": "c36c0d6e22aaeb35cedc8b269515e46d31069a799f12bedf39bbf48d132fe042",
+    "unchanged": true
+  },
+  {
+    "path": "data/21/five_groups_current.csv",
+    "sha256": "102182a31bdff43cd4bc4695855232831e7f1ca1585c612bb85a35c68fdedc73",
+    "unchanged": true
+  },
+  {
+    "path": "data/21/five_groups_active_trend.csv",
+    "sha256": "4afa1746472acb74221dd8885d5034695288f04f1636b7465e84ed42961f091e",
+    "unchanged": true
+  },
+  {
+    "path": "data/21/README.md",
+    "sha256": "086118e4c91ab5d5fb6ab92246d2c0aa99d0604dc10d0fa9360063101eeba2de",
+    "unchanged": true
+  },
+  {
+    "path": "data/22/raw/countries_236_value_extract.csv",
+    "sha256": "6b698e615991bc83b797bc2c58a84762de23f4b357abd7852a073f6bf6f97855",
+    "unchanged": true
+  },
+  {
+    "path": "data/23/derived/countries_display.csv",
+    "sha256": "74c2ae68e0e9f301724566f409b7805258c80ea6de9901a1d44cc707fcec8043",
+    "unchanged": true
+  },
+  {
+    "path": "data/23/raw/countries_30_excerpt.csv",
+    "sha256": "c1d69806f783cc40acbc22e8553515f71eab677080f84a1d29ff1cfb29fcbadd",
+    "unchanged": true
+  },
+  {
+    "path": "data/21/maps/naturalearth_lowres.shx",
+    "sha256": "8b0be2ad97dd484aee5c2ebc98697d5372e832b8ae58a35a661aeef6b985668d",
+    "unchanged": true
+  },
+  {
+    "path": "data/21/maps/naturalearth_lowres.prj",
+    "sha256": "98aaf3d1c0ecadf1a424a4536de261c3daf4e373697cb86c40c43b989daf52eb",
+    "unchanged": true
+  },
+  {
+    "path": "data/21/maps/naturalearth_lowres.cpg",
+    "sha256": "09fc313075748ce8ead962229ed89c919d5a9ff71974ee725a0b48bb87d975a2",
+    "unchanged": true
+  },
+  {
+    "path": "data/21/maps/README.md",
+    "sha256": "2cedd2e965d69c796dfcff124fb0cc730484c3ab1ad297e58a2fe18acca09f61",
+    "unchanged": true
+  },
+  {
+    "path": "data/21/maps/naturalearth_lowres.shp",
+    "sha256": "08e341606e8391e458c3f08deb312de664b56bfae376064c5aa0aee6681a5f55",
+    "unchanged": true
+  },
+  {
+    "path": "data/21/maps/naturalearth_lowres.dbf",
+    "sha256": "d2ae1c99adcf8e4586a5b12c639672035fa2f3f469e7255947de00401c3ed7e1",
+    "unchanged": true
+  }
+]

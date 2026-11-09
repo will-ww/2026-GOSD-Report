@@ -1,0 +1,47 @@
+{
+  "recovery_type": "verified_pdf_text_layer_only_not_original_layout_source",
+  "source_packages": [
+    {
+      "filename": "GOSD_2026_全书_v2.0_整合源码与核查.zip",
+      "sha256": "81a76ebe3de5b7b75aaca269d856af3104fd8a5ec38b95094b6025e6350ec9c8",
+      "role": "final PDF authority"
+    },
+    {
+      "filename": "GOSD_2026_第五章_v1.0_结构化源码与核查包.zip",
+      "sha256": "1527c74ce5bafa6e04d8d05afe8afac1f2b61809d924c8b0ecad6e7db595ea45",
+      "role": "historical reference only"
+    }
+  ],
+  "checks": {
+    "input_pdf_sha256_matches_original_assembly_manifest": true,
+    "pdf_pages": 17,
+    "recovered_figures": 14,
+    "per_page_text_round_trip": true,
+    "sections_preserved": [
+      "5.1",
+      "5.2",
+      "5.3"
+    ],
+    "visual_review": "17-page low-resolution contact-sheet structure review; not full-resolution typography certification",
+    "prohibited_binary_artifacts_in_this_archive": false
+  },
+  "comparison": {
+    "old_package_self_reported_pages": 22,
+    "old_package_self_reported_figures": 16,
+    "final_pages": 17,
+    "final_figures": 14,
+    "removed_old_figures": [
+      "5-14: 884条独立平台记录的国家与地区分布",
+      "5-15: 不同发布主体类型的地域示意"
+    ],
+    "case_figure_mapping": "old 5-16 -> final 5-14, topic comparison only; visual equivalence not asserted"
+  },
+  "not_verified": [
+    "Original v0.1r LaTeX and plotting source recovery",
+    "Pixel-identical rebuild",
+    "Independent chart values recalculation",
+    "PDF outline text/OCR recovery",
+    "Live source links",
+    "Research or legal claims recertification"
+  ]
+}

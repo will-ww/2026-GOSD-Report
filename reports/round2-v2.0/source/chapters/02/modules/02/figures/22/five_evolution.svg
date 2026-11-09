@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="143mm" viewBox="0 0 170 143"><rect width="170" height="143" fill="white" />
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB" /><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#329A9B" stroke-width="0.3" /></pattern></defs>
+<text x="1.0000" y="6.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.98639" font-weight="700" fill="#142C49" text-anchor="start">欧洲保持规模优势，中国的增长改变相对位置</text>
+<text x="1.0000" y="13.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.03389" font-weight="400" fill="#506778" text-anchor="start">2022—2026报告年度 · 万 OpenRank</text>
+<path d="M13.000,82.000 L165.000,82.000" fill="none" stroke="#D8E3E9" stroke-width="0.18" />
+<text x="10.0000" y="83.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="end">0</text>
+<path d="M13.000,65.143 L165.000,65.143" fill="none" stroke="#D8E3E9" stroke-width="0.18" />
+<text x="10.0000" y="66.1429" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="end">200</text>
+<path d="M13.000,48.286 L165.000,48.286" fill="none" stroke="#D8E3E9" stroke-width="0.18" />
+<text x="10.0000" y="49.2857" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="end">400</text>
+<path d="M13.000,31.429 L165.000,31.429" fill="none" stroke="#D8E3E9" stroke-width="0.18" />
+<text x="10.0000" y="32.4286" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="end">600</text>
+<path d="M13.0,42.18342857142857 L39.0,39.12385714285714 L65.0,34.564 L91.0,30.70860690285715 L117.0,27.200528010000006" fill="none" stroke="#007D78" stroke-width="0.5" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="13.000" cy="42.183" r="0.950" fill="#007D78" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="39.000" cy="39.124" r="0.950" fill="#007D78" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="65.000" cy="34.564" r="0.950" fill="#007D78" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="91.000" cy="30.709" r="0.950" fill="#007D78" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="117.000" cy="27.201" r="0.950" fill="#007D78" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<path d="M117.0,27.200528010000006 L122,27.200528010000006 L127,26.5" fill="none" stroke="#007D78" stroke-width="0.25" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<text x="129.0000" y="27.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#007D78" text-anchor="start">欧洲</text>
+<text x="169.0000" y="27.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#142C49" text-anchor="end">650.16</text>
+<path d="M13.0,70.74168506857143 L39.0,64.62265481714286 L65.0,61.41533474571429 L91.0,56.64325350714286 L117.0,44.66816443285714" fill="none" stroke="#329A9B" stroke-width="0.65" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="13.000" cy="70.742" r="0.950" fill="#329A9B" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="39.000" cy="64.623" r="0.950" fill="#329A9B" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="65.000" cy="61.415" r="0.950" fill="#329A9B" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="91.000" cy="56.643" r="0.950" fill="#329A9B" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="117.000" cy="44.668" r="0.950" fill="#329A9B" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<path d="M117.0,44.66816443285714 L122,44.66816443285714 L127,42.5" fill="none" stroke="#329A9B" stroke-width="0.25" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<text x="129.0000" y="43.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#329A9B" text-anchor="start">中国</text>
+<text x="169.0000" y="43.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#142C49" text-anchor="end">442.92</text>
+<path d="M13.0,53.30689074285714 L39.0,52.95535728 L65.0,51.02497817 L91.0,49.18230905 L117.0,46.26530100714286" fill="none" stroke="#155F91" stroke-width="0.5" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="13.000" cy="53.307" r="0.950" fill="#155F91" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="39.000" cy="52.955" r="0.950" fill="#155F91" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="65.000" cy="51.025" r="0.950" fill="#155F91" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="91.000" cy="49.182" r="0.950" fill="#155F91" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="117.000" cy="46.265" r="0.950" fill="#155F91" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<path d="M117.0,46.26530100714286 L122,46.26530100714286 L127,50" fill="none" stroke="#155F91" stroke-width="0.25" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<text x="129.0000" y="51.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#155F91" text-anchor="start">美国</text>
+<text x="169.0000" y="51.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#142C49" text-anchor="end">423.97</text>
+<path d="M13.0,75.28242857142857 L39.0,74.75985714285714 L65.0,73.99285714285715 L91.0,73.34364204571429 L117.0,73.12088451142857" fill="none" stroke="#776195" stroke-width="0.5" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="13.000" cy="75.282" r="0.950" fill="#776195" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="39.000" cy="74.760" r="0.950" fill="#776195" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="65.000" cy="73.993" r="0.950" fill="#776195" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="91.000" cy="73.344" r="0.950" fill="#776195" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="117.000" cy="73.121" r="0.950" fill="#776195" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<path d="M117.0,73.12088451142857 L122,73.12088451142857 L127,69" fill="none" stroke="#776195" stroke-width="0.25" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<text x="129.0000" y="70.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#776195" text-anchor="start">南方六国</text>
+<text x="169.0000" y="70.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#142C49" text-anchor="end">105.35</text>
+<path d="M13.0,76.26014285714285 L39.0,75.81342857142857 L65.0,75.156 L91.0,74.60666625571429 L117.0,74.45918749571429" fill="none" stroke="#9C6A2D" stroke-width="0.5" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="13.000" cy="76.260" r="0.950" fill="#9C6A2D" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="39.000" cy="75.813" r="0.950" fill="#9C6A2D" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="65.000" cy="75.156" r="0.950" fill="#9C6A2D" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="91.000" cy="74.607" r="0.950" fill="#9C6A2D" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<circle cx="117.000" cy="74.459" r="0.950" fill="#9C6A2D" stroke="#FFFFFF" stroke-width="0.15" opacity="1" />
+<path d="M117.0,74.45918749571429 L122,74.45918749571429 L127,78" fill="none" stroke="#9C6A2D" stroke-width="0.25" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<text x="129.0000" y="79.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#9C6A2D" text-anchor="start">印度</text>
+<text x="169.0000" y="79.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#142C49" text-anchor="end">89.47</text>
+<text x="13.0000" y="89.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="middle">2022</text>
+<text x="39.0000" y="89.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="middle">2023</text>
+<text x="65.0000" y="89.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="middle">2024</text>
+<text x="91.0000" y="89.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="middle">2025</text>
+<text x="117.0000" y="89.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="middle">2026</text>
+<path d="M1.000,95.000 L169.000,95.000" fill="none" stroke="#D8E3E9" stroke-width="0.25" />
+<text x="1.0000" y="103.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.45722" font-weight="700" fill="#142C49" text-anchor="start">2026年同比增幅</text>
+<text x="1.0000" y="112.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="700" fill="#329A9B" text-anchor="start">中国</text>
+<rect x="1.0000" y="116.0000" width="29.0000" height="3.5000" rx="0" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="1.0000" y="116.0000" width="27.3913" height="3.5000" rx="0" fill="#329A9B" stroke="none" stroke-width="0.18" />
+<text x="1.0000" y="127.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.95111" font-weight="700" fill="#142C49" text-anchor="start">+47.2%</text>
+<text x="1.0000" y="135.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.03389" font-weight="400" fill="#506778" text-anchor="start">累计 3.32倍</text>
+<text x="35.0000" y="112.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="700" fill="#155F91" text-anchor="start">美国</text>
+<rect x="35.0000" y="116.0000" width="29.0000" height="3.5000" rx="0" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="35.0000" y="116.0000" width="5.1553" height="3.5000" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="35.0000" y="127.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.95111" font-weight="700" fill="#142C49" text-anchor="start">+8.9%</text>
+<text x="35.0000" y="135.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.03389" font-weight="400" fill="#506778" text-anchor="start">累计 1.25倍</text>
+<text x="69.0000" y="112.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="700" fill="#007D78" text-anchor="start">欧洲</text>
+<rect x="69.0000" y="116.0000" width="29.0000" height="3.5000" rx="0" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="69.0000" y="116.0000" width="3.9669" height="3.5000" rx="0" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="69.0000" y="127.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.95111" font-weight="700" fill="#142C49" text-anchor="start">+6.8%</text>
+<text x="69.0000" y="135.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.03389" font-weight="400" fill="#506778" text-anchor="start">累计 1.38倍</text>
+<text x="103.0000" y="112.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="700" fill="#776195" text-anchor="start">南方六国</text>
+<rect x="103.0000" y="116.0000" width="29.0000" height="3.5000" rx="0" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="103.0000" y="116.0000" width="1.4925" height="3.5000" rx="0" fill="#776195" stroke="none" stroke-width="0.18" />
+<text x="103.0000" y="127.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.95111" font-weight="700" fill="#142C49" text-anchor="start">+2.6%</text>
+<text x="103.0000" y="135.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.03389" font-weight="400" fill="#506778" text-anchor="start">累计 1.32倍</text>
+<text x="137.0000" y="112.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="700" fill="#9C6A2D" text-anchor="start">印度</text>
+<rect x="137.0000" y="116.0000" width="29.0000" height="3.5000" rx="0" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="137.0000" y="116.0000" width="1.1570" height="3.5000" rx="0" fill="#9C6A2D" stroke="none" stroke-width="0.18" />
+<text x="137.0000" y="127.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.95111" font-weight="700" fill="#142C49" text-anchor="start">+2.0%</text>
+<text x="137.0000" y="135.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.03389" font-weight="400" fill="#506778" text-anchor="start">累计 1.31倍</text></svg>

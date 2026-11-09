@@ -1,0 +1,73 @@
+{
+  "filename": "text-blocks.json",
+  "size": 1158948,
+  "sha256": "2420982cfbf7ca9079900902367577d005f137c8e18370cc1e49b6635b4376de",
+  "encoding": "UTF-8",
+  "parts": [
+    {
+      "name": "part-001.txt",
+      "size": 90000,
+      "sha256": "707c086ccf1958704aedb5aa6bb33ec27e34ecb39ebefdb30948759b9df5d7ff"
+    },
+    {
+      "name": "part-002.txt",
+      "size": 90000,
+      "sha256": "45a5db8cd097d35810a2871732c703eeff392075357d8e42960400643eef2194"
+    },
+    {
+      "name": "part-003.txt",
+      "size": 90000,
+      "sha256": "1be3d0139aacefefdbedbc35dc7a12ee5b421f240a714c0b38b28e6c0b091a94"
+    },
+    {
+      "name": "part-004.txt",
+      "size": 90000,
+      "sha256": "0400c220f1433fadcb7e1761a3f209ea4ddd9bc061fc7eefc1e691475017ee48"
+    },
+    {
+      "name": "part-005.txt",
+      "size": 90000,
+      "sha256": "d93e44ae275bf3542321c2123e9b1fd43aaf563ea5630ec5f8415945d1422e0f"
+    },
+    {
+      "name": "part-006.txt",
+      "size": 90000,
+      "sha256": "8e00a62ae653f9a64613bd4b81043fc6427eeb124f83703ab90c67ac769c2ab4"
+    },
+    {
+      "name": "part-007.txt",
+      "size": 90000,
+      "sha256": "f8e98db46745c2b2b1d828adf5886f7fdc4961c9abda43eba0a4a4ebc94c72c4"
+    },
+    {
+      "name": "part-008.txt",
+      "size": 90000,
+      "sha256": "7605bc2ff8e8e17c4b257a19b7350850ce621516334849b7117e183a50b8db0d"
+    },
+    {
+      "name": "part-009.txt",
+      "size": 90000,
+      "sha256": "5366ed8a27cc15ea0f38fc1f243935d1a5c8c649e1c4f0f379dde2f123513a03"
+    },
+    {
+      "name": "part-010.txt",
+      "size": 90000,
+      "sha256": "e9ba73e054ed52a7fd029fa75a9c80872c0e9cf9a29f71f83cf41fe27a6f9c23"
+    },
+    {
+      "name": "part-011.txt",
+      "size": 90000,
+      "sha256": "5a1cc4a87fd0d6b88ca5609d3c241a0a25d5272f98a6537bc96a362bbcc597cd"
+    },
+    {
+      "name": "part-012.txt",
+      "size": 90000,
+      "sha256": "8862a3a2973ce1ec2ed233dcca0e926ac506ef9d7b2a4ab3aa3dac257f1cf89d"
+    },
+    {
+      "name": "part-013.txt",
+      "size": 78948,
+      "sha256": "c84fbe902f2f39e2e13e8953353119716d984948010260994a6ca491e9a8778d"
+    }
+  ]
+}

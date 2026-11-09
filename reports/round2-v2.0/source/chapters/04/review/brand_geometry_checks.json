@@ -1,0 +1,20 @@
+{
+  "mother_mark_unchanged": true,
+  "geometry": [
+    {
+      "file": "chapter4_navigation",
+      "labels": 18,
+      "outside": []
+    },
+    {
+      "file": "chapter4_dimensions",
+      "labels": 8,
+      "outside": []
+    },
+    {
+      "file": "chapter4_closing",
+      "labels": 23,
+      "outside": []
+    }
+  ]
+}

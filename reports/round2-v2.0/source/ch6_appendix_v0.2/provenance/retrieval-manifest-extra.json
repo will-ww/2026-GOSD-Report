@@ -1,0 +1,52 @@
+[
+  {
+    "file": "gemma2-official-model-card.html",
+    "url": "https://ai.google.dev/gemma/docs/core/model_card_2",
+    "checked_at": "2026-11-07T03:14:12.447468+00:00",
+    "status": 200,
+    "final_url": "https://ai.google.dev/gemma/docs/core/model_card_2",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 153929,
+    "sha256": "546e22a69c9aec354f8ab32eb44605bf265380a431465fb4a0bf30e6c944f2e7"
+  },
+  {
+    "file": "OLMo-090253d--stage1.yaml",
+    "url": "https://raw.githubusercontent.com/allenai/OLMo/090253dac6688f2532509daa7aa2eb5fae50e956/configs/official-1124/OLMo2-7B-stage1.yaml",
+    "checked_at": "2026-11-07T03:14:12.448570+00:00",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/allenai/OLMo/090253dac6688f2532509daa7aa2eb5fae50e956/configs/official-1124/OLMo2-7B-stage1.yaml",
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 164090,
+    "sha256": "5e68e7b1be2eff3749790f6e122cba93f029b75602c0c241cf5269451dc0d081"
+  },
+  {
+    "file": "OLMo-090253d--stage2.yaml",
+    "url": "https://raw.githubusercontent.com/allenai/OLMo/090253dac6688f2532509daa7aa2eb5fae50e956/configs/official-1124/OLMo2-7B-stage2-seed42.yaml",
+    "checked_at": "2026-11-07T03:14:12.449262+00:00",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/allenai/OLMo/090253dac6688f2532509daa7aa2eb5fae50e956/configs/official-1124/OLMo2-7B-stage2-seed42.yaml",
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 71356,
+    "sha256": "4bfc2ee95a562e190f983a0f693b0329a0513347d51bdc62afb27223f0f18328"
+  },
+  {
+    "file": "olmo-mix-1124-dataset-api.json",
+    "url": "https://huggingface.co/api/datasets/allenai/olmo-mix-1124",
+    "checked_at": "2026-11-07T03:14:12.449950+00:00",
+    "status": 200,
+    "final_url": "https://huggingface.co/api/datasets/allenai/olmo-mix-1124",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 7111851,
+    "sha256": "756e4bbe1ff2a8e999473b56d74418a0c0110a3f0fbd17159c1aee4b5c890a5c"
+  },
+  {
+    "file": "dolmino-mix-1124-dataset-api.json",
+    "url": "https://huggingface.co/api/datasets/allenai/dolmino-mix-1124",
+    "checked_at": "2026-11-07T03:14:12.450770+00:00",
+    "status": 200,
+    "final_url": "https://huggingface.co/api/datasets/allenai/dolmino-mix-1124",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 611511,
+    "sha256": "c2f0566d06da98e88cb3f1388b856532f849164f32e35c509811a75acd7aa6f0"
+  }
+]

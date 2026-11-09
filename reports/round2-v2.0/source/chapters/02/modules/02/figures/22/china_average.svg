@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="126mm" viewBox="0 0 170 126"><rect width="170" height="126" fill="white" />
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB" /><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#329A9B" stroke-width="0.3" /></pattern></defs>
+<text x="1.0000" y="6.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.98639" font-weight="700" fill="#142C49" text-anchor="start">在贡献规模前十地区中，平均贡献的次序不同</text>
+<text x="1.0000" y="13.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">平均贡献＝贡献度 ÷ 活跃开发者数；样本按贡献总量选取</text>
+<text x="1.0000" y="25.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#506778" text-anchor="start">地区</text>
+<text x="35.0000" y="25.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#506778" text-anchor="start">平均贡献 / OpenRank每人</text>
+<text x="169.0000" y="25.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#506778" text-anchor="end">活跃人数 / 万</text>
+<path d="M98.324,29.000 L98.324,108.000" fill="none" stroke="#AABCC3" stroke-width="0.35" stroke-dasharray="1.4 1.1" />
+<text x="1.0000" y="36.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="700" fill="#142C49" text-anchor="start">浙江</text>
+<rect x="35.0000" y="32.7000" width="80.3027" height="3.6000" rx="0" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="140.0000" y="36.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="700" fill="#007D78" text-anchor="end">0.655</text>
+<text x="169.0000" y="36.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">21.54</text>
+<text x="1.0000" y="43.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="700" fill="#142C49" text-anchor="start">台湾</text>
+<rect x="35.0000" y="40.4000" width="78.9394" height="3.6000" rx="0" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="140.0000" y="43.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="700" fill="#007D78" text-anchor="end">0.644</text>
+<text x="169.0000" y="43.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">21.78</text>
+<text x="1.0000" y="51.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="700" fill="#142C49" text-anchor="start">上海</text>
+<rect x="35.0000" y="48.1000" width="74.2250" height="3.6000" rx="0" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="140.0000" y="51.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="700" fill="#007D78" text-anchor="end">0.605</text>
+<text x="169.0000" y="51.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">38.26</text>
+<text x="1.0000" y="59.1000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="400" fill="#142C49" text-anchor="start">四川</text>
+<rect x="35.0000" y="55.8000" width="66.2278" height="3.6000" rx="0" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="140.0000" y="59.1000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="700" fill="#007D78" text-anchor="end">0.540</text>
+<text x="169.0000" y="59.1000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">10.98</text>
+<text x="1.0000" y="66.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="400" fill="#142C49" text-anchor="start">北京</text>
+<rect x="35.0000" y="63.5000" width="60.7535" height="3.6000" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="140.0000" y="66.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="700" fill="#155F91" text-anchor="end">0.495</text>
+<text x="169.0000" y="66.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">51.49</text>
+<text x="1.0000" y="74.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="400" fill="#142C49" text-anchor="start">福建</text>
+<rect x="35.0000" y="71.2000" width="59.7307" height="3.6000" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="140.0000" y="74.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="700" fill="#155F91" text-anchor="end">0.487</text>
+<text x="169.0000" y="74.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">3.88</text>
+<text x="1.0000" y="82.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="400" fill="#142C49" text-anchor="start">广东</text>
+<rect x="35.0000" y="78.9000" width="56.4493" height="3.6000" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="140.0000" y="82.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="700" fill="#155F91" text-anchor="end">0.460</text>
+<text x="169.0000" y="82.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">33.50</text>
+<text x="1.0000" y="89.9000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="400" fill="#142C49" text-anchor="start">陕西</text>
+<rect x="35.0000" y="86.6000" width="52.0706" height="3.6000" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="140.0000" y="89.9000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="700" fill="#155F91" text-anchor="end">0.424</text>
+<text x="169.0000" y="89.9000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">4.99</text>
+<text x="1.0000" y="97.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="400" fill="#142C49" text-anchor="start">湖北</text>
+<rect x="35.0000" y="94.3000" width="51.7479" height="3.6000" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="140.0000" y="97.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="700" fill="#155F91" text-anchor="end">0.422</text>
+<text x="169.0000" y="97.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">7.91</text>
+<text x="1.0000" y="105.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="400" fill="#142C49" text-anchor="start">江苏</text>
+<rect x="35.0000" y="102.0000" width="47.0660" height="3.6000" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="140.0000" y="105.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="700" fill="#155F91" text-anchor="end">0.384</text>
+<text x="169.0000" y="105.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">12.80</text>
+<path d="M35.000,109.000 L127.000,109.000" fill="none" stroke="#D8E3E9" stroke-width="0.22" />
+<text x="35.0000" y="114.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.92806" font-weight="400" fill="#506778" text-anchor="middle">0</text>
+<text x="65.6667" y="114.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.92806" font-weight="400" fill="#506778" text-anchor="middle">0.25</text>
+<text x="96.3333" y="114.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.92806" font-weight="400" fill="#506778" text-anchor="middle">0.5</text>
+<text x="127.0000" y="114.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.92806" font-weight="400" fill="#506778" text-anchor="middle">0.75</text>
+<text x="1.0000" y="123.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.03389" font-weight="400" fill="#506778" text-anchor="start">虚线为34地合计比值 0.516；不是个人贡献的中位数。</text></svg>

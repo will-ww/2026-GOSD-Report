@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="137mm" viewBox="0 0 170 137"><rect width="170" height="137" fill="white"/>
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB"/><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#49A1A0" stroke-width="0.3"/></pattern></defs>
+<text x="1.0000" y="6.0000" font-family="Noto Sans CJK SC" font-size="4.23333" font-weight="700" fill="#193C4E" text-anchor="start">两组项目样本的本土与跨境来源构成不同</text>
+<text x="1.0000" y="12.0000" font-family="Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#57717D" text-anchor="start">两组样本分别归一为100%；带宽表示份额，不表示两组贡献总量相等</text>
+<text x="1.0000" y="22.0000" font-family="Noto Sans CJK SC" font-size="3.73944" font-weight="700" fill="#49A1A0" text-anchor="start">中国归属项目样本</text>
+<text x="1.0000" y="29.0000" font-family="Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#57717D" text-anchor="start">贡献来源</text>
+<text x="79.0000" y="29.0000" font-family="Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#57717D" text-anchor="end">项目归属</text>
+<path d="M31.4000,35.0000 C50.4820,35.0000 52.9180,45.2000 72.0000,45.2000 L72.0000,93.9203 C52.9180,93.9203 50.4820,83.7203 31.4000,83.7203 Z" fill="#49A1A0" stroke="none" stroke-width="0" opacity="0.42" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="29.0000" y="35.0000" width="2.4000" height="48.7203" rx="0" fill="#49A1A0" stroke="none" stroke-width="0.18"/>
+<rect x="72.0000" y="45.2000" width="3.0000" height="48.7203" rx="0" fill="#49A1A0" stroke="none" stroke-width="0.18"/>
+<text x="1.0000" y="58.8601" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#193C4E" text-anchor="start">中国</text>
+<text x="1.0000" y="63.3601" font-family="Noto Sans CJK SC" font-size="3.59833" font-weight="700" fill="#49A1A0" text-anchor="start">79.22%</text>
+<path d="M31.4000,90.5203 C50.4820,90.5203 52.9180,93.9203 72.0000,93.9203 L72.0000,97.7456 C52.9180,97.7456 50.4820,94.3456 31.4000,94.3456 Z" fill="#3E6686" stroke="none" stroke-width="0" opacity="0.42" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="29.0000" y="90.5203" width="2.4000" height="3.8253" rx="0" fill="#3E6686" stroke="none" stroke-width="0.18"/>
+<rect x="72.0000" y="93.9203" width="3.0000" height="3.8253" rx="0" fill="#3E6686" stroke="none" stroke-width="0.18"/>
+<text x="1.0000" y="91.9329" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#193C4E" text-anchor="start">美国</text>
+<text x="1.0000" y="96.4329" font-family="Noto Sans CJK SC" font-size="3.59833" font-weight="700" fill="#3E6686" text-anchor="start">6.22%</text>
+<path d="M31.4000,101.1456 C50.4820,101.1456 52.9180,97.7456 72.0000,97.7456 L72.0000,102.5426 C52.9180,102.5426 50.4820,105.9426 31.4000,105.9426 Z" fill="#889CAB" stroke="none" stroke-width="0" opacity="0.42" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="29.0000" y="101.1456" width="2.4000" height="4.7970" rx="0" fill="#889CAB" stroke="none" stroke-width="0.18"/>
+<rect x="72.0000" y="97.7456" width="3.0000" height="4.7970" rx="0" fill="#889CAB" stroke="none" stroke-width="0.18"/>
+<text x="1.0000" y="103.0441" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#193C4E" text-anchor="start">其余已列8国</text>
+<text x="1.0000" y="107.5441" font-family="Noto Sans CJK SC" font-size="3.59833" font-weight="700" fill="#889CAB" text-anchor="start">7.80%</text>
+<path d="M31.4000,112.7426 C50.4820,112.7426 52.9180,102.5426 72.0000,102.5426 L72.0000,106.7000 C52.9180,106.7000 50.4820,116.9000 31.4000,116.9000 Z" fill="#C9D1D7" stroke="none" stroke-width="0" opacity="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="29.0000" y="112.7426" width="2.4000" height="4.1574" rx="0" fill="#C9D1D7" stroke="none" stroke-width="0.18"/>
+<rect x="72.0000" y="102.5426" width="3.0000" height="4.1574" rx="0" fill="#C9D1D7" stroke="none" stroke-width="0.18"/>
+<text x="1.0000" y="114.3213" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#57717D" text-anchor="start">未列来源</text>
+<text x="1.0000" y="118.8213" font-family="Noto Sans CJK SC" font-size="3.59833" font-weight="700" fill="#57717D" text-anchor="start">6.76%</text>
+<text x="73.5000" y="111.5000" font-family="Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#57717D" text-anchor="middle">100%</text>
+<text x="1.0000" y="125.0000" font-family="Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#57717D" text-anchor="start">已列贡献度</text>
+<text x="81.0000" y="125.0000" font-family="Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#49A1A0" text-anchor="end">29,666.10</text>
+<text x="1.0000" y="132.0000" font-family="Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#57717D" text-anchor="start">OpenRank；不含未列来源的贡献值</text>
+<text x="89.0000" y="22.0000" font-family="Noto Sans CJK SC" font-size="3.73944" font-weight="700" fill="#3E6686" text-anchor="start">美国归属项目样本</text>
+<text x="89.0000" y="29.0000" font-family="Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#57717D" text-anchor="start">贡献来源</text>
+<text x="167.0000" y="29.0000" font-family="Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#57717D" text-anchor="end">项目归属</text>
+<path d="M119.4000,35.0000 C138.4820,35.0000 140.9180,45.2000 160.0000,45.2000 L160.0000,68.7422 C140.9180,68.7422 138.4820,58.5422 119.4000,58.5422 Z" fill="#3E6686" stroke="none" stroke-width="0" opacity="0.42" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="117.0000" y="35.0000" width="2.4000" height="23.5422" rx="0" fill="#3E6686" stroke="none" stroke-width="0.18"/>
+<rect x="160.0000" y="45.2000" width="3.0000" height="23.5422" rx="0" fill="#3E6686" stroke="none" stroke-width="0.18"/>
+<text x="89.0000" y="46.2711" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#193C4E" text-anchor="start">美国</text>
+<text x="89.0000" y="50.7711" font-family="Noto Sans CJK SC" font-size="3.59833" font-weight="700" fill="#3E6686" text-anchor="start">38.28%</text>
+<path d="M119.4000,65.3422 C138.4820,65.3422 140.9180,68.7422 160.0000,68.7422 L160.0000,73.5269 C140.9180,73.5269 138.4820,70.1269 119.4000,70.1269 Z" fill="#49A1A0" stroke="none" stroke-width="0" opacity="0.42" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="117.0000" y="65.3422" width="2.4000" height="4.7847" rx="0" fill="#49A1A0" stroke="none" stroke-width="0.18"/>
+<rect x="160.0000" y="68.7422" width="3.0000" height="4.7847" rx="0" fill="#49A1A0" stroke="none" stroke-width="0.18"/>
+<text x="89.0000" y="67.2345" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#193C4E" text-anchor="start">中国</text>
+<text x="89.0000" y="71.7345" font-family="Noto Sans CJK SC" font-size="3.59833" font-weight="700" fill="#49A1A0" text-anchor="start">7.78%</text>
+<path d="M119.4000,76.9269 C138.4820,76.9269 140.9180,73.5269 160.0000,73.5269 L160.0000,93.1331 C140.9180,93.1331 138.4820,96.5331 119.4000,96.5331 Z" fill="#889CAB" stroke="none" stroke-width="0" opacity="0.42" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="117.0000" y="76.9269" width="2.4000" height="19.6062" rx="0" fill="#889CAB" stroke="none" stroke-width="0.18"/>
+<rect x="160.0000" y="73.5269" width="3.0000" height="19.6062" rx="0" fill="#889CAB" stroke="none" stroke-width="0.18"/>
+<text x="89.0000" y="86.2300" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#193C4E" text-anchor="start">其余已列8国</text>
+<text x="89.0000" y="90.7300" font-family="Noto Sans CJK SC" font-size="3.59833" font-weight="700" fill="#889CAB" text-anchor="start">31.88%</text>
+<path d="M119.4000,103.3331 C138.4820,103.3331 140.9180,93.1331 160.0000,93.1331 L160.0000,106.7000 C140.9180,106.7000 138.4820,116.9000 119.4000,116.9000 Z" fill="#C9D1D7" stroke="none" stroke-width="0" opacity="0.65" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="117.0000" y="103.3331" width="2.4000" height="13.5669" rx="0" fill="#C9D1D7" stroke="none" stroke-width="0.18"/>
+<rect x="160.0000" y="93.1331" width="3.0000" height="13.5669" rx="0" fill="#C9D1D7" stroke="none" stroke-width="0.18"/>
+<text x="89.0000" y="109.6166" font-family="Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#57717D" text-anchor="start">未列来源</text>
+<text x="89.0000" y="114.1166" font-family="Noto Sans CJK SC" font-size="3.59833" font-weight="700" fill="#57717D" text-anchor="start">22.06%</text>
+<text x="161.5000" y="111.5000" font-family="Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#57717D" text-anchor="middle">100%</text>
+<text x="89.0000" y="125.0000" font-family="Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#57717D" text-anchor="start">已列贡献度</text>
+<text x="169.0000" y="125.0000" font-family="Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#3E6686" text-anchor="end">244,808.40</text>
+<text x="89.0000" y="132.0000" font-family="Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#57717D" text-anchor="start">OpenRank；不含未列来源的贡献值</text>
+<path d="M85.000,19.000 L85.000,133.000" fill="none" stroke="#D8E4E7" stroke-width="0.25"/></svg>

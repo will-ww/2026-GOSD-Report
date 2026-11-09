@@ -1,0 +1,13 @@
+\documentclass[11pt,a4paper,openany,oneside]{book}
+\usepackage{design/gosd-book}
+\hypersetup{pdftitle={2026全球开源发展报告：第六章清洁整理评审稿 v0.1},pdfsubject={动态星座视觉体系v2.0.0；主统计期2025-07-01至2026-06-30；未公开发布}}
+\newcommand{\plate}[3]{\par\vspace{2pt}\noindent\begin{minipage}{\linewidth}\centering\includegraphics[width=\linewidth]{#1}\par\vspace{4pt}\raggedright{\sffamily\bfseries\fontsize{10}{14}\selectfont\color{navy}#2\par}\src{#3}\end{minipage}\par\vspace{4pt}}
+\newcommand{\NewPage}[4]{\clearpage\SetRegion{#1}{gold}{network}\phantomsection\pdfbookmark[1]{#1：#2}{#4}\kicker{#1}\PageTitle{#2}{#3}}
+\newcommand{\Action}[4]{\par\vspace{8pt}\noindent\begin{minipage}[t]{12mm}\vspace{0pt}{\sffamily\bfseries\fontsize{22}{27}\selectfont\color{gold}#1}\end{minipage}\begin{minipage}[t]{\dimexpr\linewidth-12mm\relax}\vspace{0pt}{\sffamily\bfseries\fontsize{13}{19}\selectfont\color{deep}#2\par}\vspace{4pt}{\fontsize{11}{18.1}\selectfont#3\par}\vspace{3pt}{\sffamily\fontsize{9.2}{13.5}\selectfont\color{gold}\textbf{观察结果}\quad #4\par}\end{minipage}\par\vspace{9pt}\noindent{\color{line}\rule{\linewidth}{.3pt}}\par}
+\begin{document}
+\FullPage{figures/new/chapter6_cover.pdf}{chapter6-cover}{第六章 未来展望与行动建议}
+\input{content/chapter6.tex}
+\FullPage{figures/new/chapter6_closing.pdf}{chapter6-closing}{第六章回望：让开放资源成为持续的公共能力}
+\input{content/appendix_a.tex}
+\input{content/thanks.tex}
+\end{document}

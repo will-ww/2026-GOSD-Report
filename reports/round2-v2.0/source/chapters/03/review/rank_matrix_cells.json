@@ -1,0 +1,3243 @@
+{
+  "cells": [
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "微软",
+      "period": "2025-07",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "微软",
+      "period": "2025-08",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "微软",
+      "period": "2025-09",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "微软",
+      "period": "2025-10",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "微软",
+      "period": "2025-11",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "微软",
+      "period": "2025-12",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "微软",
+      "period": "2026-01",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "微软",
+      "period": "2026-02",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "微软",
+      "period": "2026-03",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "微软",
+      "period": "2026-04",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "微软",
+      "period": "2026-05",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "微软",
+      "period": "2026-06",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2025-07",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2025-08",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2025-09",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2025-10",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2025-11",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2025-12",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2026-01",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2026-02",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2026-03",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2026-04",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2026-05",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2026-06",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "谷歌",
+      "period": "2025-07",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "谷歌",
+      "period": "2025-08",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "谷歌",
+      "period": "2025-09",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "谷歌",
+      "period": "2025-10",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "谷歌",
+      "period": "2025-11",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "谷歌",
+      "period": "2025-12",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "谷歌",
+      "period": "2026-01",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "谷歌",
+      "period": "2026-02",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "谷歌",
+      "period": "2026-03",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "谷歌",
+      "period": "2026-04",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "谷歌",
+      "period": "2026-05",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "谷歌",
+      "period": "2026-06",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Meta",
+      "period": "2025-07",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Meta",
+      "period": "2025-08",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Meta",
+      "period": "2025-09",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Meta",
+      "period": "2025-10",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Meta",
+      "period": "2025-11",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Meta",
+      "period": "2025-12",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Meta",
+      "period": "2026-01",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Meta",
+      "period": "2026-02",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Meta",
+      "period": "2026-03",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Meta",
+      "period": "2026-04",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Meta",
+      "period": "2026-05",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Meta",
+      "period": "2026-06",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2025-07",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2025-08",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2025-09",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2025-10",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2025-11",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2025-12",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2026-01",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2026-02",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2026-03",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2026-04",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2026-05",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2026-06",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "英伟达",
+      "period": "2025-07",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "英伟达",
+      "period": "2025-08",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "英伟达",
+      "period": "2025-09",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "英伟达",
+      "period": "2025-10",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "英伟达",
+      "period": "2025-11",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "英伟达",
+      "period": "2025-12",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "英伟达",
+      "period": "2026-01",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "英伟达",
+      "period": "2026-02",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "英伟达",
+      "period": "2026-03",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "英伟达",
+      "period": "2026-04",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "英伟达",
+      "period": "2026-05",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "英伟达",
+      "period": "2026-06",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "红帽",
+      "period": "2025-07",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "红帽",
+      "period": "2025-08",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "红帽",
+      "period": "2025-09",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "红帽",
+      "period": "2025-10",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "红帽",
+      "period": "2025-11",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "红帽",
+      "period": "2025-12",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "红帽",
+      "period": "2026-01",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "红帽",
+      "period": "2026-02",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "红帽",
+      "period": "2026-03",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "红帽",
+      "period": "2026-04",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "红帽",
+      "period": "2026-05",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "红帽",
+      "period": "2026-06",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Elastic",
+      "period": "2025-07",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Elastic",
+      "period": "2025-08",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Elastic",
+      "period": "2025-09",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Elastic",
+      "period": "2025-10",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Elastic",
+      "period": "2025-11",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Elastic",
+      "period": "2025-12",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Elastic",
+      "period": "2026-01",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Elastic",
+      "period": "2026-02",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Elastic",
+      "period": "2026-03",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Elastic",
+      "period": "2026-04",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Elastic",
+      "period": "2026-05",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Elastic",
+      "period": "2026-06",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2025-07",
+      "display": 13,
+      "raw": "13"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2025-08",
+      "display": 13,
+      "raw": "13"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2025-09",
+      "display": 14,
+      "raw": "14"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2025-10",
+      "display": 12,
+      "raw": "12"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2025-11",
+      "display": 12,
+      "raw": "12"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2025-12",
+      "display": 10,
+      "raw": "10"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2026-01",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2026-02",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2026-03",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2026-04",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2026-05",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2026-06",
+      "display": 13,
+      "raw": "13"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2025-07",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2025-08",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2025-09",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2025-10",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2025-11",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2025-12",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2026-01",
+      "display": 10,
+      "raw": "10"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2026-02",
+      "display": 10,
+      "raw": "10"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2026-03",
+      "display": 10,
+      "raw": "10"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2026-04",
+      "display": 11,
+      "raw": "11"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2026-05",
+      "display": 11,
+      "raw": "11"
+    },
+    {
+      "source": "fig-3-2-2_global_company_monthly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2026-06",
+      "display": 10,
+      "raw": "10"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2025-07",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2025-08",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2025-09",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2025-10",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2025-11",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2025-12",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2026-01",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2026-02",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2026-03",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2026-04",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2026-05",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "华为",
+      "period": "2026-06",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2025-07",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2025-08",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2025-09",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2025-10",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2025-11",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2025-12",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2026-01",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2026-02",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2026-03",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2026-04",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2026-05",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2026-06",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2025-07",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2025-08",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2025-09",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2025-10",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2025-11",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2025-12",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2026-01",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2026-02",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2026-03",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2026-04",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2026-05",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2026-06",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2025-07",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2025-08",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2025-09",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2025-10",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2025-11",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2025-12",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2026-01",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2026-02",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2026-03",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2026-04",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2026-05",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2026-06",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "百度",
+      "period": "2025-07",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "百度",
+      "period": "2025-08",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "百度",
+      "period": "2025-09",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "百度",
+      "period": "2025-10",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "百度",
+      "period": "2025-11",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "百度",
+      "period": "2025-12",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "百度",
+      "period": "2026-01",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "百度",
+      "period": "2026-02",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "百度",
+      "period": "2026-03",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "百度",
+      "period": "2026-04",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "百度",
+      "period": "2026-05",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "百度",
+      "period": "2026-06",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "腾讯",
+      "period": "2025-07",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "腾讯",
+      "period": "2025-08",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "腾讯",
+      "period": "2025-09",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "腾讯",
+      "period": "2025-10",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "腾讯",
+      "period": "2025-11",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "腾讯",
+      "period": "2025-12",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "腾讯",
+      "period": "2026-01",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "腾讯",
+      "period": "2026-02",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "腾讯",
+      "period": "2026-03",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "腾讯",
+      "period": "2026-04",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "腾讯",
+      "period": "2026-05",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "腾讯",
+      "period": "2026-06",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2025-07",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2025-08",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2025-09",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2025-10",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2025-11",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2025-12",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2026-01",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2026-02",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2026-03",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2026-04",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2026-05",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2026-06",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "飞致云",
+      "period": "2025-07",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "飞致云",
+      "period": "2025-08",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "飞致云",
+      "period": "2025-09",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "飞致云",
+      "period": "2025-10",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "飞致云",
+      "period": "2025-11",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "飞致云",
+      "period": "2025-12",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "飞致云",
+      "period": "2026-01",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "飞致云",
+      "period": "2026-02",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "飞致云",
+      "period": "2026-03",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "飞致云",
+      "period": "2026-04",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "飞致云",
+      "period": "2026-05",
+      "display": 10,
+      "raw": "10"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "飞致云",
+      "period": "2026-06",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2025-07",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2025-08",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2025-09",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2025-10",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2025-11",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2025-12",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2026-01",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2026-02",
+      "display": 10,
+      "raw": "10"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2026-03",
+      "display": 10,
+      "raw": "10"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2026-04",
+      "display": 10,
+      "raw": "10"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2026-05",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2026-06",
+      "display": 11,
+      "raw": "11"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2025-07",
+      "display": 11,
+      "raw": "11"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2025-08",
+      "display": 11,
+      "raw": "11"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2025-09",
+      "display": 11,
+      "raw": "11"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2025-10",
+      "display": 11,
+      "raw": "11"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2025-11",
+      "display": 11,
+      "raw": "11"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2025-12",
+      "display": 11,
+      "raw": "11"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2026-01",
+      "display": 10,
+      "raw": "10"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2026-02",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2026-03",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2026-04",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2026-05",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-4_china_company_monthly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2026-06",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "微软",
+      "period": "2016",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "微软",
+      "period": "2017",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "微软",
+      "period": "2018",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "微软",
+      "period": "2019",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "微软",
+      "period": "2020",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "微软",
+      "period": "2021",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "微软",
+      "period": "2022",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "微软",
+      "period": "2023",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "微软",
+      "period": "2024",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "微软",
+      "period": "2025",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "微软",
+      "period": "2026",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2016",
+      "display": 148,
+      "raw": "148"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2017",
+      "display": 112,
+      "raw": "112"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2018",
+      "display": 97,
+      "raw": "97"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2019",
+      "display": 66,
+      "raw": "66"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2020",
+      "display": 24,
+      "raw": "24"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2021",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2022",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2023",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2024",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2025",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2026",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "谷歌",
+      "period": "2016",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "谷歌",
+      "period": "2017",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "谷歌",
+      "period": "2018",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "谷歌",
+      "period": "2019",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "谷歌",
+      "period": "2020",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "谷歌",
+      "period": "2021",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "谷歌",
+      "period": "2022",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "谷歌",
+      "period": "2023",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "谷歌",
+      "period": "2024",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "谷歌",
+      "period": "2025",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "谷歌",
+      "period": "2026",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Meta",
+      "period": "2016",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Meta",
+      "period": "2017",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Meta",
+      "period": "2018",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Meta",
+      "period": "2019",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Meta",
+      "period": "2020",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Meta",
+      "period": "2021",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Meta",
+      "period": "2022",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Meta",
+      "period": "2023",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Meta",
+      "period": "2024",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Meta",
+      "period": "2025",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Meta",
+      "period": "2026",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2016",
+      "display": 10,
+      "raw": "10"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2017",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2018",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2019",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2020",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2021",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2022",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2023",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2024",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2025",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "亚马逊",
+      "period": "2026",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "英伟达",
+      "period": "2016",
+      "display": 67,
+      "raw": "67"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "英伟达",
+      "period": "2017",
+      "display": 80,
+      "raw": "80"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "英伟达",
+      "period": "2018",
+      "display": 51,
+      "raw": "51"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "英伟达",
+      "period": "2019",
+      "display": 23,
+      "raw": "23"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "英伟达",
+      "period": "2020",
+      "display": 18,
+      "raw": "18"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "英伟达",
+      "period": "2021",
+      "display": 20,
+      "raw": "20"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "英伟达",
+      "period": "2022",
+      "display": 18,
+      "raw": "18"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "英伟达",
+      "period": "2023",
+      "display": 17,
+      "raw": "17"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "英伟达",
+      "period": "2024",
+      "display": 12,
+      "raw": "12"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "英伟达",
+      "period": "2025",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "英伟达",
+      "period": "2026",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "红帽",
+      "period": "2016",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "红帽",
+      "period": "2017",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "红帽",
+      "period": "2018",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "红帽",
+      "period": "2019",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "红帽",
+      "period": "2020",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "红帽",
+      "period": "2021",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "红帽",
+      "period": "2022",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "红帽",
+      "period": "2023",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "红帽",
+      "period": "2024",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "红帽",
+      "period": "2025",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "红帽",
+      "period": "2026",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Elastic",
+      "period": "2016",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Elastic",
+      "period": "2017",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Elastic",
+      "period": "2018",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Elastic",
+      "period": "2019",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Elastic",
+      "period": "2020",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Elastic",
+      "period": "2021",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Elastic",
+      "period": "2022",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Elastic",
+      "period": "2023",
+      "display": 10,
+      "raw": "10"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Elastic",
+      "period": "2024",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Elastic",
+      "period": "2025",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Elastic",
+      "period": "2026",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2016",
+      "display": null,
+      "raw": ""
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2017",
+      "display": null,
+      "raw": ""
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2018",
+      "display": null,
+      "raw": ""
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2019",
+      "display": null,
+      "raw": ""
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2020",
+      "display": null,
+      "raw": ""
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2021",
+      "display": 289,
+      "raw": "289"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2022",
+      "display": 309,
+      "raw": "309"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2023",
+      "display": 307,
+      "raw": "307"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2024",
+      "display": 225,
+      "raw": "225"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2025",
+      "display": 22,
+      "raw": "22"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Anthropic",
+      "period": "2026",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2016",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2017",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2018",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2019",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2020",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2021",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2022",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2023",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2024",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2025",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-1_global_company_yearly_rank.csv",
+      "entity": "Mozilla",
+      "period": "2026",
+      "display": 10,
+      "raw": "10"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2016",
+      "display": 26,
+      "raw": "26"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2017",
+      "display": 13,
+      "raw": "13"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2018",
+      "display": 13,
+      "raw": "13"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2019",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2020",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2021",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2022",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2023",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2024",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2025",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "华为",
+      "period": "2026",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2016",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2017",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2018",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2019",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2020",
+      "display": 1,
+      "raw": "1"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2021",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2022",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2023",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2024",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2025",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "阿里巴巴",
+      "period": "2026",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2016",
+      "display": 33,
+      "raw": "33"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2017",
+      "display": null,
+      "raw": ""
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2018",
+      "display": 38,
+      "raw": "38"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2019",
+      "display": 38,
+      "raw": "38"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2020",
+      "display": 25,
+      "raw": "25"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2021",
+      "display": 10,
+      "raw": "10"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2022",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2023",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2024",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2025",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "字节跳动",
+      "period": "2026",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2016",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2017",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2018",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2019",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2020",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2021",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2022",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2023",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2024",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2025",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "蚂蚁集团",
+      "period": "2026",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "百度",
+      "period": "2016",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "百度",
+      "period": "2017",
+      "display": 2,
+      "raw": "2"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "百度",
+      "period": "2018",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "百度",
+      "period": "2019",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "百度",
+      "period": "2020",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "百度",
+      "period": "2021",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "百度",
+      "period": "2022",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "百度",
+      "period": "2023",
+      "display": 3,
+      "raw": "3"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "百度",
+      "period": "2024",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "百度",
+      "period": "2025",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "百度",
+      "period": "2026",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "腾讯",
+      "period": "2016",
+      "display": 13,
+      "raw": "13"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "腾讯",
+      "period": "2017",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "腾讯",
+      "period": "2018",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "腾讯",
+      "period": "2019",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "腾讯",
+      "period": "2020",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "腾讯",
+      "period": "2021",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "腾讯",
+      "period": "2022",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "腾讯",
+      "period": "2023",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "腾讯",
+      "period": "2024",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "腾讯",
+      "period": "2025",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "腾讯",
+      "period": "2026",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2016",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2017",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2018",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2019",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2020",
+      "display": 4,
+      "raw": "4"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2021",
+      "display": 5,
+      "raw": "5"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2022",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2023",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2024",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2025",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "PingCAP",
+      "period": "2026",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "飞致云",
+      "period": "2016",
+      "display": 21,
+      "raw": "21"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "飞致云",
+      "period": "2017",
+      "display": 22,
+      "raw": "22"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "飞致云",
+      "period": "2018",
+      "display": 18,
+      "raw": "18"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "飞致云",
+      "period": "2019",
+      "display": 19,
+      "raw": "19"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "飞致云",
+      "period": "2020",
+      "display": 12,
+      "raw": "12"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "飞致云",
+      "period": "2021",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "飞致云",
+      "period": "2022",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "飞致云",
+      "period": "2023",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "飞致云",
+      "period": "2024",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "飞致云",
+      "period": "2025",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "飞致云",
+      "period": "2026",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2016",
+      "display": 16,
+      "raw": "16"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2017",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2018",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2019",
+      "display": 6,
+      "raw": "6"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2020",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2021",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2022",
+      "display": 7,
+      "raw": "7"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2023",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2024",
+      "display": 10,
+      "raw": "10"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2025",
+      "display": 8,
+      "raw": "8"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "乐鑫科技",
+      "period": "2026",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2016",
+      "display": null,
+      "raw": ""
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2017",
+      "display": null,
+      "raw": ""
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2018",
+      "display": null,
+      "raw": ""
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2019",
+      "display": 42,
+      "raw": "42"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2020",
+      "display": 11,
+      "raw": "11"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2021",
+      "display": 9,
+      "raw": "9"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2022",
+      "display": 10,
+      "raw": "10"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2023",
+      "display": 10,
+      "raw": "10"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2024",
+      "display": 11,
+      "raw": "11"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2025",
+      "display": 12,
+      "raw": "12"
+    },
+    {
+      "source": "fig-3-2-3_china_company_yearly_rank.csv",
+      "entity": "赜睿信息科技",
+      "period": "2026",
+      "display": 10,
+      "raw": "10"
+    }
+  ],
+  "cell_count": 460,
+  "all_match": true,
+  "layout_checks": [
+    {
+      "file": "company_monthly_matrix",
+      "labels": 290,
+      "outside": []
+    },
+    {
+      "file": "company_global_history_matrix",
+      "labels": 141,
+      "outside": []
+    },
+    {
+      "file": "company_china_history_matrix",
+      "labels": 141,
+      "outside": []
+    }
+  ]
+}

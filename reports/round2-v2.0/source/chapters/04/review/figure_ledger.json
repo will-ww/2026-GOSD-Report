@@ -1,0 +1,86 @@
+[
+  {
+    "figure": "4-3",
+    "source": "sources/41/work/figures/03_category_rank.pdf",
+    "render": "figures/41/03_category_rank.pdf",
+    "revision": "preserved vector evidence graphic; tightened surrounding prose and captions"
+  },
+  {
+    "figure": "4-4",
+    "source": "sources/41/work/figures/04_monthly_positions.pdf",
+    "render": "figures/41/04_monthly_positions.pdf",
+    "revision": "preserved vector evidence graphic; tightened surrounding prose and captions"
+  },
+  {
+    "figure": "4-5",
+    "source": "sources/41/work/figures/05_category_trends.pdf",
+    "render": "figures/41/05_category_trends.pdf",
+    "revision": "preserved vector evidence graphic; tightened surrounding prose and captions"
+  },
+  {
+    "figure": "4-6",
+    "source": "sources/41/work/figures/08_common_shift.pdf",
+    "render": "figures/41/08_common_shift.pdf",
+    "revision": "preserved vector evidence graphic; tightened surrounding prose and captions"
+  },
+  {
+    "figure": "4-7",
+    "source": "sources/41/work/figures/06_inference_projects.pdf",
+    "render": "figures/41/06_inference_projects.pdf",
+    "revision": "preserved vector evidence graphic; tightened surrounding prose and captions"
+  },
+  {
+    "figure": "4-8",
+    "source": "sources/41/work/figures/07_within_categories.pdf",
+    "render": "figures/41/07_within_categories.pdf",
+    "revision": "preserved vector evidence graphic; tightened surrounding prose and captions"
+  },
+  {
+    "figure": "4-10",
+    "source": "sources/42/work/figures/02_concentration.pdf",
+    "render": "figures/42/02_concentration.pdf",
+    "revision": "preserved vector evidence graphic; tightened surrounding prose and captions"
+  },
+  {
+    "figure": "4-11",
+    "source": "sources/42/work/figures/04_publishers.pdf",
+    "render": "figures/42/04_publishers.pdf",
+    "revision": "preserved vector evidence graphic; tightened surrounding prose and captions"
+  },
+  {
+    "figure": "4-12",
+    "source": "sources/42/work/figures/03_full_category_detail.pdf",
+    "render": "figures/42/03_full_category_detail.pdf",
+    "revision": "preserved vector evidence graphic; tightened surrounding prose and captions"
+  },
+  {
+    "figure": "4-13",
+    "source": "sources/42/work/figures/05_overlap.pdf",
+    "render": "figures/42/05_overlap.pdf",
+    "revision": "preserved vector evidence graphic; tightened surrounding prose and captions"
+  },
+  {
+    "figure": "4-14",
+    "source": "sources/42/work/figures/06_robotics.pdf",
+    "render": "figures/42/06_robotics.pdf",
+    "revision": "preserved vector evidence graphic; tightened surrounding prose and captions"
+  },
+  {
+    "figure": "4-15",
+    "source": "sources/42/work/figures/08_hf_parameter.pdf",
+    "render": "figures/42/08_hf_parameter.pdf",
+    "revision": "preserved vector evidence graphic; tightened surrounding prose and captions"
+  },
+  {
+    "figure": "4-16",
+    "source": "sources/42/work/figures/09_hf_runtime.pdf",
+    "render": "figures/42/09_hf_runtime.pdf",
+    "revision": "preserved vector evidence graphic; tightened surrounding prose and captions"
+  },
+  {
+    "figure": "4-17",
+    "source": "sources/42/work/figures/07_task_paths.pdf",
+    "render": "figures/42/07_task_paths.pdf",
+    "revision": "preserved vector evidence graphic; tightened surrounding prose and captions"
+  }
+]

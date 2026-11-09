@@ -1,0 +1,18 @@
+{
+  "version": "0.8",
+  "pages": 27,
+  "main_period": [
+    "2025-07-01",
+    "2026-06-30"
+  ],
+  "rendered_pages": 27,
+  "font_objects": 47,
+  "all_fonts_embedded": true,
+  "links": 36,
+  "source_ledger_entries": 16,
+  "all_source_urls_present": true,
+  "missing_links": [],
+  "overflow_warnings": 0,
+  "removed_reference_section": true,
+  "sha256": "4eb653ab55bf10cdc6b837d677d14f3cbd65d5511a6a2faba3fcb4618a321ca0"
+}

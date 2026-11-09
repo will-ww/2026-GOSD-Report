@@ -1,0 +1,64 @@
+     OSDGs   /    GOSD 2026   全球开源发展报告                                          5.1 供给与贡献
+
+
+
+
+模型与数据的头部发布者不同
+
+按累计下载排序，中美两国的模型榜与组织关联数据集榜，前三位账号均不重合。同一组织名录
+内，资产类型已经改变头部名单，不能用模型榜代替数据供给的观察。
+A 模型发布者
+中国                                      累计下载 / 亿次    美国                         累计下载 / 亿次
+
+01 Qwen                                      38.23   01 sentence-transformers        74.58
+
+02 BAAI                                      19.88   02 google-bert                  43.17
+
+03 deepseek-ai                                4.03   03 openai                       31.40
+
+04 zai-org                                    1.75   04 google                        28.79
+
+05 Alibaba-NLP                                1.53   05 FacebookAI                    28.57
+
+06 hfl                                        1.09   06 facebook                      28.13
+
+07 hustvl                                     0.93   07 timm                          23.62
+
+08 OpenGVLab                                  0.92   08 microsoft                     23.23
+
+
+
+B 组织关联数据集发布者
+中国                                      累计下载 / 万次    美国                         累计下载 / 万次
+
+01 InternRobotics                           434.76   01 allenai                   10,522.08
+
+02 zai-org                                  365.64   02 argilla                   10,158.22
+
+03 OpenGVLab                                357.71   03 huggingface                8,497.17
+
+04 openbmb                                  305.45   04 Salesforce                 5,126.15
+
+05 BAAI                                     266.95   05 cais                       4,563.97
+
+06 llamafactory                             203.47   06 nvidia                     3,614.13
+
+07 opendatalab                              201.24   07 HuggingFaceFW              2,840.47
+
+08 amphion                                  174.58   08 openai                     2,530.11
+
+
+
+
+图5‑3      同一组织样本中模型与数据的头部名单
+来源：[5.1‑S2]。各国样本内按累计下载量取前八，突出前三。模型以亿次、数据集以万次计；同一资产中美共用从零开始的条长
+尺度。账号未归并为企业集团。
+
+     中国样本中，模型榜首为Qwen，组织关联数据集榜首为InternRobotics。模型部署、数据
+整理与评测更新，需要沿不同资源链寻找维护者。榜单只提供调查起点，不直接决定模型能力、
+采用规模或资助次序。
+
+
+
+
+OPEN SOURCE / A SHARED INTELLIGENT FUTURE                                                5

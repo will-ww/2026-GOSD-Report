@@ -1,0 +1,206 @@
+{
+  "version": "v1.0.0-chapter-review",
+  "pages": [
+    {
+      "title": "2.1 全球开源活跃地图（V-Map）",
+      "subtitle": "参与基础在扩大，活跃与增长呈现不同格局",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "开源协作从人的参与开始。一个地区积累了多少开发者，当期有多少人实际参与，新增活跃又发生在哪里，是三个彼此相关、却不能相互替代的问题。本节由全球进入五域与中国省级地区，观察参与规模、增长节奏和平台覆盖。"
+        },
+        {
+          "type": "group",
+          "assets": [
+            "world_map",
+            "world_rank"
+          ],
+          "caption": "全球活跃参与的空间分布与前20个国家读数",
+          "label": "world",
+          "source": "据归档GitHub口径，2025-07-01—2026-06-30。底图未匹配项不作零值，圆心仅用于定位。[[world]]"
+        }
+      ]
+    },
+    {
+      "title": "2.1.1 全球参与：进入生态与持续活跃并不同步",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "2026报告年度，归档记录中的开发者总量约为**1.94亿**，活跃开发者约为**2,890万**。总量反映长期积累的参与基础，活跃人数则反映当期发生了纳入统计的协作。两者均在扩大，但增长速度并不一致。[[world]]"
+        },
+        {
+          "type": "figure",
+          "asset": "global_comparison",
+          "caption": "参与基础与当期活跃：相对增长和地区排序的双重观察",
+          "label": "tempo",
+          "source": null
+        },
+        {
+          "type": "p",
+          "text": "2022—2026报告年度，开发者总量增至期初的**2.32倍**，活跃人数增至**1.87倍**；最近一年分别增长23.7%和9.3%。地区排序也有所不同：英国的开发者总量高于德国，当期活跃人数却较少。较大的参与基础，不会自动转化为同等规模的当期协作。"
+        },
+        {
+          "type": "p",
+          "text": "累计基础保留了过去进入生态的人，当期活跃还受到首次参与、持续参与、回流与暂停参与共同影响。因而，活跃增速较低不能直接解释为参与意愿下降，也不能由两个年度汇总值推算同一批人的留存率。"
+        },
+        {
+          "type": "p",
+          "text": "AI进一步增加了解读这类变化的必要性。同一个人借助工具完成更多工作，活动次数会上升，在去重人数中却仍只计一次。GitHub的外部观察提供了活动加速的背景，详见2.5节；本节不据此判断AI对人数增长的净影响。[[octoverse]]"
+        }
+      ]
+    },
+    {
+      "title": "2.1.2 五域比较：规模之外，还有覆盖差异",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "五域比较显示，欧美中已形成相近的开发者基础：三组总量均接近3,000万。当观察转向实际活跃，欧洲居首，美国与中国较为接近。参与基础与当期协作因此需要分别比较，不能用一张总量排行概括。[[five]]"
+        },
+        {
+          "type": "figure",
+          "asset": "five_activity",
+          "caption": "五域开发者总量与当期活跃规模",
+          "label": "five",
+          "source": null
+        },
+        {
+          "type": "p",
+          "text": "平台覆盖还会改变可见的参与格局。GitHub口径下，中国约有250.48万活跃开发者，低于印度的285.09万；按编制组另行登记的约120万本土平台去重补充量，中国观测规模约为370万。它说明本土平台承载的参与不宜忽略，而非建立新的统一全球排名。[[platform]]"
+        },
+        {
+          "type": "figure",
+          "asset": "platform_coverage",
+          "caption": "扩大平台覆盖后，部分参与力量才进入视野",
+          "label": "coverage",
+          "source": null
+        },
+        {
+          "type": "note",
+          "text": "覆盖比较中，美国和印度仍仅含GitHub；中国补充量来自Gitee、AtomGit等平台资料与问卷记录，其去重执行待核。不重复加入五域表，也不按比例分配至省份。"
+        }
+      ]
+    },
+    {
+      "title": "规模中心与成长中的社区，需要不同的观察",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "已有规模决定当前可见的参与基础，相对增幅揭示各组相对于自身起点的扩张。将两种排序并列，能避免只看大群体而忽视较快成长的社区，也避免只看高增幅而忽略基数。[[five]]"
+        },
+        {
+          "type": "figure",
+          "asset": "five_compass",
+          "caption": "五域活跃规模与相对扩张：两种排序，两类观察",
+          "label": "growth",
+          "source": null
+        },
+        {
+          "type": "p",
+          "text": "欧洲的当期活跃规模最高，南方六国代表组和印度的累计扩张更快，分别达到2022年的**2.23倍与2.16倍**。中国约为1.91倍，最近一年增长42.0%。不同排序提示，国际合作既可以连接已有中心，也可以关注成长中的参与群体。"
+        },
+        {
+          "type": "p",
+          "text": "“南方六国代表组”固定指巴西、印度尼西亚、越南、菲律宾、埃及和南非，不代表整个全球南方。五域也是比较组，而非对世界的完整划分。具体合作仍需落到项目需求、维护团队与当地条件。"
+        }
+      ]
+    },
+    {
+      "title": "2.1.3 中国省级观察：头部集聚，多地参与",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "中国省级分布呈现明显的规模梯度。34个省级地区中，京沪粤合计约**131.7万**活跃开发者，占省级合计的**52.6%**。台湾、浙江、江苏、四川与湖北等地则构成头部之外的重要参与节点。[[province]]"
+        },
+        {
+          "type": "figure",
+          "asset": "china_atlas",
+          "caption": "中国34个省级地区的活跃分布、前10地区与结构份额",
+          "label": "china",
+          "source": null
+        },
+        {
+          "type": "p",
+          "text": "前三地之外，第4—10位地区合计占约36.0%，其余24地占约11.5%。地图和排行共同呈现出“头部集聚、多地参与”的结构；不能将后两组的参与简单视为可以忽略的余量。"
+        },
+        {
+          "type": "p",
+          "text": "这种梯度为区域支持提供了不同起点。头部地区可进一步关注密集参与背后的维护需求，其他地区则可结合当地项目与人才条件拓展协作。地域相邻或规模接近，本身并不证明已经形成跨地区合作网络。"
+        },
+        {
+          "type": "note",
+          "text": "2026报告年度，GitHub省级记录；本土平台补充量未分配至省份。图谱表示近似方位，不表达行政面积、人口密度或个人位置。"
+        }
+      ]
+    },
+    {
+      "title": "中国省级增长：新增活跃与既有规模",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "2026报告年度，省级活跃人数较上年净增约**30.4万**。京沪粤贡献了过半净增量；台湾与浙江的净增量份额则高于其当前规模份额。比较这两种份额，可以辨认总量排行没有充分呈现的增长差异。[[province]]"
+        },
+        {
+          "type": "figure",
+          "asset": "china_growth_mix",
+          "caption": "各地区组的活跃规模份额、净增量份额与净增前10地区",
+          "label": "mix",
+          "source": null
+        },
+        {
+          "type": "p",
+          "text": "台湾与浙江的净增量份额高出规模份额约**4.5个百分点**；京沪粤两项均约为52%。四组人数都在增加，增量份额较低并不等于人数下降。下方净增排行进一步说明，北京、上海和广东仍提供了最大的绝对增量。"
+        },
+        {
+          "type": "p",
+          "text": "从已有规模到新增活跃，问题由“参与在哪里”推进到“变化发生在哪里”。这为下一节的贡献观察奠定基础：参与扩大之后，哪些工作进入了项目的共同建设？"
+        },
+        {
+          "type": "note",
+          "text": "两类份额分别以34地活跃合计和净增合计为分母；净增不等于首次参与人数。"
+        }
+      ],
+      "section_implication": {
+        "title": "2.1.4 观察启示：扩大入口，支持持续参与",
+        "text": "公共支持既要改善平台覆盖，也要提供真实任务、首次贡献反馈与持续参与机会。地区总量适合发现需求，具体投入仍应由项目和参与条件决定。"
+      }
+    }
+  ],
+  "status": "整章整合评审稿；待作者评审",
+  "section": "2.1",
+  "references": [
+    [
+      "world",
+      "GOSD编制组. 全球开发者与活跃开发者报告年度归档（2022—2026）. OpenDigger / OpenShare来源记录，固定提交 c51e344.",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/vmap/source/README.md"
+    ],
+    [
+      "five",
+      "GOSD编制组. 五域开发者总量、活跃开发者年度序列. 第二章结构化底表，固定提交 c51e344.",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-1-3_five_region_active_developers_trend.csv"
+    ],
+    [
+      "platform",
+      "GOSD编制组. 2.1报告年度修订记录. 本土平台约120万去重补充量及使用边界，2026-10-20.",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/docs/vmap-publication-revision-20261020.md"
+    ],
+    [
+      "province",
+      "GOSD编制组. 中国34个省级地区总量、活跃与同比增量. 固定提交 c51e344；本稿派生份额另附计算脚本.",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/vmap/fig-2-1-3_china-provinces.csv"
+    ],
+    [
+      "octoverse",
+      "GitHub. Octoverse 2026: Commits, pushes, reach new highs in 2026 as developers build with agents. 2026-10-28. 本稿访问与核对：2026-11-05.",
+      "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/"
+    ],
+    [
+      "usage",
+      "OpenDigger. 指标使用指南；活跃度与贡献者指标说明. 2026-11-05核对.",
+      "https://open-digger.cn/docs/user-docs/metrics/metrics-usage-guide"
+    ]
+  ],
+  "editorial_notes": {
+    "input_version": "v0.3.3",
+    "scope": "正文精修、重复收束与图文对齐；不改原始统计值"
+  }
+}

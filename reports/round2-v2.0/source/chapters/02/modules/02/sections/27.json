@@ -1,0 +1,212 @@
+{
+  "section": "2.7",
+  "name": "全球开源治理与社会公益地图",
+  "abbreviation": "G-Map",
+  "version": "v1.0.0-chapter-review",
+  "status": "整章整合评审稿；待作者评审",
+  "pages": [
+    {
+      "title": "2.7 全球开源治理与社会公益地图（G-Map）",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "开源协作不仅需要人和项目，还需要知道谁承担责任、如何加入、成果在什么条件下可以继续使用。本节从基金会项目、协作材料、许可采用与木兰实践展开，观察支持合作延续的组织和规则。"
+        },
+        {
+          "type": "heading",
+          "text": "2.7.1 组织承载：规模扩展与影响累积节奏不同"
+        },
+        {
+          "type": "p",
+          "text": "基金会项目样本中，2022—2026年活跃仓库净增187个，其中157个集中在最近一年，约占84.0%；OpenRank份额由2.63%逐年升至2.93%。两项指标均提高，规模扩展与份额积累却有不同节奏。[[foundation]]"
+        },
+        {
+          "type": "figure",
+          "asset": "foundation_observation",
+          "caption": "基金会项目样本的规模、影响份额与年度增量",
+          "label": "fig:foundation",
+          "source": "来源：报告编制组归档，2022—2026报告年度。图线展示相对2022的累计增量，原始起止值单列；样本名单及份额分母待核验。"
+        }
+      ],
+      "subtitle": "组织支持与共享规则，为持续合作提供条件"
+    },
+    {
+      "title": "组织分工与协作入口：责任清楚，规则易得",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Apache的公开治理文件将基金会共同服务、项目管理和贡献者工作分别安排：法律实体与基础设施提供共同支持，项目层面的技术方向、发布和社区事务依其治理规则处理。这为理解“组织承载”提供了具体而非抽象的例子。[[apache]]"
+        },
+        {
+          "type": "figure",
+          "asset": "governance_roles",
+          "caption": "Apache实践中的机构支持、项目管理与贡献参与",
+          "label": "fig:roles",
+          "source": "依据Apache官方治理说明整理，查证于2026年11月5日；单一机构实践，不作治理评分。"
+        },
+        {
+          "type": "p",
+          "text": "明确职责之外，参与者还需要找到规则。GitHub 2025报告中，README、贡献指南与行为准则的覆盖分别约为63%、5.5%和2%。项目介绍与共同参与的入口，并不具有相同覆盖。[[gh25]]"
+        },
+        {
+          "type": "figure",
+          "asset": "governance_file_coverage",
+          "caption": "GitHub公共仓库中项目说明与协作规则材料的覆盖",
+          "label": "fig:govfiles",
+          "source": "来源：GitHub Octoverse 2025。三项覆盖率独立统计、可能重叠；文件存在不等于规则有效执行。"
+        },
+        {
+          "type": "p",
+          "text": "文件存在不等于规则有效执行，未检出也可能是材料位于网站或基金会文档。更有意义的检查是：入口是否清楚、内容对应哪个版本、谁回应问题、责任如何接续。"
+        }
+      ]
+    },
+    {
+      "title": "2.7.2 共享规则：规模排序与增长幅度并不相同",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "许可证说明他人可以怎样使用、修改和分发成果，是共享规则的重要入口。所列五种许可证的采用数量均增长，MIT与Apache-2.0保持规模前两位；BSD-3-Clause在2025年超过GPL-3.0。[[licenses]]"
+        },
+        {
+          "type": "figure",
+          "asset": "license_trend_shared_axis",
+          "caption": "所列五种许可证的采用规模、历史趋势与累计增幅",
+          "label": "fig:licenses",
+          "source": "来源：报告编制组归档，2022—2026报告年度。五条序列采用同一零起点纵轴；仅代表所列样本，不是全球完整许可排名。"
+        },
+        {
+          "type": "p",
+          "text": "2022—2026年，MIT、Apache-2.0与BSD-3-Clause分别增长24.2%、26.5%和51.5%。规模排序与增长幅度并不相同，但都不是条款优劣的排名。具体选择还需结合用途、依赖和分发方式。"
+        },
+        {
+          "type": "p",
+          "text": "本图保留同一零起点纵轴和每年的读数，避免用不同尺度夸大某类增长。它描述所列样本，不据此计算全球许可覆盖率，也不把历史报告中的不同范围统计拼入本表。"
+        }
+      ]
+    },
+    {
+      "title": "从许可名称到可核对的复用条件",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "许可名称不能替代具体条款。复用一个项目，仍需明确许可证版本、适用的代码或材料，以及分发或提供网络服务时触发的责任。下图以六种许可证概括若干关键条件，帮助读者找到核对入口。"
+        },
+        {
+          "type": "figure",
+          "asset": "license_terms",
+          "caption": "六种许可证的关键条件与适用场景",
+          "label": "fig:terms",
+          "source": "依据OSI、ASF与SPDX官方文本概括，查证于2026年11月5日。图为阅读索引，不替代完整条款或具体适用判断。"
+        },
+        {
+          "type": "p",
+          "text": "MIT与BSD-3-Clause有相应声明要求；Apache-2.0还涉及明确的专利许可、修改说明及适用的NOTICE处理；GPL与AGPL分别涉及分发和修改后程序网络交互等场景下的对应源码义务。图中概括不替代完整条款及具体适用判断。[[mit]][[bsd]][[apachelicense]][[gpl]][[agpl]]"
+        },
+        {
+          "type": "p",
+          "text": "将许可文本、第三方声明及依赖记录与发布版本关联，可以减少下游识别使用条件的困难。原统计中的GPL-3.0与AGPL-3.0未细分only和or-later，本章保留原字段，不补造更细的版本分布。"
+        }
+      ]
+    },
+    {
+      "title": "2.7.3 本土实践：采用扩展与项目影响分别计量",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "木兰宽松许可证样本中，2022—2026年累计活跃仓库由27个增至391个，项目OpenRank由689增至2,580，分别约为期初的14.5倍与3.7倍。采用范围与项目影响都在增加，但变化节奏不同。[[mulan]]"
+        },
+        {
+          "type": "figure",
+          "asset": "mulan_adoption",
+          "caption": "木兰宽松许可证样本的累计采用与项目影响力",
+          "label": "fig:mulan",
+          "source": "来源：报告编制组归档，2022—2026报告年度。“累计活跃仓库”沿用原定义，不代表当年新建仓库；原表未分许可版本。"
+        },
+        {
+          "type": "p",
+          "text": "最近一年，仓库数增加51个、增长15.0%；项目OpenRank增加373、增长16.9%。较大的累计倍数需要与较小的期初基数并看，不能据此认定许可本身带来了技术质量提升。"
+        },
+        {
+          "type": "p",
+          "text": "MulanPSL-2.0有明确的专利授权、声明和双语条款，并列入OSI批准记录；原采用表未区分版本，不能将全部记录都认定为该版本。[[mulanlicense]]"
+        }
+      ],
+      "section_implication": {
+        "title": "2.7.4 观察启示：使规则进入日常协作",
+        "text": "持续提供共同服务，维护清楚的参与入口，将许可及依赖声明与版本关联。组织和文件数量是起点，职责是否清楚、问题是否得到处理，才是后续核查重点。"
+      }
+    }
+  ],
+  "references": [
+    [
+      "foundation",
+      "GOSD编制组. 基金会项目影响份额与活跃仓库序列，2022—2026。",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-6-1_foundation_share_and_active_repositories.csv"
+    ],
+    [
+      "licenses",
+      "GOSD编制组. 所列五种许可证的活跃仓库序列，2022—2026。",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-6-2_active_repository_license_trend.csv"
+    ],
+    [
+      "mulan",
+      "GOSD编制组. 木兰宽松许可证累计活跃仓库与项目影响力序列。",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter2/fig-2-6-3_mulan_permissive_license_trend.csv"
+    ],
+    [
+      "apache",
+      "Apache Software Foundation. How the ASF Works，访问于2026-11-05。",
+      "https://apache.org/foundation/how-it-works/"
+    ],
+    [
+      "method",
+      "GOSD编制组. G-Map来源清单；原表样本、统计窗口与复现状态。",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gmap/source-manifest.json"
+    ],
+    [
+      "gh25",
+      "GitHub. Octoverse 2025，Community health及Methodology；2025-10-28，页面2026-02更新。",
+      "https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/"
+    ],
+    [
+      "kys23",
+      "开源社.《2023中国开源年度报告》数据篇1.4，许可采用与木兰观察；口径不与GOSD直接合并。",
+      "https://github.com/kaiyuanshe/2023-China-Open-Source-Report/blob/585fb9e8b1ac0cf985cae88ed89a2e30194f41fd/data.md"
+    ],
+    [
+      "mit",
+      "Open Source Initiative. The MIT License，原文。",
+      "https://opensource.org/license/mit"
+    ],
+    [
+      "bsd",
+      "Open Source Initiative. The 3-Clause BSD License，原文。",
+      "https://opensource.org/license/bsd-3-clause"
+    ],
+    [
+      "apachelicense",
+      "Apache Software Foundation. Apache License, Version 2.0，第3—4条。",
+      "https://www.apache.org/licenses/LICENSE-2.0"
+    ],
+    [
+      "gpl",
+      "SPDX. GNU General Public License v3.0 only，原文第5—6条。",
+      "https://spdx.org/licenses/GPL-3.0-only.html"
+    ],
+    [
+      "agpl",
+      "SPDX. GNU Affero General Public License v3.0 only，原文第13条。",
+      "https://spdx.org/licenses/AGPL-3.0-only.html"
+    ],
+    [
+      "mulanlicense",
+      "Open Source Initiative. Mulan Permissive Software License v2，原文及批准记录。",
+      "https://opensource.org/license/MulanPSL-2.0"
+    ]
+  ],
+  "editorial_notes": {
+    "input_version": "v0.4.0",
+    "scope": "正文精修、重复收束与图文对齐；不改原始统计值"
+  }
+}

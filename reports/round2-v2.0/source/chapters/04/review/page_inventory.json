@@ -1,0 +1,293 @@
+[
+  {
+    "page": 1,
+    "size_mm": [
+      210.0,
+      297.0
+    ],
+    "characters": 150,
+    "links": 0,
+    "figures": [],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 2,
+    "size_mm": [
+      210.0,
+      297.0
+    ],
+    "characters": 733,
+    "links": 0,
+    "figures": [],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 3,
+    "size_mm": [
+      297.0,
+      420.0
+    ],
+    "characters": 2214,
+    "links": 87,
+    "figures": [
+      "图4-1"
+    ],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 4,
+    "size_mm": [
+      297.0,
+      420.0
+    ],
+    "characters": 1634,
+    "links": 60,
+    "figures": [
+      "图4-2"
+    ],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 5,
+    "size_mm": [
+      210.0,
+      297.0
+    ],
+    "characters": 1248,
+    "links": 2,
+    "figures": [
+      "图4-3"
+    ],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 6,
+    "size_mm": [
+      210.0,
+      297.0
+    ],
+    "characters": 1527,
+    "links": 1,
+    "figures": [
+      "图4-4"
+    ],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 7,
+    "size_mm": [
+      210.0,
+      297.0
+    ],
+    "characters": 838,
+    "links": 1,
+    "figures": [
+      "图4-5"
+    ],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 8,
+    "size_mm": [
+      210.0,
+      297.0
+    ],
+    "characters": 927,
+    "links": 1,
+    "figures": [
+      "图4-6"
+    ],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 9,
+    "size_mm": [
+      210.0,
+      297.0
+    ],
+    "characters": 917,
+    "links": 2,
+    "figures": [
+      "图4-7",
+      "图4-8"
+    ],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 10,
+    "size_mm": [
+      297.0,
+      420.0
+    ],
+    "characters": 3238,
+    "links": 97,
+    "figures": [
+      "图4-9"
+    ],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 11,
+    "size_mm": [
+      210.0,
+      297.0
+    ],
+    "characters": 910,
+    "links": 3,
+    "figures": [
+      "图4-10",
+      "图4-11"
+    ],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 12,
+    "size_mm": [
+      210.0,
+      297.0
+    ],
+    "characters": 1329,
+    "links": 1,
+    "figures": [
+      "图4-12"
+    ],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 13,
+    "size_mm": [
+      210.0,
+      297.0
+    ],
+    "characters": 773,
+    "links": 1,
+    "figures": [
+      "图4-13"
+    ],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 14,
+    "size_mm": [
+      210.0,
+      297.0
+    ],
+    "characters": 938,
+    "links": 1,
+    "figures": [
+      "图4-14"
+    ],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 15,
+    "size_mm": [
+      210.0,
+      297.0
+    ],
+    "characters": 976,
+    "links": 2,
+    "figures": [
+      "图4-15",
+      "图4-16"
+    ],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 16,
+    "size_mm": [
+      210.0,
+      297.0
+    ],
+    "characters": 813,
+    "links": 5,
+    "figures": [
+      "图4-17"
+    ],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 17,
+    "size_mm": [
+      297.0,
+      420.0
+    ],
+    "characters": 2228,
+    "links": 87,
+    "figures": [
+      "图4-18"
+    ],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 18,
+    "size_mm": [
+      297.0,
+      420.0
+    ],
+    "characters": 2233,
+    "links": 94,
+    "figures": [
+      "图4-19"
+    ],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 19,
+    "size_mm": [
+      297.0,
+      420.0
+    ],
+    "characters": 2371,
+    "links": 79,
+    "figures": [
+      "图4-20"
+    ],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 20,
+    "size_mm": [
+      297.0,
+      420.0
+    ],
+    "characters": 2440,
+    "links": 84,
+    "figures": [
+      "图4-21"
+    ],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  },
+  {
+    "page": 21,
+    "size_mm": [
+      210.0,
+      297.0
+    ],
+    "characters": 363,
+    "links": 0,
+    "figures": [],
+    "out_of_page_text": [],
+    "control_glyphs": []
+  }
+]

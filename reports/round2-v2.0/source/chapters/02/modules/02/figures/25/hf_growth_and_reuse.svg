@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="138mm" viewBox="0 0 170 138"><rect width="170" height="138" fill="white" />
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB" /><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#329A9B" stroke-width="0.3" /></pattern></defs>
+<text x="1.0000" y="6.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.23333" font-weight="700" fill="#142C49" text-anchor="start">目录持续扩大，社区再加工使基础模型更易运行</text>
+<text x="1.0000" y="12.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="start">Hugging Face Summer 2026 · 官方观察的独立窗口</text>
+<text x="1.0000" y="22.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.70417" font-weight="700" fill="#142C49" text-anchor="start">A  平台供给增长</text>
+<text x="168.0000" y="22.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.03389" font-weight="400" fill="#506778" text-anchor="end">期初 → 期末 / 万个</text>
+<text x="1.0000" y="34.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="start">模型仓库</text>
+<rect x="50.0000" y="29.0000" width="63.0281" height="3.6000" rx="0.3" fill="#BCD1D7" stroke="none" stroke-width="0.18" />
+<rect x="50.0000" y="34.8000" width="76.7750" height="3.6000" rx="0.3" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="31.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="700" fill="#142C49" text-anchor="end">243 → 296</text>
+<text x="168.0000" y="38.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#007D78" text-anchor="end">约 +22%</text>
+<text x="1.0000" y="52.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="start">数据集</text>
+<rect x="50.0000" y="47.0000" width="18.4416" height="3.6000" rx="0.3" fill="#BCD1D7" stroke="none" stroke-width="0.18" />
+<rect x="50.0000" y="52.8000" width="25.9375" height="3.6000" rx="0.3" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="49.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="700" fill="#142C49" text-anchor="end">71.1 → 100</text>
+<text x="168.0000" y="56.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#007D78" text-anchor="end">约 +41%</text>
+<text x="1.0000" y="70.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="start">应用空间</text>
+<rect x="50.0000" y="65.0000" width="25.9375" height="3.6000" rx="0.3" fill="#BCD1D7" stroke="none" stroke-width="0.18" />
+<rect x="50.0000" y="70.8000" width="37.3500" height="3.6000" rx="0.3" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="67.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="700" fill="#142C49" text-anchor="end">100 → 144</text>
+<text x="168.0000" y="74.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#007D78" text-anchor="end">约 +44%</text>
+<path d="M50.000,77.000 L133.000,77.000" fill="none" stroke="#D8E3E9" stroke-width="0.2" />
+<text x="50.0000" y="82.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#506778" text-anchor="middle">0</text>
+<text x="75.9375" y="82.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#506778" text-anchor="middle">100</text>
+<text x="101.8750" y="82.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#506778" text-anchor="middle">200</text>
+<text x="127.8125" y="82.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.82222" font-weight="400" fill="#506778" text-anchor="middle">300</text>
+<path d="M1.000,89.000 L169.000,89.000" fill="none" stroke="#D8E3E9" stroke-width="0.25" />
+<text x="1.0000" y="97.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="start">B  Qwen相关GGUF转换：其他发布者承担了大部分条目供给</text>
+<text x="1.0000" y="103.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="start">GGUF为用于本地运行的一种模型文件格式；转换条目不等于新增基础模型。</text>
+<rect x="1.0000" y="109.0000" width="168.0000" height="7.0000" rx="0.4" fill="#329A9B" stroke="none" stroke-width="0.18" />
+<rect x="1.0000" y="109.0000" width="0.3180" height="7.0000" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<path d="M1.318,109.000 L7.000,105.300" fill="none" stroke="#155F91" stroke-width="0.3" />
+<text x="1.0000" y="124.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="700" fill="#155F91" text-anchor="start">Qwen账号：54个</text>
+<text x="168.0000" y="124.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="700" fill="#007D78" text-anchor="end">其他发布者：28,477个（99.8%）</text>
+<text x="1.0000" y="136.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.85750" font-weight="400" fill="#506778" text-anchor="start">原报告列出相关GGUF转换共28,531个；本图按其发布者口径复算，不作因果或质量判断。</text></svg>

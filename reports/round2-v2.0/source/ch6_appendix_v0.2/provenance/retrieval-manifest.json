@@ -1,0 +1,172 @@
+[
+  {
+    "file": "Qwen--Qwen2.5-7B--README.md",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-7B/raw/d149729398750b98c0af14eb82c78cfe92750796/README.md",
+    "checked_at": "2026-11-07T03:12:57.290619+00:00",
+    "status": 200,
+    "final_url": "https://huggingface.co/Qwen/Qwen2.5-7B/raw/d149729398750b98c0af14eb82c78cfe92750796/README.md",
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 3819,
+    "sha256": "8a23291de92bddc940674a5b7088b8443bde94a1df7f1911703d2cd6554c7328"
+  },
+  {
+    "file": "Qwen--Qwen2.5-7B--revision-api.json",
+    "url": "https://huggingface.co/api/models/Qwen/Qwen2.5-7B/revision/d149729398750b98c0af14eb82c78cfe92750796",
+    "checked_at": "2026-11-07T03:12:57.291470+00:00",
+    "status": 200,
+    "final_url": "https://huggingface.co/api/models/Qwen/Qwen2.5-7B/revision/d149729398750b98c0af14eb82c78cfe92750796",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 7267,
+    "sha256": "74abe85461c286c9850dfaed41c9b9706056ea67a73e45a18f823f7fa1327bc6"
+  },
+  {
+    "file": "Qwen--Qwen2.5-7B--LICENSE",
+    "url": "https://huggingface.co/Qwen/Qwen2.5-7B/raw/d149729398750b98c0af14eb82c78cfe92750796/LICENSE",
+    "checked_at": "2026-11-07T03:12:57.292377+00:00",
+    "status": 200,
+    "final_url": "https://huggingface.co/Qwen/Qwen2.5-7B/raw/d149729398750b98c0af14eb82c78cfe92750796/LICENSE",
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 11343,
+    "sha256": "832dd9e00a68dd83b3c3fb9f5588dad7dcf337a0db50f7d9483f310cd292e92e"
+  },
+  {
+    "file": "allenai--OLMo-2-1124-7B--README.md",
+    "url": "https://huggingface.co/allenai/OLMo-2-1124-7B/raw/7df9a82518afdecae4e8c026b27adccc8c1f0032/README.md",
+    "checked_at": "2026-11-07T03:12:57.293132+00:00",
+    "status": 200,
+    "final_url": "https://huggingface.co/allenai/OLMo-2-1124-7B/raw/7df9a82518afdecae4e8c026b27adccc8c1f0032/README.md",
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 12098,
+    "sha256": "a87d5b59422c6040caf0fc62cbcb5f7ace6c71489c1173cf6d9e000777eac962"
+  },
+  {
+    "file": "allenai--OLMo-2-1124-7B--revision-api.json",
+    "url": "https://huggingface.co/api/models/allenai/OLMo-2-1124-7B/revision/7df9a82518afdecae4e8c026b27adccc8c1f0032",
+    "checked_at": "2026-11-07T03:12:57.293919+00:00",
+    "status": 200,
+    "final_url": "https://huggingface.co/api/models/allenai/OLMo-2-1124-7B/revision/7df9a82518afdecae4e8c026b27adccc8c1f0032",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 1738,
+    "sha256": "f9846cdb252cbbfb29fe7a5d6e5c037ce2e08bf599a41575e1d726aa98cbfeda"
+  },
+  {
+    "file": "allenai--OLMo-2-1124-7B--LICENSE",
+    "url": "https://huggingface.co/allenai/OLMo-2-1124-7B/raw/7df9a82518afdecae4e8c026b27adccc8c1f0032/LICENSE",
+    "checked_at": "2026-11-07T03:13:05.965647+00:00",
+    "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+    "file": "meta-llama--Llama-3.1-8B--README.md",
+    "url": "https://huggingface.co/meta-llama/Llama-3.1-8B/raw/d04e592bb4f6aa9cfee91e2e20afa771667e1d4b/README.md",
+    "checked_at": "2026-11-07T03:13:05.969237+00:00",
+    "error": "HTTPError: HTTP Error 401: Unauthorized"
+  },
+  {
+    "file": "meta-llama--Llama-3.1-8B--revision-api.json",
+    "url": "https://huggingface.co/api/models/meta-llama/Llama-3.1-8B/revision/d04e592bb4f6aa9cfee91e2e20afa771667e1d4b",
+    "checked_at": "2026-11-07T03:13:05.976495+00:00",
+    "status": 200,
+    "final_url": "https://huggingface.co/api/models/meta-llama/Llama-3.1-8B/revision/d04e592bb4f6aa9cfee91e2e20afa771667e1d4b",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 18101,
+    "sha256": "84e13363ffbd1de96ba737fe1eb62425216e822903ad4bf89e33834841936278"
+  },
+  {
+    "file": "meta-llama--Llama-3.1-8B--LICENSE",
+    "url": "https://huggingface.co/meta-llama/Llama-3.1-8B/raw/d04e592bb4f6aa9cfee91e2e20afa771667e1d4b/LICENSE",
+    "checked_at": "2026-11-07T03:13:05.981540+00:00",
+    "error": "HTTPError: HTTP Error 401: Unauthorized"
+  },
+  {
+    "file": "google--gemma-2-9b--README.md",
+    "url": "https://huggingface.co/google/gemma-2-9b/raw/33c193028431c2fde6c6e51f29e6f17b60cbfac6/README.md",
+    "checked_at": "2026-11-07T03:13:06.017420+00:00",
+    "error": "HTTPError: HTTP Error 401: Unauthorized"
+  },
+  {
+    "file": "google--gemma-2-9b--revision-api.json",
+    "url": "https://huggingface.co/api/models/google/gemma-2-9b/revision/33c193028431c2fde6c6e51f29e6f17b60cbfac6",
+    "checked_at": "2026-11-07T03:13:09.420161+00:00",
+    "status": 200,
+    "final_url": "https://huggingface.co/api/models/google/gemma-2-9b/revision/33c193028431c2fde6c6e51f29e6f17b60cbfac6",
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 5578,
+    "sha256": "aabf7be9efd3ec2c730053f3c635fd211ee040f889c85c9c28344da18ab42a29"
+  },
+  {
+    "file": "google--gemma-2-9b--LICENSE",
+    "url": "https://huggingface.co/google/gemma-2-9b/raw/33c193028431c2fde6c6e51f29e6f17b60cbfac6/LICENSE",
+    "checked_at": "2026-11-07T03:13:09.420987+00:00",
+    "error": "HTTPError: HTTP Error 401: Unauthorized"
+  },
+  {
+    "file": "OLMo-090253d--README.md",
+    "url": "https://raw.githubusercontent.com/allenai/OLMo/090253dac6688f2532509daa7aa2eb5fae50e956/README.md",
+    "checked_at": "2026-11-07T03:13:09.463288+00:00",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/allenai/OLMo/090253dac6688f2532509daa7aa2eb5fae50e956/README.md",
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 17665,
+    "sha256": "a144f4ca427a5edcd97e13e009be0a101fde59b17d887259a6c11f692ad4a33f"
+  },
+  {
+    "file": "OLMo-090253d--LICENSE",
+    "url": "https://raw.githubusercontent.com/allenai/OLMo/090253dac6688f2532509daa7aa2eb5fae50e956/LICENSE",
+    "checked_at": "2026-11-07T03:13:09.464731+00:00",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/allenai/OLMo/090253dac6688f2532509daa7aa2eb5fae50e956/LICENSE",
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 11359,
+    "sha256": "62fb8a3a9621dc2388174caaabe9c2317b694bb9a1d46c98bcf5655b68f51be3"
+  },
+  {
+    "file": "llama-0e0b8c5--LICENSE",
+    "url": "https://raw.githubusercontent.com/meta-llama/llama-models/0e0b8c519242d5833d8c11bffc1232b77ad7f301/models/llama3_1/LICENSE",
+    "checked_at": "2026-11-07T03:13:09.489632+00:00",
+    "status": 200,
+    "final_url": "https://raw.githubusercontent.com/meta-llama/llama-models/0e0b8c519242d5833d8c11bffc1232b77ad7f301/models/llama3_1/LICENSE",
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 7680,
+    "sha256": "bf2eac60b81e5c5f779fc3b4849d3bfacfd63f97f3eb68b44e9c6868c5801712"
+  },
+  {
+    "file": "gemma-terms.html",
+    "url": "https://ai.google.dev/gemma/terms",
+    "checked_at": "2026-11-07T03:13:14.725390+00:00",
+    "status": 200,
+    "final_url": "https://ai.google.dev/gemma/terms",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 144379,
+    "sha256": "0eb3034ca30bf5fcc634296d8bdf17d1fc88d088910ee5295381bb5abd7c3101"
+  },
+  {
+    "file": "qwen2.5-release.html",
+    "url": "https://qwenlm.github.io/blog/qwen2.5/",
+    "checked_at": "2026-11-07T03:13:14.733193+00:00",
+    "status": 200,
+    "final_url": "https://qwenlm.github.io/blog/qwen2.5/",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 51224,
+    "sha256": "feca9bb5e0bcbd95b4030c9b490ba26ebe4576d7899cc633814a42e0c2c52bcf"
+  },
+  {
+    "file": "miit-announcement.html",
+    "url": "https://wap.miit.gov.cn/jgsj/kjs/wjfb/art/2026/art_eb6516dbd5014ddb9984b77494d6b54c.html",
+    "checked_at": "2026-11-07T03:13:14.757445+00:00",
+    "status": 200,
+    "final_url": "https://wap.miit.gov.cn/jgsj/kjs/wjfb/art/2026/art_eb6516dbd5014ddb9984b77494d6b54c.html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 10667,
+    "sha256": "d9613ad268e1f10c4b18d96e0efe0a42b5488df7c39a918d2110154ed228da27"
+  },
+  {
+    "file": "miit-annex.pdf",
+    "url": "https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20268/30c01f53adfe417fb25bf86f4b8a20d0.pdf",
+    "checked_at": "2026-11-07T03:13:15.449111+00:00",
+    "status": 200,
+    "final_url": "https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/20268/30c01f53adfe417fb25bf86f4b8a20d0.pdf",
+    "content_type": "application/pdf",
+    "bytes": 867523,
+    "sha256": "22a01c1242d62773c18d32875d5682cf2a79a187bc30b2f483f1e0b105939cd4"
+  }
+]

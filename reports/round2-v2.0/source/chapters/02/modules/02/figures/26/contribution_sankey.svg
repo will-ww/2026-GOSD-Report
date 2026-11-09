@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="151mm" viewBox="0 0 170 151"><rect width="170" height="151" fill="white" />
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB" /><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#329A9B" stroke-width="0.3" /></pattern></defs>
+<text x="1.0000" y="6.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.23333" font-weight="700" fill="#142C49" text-anchor="start">贡献来源与项目归属：中美项目样本</text>
+<text x="1.0000" y="12.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="start">2026报告年度 · 14个来源、20条关系 · 单位：OpenRank</text>
+<text x="1.0000" y="22.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="start">贡献来源</text>
+<text x="143.0000" y="22.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="start">项目归属</text>
+<path d="M31,26.0 C70,26.0 98,32.0 137,32.0 L137,72.06314009688037 C98,72.06314009688037 70,66.06314009688037 31,66.06314009688037 Z" fill="#155F91" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,66.06314009688037 C70,66.06314009688037 98,124.48638299463646 137,124.48638299463646 L137,125.13404249913577 C98,125.13404249913577 70,66.71079960137969 31,66.71079960137969 Z" fill="#155F91" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,68.11079960137971 C70,68.11079960137971 98,72.06314009688037 137,72.06314009688037 L137,80.76390596511702 C98,80.76390596511702 70,76.81156546961635 31,76.81156546961635 Z" fill="#007D78" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,76.81156546961635 C70,76.81156546961635 98,125.13404249913577 137,125.13404249913577 L137,134.0658908167463 C98,134.0658908167463 70,85.74341378722687 31,85.74341378722687 Z" fill="#007D78" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,87.14341378722686 C70,87.14341378722686 98,80.76390596511702 137,80.76390596511702 L137,87.52705060085646 C98,87.52705060085646 70,93.9065584229663 31,93.9065584229663 Z" fill="#8E7AA2" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,93.9065584229663 C70,93.9065584229663 98,134.0658908167463 137,134.0658908167463 L137,134.21966935981823 C98,134.21966935981823 70,94.06033696603822 31,94.06033696603822 Z" fill="#8E7AA2" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,95.46033696603821 C70,95.46033696603821 98,87.52705060085646 137,87.52705060085646 L137,93.26614328007645 C98,93.26614328007645 70,101.1994296452582 31,101.1994296452582 Z" fill="#AC9762" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,101.1994296452582 C70,101.1994296452582 98,134.21966935981823 137,134.21966935981823 L137,134.27865939802172 C98,134.27865939802172 70,101.2584196834617 31,101.2584196834617 Z" fill="#AC9762" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,102.65841968346169 C70,102.65841968346169 98,93.26614328007645 137,93.26614328007645 L137,98.67596400085297 C98,98.67596400085297 70,108.06824040423821 31,108.06824040423821 Z" fill="#7C98A8" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,108.06824040423821 C70,108.06824040423821 98,134.27865939802172 137,134.27865939802172 L137,134.43334514197926 C98,134.43334514197926 70,108.22292614819575 31,108.22292614819575 Z" fill="#7C98A8" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,109.62292614819575 C70,109.62292614819575 98,98.67596400085297 137,98.67596400085297 L137,102.17657246488308 C98,102.17657246488308 70,113.12353461222585 31,113.12353461222585 Z" fill="#81977D" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,114.52353461222586 C70,114.52353461222586 98,102.17657246488308 137,102.17657246488308 L137,106.34618563134245 C98,106.34618563134245 70,118.69314777868523 31,118.69314777868523 Z" fill="#9E8E76" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,118.69314777868523 C70,118.69314777868523 98,134.43334514197923 137,134.43334514197923 L137,134.57871509182056 C98,134.57871509182056 70,118.83851772852655 31,118.83851772852655 Z" fill="#9E8E76" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,120.23851772852656 C70,120.23851772852656 98,106.34618563134245 137,106.34618563134245 L137,108.74704681561927 C98,108.74704681561927 70,122.63937891280338 31,122.63937891280338 Z" fill="#8E91B5" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,124.03937891280339 C70,124.03937891280339 98,108.74704681561927 137,108.74704681561927 L137,110.55537993247663 C98,110.55537993247663 70,125.84771202966074 31,125.84771202966074 Z" fill="#9DAE8C" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,127.24771202966073 C70,127.24771202966073 98,110.55537993247663 137,110.55537993247663 L137,112.48638299463644 C98,112.48638299463644 70,129.17871509182055 31,129.17871509182055 Z" fill="#827E89" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,130.57871509182056 C70,130.57871509182056 98,134.57871509182058 137,134.57871509182058 L137,134.73208199748626 C98,134.73208199748626 70,130.73208199748623 31,130.73208199748623 Z" fill="#899F9C" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,132.1320819974862 C70,132.1320819974862 98,134.73208199748623 137,134.73208199748623 L137,134.8681341549715 C98,134.8681341549715 70,132.26813415497148 31,132.26813415497148 Z" fill="#AA8A89" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,133.66813415497148 C70,133.66813415497148 98,134.86813415497153 137,134.86813415497153 L137,134.93466155383703 C98,134.93466155383703 70,133.734661553837 31,133.734661553837 Z" fill="#A29683" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M31,135.134661553837 C70,135.134661553837 98,134.93466155383703 137,134.93466155383703 L137,135.00000000000003 C98,135.00000000000003 70,135.2 31,135.2 Z" fill="#9C94AA" stroke="none" stroke-width="0.25" opacity="0.58" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="28.0000" y="26.0000" width="3.0000" height="40.7108" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<rect x="28.0000" y="68.1108" width="3.0000" height="17.6326" rx="0" fill="#007D78" stroke="none" stroke-width="0.18" />
+<rect x="28.0000" y="87.1434" width="3.0000" height="6.9169" rx="0" fill="#8E7AA2" stroke="none" stroke-width="0.18" />
+<rect x="28.0000" y="95.4603" width="3.0000" height="5.7981" rx="0" fill="#AC9762" stroke="none" stroke-width="0.18" />
+<rect x="28.0000" y="102.6584" width="3.0000" height="5.5645" rx="0" fill="#7C98A8" stroke="none" stroke-width="0.18" />
+<rect x="28.0000" y="109.6229" width="3.0000" height="3.5006" rx="0" fill="#81977D" stroke="none" stroke-width="0.18" />
+<rect x="28.0000" y="114.5235" width="3.0000" height="4.3150" rx="0" fill="#9E8E76" stroke="none" stroke-width="0.18" />
+<rect x="28.0000" y="120.2385" width="3.0000" height="2.4009" rx="0" fill="#8E91B5" stroke="none" stroke-width="0.18" />
+<rect x="28.0000" y="124.0394" width="3.0000" height="1.8083" rx="0" fill="#9DAE8C" stroke="none" stroke-width="0.18" />
+<rect x="28.0000" y="127.2477" width="3.0000" height="1.9310" rx="0" fill="#827E89" stroke="none" stroke-width="0.18" />
+<rect x="28.0000" y="130.5787" width="3.0000" height="0.1534" rx="0" fill="#899F9C" stroke="none" stroke-width="0.18" />
+<rect x="28.0000" y="132.1321" width="3.0000" height="0.1361" rx="0" fill="#AA8A89" stroke="none" stroke-width="0.18" />
+<rect x="28.0000" y="133.6681" width="3.0000" height="0.0665" rx="0" fill="#A29683" stroke="none" stroke-width="0.18" />
+<rect x="28.0000" y="135.1347" width="3.0000" height="0.0653" rx="0" fill="#9C94AA" stroke="none" stroke-width="0.18" />
+<rect x="137.0000" y="32.0000" width="3.0000" height="80.4864" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="143.0000" y="72.2432" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="start">美国</text>
+<text x="143.0000" y="78.2432" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.13972" font-weight="400" fill="#506778" text-anchor="start">402,786.40</text>
+<rect x="137.0000" y="124.4864" width="3.0000" height="10.5136" rx="0" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="143.0000" y="129.7432" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#142C49" text-anchor="start">中国</text>
+<text x="143.0000" y="135.7432" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.13972" font-weight="400" fill="#506778" text-anchor="start">52,614.39</text>
+<text x="24.0000" y="47.3554" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="700" fill="#142C49" text-anchor="end">美国</text>
+<path d="M25.000,46.355 L28.000,46.355" fill="none" stroke="#AABCC3" stroke-width="0.16" />
+<text x="24.0000" y="77.9271" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="700" fill="#142C49" text-anchor="end">中国</text>
+<path d="M25.000,76.927 L28.000,76.927" fill="none" stroke="#AABCC3" stroke-width="0.16" />
+<text x="24.0000" y="84.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">德国</text>
+<path d="M25.000,83.200 L28.000,90.602" fill="none" stroke="#AABCC3" stroke-width="0.16" />
+<text x="24.0000" y="89.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">英国</text>
+<path d="M25.000,88.000 L28.000,98.359" fill="none" stroke="#AABCC3" stroke-width="0.16" />
+<text x="24.0000" y="93.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">加拿大</text>
+<path d="M25.000,92.800 L28.000,105.441" fill="none" stroke="#AABCC3" stroke-width="0.16" />
+<text x="24.0000" y="98.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">法国</text>
+<path d="M25.000,97.600 L28.000,111.373" fill="none" stroke="#AABCC3" stroke-width="0.16" />
+<text x="24.0000" y="103.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">印度</text>
+<path d="M25.000,102.400 L28.000,116.681" fill="none" stroke="#AABCC3" stroke-width="0.16" />
+<text x="24.0000" y="108.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">荷兰</text>
+<path d="M25.000,107.200 L28.000,121.439" fill="none" stroke="#AABCC3" stroke-width="0.16" />
+<text x="24.0000" y="113.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">瑞士</text>
+<path d="M25.000,112.000 L28.000,124.944" fill="none" stroke="#AABCC3" stroke-width="0.16" />
+<text x="24.0000" y="117.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">波兰</text>
+<path d="M25.000,116.800 L28.000,128.213" fill="none" stroke="#AABCC3" stroke-width="0.16" />
+<text x="24.0000" y="122.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">新加坡</text>
+<path d="M25.000,121.600 L28.000,130.655" fill="none" stroke="#AABCC3" stroke-width="0.16" />
+<text x="24.0000" y="127.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">捷克</text>
+<path d="M25.000,126.400 L28.000,132.200" fill="none" stroke="#AABCC3" stroke-width="0.16" />
+<text x="24.0000" y="132.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">保加利亚</text>
+<path d="M25.000,131.200 L28.000,133.701" fill="none" stroke="#AABCC3" stroke-width="0.16" />
+<text x="24.0000" y="137.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.24556" font-weight="400" fill="#142C49" text-anchor="end">瑞典</text>
+<path d="M25.000,136.000 L28.000,135.167" fill="none" stroke="#AABCC3" stroke-width="0.16" />
+<path d="M1.000,141.000 L169.000,141.000" fill="none" stroke="#D8E3E9" stroke-width="0.22" />
+<text x="1.0000" y="148.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="700" fill="#007D78" text-anchor="start">中国 → 美国：43,542.15</text>
+<text x="169.0000" y="148.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.28083" font-weight="700" fill="#007D78" text-anchor="end">中国 → 中国：44,698.58</text></svg>

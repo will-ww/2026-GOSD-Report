@@ -1,0 +1,52 @@
+[
+  {
+    "file": "nav_21",
+    "labels": 4,
+    "outside": []
+  },
+  {
+    "file": "nav_22",
+    "labels": 4,
+    "outside": []
+  },
+  {
+    "file": "nav_23",
+    "labels": 2,
+    "outside": []
+  },
+  {
+    "file": "nav_24",
+    "labels": 4,
+    "outside": []
+  },
+  {
+    "file": "nav_25",
+    "labels": 6,
+    "outside": []
+  },
+  {
+    "file": "nav_26",
+    "labels": 4,
+    "outside": []
+  },
+  {
+    "file": "nav_27",
+    "labels": 4,
+    "outside": []
+  },
+  {
+    "file": "chapter2_navigation",
+    "labels": 22,
+    "outside": []
+  },
+  {
+    "file": "reading_objects",
+    "labels": 15,
+    "outside": []
+  },
+  {
+    "file": "chapter2_closing",
+    "labels": 23,
+    "outside": []
+  }
+]

@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="148mm" viewBox="0 0 170 148"><rect width="170" height="148" fill="white" />
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB" /><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#329A9B" stroke-width="0.3" /></pattern></defs>
+<text x="1.0000" y="6.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.23333" font-weight="700" fill="#142C49" text-anchor="start">贡献来源的覆盖，与已列海外来源的内部构成</text>
+<text x="1.0000" y="12.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="start">两组项目分别计量；未列来源保留，不推定其地域归属</text>
+<text x="1.0000" y="23.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.63361" font-weight="700" fill="#142C49" text-anchor="start">A  全部贡献的来源构成</text>
+<rect x="1.0000" y="28.0000" width="4.5000" height="2.8000" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="8.0000" y="30.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">本土</text>
+<rect x="40.0000" y="28.0000" width="4.5000" height="2.8000" rx="0" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="47.0000" y="30.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">已列跨境</text>
+<rect x="94.0000" y="28.0000" width="4.5000" height="2.8000" rx="0" fill="#AABCC3" stroke="none" stroke-width="0.18" />
+<text x="101.0000" y="30.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">未列来源</text>
+<text x="1.0000" y="43.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="700" fill="#142C49" text-anchor="start">中国项目</text>
+<rect x="27.0000" y="39.0000" width="111.7002" height="6.0000" rx="0" fill="#155F91" stroke="#FFFFFF" stroke-width="0.2" />
+<text x="82.8501" y="43.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#FFFFFF" text-anchor="middle">79.22%</text>
+<rect x="138.7002" y="39.0000" width="19.7682" height="6.0000" rx="0" fill="#007D78" stroke="#FFFFFF" stroke-width="0.2" />
+<text x="148.5843" y="43.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#FFFFFF" text-anchor="middle">14.02%</text>
+<rect x="158.4684" y="39.0000" width="9.5316" height="6.0000" rx="0" fill="#AABCC3" stroke="#FFFFFF" stroke-width="0.2" />
+<path d="M163.234,45.000 L163.234,47.100" fill="none" stroke="#AABCC3" stroke-width="0.2" />
+<text x="168.0000" y="51.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="end">6.76%</text>
+<text x="1.0000" y="62.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.31611" font-weight="700" fill="#142C49" text-anchor="start">美国项目</text>
+<rect x="27.0000" y="58.0000" width="53.9748" height="6.0000" rx="0" fill="#155F91" stroke="#FFFFFF" stroke-width="0.2" />
+<text x="53.9874" y="62.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#FFFFFF" text-anchor="middle">38.28%</text>
+<rect x="80.9748" y="58.0000" width="55.9206" height="6.0000" rx="0" fill="#007D78" stroke="#FFFFFF" stroke-width="0.2" />
+<text x="108.9351" y="62.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#FFFFFF" text-anchor="middle">39.66%</text>
+<rect x="136.8954" y="58.0000" width="31.1046" height="6.0000" rx="0" fill="#AABCC3" stroke="#FFFFFF" stroke-width="0.2" />
+<text x="152.4477" y="62.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.96333" font-weight="400" fill="#142C49" text-anchor="middle">22.06%</text>
+<path d="M1.000,73.000 L169.000,73.000" fill="none" stroke="#D8E3E9" stroke-width="0.22" />
+<text x="1.0000" y="80.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.63361" font-weight="700" fill="#142C49" text-anchor="start">B  已列海外贡献内部的来源比例</text>
+<text x="1.0000" y="88.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.42194" font-weight="700" fill="#007D78" text-anchor="start">中国项目样本</text>
+<text x="1.0000" y="96.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#142C49" text-anchor="start">美国</text>
+<rect x="24.0000" y="93.7500" width="32.8448" height="2.9000" rx="0.2" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="79.0000" y="96.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="700" fill="#142C49" text-anchor="end">44.4%</text>
+<text x="1.0000" y="101.1000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">加拿大</text>
+<rect x="24.0000" y="98.8500" width="8.3947" height="2.9000" rx="0.2" fill="#93B9BB" stroke="none" stroke-width="0.18" />
+<text x="79.0000" y="101.1000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">11.3%</text>
+<text x="1.0000" y="106.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">德国</text>
+<rect x="24.0000" y="103.9500" width="7.0612" height="2.9000" rx="0.2" fill="#93B9BB" stroke="none" stroke-width="0.18" />
+<text x="79.0000" y="106.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">9.5%</text>
+<text x="1.0000" y="111.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">新加坡</text>
+<rect x="24.0000" y="109.0500" width="6.9001" height="2.9000" rx="0.2" fill="#93B9BB" stroke="none" stroke-width="0.18" />
+<text x="79.0000" y="111.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">9.3%</text>
+<text x="1.0000" y="116.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">印度</text>
+<rect x="24.0000" y="114.1500" width="6.1165" height="2.9000" rx="0.2" fill="#93B9BB" stroke="none" stroke-width="0.18" />
+<text x="79.0000" y="116.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">8.3%</text>
+<text x="1.0000" y="121.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">捷克</text>
+<rect x="24.0000" y="119.2500" width="3.8687" height="2.9000" rx="0.2" fill="#93B9BB" stroke="none" stroke-width="0.18" />
+<text x="79.0000" y="121.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">5.2%</text>
+<text x="1.0000" y="126.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">瑞典</text>
+<rect x="24.0000" y="124.3500" width="3.0733" height="2.9000" rx="0.2" fill="#93B9BB" stroke="none" stroke-width="0.18" />
+<text x="79.0000" y="126.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">4.2%</text>
+<text x="1.0000" y="131.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">保加利亚</text>
+<rect x="24.0000" y="129.4500" width="2.9481" height="2.9000" rx="0.2" fill="#93B9BB" stroke="none" stroke-width="0.18" />
+<text x="79.0000" y="131.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">4.0%</text>
+<text x="1.0000" y="136.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">英国</text>
+<rect x="24.0000" y="134.5500" width="2.7927" height="2.9000" rx="0.2" fill="#93B9BB" stroke="none" stroke-width="0.18" />
+<text x="79.0000" y="136.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">3.8%</text>
+<text x="89.0000" y="88.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.42194" font-weight="700" fill="#007D78" text-anchor="start">美国项目样本</text>
+<text x="89.0000" y="96.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="700" fill="#142C49" text-anchor="start">中国</text>
+<rect x="112.0000" y="93.7500" width="14.5053" height="2.9000" rx="0.2" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="167.0000" y="96.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="700" fill="#142C49" text-anchor="end">19.6%</text>
+<text x="89.0000" y="101.1000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">德国</text>
+<rect x="112.0000" y="98.8500" width="12.8181" height="2.9000" rx="0.2" fill="#93B9BB" stroke="none" stroke-width="0.18" />
+<text x="167.0000" y="101.1000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">17.3%</text>
+<text x="89.0000" y="106.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">英国</text>
+<rect x="112.0000" y="103.9500" width="11.0332" height="2.9000" rx="0.2" fill="#93B9BB" stroke="none" stroke-width="0.18" />
+<text x="167.0000" y="106.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">14.9%</text>
+<text x="89.0000" y="111.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">加拿大</text>
+<rect x="112.0000" y="109.0500" width="9.4668" height="2.9000" rx="0.2" fill="#93B9BB" stroke="none" stroke-width="0.18" />
+<text x="167.0000" y="111.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">12.8%</text>
+<text x="89.0000" y="116.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">印度</text>
+<rect x="112.0000" y="114.1500" width="8.0980" height="2.9000" rx="0.2" fill="#93B9BB" stroke="none" stroke-width="0.18" />
+<text x="167.0000" y="116.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">10.9%</text>
+<text x="89.0000" y="121.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">法国</text>
+<rect x="112.0000" y="119.2500" width="6.8716" height="2.9000" rx="0.2" fill="#93B9BB" stroke="none" stroke-width="0.18" />
+<text x="167.0000" y="121.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">9.3%</text>
+<text x="89.0000" y="126.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">荷兰</text>
+<rect x="112.0000" y="124.3500" width="4.1956" height="2.9000" rx="0.2" fill="#93B9BB" stroke="none" stroke-width="0.18" />
+<text x="167.0000" y="126.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">5.7%</text>
+<text x="89.0000" y="131.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">瑞士</text>
+<rect x="112.0000" y="129.4500" width="3.5605" height="2.9000" rx="0.2" fill="#93B9BB" stroke="none" stroke-width="0.18" />
+<text x="167.0000" y="131.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">4.8%</text>
+<text x="89.0000" y="136.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#142C49" text-anchor="start">波兰</text>
+<rect x="112.0000" y="134.5500" width="3.4508" height="2.9000" rx="0.2" fill="#93B9BB" stroke="none" stroke-width="0.18" />
+<text x="167.0000" y="136.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#142C49" text-anchor="end">4.7%</text>
+<text x="1.0000" y="146.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="start">上图分母为各组全部贡献；下图分母为各自已列海外贡献，两个比例不直接对读。</text></svg>

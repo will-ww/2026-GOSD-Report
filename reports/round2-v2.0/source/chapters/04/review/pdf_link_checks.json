@@ -1,0 +1,16 @@
+{
+  "pages": 21,
+  "map_pages": {
+    "41a": 3,
+    "41b": 4,
+    "42": 10,
+    "43": 17,
+    "44": 18,
+    "45": 19,
+    "46": 20
+  },
+  "item_links": 581,
+  "source_links_added": 7,
+  "all_portrait": true,
+  "total_links": 608
+}

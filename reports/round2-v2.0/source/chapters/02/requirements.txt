@@ -1,0 +1,10 @@
+PyMuPDF
+Pillow
+fonttools
+pandas
+numpy
+cairosvg
+geopandas
+pyproj
+shapely
+pycountry

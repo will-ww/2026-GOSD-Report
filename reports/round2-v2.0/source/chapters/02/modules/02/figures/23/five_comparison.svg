@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="130mm" viewBox="0 0 170 130"><rect width="170" height="130" fill="white" />
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB" /><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#329A9B" stroke-width="0.3" /></pattern></defs>
+<text x="1.0000" y="6.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.23333" font-weight="700" fill="#142C49" text-anchor="start">贡献与项目影响力，呈现不同的地域排序</text>
+<text x="1.0000" y="12.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="start">2026报告年度 · 两栏独立排序、独立刻度 · 单位：万 OpenRank</text>
+<text x="1.0000" y="24.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.95111" font-weight="700" fill="#142C49" text-anchor="start">A  开发者贡献度</text>
+<text x="90.0000" y="24.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.95111" font-weight="700" fill="#142C49" text-anchor="start">B  项目影响力</text>
+<text x="1.0000" y="31.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#506778" text-anchor="start">按开发者地域观察协作投入</text>
+<text x="90.0000" y="31.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.10444" font-weight="400" fill="#506778" text-anchor="start">按项目标签观察网络位置</text>
+<path d="M85.000,20.000 L85.000,119.000" fill="none" stroke="#D8E3E9" stroke-width="0.25" />
+<text x="1.0000" y="42.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">01</text>
+<text x="9.0000" y="42.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#007D78" text-anchor="start">欧洲</text>
+<text x="80.0000" y="42.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.38667" font-weight="700" fill="#142C49" text-anchor="end">650.16</text>
+<rect x="9.0000" y="45.0000" width="71.0000" height="4.3000" rx="0.35" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="9.0000" y="45.0000" width="65.9451" height="4.3000" rx="0.35" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="1.0000" y="56.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">02</text>
+<text x="9.0000" y="56.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#329A9B" text-anchor="start">中国</text>
+<text x="80.0000" y="56.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.38667" font-weight="700" fill="#142C49" text-anchor="end">442.92</text>
+<rect x="9.0000" y="59.4000" width="71.0000" height="4.3000" rx="0.35" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="9.0000" y="59.4000" width="44.9248" height="4.3000" rx="0.35" fill="#329A9B" stroke="none" stroke-width="0.18" />
+<text x="1.0000" y="70.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">03</text>
+<text x="9.0000" y="70.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#155F91" text-anchor="start">美国</text>
+<text x="80.0000" y="70.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.38667" font-weight="700" fill="#142C49" text-anchor="end">423.97</text>
+<rect x="9.0000" y="73.8000" width="71.0000" height="4.3000" rx="0.35" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="9.0000" y="73.8000" width="43.0028" height="4.3000" rx="0.35" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="1.0000" y="85.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">04</text>
+<text x="9.0000" y="85.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#776195" text-anchor="start">南方六国</text>
+<text x="80.0000" y="85.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.38667" font-weight="700" fill="#142C49" text-anchor="end">105.35</text>
+<rect x="9.0000" y="88.2000" width="71.0000" height="4.3000" rx="0.35" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="9.0000" y="88.2000" width="10.6850" height="4.3000" rx="0.35" fill="#776195" stroke="none" stroke-width="0.18" />
+<text x="1.0000" y="99.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">05</text>
+<text x="9.0000" y="99.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#9C6A2D" text-anchor="start">印度</text>
+<text x="80.0000" y="99.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.38667" font-weight="700" fill="#142C49" text-anchor="end">89.47</text>
+<rect x="9.0000" y="102.6000" width="71.0000" height="4.3000" rx="0.35" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="9.0000" y="102.6000" width="9.0745" height="4.3000" rx="0.35" fill="#9C6A2D" stroke="none" stroke-width="0.18" />
+<path d="M9.000,112.000 L80.000,112.000" fill="none" stroke="#D8E3E9" stroke-width="0.22" />
+<text x="9.0000" y="117.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="middle">0</text>
+<text x="44.5000" y="117.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="middle">350</text>
+<text x="80.0000" y="117.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="end">700</text>
+<text x="90.0000" y="42.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">01</text>
+<text x="98.0000" y="42.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#155F91" text-anchor="start">美国</text>
+<text x="169.0000" y="42.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.38667" font-weight="700" fill="#142C49" text-anchor="end">175.14</text>
+<rect x="98.0000" y="45.0000" width="71.0000" height="4.3000" rx="0.35" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="98.0000" y="45.0000" width="62.1745" height="4.3000" rx="0.35" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="90.0000" y="56.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">02</text>
+<text x="98.0000" y="56.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#329A9B" text-anchor="start">中国</text>
+<text x="169.0000" y="56.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.38667" font-weight="700" fill="#142C49" text-anchor="end">72.10</text>
+<rect x="98.0000" y="59.4000" width="71.0000" height="4.3000" rx="0.35" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="98.0000" y="59.4000" width="25.5955" height="4.3000" rx="0.35" fill="#329A9B" stroke="none" stroke-width="0.18" />
+<text x="90.0000" y="70.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">03</text>
+<text x="98.0000" y="70.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#007D78" text-anchor="start">欧洲</text>
+<text x="169.0000" y="70.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.38667" font-weight="700" fill="#142C49" text-anchor="end">18.35</text>
+<rect x="98.0000" y="73.8000" width="71.0000" height="4.3000" rx="0.35" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="98.0000" y="73.8000" width="6.5142" height="4.3000" rx="0.35" fill="#007D78" stroke="none" stroke-width="0.18" />
+<text x="90.0000" y="85.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">04</text>
+<text x="98.0000" y="85.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#776195" text-anchor="start">南方六国</text>
+<text x="169.0000" y="85.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.38667" font-weight="700" fill="#142C49" text-anchor="end">0.60</text>
+<rect x="98.0000" y="88.2000" width="71.0000" height="4.3000" rx="0.35" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="98.0000" y="88.2000" width="0.2122" height="4.3000" rx="0.35" fill="#776195" stroke="none" stroke-width="0.18" />
+<text x="90.0000" y="99.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">05</text>
+<text x="98.0000" y="99.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.52778" font-weight="700" fill="#9C6A2D" text-anchor="start">印度</text>
+<text x="169.0000" y="99.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.38667" font-weight="700" fill="#142C49" text-anchor="end">0.41</text>
+<rect x="98.0000" y="102.6000" width="71.0000" height="4.3000" rx="0.35" fill="#F1F6F8" stroke="none" stroke-width="0.18" />
+<rect x="98.0000" y="102.6000" width="0.1470" height="4.3000" rx="0.35" fill="#9C6A2D" stroke="none" stroke-width="0.18" />
+<path d="M98.000,112.000 L169.000,112.000" fill="none" stroke="#D8E3E9" stroke-width="0.22" />
+<text x="98.0000" y="117.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="middle">0</text>
+<text x="133.5000" y="117.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="middle">100</text>
+<text x="169.0000" y="117.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="end">200</text>
+<text x="1.0000" y="127.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.06917" font-weight="400" fill="#506778" text-anchor="start">两项得分采用不同对象与汇总口径，不能相除解释为“转化率”。</text></svg>

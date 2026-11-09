@@ -1,0 +1,28 @@
+{
+  "version": "v0.1",
+  "date": "2026-11-07",
+  "status": "review_not_published",
+  "pdf_sha256": "44a4f32bd27188ceede079ca7926b6964c11befc5781352c945ccfe1e07485fc",
+  "pages": 40,
+  "a3_pages": [
+    31,
+    32
+  ],
+  "numbered_figures": 40,
+  "redrawn_figures": [
+    12,
+    13,
+    14,
+    34,
+    35
+  ],
+  "all_fonts_embedded": true,
+  "font_objects": 103,
+  "missing_glyphs_or_overfull_boxes": [],
+  "all_non_theme_backmatter_removed": true,
+  "unchanged_source_files": 1668,
+  "rank_matrix_cells_preserved": 460,
+  "emerging_records_preserved": 60,
+  "visual_review": "40 页总览；矩阵、合并页、新势力榜单、两张 A3 及章末回望重点检查通过。",
+  "verification_scope": "排版、可追溯性与固定输入一致性；不表示全部上游数据或研究主张独立核验完成。"
+}

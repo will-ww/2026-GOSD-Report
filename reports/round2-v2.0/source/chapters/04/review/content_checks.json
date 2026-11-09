@@ -1,0 +1,78 @@
+{
+  "raw_source_files": 1415,
+  "raw_source_hashes_unchanged": true,
+  "maps": [
+    {
+      "key": "41a",
+      "records": 86,
+      "logos": 84,
+      "all_ids_preserved": true
+    },
+    {
+      "key": "41b",
+      "records": 59,
+      "logos": 59,
+      "all_ids_preserved": true
+    },
+    {
+      "key": "42",
+      "records": 96,
+      "logos": 93,
+      "all_ids_preserved": true
+    },
+    {
+      "key": "43",
+      "records": 86,
+      "logos": 86,
+      "all_ids_preserved": true
+    },
+    {
+      "key": "44",
+      "records": 93,
+      "logos": 93,
+      "all_ids_preserved": true
+    },
+    {
+      "key": "45",
+      "records": 78,
+      "logos": 77,
+      "all_ids_preserved": true
+    },
+    {
+      "key": "46",
+      "records": 83,
+      "logos": 79,
+      "all_ids_preserved": true
+    }
+  ],
+  "total_atlas_appearances": 581,
+  "total_logo_appearances": 571,
+  "figure_sequence": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "all_portrait": true,
+  "all_fonts_embedded": true,
+  "removed_backmatter_absent": true,
+  "pytorch_scope_explicit": true,
+  "pdf_sha256": "026601c1562bce48574d0fdbeaca202f84450ceb98fac4cdd0b59fc597bf6ff6"
+}

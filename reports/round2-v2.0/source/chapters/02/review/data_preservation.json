@@ -1,0 +1,522 @@
+[
+  {
+    "path": "25/editorial_baseline_v01.json",
+    "identical": true
+  },
+  {
+    "path": "22/README.md",
+    "identical": true
+  },
+  {
+    "path": "23/README.md",
+    "identical": true
+  },
+  {
+    "path": "21/china_provinces_with_change.csv",
+    "identical": true
+  },
+  {
+    "path": "21/top20_display.csv",
+    "identical": true
+  },
+  {
+    "path": "21/global_2026_top10.csv",
+    "identical": true
+  },
+  {
+    "path": "21/global_active_excerpt.csv",
+    "identical": true
+  },
+  {
+    "path": "21/five_groups_growth_display.csv",
+    "identical": true
+  },
+  {
+    "path": "21/china_growth_groups_derived.csv",
+    "identical": true
+  },
+  {
+    "path": "21/china_growth_comparison_display.csv",
+    "identical": true
+  },
+  {
+    "path": "21/octoverse_context.csv",
+    "identical": true
+  },
+  {
+    "path": "21/global_report_year_trend.csv",
+    "identical": true
+  },
+  {
+    "path": "21/five_groups_current.csv",
+    "identical": true
+  },
+  {
+    "path": "21/five_groups_active_trend.csv",
+    "identical": true
+  },
+  {
+    "path": "21/README.md",
+    "identical": true
+  },
+  {
+    "path": "25/estimates/ai_sensitivity.csv",
+    "identical": true
+  },
+  {
+    "path": "25/estimates/categories_constant_mix_history.csv",
+    "identical": true
+  },
+  {
+    "path": "25/estimates/category_scenarios.csv",
+    "identical": true
+  },
+  {
+    "path": "25/estimates/categories_baseline.csv",
+    "identical": true
+  },
+  {
+    "path": "25/maps/naturalearth_lowres.shx",
+    "identical": true
+  },
+  {
+    "path": "25/maps/naturalearth_lowres.prj",
+    "identical": true
+  },
+  {
+    "path": "25/maps/naturalearth_lowres.cpg",
+    "identical": true
+  },
+  {
+    "path": "25/maps/README.md",
+    "identical": true
+  },
+  {
+    "path": "25/maps/point_overrides.csv",
+    "identical": true
+  },
+  {
+    "path": "25/maps/naturalearth_lowres.shp",
+    "identical": true
+  },
+  {
+    "path": "25/maps/naturalearth_lowres.dbf",
+    "identical": true
+  },
+  {
+    "path": "25/derived/modelTasks.csv",
+    "identical": true
+  },
+  {
+    "path": "25/derived/platform_comparison.csv",
+    "identical": true
+  },
+  {
+    "path": "25/derived/datasetTasks.csv",
+    "identical": true
+  },
+  {
+    "path": "25/derived/datasets_country_records.csv",
+    "identical": true
+  },
+  {
+    "path": "25/derived/datasets_shares.csv",
+    "identical": true
+  },
+  {
+    "path": "25/derived/models_country_records.csv",
+    "identical": true
+  },
+  {
+    "path": "25/derived/models_shares.csv",
+    "identical": true
+  },
+  {
+    "path": "25/raw/github_2026_official_extract.csv",
+    "identical": true
+  },
+  {
+    "path": "25/raw/technology_2025_chart_extract.csv",
+    "identical": true
+  },
+  {
+    "path": "25/raw/publisher_sample_extract.json",
+    "identical": true
+  },
+  {
+    "path": "25/raw/hf_2026_growth_extract.csv",
+    "identical": true
+  },
+  {
+    "path": "25/raw/modelSummary.json",
+    "identical": true
+  },
+  {
+    "path": "25/raw/hf_robotics_extract.csv",
+    "identical": true
+  },
+  {
+    "path": "25/raw/platform_active_repositories.csv",
+    "identical": true
+  },
+  {
+    "path": "25/raw/hf_qwen_gguf_extract.csv",
+    "identical": true
+  },
+  {
+    "path": "25/raw/modelTasks.json",
+    "identical": true
+  },
+  {
+    "path": "25/raw/datasetTasks.json",
+    "identical": true
+  },
+  {
+    "path": "25/raw/datasetSummary.json",
+    "identical": true
+  },
+  {
+    "path": "22/maps/naturalearth_lowres.shx",
+    "identical": true
+  },
+  {
+    "path": "22/maps/naturalearth_lowres.prj",
+    "identical": true
+  },
+  {
+    "path": "22/maps/naturalearth_lowres.cpg",
+    "identical": true
+  },
+  {
+    "path": "22/maps/README.md",
+    "identical": true
+  },
+  {
+    "path": "22/maps/naturalearth_lowres.shp",
+    "identical": true
+  },
+  {
+    "path": "22/maps/naturalearth_lowres.dbf",
+    "identical": true
+  },
+  {
+    "path": "22/derived/project_composition.csv",
+    "identical": true
+  },
+  {
+    "path": "22/derived/sankey_share_groups.csv",
+    "identical": true
+  },
+  {
+    "path": "22/derived/provinces_derived.csv",
+    "identical": true
+  },
+  {
+    "path": "22/derived/sankey_absolute_links.csv",
+    "identical": true
+  },
+  {
+    "path": "22/derived/countries_comparison.csv",
+    "identical": true
+  },
+  {
+    "path": "22/derived/five_groups_derived.csv",
+    "identical": true
+  },
+  {
+    "path": "22/raw/province_average_original_top10.csv",
+    "identical": true
+  },
+  {
+    "path": "22/raw/project_sources_top10.csv",
+    "identical": true
+  },
+  {
+    "path": "22/raw/five_groups_contribution.csv",
+    "identical": true
+  },
+  {
+    "path": "22/raw/provinces_2025_snapshot.csv",
+    "identical": true
+  },
+  {
+    "path": "22/raw/countries_top35_excerpt.csv",
+    "identical": true
+  },
+  {
+    "path": "22/raw/countries_236_value_extract.csv",
+    "identical": true
+  },
+  {
+    "path": "23/maps/naturalearth_lowres.shx",
+    "identical": true
+  },
+  {
+    "path": "23/maps/naturalearth_lowres.prj",
+    "identical": true
+  },
+  {
+    "path": "23/maps/naturalearth_lowres.cpg",
+    "identical": true
+  },
+  {
+    "path": "23/maps/README.md",
+    "identical": true
+  },
+  {
+    "path": "23/maps/naturalearth_lowres.shp",
+    "identical": true
+  },
+  {
+    "path": "23/maps/naturalearth_lowres.dbf",
+    "identical": true
+  },
+  {
+    "path": "23/derived/china_top10_participation_comparison.csv",
+    "identical": true
+  },
+  {
+    "path": "23/derived/china_projects_display.csv",
+    "identical": true
+  },
+  {
+    "path": "23/derived/countries_display.csv",
+    "identical": true
+  },
+  {
+    "path": "23/derived/cn_us_relative_position.csv",
+    "identical": true
+  },
+  {
+    "path": "23/derived/five_comparison.csv",
+    "identical": true
+  },
+  {
+    "path": "23/raw/five_groups_influence.csv",
+    "identical": true
+  },
+  {
+    "path": "23/raw/china_projects_30_excerpt.csv",
+    "identical": true
+  },
+  {
+    "path": "23/raw/countries_30_excerpt.csv",
+    "identical": true
+  },
+  {
+    "path": "23/raw/five_groups_contribution.csv",
+    "identical": true
+  },
+  {
+    "path": "23/raw/companies_top6_excerpt.csv",
+    "identical": true
+  },
+  {
+    "path": "21/maps/naturalearth_lowres.shx",
+    "identical": true
+  },
+  {
+    "path": "21/maps/naturalearth_lowres.prj",
+    "identical": true
+  },
+  {
+    "path": "21/maps/naturalearth_lowres.cpg",
+    "identical": true
+  },
+  {
+    "path": "21/maps/README.md",
+    "identical": true
+  },
+  {
+    "path": "21/maps/naturalearth_lowres.shp",
+    "identical": true
+  },
+  {
+    "path": "21/maps/naturalearth_lowres.dbf",
+    "identical": true
+  },
+  {
+    "path": "26/maps/naturalearth_lowres.shx",
+    "identical": true
+  },
+  {
+    "path": "26/maps/naturalearth_lowres.prj",
+    "identical": true
+  },
+  {
+    "path": "26/maps/naturalearth_lowres.cpg",
+    "identical": true
+  },
+  {
+    "path": "26/maps/README.md",
+    "identical": true
+  },
+  {
+    "path": "26/maps/point_overrides.csv",
+    "identical": true
+  },
+  {
+    "path": "26/maps/naturalearth_lowres.shp",
+    "identical": true
+  },
+  {
+    "path": "26/maps/naturalearth_lowres.dbf",
+    "identical": true
+  },
+  {
+    "path": "26/derived/share_changes_by_year.csv",
+    "identical": true
+  },
+  {
+    "path": "26/derived/destination_summary.csv",
+    "identical": true
+  },
+  {
+    "path": "26/derived/sankey_20_to_cn_us.csv",
+    "identical": true
+  },
+  {
+    "path": "26/derived/external_United_States.csv",
+    "identical": true
+  },
+  {
+    "path": "26/derived/source_bounds.csv",
+    "identical": true
+  },
+  {
+    "path": "26/derived/other_origins_top16.csv",
+    "identical": true
+  },
+  {
+    "path": "26/derived/external_China.csv",
+    "identical": true
+  },
+  {
+    "path": "26/derived/flows_classified.csv",
+    "identical": true
+  },
+  {
+    "path": "26/derived/share_change.csv",
+    "identical": true
+  },
+  {
+    "path": "26/raw/flows_60.csv",
+    "identical": true
+  },
+  {
+    "path": "26/raw/github2026_typescript_share.csv",
+    "identical": true
+  },
+  {
+    "path": "26/raw/github2026_language_ai_share.csv",
+    "identical": true
+  },
+  {
+    "path": "26/raw/project_sources_top10.csv",
+    "identical": true
+  },
+  {
+    "path": "26/raw/country_share_trend.csv",
+    "identical": true
+  },
+  {
+    "path": "26/raw/countries_top35_excerpt.csv",
+    "identical": true
+  },
+  {
+    "path": "26/raw/github2026_language_observations.csv",
+    "identical": true
+  },
+  {
+    "path": "26/raw/github2026_language_gain.csv",
+    "identical": true
+  },
+  {
+    "path": "26/raw/countries_236_value_extract.csv",
+    "identical": true
+  },
+  {
+    "path": "26/raw/kys2024_language_table.csv",
+    "identical": true
+  },
+  {
+    "path": "24/maps/naturalearth_lowres.shx",
+    "identical": true
+  },
+  {
+    "path": "24/maps/naturalearth_lowres.prj",
+    "identical": true
+  },
+  {
+    "path": "24/maps/naturalearth_lowres.cpg",
+    "identical": true
+  },
+  {
+    "path": "24/maps/README.md",
+    "identical": true
+  },
+  {
+    "path": "24/maps/naturalearth_lowres.shp",
+    "identical": true
+  },
+  {
+    "path": "24/maps/naturalearth_lowres.dbf",
+    "identical": true
+  },
+  {
+    "path": "24/derived/global_top20.csv",
+    "identical": true
+  },
+  {
+    "path": "24/derived/five_region_comparison.csv",
+    "identical": true
+  },
+  {
+    "path": "24/derived/city_comparison.csv",
+    "identical": true
+  },
+  {
+    "path": "24/raw/global_talent.csv",
+    "identical": true
+  },
+  {
+    "path": "24/raw/five_region_talent.csv",
+    "identical": true
+  },
+  {
+    "path": "24/raw/ten_city_talent.csv",
+    "identical": true
+  },
+  {
+    "path": "27/derived/license_comparison.csv",
+    "identical": true
+  },
+  {
+    "path": "27/derived/foundation_derived.csv",
+    "identical": true
+  },
+  {
+    "path": "27/derived/foundation_changes_by_year.csv",
+    "identical": true
+  },
+  {
+    "path": "27/derived/mulan_derived.csv",
+    "identical": true
+  },
+  {
+    "path": "27/raw/mulan.csv",
+    "identical": true
+  },
+  {
+    "path": "27/raw/licenses.csv",
+    "identical": true
+  },
+  {
+    "path": "27/raw/foundation.csv",
+    "identical": true
+  },
+  {
+    "path": "27/raw/github2025_governance_files.csv",
+    "identical": true
+  }
+]

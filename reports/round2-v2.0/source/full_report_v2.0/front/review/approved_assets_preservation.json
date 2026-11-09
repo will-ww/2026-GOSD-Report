@@ -1,0 +1,27 @@
+[
+  {
+    "asset": "report_cover.pdf",
+    "sha256": "e83eca352590dd04d10f7867b7a30358e347fe869b70954a6b24b967a6192817",
+    "unchanged": true
+  },
+  {
+    "asset": "chapter1_cover.pdf",
+    "sha256": "4386126606a62e174aedf1d4d05c960e86f2bc93369cb3600ef0e8f61a6592ee",
+    "unchanged": true
+  },
+  {
+    "asset": "dimension_board.pdf",
+    "sha256": "0c6f62ac49cc1017c8ceebfe2659501c1c9c21f0ef4c045faa370d710b06c89d",
+    "unchanged": true
+  },
+  {
+    "asset": "dimension_strip.pdf",
+    "sha256": "7c5d9e71f029bd885112c6e007c03fe0b0153da2fb45af974c3c7f4dd05a5c28",
+    "unchanged": true
+  },
+  {
+    "asset": "osdgs_symbol_compact.pdf",
+    "sha256": "cfec61a974b02b822821d506fa4e3a5e1bde6600d57dc4e3aa08240a9423be18",
+    "unchanged": true
+  }
+]

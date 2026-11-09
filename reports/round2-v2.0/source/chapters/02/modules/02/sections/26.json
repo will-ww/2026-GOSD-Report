@@ -1,0 +1,228 @@
+{
+  "section": "2.6",
+  "name": "全球开源多样性地图",
+  "abbreviation": "D-Map",
+  "version": "v1.0.0-chapter-review",
+  "status": "整章整合评审稿；待作者评审",
+  "pages": [
+    {
+      "title": "2.6 全球开源多样性地图（D-Map）",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "前五节分别观察参与、贡献、项目、人才与资产。多样性地图进一步询问：这些活动由哪些来源构成，哪些技术社区正在扩张，合作是否连接多个地区。本节聚焦有定义、有来源的维度，不构造笼统的多样性总分。"
+        },
+        {
+          "type": "heading",
+          "text": "2.6.1 全球来源：从主要节点看向更广泛的参与"
+        },
+        {
+          "type": "p",
+          "text": "在2025自然年贡献快照中，固定五国——美国、德国、中国、英国和印度——之外，法国、加拿大、巴西、荷兰、日本等地也提供了可观贡献。展开头部之外的来源，有助于避免把生态理解为少数中心的集合。[[geography]]"
+        },
+        {
+          "type": "figure",
+          "asset": "global_origins",
+          "caption": "全球贡献分布与固定五国之外的主要来源",
+          "label": "fig:origins",
+          "source": "来源：OpenDigger／GOSD归档，2025自然年快照。排行份额以已列236个地区的贡献合计为分母。"
+        }
+      ],
+      "subtitle": "由规模转向构成，看见不同来源与技术选择"
+    },
+    {
+      "title": "总体构成稳定，年度份额变化并非单向",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "2022—2026报告年度，固定五国的合计份额由49.47%变为48.62%，总体变化较小。逐年展开后，各来源的调整路径则明显不同。构成条保留当期结构，变化矩阵区分每年的升降。[[shares]]"
+        },
+        {
+          "type": "figure",
+          "asset": "source_structure_change",
+          "caption": "贡献来源的当期构成、逐年变化与累计变化",
+          "label": "fig:sharechange",
+          "source": "来源：报告编制组份额表，2022—2026报告年度。热力色深共用尺度，表示年度变动幅度；右栏为2026较2022的百分点差额。"
+        },
+        {
+          "type": "p",
+          "text": "最近一年，中国与印度分别回升**0.43和0.41个百分点**，美国下降0.97个百分点。中国2025年下降后回升，美国2025年上升后回落，说明年度调整并非持续的单向转移。"
+        },
+        {
+          "type": "p",
+          "text": "五年累计，美国下降2.34个百分点，印度上升0.80个百分点，其他地区合计上升0.85个百分点。其他地区仍是集合，不能据此判断新增了多少国家；份额升降也不同于贡献总量增减。"
+        }
+      ]
+    },
+    {
+      "title": "技术参与：2026年语言社区的规模与扩张",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "地域之外，编程语言提供了观察技术参与的另一条线索。GitHub Octoverse 2026显示，TypeScript、Python与JavaScript的月度参与规模保持前三；2025年9月至2026年9月，分别净增约362万、323万与182万月度贡献者。[[gh26]]"
+        },
+        {
+          "type": "figure",
+          "asset": "language_profile",
+          "caption": "2026年主要语言的月度贡献者增量与部分语言同比增幅",
+          "label": "fig:language",
+          "source": "来源：GitHub Octoverse 2026正文及官方图。2025年9月至2026年9月；默认含公私仓，账号可跨语言重复。仅绘制已明确公布的值，不使用2027年预测。"
+        },
+        {
+          "type": "p",
+          "text": "人数增量最大的是TypeScript，官方所列主要语言中同比增幅最高的是Rust，达到162%；TypeScript、Python和Java分别为134%、118%与30%。较小社区可以更快扩张，大型社区仍可能增加更多参与者。"
+        },
+        {
+          "type": "p",
+          "text": "月度贡献者包括在对应语言仓库中推送、提出问题、提交修改和参与评审的去重账号，不仅是直接写代码的人。账号可同时参与多种语言，不能把各语言人数相加为独立总人数。"
+        }
+      ]
+    },
+    {
+      "title": "工具使用与仓库结构：关联存在，机制仍需辨认",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "工具使用与技术选择也呈现关联。GitHub同时观察了各语言已合入修改请求中的可检测AI参与比例，以及不同仓库群体的主语言构成。前者描述工作流程，后者描述代码组织，分母不同。[[gh26]]"
+        },
+        {
+          "type": "figure",
+          "asset": "language_agent_patterns",
+          "caption": "不同语言的AI参与信号与TypeScript仓库构成",
+          "label": "fig:languageai",
+          "source": "来源：GitHub Octoverse 2026官方图及正文，观察至2026年9月。上图以各语言已合入PR为分母；下图以相应仓库组为分母。检出比例不代表AI生成代码占比。"
+        },
+        {
+          "type": "p",
+          "text": "所列八种语言中，AI检出比例介于Java的21.2%与TypeScript的44.1%之间。这里识别的是可见信号，不是AI生成代码的比例；未检出也不能判为没有使用AI。"
+        },
+        {
+          "type": "p",
+          "text": "2026年新建仓库中，有Agent信号者35%以TypeScript为主语言，无该信号者为24%；此前创建的仓库分别为27%与17%。差异提示工具与技术选择值得联合研究，但不能排除项目用途、团队经验和框架选择等因素。"
+        }
+      ]
+    },
+    {
+      "title": "2.6.2 中美对照：跨境份额与来源构成分别观察",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "2.2已说明中美项目的本土与跨境结构。本节沿用同一来源前十表，进一步观察已列海外贡献由谁构成：中国项目的已列跨境份额为14.02%，美国为39.66%；未列来源继续单独保留。[[source]]"
+        },
+        {
+          "type": "figure",
+          "asset": "external_structure_bounds",
+          "caption": "中美项目的来源覆盖与已列跨境贡献内部构成",
+          "label": "fig:external",
+          "source": "来源：中美项目来源前十表，2026报告年度。上栏分母为各组全部贡献，下栏为各自已列海外贡献；未列来源保留。"
+        },
+        {
+          "type": "p",
+          "text": "仅以各自已列海外贡献为分母，美国来源占中国项目的44.4%；中国来源占美国项目的19.6%，德国、英国与加拿大也各占较大部分。跨境份额说明海外贡献占多少，内部构成则说明这些贡献由谁提供。"
+        },
+        {
+          "type": "p",
+          "text": "中国样本的已列海外贡献更集中于最大单一来源，美国样本相对分散。该观察只涉及前十表已列部分，完整结构仍受未列来源影响，不能据此推导项目吸引力或治理优劣。"
+        }
+      ]
+    },
+    {
+      "title": "2.6.3 贡献连接：同一来源可支持多地项目",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "另一份扩展关系表覆盖14个来源和10个项目归属地区。本页选取其中进入中美项目的20条，用统一尺度呈现本土支持与跨地域参与；它与2.2的来源前十表是独立样本，不能用两表差额解释变化。[[flows]]"
+        },
+        {
+          "type": "figure",
+          "asset": "contribution_sankey",
+          "caption": "中美项目样本的跨地域贡献连接",
+          "label": "fig:sankey",
+          "source": "来源：60条归档关系中进入中美项目的20条，2026报告年度。带宽按贡献度线性绘制；与图<<fig:external>>的来源前十表为独立样本。"
+        },
+        {
+          "type": "p",
+          "text": "本表中国来源对本土项目的贡献为44,698.58 OpenRank，对美国项目为43,542.15，两者接近。**参与国际项目与支持本土项目可以同时发生**，不宜将其视为相互替代的选择。"
+        },
+        {
+          "type": "p",
+          "text": "带宽表示已列贡献度，不是人数、资金或迁移数量。关系能否延续、外部贡献者能否承担共同维护，仍需项目层面的长期观察。"
+        }
+      ]
+    },
+    {
+      "title": "从重点流向展开到全部已列关系",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "同一扩展关系表的全部60条记录，在图<<fig:matrix>>中展开为来源—目的地矩阵。与前页桑基图相比，矩阵便于逐项查找，保留了主要通道之外的连接。[[flows]]"
+        },
+        {
+          "type": "figure",
+          "asset": "flow_matrix",
+          "caption": "贡献来源与项目归属地区的已列关系矩阵",
+          "label": "fig:matrix",
+          "source": "来源：报告编制组60条关系表，2026报告年度。单位：万OpenRank；本土单元格以边框标识，灰格为未列。"
+        },
+        {
+          "type": "p",
+          "text": "中国来源还出现在印度、德国、英国、加拿大、法国和波兰的项目记录中，其他来源也呈现多向参与。不同地区的协作不是只有单向“输出”或“接收”，项目归属与共同建设者所在地需同时保留。"
+        },
+        {
+          "type": "p",
+          "text": "中美目的地各列10个来源，其他目的地各列5个，因而灰格表示未列、不是零。支持多元参与，应从可进入的任务、可获得的反馈和明确的维护职责着手，而非单凭已列连接数评价。下一节转向这些合作的组织与规则基础。"
+        }
+      ],
+      "section_implication": {
+        "title": "2.6.4 观察启示：让多元参与进入共同建设",
+        "text": "为不同地区、语言与技术背景的参与者提供清晰任务和反馈，支持测试、文档与本地适配。贡献来源的增加，应与长期协作和责任承担分别观察。"
+      }
+    }
+  ],
+  "references": [
+    [
+      "geography",
+      "GOSD编制组. 2025自然年贡献地域快照；沿用2.2 v0.3.1已保留的236地区数值摘录。",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/cmap/countries.csv"
+    ],
+    [
+      "shares",
+      "GOSD编制组. 固定五国与其他国家贡献份额序列，2022—2026报告年度。",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/dmap/source/fig-2-5-1_country_contribution_share_trend.csv"
+    ],
+    [
+      "source",
+      "GOSD编制组. 中美项目贡献来源前十表，独立样本。",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/dmap/source/table-2-5-1_china_us_project_contribution_top10.csv"
+    ],
+    [
+      "flows",
+      "GOSD编制组. 跨地域项目贡献关系表，60条已列关系。",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/dmap/source/fig-2-5-2_cross_border_project_contribution_flow.csv"
+    ],
+    [
+      "manifest",
+      "GOSD编制组. D-Map来源清单、样本定义与缺项记录。",
+      "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/dmap/source-manifest.json"
+    ],
+    [
+      "chaoss",
+      "CHAOSS. Practitioner Guide: Organizational Participation，访问于2026-11-05。",
+      "https://www.chaoss.community/practitioner-guide-organizational-participation/"
+    ],
+    [
+      "gh26",
+      "GitHub. Octoverse 2026，Language choice has new influence及Methodology。2026-10-28。",
+      "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/"
+    ],
+    [
+      "hf26",
+      "Hugging Face. State of Open Source on Hugging Face: Spring 2026，地域、衍生模型与子社区。2026-03-17。",
+      "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026"
+    ]
+  ],
+  "editorial_notes": {
+    "input_version": "v0.4.0",
+    "scope": "正文精修、重复收束与图文对齐；不改原始统计值"
+  }
+}
