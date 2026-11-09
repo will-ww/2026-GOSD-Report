@@ -1,0 +1,115 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{layout}
+\begin{document}
+
+% Page 1: restore the approved 2026 chapter opener.
+\begin{canvas}
+\pdfbookmark[0]{第一章 从开放协作到公共价值}{chapter1}
+\node[anchor=north west,inner sep=0pt,outer sep=0pt] at (current page.north west){\includegraphics[width=210mm,height=297mm]{.build/assets/chapter1-cover.pdf}};
+\Box{27}{227}{161}{\sffamily\bfseries\fontsize{11.5}{16}\selectfont\color{teal}AI 重塑开源，开源塑造 AI}
+\end{canvas}
+
+% Page 2: AI -> open collaboration, with distinct external windows.
+\begin{canvas}
+\Header{1.1 · 双向重塑}{blue}\Footer{02}
+\Sec{blue}{1.1　人工智能时代的开源协作：双向重塑}{section11}
+\Title{AI 改变创造与协作的节奏}
+\Subhead{59}{blue}{从活动增长，进入生产方式与协作责任的变化}
+\Body{22}{72}{166}{人工智能将生成、自动化和智能体协作带入开发过程，也扩展了代码之外的模型与数据供给。GitHub 与 Hugging Face（HF）的官方观察呈现出不同侧面的增长。规模变化提出了新的研究问题：谁在创造，谁负责审阅与集成，谁承担持续维护？}
+\Label{22}{97}{166}{开发活动：GitHub 的三个年度观察}
+\input{figures/growth.tex}
+\Body{22}{239}{166}{GitHub 还观察到，2026 年 9 月逾 40\% 的 PR 由开发者借助智能体发起。生成变快之后，审阅、测试、集成与维护如何跟进，成为理解开源协作的重要问题。}
+\Note{22}{260}{166}{图 1-1　来源：\href{\GH}{GitHub Octoverse 2026}、\href{\HF}{HF Summer 2026}。GitHub 各年为截至 9 月 30 日的 12 个月，含公开与私有仓库；HF 为夏季报告所列公共资源存量，具体快照日未明示。各面板独立标度；两平台不合并计算。}
+\end{canvas}
+
+% Page 3: open collaboration -> AI, centred on reuse and adaptation.
+\begin{canvas}
+\Header{1.1 · 双向重塑}{blue}\Footer{03}
+\Kicker{blue}{1.1 / OPEN COLLABORATION SHAPES AI}
+\Title{开源改变 AI 的扩散与演进}
+\Subhead{59}{blue}{模型的开放供给，通过社区接续成为可用能力}
+\Body{22}{72}{166}{开源为 AI 提供可以继续开发的代码、工具与知识基础。模型发布之后，社区还会开展格式转换、量化、微调和运行适配，使不同设备与场景能够接续已有成果。使用过程又产生问题反馈与改进需求，推动工具、模型和应用共同演进。}
+\input{figures/reuse.tex}
+\Label{22}{192}{166}{中国模型与全球社区：Qwen 的开放复用观察}
+\Box{22}{205}{76}{\digits\bfseries\fontsize{25}{29}\selectfont\color{blue}151,448}
+\Box{109}{205}{79}{\digits\bfseries\fontsize{23}{29}\selectfont\color{teal}54 / 28,531}
+\Note{22}{221}{77}{HF 报告记录的 Qwen 衍生仓库}
+\Note{109}{221}{79}{Qwen 官方发布／全部 GGUF 转换}
+\Body{22}{236}{166}{在来源覆盖的 GGUF 转换中，约 99.8\% 由其他账号发布。原始模型供给与社区适配共同构成开放复用生态。其全球影响需要联系工具、维护与跨境接续来观察，而不能仅由模型发布数量解释。}
+\Note{22}{262}{166}{来源：\href{\HF}{HF Summer 2026}，Qwen 与 GGUF 观察。衍生和转换是仓库计数，不等于独立原创模型或部署数量；GGUF 为常见模型文件格式。99.8\% 由所列计数推算；本例不并入主统计期。}
+\end{canvas}
+
+% Page 4: approved X1-X4 / D01-D10 identity.
+\begin{canvas}
+\Header{1.2 · 发展目标}{teal}\Footer{04}
+\Sec{teal}{1.2　开源发展目标：从开放资源到公共能力}{section12}
+\Title{四项发展目标，组织共同问题}
+\Subhead{59}{teal}{以人才、供给、连接与治理观察发展质量}
+\Body{22}{72}{166}{AI 与开源的双向变化，使评价需要同时关心参与机会、开放供给、全球接续和长期治理。开源发展目标（OSDGs）以四个互补支柱、十个观察维度组织这些问题，为不同地区与主体提供共同的研究语言。}
+\input{figures/goals.tex}
+\Cap{246}{图 1-3　开源发展目标的四支柱与十个观察维度}
+\Body{22}{255}{166}{体系能力体现为多类主体与资源之间的持续支撑；公共能力进一步关注更多地区能否掌握、改进和长期使用这些成果。两者需要相互联系、分别观察。}
+\Note{22}{272}{166}{来源：2026 版获批研究框架与动态星座 v2.0.0。框架表达发展方向，不等于各维度已完成实测或已实现成效。}
+\end{canvas}
+
+% Page 5: public capability conditions, local co-creation and governance.
+\begin{canvas}
+\Header{1.2 · 发展目标}{teal}\Footer{05}
+\Kicker{teal}{1.2 / OPEN RESOURCES, SUSTAINABLE CAPABILITIES}
+\Title{让开放成果成为可持续公共能力}
+\Subhead{59}{teal}{AI 普惠要连接资源可及、本地共创与长期维护}
+\Body{22}{72}{166}{开放使更多人有机会接触和改进技术，但从获得资源到持续使用，仍需许可、成本、人才与组织条件。对于本地语言服务、教育或公共部门应用，关键问题是当地伙伴能否理解系统、参与改进，并在项目交付之后继续维护。}
+\input{figures/capacity.tex}
+\Label{22}{195}{166}{把共同发展目标转化为可落实的合作条件}
+\Body{22}{207}{166}{\textbf{支持本地共创。} 全球南方的语言、文化知识与实际需求应进入问题定义、数据建设和评价过程，使当地伙伴能够参与技术选择与规则形成。}
+\Body{22}{226}{166}{\textbf{落实长期组织。} 基金会、企业、研究机构与社区可围绕共同基础设施、维护资金、人才培养和治理责任形成持续合作，具体作用须结合案例检验。}
+\Body{22}{245}{166}{\textbf{分别检验条件与结果。} SDGs 提供发展方向，数字公共品标准关注开放与设计条件；成本、服务质量及公平性仍须由真实实施来评价。}
+\Note{22}{266}{166}{来源：2026 版第一章条件关系框架；\href{\UNGoals}{联合国可持续发展目标}、\href{\DPG}{DPGA 数字公共品标准}。目标关联与开放条件不构成具体项目的公共成效证明或机构背书。}
+\end{canvas}
+
+% Page 6: observation across platforms and object relationships.
+\begin{canvas}
+\Header{1.3 · 观察方法}{gold}\Footer{06}
+\Sec{gold}{1.3　观察方法：跨平台的全球开源全景}{section13}
+\Title{将分散的对象，放回协作关系}
+\Subhead{59}{gold}{连接人才、组织、项目、代码、模型与数据}
+\Body{22}{72}{166}{本报告从 GitHub 的开发协作、HF 的模型与数据资源，以及已具备证据的补充平台出发，联读参与主体、开放资产及其关系。同一项目可能跨越多个仓库，同一模型也可能被不同组织继续加工，单个平台计数难以独自解释完整过程。}
+\input{figures/entities.tex}
+\Body{22}{249}{166}{跨平台观察的价值，在于识别供给与接续如何连接。身份和关系仅在已核验范围内联读，各类资源保留自己的统计单位；“全域视野”不等于所有对象已被完整测量。}
+\Note{22}{271}{166}{来源：2026 版研究框架；\href{\OD}{OpenDigger} 提供数据组织与开放指标基础。平台覆盖、未知地区、身份和项目映射状态随具体图表登记。}
+\end{canvas}
+
+% Page 7: accessible explanation, explicit sample/period boundaries.
+\begin{canvas}
+\Header{1.3 · 观察方法}{gold}\Footer{07}
+\Kicker{gold}{1.3 / PARTICIPATION, CONTRIBUTION AND INFLUENCE}
+\Title{同一生态，需要不同的观察尺度}
+\Subhead{59}{gold}{参与、贡献与影响力，共同解释协作}
+\Body{22}{72}{166}{参与说明谁进入共同工作，贡献关注完成了哪些协作，影响力观察这些工作在关系网络中的位置。AI 生成与自动化进一步改变了活动量的含义，因此需要辨别参与主体、协作类型与持续性，不能由提交数量直接判断能力。}
+\input{figures/measures.tex}
+\Rule{22}{230}{188}{line}
+\Label{22}{236}{166}{主统计期：2025-07-01 至 2026-06-30}
+\Note{22}{247}{166}{历史比较使用可比窗口；外部平台年度窗和期后观察分别标注。跨平台身份、自动化账号、地区未知与项目边界按实际核验状态处理，未知不按零计算。}
+\Note{22}{262}{166}{来源：2026 版第一章与\href{\OD}{OpenDigger／OpenRank 方法材料}。OSDI 将四目标、十方向落实为候选指标；完整定义与可得性在附录 A 及研究记录中维护。下载、关注和派生也须分别解释，不能直接等同公共结果。}
+\end{canvas}
+
+% Page 8: four complementary perspectives and research questions, no premature findings.
+\begin{canvas}
+\Header{1.3 · 全书路径}{gold}\Footer{08}
+\Kicker{gold}{1.3 / FROM QUESTIONS TO EVIDENCE AND ACTION}
+\Title{从中国出发，理解全球开放协作}
+\Subhead{59}{gold}{四类证据共同回答人工智能时代的发展问题}
+\Body{22}{72}{166}{中国的模型供给、产业与人才实践，为观察全球开源提供了重要入口。本报告将其放入跨境复用与共同创新中，也关注其他地区的长期积累和全球南方的参与路径。地域特色与时序变化，需要由互补证据共同解释。}
+\input{figures/roadmap.tex}
+\Label{22}{207}{166}{贯穿全书的四组研究问题}
+\Label{22}{219}{14}{\textcolor{blue}{01}}
+\Body{37}{218}{151}{全球协作怎样形成跨层支撑与持续接续的体系能力？}
+\Label{22}{231}{14}{\textcolor{teal}{02}}
+\Body{37}{230}{151}{中国模型供给如何连接工具链、制度建设与全球社区？}
+\Label{22}{243}{14}{\textcolor{gold}{03}}
+\Body{37}{242}{151}{全球南方如何通过本地共创和组织支持形成公共能力？}
+\Label{22}{255}{14}{\textcolor{violet}{04}}
+\Body{37}{254}{151}{中国不同产业、人才群体和城市怎样形成各自优势？}
+\Note{22}{270}{166}{第六章依据前文经验证的发现，提炼关键洞察、分层时间前瞻与行动建议；各研究视角互补，不强制一一对应。}
+\end{canvas}
+\end{document}
