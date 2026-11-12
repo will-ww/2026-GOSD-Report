@@ -1,0 +1,79 @@
+repo,category,category_zh,classification
+lowRISC/opentitan,Implementations,芯片实现,上游分类映射
+riscv/riscv-isa-manual,RISC-V Programs,RISC-V 规范与计划,编辑归类 · 可共同修订
+chipsalliance/caliptra-sw,Implementations,芯片实现,编辑归类 · 可共同修订
+chipsalliance/caliptra-mcu-sw,Implementations,芯片实现,编辑归类 · 可共同修订
+riscv/sail-riscv,RISC-V Programs,RISC-V 规范与计划,编辑归类 · 可共同修订
+riscv/riscv-unified-db,RISC-V Programs,RISC-V 规范与计划,编辑归类 · 可共同修订
+chipsalliance/caliptra-ss,Implementations,芯片实现,编辑归类 · 可共同修订
+riscv/riscv-arch-test,"Design Tools, Compilers and Verification",设计工具与编译验证,编辑归类 · 可共同修订
+tezos/riscv-pvm,Applications,应用,编辑归类 · 可共同修订
+openeuler-riscv/oerv-team,Operating Systems,操作系统,编辑归类 · 可共同修订
+chipsalliance/caliptra-rtl,Implementations,芯片实现,编辑归类 · 可共同修订
+openhwgroup/cva6,Implementations,芯片实现,编辑归类 · 可共同修订
+risc0/risc0,Applications,应用,编辑归类 · 可共同修订
+riscv/riscv-cheri,RISC-V Programs,RISC-V 规范与计划,编辑归类 · 可共同修订
+riscv-software-src/riscv-isa-sim,"Design Tools, Compilers and Verification",设计工具与编译验证,上游分类映射
+chipsalliance/chisel,"Design Tools, Compilers and Verification",设计工具与编译验证,编辑归类 · 可共同修订
+felixonmars/archriscv-packages,Operating Systems,操作系统,编辑归类 · 可共同修订
+riscv-non-isa/riscv-iommu,RISC-V Programs,RISC-V 规范与计划,编辑归类 · 可共同修订
+linux-riscv/linux,Operating Systems,操作系统,编辑归类 · 可共同修订
+chipsalliance/Caliptra,Implementations,芯片实现,编辑归类 · 可共同修订
+riscv/riscv-fast-interrupt,RISC-V Programs,RISC-V 规范与计划,编辑归类 · 可共同修订
+riscv-collab/riscv-gnu-toolchain,"Design Tools, Compilers and Verification",设计工具与编译验证,编辑归类 · 可共同修订
+openhwgroup/cvw,Implementations,芯片实现,编辑归类 · 可共同修订
+riscv/meta-riscv,Operating Systems,操作系统,编辑归类 · 可共同修订
+lowRISC/qemu,"Design Tools, Compilers and Verification",设计工具与编译验证,编辑归类 · 可共同修订
+chipsalliance/t1,Implementations,芯片实现,编辑归类 · 可共同修订
+riscv-non-isa/iopmp-spec,RISC-V Programs,RISC-V 规范与计划,编辑归类 · 可共同修订
+rust-embedded/riscv,Libraries,库,编辑归类 · 可共同修订
+UTOSS/risc-v,Implementations,芯片实现,编辑归类 · 可共同修订
+chipsalliance/i3c-core,Implementations,芯片实现,编辑归类 · 可共同修订
+zte-riscv/go,"Design Tools, Compilers and Verification",设计工具与编译验证,编辑归类 · 可共同修订
+sophgo/linux-riscv,Operating Systems,操作系统,编辑归类 · 可共同修订
+riscv/riscv-smmtt,RISC-V Programs,RISC-V 规范与计划,编辑归类 · 可共同修订
+riscv-software-src/riscv-perf-model,"Design Tools, Compilers and Verification",设计工具与编译验证,编辑归类 · 可共同修订
+openhwgroup/cvw-arch-verif,"Design Tools, Compilers and Verification",设计工具与编译验证,编辑归类 · 可共同修订
+riscv-non-isa/riscv-trace-spec,RISC-V Programs,RISC-V 规范与计划,编辑归类 · 可共同修订
+SpinalHDL/VexiiRiscv,Implementations,芯片实现,编辑归类 · 可共同修订
+Purdue-SoCET/RISCVBusiness,Implementations,芯片实现,编辑归类 · 可共同修订
+openhwgroup/core-v-verif,"Design Tools, Compilers and Verification",设计工具与编译验证,编辑归类 · 可共同修订
+mit-pdos/xv6-riscv,Operating Systems,操作系统,编辑归类 · 可共同修订
+chipsalliance/adams-bridge,Implementations,芯片实现,编辑归类 · 可共同修订
+lowRISC/ibex,Implementations,芯片实现,编辑归类 · 可共同修订
+lowRISC/dvsim,"Design Tools, Compilers and Verification",设计工具与编译验证,编辑归类 · 可共同修订
+riscv/riscv-memory-tagging,RISC-V Programs,RISC-V 规范与计划,编辑归类 · 可共同修订
+riscv/docs-resources,Infrastructure,基础设施,编辑归类 · 可共同修订
+RISC-V-Certification-Steering-Committee/riscv-isa-manual,RISC-V Programs,RISC-V 规范与计划,编辑归类 · 可共同修订
+riscv-collab/riscv-openocd,"Design Tools, Compilers and Verification",设计工具与编译验证,编辑归类 · 可共同修订
+riscv-non-isa/riscv-external-debug-security,RISC-V Programs,RISC-V 规范与计划,编辑归类 · 可共同修订
+riscv-non-isa/riscv-hart-trace-interface,RISC-V Programs,RISC-V 规范与计划,编辑归类 · 可共同修订
+riscv-non-isa/riscv-server-platform,RISC-V Programs,RISC-V 规范与计划,编辑归类 · 可共同修订
+chipsalliance/caliptra-dpe,Implementations,芯片实现,编辑归类 · 可共同修订
+riscv/riscv-opcodes,RISC-V Programs,RISC-V 规范与计划,编辑归类 · 可共同修订
+riscv/riscv-spmp,RISC-V Programs,RISC-V 规范与计划,编辑归类 · 可共同修订
+lowRISC/mocha,Implementations,芯片实现,编辑归类 · 可共同修订
+riscv-software-src/librpmi,Libraries,库,编辑归类 · 可共同修订
+chipsalliance/firrtl-spec,"Design Tools, Compilers and Verification",设计工具与编译验证,编辑归类 · 可共同修订
+chipsalliance/Cores-VeeR-EL2,Implementations,芯片实现,编辑归类 · 可共同修订
+EESSI/dev.eessi.io-riscv,Infrastructure,基础设施,编辑归类 · 可共同修订
+riscv-non-isa/rvv-intrinsic-doc,"Design Tools, Compilers and Verification",设计工具与编译验证,编辑归类 · 可共同修订
+risc0/risc0-ethereum,Applications,应用,编辑归类 · 可共同修订
+lowRISC/opentitan-provisioning,Infrastructure,基础设施,编辑归类 · 可共同修订
+sophgo/bootloader-riscv,Operating Systems,操作系统,编辑归类 · 可共同修订
+openhwgroup/cv-hpdcache,Implementations,芯片实现,编辑归类 · 可共同修订
+davidharrishmc/riscv-isa-manual,RISC-V Programs,RISC-V 规范与计划,编辑归类 · 可共同修订
+gounthar/docker-for-riscv64,Infrastructure,基础设施,编辑归类 · 可共同修订
+openhwgroup/core-v-mcu,Implementations,芯片实现,编辑归类 · 可共同修订
+riscv/riscv-p-spec,RISC-V Programs,RISC-V 规范与计划,编辑归类 · 可共同修订
+openhwgroup/tristan-isolde-unified-access-page,Infrastructure,基础设施,编辑归类 · 可共同修订
+zte-riscv/x264,Applications,应用,编辑归类 · 可共同修订
+plctlab/riscv-ci,Infrastructure,基础设施,编辑归类 · 可共同修订
+lowRISC/sonata-system,Implementations,芯片实现,编辑归类 · 可共同修订
+riscv-admin/riscv-vale,Infrastructure,基础设施,编辑归类 · 可共同修订
+7908837174/riscv-unified-db-kallal,pending,分类与样本待核,分类待核
+RISCVI-301/CMPUT301F25riscvi,pending,分类与样本待核,分类待核
+runtimeverification/riscv-semantics,"Design Tools, Compilers and Verification",设计工具与编译验证,编辑归类 · 可共同修订
+marcutudor79/riscv-processor-design,pending,分类与样本待核,分类待核
+boundless-xyz/kailua,Applications,应用,编辑归类 · 可共同修订
+riseproject-dev/riscv-runner-app,Infrastructure,基础设施,编辑归类 · 可共同修订

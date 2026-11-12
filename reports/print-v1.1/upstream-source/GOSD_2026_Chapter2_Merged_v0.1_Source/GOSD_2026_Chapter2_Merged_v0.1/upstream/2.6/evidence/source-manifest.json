@@ -1,0 +1,88 @@
+{
+  "section": "2.8",
+  "version": "v0.2",
+  "status": "author-review-pending",
+  "created": "2026-11-10",
+  "snapshot": "2026-11-09",
+  "approved_baseline": "fff392e957bab9fb6d89d49dea712af47484efaa",
+  "repository": "https://github.com/will-ww/2026-GOSD-Report",
+  "attachments": [
+    {
+      "name": "Stable_Structure_Uneven_Diffusion_OpenSource_AI_Mentions (1).pdf",
+      "sha256": "778660ee9af68c933817b36128eed45eec2216d78705ec8ca6ddc44fc3c1c6aa",
+      "role": "User-provided core evidence"
+    },
+    {
+      "name": "开源仓库行业版图数据报告.docx",
+      "sha256": "2bbcbe8bc33442efa4121ac58b281262a5b1f82f239392fc4994ff0f9f4d489d",
+      "role": "User-provided core evidence"
+    },
+    {
+      "name": "Stable_Structure_Uneven_Diffusion_Reproducibility_Package.zip",
+      "sha256": "2995f9591ca6a27bfdb24c5ef57aedc612aa84495ace880b9a151c672264f3af",
+      "role": "User-provided core evidence"
+    },
+    {
+      "name": "image(20261110-002801).png",
+      "sha256": "20b0bcf124ae8b8652840305c60c1f8d9e202ed28683c6333728596fa4308c23",
+      "role": "User-supplied visualization reference; numerical source remains supplied tables"
+    },
+    {
+      "name": "image(20261110-002746).png",
+      "sha256": "9b4eba7a055c1cd68a09675ce3f52243a1d08ebb6beed5c340f1aa96b9bc8140",
+      "role": "User-supplied visualization reference; numerical source remains supplied tables"
+    }
+  ],
+  "external_sources": [
+    {
+      "title": "Original NAICS GitHub study",
+      "url": "https://arxiv.org/abs/2607.06505"
+    },
+    {
+      "title": "NAICS-GH dataset",
+      "url": "https://huggingface.co/datasets/aquiro1994/naics-gh"
+    },
+    {
+      "title": "NAICS official description",
+      "url": "https://www.census.gov/naics/"
+    },
+    {
+      "title": "Original English classifier (available path checked)",
+      "url": "https://huggingface.co/aquiro1994/naics-github-classifier"
+    }
+  ],
+  "source_priority": "Supplied CSV for numeric claims; manuscript for scope and methods; DOCX supplementary. Official sources verify definitions and original work, not replacement sample counts.",
+  "repository_documents": [
+    {
+      "name": "report-constitution.md",
+      "sha": "a5375ddcea133f50e4406e09d070721d6d54870e",
+      "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/docs/report-constitution.md"
+    },
+    {
+      "name": "claims-map.md",
+      "sha": "2117127eff62ba41f502f288fe31630c1be9fa2d",
+      "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/docs/claims-map.md"
+    },
+    {
+      "name": "review-checklist.md",
+      "sha": "c1dbb81f9c7405d4dae643b09b42c89889ce2413",
+      "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/docs/review-checklist.md"
+    },
+    {
+      "name": "material-inventory.md",
+      "sha": "9d6fe2c33a8e545cb2e4f8de85d8c558bc246da5",
+      "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/docs/material-inventory.md"
+    },
+    {
+      "name": "constitution.md",
+      "sha": "9cda7a8fc87113d293260ec913b033dc26731907",
+      "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/editions/insights/constitution.md"
+    },
+    {
+      "name": "editorial-guidelines.md",
+      "sha": "e61c427d5f883e170b69deaf428190d385e6e9cb",
+      "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/editions/insights/editorial-guidelines.md"
+    }
+  ],
+  "revision": "2026-11-10 visualization and narrative revision"
+}

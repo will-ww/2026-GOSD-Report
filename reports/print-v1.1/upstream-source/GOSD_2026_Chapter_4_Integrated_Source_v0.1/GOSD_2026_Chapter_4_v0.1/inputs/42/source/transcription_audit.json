@@ -1,0 +1,22 @@
+{
+  "source_title": "State of Open Models: Summer 2026 Observations",
+  "published": "2026-08-14",
+  "accessed": "2026-11-07",
+  "main_report_period": [
+    "2025-07-01",
+    "2026-06-30"
+  ],
+  "period_class": "supplementary post-period observation, not full main-report window",
+  "parameter_share_sum_pct": 99.9,
+  "parameter_missing_share_pct": 26.0,
+  "known_size_small_share_pct_from_printed_bins": 83.22057,
+  "rounding_caveat": "Reported bins total 99.9%; do not force 100% or add a synthetic residual. Missing-parameter fraction is printed as 26%, so its precision differs.",
+  "threshold_conflict": "Blog prose says above 100B takes 1%; chart says Over 70B=1.0%. Do not claim these are interchangeable.",
+  "raw_microdata_obtained": false,
+  "svg_contains_numeric_text": false,
+  "csv_method": "Human transcription of exact numeric labels, visually checked against immutable original PNG and current larger PNG; values are not estimated from bar geometry.",
+  "license": "documentation-images dataset declares CC-BY-NC-SA-4.0; no independent raw data license identified. Original artwork should not be inserted into commercial publication without appropriate rights review. New chart is an independently designed presentation of attributed reported facts, not an assertion that licensing restrictions are waived.",
+  "library_note": "Declared-library repository counts need not form mutually exclusive categories. gguf here is library declaration, not all GGUF-format artifacts. No claim of installs, users, downloads, runtime calls or successful deployment.",
+  "source_blog": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+  "chart_revision": "14faecfd3979f21dfb9b5327dea641c50c2f53b4"
+}

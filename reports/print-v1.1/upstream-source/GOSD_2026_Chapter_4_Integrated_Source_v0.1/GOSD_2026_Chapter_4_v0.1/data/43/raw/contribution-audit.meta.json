@@ -1,0 +1,11 @@
+{
+  "query": "contribution-audit",
+  "elapsed_client_seconds": 11.057,
+  "rows": 1522,
+  "statistics": {
+    "elapsed": 3.464421572,
+    "rows_read": 4096000,
+    "bytes_read": 58502900
+  },
+  "sha256": "cee5a505829059e9c135b503128f30974f5342ea3366d385b4d49aa7c6ed3033"
+}

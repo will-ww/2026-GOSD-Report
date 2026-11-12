@@ -1,0 +1,17 @@
+{
+  "source": "approved world_map.svg in 2.3; Singapore from 2.2 sources_world_flows.svg; affine coordinate rescaling to common base",
+  "transform": {
+    "cx": [
+      1.0333309516685611,
+      -2.8332023236974773
+    ],
+    "cy": [
+      1.0333300009897164,
+      -6.566588834792867
+    ]
+  },
+  "Singapore": {
+    "cx": 126.521,
+    "cy": 44.989
+  }
+}

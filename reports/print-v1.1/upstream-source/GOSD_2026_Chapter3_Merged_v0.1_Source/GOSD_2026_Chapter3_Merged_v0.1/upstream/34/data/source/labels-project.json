@@ -1,0 +1,6254 @@
+{
+	"meta":
+	[
+		{
+			"name": "id",
+			"type": "String"
+		},
+		{
+			"name": "name",
+			"type": "String"
+		},
+		{
+			"name": "name_zh",
+			"type": "String"
+		},
+		{
+			"name": "description_zh",
+			"type": "String"
+		},
+		{
+			"name": "data",
+			"type": "String"
+		}
+	],
+
+	"data":
+	[
+		{
+			"id": ":agencies\/nsa\/nifi",
+			"name": "Apache NiFi",
+			"name_zh": "",
+			"description_zh": "Apache NiFi 是一个功能强大的数据处理与分发系统，支持安全传输。",
+			"data": ""
+		},
+		{
+			"id": ":agencies\/us_va\/caseflow",
+			"name": "Caseflow",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":communities\/agentgateway\/agentgateway",
+			"name": "Agentgateway",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":communities\/esengine\/deepseek_reasonix",
+			"name": "DeepSeek Reasonix",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":communities\/herdr\/herdr",
+			"name": "Herdr",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":communities\/llm_d\/llm_d",
+			"name": "llm-d",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":communities\/lmcache\/lmcache",
+			"name": "LMCache",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":communities\/omniroute\/omniroute",
+			"name": "OmniRoute",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":communities\/xlab\/hypercrx",
+			"name": "HyperCRX",
+			"name_zh": "",
+			"description_zh": "一款浏览器扩展，提供对 GitHub 和 Gitee 项目及开发者的洞察分析。",
+			"data": ""
+		},
+		{
+			"id": ":communities\/xlab\/hypertrons",
+			"name": "Hypertrons",
+			"name_zh": "",
+			"description_zh": "一款提供 GitHub 和 Gitee 项目及开发者洞察的浏览器扩展。",
+			"data": ""
+		},
+		{
+			"id": ":communities\/xlab\/open_digger",
+			"name": "OpenDigger",
+			"name_zh": "",
+			"description_zh": "OpenDigger 是一个开源数据分析平台。",
+			"data": ""
+		},
+		{
+			"id": ":communities\/xlab\/open_galaxy",
+			"name": "OpenGalaxy",
+			"name_zh": "",
+			"description_zh": "OpenGalaxy - 自由探索开源世界。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/360\/chimeejs",
+			"name": "Chimeejs",
+			"name_zh": "",
+			"description_zh": "一个支持插件的视频播放框架，带来卓越的浏览器体验。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/360\/pikiwidb",
+			"name": "PikiwiDB",
+			"name_zh": "",
+			"description_zh": "Pikiwidb 是一个兼容 Redis 的高性能持久化 KV 存储系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/360\/spritejs",
+			"name": "SpriteJS",
+			"name_zh": "",
+			"description_zh": "跨平台高性能图形系统，支持网页、桌面和小程序。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/360\/thinkjs",
+			"name": "ThinkJS",
+			"name_zh": "",
+			"description_zh": "使用完整的 ES2015+ 特性开发 Node.js 应用，支持 TypeScript。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/3drobotics\/ardupilot",
+			"name": "ArduPilot",
+			"name_zh": "",
+			"description_zh": "ArduPilot 是一个功能齐全的开源自动驾驶仪，支持无人机、飞机、车和潜艇。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/650_industries\/expo",
+			"name": "Expo",
+			"name_zh": "",
+			"description_zh": "一个开源框架，使用 React 构建可在安卓、iOS 和网页上运行的原生应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/activepieces\/activepieces",
+			"name": "Activepieces",
+			"name_zh": "",
+			"description_zh": "开源自动化工作流平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/agno\/agno",
+			"name": "Agno",
+			"name_zh": "",
+			"description_zh": "用于构建、运行和管理智能体的平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/airbnb\/airflow",
+			"name": "Apache Airflow",
+			"name_zh": "",
+			"description_zh": "Apache Airflow - 用于以编程方式创建、调度和监控工作流的平台",
+			"data": ""
+		},
+		{
+			"id": ":companies\/airbnb\/enzyme",
+			"name": "Enzyme",
+			"name_zh": "",
+			"description_zh": "用于 React 的 JavaScript 测试工具",
+			"data": ""
+		},
+		{
+			"id": ":companies\/airbnb\/react_dates",
+			"name": "React Dates",
+			"name_zh": "",
+			"description_zh": "一个易于国际化、支持移动端的网页日期选择器库",
+			"data": ""
+		},
+		{
+			"id": ":companies\/airbnb\/superset",
+			"name": "Apache Superset",
+			"name_zh": "",
+			"description_zh": "Apache Superset 是一个现代化的数据可视化与探索平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/airbyte\/airbyte",
+			"name": "Airbyte",
+			"name_zh": "",
+			"description_zh": "Airbyte 是一个开源的数据集成平台，用于从 API、数据库和文件到数据仓库和湖的 ETL\/ELT 管道。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/agent_scope",
+			"name": "AgentScope",
+			"name_zh": "",
+			"description_zh": "使用 AgentScope 轻松构建基于大语言模型的多智能体应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/alios_things",
+			"name": "AliOS Things",
+			"name_zh": "",
+			"description_zh": "面向物联网领域的高可伸缩物联网操作系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/anolis",
+			"name": "Anolis OS",
+			"name_zh": "龙蜥",
+			"description_zh": "龙蜥是基于 CentOS 的 Linux 发行版。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/arthas",
+			"name": "Arthas",
+			"name_zh": "",
+			"description_zh": "Arthas 是一个无需修改代码或重启即可诊断 Java 生产问题的工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/canal",
+			"name": "Canal",
+			"name_zh": "",
+			"description_zh": "阿里巴巴 MySQL binlog 增量订阅与消费组件。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/celeborn",
+			"name": "Apache Celeborn",
+			"name_zh": "",
+			"description_zh": "Apache Celeborn 是一个弹性且高性能的 shuffle 和溢出数据管理服务。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/chaosblade",
+			"name": "ChaosBlade",
+			"name_zh": "",
+			"description_zh": "阿里巴巴开源的混沌工程工具，用于故障注入和系统容错测试。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/datax",
+			"name": "DataX",
+			"name_zh": "",
+			"description_zh": "DataX 是阿里云 DataWorks 数据集成的开源版本，支持多种异构数据源之间的高效数据同步。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/dragonfly",
+			"name": "Dragonfly",
+			"name_zh": "",
+			"description_zh": "Dragonfly 是一个基于 P2P 的文件分发和镜像加速系统，适用于云原生架构。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/dragonwell",
+			"name": "Dragonwell",
+			"name_zh": "",
+			"description_zh": "阿里龙井11 JDK 是针对大规模 Java 应用优化的 OpenJDK 实现。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/dubbo",
+			"name": "Apache Dubbo",
+			"name_zh": "",
+			"description_zh": "Apache Dubbo 是一个基于 Java 的 RPC 和微服务框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/easyexcel",
+			"name": "EasyExcel",
+			"name_zh": "",
+			"description_zh": "快速、低内存的Java处理大Excel文件工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/flink",
+			"name": "Apache Flink",
+			"name_zh": "",
+			"description_zh": "Apache Flink 是一个功能强大的开源流处理与批处理框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/fluid",
+			"name": "Fluid",
+			"name_zh": "",
+			"description_zh": "Fluid 是面向云原生大数据与 AI 应用的 Kubernetes 原生数据集编排与加速工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/fusion",
+			"name": "Fusion Design",
+			"name_zh": "",
+			"description_zh": "面向企业后台系统的可配置React组件库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/graphscope",
+			"name": "GraphScope",
+			"name_zh": "",
+			"description_zh": "GraphScope 的基于网页的管理工具，支持图数据建模、导入和查询。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/havenask",
+			"name": "Havenask",
+			"name_zh": "",
+			"description_zh": "Havenask 是阿里巴巴集团开发的高性能分布式搜索引擎。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/higress",
+			"name": "Higress",
+			"name_zh": "",
+			"description_zh": "支持 Wasm 插件的 AI 原生 API 网关",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/ice",
+			"name": "Ice",
+			"name_zh": "",
+			"description_zh": "ice.js：基于 React 的渐进式框架，用于构建通用型应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/inclavare_containers",
+			"name": "Inclavare Containers",
+			"name_zh": "",
+			"description_zh": "RATS TLS 是基于 RATS 架构并使用 librats 的 TLS 实现。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/koordinator",
+			"name": "Koordinator",
+			"name_zh": "",
+			"description_zh": "Koordinator 优化 Kubernetes 多样化工作负载的 QoS 调度。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/kubedl",
+			"name": "KubeDL",
+			"name_zh": "",
+			"description_zh": "高效地在 Kubernetes 上运行深度学习任务。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/kubevela",
+			"name": "KubeVela",
+			"name_zh": "",
+			"description_zh": "KubeVela 是一个面向混合云和多云环境的现代化应用交付平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/lowcode_engine",
+			"name": "Lowcode Engine",
+			"name_zh": "",
+			"description_zh": "一套面向扩展设计的企业级低代码技术体系",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/mars",
+			"name": "Mars",
+			"name_zh": "",
+			"description_zh": "Mars 是一个基于张量的大规模数据计算框架，可扩展 numpy、pandas 和 scikit-learn。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/midway",
+			"name": "MidwayJS",
+			"name_zh": "",
+			"description_zh": "一个面向现代云原生应用的 Node.js 无服务器框架，支持与 React 和 Vue 集成。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/modelscope",
+			"name": "ModelScope",
+			"name_zh": "魔搭",
+			"description_zh": "ModelScope 致力于汇集 AI 社区中最先进的机器学习模型。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/ms_swift",
+			"name": "ms-swift",
+			"name_zh": "",
+			"description_zh": "SWIFT：用于微调和部署600+大模型和300+多模态模型的轻量级框架（AAAI 2025）。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/nacos",
+			"name": "Nacos",
+			"name_zh": "",
+			"description_zh": "面向云原生应用的动态服务发现、配置与管理平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/noslate",
+			"name": "Noslate",
+			"name_zh": "",
+			"description_zh": "用于管理容器化应用的 Noslate 容器守护进程。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/ocm",
+			"name": "Open Cluster Management",
+			"name_zh": "",
+			"description_zh": "OCM项目的端到端Kubernetes集群管理核心组件。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/open_messaging",
+			"name": "OpenMessaging",
+			"name_zh": "",
+			"description_zh": "基于 Raft 的 Java 高可用、高持久、强一致性提交日志库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/openkraken",
+			"name": "OpenKraken",
+			"name_zh": "",
+			"description_zh": "基于 Flutter 的高性能、符合网页标准的渲染引擎。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/openkruise",
+			"name": "OpenKruise",
+			"name_zh": "",
+			"description_zh": "Kruise：基于Kubernetes的高级应用管理工具，CNCF孵化项目。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/opensandbox",
+			"name": "OpenSandbox",
+			"name_zh": "",
+			"description_zh": "面向 AI 智能体的安全且可扩展的沙箱运行时。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/opensergo",
+			"name": "OpenSergo",
+			"name_zh": "",
+			"description_zh": "通用云原生微服务治理控制面",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/opensumi",
+			"name": "OpenSumi",
+			"name_zh": "",
+			"description_zh": "一个用于快速构建AI原生IDE产品的框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/openyurt",
+			"name": "OpenYurt",
+			"name_zh": "",
+			"description_zh": "OpenYurt 将原生 Kubernetes 扩展至边缘计算，由 CNCF 管理。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/page_agent",
+			"name": "Page Agent",
+			"name_zh": "",
+			"description_zh": "可用自然语言控制网页界面的 JavaScript 页面智能体。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/paimon",
+			"name": "Apache Paimon",
+			"name_zh": "",
+			"description_zh": "Apache Paimon 是一个支持 Flink 和 Spark 实时湖仓架构的湖格式。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/polardb-pg",
+			"name": "PolarDB-for-PostgreSQL",
+			"name_zh": "",
+			"description_zh": "阿里云推出的云原生PostgreSQL兼容数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/polardb-x",
+			"name": "PolarDB-X",
+			"name_zh": "",
+			"description_zh": "PolarDB-X 是一个面向高并发、海量存储和复杂查询的云原生分布式 SQL 数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/qwen_code",
+			"name": "Qwen Code",
+			"name_zh": "",
+			"description_zh": "Qwen 生态中的开源终端 AI 编程智能体。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/qwenpaw",
+			"name": "QwenPaw",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/rocketmq",
+			"name": "Apache RocketMQ",
+			"name_zh": "",
+			"description_zh": "Apache RocketMQ 是一个低延迟、高性能、可靠的消息与流式处理平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/sca",
+			"name": "Spring Cloud Alibaba",
+			"name_zh": "",
+			"description_zh": "Spring Cloud Alibaba 提供基于阿里中间件的分布式应用一站式解决方案。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/sealer",
+			"name": "Sealer",
+			"name_zh": "",
+			"description_zh": "Sealer 通过 ClusterImage 构建、共享和运行 Kubernetes 集群与分布式应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/seata",
+			"name": "Apache Seata",
+			"name_zh": "",
+			"description_zh": "Seata 是一个易于使用、高性能的开源分布式事务解决方案。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/sentinel",
+			"name": "Sentinel",
+			"name_zh": "",
+			"description_zh": "面向微服务的高可用流控与容错组件。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/serverless_devs",
+			"name": "Serverless Devs",
+			"name_zh": "",
+			"description_zh": "Serverless Devs：Serverless 应用全生命周期管理工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/teambition",
+			"name": "Teambition",
+			"name_zh": "",
+			"description_zh": "面向 Teambition API 的同构 JavaScript SDK",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/vineyard",
+			"name": "Vineyard",
+			"name_zh": "",
+			"description_zh": "Vineyard 是一个用于高效分布式数据共享的内存不可变数据管理器。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/alibaba\/weex",
+			"name": "Weex",
+			"name_zh": "",
+			"description_zh": "Apache Weex 是一个用于构建跨平台移动 UI 的框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/all_hands_ai\/openhands",
+			"name": "OpenHands",
+			"name_zh": "",
+			"description_zh": "All Hands AI 推出的通用软件工程智能体。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/amazon\/aws_amplify",
+			"name": "AWS Amplify",
+			"name_zh": "",
+			"description_zh": "一个声明式JavaScript库，用于结合AWS服务构建云端应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/amazon\/aws_cdk",
+			"name": "AWS CDK",
+			"name_zh": "",
+			"description_zh": "AWS CDK 是一个使用现代编程语言定义和部署云基础设施的框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/amazon\/aws_distro_for_opentelemetry",
+			"name": "AWS Distro for OpenTelemetry",
+			"name_zh": "",
+			"description_zh": "AWS Distro for OpenTelemetry Collector 是由 AWS 支持的上游 OpenTelemetry Collector 版本。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/amazon\/babelfish_for_postgresql",
+			"name": "Babelfish for PostgreSQL",
+			"name_zh": "",
+			"description_zh": "Babelfish使PostgreSQL能够通过T-SQL和通信协议支持SQL Server应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/amazon\/bottlerocket",
+			"name": "Bottlerocket",
+			"name_zh": "",
+			"description_zh": "基于Linux的容器托管操作系统，专注于安全与可靠性。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/amazon\/eks_distro",
+			"name": "EKS Distro",
+			"name_zh": "",
+			"description_zh": "Amazon EKS Distro 是由 Amazon EKS 使用的 Kubernetes 发行版，用于构建安全可靠的集群。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/amazon\/firecracker",
+			"name": "Firecracker",
+			"name_zh": "",
+			"description_zh": "用于无服务器计算的安全快速微虚拟机。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/amazon\/freertos",
+			"name": "FreeRTOS",
+			"name_zh": "",
+			"description_zh": "FreeRTOS 内核源码和头文件，作为子模块用于其他仓库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/amazon\/opensearch",
+			"name": "OpenSearch",
+			"name_zh": "",
+			"description_zh": "OpenSearch 是一个开源分布式且支持 RESTful 的搜索引擎。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/ambassadorlabs\/emissary_ingress",
+			"name": "Emissary-Ingress",
+			"name_zh": "",
+			"description_zh": "基于Envoy Proxy的Kubernetes原生API网关，适用于微服务。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/anaconda\/dask",
+			"name": "Dask",
+			"name_zh": "",
+			"description_zh": "Dask 是一个灵活的并行计算分析库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/anomaly\/opencode",
+			"name": "OpenCode",
+			"name_zh": "",
+			"description_zh": "开源的AI编程代理。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/agent_universe",
+			"name": "agentUniverse",
+			"name_zh": "",
+			"description_zh": "agentUniverse 是一个灵活可扩展的大型语言模型多智能体框架，用于构建专家级智能体应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/aigw",
+			"name": "AIGW",
+			"name_zh": "",
+			"description_zh": "面向大规模推理服务的智能调度器，支持QoS和负载感知路由。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/ant_design_x",
+			"name": "Ant Design X",
+			"name_zh": "",
+			"description_zh": "基于 Ant Design 构建对话式与智能体应用的 AI 驱动界面组件。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/ant_mini_program",
+			"name": "Ant Mini Program",
+			"name_zh": "",
+			"description_zh": "mini-antui 已停止维护，推荐使用功能更强的 ant-design-mini。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/antchain",
+			"name": "Ant Chain",
+			"name_zh": "",
+			"description_zh": "AntChain Bridge 提供异构链之间的可信跨链通信。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/antd",
+			"name": "Ant Design",
+			"name_zh": "",
+			"description_zh": "企业级 UI 设计语言与 React 组件库",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/antv",
+			"name": "AntV",
+			"name_zh": "",
+			"description_zh": "G6：一个基于 TypeScript 的图可视化框架",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/aq-medai",
+			"name": "AQ-MedAI",
+			"name_zh": "",
+			"description_zh": "DIVER：一个包含LLM驱动查询扩展和重排序的多阶段复杂检索系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/areal",
+			"name": "AReal",
+			"name_zh": "",
+			"description_zh": "为大语言模型推理和智能体打造的快速、简单且灵活的强化学习系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/asterinas",
+			"name": "Asterinas",
+			"name_zh": "",
+			"description_zh": "一个安全、快速且通用的 Rust 编写操作系统内核，兼容 Linux 接口。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/ceresdb",
+			"name": "CeresDB",
+			"name_zh": "",
+			"description_zh": "Apache HoraeDB（孵化中）是一个高性能、分布式、云原生的时间序列数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/cnpm",
+			"name": "cnpm",
+			"name_zh": "",
+			"description_zh": "已弃用，请使用 cnpmcore。企业级私有 npm 仓库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/codefuse",
+			"name": "CodeFuse",
+			"name_zh": "",
+			"description_zh": "代码和软件工程语言模型研究精选列表，包含相关数据集。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/couler",
+			"name": "Couler",
+			"name_zh": "",
+			"description_zh": "跨 Argo、Tekton 和 Airflow 的统一工作流构建与管理接口。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/dbgpt",
+			"name": "dbgpt",
+			"name_zh": "",
+			"description_zh": "开源的 AI Native 数据应用开发框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/dtvm",
+			"name": "DTVM",
+			"name_zh": "",
+			"description_zh": "DTVM 是一个高性能、确定性的区块链虚拟机，兼容 EVM 和 Wasm。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/dva",
+			"name": "DvaJS",
+			"name_zh": "",
+			"description_zh": "基于React和Redux的轻量级框架，灵感来自Elm和Choo。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/egg",
+			"name": "EggJS",
+			"name_zh": "",
+			"description_zh": "基于 Node.js 和 Koa 构建企业级应用的框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/fury",
+			"name": "Fury",
+			"name_zh": "",
+			"description_zh": "基于JIT和零拷贝的高性能多语言序列化框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/galacean",
+			"name": "Galacean",
+			"name_zh": "",
+			"description_zh": "轻量级实时交互引擎，支持网页和移动端的 2D\/3D 图形。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/geaflow",
+			"name": "Geaflow",
+			"name_zh": "",
+			"description_zh": "GeaFlow：蚂蚁集团开发的分布式流图计算引擎。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/horaedb",
+			"name": "Apache HoraeDB",
+			"name_zh": "",
+			"description_zh": "Apache HoraeDB（孵化中）是一个高性能、分布式、云原生的时间序列数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/hyper_enclave",
+			"name": "HyperEnclave",
+			"name_zh": "",
+			"description_zh": "HyperEnclave 是一个开源且跨平台的可信执行环境（TEE）。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/inclusionai",
+			"name": "inclusionAI",
+			"name_zh": "",
+			"description_zh": "为大语言模型推理和智能体打造的快速、简单且灵活的强化学习系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/intelligent_machine_learning",
+			"name": "Intelligent Machine Learning",
+			"name_zh": "",
+			"description_zh": "DLRover：一个自动化的分布式深度学习系统",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/jeandle",
+			"name": "Jeandle",
+			"name_zh": "",
+			"description_zh": "Jeandle 是基于 OpenJDK 和 LLVM 的高性能 Java 即时编译器。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/karas",
+			"name": "KarasJS",
+			"name_zh": "",
+			"description_zh": "基于Canvas\/Svg\/Webgl的声明式JavaScript RIA框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/kata_container",
+			"name": "Kata Containers",
+			"name_zh": "",
+			"description_zh": "Kata Containers 提供轻量级虚拟机，性能如容器，具备虚拟机级别的隔离与安全性。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/kcl_lang",
+			"name": "KCL Lang",
+			"name_zh": "",
+			"description_zh": "KCL 是一种面向云原生配置的约束式记录与函数式编程语言。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/koupleless",
+			"name": "Koupleless",
+			"name_zh": "",
+			"description_zh": "Koupleless 是一个模块化研发框架与运维调度系统，助力应用高效低成本演进至微服务和 Serverless。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/kusion_stack",
+			"name": "KusionStack",
+			"name_zh": "",
+			"description_zh": "面向内部开发者平台的声明式意图驱动平台编排器。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/macaca",
+			"name": "Macaca",
+			"name_zh": "",
+			"description_zh": "多端自动化测试与性能解决方案。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/magic_quill",
+			"name": "MagicQuill",
+			"name_zh": "",
+			"description_zh": "MagicQuill：一个智能交互式图像编辑系统，配备AI驱动工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/modelpack",
+			"name": "ModelPack",
+			"name_zh": "",
+			"description_zh": "基于Model Spec管理OCI模型组件的命令行工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/mosn",
+			"name": "MOSN",
+			"name_zh": "",
+			"description_zh": "MOSN 是由蚂蚁集团打造的云原生网络代理平台，支持多协议与多种集成。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/mpaas",
+			"name": "mPaaS",
+			"name_zh": "",
+			"description_zh": "mPaaS 是支付宝推出的移动开发平台，助力开发者构建高性能、安全的 App。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/neovateai",
+			"name": "NeovateAI",
+			"name_zh": "",
+			"description_zh": "Neovate Code 是一个增强开发流程的代码代理，支持代码生成、修复错误等功能。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/ng_zorro",
+			"name": "NG-ZORRO",
+			"name_zh": "",
+			"description_zh": "基于 Ant Design 的企业级 Angular UI 组件库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/occlum",
+			"name": "Occlum",
+			"name_zh": "",
+			"description_zh": "Occlum 是一个面向 Intel SGX 的内存安全多进程库操作系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/oceanbase",
+			"name": "OceanBase",
+			"name_zh": "",
+			"description_zh": "OceanBase 是一个高性能、可扩展且兼容 MySQL 的分布式关系型数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/openasce",
+			"name": "OpenASCE",
+			"name_zh": "",
+			"description_zh": "OpenASCE 是一个用于大规模因果学习的端到端 Python 包，支持因果发现、效应估计和归因分析。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/openderisk",
+			"name": "OpenDeRisk",
+			"name_zh": "",
+			"description_zh": "OpenDeRisk 是一个AI原生风险智能系统，提供全天候应用风险管理与深度根因分析。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/openspg",
+			"name": "OpenSPG",
+			"name_zh": "",
+			"description_zh": "KAG 是一个面向专业领域的知识增强生成框架，支持逻辑推理和事实问答。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/petercat",
+			"name": "Peter Cat",
+			"name_zh": "",
+			"description_zh": "为 GitHub 仓库提供智能问答机器人系统，支持自托管部署与 SDK 集成。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/react_component",
+			"name": "React Component",
+			"name_zh": "",
+			"description_zh": "一个支持提示框、范围选择和自定义的React滑块组件。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/secretflow",
+			"name": "SecretFlow",
+			"name_zh": "",
+			"description_zh": "一个用于隐私保护数据分析和机器学习的统一框架",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/seekdb",
+			"name": "SeekDB",
+			"name_zh": "",
+			"description_zh": "AI 原生搜索数据库，统一支持向量、文本、结构化与半结构化数据。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/sofastack",
+			"name": "Sofastack",
+			"name_zh": "",
+			"description_zh": "SOFARPC 是一个高性能、生产级的 Java RPC 框架，功能丰富。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/sqlflow",
+			"name": "SQLFlow",
+			"name_zh": "",
+			"description_zh": "SQLFlow 将 SQL 与 AI 结合，在 Kubernetes 上实现机器学习工作流。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/tongsuo",
+			"name": "Tongsuo",
+			"name_zh": "",
+			"description_zh": "铜锁是一个提供现代密码算法和安全通信协议的密码库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/trass_stack",
+			"name": "Traas Stack",
+			"name_zh": "",
+			"description_zh": "HoloInsight 是一个专注于实时日志分析与人工智能集成的云原生可观测性平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/tugraph",
+			"name": "TuGraph",
+			"name_zh": "",
+			"description_zh": "TuGraph：支持ACID且具备快速图分析能力的高性能图数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/umi",
+			"name": "UmiJS",
+			"name_zh": "",
+			"description_zh": "一个 React 社区框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/unieo",
+			"name": "Unieo",
+			"name_zh": "",
+			"description_zh": "面向边缘计算环境的模式驱动路由引擎。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/utoo",
+			"name": "Utoo",
+			"name_zh": "",
+			"description_zh": "一个统一且高性能的现代前端开发工具链。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/vsag",
+			"name": "VSAG",
+			"name_zh": "",
+			"description_zh": "vsag 是一个高性能的向量索引库，用于相似性搜索。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/antgroup\/weavefox",
+			"name": "WeaveFox",
+			"name_zh": "",
+			"description_zh": "灵活定制、轻松集成的 Notebook，支持 AI 能力。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/anthropic\/claude_code",
+			"name": "Claude Code",
+			"name_zh": "",
+			"description_zh": "Claude Code 是一个基于终端的 AI 编程工具，支持代码理解与自动化操作。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/anthropic\/mcp_servers",
+			"name": "MCP Servers",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/anthropic\/modelcontextprotocol",
+			"name": "Model Context Protocol",
+			"name_zh": "",
+			"description_zh": "由 Anthropic 发起的开放协议，用于连接 AI 应用与外部工具及数据源。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/anthropic\/skills",
+			"name": "Agent Skills",
+			"name_zh": "",
+			"description_zh": "Agent Skills 的公开仓库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/anysphere\/cursor",
+			"name": "Cursor",
+			"name_zh": "",
+			"description_zh": "Cursor 是一个为高效编程而设计的 AI 代码编辑器。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/api7\/apisix",
+			"name": "Apache APISIX",
+			"name_zh": "",
+			"description_zh": "云原生API网关和AI网关，具备动态流量管理与丰富插件系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/apple\/foundationdb",
+			"name": "FoundationDB",
+			"name_zh": "",
+			"description_zh": "FoundationDB - 开源的分布式事务键值存储",
+			"data": ""
+		},
+		{
+			"id": ":companies\/apple\/mlx",
+			"name": "MLX",
+			"name_zh": "",
+			"description_zh": "MLX：面向苹果芯片的机器学习数组框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/apple\/swift",
+			"name": "Swift",
+			"name_zh": "",
+			"description_zh": "一种高性能、现代化的编程语言，用于构建安全高效的应用程序。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/appsmith\/appsmith",
+			"name": "Appsmith",
+			"name_zh": "",
+			"description_zh": "开源平台，用于构建管理面板、内部工具和仪表板，支持 25+ 数据库和任何 API。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/arize\/phoenix",
+			"name": "Phoenix",
+			"name_zh": "",
+			"description_zh": "Phoenix 是一个开源的人工智能可观测性与评估平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/armo\/kubescape",
+			"name": "Kubescape",
+			"name_zh": "",
+			"description_zh": "Kubescape 是一个用于 IDE、CI\/CD 管道和集群的开源 Kubernetes 安全平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/astral\/ruff",
+			"name": "Ruff",
+			"name_zh": "",
+			"description_zh": "一个用 Rust 编写的超快速 Python 代码检查和格式化工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/astral\/rye",
+			"name": "Rye",
+			"name_zh": "",
+			"description_zh": "Rye：开箱即用的 Python 开发体验",
+			"data": ""
+		},
+		{
+			"id": ":companies\/astral\/uv",
+			"name": "UV",
+			"name_zh": "",
+			"description_zh": "一个用 Rust 编写的极快的 Python 包和项目管理工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/baidu\/amis",
+			"name": "amis",
+			"name_zh": "",
+			"description_zh": "一个通过 JSON 配置生成页面的前端低代码框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/baidu\/apollo",
+			"name": "Apollo Auto",
+			"name_zh": "",
+			"description_zh": "一个用于自动驾驶开发与部署的开源平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/baidu\/brpc",
+			"name": "bRPC",
+			"name_zh": "",
+			"description_zh": "brpc 是一个用于高性能系统的工业级 C++ RPC 框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/baidu\/doris",
+			"name": "Apache Doris",
+			"name_zh": "",
+			"description_zh": "Apache Doris 是一个易用、高性能的实时分析型数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/baidu\/echarts",
+			"name": "Apache ECharts",
+			"name_zh": "",
+			"description_zh": "Apache ECharts 是一个功能强大、交互式的浏览器数据可视化图表库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/baidu\/huiyan",
+			"name": "Biadu Map Huiyan",
+			"name_zh": "",
+			"description_zh": "Mapv - 地理信息可视化开源库",
+			"data": ""
+		},
+		{
+			"id": ":companies\/baidu\/mesalock",
+			"name": "MesaLock Linux",
+			"name_zh": "",
+			"description_zh": "为 Rust SSL\/TLS 堆栈提供的 OpenSSL 兼容层。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/baidu\/paddle",
+			"name": "PaddlePaddle",
+			"name_zh": "",
+			"description_zh": "PaddlePaddle：面向工业实践的高性能深度学习训练与部署框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/baidu\/xuperchain",
+			"name": "XuperCore",
+			"name_zh": "",
+			"description_zh": "一个高性能、灵活的区块链框架，具备动态内核和模块化设计。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/bentoml\/bentoml",
+			"name": "BentoML",
+			"name_zh": "",
+			"description_zh": "BentoML：统一的AI应用与模型服务框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/berriai\/litellm",
+			"name": "LiteLLM",
+			"name_zh": "",
+			"description_zh": "用于调用 100+ 大模型 API 的 Python SDK 与代理服务，支持成本跟踪和防护能力。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/bitwarden\/bitwarden",
+			"name": "Bitwarden",
+			"name_zh": "",
+			"description_zh": "适用于个人、团队和商业组织的开源安全解决方案。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/black_forest_labs\/flux",
+			"name": "FLUX models",
+			"name_zh": "",
+			"description_zh": "FLUX 模型的官方推理仓库，支持图像生成与编辑。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/block\/goose",
+			"name": "Goose",
+			"name_zh": "",
+			"description_zh": "Block 发起的开源可扩展 AI 智能体，可借助不同大语言模型执行、编辑和测试代码。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/bluesky\/bluesky",
+			"name": "Bluesky",
+			"name_zh": "",
+			"description_zh": "基于React Native和TypeScript构建的Bluesky社交应用，支持Web、iOS和Android平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/brave\/brave",
+			"name": "Brave",
+			"name_zh": "",
+			"description_zh": "Brave 浏览器是一个快速、免费、开源、优先考虑用户隐私的网络浏览器。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/browser_use\/browser_use",
+			"name": "Browser Use",
+			"name_zh": "",
+			"description_zh": "面向 AI 智能体的浏览器自动化框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/buoyant\/linkerd",
+			"name": "Linkerd",
+			"name_zh": "",
+			"description_zh": "专为 Kubernetes 设计的超轻量、安全优先的服务网格。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/bytedance\/byconity",
+			"name": "ByConity",
+			"name_zh": "",
+			"description_zh": "ByConity 是一个开源云数据仓库，支持计算存储分离和高性能查询。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/bytedance\/bytees",
+			"name": "ByteES",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/bytedance\/cloudwego",
+			"name": "CloudWeGo",
+			"name_zh": "",
+			"description_zh": "高性能且可扩展的Go语言RPC框架，适用于微服务开发。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/bytedance\/coze",
+			"name": "Coze",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/bytedance\/deer_flow",
+			"name": "DeerFlow",
+			"name_zh": "",
+			"description_zh": "用于研究、编程和内容创作的长周期超级智能体框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/bytedance\/lark",
+			"name": "Lark",
+			"name_zh": "",
+			"description_zh": "面向飞书开放平台的 Node.js SDK，简化 API 交互。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/bytedance\/lark_cli",
+			"name": "Lark CLI",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/bytedance\/oceanengine",
+			"name": "Ocean Engine",
+			"name_zh": "",
+			"description_zh": "巨量引擎营销API的Go语言SDK，提供Token获取、请求封装与响应解析功能。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/bytedance\/openviking",
+			"name": "OpenViking",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/bytedance\/seed",
+			"name": "Seed",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/bytedance\/trae",
+			"name": "Trae",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/bytedance\/verl",
+			"name": "verl",
+			"name_zh": "",
+			"description_zh": "verl：一个灵活高效的大型语言模型强化学习训练库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/cal.com\/cal.com",
+			"name": "Cal.com",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/camel_ai\/camel",
+			"name": "CAMEL",
+			"name_zh": "",
+			"description_zh": "CAMEL-AI 推出的多智能体框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/camel_ai\/owl",
+			"name": "OWL",
+			"name_zh": "",
+			"description_zh": "CAMEL-AI 生态中的智能体项目。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/camunda\/camunda",
+			"name": "Camunda",
+			"name_zh": "",
+			"description_zh": "Camunda 是一个用于业务流程可扩展自动化的流程编排框架",
+			"data": ""
+		},
+		{
+			"id": ":companies\/capitalone\/cloud_custodian",
+			"name": "Cloud Custodian",
+			"name_zh": "",
+			"description_zh": "基于YAML策略的云治理、安全与成本优化规则引擎。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/chroma\/chroma",
+			"name": "Chroma",
+			"name_zh": "",
+			"description_zh": "Chroma 是一个支持 Python 和 JavaScript 的 AI 应用开源嵌入数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/citrix\/cloudstack",
+			"name": "Apache CloudStack",
+			"name_zh": "",
+			"description_zh": "Apache CloudStack 是一个开源的 IaaS 云计算平台，用于管理虚拟化基础设施。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/cline\/cline",
+			"name": "Cline",
+			"name_zh": "",
+			"description_zh": "在您的 IDE 中创建\/编辑文件、执行命令、使用浏览器等，每一步都需您的许可。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/clockwork\/spacetimedb",
+			"name": "SpacetimeDB",
+			"name_zh": "",
+			"description_zh": "SpacetimeDB：专为多人游戏和实时应用设计的高速数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/cloudera\/hadoop",
+			"name": "Apache Hadoop",
+			"name_zh": "",
+			"description_zh": "Apache Hadoop 是一个用于分布式存储和处理大数据集的开源框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/cloudflare\/cloudflare",
+			"name": "Cloudflare",
+			"name_zh": "",
+			"description_zh": "Cloudflare 开源的开发者文档平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/cnet_networks\/solr",
+			"name": "Apache Solr",
+			"name_zh": "",
+			"description_zh": "Apache Solr 是基于 Apache Lucene 构建的快速开源搜索平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/cockroachlabs\/cockroachdb",
+			"name": "CockroachDB",
+			"name_zh": "",
+			"description_zh": "CockroachDB 是一款面向云原生、支持水平扩展和高可用性的分布式 SQL 数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/coder\/coder",
+			"name": "Coder",
+			"name_zh": "",
+			"description_zh": "为开发者及其智能体提供安全环境",
+			"data": ""
+		},
+		{
+			"id": ":companies\/cognee\/cognee",
+			"name": "Cognee",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/collate\/openmetadata",
+			"name": "OpenMetadata",
+			"name_zh": "",
+			"description_zh": "OpenMetadata 是一个统一的元数据平台，支持数据发现、治理与协作。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/comet_ml\/opik",
+			"name": "Opik",
+			"name_zh": "",
+			"description_zh": "通过可观测性、评估和仪表板调试、评估和监控您的LLM应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/composio\/composio",
+			"name": "Composio",
+			"name_zh": "",
+			"description_zh": "面向智能体的工具集、工具搜索、上下文管理、认证和集成平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/consensys\/metamask",
+			"name": "MetaMask",
+			"name_zh": "",
+			"description_zh": "MetaMask 是一个浏览器扩展，支持浏览以太坊区块链网站。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/continue\/continue",
+			"name": "Continue",
+			"name_zh": "",
+			"description_zh": "Continue 是适用于 VS Code 和 JetBrains 的领先开源 AI 代码助手。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/copilotkit\/ag_ui",
+			"name": "AG-UI",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/copilotkit\/copilotkit",
+			"name": "CopilotKit",
+			"name_zh": "",
+			"description_zh": "面向智能体与生成式 UI 的前端技术栈。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/coreweave\/wandb",
+			"name": "Weights & Biases",
+			"name_zh": "",
+			"description_zh": "Weights & Biases 是一个用于训练、微调和管理机器学习模型的人工智能开发平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/cosmonic\/wasmcloud",
+			"name": "wasmCloud",
+			"name_zh": "",
+			"description_zh": "wasmCloud 是一个 CNCF 项目，用于在任意云或边缘环境中构建和扩展多语言 WebAssembly 应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/cratedb\/cratedb",
+			"name": "CrateDB",
+			"name_zh": "",
+			"description_zh": "CrateDB 是基于 Lucene 构建的分布式、兼容 PostgreSQL 的 SQL 数据库，适用于实时大规模数据分析。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/crewai\/crewai",
+			"name": "crewAI",
+			"name_zh": "",
+			"description_zh": "用于编排协作式 AI 智能体的框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/cube_dev\/cube",
+			"name": "Cube",
+			"name_zh": "",
+			"description_zh": "Cube 是一个用于构建数据应用的通用语义层平台，支持 AI、BI 和嵌入式分析。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/cvat_ai\/cvat",
+			"name": "CVAT",
+			"name_zh": "",
+			"description_zh": "CVAT：领先的计算机视觉图像和视频标注工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/cyberark\/cert_manager",
+			"name": "cert-manager",
+			"name_zh": "",
+			"description_zh": "在 Kubernetes 中自动管理 TLS 证书。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/dagger\/dagger",
+			"name": "Dagger",
+			"name_zh": "",
+			"description_zh": "自动化构建、测试和部署代码的引擎，支持本地、CI 和云环境。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/dagster_labs\/dagster",
+			"name": "Dagster",
+			"name_zh": "",
+			"description_zh": "Dagster 是一个用于数据资产开发、生产与观测的云原生数据流水线编排平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/daily\/pipecat",
+			"name": "Pipecat",
+			"name_zh": "",
+			"description_zh": "用于实时语音与多模态 AI 智能体的开源框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/daocloud\/public_image_mirror",
+			"name": "DaoCloud Public Image Mirror",
+			"name_zh": "",
+			"description_zh": "一个用于加速国内容器镜像下载的公共镜像仓库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/data_chain\/data_chain",
+			"name": "DataChain",
+			"name_zh": "",
+			"description_zh": "DataChain 是一个基于 Python 的人工智能数据仓库，用于非结构化数据的 ETL、分析和版本管理。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/databend\/databend",
+			"name": "Databend",
+			"name_zh": "",
+			"description_zh": "Databend：现代开源云数据仓库，Snowflake 替代方案，支持 AI 分析。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/databend\/opendal",
+			"name": "Apache OpenDAL",
+			"name_zh": "",
+			"description_zh": "Apache OpenDAL：统一数据访问层，兼容所有存储。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/databricks\/delta_lake",
+			"name": "Delta Lake",
+			"name_zh": "",
+			"description_zh": "一个开源存储框架，支持使用计算引擎和API构建湖仓一体架构。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/databricks\/mlflow",
+			"name": "MLflow",
+			"name_zh": "",
+			"description_zh": "面向机器学习生命周期的开源平台",
+			"data": ""
+		},
+		{
+			"id": ":companies\/databricks\/neon",
+			"name": "Neon",
+			"name_zh": "",
+			"description_zh": "Neon 是一个开源的无服务器 PostgreSQL 替代方案，支持计算与存储分离和自动扩展。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/databricks\/spark",
+			"name": "Apache Spark",
+			"name_zh": "",
+			"description_zh": "Apache Spark 是一个用于大规模数据处理的统一分析引擎。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/databricks\/unity_catalog",
+			"name": "Unity Catalog",
+			"name_zh": "",
+			"description_zh": "Unity Catalog 是一个开源、多模态的数据与 AI 目录，支持多种格式、引擎和资产。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/datadog\/datadog",
+			"name": "DataDog",
+			"name_zh": "",
+			"description_zh": "云应用的观测性和安全性平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/datastax\/langflow",
+			"name": "Langflow",
+			"name_zh": "",
+			"description_zh": "Langflow 是一个强大的平台，用于构建和部署人工智能代理和工作流。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/datastrato\/gravitino",
+			"name": "Apache Gravitino",
+			"name_zh": "",
+			"description_zh": "高性能、地理分布式和联邦式元数据湖，实现统一元数据管理。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/daytona\/daytona",
+			"name": "Daytona",
+			"name_zh": "",
+			"description_zh": "用于运行 AI 生成代码的安全弹性基础设施",
+			"data": ""
+		},
+		{
+			"id": ":companies\/deepin\/codeya_ide",
+			"name": "Codeya IDE",
+			"name_zh": "",
+			"description_zh": "一款支持多语言的跨平台轻量级集成开发环境。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/deepin\/linglong",
+			"name": "玲珑",
+			"name_zh": "",
+			"description_zh": "Linyaps 是一个跨发行版的 Linux 软件包管理器，提供沙箱化、安全且高效的应用管理。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/deepseek\/deepep",
+			"name": "DeepEP",
+			"name_zh": "",
+			"description_zh": "DeepEP：面向MoE系统的高效专家并行通信库",
+			"data": ""
+		},
+		{
+			"id": ":companies\/deepseek\/deepseek_harness",
+			"name": "DeepSeek Harness",
+			"name_zh": "",
+			"description_zh": "DeepSeek Harness：万物皆插件",
+			"data": ""
+		},
+		{
+			"id": ":companies\/deepseek\/deepseek_r1",
+			"name": "DeepSeek-R1",
+			"name_zh": "",
+			"description_zh": "DeepSeek-R1：通过强化学习训练的推理模型系列，在数学、代码和推理任务上达到领先水平。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/deepseek\/deepseek_v3",
+			"name": "DeepSeek-V3",
+			"name_zh": "",
+			"description_zh": "DeepSeek-V3 是一个拥有 6710 亿参数的 MoE 大语言模型，在多个基准测试中表现出色。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/deepseek\/deepseek_vl2",
+			"name": "DeepSeek-VL2",
+			"name_zh": "",
+			"description_zh": "DeepSeek-VL2：用于先进多模态理解的混合专家视觉语言模型。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/dify_ai\/dify",
+			"name": "Dify",
+			"name_zh": "",
+			"description_zh": "用于构建 LLM 应用与智能体工作流的平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/docker\/containerd",
+			"name": "containerd",
+			"name_zh": "",
+			"description_zh": "一个开放且可靠的容器运行时",
+			"data": ""
+		},
+		{
+			"id": ":companies\/docker\/notary",
+			"name": "Notary",
+			"name_zh": "",
+			"description_zh": "一个用于在OCI注册表生态系统中对工件进行签名和验证的命令行工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/dodoedu\/video_chat",
+			"name": "Video Chat",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/dragonflydb\/dragonflydb",
+			"name": "DragonflyDB",
+			"name_zh": "",
+			"description_zh": "现代高性能内存数据存储，兼容 Redis 和 Memcached 接口。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/duckdb\/duckdb",
+			"name": "DuckDB",
+			"name_zh": "",
+			"description_zh": "DuckDB 是一个高性能的分析型进程内 SQL 数据库系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/dynatrace\/openfeature",
+			"name": "OpenFeature",
+			"name_zh": "",
+			"description_zh": "一个符合 Unix 风格、支持 OpenFeature 并具备实时更新功能的特性标志守护进程。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/elastic\/elasticsearch",
+			"name": "Elasticsearch",
+			"name_zh": "",
+			"description_zh": "分布式、RESTful 搜索引擎，专为速度和相关性优化。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/elastic\/kibana",
+			"name": "Kibana",
+			"name_zh": "",
+			"description_zh": "Kibana 是面向 Elasticsearch 的浏览器分析和搜索仪表板。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/emq\/emqx",
+			"name": "EMQX",
+			"name_zh": "",
+			"description_zh": "适用于物联网、工业物联网和联网汽车的最可扩展开源MQTT代理",
+			"data": ""
+		},
+		{
+			"id": ":companies\/emq\/hstreamdb",
+			"name": "HStreamDB",
+			"name_zh": "",
+			"description_zh": "HStreamDB 是一个开源的云原生流数据库，适用于实时应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/expensify\/expensify",
+			"name": "Expensify",
+			"name_zh": "",
+			"description_zh": "New Expensify：一个基于聊天的财务协作平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/firecrawl\/firecrawl",
+			"name": "Firecrawl",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/fit2cloud\/1panel",
+			"name": "1Panel",
+			"name_zh": "",
+			"description_zh": "1Panel 是一款现代化的 Linux 服务器管理控制面板。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/fit2cloud\/dataease",
+			"name": "DataEase",
+			"name_zh": "",
+			"description_zh": "开源 BI 工具，实现数据可视化与业务智能分析。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/fit2cloud\/halo",
+			"name": "Halo",
+			"name_zh": "",
+			"description_zh": "Halo - 强大易用的开源建站工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/fit2cloud\/jumpserver",
+			"name": "JumpServer",
+			"name_zh": "",
+			"description_zh": "JumpServer 是一个开源的特权访问管理平台，支持通过浏览器安全访问 SSH、RDP、Kubernetes 等资源。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/fit2cloud\/kubeoperator",
+			"name": "KubeOperator",
+			"name_zh": "",
+			"description_zh": "KubeOperator 是一个轻量级 Kubernetes 发行版，用于部署和管理生产级别集群。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/fit2cloud\/maxkb",
+			"name": "MaxKB",
+			"name_zh": "MaxKB",
+			"description_zh": "飞致云 \/ 1Panel 生态下的企业级智能体平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/fit2cloud\/metersphere",
+			"name": "MeterSphere",
+			"name_zh": "",
+			"description_zh": "MeterSphere 是新一代内置 AI 助手的开源持续测试工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/fivetran\/dbt",
+			"name": "dbt",
+			"name_zh": "",
+			"description_zh": "dbt 使用软件工程最佳实践实现数据转换。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/flant\/deckhouse",
+			"name": "Deckhouse",
+			"name_zh": "",
+			"description_zh": "Deckhouse 是一个开源的 Kubernetes 平台，实现集群的全自动管理。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/flant\/werf",
+			"name": "Werf",
+			"name_zh": "",
+			"description_zh": "werf 是一个支持 Git、Dockerfile 和 Helm 的 CNCF 命令行工具，用于实现面向 Kubernetes 的完整 CI\/CD 流程。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/formbricks\/formbricks",
+			"name": "Formbricks",
+			"name_zh": "",
+			"description_zh": "开源调查平台，支持应用内、网站和邮件调研，收集用户洞察。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/foundationagents\/metagpt",
+			"name": "MetaGPT",
+			"name_zh": "",
+			"description_zh": "FoundationAgents 推出的多智能体框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/foundationagents\/openmanus",
+			"name": "OpenManus",
+			"name_zh": "",
+			"description_zh": "FoundationAgents 推出的通用智能体执行框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/ggml.ai\/ggml",
+			"name": "GGML",
+			"name_zh": "",
+			"description_zh": "一个支持跨平台和量化技术的机器学习张量库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/ggml.ai\/llama.cpp",
+			"name": "llama.cpp",
+			"name_zh": "",
+			"description_zh": "使用 C\/C++ 实现的 LLM 推理，支持多种硬件和量化。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/ggml.ai\/whisper.cpp",
+			"name": "whisper.cpp",
+			"name_zh": "",
+			"description_zh": "OpenAI Whisper 模型的 C\/C++ 移植版，用于高性能语音识别。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/github\/copilot_cli",
+			"name": "GitHub Copilot CLI",
+			"name_zh": "",
+			"description_zh": "用于使用 GitHub Copilot 编程智能体能力的命令行界面。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/github\/electron",
+			"name": "Electron",
+			"name_zh": "",
+			"description_zh": "使用 Electron，通过 JavaScript、HTML 和 CSS 构建跨平台桌面应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/github\/spec_kit",
+			"name": "Spec Kit",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/a2aproject",
+			"name": "Agent2Agent (A2A) Project",
+			"name_zh": "",
+			"description_zh": "Google 最初开发的开放协议，用于不同 AI 智能体之间可互操作的通信与协作。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/a2ui",
+			"name": "A2UI",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/adk_python",
+			"name": "ADK Python",
+			"name_zh": "",
+			"description_zh": "Google Agent Development Kit 的 Python SDK。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/angular",
+			"name": "Angular",
+			"name_zh": "",
+			"description_zh": "Angular - 现代网页开发平台，用于构建移动和桌面应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/bazel",
+			"name": "Bazel",
+			"name_zh": "",
+			"description_zh": "一个快速、可扩展的多语言构建系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/beam",
+			"name": "Apache Beam",
+			"name_zh": "",
+			"description_zh": "Apache Beam 是一个统一的批处理和流数据处理编程模型。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/coredns",
+			"name": "CoreDNS",
+			"name_zh": "",
+			"description_zh": "CoreDNS 是一个快速灵活的 DNS 服务器，通过插件链实现功能扩展。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/dart",
+			"name": "Dart",
+			"name_zh": "",
+			"description_zh": "跨移动端、网页和桌面平台构建应用的 Dart SDK。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/firebase",
+			"name": "Firebase",
+			"name_zh": "",
+			"description_zh": "Firebase（一个全面的后端即服务（BaaS）平台）的开源资源。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/flutter",
+			"name": "Flutter",
+			"name_zh": "",
+			"description_zh": "Flutter 是谷歌用于构建美观、快速的移动端、网页和桌面应用的 UI 工具包。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/forseti_security",
+			"name": "Forseti Security",
+			"name_zh": "",
+			"description_zh": "Forseti Security 是一套用于提升 Google Cloud 平台安全性的开源工具集。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/gemini_cli",
+			"name": "Gemini CLI",
+			"name_zh": "",
+			"description_zh": "Google Gemini 生态中的命令行 AI 助手工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/go",
+			"name": "Go",
+			"name_zh": "",
+			"description_zh": "Go 是一种开源编程语言，用于构建简洁、可靠且高效的软件。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/grpc",
+			"name": "gRPC",
+			"name_zh": "",
+			"description_zh": "一个高性能的多语言支持的远程过程调用框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/helm",
+			"name": "Helm",
+			"name_zh": "",
+			"description_zh": "已弃用：Kubernetes 的精选 Helm 应用模板（stable 和 incubator）。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/istio",
+			"name": "Istio",
+			"name_zh": "",
+			"description_zh": "Istio 是一个用于连接、保护和监控服务的开源服务网格。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/jax",
+			"name": "JAX",
+			"name_zh": "",
+			"description_zh": "用于 Python+NumPy 程序的可组合变换：自动微分、JIT 编译、向量化，并可在 GPU\/TPU 上运行。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/keras",
+			"name": "Keras",
+			"name_zh": "",
+			"description_zh": "Keras 3 是一个面向人类的多后端深度学习框架，支持 JAX、TensorFlow、PyTorch 和 OpenVINO。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/knative",
+			"name": "Knative",
+			"name_zh": "",
+			"description_zh": "Knative Serving 基于 Kubernetes 提供无服务器容器部署，支持自动扩缩容和路由。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/kubeflow",
+			"name": "Kubeflow",
+			"name_zh": "",
+			"description_zh": "Kubeflow 管道：用于 Kubernetes 的端到端机器学习工作流。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/opentelemetry",
+			"name": "OpenTelemetry",
+			"name_zh": "",
+			"description_zh": "OpenTelemetry 让强大的、可移植的遥测成为云原生软件的内置功能。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/openxla",
+			"name": "OpenXLA",
+			"name_zh": "",
+			"description_zh": "XLA 是一个面向 GPU、CPU 和 ML 加速器的开源机器学习编译器。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/tensorflow",
+			"name": "Tensorflow",
+			"name_zh": "",
+			"description_zh": "一个开源机器学习框架，用于构建和部署机器学习应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/google\/vitess",
+			"name": "Vitess",
+			"name_zh": "",
+			"description_zh": "Vitess 是一个可水平扩展的分布式 MySQL 数据库系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/gpustack\/gpustack",
+			"name": "GPUStack",
+			"name_zh": "",
+			"description_zh": "GPUStack 是一个开源的 GPU 集群管理工具，用于运行 AI 模型。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/grafana\/cortex",
+			"name": "Cortex",
+			"name_zh": "",
+			"description_zh": "水平扩展、高可用、多租户的长期 Prometheus 存储系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/grafana\/grafana",
+			"name": "Grafana",
+			"name_zh": "",
+			"description_zh": "开源的可观测性平台，用于可视化指标、日志和追踪。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/grafana\/loki",
+			"name": "Grafana Loki",
+			"name_zh": "",
+			"description_zh": "Loki：如 Prometheus 一般的日志系统，高效、可扩展且低成本。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/grafana\/mimir",
+			"name": "Grafana Mimir",
+			"name_zh": "",
+			"description_zh": "Grafana Mimir 是一个可扩展、高可用的多租户 Prometheus 指标长期存储解决方案。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/grafana\/tempo",
+			"name": "Grafana Tempo",
+			"name_zh": "",
+			"description_zh": "Grafana Tempo 是一个高吞吐、低依赖的分布式追踪后端。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/gravitational\/teleport",
+			"name": "Teleport",
+			"name_zh": "",
+			"description_zh": "通过 SSO、RBAC 和会话记录实现基础设施的安全访问与审计。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/greatdb\/greatsql",
+			"name": "GreatSQL",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/greptime\/greptimedb",
+			"name": "GreptimeDB",
+			"name_zh": "",
+			"description_zh": "一个支持指标、日志和事件的统一云原生时序数据库，支持SQL\/PromQL。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/gridgain\/ignite",
+			"name": "Apache Ignite",
+			"name_zh": "",
+			"description_zh": "Apache Ignite 是一个高性能的分布式数据库与计算平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/gridgain\/ignite3",
+			"name": "Apache Ignite 3",
+			"name_zh": "",
+			"description_zh": "Apache Ignite 3 是一个支持 ACID 事务和分布式 SQL 的高性能数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/guardrails\/guardrails",
+			"name": "Guardrails",
+			"name_zh": "",
+			"description_zh": "一个用于为大语言模型添加防护措施的 Python 框架，以确保输出的安全与结构化。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/harness\/harness",
+			"name": "Harness",
+			"name_zh": "",
+			"description_zh": "Harness 开源是一个集代码托管、CI\/CD 流水线和开发环境于一体的端到端开源 DevOps 平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/harness\/litmus",
+			"name": "Litmus",
+			"name_zh": "",
+			"description_zh": "LitmusChaos 是一个开源的云原生混沌工程平台，用于增强系统弹性。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/hashicorp\/vault",
+			"name": "Vault",
+			"name_zh": "",
+			"description_zh": "用于机密管理、加密即服务和特权访问管理的工具",
+			"data": ""
+		},
+		{
+			"id": ":companies\/headroomlabs\/headroom",
+			"name": "Headroom",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/heartex\/label_studio",
+			"name": "Label Studio",
+			"name_zh": "",
+			"description_zh": "Label Studio 是一个支持多种数据类型的标注工具，具备可定制界面和模型集成功能。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/hpc_ai\/colossalai",
+			"name": "Colossal-AI",
+			"name_zh": "",
+			"description_zh": "通过 Colossal-AI 让大模型训练更便宜、更快且更容易访问。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huanjiyun\/fastgpt",
+			"name": "FastGPT",
+			"name_zh": "",
+			"description_zh": "基于大模型构建的知识库平台，提供数据处理、RAG 检索和可视化 AI 工作流编排能力。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huanjiyun\/laf",
+			"name": "Laf",
+			"name_zh": "",
+			"description_zh": "Laf 是一个提供了各类核心工具的云开发平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huanjiyun\/sealos",
+			"name": "Sealos",
+			"name_zh": "",
+			"description_zh": "Sealos 是一个 AI 原生的云操作系统，统一了整个应用生命周期。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huawei\/ascend",
+			"name": "Ascend",
+			"name_zh": "",
+			"description_zh": "面向开发者提供基于华为昇腾 Ascend AI 处理器的应用使能、训推加速、集群管理、工具链等全栈开源软件",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huawei\/cangjie",
+			"name": "Cangjie",
+			"name_zh": "",
+			"description_zh": "仓颉编程语言是一款面向全场景智能的新一代编程语言，主打智能化、全场景、高性能、强安全",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huawei\/cann",
+			"name": "CANN",
+			"name_zh": "",
+			"description_zh": "CANN（Compute Architecture for Neural Networks）是华为针对 AI 场景推出的异构计算架构",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huawei\/karmada",
+			"name": "Karmada",
+			"name_zh": "",
+			"description_zh": "开源的多云多集群 Kubernetes 编排系统",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huawei\/kubeedge",
+			"name": "KubeEdge",
+			"name_zh": "",
+			"description_zh": "CNCF 旗下的 Kubernetes 原生边缘计算框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huawei\/kurator",
+			"name": "Kurator",
+			"name_zh": "",
+			"description_zh": "Kurator 是一个分布式云原生平台，提供统一资源编排、调度、流量管理与遥测。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huawei\/liteos",
+			"name": "LiteOS",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huawei\/mindspore",
+			"name": "MindSpore",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huawei\/open_inula",
+			"name": "OpenInula",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huawei\/openeuler",
+			"name": "openEuler",
+			"name_zh": "",
+			"description_zh": "openEuler 是通过社区合作，打造创新平台，构建支持多处理器架构、统一和开放的操作系统",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huawei\/openfuyao",
+			"name": "openFuyao",
+			"name_zh": "",
+			"description_zh": "openFuyao 是面向通算和智算集群软件技术创新的开源社区",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huawei\/opengauss",
+			"name": "openGauss",
+			"name_zh": "",
+			"description_zh": "openGauss 是一款高性能、高安全、高可靠的企业级开源关系型数据库系统",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huawei\/openharmony",
+			"name": "OpenHarmony",
+			"name_zh": "",
+			"description_zh": "OpenHarmony 的目标是面向全场景、全连接、全智能时代，搭建一个智能终端设备操作系统的框架和平台",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huawei\/opentiny",
+			"name": "OpenTiny",
+			"name_zh": "",
+			"description_zh": "OpenTiny 是一套企业级前端开发解决方案",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huawei\/service_comb",
+			"name": "Apache ServiceComb",
+			"name_zh": "",
+			"description_zh": "ServiceComb Java Chassis 是一个用于微服务开发的 Java SDK，支持服务注册、发现与管理。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huawei\/volcano",
+			"name": "Volcano",
+			"name_zh": "",
+			"description_zh": "基于Kubernetes的云原生批处理调度系统，适用于AI、大数据和高性能计算。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huggingface\/gradio",
+			"name": "Gradio",
+			"name_zh": "",
+			"description_zh": "使用 Python 构建和分享机器学习应用，无需 JavaScript 或托管。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huggingface\/lerobot",
+			"name": "LeRobot",
+			"name_zh": "",
+			"description_zh": "通过端到端学习降低机器人 AI 使用门槛的工具集。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huggingface\/openenv",
+			"name": "OpenEnv",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huggingface\/text_generation_inference",
+			"name": "Text Generation Inference",
+			"name_zh": "",
+			"description_zh": "面向大语言模型的高性能文本生成推理工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huggingface\/transformers",
+			"name": "Transformers",
+			"name_zh": "",
+			"description_zh": "支持PyTorch、TensorFlow和JAX的前沿机器学习库，包含数千个预训练模型。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/huggingface\/trl",
+			"name": "TRL",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/ibm\/docling",
+			"name": "Docling Project",
+			"name_zh": "",
+			"description_zh": "用于文档解析、理解与转换的工具链。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/ibm\/mcp_context_forge",
+			"name": "MCP Context Forge",
+			"name_zh": "",
+			"description_zh": "面向 MCP、A2A 和 REST\/gRPC API 的 AI 网关、注册中心和代理。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/ibm\/open_liberty",
+			"name": "Open Liberty",
+			"name_zh": "",
+			"description_zh": "Open Liberty 是一个轻量、快速且灵活的云原生 Java 微服务运行时。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/iflytek\/astron",
+			"name": "Astron",
+			"name_zh": "",
+			"description_zh": "企业级智能代理工作流平台，用于构建可扩展、生产就绪的AI代理应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/imply\/druid",
+			"name": "Apache Druid",
+			"name_zh": "",
+			"description_zh": "Apache Druid：高性能实时分析数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/improbable\/thanos",
+			"name": "Thanos",
+			"name_zh": "",
+			"description_zh": "高可用的 Prometheus 部署方案，支持长期存储。CNCF 孵化项目。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/infiniflow\/ragflow",
+			"name": "RAGFlow",
+			"name_zh": "",
+			"description_zh": "用于构建 RAG 工作流的开源检索增强生成引擎。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/influxdata\/influxdb",
+			"name": "InfluxDB",
+			"name_zh": "",
+			"description_zh": "用于实时分析和监控的可扩展时序数据库",
+			"data": ""
+		},
+		{
+			"id": ":companies\/inspur\/kwdb",
+			"name": "KWDB",
+			"name_zh": "",
+			"description_zh": "KWDB 是一款面向 AIoT 场景的分布式多模数据库",
+			"data": ""
+		},
+		{
+			"id": ":companies\/intel\/gluten",
+			"name": "Apache Gluten",
+			"name_zh": "",
+			"description_zh": "Gluten 将 JVM 基础的 SQL 引擎卸载到原生引擎以提升性能。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/intel\/nwjs",
+			"name": "NW.js",
+			"name_zh": "",
+			"description_zh": "NW.js 可使用 HTML\/JS 和 Node.js 模块编写原生应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/intel\/openvino",
+			"name": "OpenVINO",
+			"name_zh": "",
+			"description_zh": "OpenVINO™ 是一个用于优化和部署人工智能推理的开源工具包。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/intuit\/argo",
+			"name": "Argo",
+			"name_zh": "",
+			"description_zh": "面向 Kubernetes 的声明式持续交付工具",
+			"data": ""
+		},
+		{
+			"id": ":companies\/iotex\/iotex",
+			"name": "IoTeX Project",
+			"name_zh": "",
+			"description_zh": "一个超高效率的EVM区块链协议，适用于DePIN和Web3组合应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/isovalent\/cilium",
+			"name": "Cilium",
+			"name_zh": "",
+			"description_zh": "Cilium 是基于 eBPF 的 Kubernetes 网络、安全与可观测性解决方案。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/jd\/cubefs",
+			"name": "CubeFS",
+			"name_zh": "",
+			"description_zh": "CubeFS 是一个云原生分布式文件与对象存储系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/jetbrains\/koog",
+			"name": "Koog",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/jetbrains\/kotlin",
+			"name": "Kotlin",
+			"name_zh": "",
+			"description_zh": "Kotlin 编程语言——JetBrains 推出的简洁多平台语言。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/juicedata\/juicefs",
+			"name": "JuiceFS",
+			"name_zh": "",
+			"description_zh": "JuiceFS 是基于 Redis 和 S3 构建的高性能分布式 POSIX 文件系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/kestra\/kestra",
+			"name": "Kestra",
+			"name_zh": "",
+			"description_zh": "面向关键任务应用的事件驱动编排与调度平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/kilo\/kilocode",
+			"name": "Kilocode",
+			"name_zh": "",
+			"description_zh": "一站式智能体工程平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/kong\/kong",
+			"name": "Kong",
+			"name_zh": "",
+			"description_zh": "高性能、云原生的API与AI网关，具备可扩展的插件架构。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/kubecost\/opencost",
+			"name": "OpenCost",
+			"name_zh": "",
+			"description_zh": "OpenCost 是一个用于 Kubernetes 和云环境的成本监控开源工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/lago\/lago",
+			"name": "Lago",
+			"name_zh": "",
+			"description_zh": "开源的用量计费和订阅计费系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/lancedb\/lancedb",
+			"name": "LanceDB",
+			"name_zh": "",
+			"description_zh": "面向机器学习的现代列式数据格式，支持快速随机访问和向量搜索。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/langchain\/deepagents",
+			"name": "DeepAgents",
+			"name_zh": "",
+			"description_zh": "基于 LangChain 与 LangGraph 构建的智能体框架，用于处理长周期智能体任务。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/langchain\/langchain",
+			"name": "LangChain",
+			"name_zh": "",
+			"description_zh": "LangChain 是一个用于构建可靠代理和大语言模型应用的平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/langchain\/langgraph",
+			"name": "LangGraph",
+			"name_zh": "",
+			"description_zh": "LangChain 推出的智能体工作流编排框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/langfuse\/langfuse",
+			"name": "Langfuse",
+			"name_zh": "",
+			"description_zh": "开源LLM工程平台，支持可观测性、评估和提示管理。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/laravel\/laravel",
+			"name": "Laravel",
+			"name_zh": "",
+			"description_zh": "Laravel 是一个功能强大的 PHP Web 应用框架，语法优雅且工具丰富。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/linkedin\/datahub",
+			"name": "DataHub",
+			"name_zh": "",
+			"description_zh": "DataHub：您的数据与AI堆栈的元数据平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/linkedin\/kafka",
+			"name": "Apache Kafka",
+			"name_zh": "",
+			"description_zh": "Apache Kafka 镜像，一个分布式事件流平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/linkedin\/pinot",
+			"name": "Apache Pinot",
+			"name_zh": "",
+			"description_zh": "Apache Pinot 是一个用于实时低延迟分析的分布式 OLAP 数据存储。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/linkedin\/venice",
+			"name": "Venice",
+			"name_zh": "",
+			"description_zh": "Venice 是一个面向大规模工作负载的派生数据平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/livekit\/agents",
+			"name": "LiveKit Agents",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/livekit\/livekit",
+			"name": "LiveKit",
+			"name_zh": "",
+			"description_zh": "LiveKit 推出的语音与多模态智能体框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/llama_corp\/defillama",
+			"name": "DefiLlama",
+			"name_zh": "",
+			"description_zh": "Defillama Adapters 提供用于获取区块链数据以跟踪 TVL 和交易量的工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/llama_corp\/llamanodes",
+			"name": "LlamaNodes",
+			"name_zh": "",
+			"description_zh": "一个快速缓存和负载均衡代理，适用于以太坊或类似JSON-RPC链。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/llama_corp\/llamapay",
+			"name": "LlamaPay",
+			"name_zh": "",
+			"description_zh": "LlamaPay Interface 提供了一个与支付系统交互的直观界面。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/llamaindex\/llamaindex",
+			"name": "LlamaIndex",
+			"name_zh": "",
+			"description_zh": "LlamaIndex 是构建基于大语言模型（LLM）代理的领先框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/lmsys\/fastchat",
+			"name": "FastChat",
+			"name_zh": "",
+			"description_zh": "一个用于训练、部署和评估大语言模型的开源平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/lobehub\/lobe_chat",
+			"name": "Lobe Chat",
+			"name_zh": "",
+			"description_zh": "LobeHub - 开源AI智能体工作区，支持多平台、RAG和一键部署。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/lobehub\/lobe_theme",
+			"name": "Lobe Theme",
+			"name_zh": "",
+			"description_zh": "为 Stable Diffusion WebUI 设计的现代可定制主题，具备效率提升功能。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/lyft\/envoy",
+			"name": "Envoy",
+			"name_zh": "",
+			"description_zh": "面向边缘\/中间\/服务层的云原生高性能代理",
+			"data": ""
+		},
+		{
+			"id": ":companies\/mariadb\/mariadb",
+			"name": "MariaDB",
+			"name_zh": "",
+			"description_zh": "MariaDB 是一个由社区开发的开源关系型数据库，源自 MySQL。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/mastra\/mastra",
+			"name": "Mastra",
+			"name_zh": "",
+			"description_zh": "用于构建智能体应用的框架与工具集。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/material_ui_sas\/material_ui",
+			"name": "Material-UI",
+			"name_zh": "",
+			"description_zh": "基于AngularJS实现的Material设计风格用户界面。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/matra_datavision\/freecad",
+			"name": "FreeCAD",
+			"name_zh": "",
+			"description_zh": "FreeCAD 是一款免费、开源的跨平台三维参数化建模软件。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/matrix_origin\/matrixone",
+			"name": "MatrixOne",
+			"name_zh": "",
+			"description_zh": "兼容 MySQL 的 HTAP 数据库，支持数据版本控制、向量搜索和全文搜索。云原生，AI 就绪。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/mattermost\/mattermost",
+			"name": "Mattermost",
+			"name_zh": "",
+			"description_zh": "Mattermost 是一个用于软件开发安全协作的开源平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/mckinsey\/mlrun",
+			"name": "MLRun",
+			"name_zh": "",
+			"description_zh": "MLRun 是一个开源的 MLOps 平台，用于构建和管理机器学习\/人工智能应用的全生命周期。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/mem0\/mem0",
+			"name": "Mem0",
+			"name_zh": "",
+			"description_zh": "面向 AI 助手与智能体的记忆层。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/mermaid\/mermaidjs",
+			"name": "Mermaid JS",
+			"name_zh": "",
+			"description_zh": "从 Mermaid 图表生成 SVG\/PNG\/PDF 的命令行工具（开发已迁移至 @mermaid-js\/mermaid-cli）。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/meta\/cassandra",
+			"name": "Apache Cassandra",
+			"name_zh": "",
+			"description_zh": "Apache Cassandra 是一个高度可扩展的分布式行存储数据库，适用于跨系统处理大量数据。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/meta\/hive",
+			"name": "Apache Hive",
+			"name_zh": "",
+			"description_zh": "Apache Hive 是一个基于 Hadoop 的数据仓库系统，支持使用 SQL 查询和管理大规模数据集。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/meta\/prestodb",
+			"name": "PrestoDB",
+			"name_zh": "",
+			"description_zh": "Presto 是一个用于大数据的分布式 SQL 查询引擎。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"name_zh": "",
+			"description_zh": "张量和动态神经网络的 Python 实现，具有强大的 GPU 加速能力。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/meta\/react_native",
+			"name": "React Native",
+			"name_zh": "",
+			"description_zh": "使用 React 构建原生移动应用的框架",
+			"data": ""
+		},
+		{
+			"id": ":companies\/meta\/rocksdb",
+			"name": "RocksDB",
+			"name_zh": "",
+			"description_zh": "适用于闪存和内存存储的嵌入式持久化键值存储库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/meta\/spring_projects",
+			"name": "Spring",
+			"name_zh": "",
+			"description_zh": "Spring 生态中的 AI 应用开发框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/meta\/velox",
+			"name": "Velox",
+			"name_zh": "",
+			"description_zh": "一个可组合且可扩展的C++执行引擎，用于数据管理系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/metabase\/metabase",
+			"name": "Metabase",
+			"name_zh": "",
+			"description_zh": "Metabase 是一款易于使用的开源商业智能与嵌入式分析工具，让每个人都能轻松处理数据。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/agent_framework",
+			"name": "Microsoft Agent Framework",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/autogen",
+			"name": "AutoGen",
+			"name_zh": "",
+			"description_zh": "微软推出的智能体 AI 编程框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/azure",
+			"name": "Azure",
+			"name_zh": "",
+			"description_zh": "微软 Azure 的 API、SDK 和开源项目。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/dapr",
+			"name": "Dapr",
+			"name_zh": "",
+			"description_zh": "Dapr 是一个可移植的运行时，用于构建支持事件驱动和工作流编排的分布式应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/deepspeed",
+			"name": "DeepSpeed",
+			"name_zh": "",
+			"description_zh": "DeepSpeed 是一个用于高效分布式训练和推理的深度学习优化库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/dotnet",
+			"name": "C#\/.Net",
+			"name_zh": "",
+			"description_zh": ".NET 是一个用于构建云、移动、桌面和物联网应用的跨平台运行时。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/fluentui",
+			"name": "Fluent UI",
+			"name_zh": "",
+			"description_zh": "Fluent UI Web 提供工具、React 组件和 Web 组件，用于构建现代网页应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/fluid_framework",
+			"name": "Fluid Framework",
+			"name_zh": "",
+			"description_zh": "用于构建分布式实时协作网络应用的库",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/graphrag",
+			"name": "GraphRAG",
+			"name_zh": "",
+			"description_zh": "微软推出的基于图结构的检索增强生成框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/hbase",
+			"name": "Apache HBase",
+			"name_zh": "",
+			"description_zh": "Apache HBase 是基于 Apache Hadoop 的分布式列式数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/interpretml",
+			"name": "InterpretML",
+			"name_zh": "",
+			"description_zh": "InterpretML 提供可解释模型和工具，用于解释黑盒机器学习系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/keda",
+			"name": "KEDA",
+			"name_zh": "",
+			"description_zh": "KEDA 为 Kubernetes 工作负载提供事件驱动的自动扩展。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/markitdown",
+			"name": "MarkItDown",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/omniparser",
+			"name": "OmniParser",
+			"name_zh": "",
+			"description_zh": "微软推出的 GUI 解析与理解项目。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/onnxruntime",
+			"name": "ONNX Runtime",
+			"name_zh": "",
+			"description_zh": "ONNX 运行时：跨平台高性能机器学习推理与训练加速器。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/playwright",
+			"name": "Playwright",
+			"name_zh": "",
+			"description_zh": "Playwright 是一个用于跨浏览器网页测试和自动化的框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/power_toys",
+			"name": "PowerToys",
+			"name_zh": "",
+			"description_zh": "Microsoft PowerToys 是一组提升 Windows 生产力的实用工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/powershell",
+			"name": "PowerShell",
+			"name_zh": "",
+			"description_zh": "PowerShell 是一个跨平台的自动化与配置工具，专为结构化数据和系统管理优化。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/semantic_kernel",
+			"name": "Semantic Kernel",
+			"name_zh": "",
+			"description_zh": "微软推出的 AI 应用与智能体开发 SDK。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/vcpkg",
+			"name": "vcpkg",
+			"name_zh": "",
+			"description_zh": "适用于 Windows、Linux 和 macOS 的跨平台 C++ 库管理工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/microsoft\/vscode",
+			"name": "VSCode",
+			"name_zh": "",
+			"description_zh": "Visual Studio Code 是一个轻量、可扩展的开源代码编辑器。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/mifos\/fineract",
+			"name": "Apache Fineract",
+			"name_zh": "",
+			"description_zh": "Apache Fineract 是一个开源核心银行平台，助力金融创新。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/mindverse\/second_me",
+			"name": "Second Me",
+			"name_zh": "",
+			"description_zh": "Mindverse 推出的数字分身 \/ 个人智能体项目。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/mintplex_labs\/anything_llm",
+			"name": "AnythingLLM",
+			"name_zh": "",
+			"description_zh": "一体化 AI 生产力平台，支持本地优先和自托管工作流。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/modelbest\/openbmb",
+			"name": "OpenBMB",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/modular\/modular",
+			"name": "Modular",
+			"name_zh": "",
+			"description_zh": "一个统一的AI开发与部署平台，包含MAX和Mojo。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/mongodb\/wiredtiger",
+			"name": "WiredTiger",
+			"name_zh": "",
+			"description_zh": "WiredTiger 12.0.0版本的源代码。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/moonshot\/kimi_cli",
+			"name": "Kimi CLI",
+			"name_zh": "",
+			"description_zh": "面向 Kimi 的命令行 AI 智能体。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/moonshot\/kimi_code",
+			"name": "Kimi Code",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/moving_tech_innovations\/nammayatri",
+			"name": "Namma Yatri",
+			"name_zh": "",
+			"description_zh": "Namma Yatri 是一个开放、以司机为中心的出行平台，助力印度新一代交通应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/mozilla\/mdn",
+			"name": "MDN Web Docs",
+			"name_zh": "",
+			"description_zh": "MDN Web Docs 是一个开源项目，提供全面的网络技术文档和学习资源。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/mozilla\/rust",
+			"name": "Rust",
+			"name_zh": "",
+			"description_zh": "一门赋能每个人构建可靠且高效软件的编程语言。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/myshell\/ailice",
+			"name": "AIlice",
+			"name_zh": "",
+			"description_zh": "AIlice 是一个完全自主的通用人工智能代理。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/myshell\/melotts",
+			"name": "MeloTTS",
+			"name_zh": "",
+			"description_zh": "MyShell.ai与MIT联合开发的高质量多语言文本转语音库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/myshell\/openvoice",
+			"name": "OpenVoice",
+			"name_zh": "",
+			"description_zh": "OpenVoice：即时语音克隆，支持音色、风格和跨语言控制。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/mysten_labs\/sui",
+			"name": "Sui",
+			"name_zh": "",
+			"description_zh": "Sui 是一个基于 Move 语言的高吞吐、低延迟智能合约平台，支持面向资产的编程模型。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/n8n\/n8n",
+			"name": "n8n",
+			"name_zh": "",
+			"description_zh": "n8n 是一个具有原生 AI 功能和 400+ 集成的公平代码工作流自动化平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nabucasa\/home_assistant",
+			"name": "Home Assistant",
+			"name_zh": "",
+			"description_zh": "注重本地控制与隐私的开源家庭自动化平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/naddod\/nextchat",
+			"name": "NextChat",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nammayatri\/nammayatri",
+			"name": "Namma Yatri",
+			"name_zh": "",
+			"description_zh": "Namma Yatri 是一个面向印度的开放、以司机为中心的新型出行平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/naver\/cubrid",
+			"name": "CUBRID",
+			"name_zh": "",
+			"description_zh": "CUBRID 是一个为 Web 应用优化的开源关系型数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/neo4j\/neo4j",
+			"name": "Neo4j",
+			"name_zh": "",
+			"description_zh": "Neo4j 是全球领先的图数据库，提供高性能和 ACID 事务。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/netease\/codewave",
+			"name": "CodeWave",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/netflix\/iceberg",
+			"name": "Apache Iceberg",
+			"name_zh": "",
+			"description_zh": "Apache Iceberg 是一个高性能的大规模分析表格式，支持多计算引擎协作。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nevamind_ai\/memu",
+			"name": "memU",
+			"name_zh": "",
+			"description_zh": "面向主动式智能体和智能体工作流的记忆系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/newrelic\/newrelic",
+			"name": "New Relic",
+			"name_zh": "",
+			"description_zh": "New Relic 是一个全面的、基于云的观测性平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nextcloud\/nextcloud",
+			"name": "NextCloud",
+			"name_zh": "",
+			"description_zh": "Nextcloud 服务器，您所有数据的安全之家",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nirmata\/kyverno",
+			"name": "Kyverno",
+			"name_zh": "",
+			"description_zh": "Kyverno 是一个原生 Kubernetes 策略引擎，用于安全、合规与自动化。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nomic\/gpt4all",
+			"name": "GPT4All",
+			"name_zh": "",
+			"description_zh": "GPT4All：无需 API 或 GPU，可在任何设备上本地运行开源大语言模型。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nordcraft\/nordcraft",
+			"name": "Nordcraft",
+			"name_zh": "",
+			"description_zh": "toddle 开源可视化前端框架内部使用的包。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nordic_semiconductor\/nrf_connect",
+			"name": "nRF Connect",
+			"name_zh": "",
+			"description_zh": "包含库、示例和应用程序的nRF Connect SDK核心。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nousresearch\/hermes_agent",
+			"name": "Hermes Agent",
+			"name_zh": "",
+			"description_zh": "具备持久记忆和任务自动化能力的开源 AI Agent。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/novell\/openqa",
+			"name": "openQA for SUSE",
+			"name_zh": "",
+			"description_zh": "openSUSE 和 SLE 发行版的 os-autoinst 测试用例。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nrwl\/nx",
+			"name": "Nx",
+			"name_zh": "",
+			"description_zh": "Nx 优化构建，扩展 CI 并修复失败的 PR，适用于开发者和 AI 代理。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nvidia\/cudf",
+			"name": "cuDF",
+			"name_zh": "",
+			"description_zh": "cuDF 是一个用于高性能数据操作的 GPU 数据框库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nvidia\/cutlass",
+			"name": "CUTLASS",
+			"name_zh": "",
+			"description_zh": "用于高性能线性代数的 CUDA 模板和 Python DSL",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nvidia\/dynamo",
+			"name": "Dynamo",
+			"name_zh": "",
+			"description_zh": "面向生成式AI模型的高吞吐、低延迟分布式推理框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nvidia\/megatron",
+			"name": "Megatron",
+			"name_zh": "",
+			"description_zh": "用于大规模训练Transformer模型的GPU优化库",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nvidia\/model_optimizer",
+			"name": "Model Optimizer",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nvidia\/nccl",
+			"name": "NCCL",
+			"name_zh": "",
+			"description_zh": "用于多GPU通信的优化原语",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nvidia\/nemo",
+			"name": "NeMo",
+			"name_zh": "",
+			"description_zh": "一个用于大语言模型、多模态和语音AI的可扩展生成式AI框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nvidia\/nemo_rl",
+			"name": "NeMo RL",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nvidia\/tensorrt",
+			"name": "TensorRT",
+			"name_zh": "",
+			"description_zh": "TensorRT LLM 提供优化的 Python API，用于在 NVIDIA GPU 上高效执行大语言模型推理。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nvidia\/transformer_engine",
+			"name": "Transformer Engine",
+			"name_zh": "",
+			"description_zh": "用于在NVIDIA GPU上加速Transformer模型的库，支持FP8和FP4精度。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/nvidia\/triton",
+			"name": "Triton Inference",
+			"name_zh": "",
+			"description_zh": "Triton 推理服务器是面向云端和边缘的优化 AI 推理服务解决方案。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/odoo\/odoo",
+			"name": "Odoo",
+			"name_zh": "",
+			"description_zh": "Odoo 是一套开源商业应用，助力企业成长。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/okta\/openfga",
+			"name": "OpenFGA",
+			"name_zh": "",
+			"description_zh": "受 Google Zanzibar 启发的高性能权限引擎。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/ollama\/ollama",
+			"name": "Ollama",
+			"name_zh": "",
+			"description_zh": "使用 Ollama 在本地运行 Llama、DeepSeek 和 Gemma 等大语言模型。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/openai\/agents_md",
+			"name": "AGENTS.md",
+			"name_zh": "",
+			"description_zh": "OpenAI 贡献的开放格式，用于向编程智能体提供代码仓库专属的指导说明。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/openai\/codex",
+			"name": "Codex",
+			"name_zh": "",
+			"description_zh": "运行在终端中的轻量级编码智能体。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/openai\/openai_agents_python",
+			"name": "OpenAI Agents Python",
+			"name_zh": "",
+			"description_zh": "用于构建 OpenAI 智能体的 Python SDK。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/openai\/parameter_golf",
+			"name": "Parameter Golf",
+			"name_zh": "",
+			"description_zh": "训练可放入 16MB 的最小语言模型的挑战项目。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/openai\/triton",
+			"name": "Triton",
+			"name_zh": "",
+			"description_zh": "Triton 是一个用于编写高效深度学习原语的语言和编译器。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/openkylin\/openkylin",
+			"name": "openKylin",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/openmeter\/openmeter",
+			"name": "OpenMeter",
+			"name_zh": "",
+			"description_zh": "OpenMeter 提供 AI、API 和 DevOps 的实时计量与按使用计费。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/openmind\/om1",
+			"name": "OM1",
+			"name_zh": "",
+			"description_zh": "面向机器人的模块化 AI 运行时。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/openpipe\/art",
+			"name": "ART",
+			"name_zh": "",
+			"description_zh": "代理强化训练器：使用GRPO训练用于现实任务的多步骤智能体。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/openpipe\/openpipe",
+			"name": "OpenPipe",
+			"name_zh": "",
+			"description_zh": "OpenPipe：将昂贵提示训练为低成本模型的开源平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/opera\/gamemaker",
+			"name": "GameMaker",
+			"name_zh": "",
+			"description_zh": "GameMaker 的公共漏洞追踪与功能请求。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/oracle\/java",
+			"name": "Java",
+			"name_zh": "",
+			"description_zh": "JDK 主线开发源代码",
+			"data": ""
+		},
+		{
+			"id": ":companies\/oracle\/netbeans",
+			"name": "Apache Netbeans",
+			"name_zh": "",
+			"description_zh": "Apache NetBeans 是一个开源的集成开发环境和应用框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/paloaltonetworks\/cortex_content",
+			"name": "Cortex XSOAR",
+			"name_zh": "",
+			"description_zh": "Cortex XSOAR 内容库，用于自动化和编排安全运营。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/paradigm\/alloy",
+			"name": "Alloy",
+			"name_zh": "",
+			"description_zh": "Alloy 项目的传输、中间件和网络支持",
+			"data": ""
+		},
+		{
+			"id": ":companies\/paradigm\/foundry",
+			"name": "Foundry",
+			"name_zh": "",
+			"description_zh": "Foundry 是一个快速、模块化的以太坊开发工具包，使用 Rust 编写。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/paradigm\/reth",
+			"name": "Reth",
+			"name_zh": "",
+			"description_zh": "基于Rust的模块化、开发者友好且高性能的以太坊协议实现",
+			"data": ""
+		},
+		{
+			"id": ":companies\/paradigm\/wevm",
+			"name": "wevm",
+			"name_zh": "",
+			"description_zh": "以太坊的 TypeScript 接口",
+			"data": ""
+		},
+		{
+			"id": ":companies\/parseable\/parseable",
+			"name": "Parseable",
+			"name_zh": "",
+			"description_zh": "Parseable 是一个无需磁盘、云原生的日志与可观测性数据库，专注于简洁与高效。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/pingcap\/chaos_mesh",
+			"name": "Chaos Mesh",
+			"name_zh": "",
+			"description_zh": "专为 Kubernetes 设计的混沌工程平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/pingcap\/tidb",
+			"name": "TiDB",
+			"name_zh": "",
+			"description_zh": "TiDB 是一个开源、云原生、面向现代应用的分布式 SQL 数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/pingcap\/tikv",
+			"name": "TiKV",
+			"name_zh": "",
+			"description_zh": "分布式事务型键值数据库，最初为配合 TiDB 而开发",
+			"data": ""
+		},
+		{
+			"id": ":companies\/pingdotgg\/t3code",
+			"name": "T3 Code",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/pivotal\/buildpacks",
+			"name": "Buildpacks",
+			"name_zh": "",
+			"description_zh": "用于使用云原生构建包构建应用的命令行工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/pivotal\/cloudfoundry",
+			"name": "Cloud Foundry",
+			"name_zh": "",
+			"description_zh": "Cloud Foundry 云控制器提供用于管理应用、服务和用户角色的 REST API。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/polars\/polars",
+			"name": "Polars",
+			"name_zh": "",
+			"description_zh": "基于Rust的多线程、向量化DataFrame库，用于快速数据处理。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/polarsignals\/frostdb",
+			"name": "FrostDB",
+			"name_zh": "",
+			"description_zh": "FrostDB 是一个用 Go 编写的嵌入式列数据库，适用于写入密集型和分析型工作负载。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/prefect\/prefect",
+			"name": "Prefect",
+			"name_zh": "",
+			"description_zh": "Prefect 是一个用于构建弹性数据流水线的 Python 工作流编排框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/promptfoo\/promptfoo",
+			"name": "Promptfoo",
+			"name_zh": "",
+			"description_zh": "Promptfoo：通过红队测试、评估和模型比较，测试并保障LLM应用的安全性。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/pydantic\/pydantic_ai",
+			"name": "Pydantic AI",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/pythagora\/pythagora",
+			"name": "Pythagora",
+			"name_zh": "",
+			"description_zh": "GPT Pilot 是首个能与你协作构建完整应用的真实 AI 开发者助手。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/qdrant\/qdrant",
+			"name": "Qdrant",
+			"name_zh": "",
+			"description_zh": "Qdrant - 高性能的AI应用向量数据库和搜索引擎。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/qodo\/pr_agent",
+			"name": "PR Agent",
+			"name_zh": "",
+			"description_zh": "面向代码审查与研发流程的 AI Pull Request 助手。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/quantum\/rook",
+			"name": "Rook",
+			"name_zh": "",
+			"description_zh": "Rook 是 Kubernetes 的云原生存储编排器，简化 Ceph 的部署与管理。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/questdb\/questdb",
+			"name": "QuestDB",
+			"name_zh": "",
+			"description_zh": "QuestDB 是一个高性能、开源的时间序列数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/rancher\/longhorn",
+			"name": "Longhorn",
+			"name_zh": "",
+			"description_zh": "基于Kubernetes构建的云原生分布式存储",
+			"data": ""
+		},
+		{
+			"id": ":companies\/rancher\/rancher",
+			"name": "Rancher",
+			"name_zh": "",
+			"description_zh": "一个完整的容器管理平台，支持 Kubernetes 和 DevOps。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/ravendb\/ravendb",
+			"name": "RavenDB",
+			"name_zh": "",
+			"description_zh": "现代支持ACID的NoSQL文档数据库，提供卓越的开发者体验。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/raycast\/raycast",
+			"name": "Raycast",
+			"name_zh": "",
+			"description_zh": "使用 React 和其他工具扩展 Raycast 所需的一切。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/redhat\/ceph",
+			"name": "Ceph",
+			"name_zh": "",
+			"description_zh": "Ceph 是一个分布式对象、块和文件存储系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/redhat\/container_network_interface",
+			"name": "Container Network Interface (CNI)",
+			"name_zh": "",
+			"description_zh": "由 CNI 团队维护的容器网络插件。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/redhat\/cri_o",
+			"name": "CRI-O",
+			"name_zh": "",
+			"description_zh": "CRI-O 是基于 OCI 的 Kubernetes 容器运行时接口实现。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/redhat\/debezium",
+			"name": "Debezium",
+			"name_zh": "",
+			"description_zh": "面向数据库的低延迟变更数据捕获平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/redhat\/etcd",
+			"name": "etcd",
+			"name_zh": "",
+			"description_zh": "面向分布式系统关键数据的可靠分布式键值存储",
+			"data": ""
+		},
+		{
+			"id": ":companies\/redhat\/keycloak",
+			"name": "Keycloak",
+			"name_zh": "",
+			"description_zh": "为现代应用程序和服务提供开源的身份和访问管理。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/redhat\/kubevirt",
+			"name": "KubeVirt",
+			"name_zh": "",
+			"description_zh": "KubeVirt 提供 Kubernetes API 和运行时以管理虚拟机。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/redhat\/metal3",
+			"name": "Metal3",
+			"name_zh": "",
+			"description_zh": "用于在 Kubernetes 中配置和管理裸金属主机的 Bare Metal Operator。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/redhat\/openshift",
+			"name": "OpenShift",
+			"name_zh": "",
+			"description_zh": "开发者与运维友好的 Kubernetes 发行版。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/redhat\/operator_framework",
+			"name": "Operator Framework",
+			"name_zh": "",
+			"description_zh": "用于通过高级 API 和项目脚手架构建 Kubernetes 应用的 SDK。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/redhat\/ramalama",
+			"name": "RamaLama",
+			"name_zh": "",
+			"description_zh": "RamaLama 通过 OCI 容器简化 AI 模型管理。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/redhat\/stackrox",
+			"name": "StackRox",
+			"name_zh": "",
+			"description_zh": "StackRox Kubernetes 安全平台提供容器环境风险分析、可视化和主动安全建议。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/redhat\/strimzi",
+			"name": "Strimzi",
+			"name_zh": "",
+			"description_zh": "使用 Strimzi 在 Kubernetes 和 OpenShift 上运行 Apache Kafka。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/redis\/redis",
+			"name": "Redis",
+			"name_zh": "",
+			"description_zh": "Redis 是一个支持磁盘持久化的内存键值数据库，提供丰富的数据结构。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/restate\/restate",
+			"name": "Restate",
+			"name_zh": "",
+			"description_zh": "Restate 简化构建可容忍基础设施故障的弹性应用程序。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/risingwavelabs\/risingwave",
+			"name": "RisingWave",
+			"name_zh": "",
+			"description_zh": "实时数据的先进事件流处理平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/rtthread\/rtthread",
+			"name": "RT-Thread",
+			"name_zh": "",
+			"description_zh": "RT-Thread 是一个开源的物联网实时操作系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/scylladb\/scylladb",
+			"name": "ScyllaDB",
+			"name_zh": "",
+			"description_zh": "基于 Seastar 构建的高性能NoSQL数据库，兼容 Cassandra 和 DynamoDB。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/segmentfault\/answer",
+			"name": "Apache Answer",
+			"name_zh": "",
+			"description_zh": "适用于任何规模团队的问答平台，由 Apache 开发。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/sensiolabs\/blackfire",
+			"name": "Blackfire",
+			"name_zh": "",
+			"description_zh": "Blackfire PHP SDK 提供用于分析和性能剖析 PHP 应用的工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/sensiolabs\/symfony",
+			"name": "Symfony",
+			"name_zh": "",
+			"description_zh": "Symfony 是一个用于构建 Web 和控制台应用的 PHP 框架，提供可复用组件。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/sensiolabs\/twig",
+			"name": "Twig",
+			"name_zh": "",
+			"description_zh": "Twig 是一个灵活、快速且安全的 PHP 模板语言。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/siyuan_note\/siyuan_note",
+			"name": "SiYuan",
+			"name_zh": "",
+			"description_zh": "思源笔记团队推出的知识管理与 AI 辅助笔记应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/snowflake\/polaris",
+			"name": "Apache Polaris",
+			"name_zh": "",
+			"description_zh": "Apache Polaris 是面向 Apache Iceberg 的开源、可互操作的目录服务。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/snowflake\/streamlit",
+			"name": "Streamlit",
+			"name_zh": "",
+			"description_zh": "Streamlit — 快速构建和分享数据应用的工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/solo_io\/agentgateway",
+			"name": "agentgateway",
+			"name_zh": "",
+			"description_zh": "Solo.io 创建的开源网关，为 AI 智能体、模型、工具和 API 之间的连接提供安全与可观测能力。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/soundcloud\/prometheus",
+			"name": "Prometheus",
+			"name_zh": "",
+			"description_zh": "Prometheus 是一个用于云原生环境的监控系统和时间序列数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/sphereex\/shardingsphere",
+			"name": "Apache ShardingSphere",
+			"name_zh": "",
+			"description_zh": "Apache ShardingSphere 是一个支持分库分表、安全与扩展的分布式 SQL 数据库生态系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/spotify\/backstage",
+			"name": "Backstage",
+			"name_zh": "",
+			"description_zh": "Backstage 是一个用于构建开发者门户的开源框架",
+			"data": ""
+		},
+		{
+			"id": ":companies\/stablyai\/orca",
+			"name": "Orca",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/stackblitz\/bolt.new",
+			"name": "Blot.New",
+			"name_zh": "",
+			"description_zh": "无需本地配置，通过浏览器进行全栈Web开发的AI工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/stackblitz\/webcontainer",
+			"name": "WebContainers",
+			"name_zh": "",
+			"description_zh": "WebContainers 将开发环境集成到您的网页应用中。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/stacklok\/toolhive",
+			"name": "ToolHive",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/starrocks\/starrocks",
+			"name": "StarRocks",
+			"name_zh": "",
+			"description_zh": "StarRocks 是用于数据湖仓内外亚秒级分析的全球最快开源查询引擎。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/stoneatom\/stonedb",
+			"name": "StoneDB",
+			"name_zh": "",
+			"description_zh": "StoneDB 是一个兼容 MySQL 的 HTAP 数据库，支持实时分析与在线事务处理。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/styra\/open_policy_agent",
+			"name": "Open Policy Agent (OPA)",
+			"name_zh": "",
+			"description_zh": "Open Policy Agent（OPA）是一个开源通用策略引擎，用于统一策略执行。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/supabase\/supabase",
+			"name": "Supabase",
+			"name_zh": "",
+			"description_zh": "Supabase 是用于构建 Web、移动和 AI 应用的 Postgres 开发平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/supermemory\/supermemory",
+			"name": "Supermemory",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/surrealdb\/surrealdb",
+			"name": "SurrealDB",
+			"name_zh": "",
+			"description_zh": "面向实时网络的可扩展分布式协作文档-图数据库",
+			"data": ""
+		},
+		{
+			"id": ":companies\/synadia\/nats",
+			"name": "NATS",
+			"name_zh": "",
+			"description_zh": "高性能的NATS.io服务器，适用于云端和边缘消息传递。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/sysdig\/falco",
+			"name": "Falco",
+			"name_zh": "",
+			"description_zh": "Falco 是一款用于 Linux 的云原生运行时安全工具，可实时检测异常行为。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/tabbyml\/tabby",
+			"name": "Tabby",
+			"name_zh": "",
+			"description_zh": "自托管 AI 编程助手。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/tailscale\/tailscale",
+			"name": "Tailscale",
+			"name_zh": "",
+			"description_zh": "Tailscale：使用 WireGuard 和 2FA 构建安全私有网络。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/taos\/tdengine",
+			"name": "TDengine",
+			"name_zh": "",
+			"description_zh": "面向工业物联网的高性能、可扩展时序数据库",
+			"data": ""
+		},
+		{
+			"id": ":companies\/tencent\/opencloudos",
+			"name": "OpenCloudOS",
+			"name_zh": "",
+			"description_zh": "nettrace 是一个基于 eBPF 的网络包追踪与诊断工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/tencent\/opentenbase",
+			"name": "OpenTenBase",
+			"name_zh": "",
+			"description_zh": "TBase 是一个企业级分布式 HTAP 数据库，提供事务和分析一体化解决方案。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/tencent\/ozone",
+			"name": "Apache Ozone",
+			"name_zh": "",
+			"description_zh": "可扩展、可靠的数据分析和对象存储分布式存储系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/tencent\/tkestack",
+			"name": "TKEStack",
+			"name_zh": "",
+			"description_zh": "原生Kubernetes容器管理平台，支持多租户和多集群",
+			"data": ""
+		},
+		{
+			"id": ":companies\/tencent\/tobudos",
+			"name": "TencentOS Tiny",
+			"name_zh": "",
+			"description_zh": "TobudOS 是一个开源物联网实时操作系统，最初基于腾讯的 TencentOS Tiny。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/tenstorrent\/tt_forge",
+			"name": "TT-Forge",
+			"name_zh": "",
+			"description_zh": "基于MLIR的开源编译器，用于在Tenstorrent硬件上运行AI模型。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/tenstorrent\/tt_lang",
+			"name": "TT-Lang",
+			"name_zh": "",
+			"description_zh": "基于Python的DSL，用于在Tenstorrent硬件上编写高性能内核。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/tenstorrent\/tt_llk",
+			"name": "TT-LLK",
+			"name_zh": "",
+			"description_zh": "TT-LLK 是 Tenstorrent 的 AI 芯片底层内核库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/tenstorrent\/tt_metal",
+			"name": "TT-Metal",
+			"name_zh": "",
+			"description_zh": "面向 Tenstorrent 硬件的 TT-NN 算子库和 TT-Metalium 底层内核编程模型。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/tetrate\/agent_router",
+			"name": "Agent Router",
+			"name_zh": "",
+			"description_zh": "Bloomberg 与 Tetrate 以 Envoy AI Gateway 之名联合发起的网关项目，基于 Envoy 连接 AI 模型和 MCP 工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/tigerdata\/timescaledb",
+			"name": "TimescaleDB",
+			"name_zh": "",
+			"description_zh": "TimescaleDB 是一个用于实时高性能时序数据分析的 PostgreSQL 扩展。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/timecho\/iotdb",
+			"name": "Apache IoTDB",
+			"name_zh": "",
+			"description_zh": "Apache IoTDB 是面向物联网领域的时序数据库，提供高效的数据采集、存储与分析能力。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/tooljet\/tooljet",
+			"name": "ToolJet",
+			"name_zh": "",
+			"description_zh": "低代码平台，通过拖放界面和数据源集成快速构建应用。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/treasure_data\/fluentd",
+			"name": "Fluentd",
+			"name_zh": "",
+			"description_zh": "Fluent Bit 是一个快速轻量的日志、指标和追踪处理工具。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/trycua\/cua",
+			"name": "Cua",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":companies\/uber\/hudi",
+			"name": "Apache Hudi",
+			"name_zh": "",
+			"description_zh": "Apache Hudi 是一个支持大数据上更新、删除和增量处理的数据湖平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/uber\/jaeger",
+			"name": "Jaeger",
+			"name_zh": "",
+			"description_zh": "CNCF Jaeger，一个分布式追踪平台",
+			"data": ""
+		},
+		{
+			"id": ":companies\/ubicloud\/ubicloud",
+			"name": "Ubicloud",
+			"name_zh": "",
+			"description_zh": "开源云平台，提供类AWS的IaaS、K8s、IAM和AI服务。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/unkeyed\/unkey",
+			"name": "Unkey",
+			"name_zh": "",
+			"description_zh": "开源的 API 认证与授权平台",
+			"data": ""
+		},
+		{
+			"id": ":companies\/unsloth_ai\/unsloth",
+			"name": "Unsloth",
+			"name_zh": "",
+			"description_zh": "以更低内存（减少70%）将Llama 3.3、DeepSeek-R1及推理模型微调速度提升2倍。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/unstructured\/unstructured",
+			"name": "Unstructured",
+			"name_zh": "",
+			"description_zh": "Unstructured 是一个开源的 ETL 解决方案，用于将复杂文档转换为语言模型可用的结构化数据。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/upbound\/crossplane",
+			"name": "Crossplane",
+			"name_zh": "",
+			"description_zh": "Crossplane 是一个无需编写代码即可构建云原生控制平面的框架。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/upstash\/context7",
+			"name": "Context7",
+			"name_zh": "",
+			"description_zh": "为大模型和 AI 代码编辑器提供最新代码文档的平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/valve\/openvr",
+			"name": "OpenVR SDK",
+			"name_zh": "",
+			"description_zh": "OpenVR SDK 提供了一个跨多厂商的 VR 硬件访问 API。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/vectorize_io\/hindsight",
+			"name": "Hindsight",
+			"name_zh": "",
+			"description_zh": "能够从过往工作中学习的智能体记忆系统。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/vercel\/agent_browser",
+			"name": "Agent Browser",
+			"name_zh": "",
+			"description_zh": "面向 AI 智能体的浏览器自动化 CLI。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/vercel\/ai",
+			"name": "Vercel AI SDK",
+			"name_zh": "",
+			"description_zh": "用于构建 AI 应用的 TypeScript 工具包。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/vercel\/next",
+			"name": "Next.js",
+			"name_zh": "",
+			"description_zh": "Next.js - 适用于生产的 React 框架",
+			"data": ""
+		},
+		{
+			"id": ":companies\/vespa\/vespa",
+			"name": "Vespa",
+			"name_zh": "",
+			"description_zh": "Vespa 是一个用于大规模搜索、推理和组织数据的平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/victoriametrics\/victoriametrics",
+			"name": "VictoriaMetrics",
+			"name_zh": "",
+			"description_zh": "VictoriaMetrics：快速、节省成本的监控解决方案与时间序列数据库",
+			"data": ""
+		},
+		{
+			"id": ":companies\/vk\/tarantool",
+			"name": "Tarantool",
+			"name_zh": "",
+			"description_zh": "Tarantool 是一个结合数据库和应用服务器的内存计算平台，性能卓越。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/vmware\/contour",
+			"name": "Contour",
+			"name_zh": "",
+			"description_zh": "Contour 是一个使用 Envoy 代理的 Kubernetes 入口控制器。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/vmware\/harbor",
+			"name": "Harbor",
+			"name_zh": "",
+			"description_zh": "Harbor 是一个开源的可信云原生镜像仓库，支持存储、签名和扫描内容。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/warp\/warp",
+			"name": "Warp",
+			"name_zh": "",
+			"description_zh": "围绕终端构建的智能体开发环境。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/weaveworks\/flux",
+			"name": "Flux",
+			"name_zh": "",
+			"description_zh": "基于 GitOps 的开源可扩展 Kubernetes 持续交付解决方案。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/weaviate\/weaviate",
+			"name": "Weaviate",
+			"name_zh": "",
+			"description_zh": "Weaviate 是一个支持语义搜索和混合过滤的云原生开源向量数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/whaleops\/dolphinscheduler",
+			"name": "Apache DolphinScheduler",
+			"name_zh": "",
+			"description_zh": "Apache DolphinScheduler 是一个现代化、低代码的数据编排平台，用于高性能工作流。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/woo\/woocommerce",
+			"name": "WooCommerce",
+			"name_zh": "",
+			"description_zh": "基于 WordPress 的可定制开源电商平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/workday\/flowiseai",
+			"name": "FlowiseAI",
+			"name_zh": "",
+			"description_zh": "用于构建 LLM 与智能体工作流的平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/xorbits\/xinference",
+			"name": "Xinference",
+			"name_zh": "",
+			"description_zh": "Xinference 通过一条命令即可轻松部署和运行大语言模型、语音及多模态模型。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/yahoo\/pulsar",
+			"name": "Apache Pulsar",
+			"name_zh": "",
+			"description_zh": "Apache Pulsar 是一个分布式发布-订阅消息系统",
+			"data": ""
+		},
+		{
+			"id": ":companies\/yahoo\/trafficserver",
+			"name": "Apache Traffic Server",
+			"name_zh": "",
+			"description_zh": "高性能支持 HTTP\/1.1 和 HTTP\/2 的缓存代理服务器，具备插件扩展功能。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/yandex\/clickhouse",
+			"name": "ClickHouse",
+			"name_zh": "",
+			"description_zh": "ClickHouse® 是一个实时分析数据库管理系统",
+			"data": ""
+		},
+		{
+			"id": ":companies\/yandex\/ydb",
+			"name": "YDB",
+			"name_zh": "",
+			"description_zh": "YDB 是一个提供高可用性、可扩展性和 ACID 事务的分布式 SQL 数据库。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/yandex\/ytsaurus",
+			"name": "YTsaurus",
+			"name_zh": "",
+			"description_zh": "YTsaurus 是一个可扩展且容错的开源大数据平台。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/yugabyte\/yugabytedb",
+			"name": "YugabyteDB",
+			"name_zh": "",
+			"description_zh": "YugabyteDB 是一个兼容 PostgreSQL 的云原生分布式 SQL 数据库，专为可扩展的关键业务应用设计。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/zama\/concrete",
+			"name": "Concrete",
+			"name_zh": "",
+			"description_zh": "Concrete：将Python程序转换为FHE的TFHE编译器，用于加密计算",
+			"data": ""
+		},
+		{
+			"id": ":companies\/zama\/fhevm",
+			"name": "FHEVM",
+			"name_zh": "",
+			"description_zh": "FHEVM：一个将全同态加密与区块链应用集成的全栈框架",
+			"data": ""
+		},
+		{
+			"id": ":companies\/zama\/tfhe_rs",
+			"name": "TFHE-rs",
+			"name_zh": "",
+			"description_zh": "TFHE-rs：一个纯Rust实现的TFHE方案，支持加密数据上的布尔和整数运算。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/zed\/zed",
+			"name": "Zed",
+			"name_zh": "",
+			"description_zh": "Zed 是由 Atom 和 Tree-sitter 创造者开发的高性能多人协作代码编辑器。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/zilliz\/milvus",
+			"name": "Milvus",
+			"name_zh": "",
+			"description_zh": "Milvus 是一个高性能、云原生的向量数据库，支持可扩展的近似最近邻搜索。",
+			"data": ""
+		},
+		{
+			"id": ":companies\/zipstack\/unstract",
+			"name": "Unstract",
+			"name_zh": "",
+			"description_zh": "无需编码的LLM平台，通过API和ETL流水线结构化非结构化文档。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/anoma\/namada",
+			"name": "Namada",
+			"name_zh": "",
+			"description_zh": "Namada 网络的测试网配置与协调。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/apache\/arrow",
+			"name": "Apache Arrow",
+			"name_zh": "",
+			"description_zh": "Apache Arrow 是一种通用列式格式，用于快速内存数据分析和处理。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/apache\/camel",
+			"name": "Apache Camel",
+			"name_zh": "",
+			"description_zh": "Apache Camel 是一个开源集成框架，用于连接系统与数据。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/apache\/lucene",
+			"name": "Apache Lucene",
+			"name_zh": "",
+			"description_zh": "Apache Lucene 和 Solr 开源搜索软件",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/apache\/nuttx",
+			"name": "Apache Nuttx",
+			"name_zh": "",
+			"description_zh": "Apache NuttX 是一个成熟且符合标准的实时嵌入式操作系统。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/apache\/seatunnel",
+			"name": "Apache SeaTunnel",
+			"name_zh": "",
+			"description_zh": "SeaTunnel 是一个高性能、分布式多模态数据集成工具。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/bevy\/bevy",
+			"name": "Bevy",
+			"name_zh": "",
+			"description_zh": "一个用 Rust 编写的简洁数据驱动游戏引擎",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/csa_iot\/matter",
+			"name": "Matter",
+			"name_zh": "",
+			"description_zh": "Matter（原Project CHIP）是一个智能家居设备的开源连接标准。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/farama\/gymnasium",
+			"name": "Gymnasium",
+			"name_zh": "",
+			"description_zh": "单智能体强化学习环境的标准API，包含流行环境及相关工具。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/free_ebook\/free_programming_books",
+			"name": "Free Programming Books",
+			"name_zh": "",
+			"description_zh": "多语言免费编程书籍合集。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/gentoo\/gentoo",
+			"name": "Gentoo Linux",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/girlscript\/gssoc24",
+			"name": "GirlScript Summer of Code 24",
+			"name_zh": "",
+			"description_zh": "Postman挑战赛的一站式文档中心。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/godot\/godot_engine",
+			"name": "Godot Engine",
+			"name_zh": "",
+			"description_zh": "Godot 引擎 —— 一个跨平台的 2D 和 3D 游戏引擎。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf\/agent_sandbox",
+			"name": "Agent Sandbox",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf\/cloudevents",
+			"name": "CloudEvents",
+			"name_zh": "",
+			"description_zh": "CloudEvents 是一种用于以通用格式描述事件数据的规范，旨在实现跨系统的互操作性。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf\/keptn",
+			"name": "Keptn",
+			"name_zh": "",
+			"description_zh": "面向云原生应用的生命周期编排，支持自动化交付与运维。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf\/kubernetes",
+			"name": "Kubernetes",
+			"name_zh": "",
+			"description_zh": "生产级容器调度与管理平台",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf\/openmetrics",
+			"name": "OpenMetrics",
+			"name_zh": "",
+			"description_zh": "OpenMetrics 是将 Prometheus 暴露格式扩展为标准化指标格式的规范。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf\/spiffe",
+			"name": "SPIFFE",
+			"name_zh": "",
+			"description_zh": "SPIFFE 定义了用于安全识别和通信的服务标准。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf\/spire",
+			"name": "SPIRE",
+			"name_zh": "",
+			"description_zh": "SPIRE 是基于 SPIFFE 标准建立软件系统间信任的工具链。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_anoncreds",
+			"name": "Hyperledger AnonCreds",
+			"name_zh": "",
+			"description_zh": "基于AnonCreds V1.0规范的可验证凭证Rust实现。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_aries",
+			"name": "Hyperledger Aries",
+			"name_zh": "",
+			"description_zh": "ACA-Py 是一个用于构建非移动端去中心化信任服务的开源、生产就绪的自主身份代理。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_besu",
+			"name": "Hyperledger Besu",
+			"name_zh": "",
+			"description_zh": "一个面向企业级的、基于 Java 的 Apache 2.0 许可以太坊客户端。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_bevel",
+			"name": "Hyperledger Bevel",
+			"name_zh": "",
+			"description_zh": "用于部署生产就绪分布式账本平台的自动化框架。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_cacti",
+			"name": "Hyperledger Cacti",
+			"name_zh": "",
+			"description_zh": "Hyperledger Cacti 是一个用于区块链互操作性的可插拔框架。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_caliper",
+			"name": "Hyperledger Caliper",
+			"name_zh": "",
+			"description_zh": "一个用于测试多种区块链解决方案性能的基准框架。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_cello",
+			"name": "Hyperledger Cello",
+			"name_zh": "",
+			"description_zh": "Hyperledger Cello 是一个面向企业的区块链部署与运维系统。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_fabric",
+			"name": "Hyperledger Fabric",
+			"name_zh": "",
+			"description_zh": "Hyperledger Fabric 是一个模块化的企业级许可区块链框架。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_firefly",
+			"name": "Hyperledger Firefly",
+			"name_zh": "",
+			"description_zh": "Hyperledger FireFly 是一个开源的超节点，用于构建安全、可扩展的 Web3 应用。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_indy",
+			"name": "Hyperledger Indy",
+			"name_zh": "",
+			"description_zh": "已弃用的Hyperledger Indy SDK，已被indy-vdr和aries-askar替代。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_iroha",
+			"name": "Hyperledger Iroha",
+			"name_zh": "",
+			"description_zh": "Iroha：一个前沿的企业级分布式账本",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_solang",
+			"name": "Hyperledger Solang",
+			"name_zh": "",
+			"description_zh": "适用于Solana、Polkadot和Stellar的Solidity编译器。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_web3j",
+			"name": "Hyperledger Web3J",
+			"name_zh": "",
+			"description_zh": "轻量级 Java 和 Android 以太坊集成库",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/adlik",
+			"name": "Adlik",
+			"name_zh": "",
+			"description_zh": "Adlik：用于加速云与边缘环境深度学习推理的工具包。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/adversarial_robustness_toolkit",
+			"name": "Adversarial Robustness Toolkit",
+			"name_zh": "",
+			"description_zh": "对抗鲁棒性工具箱（ART）- 防御机器学习模型对抗威胁的 Python 库。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/ai_explainability_360_toolkit",
+			"name": "AI Explainability 360 Toolkit",
+			"name_zh": "",
+			"description_zh": "AI Explainability 360 是一个用于可解释机器学习和数据解释的开源工具包。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/ai_fairness_360_toolkit",
+			"name": "AI Fairness 360 Toolkit",
+			"name_zh": "",
+			"description_zh": "AIF360：用于检测和缓解机器学习中偏见的工具包。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/amundsen",
+			"name": "Amundsen",
+			"name_zh": "",
+			"description_zh": "Amundsen 是一个面向数据专业人士的元数据驱动型数据发现与搜索平台。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/angel_ml",
+			"name": "Angel-ML",
+			"name_zh": "",
+			"description_zh": "基于参数服务器的高性能分布式机器学习平台。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/datapractices",
+			"name": "DataPractices",
+			"name_zh": "",
+			"description_zh": "一个关于数据实践理念和课程资料的网站。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/datashim",
+			"name": "Datashim",
+			"name_zh": "",
+			"description_zh": "基于 Kubernetes 的框架，简化对 S3 和 NFS 数据集的访问。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/delta",
+			"name": "DELTA",
+			"name_zh": "",
+			"description_zh": "DELTA 是一个基于深度学习的自然语言与语音处理平台。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/docarrary",
+			"name": "Docarrary",
+			"name_zh": "",
+			"description_zh": "DocArray 是一个用于表示、传输、存储和搜索多模态数据的 Python 库。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/egeria",
+			"name": "Egeria",
+			"name_zh": "",
+			"description_zh": "Egeria 核心提供开放元数据与治理框架、API 和协议。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/elastic_deep_learning",
+			"name": "Elastic Deep Learning (EDL)",
+			"name_zh": "",
+			"description_zh": "Elastic Deep Learning（EDL）是一个在 Kubernetes 上的深度学习框架，用于高效训练和推理。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/fate",
+			"name": "FATE",
+			"name_zh": "",
+			"description_zh": "面向工业级联邦学习的安全协作AI框架。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/feast",
+			"name": "Feast",
+			"name_zh": "",
+			"description_zh": "用于人工智能和机器学习的开源特征存储",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/flyte",
+			"name": "Flyte",
+			"name_zh": "",
+			"description_zh": "用于数据、机器学习和分析堆栈的可扩展且灵活的工作流编排平台。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/forestflow",
+			"name": "ForestFlow",
+			"name_zh": "",
+			"description_zh": "ForestFlow 是一个基于策略的、可扩展的机器学习模型服务器，适用于云原生部署。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/horovod",
+			"name": "Horovod",
+			"name_zh": "",
+			"description_zh": "Horovod 是一个支持 TensorFlow、Keras、PyTorch 和 MXNet 的分布式训练框架。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/janusgraph",
+			"name": "JanusGraph",
+			"name_zh": "",
+			"description_zh": "JanusGraph：一个开源的分布式图数据库，适用于大规模图数据存储和查询。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/kedro",
+			"name": "Kedro",
+			"name_zh": "",
+			"description_zh": "Kedro 是一个用于构建模块化和可维护数据科学流水线的生产就绪框架。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/kompute",
+			"name": "Kompute",
+			"name_zh": "",
+			"description_zh": "Kompute 是基于 Vulkan 的跨厂商 GPU 计算框架，支持快速移动数据处理。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/kserve",
+			"name": "KServe",
+			"name_zh": "",
+			"description_zh": "KServe 是一个标准化的分布式 AI 推理平台，支持在 Kubernetes 上进行可扩展、多框架部署。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/ludwig",
+			"name": "Ludwig",
+			"name_zh": "",
+			"description_zh": "低代码框架，用于构建自定义大语言模型、神经网络和其他AI模型",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/marquez",
+			"name": "Marquez",
+			"name_zh": "",
+			"description_zh": "收集、聚合并可视化数据生态系统的元数据。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/nnstreamer",
+			"name": "NNStreamer",
+			"name_zh": "",
+			"description_zh": "NNTrainer 是一个用于设备端神经网络训练和个性化的轻量级框架。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/onnx",
+			"name": "ONNX",
+			"name_zh": "",
+			"description_zh": "机器学习互操作性的开放标准",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/open_voice_interoperability",
+			"name": "Open Voice Interoperability",
+			"name_zh": "",
+			"description_zh": "开放楼层协议的规范和JSON架构，用于实现语音代理互操作性。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/open_voice_trustmark",
+			"name": "Open Voice TrustMark",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/opends4all",
+			"name": "OpenDS4All",
+			"name_zh": "",
+			"description_zh": "Egeria 核心为数据工具和平台提供开源元数据与治理框架。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/openlineage",
+			"name": "OpenLineage",
+			"name_zh": "",
+			"description_zh": "跨系统收集元数据和数据血缘的开放标准。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/pyro",
+			"name": "Pyro",
+			"name_zh": "",
+			"description_zh": "基于JAX的NumPy概率编程，支持自动微分和JIT编译。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/rwkv",
+			"name": "RWKV",
+			"name_zh": "",
+			"description_zh": "支持训练超过10k长度上下文的RWKV无限上下文训练器。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/soajs",
+			"name": "SOAJS",
+			"name_zh": "",
+			"description_zh": "SOAJS仪表板提供用于管理环境、租户和产品的API与图形界面。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/sparklyr",
+			"name": "sparklyr",
+			"name_zh": "",
+			"description_zh": "Apache Spark 的 R 接口",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/substra",
+			"name": "Substra",
+			"name_zh": "",
+			"description_zh": "Substra 开源联邦学习平台的后端。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/tony",
+			"name": "TonY",
+			"name_zh": "",
+			"description_zh": "TonY 是一个在 Apache Hadoop 上原生运行深度学习任务的框架。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed\/akraino",
+			"name": "Akraino",
+			"name_zh": "",
+			"description_zh": "Akraino ICN SD-EWAN 提供面向边缘计算的优化 SD-WAN 功能并支持 K8s 集成。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed\/baetyl",
+			"name": "Baetyl",
+			"name_zh": "",
+			"description_zh": "Baetyl 实例的远程管理系统",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed\/edgex_foundry",
+			"name": "EdgeX Foundry",
+			"name_zh": "",
+			"description_zh": "用于物联网边缘计算的 EdgeX Golang 微服务。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed\/ekuiper",
+			"name": "eKuiper",
+			"name_zh": "",
+			"description_zh": "支持SQL和图形化规则的轻量级物联网边缘流数据处理引擎。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed\/fledge",
+			"name": "Fledge",
+			"name_zh": "",
+			"description_zh": "一个用于物联网传感器数据到云系统的开源边缘网关。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed\/home_edge",
+			"name": "Home Edge",
+			"name_zh": "",
+			"description_zh": "面向家庭边缘设备的边缘编排，支持智能家居应用场景。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed\/open_glossary_of_edge_computing",
+			"name": "Open Glossary of Edge Computing",
+			"name_zh": "",
+			"description_zh": "一个由社区驱动的边缘计算术语和定义开放词典。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed\/open_horizon",
+			"name": "Open Horizon",
+			"name_zh": "",
+			"description_zh": "Horizon 代理控制系统",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed\/project_eve",
+			"name": "Project EVE",
+			"name_zh": "",
+			"description_zh": "EVE 是一个面向云原生应用的开放、中立边缘虚拟化引擎。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed\/secure_device_onboard",
+			"name": "Secure Device Onboard",
+			"name_zh": "",
+			"description_zh": "安全设备上板（SDO）协议的实现与工具。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/amp",
+			"name": "AMP",
+			"name_zh": "",
+			"description_zh": "AMP 是一个用于构建以用户为中心的网站、故事、广告和电子邮件的网页组件框架。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/appium",
+			"name": "Appium",
+			"name_zh": "",
+			"description_zh": "基于W3C WebDriver协议的跨平台应用自动化框架",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/architect",
+			"name": "Architect",
+			"name_zh": "",
+			"description_zh": "一个用于在AWS无服务器架构上构建功能型Web应用的强大工具。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/chassis",
+			"name": "Chassis",
+			"name_zh": "",
+			"description_zh": "jQuery JavaScript 库",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/dojo",
+			"name": "Dojo",
+			"name_zh": "",
+			"description_zh": "为 Dojo 框架提供的预构建 UI 组件集合。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/eslint",
+			"name": "ESLint",
+			"name_zh": "",
+			"description_zh": "使用 ESLint 查找并修复 JavaScript 代码中的问题。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/esprima",
+			"name": "Esprima",
+			"name_zh": "",
+			"description_zh": "jQuery JavaScript 库",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/express",
+			"name": "Express",
+			"name_zh": "",
+			"description_zh": "快速、无框架偏好、极简的 Node.js Web 框架。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/fastify",
+			"name": "Fastify",
+			"name_zh": "",
+			"description_zh": "适用于 Node.js 的高性能、低开销 Web 框架",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/globalize",
+			"name": "Globalize",
+			"name_zh": "",
+			"description_zh": "基于 Unicode CLDR 数据的国际化和本地化 JavaScript 库。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/grunt",
+			"name": "Grunt",
+			"name_zh": "",
+			"description_zh": "Grunt：JavaScript 任务运行器",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/hospitalrun",
+			"name": "HospitalRun",
+			"name_zh": "",
+			"description_zh": "HospitalRun 的 React 前端：面向发展中国家医院的免费管理软件。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/interledger",
+			"name": "Interledger",
+			"name_zh": "",
+			"description_zh": "Rafiki 是一个开源的 Interledger 服务，帮助钱包提供商为其用户启用支付功能。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/intern",
+			"name": "Intern",
+			"name_zh": "",
+			"description_zh": "一个用于 JavaScript 的新一代代码测试框架。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/jerryscript",
+			"name": "Jerryscript",
+			"name_zh": "",
+			"description_zh": "专为物联网设备设计的超轻量JavaScript引擎，资源占用极低。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/jquery",
+			"name": "jQuery",
+			"name_zh": "",
+			"description_zh": "jQuery 是一个快速、小巧且功能丰富的 JavaScript 库。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/jquery_mobile",
+			"name": "jQuery Mobile",
+			"name_zh": "",
+			"description_zh": "jQuery JavaScript 库",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/jquery_user_interface",
+			"name": "jQuery User Interface",
+			"name_zh": "",
+			"description_zh": "jQuery JavaScript 库",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/libuv",
+			"name": "libuv",
+			"name_zh": "",
+			"description_zh": "为Node.js及其他项目提供跨平台异步I\/O支持的库",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/lodash",
+			"name": "Lodash",
+			"name_zh": "",
+			"description_zh": "一个现代的 JavaScript 工具库，提供模块化、高性能和实用功能。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/marko",
+			"name": "Marko",
+			"name_zh": "",
+			"description_zh": "一种声明式、基于HTML的语言，用于构建动态网页应用。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/messageformat",
+			"name": "Messageformat",
+			"name_zh": "",
+			"description_zh": "JavaScript 的 ICU 和 Unicode 消息格式实现，用于本地化。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/mocha",
+			"name": "Mocha",
+			"name_zh": "",
+			"description_zh": "☕️ 简单、灵活、有趣的 JavaScript 测试框架，适用于 Node.js 与浏览器",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/moment.js",
+			"name": "Moment.js",
+			"name_zh": "",
+			"description_zh": "一个用于解析、验证、操作和格式化日期的 JavaScript 日期库。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/node.js",
+			"name": "Node.js",
+			"name_zh": "",
+			"description_zh": "Node.js 是一个开源的跨平台 JavaScript 运行时环境。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/node_red",
+			"name": "Node-RED",
+			"name_zh": "",
+			"description_zh": "面向事件驱动应用的低代码编程工具",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/nvm",
+			"name": "nvm",
+			"name_zh": "",
+			"description_zh": "Node版本管理器，用于通过POSIX兼容的bash脚本管理多个活动的node.js版本",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/pep",
+			"name": "PEP",
+			"name_zh": "",
+			"description_zh": "jQuery JavaScript 库",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/qunit",
+			"name": "QUnit",
+			"name_zh": "",
+			"description_zh": "🔮 一个易于使用的 JavaScript 单元测试框架。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/requirejs",
+			"name": "RequireJS",
+			"name_zh": "",
+			"description_zh": "一个为浏览器优化的 JavaScript 文件和模块加载器。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/sizzle",
+			"name": "Sizzle",
+			"name_zh": "",
+			"description_zh": "jQuery JavaScript 库",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/webdriverio",
+			"name": "WebdriverIO",
+			"name_zh": "",
+			"description_zh": "基于 Node.js 的新一代浏览器和移动端自动化测试框架",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/webhint.io",
+			"name": "Webhint.io",
+			"name_zh": "",
+			"description_zh": "一个可定制的代码检查工具，用于提升网页的可访问性、性能和兼容性。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/webpack",
+			"name": "webpack",
+			"name_zh": "",
+			"description_zh": "Webpack 是一个功能强大的 JavaScript 及资源模块打包工具，支持代码分割和多种模块格式。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/sonic",
+			"name": "SONiC",
+			"name_zh": "",
+			"description_zh": "SONiC测试床部署的管理与自动化示例。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/valkey",
+			"name": "Valkey",
+			"name_zh": "",
+			"description_zh": "高性能实时键值存储系统，适用于缓存和其他实时工作负载。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/linux_foundation\/zephyr",
+			"name": "Zephyr",
+			"name_zh": "",
+			"description_zh": "Zephyr 是一个可扩展、安全的实时操作系统，适用于资源受限设备和多种硬件架构。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/nixos\/nixos",
+			"name": "NixOS",
+			"name_zh": "",
+			"description_zh": "Nix 软件包集合与纯函数式 Linux 发行版 NixOS。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/carsmos",
+			"name": "Carsmos",
+			"name_zh": "",
+			"description_zh": "CARSMOS.AI 是一个使用 Jekyll 构建的网站项目，支持英文和中文内容部署。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/cloud_hpc",
+			"name": "Cloud HPC",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/crowdos",
+			"name": "CrowdOS",
+			"name_zh": "",
+			"description_zh": "CrowdOS 是一个面向众包与移动群智感知的通用操作系统平台。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/dora_ssr",
+			"name": "Dora SSR",
+			"name_zh": "",
+			"description_zh": "跨平台游戏引擎，内置网页IDE实现快速开发。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/easybaas",
+			"name": "EasyBaaS",
+			"name_zh": "",
+			"description_zh": "EasyBaaS 是一个简化区块链节点部署与运维的 Linux 工具。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/hapjs",
+			"name": "hapjs",
+			"name_zh": "",
+			"description_zh": "快应用标准框架，支持加载、运行和渲染，并提供必要API。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/hsm",
+			"name": "HSMConn",
+			"name_zh": "",
+			"description_zh": "HSMConn 提供统一接口，用于访问异构密码硬件设备。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/hyperbench",
+			"name": "HyperBench",
+			"name_zh": "",
+			"description_zh": "hyperbench 是一个用于区块链平台的分布式压力测试工具。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/metatoc",
+			"name": "MetaToC",
+			"name_zh": "",
+			"description_zh": "MetaTOC 是基于边缘计算与区块链的数据采集与模型开源项目。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/miniblink",
+			"name": "MiniBlink",
+			"name_zh": "",
+			"description_zh": "一个轻量级的Blink浏览器内核，用于在应用中集成HTML界面。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/open_brother",
+			"name": "源师兄",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/open_solon",
+			"name": "OpenSolon",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/openblock",
+			"name": "狮偶",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/opendacs",
+			"name": "openDACS",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/openkona",
+			"name": "OpenKona",
+			"name_zh": "",
+			"description_zh": "腾讯Kona是支持LTS和中国加密算法的生产就绪型OpenJDK发行版。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/opennjet",
+			"name": "OpenNJet",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/openv2x",
+			"name": "OpenV2X",
+			"name_zh": "",
+			"description_zh": "OpenV2X 设备管理 API 服务器（随风而行的管理）",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/rtthread_nano",
+			"name": "RT-TKern",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/smartide",
+			"name": "SmartIDE",
+			"name_zh": "",
+			"description_zh": "SmartIDE - 云原生开发环境，一键搭建，支持多种模式，赋能开发者高效编码。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/taro",
+			"name": "Taro",
+			"name_zh": "",
+			"description_zh": "开放式跨端跨框架解决方案，支持使用 React\/Vue 开发多端应用。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/ubml",
+			"name": "UBML",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/ubsice",
+			"name": "UBSICE",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/vearch",
+			"name": "Vearch",
+			"name_zh": "",
+			"description_zh": "Vearch 是一个面向 AI 应用的云原生分布式向量数据库。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/openatom\/ztdbp",
+			"name": "ZTDBP",
+			"name_zh": "",
+			"description_zh": "ZAManager 是 ZASentinel 的控制器，用于管理资源和证书。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/php\/php",
+			"name": "PHP",
+			"name_zh": "",
+			"description_zh": "PHP 是一种流行的通用脚本语言，特别适用于网页开发。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/python\/python",
+			"name": "Python",
+			"name_zh": "",
+			"description_zh": "Python 是一种高级通用编程语言。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/ruby\/rails",
+			"name": "Ruby on Rails",
+			"name_zh": "",
+			"description_zh": "Ruby on Rails 是一个基于 MVC 模式的数据库驱动型 Web 应用框架。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/ruby\/ruby",
+			"name": "Ruby",
+			"name_zh": "",
+			"description_zh": "Ruby 是一种简单、可扩展的面向对象编程语言。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/trino\/trino",
+			"name": "TrinoDB",
+			"name_zh": "",
+			"description_zh": "Trino 是一个用于大数据分析的快速分布式 SQL 查询引擎。",
+			"data": ""
+		},
+		{
+			"id": ":foundations\/zig\/zig",
+			"name": "Zig",
+			"name_zh": "",
+			"description_zh": "一种通用编程语言和工具链，用于构建健壮、高效且可复用的软件。",
+			"data": ""
+		},
+		{
+			"id": ":institutions\/baai\/flagos",
+			"name": "FlagOS",
+			"name_zh": "",
+			"description_zh": "FlagOS 是一个统一、开源的 AI 系统软件栈。",
+			"data": ""
+		},
+		{
+			"id": ":institutions\/bell_labs\/cpp",
+			"name": "C++",
+			"name_zh": "",
+			"description_zh": "用于生成 C++ 标准草案的源文件。",
+			"data": ""
+		},
+		{
+			"id": ":institutions\/cas\/xiangshan",
+			"name": "XiangShan",
+			"name_zh": "香山处理器",
+			"description_zh": "香山是一个开源的高性能 RISC-V 处理器",
+			"data": ""
+		},
+		{
+			"id": ":institutions\/cern\/alice_o2",
+			"name": "AliceO2",
+			"name_zh": "",
+			"description_zh": "ALICE O2 分析仓库，包含物理框架和工具。",
+			"data": ""
+		},
+		{
+			"id": ":institutions\/idea\/moonbit",
+			"name": "Moonbit",
+			"name_zh": "",
+			"description_zh": "MoonBit 是一个端到端的编程语言工具链，用于云和边缘计算",
+			"data": ""
+		},
+		{
+			"id": ":institutions\/sh_ai_lab\/internlm\/lmdeploy",
+			"name": "LMDeploy",
+			"name_zh": "",
+			"description_zh": "LMDeploy 是一个用于压缩、部署和高效服务大语言模型的工具包。",
+			"data": ""
+		},
+		{
+			"id": ":institutions\/sh_ai_lab\/opencompass",
+			"name": "OpenCompass",
+			"name_zh": "思南评测体系",
+			"description_zh": "OpenCompass 是一个支持多种模型和 100+ 数据集的 LLM 评估平台。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/aider",
+			"name": "Aider",
+			"name_zh": "",
+			"description_zh": "Aider 是终端中的 AI 协同编程工具",
+			"data": ""
+		},
+		{
+			"id": ":projects\/api_testing",
+			"name": "API Testing",
+			"name_zh": "",
+			"description_zh": "开源API测试工具，支持Mock Server和多格式报告。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/astrbot",
+			"name": "AstrBot AI",
+			"name_zh": "",
+			"description_zh": "AstrBot AI 是一个 AI 代理助手，集成了许多 IM 平台、LLM、插件和 AI 功能，可以作为 OpenClaw 的替代品。✨",
+			"data": ""
+		},
+		{
+			"id": ":projects\/autogpt",
+			"name": "AutoGPT",
+			"name_zh": "",
+			"description_zh": "AutoGPT 的愿景是让每个人都能够使用和构建 AI。我们的使命是提供工具，让您专注于最重要的事情。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/autoresearch",
+			"name": "AutoResearch",
+			"name_zh": "",
+			"description_zh": "用于自动运行 nanochat 训练研究的 AI 智能体。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/avante_nvim",
+			"name": "avante.nvim",
+			"name_zh": "",
+			"description_zh": "项目仓库 yetone\/avante.nvim。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/beads",
+			"name": "Beads",
+			"name_zh": "",
+			"description_zh": "面向编程智能体的记忆增强工具。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/bioconda",
+			"name": "Bioconda",
+			"name_zh": "",
+			"description_zh": "为Bioconda频道提供生物信息学软件包的Conda配方。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/bitcoin",
+			"name": "Bitcoin",
+			"name_zh": "",
+			"description_zh": "比特币核心集成\/测试树，用于开发和测试。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/cataclysm_dda",
+			"name": "Cataclysm - Dark Days Ahead",
+			"name_zh": "",
+			"description_zh": "一款后末日世界的回合制生存游戏。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/cc_switch",
+			"name": "CC Switch",
+			"name_zh": "",
+			"description_zh": "面向 Claude Code、Codex、OpenCode 等编程智能体的跨平台助手工具。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/chatboxai",
+			"name": "Chatbox AI",
+			"name_zh": "",
+			"description_zh": "支持多模型服务商的桌面 AI 对话客户端。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/cherry_studio",
+			"name": "Cherry Studio",
+			"name_zh": "",
+			"description_zh": "集成聊天、自主智能体和助手的 AI 生产力工作室。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/claude_mem",
+			"name": "Claude Mem",
+			"name_zh": "",
+			"description_zh": "用于捕获和组织智能体记忆的 Claude Code 插件。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/cli_proxy_api",
+			"name": "CLIProxyAPI",
+			"name_zh": "",
+			"description_zh": "将 Gemini CLI、Antigravity、ChatGPT Codex、Claude Code 封装为兼容 OpenAI\/Gemini\/Claude\/Codex 的 API 服务",
+			"data": ""
+		},
+		{
+			"id": ":projects\/comfyui",
+			"name": "Comfy UI",
+			"name_zh": "",
+			"description_zh": "Comfy UI 的 GitHub 组织，Comfy UI 是一个功能强大且模块化的扩散模型 GUI、API 和后端，具有图形\/节点界面。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/conda_forge",
+			"name": "Conda Forge",
+			"name_zh": "",
+			"description_zh": "conda 包的暂存区，用于成为 conda-forge 饲料库",
+			"data": ""
+		},
+		{
+			"id": ":projects\/coolify",
+			"name": "Coolify",
+			"name_zh": "",
+			"description_zh": "一个开源且可自托管的 Heroku \/ Netlify \/ Vercel 替代方案。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/crush",
+			"name": "Crush",
+			"name_zh": "",
+			"description_zh": "面向终端工作流的智能体编程工具。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/daily_codeforce_problems",
+			"name": "Daily CodeForce Problems",
+			"name_zh": "",
+			"description_zh": "一个日常练习并分享Codeforces题目的开源项目。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/datafusion",
+			"name": "Apache DataFusion",
+			"name_zh": "",
+			"description_zh": "Apache DataFusion 是一个基于 Rust 和 Apache Arrow 构建的高性能、可扩展 SQL 查询引擎。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/deepseek_tui",
+			"name": "DeepSeek TUI",
+			"name_zh": "",
+			"description_zh": "在终端中运行的 DeepSeek 模型编程助手。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/eigent",
+			"name": "Eigent",
+			"name_zh": "",
+			"description_zh": "面向 AI 协作生产力的开源桌面协同工具。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/eliza",
+			"name": "Eliza",
+			"name_zh": "",
+			"description_zh": "用于构建 AI 智能体的自主智能体框架。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/everything_claude_code",
+			"name": "Everything Claude Code",
+			"name_zh": "",
+			"description_zh": "面向 Claude Code、Codex、OpenCode、Cursor 等工具的智能体编排优化系统。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/first_contributions",
+			"name": "First Contributions",
+			"name_zh": "",
+			"description_zh": "指导初学者完成第一次开源贡献。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/follow.is",
+			"name": "Follow",
+			"name_zh": "",
+			"description_zh": "Follow 将内容整合到一个无干扰的时间线中，便于浏览和分享。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/free_domain",
+			"name": "FreeDomain",
+			"name_zh": "",
+			"description_zh": "DigitalPlat FreeDomain 为每个人提供免费域名，助力打造数字身份。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/genesis",
+			"name": "Genesis",
+			"name_zh": "",
+			"description_zh": "面向通用机器人和具身智能学习的生成式世界。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/god_bless",
+			"name": "god_bless",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":projects\/haystack",
+			"name": "deepset",
+			"name_zh": "",
+			"description_zh": "用于构建搜索、问答与 RAG 应用的框架。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/hive",
+			"name": "Hive",
+			"name_zh": "",
+			"description_zh": "面向生产级 AI 的多智能体框架。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/homebrew",
+			"name": "Homebrew",
+			"name_zh": "",
+			"description_zh": "适用于 macOS 或 Linux 的 Homebrew 包管理器。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/hyprland",
+			"name": "Hyprland",
+			"name_zh": "",
+			"description_zh": "Hyprland 是一个外观精美且高度可定制的动态平铺 Wayland 合成器。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/immich",
+			"name": "Immich",
+			"name_zh": "",
+			"description_zh": "高性能自托管的照片和视频管理解决方案。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/immortalwrt",
+			"name": "ImmortalWRT",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":projects\/is_a_dev",
+			"name": "Is-a.dev",
+			"name_zh": "",
+			"description_zh": "为你的个人网站获取一个漂亮的 '.is-a.dev' 子域名。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/island.is",
+			"name": "island.is",
+			"name_zh": "",
+			"description_zh": "冰岛数字政府服务的单一仓库。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/ladybird",
+			"name": "Ladybird",
+			"name_zh": "",
+			"description_zh": "基于网页标准的真正独立浏览器，采用创新引擎。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/langchain_chatchat",
+			"name": "Chatchat-Space",
+			"name_zh": "",
+			"description_zh": "基于 Langchain 和 ChatGLM、Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/letta_ai",
+			"name": "Letta",
+			"name_zh": "",
+			"description_zh": "用于构建具备记忆能力的有状态 AI 智能体框架。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/librechat",
+			"name": "LibreChat",
+			"name_zh": "",
+			"description_zh": "支持智能体、MCP 和多模型供应商的开源 AI 聊天平台。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/libsdl",
+			"name": "SDL",
+			"name_zh": "",
+			"description_zh": "Simple DirectMedia Layer（SDL）是一个用于多媒体软件开发的跨平台库。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/lima",
+			"name": "Lima",
+			"name_zh": "",
+			"description_zh": "Lima 在 macOS 及其他平台上启动 Linux 虚拟机，支持容器及其他应用。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/llama_factory",
+			"name": "LLaMA-Factory",
+			"name_zh": "",
+			"description_zh": "统一高效微调100+大语言模型和视觉语言模型（ACL 2024）",
+			"data": ""
+		},
+		{
+			"id": ":projects\/marimo",
+			"name": "marimo",
+			"name_zh": "",
+			"description_zh": "面向 AI 与数据工作流的响应式 Python Notebook。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/mastodon",
+			"name": "Mastodon",
+			"name_zh": "",
+			"description_zh": "基于ActivityPub协议的免费开源社交网络服务器。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/matplotlib",
+			"name": "Matplotlib",
+			"name_zh": "",
+			"description_zh": "Matplotlib 是一个用于在 Python 中创建可视化图形的综合库。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/mempalace",
+			"name": "MemPalace",
+			"name_zh": "",
+			"description_zh": "面向智能体应用的开源 AI 记忆系统。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/mistral_rs",
+			"name": "mistral.rs",
+			"name_zh": "",
+			"description_zh": "快速灵活的大模型推理引擎。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/mlc_llm",
+			"name": "MLC LLM",
+			"name_zh": "",
+			"description_zh": "支持机器学习编译的通用大语言模型部署引擎",
+			"data": ""
+		},
+		{
+			"id": ":projects\/multica",
+			"name": "Multica",
+			"name_zh": "",
+			"description_zh": "用于分配任务、跟踪进度和沉淀技能的托管智能体平台。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/new_api",
+			"name": "QuantumNous",
+			"name_zh": "",
+			"description_zh": "一个统一的大模型 Hub，支持将各种 LLM 转换为 OpenAI、Claude 或 Gemini 兼容的格式，并提供个人和企业模型管理的中枢。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/nextchat",
+			"name": "NextChat",
+			"name_zh": "",
+			"description_zh": "轻量级且快速的 AI 助手，支持 Web、iOS、MacOS、Android、Linux 和 Windows。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/oh_my_claudecode",
+			"name": "Oh My ClaudeCode",
+			"name_zh": "",
+			"description_zh": "面向 Claude Code 的多智能体编排工具。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/oh_my_codex",
+			"name": "Oh My Codex",
+			"name_zh": "",
+			"description_zh": "面向 Codex 的 hooks、智能体团队和工作流工具。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/oh_my_opencode",
+			"name": "Oh My OpenAgent",
+			"name_zh": "",
+			"description_zh": "用于 OpenCode 工作流的智能体编排工具。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/one_api",
+			"name": "one-api",
+			"name_zh": "",
+			"description_zh": "LLM API 支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、ChatGLM，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/open_journals",
+			"name": "Open Journals",
+			"name_zh": "",
+			"description_zh": "Open Journals 是一个开源、开放获取的期刊集合。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/open_water_analytics",
+			"name": "Open Water Analytics",
+			"name_zh": "",
+			"description_zh": "EPANET 是用于输水管网水力及水质分析的工具包。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/open_webui",
+			"name": "Open WebUI",
+			"name_zh": "",
+			"description_zh": "用户友好的 AI 界面与助手平台，支持 Ollama、OpenAI API 等。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/openclaude",
+			"name": "OpenClaude",
+			"name_zh": "",
+			"description_zh": "可在多环境运行并使用多种工具的开源编程智能体。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/openclaw",
+			"name": "OpenClaw",
+			"name_zh": "",
+			"description_zh": "适用于任何操作系统和平台的个人 AI 助手。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/openfang",
+			"name": "OpenFang",
+			"name_zh": "",
+			"description_zh": "开源智能体操作系统。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/openrlhf",
+			"name": "OpenRLHF",
+			"name_zh": "",
+			"description_zh": "一个易用、可扩展且高性能的RLHF框架，支持70B+模型及多种先进训练技术。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/openspec",
+			"name": "OpenSpec",
+			"name_zh": "",
+			"description_zh": "面向 AI 编程助手的规格驱动开发工具。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/openssl",
+			"name": "OpenSSL",
+			"name_zh": "",
+			"description_zh": "OpenSSL 是一个功能强大的 TLS\/SSL 和加密库。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/openwrt",
+			"name": "OpenWrt",
+			"name_zh": "",
+			"description_zh": "OpenWrt 是一个针对嵌入式设备的 Linux 操作系统。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/orca_slicer",
+			"name": "OrcaSlicer",
+			"name_zh": "",
+			"description_zh": "面向FDM 3D打印机的开源G代码生成器，具备高级切片功能。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/organicmaps",
+			"name": "Organic Maps",
+			"name_zh": "",
+			"description_zh": "Organic Maps 是一款注重隐私的离线地图应用，基于 OpenStreetMap 数据，无广告、无追踪。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/paperclip",
+			"name": "Paperclip",
+			"name_zh": "",
+			"description_zh": "面向无人化公司的开源编排系统。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/perplexica",
+			"name": "Vane",
+			"name_zh": "",
+			"description_zh": "AI 驱动的问答与搜索引擎。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/pgvector",
+			"name": "pgvector",
+			"name_zh": "",
+			"description_zh": "开源的 PostgreSQL 向量相似性搜索",
+			"data": ""
+		},
+		{
+			"id": ":projects\/pi_mono",
+			"name": "Pi Mono",
+			"name_zh": "",
+			"description_zh": "AI 智能体工具包，包含编程智能体 CLI、大模型 API、UI 库和集成。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/pydantic",
+			"name": "Pydantic",
+			"name_zh": "",
+			"description_zh": "围绕 Pydantic 构建的 Python 智能体框架。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/qbittorrent",
+			"name": "qBittorrent",
+			"name_zh": "",
+			"description_zh": "qBittorrent - 一个基于Qt的快速且稳定的BitTorrent客户端。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/redot_engine",
+			"name": "Redot Engine",
+			"name_zh": "",
+			"description_zh": "Redot 引擎 – 跨平台的 2D 和 3D 游戏引擎",
+			"data": ""
+		},
+		{
+			"id": ":projects\/rlinf",
+			"name": "RLinf",
+			"name_zh": "",
+			"description_zh": "面向具身智能和智能体 AI 的强化学习基础设施。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/rtk",
+			"name": "RTK",
+			"name_zh": "",
+			"description_zh": "为常见开发命令降低大模型 token 消耗的 CLI 代理。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/safetensors",
+			"name": "Safetensors",
+			"name_zh": "",
+			"description_zh": "简单、安全的方式存储和分发张量",
+			"data": ""
+		},
+		{
+			"id": ":projects\/scira",
+			"name": "scira",
+			"name_zh": "",
+			"description_zh": "简约的 AI 搜索引擎，帮助您在互联网上查找信息并引用它。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/searxng",
+			"name": "SearXNG",
+			"name_zh": "",
+			"description_zh": "聚合多个搜索服务结果的免费互联网元搜索引擎。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/shad_ps4",
+			"name": "shadPS4",
+			"name_zh": "",
+			"description_zh": "一个基于 C++ 的早期 PlayStation 4 模拟器，支持 Windows、Linux 和 macOS。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/sillytavern",
+			"name": "SillyTavern",
+			"name_zh": "",
+			"description_zh": "SillyTavern 的 GitHub 组织。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/skywalking",
+			"name": "Apache SkyWalking",
+			"name_zh": "",
+			"description_zh": "Apache SkyWalking：用于分布式系统监控与追踪的APM系统。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/space_station_14",
+			"name": "Space Station 14",
+			"name_zh": "",
+			"description_zh": "一款经典太空站13的复刻版多人游戏，充满猜疑与混乱。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/spack",
+			"name": "Spack",
+			"name_zh": "",
+			"description_zh": "一个支持多版本、多配置、多平台和多编译器的灵活包管理工具。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/spring_boot_tutorials",
+			"name": "Spring Boot 3 Tutorials",
+			"name_zh": "",
+			"description_zh": "包含多个Java和Spring教程，支持多种构建配置的项目集合。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/stable_diffusion_webui",
+			"name": "stable-diffusion-webui",
+			"name_zh": "",
+			"description_zh": "项目仓库 AUTOMATIC1111\/stable-diffusion-webui。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/stable_diffusion_webui_forge",
+			"name": "Stable Diffusion WebUI Forge",
+			"name_zh": "",
+			"description_zh": "Stable Diffusion WebUI Forge 增强版，优化功能与资源管理。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/superpowers",
+			"name": "Superpowers",
+			"name_zh": "",
+			"description_zh": "智能体技能框架和软件开发方法论。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/svelte",
+			"name": "Svelte",
+			"name_zh": "",
+			"description_zh": "Svelte - 让我们更轻松地进行网页开发",
+			"data": ""
+		},
+		{
+			"id": ":projects\/systemd",
+			"name": "systemd",
+			"name_zh": "",
+			"description_zh": "一个用于 Linux 系统的系统和服务管理器。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/text_generation_webui",
+			"name": "TextGen",
+			"name_zh": "",
+			"description_zh": "支持文本、视觉、工具调用和 API 的本地大语言模型开源桌面应用。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/the_algorithms",
+			"name": "The Algorithms",
+			"name_zh": "",
+			"description_zh": "Python实现的教育用途算法集合。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/the_pr_agent",
+			"name": "The PR Agent",
+			"name_zh": "",
+			"description_zh": "面向代码审查与研发流程的 AI Pull Request 助手。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/travel_mapping",
+			"name": "Travel Mapping",
+			"name_zh": "",
+			"description_zh": "用于存储和更新TravelMapping用户列表文件的仓库。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/ublock_origin",
+			"name": "uBlock Origin",
+			"name_zh": "",
+			"description_zh": "uBlock Origin 和 uBlock Origin Lite 的过滤列表。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/vibe_kanban",
+			"name": "Vibe Kanban",
+			"name_zh": "",
+			"description_zh": "用于协调编程智能体的看板式工作流工具。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/voicebox",
+			"name": "Voicebox",
+			"name_zh": "",
+			"description_zh": "用于声音克隆、听写和创作的开源 AI 语音工作室。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/void_linux",
+			"name": "Void Linux",
+			"name_zh": "",
+			"description_zh": "Void 源代码包集合，用于通过 XBPS 构建二进制包。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/wolfi",
+			"name": "Wolfi OS",
+			"name_zh": "",
+			"description_zh": "Wolfi项目的主要软件包仓库，一个适用于容器的极简GNU\/Linux发行版。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/woowacourse_precourse",
+			"name": "Woowacourse Precourse",
+			"name_zh": "",
+			"description_zh": "一个数字棒球游戏，玩家猜测计算机生成的三位数。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/xiaozhi_esp32",
+			"name": "xiaozhi-esp32",
+			"name_zh": "",
+			"description_zh": "项目仓库 78\/xiaozhi-esp32。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/zen_browser",
+			"name": "Zen Browser",
+			"name_zh": "",
+			"description_zh": "注重隐私的浏览器，提供无追踪的宁静上网体验。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/zeroclaw",
+			"name": "ZeroClaw",
+			"name_zh": "",
+			"description_zh": "快速、轻量且完全自主的 AI 个人助手基础设施。",
+			"data": ""
+		},
+		{
+			"id": ":projects\/zigbee2mqtt",
+			"name": "Zigbee2MQTT",
+			"name_zh": "",
+			"description_zh": "Zigbee 至 MQTT 桥接器，无需依赖厂商专有桥接设备。",
+			"data": ""
+		},
+		{
+			"id": ":technology\/programming_language\/elixir",
+			"name": "Elixir",
+			"name_zh": "",
+			"description_zh": "Elixir 是一种动态函数式语言，用于构建可扩展且易于维护的应用程序。",
+			"data": ""
+		},
+		{
+			"id": ":technology\/programming_language\/javascript",
+			"name": "JavaScript\/TypeScript",
+			"name_zh": "",
+			"description_zh": "网络编程基础，动态解释执行的脚本语言。",
+			"data": ""
+		},
+		{
+			"id": ":technology\/programming_language\/nim",
+			"name": "Nim",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":technology\/programming_language\/scala",
+			"name": "Scala",
+			"name_zh": "",
+			"description_zh": "Scala 2 编译器、标准库和语言规范。",
+			"data": ""
+		},
+		{
+			"id": ":universities\/hku\/nanobot",
+			"name": "Nanobot",
+			"name_zh": "",
+			"description_zh": "HKUDS 推出的超轻量级个人 AI 智能体。",
+			"data": ""
+		},
+		{
+			"id": ":universities\/illinois\/llvm",
+			"name": "LLVM",
+			"name_zh": "",
+			"description_zh": "LLVM 是一个模块化的编译器和工具链基础设施，用于构建优化的编译器和运行时环境。",
+			"data": ""
+		},
+		{
+			"id": ":universities\/mit\/julia",
+			"name": "Julia",
+			"name_zh": "",
+			"description_zh": "Julia 是一种用于科学计算的高性能高级编程语言。",
+			"data": ""
+		},
+		{
+			"id": ":universities\/nyu\/in_toto",
+			"name": "in-toto",
+			"name_zh": "",
+			"description_zh": "in-toto 是一个保护软件供应链完整性的框架。",
+			"data": ""
+		},
+		{
+			"id": ":universities\/pku\/tilelang",
+			"name": "TileLang",
+			"name_zh": "",
+			"description_zh": "一个开源的高性能AI算子编程语言",
+			"data": ""
+		},
+		{
+			"id": ":universities\/princeton\/dao_ai_lab\/flash_attention",
+			"name": "FlashAttention",
+			"name_zh": "",
+			"description_zh": "具有IO感知的快速且内存高效的精确注意力机制",
+			"data": ""
+		},
+		{
+			"id": ":universities\/puc_rio\/lua",
+			"name": "Lua",
+			"name_zh": "",
+			"description_zh": "镜像的Lua开发仓库，仅通过Lua邮件列表进行交流。",
+			"data": ""
+		},
+		{
+			"id": ":universities\/thu\/kvcache\/ktransformers",
+			"name": "KTransformers",
+			"name_zh": "",
+			"description_zh": "一个用于体验先进大语言模型推理优化的灵活框架。",
+			"data": ""
+		},
+		{
+			"id": ":universities\/thu\/kvcache\/mooncake",
+			"name": "Mooncake",
+			"name_zh": "",
+			"description_zh": "Mooncake 是一种面向高效大模型服务的键值缓存中心化解耦架构。",
+			"data": ""
+		},
+		{
+			"id": ":universities\/uc_berkeley\/ray",
+			"name": "Ray",
+			"name_zh": "",
+			"description_zh": "Ray 是一个用于扩展 AI 和 Python 应用的统一框架，包含分布式运行时和机器学习库。",
+			"data": ""
+		},
+		{
+			"id": ":universities\/uc_berkeley\/sglang",
+			"name": "SGLang",
+			"name_zh": "",
+			"description_zh": "SGLang 是一个高效的大语言模型和视觉语言模型服务框架。",
+			"data": ""
+		},
+		{
+			"id": ":universities\/uc_berkeley\/vllm",
+			"name": "vLLM",
+			"name_zh": "",
+			"description_zh": "一个高吞吐、内存高效的 LLM 推理与服务引擎",
+			"data": ""
+		},
+		{
+			"id": ":universities\/uc_berkeley\/vllm_omni",
+			"name": "vLLM-Omni",
+			"name_zh": "",
+			"description_zh": "",
+			"data": ""
+		},
+		{
+			"id": ":universities\/uw\/flashinfer",
+			"name": "FlashInfer",
+			"name_zh": "",
+			"description_zh": "FlashInfer 是一个面向大语言模型服务的高性能内核库，提供高效的注意力与采样算子。",
+			"data": ""
+		},
+		{
+			"id": ":universities\/uw\/the_update_framework",
+			"name": "The Update Framework (TUF)",
+			"name_zh": "",
+			"description_zh": "Python实现的The Update Framework（TUF）参考版本，用于安全软件更新。",
+			"data": ""
+		}
+	],
+
+	"rows": 888,
+
+	"statistics":
+	{
+		"elapsed": 0.003330524,
+		"rows_read": 5777,
+		"bytes_read": 1381340
+	}
+}

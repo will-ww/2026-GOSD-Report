@@ -1,0 +1,59 @@
+{
+  "edition": "Chapter 6 v0.2",
+  "read_date": "2026-11-11",
+  "main_period": [
+    "2025-07-01",
+    "2026-06-30"
+  ],
+  "confirmed_project_baseline": "fff392e957bab9fb6d89d49dea712af47484efaa",
+  "inputs": [
+    {
+      "title": "前置与第一章 v0.5",
+      "filename": "GOSD_2026_Essential_Frontmatter_Chapter1_Review_v0.5.pdf",
+      "sha256": "e7c2f49c480caa3d60ae09b9c023be67846616e2b573b3e9bb34d8101d5fb3ac",
+      "use": "第一章，14—23 页"
+    },
+    {
+      "title": "第二章合稿 v0.1",
+      "filename": "GOSD_2026_Chapter2_Merged_Review_v0.1.pdf",
+      "sha256": "1a33e575858e10997015eaf852749795296f55ec6070e78a9873eb368a6b997c",
+      "use": "图 2-8、2-12 与方法附录"
+    },
+    {
+      "title": "第三章合稿 v0.1",
+      "filename": "GOSD_2026_Chapter3_Merged_Review_v0.1.pdf",
+      "sha256": "e68aca8bc54e5dc7e08db6456c5b2539fa13f9b24fb010e813022cdceebd14d3",
+      "use": "全章叙事；重点图 3-14、3-17—3-20"
+    },
+    {
+      "title": "第四章合稿 v0.1",
+      "filename": "GOSD_2026_Chapter_4_Integrated_Review_v0.1.pdf",
+      "sha256": "bc431f98e01def4e470fd99897effabd1314fbc64216b17aa9ff74cc6d48baee",
+      "use": "全章叙事；重点图 4-3、4-13"
+    },
+    {
+      "title": "第五章合稿 v0.2",
+      "filename": "GOSD_2026_Chapter5_Merged_Review_v0.2.pdf",
+      "sha256": "1c3f7465ec41e5956ca7932adf924d288c76c7e9976a61d3cad59e57f2c85edc",
+      "use": "全部图文与附录"
+    },
+    {
+      "title": "图 5-1 HF 资产全景 v0.3",
+      "filename": "GOSD_2026_Figure_5-1_HF_Assets_Review_v0.3.pdf",
+      "sha256": "aa7ea2f2f3dc06d958fde32e6d58f5714a9ee2b89e4396334f248fb748a91f78",
+      "use": "主期模型、数据集、Spaces 新增和同比"
+    },
+    {
+      "title": "前置内容 v0.6",
+      "filename": "GOSD_2026_Essential_Frontmatter_Review_v0.6.pdf",
+      "sha256": "a0b33b8c9fc3785bb5b5602d5d0bf60d4cc2394677a62c68ad96a73eba48fd4b",
+      "use": "执行摘要与六章结构"
+    },
+    {
+      "title": "第六章原稿 v0.1",
+      "filename": "GOSD_2026_Chapter6_Review_v0.1.pdf",
+      "sha256": "c1a0393235cd4aae026bf598d10309bd0ed0c4bab5c590eaeef54a6fb9234269",
+      "use": "仅为结构与修改对照，旧开放样本不沿用"
+    }
+  ]
+}

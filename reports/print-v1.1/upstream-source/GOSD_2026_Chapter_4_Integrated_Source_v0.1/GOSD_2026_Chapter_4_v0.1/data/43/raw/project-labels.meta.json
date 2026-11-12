@@ -1,0 +1,11 @@
+{
+  "query": "project-labels",
+  "elapsed_client_seconds": 9.591,
+  "rows": 199,
+  "statistics": {
+    "elapsed": 0.168062832,
+    "rows_read": 2883560,
+    "bytes_read": 53330625
+  },
+  "sha256": "8c43c166da30b7dddf9f5128d3626a665d1a1837f13f3fb02b1aaa1b1740e18d"
+}

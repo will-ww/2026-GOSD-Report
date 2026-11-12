@@ -1,0 +1,165 @@
+[
+  {
+    "section": "3.6",
+    "title": "3.6 全球开源模型影响力排行榜",
+    "intro": "ModelRank 从模型派生与复用关系观察影响位置。本节以 2026 年 6 月百强快照为入口，连接发布组织、任务类型与模型家族；入榜不等于能力领先或开放程度认证。",
+    "figure": "fig-3-17-model-global",
+    "caption": "图 3-17　全球模型前 20 位、发布组织分布与百强结构。来源：ModelRank 6 月原始归档［M1］；组织归属核验［M2］。94 席可定位，6 席未识别；地图不表示贡献者、训练数据或使用者的所在地。",
+    "analyses": [
+      [
+        "① 头部影响位置跨越语言、视觉与机器人",
+        "FLUX.1-dev 和 Stable Diffusion XL 基础版居前两位；前十有 5 个文本生成版本、4 个图像生成版本和 1 个机器人模型。榜单呈现的是多种复用节点，公共资源建设应兼顾这些任务差异。"
+      ],
+      [
+        "② 地图呈现组织布局，贡献仍跨越国界",
+        "按发布组织归属，美国占 50 席、中国占 37 席，其余 7 席分布于 6 国，另有 6 席未知。组织所在国提供空间入口；底座继承、社区适配和跨国维护关系，仍须沿具体模型继续追踪。"
+      ],
+      [
+        "③ 席位数量与头部位置并不同序",
+        "中国的 37 席中有 16 席进入前三十；美国的 50 席中有 10 席进入前三十。英德虽各仅一席，却占据前两位。数量、排名梯次与技术专长共同构成格局，任何单项都不足以概括国家能力。"
+      ],
+      [
+        "④ 全景观察让支撑性任务显现",
+        "文本生成占 38 席，其余版本覆盖图文理解、语音、检索与特征表示等任务，5 席尚无任务标注。面向产业与公共服务，选型应回到用途、运行成本和维护条件，不能由通用名次直接替代。"
+      ]
+    ],
+    "sources": [
+      {
+        "id": "M1",
+        "title": "ModelRank：2026 年 6 月 Top 100 原始归档；输入仓库固定提交 c51e344。",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2026-06-top100.raw.json"
+      },
+      {
+        "id": "M2",
+        "title": "发布者身份与所在地：官方组织页、联系地址和法定披露，2026-11-10 核验。",
+        "url": "https://huggingface.co/organizations"
+      }
+    ],
+    "claim_ids": [
+      "I01",
+      "I03",
+      "I04"
+    ]
+  },
+  {
+    "section": "3.6",
+    "title": "3.6 中国模型：榜内位置与供给结构",
+    "intro": "本页聚焦全球百强中可识别的 37 个中国发布模型，展示其中前 20 位；这是百强子集，不是完整中国模型总榜。B 表示十亿参数，型号规模用于描述供给层次。",
+    "figure": "fig-3-18-model-china",
+    "caption": "图 3-18　中国发布模型的全球位次、组织节点与任务分布。来源：6 月快照［M1］、组织核验［M2］、bge-m3 模型卡［M8］。规模按型号标称值分组，Qwen 的 36 席中有 31 席不超过 10B；不据此估算实际运行成本。",
+    "analyses": [
+      [
+        "① 多代模型共同构成持续可复用的底座",
+        "Qwen 占 36 席，9 席进入全球前二十；榜内前二十的中国版本均来自 Qwen。Qwen2.5、Qwen3、Qwen3.5 与 Qwen3.6 同时出现，说明既有版本仍占据复用位置，不能只追踪最新发布。"
+      ],
+      [
+        "② 企业系列与科研专长形成互补",
+        "样本连接杭州的阿里巴巴与北京智源两类主体：前者提供通用模型系列，后者以 bge-m3 进入第 51 位。组织节点揭示供给的不同载体，尚不足以推出城市整体实力、人才聚集或政策成效。"
+      ],
+      [
+        "③ 生成之外，检索能力也进入头部网络",
+        "37 席包括文本生成 22 席、图文输入转文本 13 席，以及特征提取、句子相似度各 1 席。检索与表示模型有助于把知识资源接入应用；单看对话模型会遗漏这类支撑环节。"
+      ],
+      [
+        "④ 小规模覆盖提供可及性线索",
+        "Qwen 的 36 席中，31 席的型号参数量不超过 10B，包含 7 席不超过 1B。这种供给层次为不同部署条件提供选择；能否转化为 AI 普惠，还需验证硬件成本、本地语言效果和长期维护。"
+      ]
+    ],
+    "sources": [
+      {
+        "id": "M1",
+        "title": "ModelRank：2026 年 6 月 Top 100 原始归档；输入仓库固定提交 c51e344。",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2026-06-top100.raw.json"
+      },
+      {
+        "id": "M2",
+        "title": "发布者身份与所在地：官方组织页、联系地址和法定披露，2026-11-10 核验。",
+        "url": "https://huggingface.co/organizations"
+      },
+      {
+        "id": "M8",
+        "title": "BAAI / bge-m3 官方模型卡；多语言检索与文本表示用途。",
+        "url": "https://huggingface.co/BAAI/bge-m3"
+      }
+    ],
+    "claim_ids": [
+      "I04",
+      "I08",
+      "I10",
+      "I12"
+    ]
+  },
+  {
+    "section": "3.6",
+    "title": "3.6 Qwen 与 DeepSeek：互补与接续",
+    "intro": "从单个版本转向模型家族，可以同时看见广泛的社区复用、大模型服务需求，以及推理经验跨底座传递。以下保留各来源窗口，解释连接关系，不合成为一个“综合领先”分数。",
+    "figure": "fig-3-19-qwen-deepseek",
+    "caption": "图 3-19　Qwen 与 DeepSeek 的采用结构、社区转换与跨家族接续。来源：ATOM［M3］、HF 夏季报告［M4］、DeepSeek 模型卡［M5］［M6］、6 月榜单及 Unsloth 模型卡［M1］［M7］。不同平台与窗口分别标注。",
+    "analyses": [
+      [
+        "① 两种优势对应不同的使用条件",
+        "ATOM 样本中，Qwen 占小于 10B 组累计下载的 44%，DeepSeek 占 250B 以上组的 47%；调用数据补充了后者的服务使用。部署与复用路径不同，不能由六月榜内未见 DeepSeek 就推断其缺乏影响。"
+      ],
+      [
+        "② 社区承担把模型变得可用的工作",
+        "HF 观察到大量 Qwen 衍生与格式转换；GGUF 仓库中，非 Qwen 账户承担 99.8% 的发布。模型团队之外的适配、分发与维护值得持续观测；转换数量本身尚不证明质量、实际部署或受益人数。"
+      ],
+      [
+        "③ 中国贡献体现为底座与推理经验",
+        "通过蒸馏，DeepSeek-R1 将生成的推理示例用于训练较小模型，形成 Qwen 与 Llama 底座上的六个版本，后续又接续到 Qwen3。基础权重与训练样本分别贡献能力，体现跨家族、跨主体再创造。"
+      ],
+      [
+        "④ 全球协作需要保留来源与维护责任",
+        "Qwen 与 Unsloth 的同名版本分别进入榜单第 6 与第 10 位，说明底座供给与适配分发均可能获得网络位置。公共平台应保留来源、版本及转换说明，把互操作、质量复核和维护纳入支持范围。"
+      ]
+    ],
+    "sources": [
+      {
+        "id": "M1",
+        "title": "ModelRank：2026 年 6 月 Top 100 原始归档；输入仓库固定提交 c51e344。",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2026-06-top100.raw.json"
+      },
+      {
+        "id": "M2",
+        "title": "发布者身份与所在地：官方组织页、联系地址和法定披露，2026-11-10 核验。",
+        "url": "https://huggingface.co/organizations"
+      },
+      {
+        "id": "M3",
+        "title": "Lambert & Brand，The ATOM Report，2026-04-08，§2.1、§5.1、图 9 与图 12。",
+        "url": "https://arxiv.org/html/2604.07190v1"
+      },
+      {
+        "id": "M4",
+        "title": "Hugging Face，Summer 2026 Observations，§4；固定文本版本 2026-08-17。",
+        "url": "https://github.com/huggingface/blog/blob/9e982d5f2ff0c93248a897bf1e0c59c9828c5ab8/state-of-open-models-summer-2026.md"
+      },
+      {
+        "id": "M5",
+        "title": "DeepSeek-R1 官方模型卡，§3；六个蒸馏版本的基础模型与训练样本说明。",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+      },
+      {
+        "id": "M6",
+        "title": "DeepSeek-R1-0528-Qwen3-8B 官方模型卡，§2；跨家族后训练关系。",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B"
+      },
+      {
+        "id": "M7",
+        "title": "Unsloth / Qwen2.5-7B-Instruct 模型卡；base_model 元数据及版本归属。",
+        "url": "https://huggingface.co/unsloth/Qwen2.5-7B-Instruct"
+      },
+      {
+        "id": "M8",
+        "title": "BAAI / bge-m3 官方模型卡；多语言检索与文本表示用途。",
+        "url": "https://huggingface.co/BAAI/bge-m3"
+      }
+    ],
+    "claim_ids": [
+      "I03",
+      "I04",
+      "I05",
+      "I08"
+    ]
+  }
+]

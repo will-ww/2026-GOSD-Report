@@ -1,0 +1,1944 @@
+{
+  "id": "cloud",
+  "number": "4.3",
+  "title": "云基础设施全景洞察",
+  "en": "CLOUD INFRASTRUCTURE LANDSCAPE",
+  "short": "云基础设施",
+  "question": "应用构建、编排运行与基础支撑，如何组成云技术生态？",
+  "intro": "从应用与开发进入，沿编排、运行及资源支撑理解技术分工，再观察贯穿各层的运维能力。",
+  "scope": "报告已入库的 86 个仓库样本；31 个技术子类完整列出，无样本的分类保留位置。",
+  "metric": "项目 OpenRank（原表值）",
+  "period": "原表标记 2026 · 起止窗口待核",
+  "accent": "brand",
+  "groups": [
+    {
+      "id": "development",
+      "name": "应用与开发",
+      "subtitle": "定义、交付与数据服务",
+      "categories": [
+        "application_definition_and_image_build",
+        "continuous_integration_and_delivery",
+        "database",
+        "streaming_and_messaging"
+      ]
+    },
+    {
+      "id": "runtime",
+      "name": "编排与运行",
+      "subtitle": "服务连接与执行环境",
+      "categories": [
+        "scheduling_and_orchestration",
+        "coordination_and_service_discovery",
+        "api_gateway",
+        "service_proxy",
+        "service_mesh",
+        "remote_procedure_call",
+        "container_runtime",
+        "cloud_native_network",
+        "cloud_native_storage"
+      ]
+    },
+    {
+      "id": "provisioning",
+      "name": "资源与安全",
+      "subtitle": "部署、权限与平台支撑",
+      "categories": [
+        "automation_and_configuration",
+        "key_management",
+        "security_and_compliance",
+        "container_registry",
+        "certified_kubernetes_installer",
+        "certified_kubernetes_distribution",
+        "paas_and_container_service"
+      ]
+    },
+    {
+      "id": "operations",
+      "name": "观测与扩展",
+      "subtitle": "可观测性 · WASM · Serverless",
+      "categories": [
+        "observability",
+        "feature_flagging",
+        "continuous_optimization",
+        "chaos_engineering",
+        "toolchain",
+        "runtime",
+        "specifications",
+        "framework",
+        "hosted_platform",
+        "installable_platform",
+        "tools"
+      ]
+    }
+  ],
+  "need": "分类与项目清单补全、跨层技术关系、生产部署与维护案例。",
+  "stage": "landscape-ready",
+  "version": "gosl-framework-v1",
+  "source": {
+    "path": "data/processed/chapter4/fig-4-3-1_cloud_landscape.csv",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/d43b14a3850fffa6589b2ebe64bc257a0734ad6a/data/processed/chapter4/fig-4-3-1_cloud_landscape.csv",
+    "sha256": "842709882078845e10c137940023234cf2e350745a0f2ce2a245c6f4275ff964",
+    "commit": "d43b14a3850fffa6589b2ebe64bc257a0734ad6a",
+    "download": "/assets/report/data/fig-4-3-1_cloud_landscape.csv"
+  },
+  "projects": [
+    {
+      "id": "75821432",
+      "name": "llvm-project",
+      "repo": "llvm/llvm-project",
+      "owner": "llvm",
+      "url": "https://github.com/llvm/llvm-project",
+      "category": "toolchain",
+      "tags": [
+        "toolchain"
+      ],
+      "value": 18561.298889160156,
+      "description": "构建和编译 WebAssembly 相关软件。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/wasm/toolchain.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/wasm/toolchain.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "15111821",
+      "name": "grafana",
+      "repo": "grafana/grafana",
+      "owner": "grafana",
+      "url": "https://github.com/grafana/grafana",
+      "category": "observability",
+      "tags": [
+        "observability"
+      ],
+      "value": 4260.528045654297,
+      "description": "通过指标、日志、追踪等信号理解系统状态。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "31558937",
+      "name": "teleport",
+      "repo": "gravitational/teleport",
+      "owner": "gravitational",
+      "url": "https://github.com/gravitational/teleport",
+      "category": "key_management",
+      "tags": [
+        "key_management"
+      ],
+      "value": 1924.4006652832031,
+      "description": "管理密钥、身份和访问相关能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/key_management.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/key_management.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "17165658",
+      "name": "spark",
+      "repo": "apache/spark",
+      "owner": "apache",
+      "url": "https://github.com/apache/spark",
+      "category": "streaming_and_messaging",
+      "tags": [
+        "streaming_and_messaging"
+      ],
+      "value": 1744.142333984375,
+      "description": "支持消息传递、流式计算与数据集成。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "11125589",
+      "name": "keycloak",
+      "repo": "keycloak/keycloak",
+      "owner": "keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "category": "key_management",
+      "tags": [
+        "key_management",
+        "security_and_compliance"
+      ],
+      "value": 1568.3112487792969,
+      "description": "管理密钥、身份和访问相关能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/key_management.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/key_management.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "28449431",
+      "name": "scylladb",
+      "repo": "scylladb/scylladb",
+      "owner": "scylladb",
+      "url": "https://github.com/scylladb/scylladb",
+      "category": "database",
+      "tags": [
+        "database"
+      ],
+      "value": 1516.6975479125977,
+      "description": "为云应用提供数据存储与查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "2211243",
+      "name": "kafka",
+      "repo": "apache/kafka",
+      "owner": "apache",
+      "url": "https://github.com/apache/kafka",
+      "category": "streaming_and_messaging",
+      "tags": [
+        "streaming_and_messaging"
+      ],
+      "value": 1376.2427597045898,
+      "description": "支持消息传递、流式计算与数据集成。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "41986369",
+      "name": "tidb",
+      "repo": "pingcap/tidb",
+      "owner": "pingcap",
+      "url": "https://github.com/pingcap/tidb",
+      "category": "database",
+      "tags": [
+        "database"
+      ],
+      "value": 1324.3613471984863,
+      "description": "为云应用提供数据存储与查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "109145553",
+      "name": "podman",
+      "repo": "podman-container-tools/podman",
+      "owner": "podman-container-tools",
+      "url": "https://github.com/podman-container-tools/podman",
+      "category": "application_definition_and_image_build",
+      "tags": [
+        "application_definition_and_image_build"
+      ],
+      "value": 1281.5991744995117,
+      "description": "把代码和依赖组织成可交付的应用与镜像。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/application_definition_and_image_build.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/application_definition_and_image_build.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "65214191",
+      "name": "envoy",
+      "repo": "envoyproxy/envoy",
+      "owner": "envoyproxy",
+      "url": "https://github.com/envoyproxy/envoy",
+      "category": "service_proxy",
+      "tags": [
+        "service_proxy"
+      ],
+      "value": 1276.7700233459473,
+      "description": "代理应用流量与服务通信。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/service_proxy.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/service_proxy.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "385634291",
+      "name": "mimir",
+      "repo": "grafana/mimir",
+      "owner": "grafana",
+      "url": "https://github.com/grafana/mimir",
+      "category": "observability",
+      "tags": [
+        "observability"
+      ],
+      "value": 1176.2777709960938,
+      "description": "通过指标、日志、追踪等信号理解系统状态。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "105944401",
+      "name": "yugabyte-db",
+      "repo": "yugabyte/yugabyte-db",
+      "owner": "yugabyte",
+      "url": "https://github.com/yugabyte/yugabyte-db",
+      "category": "database",
+      "tags": [
+        "database"
+      ],
+      "value": 1129.7454109191895,
+      "description": "为云应用提供数据存储与查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "302322",
+      "name": "gradle",
+      "repo": "gradle/gradle",
+      "owner": "gradle",
+      "url": "https://github.com/gradle/gradle",
+      "category": "application_definition_and_image_build",
+      "tags": [
+        "application_definition_and_image_build"
+      ],
+      "value": 1108.7367248535156,
+      "description": "把代码和依赖组织成可交付的应用与镜像。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/application_definition_and_image_build.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/application_definition_and_image_build.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "50904245",
+      "name": "beam",
+      "repo": "apache/beam",
+      "owner": "apache",
+      "url": "https://github.com/apache/beam",
+      "category": "streaming_and_messaging",
+      "tags": [
+        "streaming_and_messaging"
+      ],
+      "value": 913.1207885742188,
+      "description": "支持消息传递、流式计算与数据集成。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "72477752",
+      "name": "pulumi",
+      "repo": "pulumi/pulumi",
+      "owner": "pulumi",
+      "url": "https://github.com/pulumi/pulumi",
+      "category": "automation_and_configuration",
+      "tags": [
+        "automation_and_configuration"
+      ],
+      "value": 904.6984100341797,
+      "description": "自动化部署、配置与基础设施管理。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/automation_and_configuration.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/automation_and_configuration.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "17728164",
+      "name": "terraform",
+      "repo": "hashicorp/terraform",
+      "owner": "hashicorp",
+      "url": "https://github.com/hashicorp/terraform",
+      "category": "automation_and_configuration",
+      "tags": [
+        "automation_and_configuration"
+      ],
+      "value": 877.8178939819336,
+      "description": "自动化部署、配置与基础设施管理。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/automation_and_configuration.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/automation_and_configuration.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "129717717",
+      "name": "loki",
+      "repo": "grafana/loki",
+      "owner": "grafana",
+      "url": "https://github.com/grafana/loki",
+      "category": "observability",
+      "tags": [
+        "observability"
+      ],
+      "value": 864.400505065918,
+      "description": "通过指标、日志、追踪等信号理解系统状态。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "9759448",
+      "name": "cloudstack",
+      "repo": "apache/cloudstack",
+      "owner": "apache",
+      "url": "https://github.com/apache/cloudstack",
+      "category": "automation_and_configuration",
+      "tags": [
+        "automation_and_configuration"
+      ],
+      "value": 830.2165718078613,
+      "description": "自动化部署、配置与基础设施管理。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/automation_and_configuration.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/automation_and_configuration.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "196353673",
+      "name": "TDengine",
+      "repo": "taosdata/TDengine",
+      "owner": "taosdata",
+      "url": "https://github.com/taosdata/TDengine",
+      "category": "database",
+      "tags": [
+        "database"
+      ],
+      "value": 829.7232666015625,
+      "description": "为云应用提供数据存储与查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "157554479",
+      "name": "meshery",
+      "repo": "meshery/meshery",
+      "owner": "meshery",
+      "url": "https://github.com/meshery/meshery",
+      "category": "service_mesh",
+      "tags": [
+        "service_mesh"
+      ],
+      "value": 829.4565658569336,
+      "description": "以基础设施方式管理服务之间的通信。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/service_mesh.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/service_mesh.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "3638964",
+      "name": "ansible",
+      "repo": "ansible/ansible",
+      "owner": "ansible",
+      "url": "https://github.com/ansible/ansible",
+      "category": "automation_and_configuration",
+      "tags": [
+        "automation_and_configuration"
+      ],
+      "value": 774.443769454956,
+      "description": "自动化部署、配置与基础设施管理。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/automation_and_configuration.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/automation_and_configuration.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "36487440",
+      "name": "gravitee-api-management",
+      "repo": "gravitee-io/gravitee-api-management",
+      "owner": "gravitee-io",
+      "url": "https://github.com/gravitee-io/gravitee-api-management",
+      "category": "api_gateway",
+      "tags": [
+        "api_gateway"
+      ],
+      "value": 711.3288383483887,
+      "description": "管理服务入口、API 路由与访问。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/api_gateway.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/api_gateway.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "16554739",
+      "name": "beats",
+      "repo": "elastic/beats",
+      "owner": "elastic",
+      "url": "https://github.com/elastic/beats",
+      "category": "observability",
+      "tags": [
+        "observability"
+      ],
+      "value": 685.4851379394531,
+      "description": "通过指标、日志、追踪等信号理解系统状态。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "20587599",
+      "name": "flink",
+      "repo": "apache/flink",
+      "owner": "apache",
+      "url": "https://github.com/apache/flink",
+      "category": "streaming_and_messaging",
+      "tags": [
+        "streaming_and_messaging"
+      ],
+      "value": 624.1950778961182,
+      "description": "支持消息传递、流式计算与数据集成。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "63882194",
+      "name": "calico",
+      "repo": "projectcalico/calico",
+      "owner": "projectcalico",
+      "url": "https://github.com/projectcalico/calico",
+      "category": "cloud_native_network",
+      "tags": [
+        "cloud_native_network"
+      ],
+      "value": 583.4356880187988,
+      "description": "为云原生工作负载提供网络连接。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/runtime/cloud_native_network.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/runtime/cloud_native_network.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "36653430",
+      "name": "nomad",
+      "repo": "hashicorp/nomad",
+      "owner": "hashicorp",
+      "url": "https://github.com/hashicorp/nomad",
+      "category": "scheduling_and_orchestration",
+      "tags": [
+        "scheduling_and_orchestration"
+      ],
+      "value": 583.290135383606,
+      "description": "组织工作负载的调度与生命周期。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/scheduling_and_orchestration.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/scheduling_and_orchestration.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "558188628",
+      "name": "higress",
+      "repo": "higress-group/higress",
+      "owner": "higress-group",
+      "url": "https://github.com/higress-group/higress",
+      "category": "api_gateway",
+      "tags": [
+        "api_gateway"
+      ],
+      "value": 578.6565914154053,
+      "description": "管理服务入口、API 路由与访问。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/api_gateway.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/api_gateway.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "496143272",
+      "name": "centreon",
+      "repo": "centreon/centreon",
+      "owner": "centreon",
+      "url": "https://github.com/centreon/centreon",
+      "category": "observability",
+      "tags": [
+        "observability"
+      ],
+      "value": 554.1391410827637,
+      "description": "通过指标、日志、追踪等信号理解系统状态。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "118510171",
+      "name": "kgateway",
+      "repo": "kgateway-dev/kgateway",
+      "owner": "kgateway-dev",
+      "url": "https://github.com/kgateway-dev/kgateway",
+      "category": "api_gateway",
+      "tags": [
+        "api_gateway"
+      ],
+      "value": 553.8283977508545,
+      "description": "管理服务入口、API 路由与访问。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/api_gateway.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/api_gateway.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "101767772",
+      "name": "wasmtime",
+      "repo": "bytecodealliance/wasmtime",
+      "owner": "bytecodealliance",
+      "url": "https://github.com/bytecodealliance/wasmtime",
+      "category": "runtime",
+      "tags": [
+        "runtime"
+      ],
+      "value": 549.3502616882324,
+      "description": "执行 WebAssembly 模块。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/wasm/runtime.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/wasm/runtime.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "99412308",
+      "name": "seatunnel",
+      "repo": "apache/seatunnel",
+      "owner": "apache",
+      "url": "https://github.com/apache/seatunnel",
+      "category": "streaming_and_messaging",
+      "tags": [
+        "streaming_and_messaging"
+      ],
+      "value": 529.5835456848145,
+      "description": "支持消息传递、流式计算与数据集成。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "117377862",
+      "name": "gardener",
+      "repo": "gardener/gardener",
+      "owner": "gardener",
+      "url": "https://github.com/gardener/gardener",
+      "category": "certified_kubernetes_installer",
+      "tags": [
+        "certified_kubernetes_installer"
+      ],
+      "value": 525.3733654022217,
+      "description": "保留来源中的 Kubernetes 安装器分类；本图不重新认证。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/certified_kubernetes_installer.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/certified_kubernetes_installer.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "146327667",
+      "name": "vector",
+      "repo": "vectordotdev/vector",
+      "owner": "vectordotdev",
+      "url": "https://github.com/vectordotdev/vector",
+      "category": "observability",
+      "tags": [
+        "observability"
+      ],
+      "value": 524.0128650665283,
+      "description": "通过指标、日志、追踪等信号理解系统状态。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "20445947",
+      "name": "juju",
+      "repo": "juju/juju",
+      "owner": "juju",
+      "url": "https://github.com/juju/juju",
+      "category": "automation_and_configuration",
+      "tags": [
+        "automation_and_configuration"
+      ],
+      "value": 517.6085624694824,
+      "description": "自动化部署、配置与基础设施管理。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/automation_and_configuration.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/automation_and_configuration.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1357796",
+      "name": "emscripten",
+      "repo": "emscripten-core/emscripten",
+      "owner": "emscripten-core",
+      "url": "https://github.com/emscripten-core/emscripten",
+      "category": "toolchain",
+      "tags": [
+        "toolchain"
+      ],
+      "value": 503.8079605102539,
+      "description": "构建和编译 WebAssembly 相关软件。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/wasm/toolchain.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/wasm/toolchain.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "473137633",
+      "name": "tetragon",
+      "repo": "cilium/tetragon",
+      "owner": "cilium",
+      "url": "https://github.com/cilium/tetragon",
+      "category": "security_and_compliance",
+      "tags": [
+        "security_and_compliance",
+        "cloud_native_network"
+      ],
+      "value": 492.51231384277344,
+      "description": "支持安全检测、策略与访问控制。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/security_and_compliance.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/security_and_compliance.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "27911088",
+      "name": "nifi",
+      "repo": "apache/nifi",
+      "owner": "apache",
+      "url": "https://github.com/apache/nifi",
+      "category": "streaming_and_messaging",
+      "tags": [
+        "streaming_and_messaging"
+      ],
+      "value": 450.2847909927368,
+      "description": "支持消息传递、流式计算与数据集成。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "6358188",
+      "name": "druid",
+      "repo": "apache/druid",
+      "owner": "apache",
+      "url": "https://github.com/apache/druid",
+      "category": "database",
+      "tags": [
+        "database"
+      ],
+      "value": 446.6845951080322,
+      "description": "为云应用提供数据存储与查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "36960321",
+      "name": "runc",
+      "repo": "opencontainers/runc",
+      "owner": "opencontainers",
+      "url": "https://github.com/opencontainers/runc",
+      "category": "container_runtime",
+      "tags": [
+        "container_runtime"
+      ],
+      "value": 423.1043186187744,
+      "description": "承载容器的创建、隔离与执行。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/runtime/container_runtime.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/runtime/container_runtime.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "206424",
+      "name": "cassandra",
+      "repo": "apache/cassandra",
+      "owner": "apache",
+      "url": "https://github.com/apache/cassandra",
+      "category": "database",
+      "tags": [
+        "database"
+      ],
+      "value": 407.8645238876343,
+      "description": "为云应用提供数据存储与查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "49876476",
+      "name": "shardingsphere",
+      "repo": "apache/shardingsphere",
+      "owner": "apache",
+      "url": "https://github.com/apache/shardingsphere",
+      "category": "database",
+      "tags": [
+        "database"
+      ],
+      "value": 406.99394607543945,
+      "description": "为云应用提供数据存储与查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "10744183",
+      "name": "netdata",
+      "repo": "netdata/netdata",
+      "owner": "netdata",
+      "url": "https://github.com/netdata/netdata",
+      "category": "observability",
+      "tags": [
+        "observability"
+      ],
+      "value": 403.2171802520752,
+      "description": "通过指标、日志、追踪等信号理解系统状态。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "42408804",
+      "name": "traefik",
+      "repo": "traefik/traefik",
+      "owner": "traefik",
+      "url": "https://github.com/traefik/traefik",
+      "category": "service_proxy",
+      "tags": [
+        "service_proxy"
+      ],
+      "value": 392.57405281066895,
+      "description": "代理应用流量与服务通信。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/service_proxy.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/service_proxy.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "31288958",
+      "name": "vault",
+      "repo": "hashicorp/vault",
+      "owner": "hashicorp",
+      "url": "https://github.com/hashicorp/vault",
+      "category": "key_management",
+      "tags": [
+        "key_management"
+      ],
+      "value": 392.36842012405396,
+      "description": "管理密钥、身份和访问相关能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/key_management.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/key_management.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "2649214",
+      "name": "arangodb",
+      "repo": "arangodb/arangodb",
+      "owner": "arangodb",
+      "url": "https://github.com/arangodb/arangodb",
+      "category": "database",
+      "tags": [
+        "database"
+      ],
+      "value": 388.3839683532715,
+      "description": "为云应用提供数据存储与查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "156018",
+      "name": "redis",
+      "repo": "redis/redis",
+      "owner": "redis",
+      "url": "https://github.com/redis/redis",
+      "category": "database",
+      "tags": [
+        "database"
+      ],
+      "value": 386.402494430542,
+      "description": "为云应用提供数据存储与查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "23418517",
+      "name": "hadoop",
+      "repo": "apache/hadoop",
+      "owner": "apache",
+      "url": "https://github.com/apache/hadoop",
+      "category": "database",
+      "tags": [
+        "database"
+      ],
+      "value": 384.40665197372437,
+      "description": "为云应用提供数据存储与查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "109451092",
+      "name": "talos",
+      "repo": "siderolabs/talos",
+      "owner": "siderolabs",
+      "url": "https://github.com/siderolabs/talos",
+      "category": "certified_kubernetes_installer",
+      "tags": [
+        "certified_kubernetes_installer"
+      ],
+      "value": 383.11066341400146,
+      "description": "保留来源中的 Kubernetes 安装器分类；本图不重新认证。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/certified_kubernetes_installer.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/certified_kubernetes_installer.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "62117812",
+      "name": "pulsar",
+      "repo": "apache/pulsar",
+      "owner": "apache",
+      "url": "https://github.com/apache/pulsar",
+      "category": "streaming_and_messaging",
+      "tags": [
+        "streaming_and_messaging"
+      ],
+      "value": 376.75611114501953,
+      "description": "支持消息传递、流式计算与数据集成。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "236055696",
+      "name": "tempo",
+      "repo": "grafana/tempo",
+      "owner": "grafana",
+      "url": "https://github.com/grafana/tempo",
+      "category": "observability",
+      "tags": [
+        "observability"
+      ],
+      "value": 375.90703773498535,
+      "description": "通过指标、日志、追踪等信号理解系统状态。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "50734768",
+      "name": "kubermatic",
+      "repo": "kubermatic/kubermatic",
+      "owner": "kubermatic",
+      "url": "https://github.com/kubermatic/kubermatic",
+      "category": "certified_kubernetes_distribution",
+      "tags": [
+        "certified_kubernetes_distribution"
+      ],
+      "value": 374.7173557281494,
+      "description": "保留来源中的 Kubernetes 发行版分类；本图不重新认证。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/certified_kubernetes_distribution.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/certified_kubernetes_distribution.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "26192117",
+      "name": "lxd",
+      "repo": "canonical/lxd",
+      "owner": "canonical",
+      "url": "https://github.com/canonical/lxd",
+      "category": "container_runtime",
+      "tags": [
+        "container_runtime"
+      ],
+      "value": 370.4570960998535,
+      "description": "承载容器的创建、隔离与执行。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/runtime/container_runtime.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/runtime/container_runtime.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "356066",
+      "name": "trafficserver",
+      "repo": "apache/trafficserver",
+      "owner": "apache",
+      "url": "https://github.com/apache/trafficserver",
+      "category": "service_proxy",
+      "tags": [
+        "service_proxy"
+      ],
+      "value": 366.2800483703613,
+      "description": "代理应用流量与服务通信。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/service_proxy.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/service_proxy.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "56353740",
+      "name": "minikube",
+      "repo": "kubernetes/minikube",
+      "owner": "kubernetes",
+      "url": "https://github.com/kubernetes/minikube",
+      "category": "certified_kubernetes_installer",
+      "tags": [
+        "certified_kubernetes_installer",
+        "scheduling_and_orchestration"
+      ],
+      "value": 365.76453590393066,
+      "description": "保留来源中的 Kubernetes 安装器分类；本图不重新认证。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/certified_kubernetes_installer.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/certified_kubernetes_installer.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "449649393",
+      "name": "keploy",
+      "repo": "keploy/keploy",
+      "owner": "keploy",
+      "url": "https://github.com/keploy/keploy",
+      "category": "continuous_integration_and_delivery",
+      "tags": [
+        "continuous_integration_and_delivery"
+      ],
+      "value": 365.72582244873047,
+      "description": "支持构建、测试与交付流程。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/continuous_integration_and_delivery.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/continuous_integration_and_delivery.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "313628863",
+      "name": "external-secrets",
+      "repo": "external-secrets/external-secrets",
+      "owner": "external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "category": "security_and_compliance",
+      "tags": [
+        "security_and_compliance"
+      ],
+      "value": 364.31029891967773,
+      "description": "支持安全检测、策略与访问控制。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/security_and_compliance.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/security_and_compliance.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "924551",
+      "name": "rabbitmq-server",
+      "repo": "rabbitmq/rabbitmq-server",
+      "owner": "rabbitmq",
+      "url": "https://github.com/rabbitmq/rabbitmq-server",
+      "category": "streaming_and_messaging",
+      "tags": [
+        "streaming_and_messaging"
+      ],
+      "value": 345.5606927871704,
+      "description": "支持消息传递、流式计算与数据集成。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "448599559",
+      "name": "deepflow",
+      "repo": "deepflowio/deepflow",
+      "owner": "deepflowio",
+      "url": "https://github.com/deepflowio/deepflow",
+      "category": "observability",
+      "tags": [
+        "observability"
+      ],
+      "value": 344.27373695373535,
+      "description": "通过指标、日志、追踪等信号理解系统状态。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "7202769",
+      "name": "emqx",
+      "repo": "emqx/emqx",
+      "owner": "emqx",
+      "url": "https://github.com/emqx/emqx",
+      "category": "streaming_and_messaging",
+      "tags": [
+        "streaming_and_messaging"
+      ],
+      "value": 336.3950786590576,
+      "description": "支持消息传递、流式计算与数据集成。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "19537979",
+      "name": "tyk",
+      "repo": "TykTechnologies/tyk",
+      "owner": "TykTechnologies",
+      "url": "https://github.com/TykTechnologies/tyk",
+      "category": "api_gateway",
+      "tags": [
+        "api_gateway"
+      ],
+      "value": 330.7006778717041,
+      "description": "管理服务入口、API 路由与访问。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/api_gateway.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/api_gateway.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "31006158",
+      "name": "ignite",
+      "repo": "apache/ignite",
+      "owner": "apache",
+      "url": "https://github.com/apache/ignite",
+      "category": "database",
+      "tags": [
+        "database"
+      ],
+      "value": 330.39908504486084,
+      "description": "为云应用提供数据存储与查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "180481986",
+      "name": "apisix",
+      "repo": "apache/apisix",
+      "owner": "apache",
+      "url": "https://github.com/apache/apisix",
+      "category": "api_gateway",
+      "tags": [
+        "api_gateway"
+      ],
+      "value": 322.8240633010864,
+      "description": "管理服务入口、API 路由与访问。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/api_gateway.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/api_gateway.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "137451403",
+      "name": "nacos",
+      "repo": "alibaba/nacos",
+      "owner": "alibaba",
+      "url": "https://github.com/alibaba/nacos",
+      "category": "coordination_and_service_discovery",
+      "tags": [
+        "coordination_and_service_discovery"
+      ],
+      "value": 317.66844177246094,
+      "description": "维护服务位置、配置与协同信息。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/coordination_and_service_discovery.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/coordination_and_service_discovery.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "13124802",
+      "name": "influxdb",
+      "repo": "influxdata/influxdb",
+      "owner": "influxdata",
+      "url": "https://github.com/influxdata/influxdb",
+      "category": "observability",
+      "tags": [
+        "observability"
+      ],
+      "value": 316.9787139892578,
+      "description": "通过指标、日志、追踪等信号理解系统状态。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "333303663",
+      "name": "bytebase",
+      "repo": "bytebase/bytebase",
+      "owner": "bytebase",
+      "url": "https://github.com/bytebase/bytebase",
+      "category": "continuous_integration_and_delivery",
+      "tags": [
+        "continuous_integration_and_delivery"
+      ],
+      "value": 311.1397247314453,
+      "description": "支持构建、测试与交付流程。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/continuous_integration_and_delivery.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/continuous_integration_and_delivery.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "54400687",
+      "name": "k6",
+      "repo": "grafana/k6",
+      "owner": "grafana",
+      "url": "https://github.com/grafana/k6",
+      "category": "continuous_integration_and_delivery",
+      "tags": [
+        "continuous_integration_and_delivery"
+      ],
+      "value": 309.77165603637695,
+      "description": "支持构建、测试与交付流程。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/continuous_integration_and_delivery.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/continuous_integration_and_delivery.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "82700090",
+      "name": "cadence",
+      "repo": "uber/cadence",
+      "owner": "uber",
+      "url": "https://github.com/uber/cadence",
+      "category": "automation_and_configuration",
+      "tags": [
+        "automation_and_configuration"
+      ],
+      "value": 309.2228879928589,
+      "description": "自动化部署、配置与基础设施管理。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/automation_and_configuration.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/automation_and_configuration.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "114187903",
+      "name": "foundationdb",
+      "repo": "apple/foundationdb",
+      "owner": "apple",
+      "url": "https://github.com/apple/foundationdb",
+      "category": "database",
+      "tags": [
+        "database"
+      ],
+      "value": 308.92883491516113,
+      "description": "为云应用提供数据存储与查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "175592968",
+      "name": "volcano",
+      "repo": "volcano-sh/volcano",
+      "owner": "volcano-sh",
+      "url": "https://github.com/volcano-sh/volcano",
+      "category": "scheduling_and_orchestration",
+      "tags": [
+        "scheduling_and_orchestration"
+      ],
+      "value": 304.89851570129395,
+      "description": "组织工作负载的调度与生命周期。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/scheduling_and_orchestration.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/scheduling_and_orchestration.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "43613404",
+      "name": "kubespray",
+      "repo": "kubernetes-sigs/kubespray",
+      "owner": "kubernetes-sigs",
+      "url": "https://github.com/kubernetes-sigs/kubespray",
+      "category": "certified_kubernetes_installer",
+      "tags": [
+        "certified_kubernetes_installer"
+      ],
+      "value": 302.8387427330017,
+      "description": "保留来源中的 Kubernetes 安装器分类；本图不重新认证。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/certified_kubernetes_installer.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/certified_kubernetes_installer.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "501372599",
+      "name": "openfga",
+      "repo": "openfga/openfga",
+      "owner": "openfga",
+      "url": "https://github.com/openfga/openfga",
+      "category": "security_and_compliance",
+      "tags": [
+        "security_and_compliance"
+      ],
+      "value": 294.0285186767578,
+      "description": "支持安全检测、策略与访问控制。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/security_and_compliance.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/security_and_compliance.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "99143276",
+      "name": "velero",
+      "repo": "velero-io/velero",
+      "owner": "velero-io",
+      "url": "https://github.com/velero-io/velero",
+      "category": "cloud_native_storage",
+      "tags": [
+        "cloud_native_storage"
+      ],
+      "value": 292.4440212249756,
+      "description": "为工作负载提供持久化与存储能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/runtime/cloud_native_storage.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/runtime/cloud_native_storage.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "217420145",
+      "name": "antrea",
+      "repo": "antrea-io/antrea",
+      "owner": "antrea-io",
+      "url": "https://github.com/antrea-io/antrea",
+      "category": "cloud_native_network",
+      "tags": [
+        "cloud_native_network"
+      ],
+      "value": 280.61585235595703,
+      "description": "为云原生工作负载提供网络连接。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/runtime/cloud_native_network.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/runtime/cloud_native_network.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "42548553",
+      "name": "azure-functions-host",
+      "repo": "Azure/azure-functions-host",
+      "owner": "Azure",
+      "url": "https://github.com/Azure/azure-functions-host",
+      "category": "hosted_platform",
+      "tags": [
+        "hosted_platform"
+      ],
+      "value": 278.32681465148926,
+      "description": "提供托管的 Serverless 执行环境。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/serverless/hosted_platform.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/serverless/hosted_platform.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "15045751",
+      "name": "compose",
+      "repo": "docker/compose",
+      "owner": "docker",
+      "url": "https://github.com/docker/compose",
+      "category": "application_definition_and_image_build",
+      "tags": [
+        "application_definition_and_image_build"
+      ],
+      "value": 277.5134735107422,
+      "description": "把代码和依赖组织成可交付的应用与镜像。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/application_definition_and_image_build.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/application_definition_and_image_build.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "285092252",
+      "name": "sst",
+      "repo": "anomalyco/sst",
+      "owner": "anomalyco",
+      "url": "https://github.com/anomalyco/sst",
+      "category": "framework",
+      "tags": [
+        "framework"
+      ],
+      "value": 273.615430355072,
+      "description": "组织 Serverless 应用的开发流程。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/serverless/framework.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/serverless/framework.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "29207621",
+      "name": "caddy",
+      "repo": "caddyserver/caddy",
+      "owner": "caddyserver",
+      "url": "https://github.com/caddyserver/caddy",
+      "category": "service_proxy",
+      "tags": [
+        "service_proxy"
+      ],
+      "value": 268.27876567840576,
+      "description": "代理应用流量与服务通信。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/service_proxy.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/service_proxy.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1390248",
+      "name": "salt",
+      "repo": "saltstack/salt",
+      "owner": "saltstack",
+      "url": "https://github.com/saltstack/salt",
+      "category": "automation_and_configuration",
+      "tags": [
+        "automation_and_configuration"
+      ],
+      "value": 266.7643070220947,
+      "description": "自动化部署、配置与基础设施管理。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/automation_and_configuration.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/automation_and_configuration.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1103607",
+      "name": "jenkins",
+      "repo": "jenkinsci/jenkins",
+      "owner": "jenkinsci",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "category": "continuous_integration_and_delivery",
+      "tags": [
+        "continuous_integration_and_delivery"
+      ],
+      "value": 260.2525339126587,
+      "description": "支持构建、测试与交付流程。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/continuous_integration_and_delivery.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/continuous_integration_and_delivery.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "14125254",
+      "name": "consul",
+      "repo": "hashicorp/consul",
+      "owner": "hashicorp",
+      "url": "https://github.com/hashicorp/consul",
+      "category": "service_mesh",
+      "tags": [
+        "service_mesh"
+      ],
+      "value": 252.21226596832275,
+      "description": "以基础设施方式管理服务之间的通信。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/service_mesh.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/service_mesh.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "135516270",
+      "name": "k3s",
+      "repo": "k3s-io/k3s",
+      "owner": "k3s-io",
+      "url": "https://github.com/k3s-io/k3s",
+      "category": "certified_kubernetes_distribution",
+      "tags": [
+        "certified_kubernetes_distribution"
+      ],
+      "value": 252.01645183563232,
+      "description": "保留来源中的 Kubernetes 发行版分类；本图不重新认证。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/certified_kubernetes_distribution.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/certified_kubernetes_distribution.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "355946670",
+      "name": "vcluster",
+      "repo": "loft-sh/vcluster",
+      "owner": "loft-sh",
+      "url": "https://github.com/loft-sh/vcluster",
+      "category": "certified_kubernetes_distribution",
+      "tags": [
+        "certified_kubernetes_distribution"
+      ],
+      "value": 246.63559818267822,
+      "description": "保留来源中的 Kubernetes 发行版分类；本图不重新认证。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/certified_kubernetes_distribution.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/certified_kubernetes_distribution.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "59239347",
+      "name": "portainer",
+      "repo": "portainer/portainer",
+      "owner": "portainer",
+      "url": "https://github.com/portainer/portainer",
+      "category": "paas_and_container_service",
+      "tags": [
+        "paas_and_container_service"
+      ],
+      "value": 245.7464361190796,
+      "description": "在基础资源之上组织应用平台和容器服务。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/paas_and_container_service.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/paas_and_container_service.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "175425051",
+      "name": "kuma",
+      "repo": "kumahq/kuma",
+      "owner": "kumahq",
+      "url": "https://github.com/kumahq/kuma",
+      "category": "service_mesh",
+      "tags": [
+        "service_mesh"
+      ],
+      "value": 220.50488901138306,
+      "description": "以基础设施方式管理服务之间的通信。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/service_mesh.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/service_mesh.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "29261473",
+      "name": "minio",
+      "repo": "minio/minio",
+      "owner": "minio",
+      "url": "https://github.com/minio/minio",
+      "category": "cloud_native_storage",
+      "tags": [
+        "cloud_native_storage"
+      ],
+      "value": 186.68551206588745,
+      "description": "为工作负载提供持久化与存储能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/runtime/cloud_native_storage.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/runtime/cloud_native_storage.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "302922505",
+      "name": "devtron",
+      "repo": "devtron-labs/devtron",
+      "owner": "devtron-labs",
+      "url": "https://github.com/devtron-labs/devtron",
+      "category": "continuous_integration_and_delivery",
+      "tags": [
+        "continuous_integration_and_delivery"
+      ],
+      "value": 149.59673380851746,
+      "description": "支持构建、测试与交付流程。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/continuous_integration_and_delivery.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/continuous_integration_and_delivery.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "toolchain",
+      "name": "WASM 工具链",
+      "description": "构建和编译 WebAssembly 相关软件。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/wasm/toolchain.yml",
+      "count": 2
+    },
+    {
+      "id": "observability",
+      "name": "可观测性",
+      "description": "通过指标、日志、追踪等信号理解系统状态。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "count": 10
+    },
+    {
+      "id": "database",
+      "name": "数据库",
+      "description": "为云应用提供数据存储与查询能力。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "count": 12
+    },
+    {
+      "id": "streaming_and_messaging",
+      "name": "流与消息",
+      "description": "支持消息传递、流式计算与数据集成。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "count": 9
+    },
+    {
+      "id": "automation_and_configuration",
+      "name": "自动化与配置",
+      "description": "自动化部署、配置与基础设施管理。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/automation_and_configuration.yml",
+      "count": 7
+    },
+    {
+      "id": "key_management",
+      "name": "密钥管理",
+      "description": "管理密钥、身份和访问相关能力。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/key_management.yml",
+      "count": 3
+    },
+    {
+      "id": "application_definition_and_image_build",
+      "name": "应用定义与镜像构建",
+      "description": "把代码和依赖组织成可交付的应用与镜像。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/application_definition_and_image_build.yml",
+      "count": 3
+    },
+    {
+      "id": "service_proxy",
+      "name": "服务代理",
+      "description": "代理应用流量与服务通信。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/service_proxy.yml",
+      "count": 4
+    },
+    {
+      "id": "continuous_integration_and_delivery",
+      "name": "持续集成与交付",
+      "description": "支持构建、测试与交付流程。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/continuous_integration_and_delivery.yml",
+      "count": 5
+    },
+    {
+      "id": "api_gateway",
+      "name": "API 网关",
+      "description": "管理服务入口、API 路由与访问。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/api_gateway.yml",
+      "count": 5
+    },
+    {
+      "id": "security_and_compliance",
+      "name": "安全与合规",
+      "description": "支持安全检测、策略与访问控制。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/security_and_compliance.yml",
+      "count": 3
+    },
+    {
+      "id": "certified_kubernetes_installer",
+      "name": "K8s 安装器认证",
+      "description": "保留来源中的 Kubernetes 安装器分类；本图不重新认证。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/certified_kubernetes_installer.yml",
+      "count": 4
+    },
+    {
+      "id": "scheduling_and_orchestration",
+      "name": "调度与编排",
+      "description": "组织工作负载的调度与生命周期。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/scheduling_and_orchestration.yml",
+      "count": 2
+    },
+    {
+      "id": "certified_kubernetes_distribution",
+      "name": "K8s 发行版认证",
+      "description": "保留来源中的 Kubernetes 发行版分类；本图不重新认证。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/certified_kubernetes_distribution.yml",
+      "count": 3
+    },
+    {
+      "id": "service_mesh",
+      "name": "服务网格",
+      "description": "以基础设施方式管理服务之间的通信。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/service_mesh.yml",
+      "count": 3
+    },
+    {
+      "id": "cloud_native_network",
+      "name": "云原生网络",
+      "description": "为云原生工作负载提供网络连接。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/runtime/cloud_native_network.yml",
+      "count": 2
+    },
+    {
+      "id": "container_runtime",
+      "name": "容器运行时",
+      "description": "承载容器的创建、隔离与执行。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/runtime/container_runtime.yml",
+      "count": 2
+    },
+    {
+      "id": "runtime",
+      "name": "运行时",
+      "description": "执行 WebAssembly 模块。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/wasm/runtime.yml",
+      "count": 1
+    },
+    {
+      "id": "paas_and_container_service",
+      "name": "PaaS 与容器服务",
+      "description": "在基础资源之上组织应用平台和容器服务。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/paas_and_container_service.yml",
+      "count": 1
+    },
+    {
+      "id": "cloud_native_storage",
+      "name": "云原生存储",
+      "description": "为工作负载提供持久化与存储能力。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/runtime/cloud_native_storage.yml",
+      "count": 2
+    },
+    {
+      "id": "remote_procedure_call",
+      "name": "远程过程调用",
+      "description": "提供跨进程或跨网络的调用机制。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/remote_procedure_call.yml",
+      "count": 0
+    },
+    {
+      "id": "feature_flagging",
+      "name": "功能开关",
+      "description": "控制功能开启与发布范围。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/feature_flagging.yml",
+      "count": 0
+    },
+    {
+      "id": "framework",
+      "name": "框架",
+      "description": "组织 Serverless 应用的开发流程。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/serverless/framework.yml",
+      "count": 1
+    },
+    {
+      "id": "container_registry",
+      "name": "容器镜像仓库",
+      "description": "保存与分发容器镜像。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/container_registry.yml",
+      "count": 0
+    },
+    {
+      "id": "coordination_and_service_discovery",
+      "name": "协调与服务发现",
+      "description": "维护服务位置、配置与协同信息。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/coordination_and_service_discovery.yml",
+      "count": 1
+    },
+    {
+      "id": "hosted_platform",
+      "name": "托管平台",
+      "description": "提供托管的 Serverless 执行环境。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/serverless/hosted_platform.yml",
+      "count": 1
+    },
+    {
+      "id": "continuous_optimization",
+      "name": "持续优化",
+      "description": "持续观测资源效率与优化机会。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/continuous_optimization.yml",
+      "count": 0
+    },
+    {
+      "id": "installable_platform",
+      "name": "可安装平台",
+      "description": "提供可自行部署的 Serverless 平台。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/serverless/installable_platform.yml",
+      "count": 0
+    },
+    {
+      "id": "specifications",
+      "name": "规范",
+      "description": "规定 WebAssembly 相关接口与行为。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/wasm/specifications.yml",
+      "count": 0
+    },
+    {
+      "id": "tools",
+      "name": "工具",
+      "description": "支持 Serverless 开发与运维。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/serverless/tools.yml",
+      "count": 0
+    },
+    {
+      "id": "chaos_engineering",
+      "name": "混沌工程",
+      "description": "通过受控故障研究系统行为。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/chaos_engineering.yml",
+      "count": 0
+    }
+  ],
+  "count": 86,
+  "categoryCount": 31
+}

@@ -1,0 +1,787 @@
+{
+  "version": "v0.2",
+  "checked_utc": "2026-11-10T23:15:32.520932+00:00",
+  "checks": [
+    {
+      "check": "开放评价记录数",
+      "actual": 889,
+      "expected": 889,
+      "passed": true
+    },
+    {
+      "check": "开放评价唯一模型 ID",
+      "actual": 889,
+      "expected": 889,
+      "passed": true
+    },
+    {
+      "check": "证据明细唯一模型 ID",
+      "actual": 889,
+      "expected": 889,
+      "passed": true
+    },
+    {
+      "check": "评价与证据明细 ID 集合一致",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "全球开放统计",
+      "actual": {
+        "n": 889,
+        "open": 617,
+        "complete": 175,
+        "both": 117
+      },
+      "expected": {
+        "n": 889,
+        "open": 617,
+        "complete": 175,
+        "both": 117
+      },
+      "passed": true
+    },
+    {
+      "check": "中国开放统计",
+      "actual": {
+        "n": 415,
+        "open": 354,
+        "complete": 68,
+        "both": 56
+      },
+      "expected": {
+        "n": 415,
+        "open": 354,
+        "complete": 68,
+        "both": 56
+      },
+      "passed": true
+    },
+    {
+      "check": "地域未知仍在分母",
+      "actual": 64,
+      "expected": 64,
+      "passed": true
+    },
+    {
+      "check": "可识别国家数",
+      "actual": 25,
+      "expected": 25,
+      "passed": true
+    },
+    {
+      "check": "所有可识别国家存在地图映射",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "全部主体类型映射",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "L2 O3 最大单元",
+      "actual": 438,
+      "expected": 438,
+      "passed": true
+    },
+    {
+      "check": "中国 L2 O3 单元",
+      "actual": 287,
+      "expected": 287,
+      "passed": true
+    },
+    {
+      "check": "中国任务加总",
+      "actual": 415,
+      "expected": 415,
+      "passed": true
+    },
+    {
+      "check": "全球主体数",
+      "actual": 244,
+      "expected": 244,
+      "passed": true
+    },
+    {
+      "check": "中国主体数",
+      "actual": 61,
+      "expected": 61,
+      "passed": true
+    },
+    {
+      "check": "案例材料状态 Qwen/Qwen3-0.6B",
+      "actual": [
+        "complete",
+        "complete",
+        "partial",
+        "missing"
+      ],
+      "expected": [
+        "complete",
+        "complete",
+        "partial",
+        "missing"
+      ],
+      "passed": true
+    },
+    {
+      "check": "案例材料状态 deepseek-ai/DeepSeek-R1",
+      "actual": [
+        "complete",
+        "partial",
+        "partial",
+        "missing"
+      ],
+      "expected": [
+        "complete",
+        "partial",
+        "partial",
+        "missing"
+      ],
+      "passed": true
+    },
+    {
+      "check": "案例材料状态 BAAI/bge-m3",
+      "actual": [
+        "complete",
+        "complete",
+        "complete",
+        "complete"
+      ],
+      "expected": [
+        "complete",
+        "complete",
+        "complete",
+        "complete"
+      ],
+      "passed": true
+    },
+    {
+      "check": "models 地域样本与汇总一致",
+      "actual": 73088,
+      "expected": 73088,
+      "passed": true
+    },
+    {
+      "check": "models 主体与地域样本一致",
+      "actual": 73088,
+      "expected": 73088,
+      "passed": true
+    },
+    {
+      "check": "models 中国省级与待补加总",
+      "actual": 6093,
+      "expected": 6093,
+      "passed": true
+    },
+    {
+      "check": "datasets 地域样本与汇总一致",
+      "actual": 12502,
+      "expected": 12502,
+      "passed": true
+    },
+    {
+      "check": "datasets 主体与地域样本一致",
+      "actual": 12502,
+      "expected": 12502,
+      "passed": true
+    },
+    {
+      "check": "datasets 中国省级与待补加总",
+      "actual": 1354,
+      "expected": 1354,
+      "passed": true
+    },
+    {
+      "check": "models 主期完整 12 个月",
+      "actual": 12,
+      "expected": 12,
+      "passed": true
+    },
+    {
+      "check": "models 主期合计",
+      "actual": 1126699,
+      "expected": 1126699,
+      "passed": true
+    },
+    {
+      "check": "models 前 12 个月合计",
+      "actual": 1045469,
+      "expected": 1045469,
+      "passed": true
+    },
+    {
+      "check": "datasets 主期完整 12 个月",
+      "actual": 12,
+      "expected": 12,
+      "passed": true
+    },
+    {
+      "check": "datasets 主期合计",
+      "actual": 520355,
+      "expected": 520355,
+      "passed": true
+    },
+    {
+      "check": "datasets 前 12 个月合计",
+      "actual": 258829,
+      "expected": 258829,
+      "passed": true
+    },
+    {
+      "check": "网络节点",
+      "actual": 5777,
+      "expected": 5777,
+      "passed": true
+    },
+    {
+      "check": "网络边",
+      "actual": 5111,
+      "expected": 5111,
+      "passed": true
+    },
+    {
+      "check": "每条关系双端可见",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "同时连接上下游的版本",
+      "actual": 552,
+      "expected": 552,
+      "passed": true
+    },
+    {
+      "check": "多上游版本",
+      "actual": 50,
+      "expected": 50,
+      "passed": true
+    },
+    {
+      "check": "两类角色重叠",
+      "actual": 16,
+      "expected": 16,
+      "passed": true
+    },
+    {
+      "check": "跨国关系表组合数",
+      "actual": 186,
+      "expected": 186,
+      "passed": true
+    },
+    {
+      "check": "跨国关系计数",
+      "actual": 10943,
+      "expected": 10943,
+      "passed": true
+    },
+    {
+      "check": "桑基保留全量计数",
+      "actual": 10943,
+      "expected": 10943,
+      "passed": true
+    },
+    {
+      "check": "基座来源、派生发布均守恒",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "check": "中国到美国",
+      "actual": 4639,
+      "expected": 4639,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2024-07 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2024-07 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2024-07 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2024-08 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2024-08 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2024-08 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2024-09 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2024-09 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2024-09 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2024-10 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2024-10 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2024-10 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2024-11 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2024-11 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2024-11 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2024-12 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2024-12 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2024-12 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-01 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-01 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-01 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-02 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-02 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-02 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-03 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-03 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-03 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-04 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-04 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-04 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-05 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-05 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-05 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-06 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-06 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-06 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-07 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-07 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-07 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-08 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-08 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-08 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-09 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-09 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-09 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-10 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-10 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-10 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-11 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-11 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-11 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-12 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-12 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2025-12 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-01 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-01 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-01 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-02 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-02 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-02 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-03 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-03 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-03 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-04 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-04 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-04 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-05 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-05 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-05 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-06 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-06 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-06 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-07 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-07 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-07 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-08 Top20",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-08 Top100",
+      "actual": 100,
+      "expected": 100,
+      "passed": true
+    },
+    {
+      "check": "ModelRank 席位加总 2026-08 Top1000",
+      "actual": 1000,
+      "expected": 1000,
+      "passed": true
+    }
+  ],
+  "monthly_growth": {
+    "models": {
+      "main_period": 1126699,
+      "previous_twelve_months": 1045469,
+      "growth": 0.07769718662150682
+    },
+    "datasets": {
+      "main_period": 520355,
+      "previous_twelve_months": 258829,
+      "growth": 1.0104200070316693
+    }
+  },
+  "limits": [
+    "检查源数据的一致性、算术和关联，不等于独立验证模型训练结果。",
+    "地域统计保留 2026.10.17 冻结样本，不用新的平台总量更新比例。",
+    "源等级与证据字段原样保留；missing 解释为未找到充分证据。"
+  ]
+}

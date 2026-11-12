@@ -1,0 +1,11 @@
+{
+  "query": "label-scope",
+  "elapsed_client_seconds": 10.962,
+  "rows": 1901,
+  "statistics": {
+    "elapsed": 1.065141605,
+    "rows_read": 216141189,
+    "bytes_read": 1361775606
+  },
+  "sha256": "ab47c60987286ac5fc931a97338f94c87deb2b1a293b5c679de9379552e4782d"
+}

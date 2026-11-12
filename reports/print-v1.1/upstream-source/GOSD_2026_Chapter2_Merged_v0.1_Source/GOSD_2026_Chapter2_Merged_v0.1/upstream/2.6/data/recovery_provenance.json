@@ -1,0 +1,7 @@
+{
+  "source_figure_sha256": "75aca5f99615fb033c8d1fa278db4845ae65fd42bdab3c2ba0b8b71eb9bdcbe3",
+  "recovery_max_count_error": 2.679769963265244e-05,
+  "recovered_series": 6,
+  "recovered_points": 30,
+  "validation": "All recovered numerators are unique integers within 0.0001; all six 2025 endpoints match the supplied CSV. Curves are creation-cohort comparisons, not historical metadata."
+}

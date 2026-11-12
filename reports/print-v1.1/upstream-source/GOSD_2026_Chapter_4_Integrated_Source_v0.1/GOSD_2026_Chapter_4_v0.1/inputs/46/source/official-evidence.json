@@ -1,0 +1,73 @@
+{
+  "period_class": "Post-period functional and governance observations; not evidence of main-period causal effects.",
+  "sources": [
+    {
+      "id": "10",
+      "title": "PyTorch Foundation: Our Governance",
+      "url": "https://pytorch.org/foundation/",
+      "accessed": "2026-11-10",
+      "paraphrase": "理事会监督基金会活动；项目技术治理另由维护者定义。"
+    },
+    {
+      "id": "11",
+      "title": "PyTorch Governance: Mechanics, documentation 2.15",
+      "url": "https://docs.pytorch.org/docs/2.15/community/governance.html",
+      "accessed": "2026-11-10",
+      "paraphrase": "技术治理以个人身份和贡献为依据，区别于公司会员；模块与核心维护者承担技术决策与争议处理。"
+    },
+    {
+      "id": "12",
+      "title": "PyTorch Technical Advisory Council",
+      "url": "https://pytorch.org/tac/",
+      "accessed": "2026-11-10",
+      "paraphrase": "提供技术交流和协作，当前说明每月开放会议；名单列有 Alibaba Cloud、Huawei 与 Cambricon 的代表。只作为参与入口，不推断控制权或贡献份额。"
+    },
+    {
+      "id": "13",
+      "title": "PyTorch Cloud Credit Program",
+      "url": "https://pytorch.org/credits/",
+      "accessed": "2026-11-10",
+      "paraphrase": "组织可提供云额度或捐赠，用于 CI 和托管项目基础设施；页面列明 AWS 已提供云额度。未取得额度、覆盖或维护成效实测。"
+    },
+    {
+      "title": "pytorch/executorch README",
+      "url": "https://github.com/pytorch/executorch/blob/75af78c46f465301673b03b03ed028da25871eae/README.md",
+      "commit": "75af78c46f465301673b03b03ed028da25871eae",
+      "sha256": "8279c8a1c46c6b1a3cf3adf3a6330325f87f4dd2fcdc36bf614f0d9d9f1ba741",
+      "preserved_read_date": "2026-11-07",
+      "reread_date": "2026-11-10",
+      "paraphrase": "模型导出、后端优化与设备运行；要求在目标设备验证精度、内存和性能。",
+      "distribution": "Full README retained as internal reading cache only; omitted from delivery ZIP."
+    },
+    {
+      "title": "pytorch/torchtitan README",
+      "url": "https://github.com/pytorch/torchtitan/blob/f5488516abe1b8879bc2157715a3a42a7cc55f45/README.md",
+      "commit": "f5488516abe1b8879bc2157715a3a42a7cc55f45",
+      "sha256": "aecb655cb4afc70a3668b03531999d0155e089d0d1d37a85262a7fbc2f869197",
+      "preserved_read_date": "2026-11-07",
+      "reread_date": "2026-11-10",
+      "paraphrase": "原生规模化训练平台，通过可读配置组织并行方式；本节不推断训练效率或部署量。",
+      "distribution": "Full README retained as internal reading cache only; omitted from delivery ZIP."
+    },
+    {
+      "title": "meta-pytorch/torchcomms README",
+      "url": "https://github.com/meta-pytorch/torchcomms/blob/8ecc3488fb132278b406f2abb755f1e8ba8a16e8/README.md",
+      "commit": "8ecc3488fb132278b406f2abb755f1e8ba8a16e8",
+      "sha256": "5194d6930f744876ee4f0e911b33451395b3f908aa6e717ccd8a41fcef3a1b19",
+      "preserved_read_date": "2026-11-07",
+      "reread_date": "2026-11-10",
+      "paraphrase": "固定版本 README 标记弃用，说明功能已并入 PyTorch Distributed，建议新代码使用 torch.distributed。未定位状态变更的首次发生日期。",
+      "distribution": "Full README retained as internal reading cache only; omitted from delivery ZIP."
+    },
+    {
+      "title": "pytorch/test-infra README",
+      "url": "https://github.com/pytorch/test-infra/blob/5a57ea7e437667b8739cb0ba4dcf8940491c04b3/README.md",
+      "commit": "5a57ea7e437667b8739cb0ba4dcf8940491c04b3",
+      "sha256": "ab1142a3c8592199acc9ab89e74334a05dd1838a33879c3250e6bb13550dafed",
+      "preserved_read_date": "2026-11-07",
+      "reread_date": "2026-11-10",
+      "paraphrase": "持续集成、交付基础设施和开发工具；不根据功能推算实际节省成本。",
+      "distribution": "Full README retained as internal reading cache only; omitted from delivery ZIP."
+    }
+  ]
+}

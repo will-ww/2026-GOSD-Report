@@ -1,0 +1,927 @@
+{
+	"meta":
+	[
+		{
+			"name": "id",
+			"type": "LowCardinality(String)"
+		},
+		{
+			"name": "name",
+			"type": "LowCardinality(String)"
+		},
+		{
+			"name": "entity_type",
+			"type": "Enum8('Repo' = 1, 'Org' = 2, 'User' = 3)"
+		},
+		{
+			"name": "entity_id",
+			"type": "UInt64"
+		},
+		{
+			"name": "repo_id",
+			"type": "UInt64"
+		}
+	],
+
+	"data":
+	[
+		{
+			"id": ":agencies\/nsa\/nifi",
+			"name": "Apache NiFi",
+			"entity_type": "Repo",
+			"entity_id": "27911088",
+			"repo_id": "27911088"
+		},
+		{
+			"id": ":companies\/alibaba\/flink",
+			"name": "Apache Flink",
+			"entity_type": "Repo",
+			"entity_id": "20587599",
+			"repo_id": "20587599"
+		},
+		{
+			"id": ":companies\/alibaba\/higress",
+			"name": "Higress",
+			"entity_type": "Repo",
+			"entity_id": "558188628",
+			"repo_id": "558188628"
+		},
+		{
+			"id": ":companies\/alibaba\/higress",
+			"name": "Higress",
+			"entity_type": "Org",
+			"entity_id": "116630909",
+			"repo_id": "558188628"
+		},
+		{
+			"id": ":companies\/alibaba\/nacos",
+			"name": "Nacos",
+			"entity_type": "Repo",
+			"entity_id": "137451403",
+			"repo_id": "137451403"
+		},
+		{
+			"id": ":companies\/amazon\/opensearch",
+			"name": "OpenSearch",
+			"entity_type": "Org",
+			"entity_id": "80134844",
+			"repo_id": "334274271"
+		},
+		{
+			"id": ":companies\/api7\/apisix",
+			"name": "Apache APISIX",
+			"entity_type": "Repo",
+			"entity_id": "180481986",
+			"repo_id": "180481986"
+		},
+		{
+			"id": ":companies\/apple\/foundationdb",
+			"name": "FoundationDB",
+			"entity_type": "Repo",
+			"entity_id": "114187903",
+			"repo_id": "114187903"
+		},
+		{
+			"id": ":companies\/baidu\/doris",
+			"name": "Apache Doris",
+			"entity_type": "Repo",
+			"entity_id": "99919302",
+			"repo_id": "99919302"
+		},
+		{
+			"id": ":companies\/chroma\/chroma",
+			"name": "Chroma",
+			"entity_type": "Org",
+			"entity_id": "105881770",
+			"repo_id": "546206616"
+		},
+		{
+			"id": ":companies\/citrix\/cloudstack",
+			"name": "Apache CloudStack",
+			"entity_type": "Repo",
+			"entity_id": "9759448",
+			"repo_id": "9759448"
+		},
+		{
+			"id": ":companies\/clockwork\/spacetimedb",
+			"name": "SpacetimeDB",
+			"entity_type": "Org",
+			"entity_id": "48072542",
+			"repo_id": "654870350"
+		},
+		{
+			"id": ":companies\/cloudera\/hadoop",
+			"name": "Apache Hadoop",
+			"entity_type": "Repo",
+			"entity_id": "23418517",
+			"repo_id": "23418517"
+		},
+		{
+			"id": ":companies\/cockroachlabs\/cockroachdb",
+			"name": "CockroachDB",
+			"entity_type": "Org",
+			"entity_id": "6748139",
+			"repo_id": "16563587"
+		},
+		{
+			"id": ":companies\/cratedb\/cratedb",
+			"name": "CrateDB",
+			"entity_type": "Org",
+			"entity_id": "4048232",
+			"repo_id": "9342529"
+		},
+		{
+			"id": ":companies\/databend\/databend",
+			"name": "Databend",
+			"entity_type": "Org",
+			"entity_id": "80994548",
+			"repo_id": "302827809"
+		},
+		{
+			"id": ":companies\/databricks\/delta_lake",
+			"name": "Delta Lake",
+			"entity_type": "Repo",
+			"entity_id": "182849188",
+			"repo_id": "182849188"
+		},
+		{
+			"id": ":companies\/databricks\/delta_lake",
+			"name": "Delta Lake",
+			"entity_type": "Org",
+			"entity_id": "49767398",
+			"repo_id": "182849188"
+		},
+		{
+			"id": ":companies\/databricks\/neon",
+			"name": "Neon",
+			"entity_type": "Org",
+			"entity_id": "77690634",
+			"repo_id": "351806852"
+		},
+		{
+			"id": ":companies\/databricks\/spark",
+			"name": "Apache Spark",
+			"entity_type": "Repo",
+			"entity_id": "17165658",
+			"repo_id": "17165658"
+		},
+		{
+			"id": ":companies\/dragonflydb\/dragonflydb",
+			"name": "DragonflyDB",
+			"entity_type": "Org",
+			"entity_id": "104819355",
+			"repo_id": "437245741"
+		},
+		{
+			"id": ":companies\/duckdb\/duckdb",
+			"name": "DuckDB",
+			"entity_type": "Org",
+			"entity_id": "82039556",
+			"repo_id": "138754790"
+		},
+		{
+			"id": ":companies\/elastic\/elasticsearch",
+			"name": "Elasticsearch",
+			"entity_type": "Repo",
+			"entity_id": "507775",
+			"repo_id": "507775"
+		},
+		{
+			"id": ":companies\/elastic\/elasticsearch",
+			"name": "Elasticsearch",
+			"entity_type": "Repo",
+			"entity_id": "52318322",
+			"repo_id": "52318322"
+		},
+		{
+			"id": ":companies\/emq\/emqx",
+			"name": "EMQX",
+			"entity_type": "Org",
+			"entity_id": "25221711",
+			"repo_id": "7202769"
+		},
+		{
+			"id": ":companies\/google\/beam",
+			"name": "Apache Beam",
+			"entity_type": "Repo",
+			"entity_id": "50904245",
+			"repo_id": "50904245"
+		},
+		{
+			"id": ":companies\/google\/vitess",
+			"name": "Vitess",
+			"entity_type": "Org",
+			"entity_id": "33043890",
+			"repo_id": "11008207"
+		},
+		{
+			"id": ":companies\/grafana\/grafana",
+			"name": "Grafana",
+			"entity_type": "Repo",
+			"entity_id": "15111821",
+			"repo_id": "15111821"
+		},
+		{
+			"id": ":companies\/grafana\/loki",
+			"name": "Grafana Loki",
+			"entity_type": "Repo",
+			"entity_id": "129717717",
+			"repo_id": "129717717"
+		},
+		{
+			"id": ":companies\/grafana\/mimir",
+			"name": "Grafana Mimir",
+			"entity_type": "Repo",
+			"entity_id": "385634291",
+			"repo_id": "385634291"
+		},
+		{
+			"id": ":companies\/grafana\/tempo",
+			"name": "Grafana Tempo",
+			"entity_type": "Repo",
+			"entity_id": "236055696",
+			"repo_id": "236055696"
+		},
+		{
+			"id": ":companies\/gravitational\/teleport",
+			"name": "Teleport",
+			"entity_type": "Repo",
+			"entity_id": "31558937",
+			"repo_id": "31558937"
+		},
+		{
+			"id": ":companies\/greptime\/greptimedb",
+			"name": "GreptimeDB",
+			"entity_type": "Org",
+			"entity_id": "103400677",
+			"repo_id": "480217156"
+		},
+		{
+			"id": ":companies\/gridgain\/ignite",
+			"name": "Apache Ignite",
+			"entity_type": "Repo",
+			"entity_id": "31006158",
+			"repo_id": "31006158"
+		},
+		{
+			"id": ":companies\/gridgain\/ignite3",
+			"name": "Apache Ignite 3",
+			"entity_type": "Repo",
+			"entity_id": "315377678",
+			"repo_id": "315377678"
+		},
+		{
+			"id": ":companies\/hashicorp\/vault",
+			"name": "Vault",
+			"entity_type": "Repo",
+			"entity_id": "31288958",
+			"repo_id": "31288958"
+		},
+		{
+			"id": ":companies\/huawei\/volcano",
+			"name": "Volcano",
+			"entity_type": "Org",
+			"entity_id": "47214749",
+			"repo_id": "175592968"
+		},
+		{
+			"id": ":companies\/huawei\/volcano",
+			"name": "Volcano",
+			"entity_type": "Repo",
+			"entity_id": "175592968",
+			"repo_id": "175592968"
+		},
+		{
+			"id": ":companies\/huggingface\/openenv",
+			"name": "OpenEnv",
+			"entity_type": "Repo",
+			"entity_id": "1067949357",
+			"repo_id": "1067949357"
+		},
+		{
+			"id": ":companies\/imply\/druid",
+			"name": "Apache Druid",
+			"entity_type": "Repo",
+			"entity_id": "6358188",
+			"repo_id": "6358188"
+		},
+		{
+			"id": ":companies\/influxdata\/influxdb",
+			"name": "InfluxDB",
+			"entity_type": "Repo",
+			"entity_id": "13124802",
+			"repo_id": "13124802"
+		},
+		{
+			"id": ":companies\/isovalent\/cilium",
+			"name": "Cilium",
+			"entity_type": "Org",
+			"entity_id": "21054566",
+			"repo_id": "473137633"
+		},
+		{
+			"id": ":companies\/lancedb\/lancedb",
+			"name": "LanceDB",
+			"entity_type": "Org",
+			"entity_id": "108903835",
+			"repo_id": "607441698"
+		},
+		{
+			"id": ":companies\/linkedin\/kafka",
+			"name": "Apache Kafka",
+			"entity_type": "Repo",
+			"entity_id": "2211243",
+			"repo_id": "2211243"
+		},
+		{
+			"id": ":companies\/linkedin\/pinot",
+			"name": "Apache Pinot",
+			"entity_type": "Repo",
+			"entity_id": "19961085",
+			"repo_id": "19961085"
+		},
+		{
+			"id": ":companies\/linkedin\/venice",
+			"name": "Venice",
+			"entity_type": "Repo",
+			"entity_id": "349172057",
+			"repo_id": "349172057"
+		},
+		{
+			"id": ":companies\/lyft\/envoy",
+			"name": "Envoy",
+			"entity_type": "Org",
+			"entity_id": "30125649",
+			"repo_id": "65214191"
+		},
+		{
+			"id": ":companies\/mariadb\/mariadb",
+			"name": "MariaDB",
+			"entity_type": "Org",
+			"entity_id": "4739304",
+			"repo_id": "19816070"
+		},
+		{
+			"id": ":companies\/matrix_origin\/matrixone",
+			"name": "MatrixOne",
+			"entity_type": "Org",
+			"entity_id": "76932962",
+			"repo_id": "339993112"
+		},
+		{
+			"id": ":companies\/meta\/cassandra",
+			"name": "Apache Cassandra",
+			"entity_type": "Repo",
+			"entity_id": "206424",
+			"repo_id": "206424"
+		},
+		{
+			"id": ":companies\/meta\/hive",
+			"name": "Apache Hive",
+			"entity_type": "Repo",
+			"entity_id": "206444",
+			"repo_id": "206444"
+		},
+		{
+			"id": ":companies\/meta\/prestodb",
+			"name": "PrestoDB",
+			"entity_type": "Org",
+			"entity_id": "6882181",
+			"repo_id": "5349565"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Repo",
+			"entity_id": "65600975",
+			"repo_id": "65600975"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "65600975"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "66424871"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "69709572"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "73328905"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "80786957"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "83772175"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "85707614"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "90321822"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "92541759"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "111835796"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "123683042"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "149312823"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "150154628"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "156293205"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "235820880"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "246634306"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "275254872"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "280276446"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "353143803"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "379711067"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "454479855"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "463628495"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "554065369"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "654341155"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "714073518"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "730932260"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "745656245"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "970899748"
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"entity_type": "Org",
+			"entity_id": "21003710",
+			"repo_id": "1053556746"
+		},
+		{
+			"id": ":companies\/meta\/rocksdb",
+			"name": "RocksDB",
+			"entity_type": "Repo",
+			"entity_id": "6934395",
+			"repo_id": "6934395"
+		},
+		{
+			"id": ":companies\/meta\/velox",
+			"name": "Velox",
+			"entity_type": "Repo",
+			"entity_id": "388946490",
+			"repo_id": "388946490"
+		},
+		{
+			"id": ":companies\/microsoft\/azure",
+			"name": "Azure",
+			"entity_type": "Org",
+			"entity_id": "6844498",
+			"repo_id": "42548553"
+		},
+		{
+			"id": ":companies\/microsoft\/hbase",
+			"name": "Apache HBase",
+			"entity_type": "Repo",
+			"entity_id": "20089857",
+			"repo_id": "20089857"
+		},
+		{
+			"id": ":companies\/mongodb\/wiredtiger",
+			"name": "WiredTiger",
+			"entity_type": "Org",
+			"entity_id": "1251095",
+			"repo_id": "2944302"
+		},
+		{
+			"id": ":companies\/naver\/cubrid",
+			"name": "CUBRID",
+			"entity_type": "Org",
+			"entity_id": "358322",
+			"repo_id": "52080367"
+		},
+		{
+			"id": ":companies\/okta\/openfga",
+			"name": "OpenFGA",
+			"entity_type": "Org",
+			"entity_id": "103602580",
+			"repo_id": "501372599"
+		},
+		{
+			"id": ":companies\/pingcap\/tidb",
+			"name": "TiDB",
+			"entity_type": "Repo",
+			"entity_id": "41986369",
+			"repo_id": "41986369"
+		},
+		{
+			"id": ":companies\/pingcap\/tikv",
+			"name": "TiKV",
+			"entity_type": "Org",
+			"entity_id": "41004122",
+			"repo_id": "48833910"
+		},
+		{
+			"id": ":companies\/qdrant\/qdrant",
+			"name": "Qdrant",
+			"entity_type": "Org",
+			"entity_id": "73504361",
+			"repo_id": "268163609"
+		},
+		{
+			"id": ":companies\/questdb\/questdb",
+			"name": "QuestDB",
+			"entity_type": "Org",
+			"entity_id": "52297642",
+			"repo_id": "19257422"
+		},
+		{
+			"id": ":companies\/ravendb\/ravendb",
+			"name": "RavenDB",
+			"entity_type": "Org",
+			"entity_id": "213792",
+			"repo_id": "542714"
+		},
+		{
+			"id": ":companies\/redhat\/etcd",
+			"name": "etcd",
+			"entity_type": "Org",
+			"entity_id": "41972792",
+			"repo_id": "11225014"
+		},
+		{
+			"id": ":companies\/redhat\/keycloak",
+			"name": "Keycloak",
+			"entity_type": "Org",
+			"entity_id": "4921466",
+			"repo_id": "11125589"
+		},
+		{
+			"id": ":companies\/redis\/redis",
+			"name": "Redis",
+			"entity_type": "Org",
+			"entity_id": "1529926",
+			"repo_id": "156018"
+		},
+		{
+			"id": ":companies\/risingwavelabs\/risingwave",
+			"name": "RisingWave",
+			"entity_type": "Org",
+			"entity_id": "77175557",
+			"repo_id": "453068084"
+		},
+		{
+			"id": ":companies\/scylladb\/scylladb",
+			"name": "ScyllaDB",
+			"entity_type": "Org",
+			"entity_id": "14364730",
+			"repo_id": "28449431"
+		},
+		{
+			"id": ":companies\/soundcloud\/prometheus",
+			"name": "Prometheus",
+			"entity_type": "Org",
+			"entity_id": "3380462",
+			"repo_id": "6838921"
+		},
+		{
+			"id": ":companies\/sphereex\/shardingsphere",
+			"name": "Apache ShardingSphere",
+			"entity_type": "Repo",
+			"entity_id": "49876476",
+			"repo_id": "49876476"
+		},
+		{
+			"id": ":companies\/starrocks\/starrocks",
+			"name": "StarRocks",
+			"entity_type": "Org",
+			"entity_id": "88238841",
+			"repo_id": "402945349"
+		},
+		{
+			"id": ":companies\/surrealdb\/surrealdb",
+			"name": "SurrealDB",
+			"entity_type": "Org",
+			"entity_id": "10982346",
+			"repo_id": "436658287"
+		},
+		{
+			"id": ":companies\/taos\/tdengine",
+			"name": "TDengine",
+			"entity_type": "Org",
+			"entity_id": "48876650",
+			"repo_id": "196353673"
+		},
+		{
+			"id": ":companies\/tigerdata\/timescaledb",
+			"name": "TimescaleDB",
+			"entity_type": "Org",
+			"entity_id": "8986001",
+			"repo_id": "84240850"
+		},
+		{
+			"id": ":companies\/timecho\/iotdb",
+			"name": "Apache IoTDB",
+			"entity_type": "Repo",
+			"entity_id": "158975124",
+			"repo_id": "158975124"
+		},
+		{
+			"id": ":companies\/vespa\/vespa",
+			"name": "Vespa",
+			"entity_type": "Org",
+			"entity_id": "29299694",
+			"repo_id": "60377070"
+		},
+		{
+			"id": ":companies\/victoriametrics\/victoriametrics",
+			"name": "VictoriaMetrics",
+			"entity_type": "Org",
+			"entity_id": "43720803",
+			"repo_id": "150954997"
+		},
+		{
+			"id": ":companies\/vk\/tarantool",
+			"name": "Tarantool",
+			"entity_type": "Org",
+			"entity_id": "2344919",
+			"repo_id": "911980"
+		},
+		{
+			"id": ":companies\/weaviate\/weaviate",
+			"name": "Weaviate",
+			"entity_type": "Org",
+			"entity_id": "37794290",
+			"repo_id": "55072677"
+		},
+		{
+			"id": ":companies\/yahoo\/pulsar",
+			"name": "Apache Pulsar",
+			"entity_type": "Repo",
+			"entity_id": "62117812",
+			"repo_id": "62117812"
+		},
+		{
+			"id": ":companies\/yahoo\/trafficserver",
+			"name": "Apache Traffic Server",
+			"entity_type": "Repo",
+			"entity_id": "356066",
+			"repo_id": "356066"
+		},
+		{
+			"id": ":companies\/yandex\/clickhouse",
+			"name": "ClickHouse",
+			"entity_type": "Org",
+			"entity_id": "54801242",
+			"repo_id": "60246359"
+		},
+		{
+			"id": ":companies\/yandex\/ydb",
+			"name": "YDB",
+			"entity_type": "Org",
+			"entity_id": "88314308",
+			"repo_id": "456549280"
+		},
+		{
+			"id": ":companies\/yandex\/ytsaurus",
+			"name": "YTsaurus",
+			"entity_type": "Org",
+			"entity_id": "119880778",
+			"repo_id": "574588439"
+		},
+		{
+			"id": ":companies\/yugabyte\/yugabytedb",
+			"name": "YugabyteDB",
+			"entity_type": "Org",
+			"entity_id": "17074854",
+			"repo_id": "105944401"
+		},
+		{
+			"id": ":companies\/zilliz\/milvus",
+			"name": "Milvus",
+			"entity_type": "Repo",
+			"entity_id": "208728772",
+			"repo_id": "208728772"
+		},
+		{
+			"id": ":companies\/zilliz\/milvus",
+			"name": "Milvus",
+			"entity_type": "Org",
+			"entity_id": "51735404",
+			"repo_id": "208728772"
+		},
+		{
+			"id": ":foundations\/apache\/lucene",
+			"name": "Apache Lucene",
+			"entity_type": "Repo",
+			"entity_id": "341631350",
+			"repo_id": "341631350"
+		},
+		{
+			"id": ":foundations\/apache\/seatunnel",
+			"name": "Apache SeaTunnel",
+			"entity_type": "Repo",
+			"entity_id": "99412308",
+			"repo_id": "99412308"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf\/kubernetes",
+			"name": "Kubernetes",
+			"entity_type": "Org",
+			"entity_id": "13629408",
+			"repo_id": "56353740"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/valkey",
+			"name": "Valkey",
+			"entity_type": "Org",
+			"entity_id": "164458127",
+			"repo_id": "775743011"
+		},
+		{
+			"id": ":foundations\/trino\/trino",
+			"name": "TrinoDB",
+			"entity_type": "Org",
+			"entity_id": "34147222",
+			"repo_id": "166515022"
+		},
+		{
+			"id": ":projects\/datafusion",
+			"name": "Apache DataFusion",
+			"entity_type": "Repo",
+			"entity_id": "120538653",
+			"repo_id": "120538653"
+		},
+		{
+			"id": ":projects\/datafusion",
+			"name": "Apache DataFusion",
+			"entity_type": "Repo",
+			"entity_id": "358917318",
+			"repo_id": "358917318"
+		},
+		{
+			"id": ":projects\/datafusion",
+			"name": "Apache DataFusion",
+			"entity_type": "Repo",
+			"entity_id": "743651128",
+			"repo_id": "743651128"
+		},
+		{
+			"id": ":universities\/illinois\/llvm",
+			"name": "LLVM",
+			"entity_type": "Org",
+			"entity_id": "17149993",
+			"repo_id": "75821432"
+		}
+	],
+
+	"rows": 127,
+
+	"statistics":
+	{
+		"elapsed": 0.259952465,
+		"rows_read": 5554152,
+		"bytes_read": 105892306
+	}
+}

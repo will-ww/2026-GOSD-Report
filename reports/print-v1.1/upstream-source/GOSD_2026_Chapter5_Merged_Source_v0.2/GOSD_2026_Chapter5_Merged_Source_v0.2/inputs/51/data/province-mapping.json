@@ -1,0 +1,206 @@
+[
+  {
+    "id": "110000",
+    "source_code": "CN-BJ",
+    "name": "北京市",
+    "en": "Beijing"
+  },
+  {
+    "id": "310000",
+    "source_code": "CN-SH",
+    "name": "上海市",
+    "en": "Shanghai"
+  },
+  {
+    "id": "440000",
+    "source_code": "CN-GD",
+    "name": "广东省",
+    "en": "Guangdong"
+  },
+  {
+    "id": "330000",
+    "source_code": "CN-ZJ",
+    "name": "浙江省",
+    "en": "Zhejiang"
+  },
+  {
+    "id": "710000",
+    "source_code": "CN-TW",
+    "name": "台湾省",
+    "en": "Taiwan"
+  },
+  {
+    "id": "510000",
+    "source_code": "CN-SC",
+    "name": "四川省",
+    "en": "Sichuan"
+  },
+  {
+    "id": "320000",
+    "source_code": "CN-JS",
+    "name": "江苏省",
+    "en": "Jiangsu"
+  },
+  {
+    "id": "420000",
+    "source_code": "CN-HB",
+    "name": "湖北省",
+    "en": "Hubei"
+  },
+  {
+    "id": "610000",
+    "source_code": "CN-SN",
+    "name": "陕西省",
+    "en": "Shaanxi"
+  },
+  {
+    "id": "350000",
+    "source_code": "CN-FJ",
+    "name": "福建省",
+    "en": "Fujian"
+  },
+  {
+    "id": "430000",
+    "source_code": "CN-HN",
+    "name": "湖南省",
+    "en": "Hunan"
+  },
+  {
+    "id": "370000",
+    "source_code": "CN-SD",
+    "name": "山东省",
+    "en": "Shandong"
+  },
+  {
+    "id": "500000",
+    "source_code": "CN-CQ",
+    "name": "重庆市",
+    "en": "Chongqing"
+  },
+  {
+    "id": "340000",
+    "source_code": "CN-AH",
+    "name": "安徽省",
+    "en": "Anhui"
+  },
+  {
+    "id": "210000",
+    "source_code": "CN-LN",
+    "name": "辽宁省",
+    "en": "Liaoning"
+  },
+  {
+    "id": "120000",
+    "source_code": "CN-TJ",
+    "name": "天津市",
+    "en": "Tianjin"
+  },
+  {
+    "id": "410000",
+    "source_code": "CN-HA",
+    "name": "河南省",
+    "en": "Henan"
+  },
+  {
+    "id": "530000",
+    "source_code": "CN-YN",
+    "name": "云南省",
+    "en": "Yunnan"
+  },
+  {
+    "id": "230000",
+    "source_code": "CN-HL",
+    "name": "黑龙江省",
+    "en": "Heilongjiang"
+  },
+  {
+    "id": "360000",
+    "source_code": "CN-JX",
+    "name": "江西省",
+    "en": "Jiangxi"
+  },
+  {
+    "id": "450000",
+    "source_code": "CN-GX",
+    "name": "广西壮族自治区",
+    "en": "Guangxi"
+  },
+  {
+    "id": "220000",
+    "source_code": "CN-JL",
+    "name": "吉林省",
+    "en": "Jilin"
+  },
+  {
+    "id": "130000",
+    "source_code": "CN-HE",
+    "name": "河北省",
+    "en": "Hebei"
+  },
+  {
+    "id": "140000",
+    "source_code": "CN-SX",
+    "name": "山西省",
+    "en": "Shanxi"
+  },
+  {
+    "id": "520000",
+    "source_code": "CN-GZ",
+    "name": "贵州省",
+    "en": "Guizhou"
+  },
+  {
+    "id": "460000",
+    "source_code": "CN-HI",
+    "name": "海南省",
+    "en": "Hainan"
+  },
+  {
+    "id": "620000",
+    "source_code": "CN-GS",
+    "name": "甘肃省",
+    "en": "Gansu"
+  },
+  {
+    "id": "650000",
+    "source_code": "CN-XJ",
+    "name": "新疆维吾尔自治区",
+    "en": "Xinjiang"
+  },
+  {
+    "id": "810000",
+    "source_code": "CN-HK",
+    "name": "香港特别行政区",
+    "en": "Hong Kong SAR"
+  },
+  {
+    "id": "150000",
+    "source_code": "CN-NM",
+    "name": "内蒙古自治区",
+    "en": "Inner Mongol"
+  },
+  {
+    "id": "540000",
+    "source_code": "CN-XZ",
+    "name": "西藏自治区",
+    "en": "Xizang"
+  },
+  {
+    "id": "630000",
+    "source_code": "CN-QH",
+    "name": "青海省",
+    "en": "Qinghai"
+  },
+  {
+    "id": "820000",
+    "source_code": "CN-MO",
+    "name": "澳门特别行政区",
+    "en": "Macau SAR"
+  },
+  {
+    "id": "640000",
+    "source_code": "CN-NX",
+    "name": "宁夏回族自治区",
+    "en": "Ningxia"
+  }
+]

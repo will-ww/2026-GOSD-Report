@@ -1,0 +1,40 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.280029296875,
+      "height": 841.8900146484375,
+      "text_chars": 2050,
+      "uri_links": 22,
+      "outside_spans": []
+    },
+    {
+      "page": 2,
+      "width": 595.280029296875,
+      "height": 841.8900146484375,
+      "text_chars": 1737,
+      "uri_links": 22,
+      "outside_spans": []
+    },
+    {
+      "page": 3,
+      "width": 595.280029296875,
+      "height": 841.8900146484375,
+      "text_chars": 1717,
+      "uri_links": 4,
+      "outside_spans": []
+    },
+    {
+      "page": 4,
+      "width": 595.280029296875,
+      "height": 841.8900146484375,
+      "text_chars": 1259,
+      "uri_links": 8,
+      "outside_spans": []
+    }
+  ],
+  "font_embedding": "pdffonts: all yes",
+  "tex_warnings": [],
+  "visual_review": "All four pages inspected; first page rechecked after final title revision. No overlaps or clipped labels found.",
+  "pdf_sha256": "d6c654b68af21f7ae9d48ac39c31eedddf21fb7116fd2391f6d42ddeafce6447"
+}

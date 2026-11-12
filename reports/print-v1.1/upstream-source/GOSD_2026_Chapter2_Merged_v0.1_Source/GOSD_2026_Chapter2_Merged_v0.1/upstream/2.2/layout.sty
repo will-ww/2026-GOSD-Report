@@ -1,0 +1,83 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{layout}[2026/11/09 GOSD insights chapter 2 sample]
+\RequirePackage[a4paper,margin=0mm]{geometry}
+\RequirePackage{fontspec,graphicx,xcolor,tikz,hyperref,bookmark}
+\usetikzlibrary{calc,arrows.meta}
+\setmainfont{NotoSerifCJKsc-Regular.otf}[Path=.build/fonts/,BoldFont=NotoSerifCJKsc-Bold.otf]
+\setsansfont{NotoSansCJKsc-Regular.otf}[Path=.build/fonts/,BoldFont=NotoSansCJKsc-Bold.otf]
+\newfontfamily\digits{Liberation Sans}
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip=0pt plus 1pt
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+\pagestyle{empty}
+\definecolor{navy}{HTML}{13253D}
+\definecolor{ink}{HTML}{1B2D40}
+\definecolor{muted}{HTML}{5C6B7A}
+\definecolor{line}{HTML}{D9DFE4}
+\definecolor{paper}{HTML}{F6F8FA}
+\definecolor{blue}{HTML}{155FA8}
+\definecolor{teal}{HTML}{007D78}
+\definecolor{gold}{HTML}{8E6500}
+\definecolor{violet}{HTML}{943B9A}
+\definecolor{cyan}{HTML}{24C4E5}
+\definecolor{lime}{HTML}{9DCD37}
+\definecolor{orange}{HTML}{FF8A37}
+\definecolor{trail0}{HTML}{155FA8}
+\definecolor{trail1}{HTML}{087C99}
+\definecolor{trail2}{HTML}{007D78}
+\definecolor{trail3}{HTML}{267D4E}
+\definecolor{trail4}{HTML}{537D25}
+\definecolor{trail5}{HTML}{8E6500}
+\definecolor{trail6}{HTML}{AD4E22}
+\definecolor{trail7}{HTML}{B53863}
+\definecolor{trail8}{HTML}{943B9A}
+\definecolor{trail9}{HTML}{6146A5}
+\color{ink}
+\hypersetup{colorlinks=true,urlcolor=teal,linkcolor=teal,pdftitle={2026全球开源发展报告·精要版｜第二章 2.2 样节评审稿 v0.2},pdfauthor={全球开源发展报告编制组},pdfsubject={全球参与规模与成长群体；正文样节及摘要、第六章联动建议},pdfpagemode=UseOutlines,pdfstartview=Fit,pdfview=Fit}
+\newcommand{\Pos}[2]{([xshift=#1mm,yshift=-#2mm]current page.north west)}
+\renewcommand{\Box}[4]{\node[anchor=north west,inner sep=0pt,outer sep=0pt] at \Pos{#1}{#2}{\begin{minipage}[t]{#3mm}\fontsize{10.8}{18.4}\selectfont\color{ink}#4\end{minipage}};}
+\newcommand{\Rect}[5]{\pgfmathsetmacro{\Rx}{#1+#3}\pgfmathsetmacro{\Ry}{#2+#4}\fill[#5] \Pos{#1}{#2} rectangle \Pos{\Rx}{\Ry};}
+\newcommand{\Rule}[4]{\draw[#4,line width=.4pt] \Pos{#1}{#2} -- \Pos{#3}{#2};}
+\newcommand{\Kicker}[2]{\Box{22}{31}{166}{\sffamily\bfseries\fontsize{8.7}{11}\selectfont\color{#1}#2}}
+\newcommand{\Title}[1]{\Box{22}{42}{166}{\sffamily\bfseries\fontsize{18}{25}\selectfont\color{navy}#1}}
+\newcommand{\Subhead}[3]{\Box{22}{#1}{166}{\sffamily\bfseries\fontsize{12.5}{18}\selectfont\color{#2}#3}}
+\newcommand{\Small}[4]{\Box{#1}{#2}{#3}{\sffamily\fontsize{8.2}{12}\selectfont\color{muted}#4}}
+\newcommand{\Header}[2]{\Box{22}{13.5}{110}{\sffamily\fontsize{7.8}{10}\selectfont\color{muted}\raisebox{-2.1mm}{\includegraphics[width=7mm]{.build/assets/osdgs-compact.pdf}}\hspace{2mm}\textbf{GOSD 2026}\quad 全球开源发展报告·精要版}\Box{151}{16}{37}{\raggedleft\sffamily\fontsize{8}{10}\selectfont\color{muted}#1}\Rule{22}{25}{188}{line}\Rect{22}{24.6}{12}{.8}{#2}\Rect{124.0}{24.75}{5.1}{.5}{trail0}\Rect{130.5}{24.75}{5.1}{.5}{trail1}\Rect{137.0}{24.75}{5.1}{.5}{trail2}\Rect{143.5}{24.75}{5.1}{.5}{trail3}\Rect{150.0}{24.75}{5.1}{.5}{trail4}\Rect{156.5}{24.75}{5.1}{.5}{trail5}\Rect{163.0}{24.75}{5.1}{.5}{trail6}\Rect{169.5}{24.75}{5.1}{.5}{trail7}\Rect{176.0}{24.75}{5.1}{.5}{trail8}\Rect{182.5}{24.75}{5.1}{.5}{trail9}}
+\newcommand{\Footer}[1]{\Rule{22}{279}{188}{line}\Small{22}{283}{140}{OPEN SOURCE / A SHARED INTELLIGENT FUTURE}\Box{175}{281.5}{13}{\raggedleft\digits\fontsize{12}{14}\selectfont\color{navy}#1}}
+\newcommand{\Source}[2]{\Small{22}{#1}{166}{#2}}
+\newcommand{\Action}[3]{\Rect{22}{#1}{166}{#2}{paper}\Box{26}{\number\numexpr#1+3\relax}{158}{\sffamily\fontsize{10.3}{16}\selectfont #3}}
+\newcommand{\Chapter}[4]{\Box{22}{#1}{13}{\digits\bfseries\fontsize{25}{29}\selectfont\color{#3}#2}\Box{40}{\number\numexpr#1+1\relax}{148}{\sffamily\bfseries\fontsize{13.1}{18}\selectfont\color{navy}#4}\Rule{40}{\number\numexpr#1+10\relax}{188}{line}}
+\newcommand{\Tocline}[3]{\Box{40}{#1}{148}{\sffamily\fontsize{10.2}{14}\selectfont\textcolor{muted}{#2}\hspace{3mm}#3}}
+\newenvironment{canvas}{\null\begin{tikzpicture}[remember picture,overlay]}{\end{tikzpicture}\newpage}
+\newcommand{\GH}{https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/}
+\newcommand{\HF}{https://huggingface.co/blog/state-of-open-models-summer-2026}
+\newcommand{\DeclBody}{\fontsize{10.8}{18.0}\selectfont\setlength{\parskip}{4pt}}
+\newcommand{\DHead}[1]{\par\vspace{4pt}{\sffamily\bfseries\fontsize{12.5}{19}\selectfont\color{teal}#1}\par\vspace{1pt}}
+\newcommand{\DLayer}[1]{\par\vspace{4pt}{\sffamily\bfseries\fontsize{11.5}{18}\selectfont\color{teal}#1}\par}
+\newcommand{\DPrinciple}[2]{\par\vspace{3pt}{\sffamily\bfseries\fontsize{11}{18}\selectfont #1}\par{\sffamily\fontsize{9.8}{15}\selectfont\color{muted}#2}\par}
+
+
+\newcommand{\Body}[4]{\Box{#1}{#2}{#3}{\fontsize{10.7}{18.1}\selectfont #4}}
+\newcommand{\Label}[4]{\Box{#1}{#2}{#3}{\sffamily\bfseries\fontsize{10.5}{15}\selectfont #4}}
+\newcommand{\Note}[4]{\Box{#1}{#2}{#3}{\sffamily\fontsize{8.1}{12}\selectfont\color{muted}#4}}
+\newcommand{\Num}[4]{\Box{#1}{#2}{#3}{\digits\bfseries\fontsize{#4}{#4}\selectfont\color{blue}}}
+\newcommand{\Circle}[4]{\fill[#4] \Pos{#1}{#2} circle[radius=#3mm];}
+\newcommand{\LinkLine}[5]{\draw[#5,line width=.7pt,-{Stealth[length=2mm]}] \Pos{#1}{#2} -- \Pos{#3}{#4};}
+\newcommand{\Cap}[2]{\Box{22}{#1}{166}{\sffamily\bfseries\fontsize{8.8}{12.8}\selectfont\color{navy}#2}}
+\newcommand{\Sec}[3]{\pdfbookmark[1]{#2}{#3}\Kicker{#1}{#2}}
+\newcommand{\UNGoals}{https://sdgs.un.org/goals}
+\newcommand{\DPG}{https://www.digitalpublicgoods.net/standard}
+\newcommand{\OD}{https://github.com/X-lab2017/open-digger}
+
+\newcommand{\ATOM}{https://arxiv.org/html/2604.07190v1}
+\newcommand{\NV}{https://developer.nvidia.com/blog/build-custom-reasoning-models-with-advanced-open-post-training-datasets/}
+\newcommand{\DSINFRA}{https://github.com/deepseek-ai/open-infra-index}
+
+\newcommand{\SectionTitle}[4]{\pdfbookmark[1]{#2}{#4}\Box{22}{34}{166}{\sffamily\bfseries\fontsize{21}{28}\selectfont\color{navy}#2}\Box{22}{53}{166}{\sffamily\bfseries\fontsize{12.5}{18}\selectfont\color{#1}#3}}
+\newcommand{\ContinueTitle}[3]{\Kicker{#1}{#2}\Box{22}{42}{166}{\sffamily\bfseries\fontsize{18}{25}\selectfont\color{navy}#3}}
+
+% PORTRAIT V03
+\RequirePackage{booktabs,tabularx,array}
+\renewcommand{\Header}[2]{\Box{15}{10}{135}{\sffamily\fontsize{7.7}{10}\selectfont\color{muted}\raisebox{-2.1mm}{\includegraphics[width=7mm]{.build/assets/osdgs-compact.pdf}}\hspace{2mm}\textbf{GOSD 2026}\quad 全球开源发展报告·精要版}\Box{149}{12.7}{46}{\raggedleft\sffamily\fontsize{7.7}{10}\selectfont\color{muted}#1}\Rule{15}{21}{195}{line}\Rect{15}{20.6}{12}{.8}{#2}\Rect{133}{20.7}{5}{.5}{trail0}\Rect{139.2}{20.7}{5}{.5}{trail1}\Rect{145.4}{20.7}{5}{.5}{trail2}\Rect{151.6}{20.7}{5}{.5}{trail3}\Rect{157.8}{20.7}{5}{.5}{trail4}\Rect{164}{20.7}{5}{.5}{trail5}\Rect{170.2}{20.7}{5}{.5}{trail6}\Rect{176.4}{20.7}{5}{.5}{trail7}\Rect{182.6}{20.7}{5}{.5}{trail8}\Rect{188.8}{20.7}{5}{.5}{trail9}}
+\renewcommand{\Footer}[1]{\Rule{15}{283}{195}{line}\Small{15}{286}{155}{OPEN SOURCE / A SHARED INTELLIGENT FUTURE}\Box{182}{284.7}{13}{\raggedleft\digits\fontsize{11}{13}\selectfont\color{navy}#1}}

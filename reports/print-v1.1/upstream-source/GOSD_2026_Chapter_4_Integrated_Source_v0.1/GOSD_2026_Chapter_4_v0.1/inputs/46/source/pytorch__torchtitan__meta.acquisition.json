@@ -1,0 +1,17 @@
+{
+  "repo": "pytorch/torchtitan",
+  "metric": "meta",
+  "url": "https://oss.open-digger.cn/github/pytorch/torchtitan/meta.json",
+  "status": "ok",
+  "reused_saved_bytes": false,
+  "started_at": "2026-11-07T08:52:40.347122+00:00",
+  "attempts": 1,
+  "http_status": 200,
+  "final_url": "https://oss.open-digger.cn/github/pytorch/torchtitan/meta.json",
+  "sha256": "0776737bd3dd7f62e1a6d54e34f55641d0b55c594c9da153e7a4461466b29cce",
+  "bytes": 419,
+  "file": "raw/pytorch__torchtitan__meta.json",
+  "last_modified": "Mon, 02 Nov 2026 19:40:23 GMT",
+  "etag": "\"72698CCB8BDA6E9A4D295FC5FA85C127\"",
+  "completed_at": "2026-11-07T08:52:43.105873+00:00"
+}

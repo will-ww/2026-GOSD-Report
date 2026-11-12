@@ -1,0 +1,108 @@
+{
+  "version": "0.4",
+  "pages": 6,
+  "portrait_a4": true,
+  "embedded_chinese_fonts": true,
+  "pdf_sha256": "1f5e13116e55635612ec355badfd66609f2034fea0b2f7a984114ee5653ccbef",
+  "numerical_rechecks": [
+    "889 unique model IDs and strict-grade 2x2 matrix",
+    "country relation totals and three selected country endpoints",
+    "June ModelRank seats",
+    "fixed ten-city totals and growth maxima"
+  ],
+  "structure": {
+    "insight_pages": 4,
+    "outlook_pages": 1,
+    "strategy_pages": 1,
+    "insights": 12,
+    "outlooks": 10,
+    "recommendations": 10,
+    "section_6_4_removed": true,
+    "appendix_removed": true,
+    "consistent_section_title_positions": [
+      [
+        42.52,
+        81.77,
+        72.51,
+        101.69
+      ],
+      [
+        42.52,
+        81.77,
+        72.51,
+        101.69
+      ],
+      [
+        42.52,
+        81.77,
+        72.51,
+        101.69
+      ],
+      [
+        42.52,
+        81.77,
+        72.51,
+        101.69
+      ]
+    ],
+    "consistent_theme_vertical_positions": [
+      [
+        65.41,
+        121.6,
+        190.94,
+        135.55
+      ],
+      [
+        65.97,
+        121.6,
+        219.39,
+        135.55
+      ],
+      [
+        65.62,
+        121.65,
+        232.99,
+        135.6
+      ],
+      [
+        66.43,
+        121.63,
+        233.8,
+        135.57
+      ]
+    ],
+    "insight_ranges": [
+      "01—03",
+      "04—06",
+      "07—09",
+      "10—12"
+    ]
+  },
+  "figure_text_bounds_and_collisions": [
+    {
+      "figure": "6-1-global",
+      "out_of_bounds": [],
+      "overlaps": []
+    },
+    {
+      "figure": "6-2-china",
+      "out_of_bounds": [],
+      "overlaps": []
+    },
+    {
+      "figure": "6-3-public",
+      "out_of_bounds": [],
+      "overlaps": []
+    },
+    {
+      "figure": "6-4-cities",
+      "out_of_bounds": [],
+      "overlaps": []
+    }
+  ],
+  "body_overlaps": [],
+  "body_outside_page": [],
+  "visual_review": "All six pages visually inspected, including the final edits on pages 1, 3 and 6. Consistent section/theme headings and ranges confirmed. MuPDF full-page renders and Poppler print renders checked; no clipping or overlap.",
+  "note": "Numeric checks establish consistency with frozen inputs, not representativeness or independently validated model openness.",
+  "unchanged_data_files": 5
+}

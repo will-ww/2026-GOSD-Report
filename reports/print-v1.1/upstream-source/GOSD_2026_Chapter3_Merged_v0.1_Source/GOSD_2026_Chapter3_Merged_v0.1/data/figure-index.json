@@ -1,0 +1,202 @@
+[
+  {
+    "number": "3-1",
+    "section": "3.1",
+    "old_figure": "fig-3-1-global-nodes",
+    "source_file": "GOSD_2026_Section_3-1_Review_v0.2.pdf",
+    "source_page": 1,
+    "source_sha256": "3734d0e5fbafd1a95088a4fa530ebcbc8a9e57b137072d9d28e259309707220f",
+    "figure_sha256": "e0d3352b6a1c0cc1253a84d871c59ced1e4bf55272cea40a221c405e1ed08b9f",
+    "text": "1 全球⾏政区影响力前 30 位\n名次 / ⾏政区\n所属国家\nOpenRank\n01\n加利福尼亚州\n美国\n50,883.80\n02\n英格兰\n英国\n36,398.10\n03\n纽约州\n美国\n22,618.10\n04\n华盛顿州\n美国\n18,436.10\n05\n圣保罗州\n巴西\n16,244.80\n06\n安⼤略省\n加拿⼤\n15,567.60\n07\n得克萨斯州\n美国\n14,943.40\n08\n卡纳塔克邦\n印度\n14,622.30\n09\n柏林\n德国\n13,624.70\n10\n首尔\n韩国\n12,322.50\n11\n东京\n⽇本\n11,615.40\n12\n马哈拉施特拉邦\n印度\n11,608.60\n13\n马萨诸塞州\n美国\n10,572.90\n14\n北京市\n中国\n10,188.30\n15\n巴伐利亚\n德国\n8,962.90\n16\n上海市\n中国\n8,462.50\n17\n科罗拉多州\n美国\n7,878.50\n18\n不列颠哥伦⽐亚\n加拿⼤\n7,627.40\n19\n佛罗⾥达州\n美国\n7,228.20\n20\n伊利诺伊州\n美国\n7,156.20\n21\n魁北克\n加拿⼤\n6,873.40\n22\n北莱茵－威斯特法伦\n德国\n6,657.30\n23\n宾⼣法尼亚州\n美国\n6,468.60\n24\n莫斯科\n俄罗斯\n6,446.90\n25\n⼴东省\n中国\n6,354.20\n26\n台湾省\n中国\n6,256.70\n27\n北荷兰省\n荷兰\n6,118.50\n28\n巴登－符腾堡\n德国\n5,840.60\n29\n俄勒冈州\n美国\n5,759.10\n30\n北卡罗来纳州\n美国\n5,758.90\n分值体现协作影响；条⻓采⽤同⼀线性尺度。\n2 ⾼位节点分布于全球\n32\n个国家\n100\n个⼊榜地区\n1\n5\n10\n25\n⼊榜地区/ 个\n前100 位的国别席位；灰⾊为未⼊榜。\n3\n前五国占 61 席，其余占 39 席\n美国\n25\n印度\n12\n巴西\n9\n德国\n8\n中国\n7\n其余 27 国\n39\n每格为1 个⼊榜⾏政区，⾮影响力份额。\n4\n席位数量与头部位置联读\n国家\n席位\n1\n10\n20\n30\n美国\n11\n印度\n2\n巴西\n1\n德国\n4\n中国\n4\n加拿⼤\n3\n英国\n1\n"
+  },
+  {
+    "number": "3-2",
+    "section": "3.1",
+    "old_figure": "fig-3-2-participation-influence",
+    "source_file": "GOSD_2026_Section_3-1_Review_v0.2.pdf",
+    "source_page": 2,
+    "source_sha256": "3734d0e5fbafd1a95088a4fa530ebcbc8a9e57b137072d9d28e259309707220f",
+    "figure_sha256": "c424eeb7615222138cec2bd5068cdce6bf94f210bb98300c47e80da99da5a513",
+    "text": "1 同⼀组30 个地区，两种观察位置\n影响位次：越靠上越⾼\n1\n1\n5\n5\n10\n10\n15\n15\n20\n20\n25\n25\n30\n30\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n圆内数字对应图 3-1 名次\n影响位次\n相对靠前\n规模位次\n相对靠前\n参与规模位次：越靠左越⾼\n虚线：两项位次相同\n2 前 10 位的共同与不同\n两项前十共有\n6 个地区\n加利福尼亚州、英格兰、纽约州\n圣保罗州、得克萨斯州、卡纳塔克邦\n均在同⼀组 30 地区内排序\n仅参与规模进⼊前十\n北京、上海、东京、马哈拉施特拉邦\n仅影响位次进⼊前十\n华盛顿州、安⼤略省、柏林、首尔\n3\n影响位置相对靠前的节点\n⾏政区\n规模位次\n影响位次\n华盛顿州\n13\n4\n安⼤略省\n14\n6\n柏林\n17\n9\n不列颠哥伦⽐亚省\n26\n18\n4 中国四个⼊榜地区：参与基础与影响位置联读\n参与规模位次\n影响位次\n1\n5\n10\n15\n20\n25\n30\n北京市\n5\n14\n上海市\n9\n16\n⼴东省\n11\n25\n台湾省\n16\n26\n"
+  },
+  {
+    "number": "3-3",
+    "section": "3.1",
+    "old_figure": "fig-3-3-china-nodes",
+    "source_file": "GOSD_2026_Section_3-1_Review_v0.2.pdf",
+    "source_page": 3,
+    "source_sha256": "3734d0e5fbafd1a95088a4fa530ebcbc8a9e57b137072d9d28e259309707220f",
+    "figure_sha256": "0e959335246a2ebb974d303abbf5b292d2e0e73e7f5667d6f2e8e840fddb2006",
+    "text": "1 中国省级⾏政区前 15 位\n2 中国城市前 20 位\n名次 / 地区\nOpenRank\n名次 / 城市\n省级归属\nOpenRank\n01\n北京\n10,188.30\n02\n上海\n8,462.50\n03\n⼴东\n6,354.20\n04\n台湾\n6,256.70\n05\n浙江\n4,946.60\n06\n江苏\n2,405.60\n07\n四川\n2,147.00\n08\n湖北\n1,465.70\n09\n陕西\n919.80\n10\n福建\n699.70\n11\n⼭东\n637.20\n12\n湖南\n621.10\n13\n安徽\n551.70\n14\n重庆\n548.80\n15\n辽宁\n405.70\n01\n北京\n北京\n9,616.14\n02\n上海\n上海\n8,171.56\n03\n杭州\n浙江\n4,388.79\n04\n深圳\n⼴东\n3,570.17\n05\n台北\n台湾\n2,374.93\n06\n⼴州\n⼴东\n1,921.31\n07\n成都\n四川\n1,918.33\n08\n武汉\n湖北\n1,361.94\n09\n南京\n江苏\n1,272.50\n10\n西安\n陕西\n836.39\n11\n苏州\n江苏\n670.86\n12\n⻓沙\n湖南\n465.08\n13\n重庆\n重庆\n432.70\n14\n合肥\n安徽\n419.18\n15\n厦门\n福建\n361.87\n16\n桃园\n台湾\n316.37\n17\n⻘岛\n⼭东\n233.81\n18\n⼤连\n辽宁\n205.37\n19\n天津\n天津\n199.97\n20\n福州\n福建\n190.73\n3\n省市连读：同⼀省域内的城市位置\n省级名次/ 地区\n城市全国名次→\n1\n5\n10\n15\n20\n25\n30\n#03\n⼴东省\n深圳\n#04\n⼴州\n#06\n珠海\n#29\n#04\n台湾省\n台北\n#05\n桃园\n#16\n台中\n#25\n#05\n浙江省\n杭州\n#03\n宁波\n#27\n#06\n江苏省\n南京\n#09\n苏州\n#11\n⽆锡\n#28\n#10\n福建省\n厦门\n#15\n福州\n#20\n#11\n⼭东省\n⻘岛\n#17\n济南\n#21\n#15\n辽宁省\n⼤连\n#18\n沈阳\n#24\n4\n相邻名次的分值距离\nOpenRank 差值；⾮时间变化。\n杭州 #3 / 深圳 #4\n相差818.62\n⼴州#6 / 成都 #7\n相差2.98\n"
+  },
+  {
+    "number": "3-4",
+    "section": "3.2",
+    "old_figure": "fig-3-4-companies-global",
+    "source_file": "GOSD_2026_Section_3-2_Review_v0.2.pdf",
+    "source_page": 1,
+    "source_sha256": "28e8b9f1af1ffc66bd1f7a2807a7dfc06c1b16ddfee9dc85991e3c9a4e9b828f",
+    "figure_sha256": "0bed40f8399e49f84ab14d2a3eaa827b38e31b78d850077f6accb13e6157b95e",
+    "text": "1\n全球企业影响力前 20 位\n名次/ 企业\nOpenRank\n仓库 / 个\n关联开发者 / ⼈\n01\n微软\n167,060.3\n4,588\n79,750\n02\n华为\n141,253.6\n20,311\n39,177\n03\n⾕歌\n82,517.7\n1,529\n40,099\n04\nMeta\n49,739.1\n741\n19,050\n05\n亚马逊\n36,597.6\n3,171\n15,485\n06\n英伟达\n35,291.1\n674\n10,162\n07\n红帽\n30,259.5\n823\n6,065\n08\nElastic\n29,080.4\n347\n2,774\n09\nAnthropic\n25,147.1\n94\n38,901\n10\nMozilla\n24,974.3\n536\n8,601\n11\n阿⾥巴巴\n21,370.0\n2,363\n15,269\n12\nGrafana Labs\n21,185.4\n578\n4,820\n13\n字节跳动\n19,551.7\n500\n13,295\n14\nHugging Face\n17,744.5\n231\n7,392\n15\nIBM\n16,860.9\n2,189\n10,204\n16\nDataDog\n16,551.2\n487\n3,250\n17\nOpenAI\n15,756.6\n115\n13,233\n18\nJetBrains\n15,377.6\n245\n6,044\n19\nExpensify\n15,181.9\n23\n925\n20\n苹果\n15,172.6\n246\n3,251\n关联开发者为企业项⽬的参与者，不等于企业雇员。\n2\n总部节点与国别布局\n底⾊：100 强企业数量 · 覆盖 15 国\n雷德蒙德 · 微软\n圣克拉拉 · 英伟达\n阿姆斯特丹· JetBrains\n杭州 · 阿⾥巴巴 / 蚂蚁\n深圳 · 华为\n1\n12\n70\n家 / 国别标签\n圆点：6 家企业总部例证；⾮贡献来源。\n3\n100 强席位与排名梯次\n美国\n70\n中国\n12\n德国\n4\n荷兰\n2\n法国\n2\n其他 10 国\n10\n每格 1 家；按全球名次从左⾄右、逐⾏排列。\n国家/ 排名\n1—10\n11—30\n31—100\n美国\n9\n15\n46\n中国\n1\n3\n8\n德国\n0\n0\n4\n荷兰\n0\n1\n1\n法国\n0\n0\n2\n其他 10 国\n0\n1\n9\n4\n前五名的分值占⽐ · 以 100 强为分⺟\n38.5%\n前五名 / 100 强OpenRank 合计\n13.5%\n25.0%\n11.7%\n24.5%\n25.3%\n第 1 名\n第 2—5 名\n第 6—10 名\n第 11—30 名\n第 31—100 名\n"
+  },
+  {
+    "number": "3-5",
+    "section": "3.2",
+    "old_figure": "fig-3-5-companies-time",
+    "source_file": "GOSD_2026_Section_3-2_Review_v0.2.pdf",
+    "source_page": 2,
+    "source_sha256": "28e8b9f1af1ffc66bd1f7a2807a7dfc06c1b16ddfee9dc85991e3c9a4e9b828f",
+    "figure_sha256": "42476b19c961cb9f64a76e8264d862cfe230ff77fb2d3a9112d9f543dee9c6e1",
+    "text": "1\n全球年度位置 · 九家企业\n2022—2026 年度标签；第 1 名在上\n1\n5\n10\n15\n18\n2022\n2023\n2024\n2025\n2026\n微软\n1\n华为\n2\n⾕歌\n3\nMeta\n4\n亚马逊\n5\n英伟达\n6\n红帽\n7\nElastic\n8\nMozilla\n10\n2\nAnthropic 的前移\n独⽴位次轴· 避免压缩头部差异\n1\n100\n200\n300\n309\n22\n307\n23\n225\n24\n22\n25\n9\n26\n309 → 9 位；并⾮分值增⻓倍数\n3\n全球⽉度 · 本期前五家\n微软\n华为\n⾕歌\nMeta\n亚马逊\n1\n2\n3\n4\n5\n6\n7\n8\n9\n07\n08\n09\n10\n11\n12\n01\n02\n03\n04\n05\n06\n2\n1\n3\n5\n9\n4\n全球⽉度· 第六⾄十家\n英伟达\n红帽\nElastic\nAnthropic\nMozilla\n4\n5\n8\n10\n12\n14\n07\n08\n09\n10\n11\n12\n01\n02\n03\n04\n05\n06\n4\n7\n8\n13\n10\n⽉度为2025.07—2026.06，浅底为2026 年；四⾯板分别标尺，追踪同⼀组十家企业。\n"
+  },
+  {
+    "number": "3-6",
+    "section": "3.2",
+    "old_figure": "fig-3-5b-companies-time-china",
+    "source_file": "GOSD_2026_Section_3-2_Review_v0.2.pdf",
+    "source_page": 3,
+    "source_sha256": "28e8b9f1af1ffc66bd1f7a2807a7dfc06c1b16ddfee9dc85991e3c9a4e9b828f",
+    "figure_sha256": "ddfbb77e3f4c75a9686ee81cb8427d70f39c6be3ad82ccfb14206c8a4850f465",
+    "text": "1\n中国年度 · 本期前五家\n华为\n阿⾥巴巴\n字节跳动\n蚂蚁集团\n百度\n1\n2\n3\n4\n5\n6\n7\n8\n2022\n2023\n2024\n2025\n2026\n1\n2\n3\n4\n5\n2\n中国年度· 第六⾄十家\n腾讯\nPingCAP\n⻜致云\n乐鑫科技\n赜睿信息科技\n5\n6\n7\n8\n9\n10\n11\n12\n2022\n2023\n2024\n2025\n2026\n6\n7\n8\n9\n10\n3\n中国⽉度 · 本期前五家\n华为\n阿⾥巴巴\n字节跳动\n蚂蚁集团\n百度\n1\n2\n3\n4\n5\n6\n07\n08\n09\n10\n11\n12\n01\n02\n03\n04\n05\n06\n1\n3\n2\n4\n6\n4\n中国⽉度· 第六⾄十家\n腾讯\nPingCAP\n⻜致云\n乐鑫科技\n赜睿信息科技\n5\n6\n7\n8\n9\n10\n11\n07\n08\n09\n10\n11\n12\n01\n02\n03\n04\n05\n06\n5\n7\n8\n11\n9\n年度：2022—2026 原表标签；⽉度：2025.07—2026.06，浅底为2026 年。名次越⼩越靠前。\n"
+  },
+  {
+    "number": "3-7",
+    "section": "3.2",
+    "old_figure": "fig-3-6-companies-china",
+    "source_file": "GOSD_2026_Section_3-2_Review_v0.2.pdf",
+    "source_page": 4,
+    "source_sha256": "28e8b9f1af1ffc66bd1f7a2807a7dfc06c1b16ddfee9dc85991e3c9a4e9b828f",
+    "figure_sha256": "2f052d062f5ee6b1702c56e36968ca35efcd9c21b0347708879ce8b7cd1b1d2e",
+    "text": "1\n中国企业影响力前 20 位\n名次/ 企业\nOpenRank\n仓库 / 个\n关联开发者 / ⼈\n01\n华为\n141,253.6\n20,311\n39,177\n02\n阿⾥巴巴\n21,370.0\n2,363\n15,269\n03\n字节跳动\n19,551.7\n500\n13,295\n04\n蚂蚁集团\n14,466.0\n727\n7,924\n05\n百度\n10,371.5\n142\n4,213\n06\n腾讯\n9,276.7\n390\n4,366\n07\nPingCAP\n5,793.8\n94\n713\n08\n⻜致云\n4,325.9\n75\n1,940\n09\n乐鑫科技\n4,125.5\n155\n2,857\n10\n赜睿信息科技\n3,581.5\n57\n968\n11\nInﬁnity Flow\n3,408.7\n5\n1,372\n12\nSelectDB\n2,398.1\n11\n523\n13\n深度\n2,109.3\n1,638\n223\n14\n道客云\n2,056.6\n67\n857\n15\n开放麒麟\n1,757.7\n727\n582\n16\nStarRocks\n1,716.0\n22\n568\n17\n环际云\n1,575.8\n36\n491\n18\n⼩⽶\n1,414.2\n87\n1,270\n19\n涛思数据\n1,151.4\n28\n256\n20\n灵雀云\n1,130.5\n47\n79\n关联开发者为企业项⽬的参与者，不等于企业雇员。\n2\n企业总部的城市节点\n已核对的9 家企业 · 5 个城市\n1\n2\n3\n4\n5\n1\n北京\n百度· ⼩⽶\n2\n杭州\n阿⾥巴巴· 蚂蚁集团\n3\n深圳\n华为· 腾讯\n4\n上海\n乐鑫科技· 道客云\n5\n合肥\n科⼤讯⻜\n3\n榜内分布 · 两榜均取前 30 家\n全球榜\n前五名 51.6%\n18.0%\n33.5%\n15.6%\n32.8%\n中国榜\n前五名 79.3%\n54.1%\n25.2%\n10.4%\n10.3%\n第 1 名\n第 2—5 名\n第 6—10 名\n第11—30 名\n4\n模型企业：代码侧位置\n深度求索\n#26\nz{|.}z OpenRank\n32 个仓库\n1,287 名关联开发者\n⼈数位次 #10\nMoonshot AI\n#27\nz~z.| OpenRank\n29 个仓库\n802 名关联开发者\n⼈数位次 #16\n代码侧参与位置更靠前；模型复⽤与采⽤，仍需联\n读模型榜和第五章。\n"
+  },
+  {
+    "number": "3-8",
+    "section": "3.3",
+    "old_figure": "fig-3-7-foundations",
+    "source_file": "GOSD_2026_Section_3-3_Review_v0.2.pdf",
+    "source_page": 1,
+    "source_sha256": "d1275948df4b3dc89145a553eaf4634918b4674cba57f0da242a1a3fb7790a33",
+    "figure_sha256": "6467fd8d8eaad7f875ad147a63139f93d8fad271eba6c7d5508384232305427c",
+    "text": "1\n全球基⾦会榜前 20 位\n名次/ 基⾦会\n所属国 / 标签\nOpenRank\n01\nLinux 基⾦会及⼦基⾦会\n美国\n196,128.27\n02\n开放原⼦开源基⾦会\n中国\n99,965.35\n03\nApache 软件基⾦会\n美国\n81,247.51\n04\nNixOS 基⾦会\n荷兰\n21,258.31\n05\nRust 基⾦会\n美国\n14,687.80\n06\nPython 软件基⾦会\n美国\n11,915.48\n07\nGodot 基⾦会\n荷兰\n5,866.91\n08\nRuby 基⾦会\n⽇本\n5,664.56\n09\nDuckDB 基⾦会\n荷兰\n2,784.56\n10\n连接标准联盟（CSA）\n美国\n2,004.52\n11\nPHP 基⾦会\n美国\n1,992.35\n12\nBevy 基⾦会\n美国\n1,804.98\n13\nGentoo 基⾦会\n美国\n1,735.37\n14\nTrino 基⾦会\n美国\n1,535.95\n15\nZig 软件基⾦会\n美国\n1,054.30\n16\nOpenInfra Foundation\n美国\n587.23\n17\nFree EBook 基⾦会\n美国\n408.75\n18\nFarama 基⾦会\n美国\n357.83\n19\nAnoma 基⾦会\n瑞⼠\n219.73\n20\nEclipse 基⾦会\n⽐利时\n111.19\n原榜数值保留；LF 为含⼦基⾦会的汇总，标签可能重叠，不以榜内相加值推算全球份额。\n2\n基⾦会的国别分布\n20 个榜单条⽬\n6 个国别\n美国 13\n中国 1\n荷兰3\n⽇本、瑞⼠、⽐利时各 1；灰⾊为未⼊榜。\n机构国别不代表项⽬贡献者的地理来源。\n3\n标签识别的项⽬组合\nLF 标签族\n181\n开放原⼦\n41\nApache\n25\n按项⽬标签去重；仅为数据库已识别项⽬，不是各基⾦\n会官⽅托管总数。\n4\n主期仓库覆盖的差异\n开放原⼦\n19,043 个\nLF 标签族\n2,981 个\nApache\n1,322 个\n平台＋仓库 ID 去重；仓库数不等于项⽬数。\n"
+  },
+  {
+    "number": "3-9",
+    "section": "3.3",
+    "old_figure": "fig-3-8-lf-subfoundations",
+    "source_file": "GOSD_2026_Section_3-3_Review_v0.2.pdf",
+    "source_page": 2,
+    "source_sha256": "d1275948df4b3dc89145a553eaf4634918b4674cba57f0da242a1a3fb7790a33",
+    "figure_sha256": "8e36cf48605f46a2c73246bf181a133c66b9bbbbc37b2285402744db50be1ec5",
+    "text": "1\nLF 旗下 13 个可观测⼦标签\n名次/ ⼦标签\nOpenRank\n仓库 / 个\n01\nCNCF\n67,362.8\n1,339\n02\nPyTorch\n48,055.4\n102\n03\nOpenJS\n24,702.6\n613\n04\nLF AI & Data\n7,937.5\n140\n05\nAAIF\n7,245.4\n55\n06\nRISC-V\n2,438.1\n103\n07\nOpenSSF\n2,286.7\n123\n08\nHyperledger¹\n2,086.0\n83\n09\nLF Edge\n1,235.1\n108\n10\nPresto\n1,005.0\n23\n11\nOpen 4D\n508.3\n20\n12\nLF Networking\n109.3\n21\n13\nFinOps\n8.6\n4\n¹ Hyperledger 沿⽤数据库标签名称。按当前标签回溯主期；AAIF 含期后加⼊项⽬，不能解释为全\n年托管绩效。\n2\n中位层：安全标签前移\n固定 13 标签样本内的⽉度名次\n6\n7\n8\n8\n6\n7\n07\n10\n01\n03\n06\nRISC-V\nOpenSSF\nHyperledger\n2025.07—2026.06；第 1 名更靠前。\n3\n核心仓库在不同组合中的分量\n标签内分值构成\n首位仓库\nCNCF\n5%\nkubernetes\nPyTorch\n39%\npytorch\nOpenJS\n15%\neslint\nLF AI & Data\n30%\nmilvus\nAAIF\n17%\ngoose\n首位\n第 2—3 位\n其余仓库\n4\n项⽬与仓库：两个尺度\n已识别项⽬标签/ 主期仓库数量\n⼦标签\n项⽬\n仓库\nCNCF\n70\n1,339\nOpenJS\n35\n613\nLF AI & Data\n37\n140\nPyTorch\n5\n102\nAAIF\n6\n55\n项⽬可包含多个仓库；项⽬标签尚未覆盖全部组织实体\n。\n"
+  },
+  {
+    "number": "3-10",
+    "section": "3.3",
+    "old_figure": "fig-3-9-aaif",
+    "source_file": "GOSD_2026_Section_3-3_Review_v0.2.pdf",
+    "source_page": 3,
+    "source_sha256": "d1275948df4b3dc89145a553eaf4634918b4674cba57f0da242a1a3fb7790a33",
+    "figure_sha256": "eae1ab63db7a2a266d10763005b75b3dde2097535e2977233be1db1946b9ab67",
+    "text": "1\n从 3 个创始项⽬，到 10 个公共组件\n3\n2025.12.09\nMCP · goose · AGENTS.md\n4\n2026.06.04\n加⼊ agentgateway\n6\n2026.09\nA\u001aA、Agent Router 加⼊\n10\n2026.10.22\n技能、模型接⼝、训练、沙箱\n主统计期内\n期后观察 · 截⾄ 2026.11.10\n2\n共同组件解决不同问题：功能地图\n● 主期已加⼊ ○ 期后加⼊\n指导与技能\n让经验能够携带与复⽤\nAGENTS.md\nOpenAI\nAgent Skills\nAnthropic\n协议与互通\n让⼯具、模型与 Agent 相连\nMCP\nAnthropic\nAHA\nGoogle\nOpen Responses\nOpenAI\n执⾏与沙箱\n让任务执⾏具备运⾏环境\ngoose\nBlock\nOpenSandbox\n阿⾥巴巴\n流量与运营\n统⼀连接、路由与访问管理\nagentgateway\nSolo.io\nAgent Router\nTetrate / Bloomberg\n训练与评测\n让训练任务与反馈可以复⽤\nOpenEnv\nHugging Face\n分类为报告分析；项⽬名称、贡献主体和加⼊信息依据官⽅资料，不表⽰强制技术依赖。\n3\n项⽬记录：协作变化并不同步\nOpenDigger 标签OpenRank · \u001a\u001a.\u001a →\u001a\u001a.\nMCP\n364.0 → 178.9\ngoose\n106.4 →27.7\nagentgateway\n20.9 → 34.5\nAGENTS.md\n3.4 → 未记录\n各趋势线独⽴尺度；AGENTS.md 末⽉缺记录，不补零。\n4\n从项⽬接收，⾛向持续维护\nSandbox\n可运⾏实现、维护者与开放流程\nGrowth\n⾄少 2 家⽆关联组织的⽣产使⽤\nImpact\n稳定采⽤与持续维护能力\n现⾏⽣命周期政策：2026.10.15 更新。\n"
+  },
+  {
+    "number": "3-11",
+    "section": "3.4",
+    "old_figure": "fig-3-10-project-global",
+    "source_file": "GOSD_2026_Section_3-4_Review_v0.2.pdf",
+    "source_page": 1,
+    "source_sha256": "b6c596f25d25c1e2465d85e903a8bd48ae94cf07db2034d80aefe26d6a5fbf84",
+    "figure_sha256": "284f9a815bbe14911e9a0fe43eecbdcaef49e81209d497adfdba9605a0e7bd6f",
+    "text": "1\n全球项⽬影响力前 20 位\n名次/ 项⽬\nOpenRank\n参与账号 / 个\n组织国别\n01\nOpenHarmony\n75,809.4\n12,640\n中国\n02\nAzure\n29,382.1\n10,544\n美国\n03\nC#/.Net\n26,437.8\n8,758\n美国\n04\nPyTorch\n24,785.2\n4,806\n美国\n05\nNixOS\n21,258.3\n7,606\n荷兰\n06\nLLVM\n20,026.4\n4,889\n美国\n07\nvLLM\n19,532.1\n8,612\n美国\n08\nopenEuler\n18,950.5\n9,039\n中国\n09\nDataDog\n16,551.2\n3,250\n美国\n10\nOpenShift\n16,465.9\n2,134\n美国\n11\nVSCode\n15,422.3\n24,897\n美国\n12\nOpenClaw\n14,842.3\n19,318\n未识别\n13\nCANN\n14,719.5\n5,460\n中国\n14\nRust\n14,687.8\n4,729\n美国\n15\nAscend\n12,973.3\n5,798\n中国\n16\nHome Assistant\n12,840.5\n16,046\n美国\n17\nOdoo\n12,357.5\n1,716\n⽐利时\n18\nPython\n11,915.5\n3,397\n美国\n19\nJavaScript/TypeScript\n11,640.4\n3,812\n未识别\n20\nSwift\n11,020.9\n1,174\n美国\n参与账号为榜表关联开发者字段；不等于员⼯或代码作者。\n2\n项⽬组织的国别分布\n100 强：91 项国别可识别 · 覆盖 12 国\n美国 69\n微软 / PyTorch\n基⾦会\n荷兰 3\nNixOS 基⾦会\n中国 7\n开放原⼦ / 华为\n1\n7\n69\n项⽬数 / 国别\n按榜表组织标签；含发起⽅或托管⽅。\n灰⾊为未列明，⾮贡献者所在地。\n3\n100 强席位与排名梯次\n美国\n69\n中国\n7\n荷兰\n3\n德国\n3\n其他8 国\n9\n未识别\n9\n每格1 项；按全球名次从左⾄右、逐⾏排列。\n国别 / 排名\n1—10\n11—30\n31—100\n美国\n7\n13\n49\n中国\n2\n2\n3\n荷兰\n1\n0\n2\n德国\n0\n1\n2\n其他 8 国\n0\n1\n8\n未识别\n0\n3\n6\n4\n榜内分值结构 · 前十名占三分之⼀\n33.6%\n前 10 名 / 100 强 OpenRank 合计\n9.5%\n12.7%\n11.4%\n27.7%\n38.7%\n第 1 名\n第 2—5 名\n第 6—10 名\n第 11—30 名\n第 31—100 名\n"
+  },
+  {
+    "number": "3-12",
+    "section": "3.4",
+    "old_figure": "fig-3-11-project-china",
+    "source_file": "GOSD_2026_Section_3-4_Review_v0.2.pdf",
+    "source_page": 2,
+    "source_sha256": "b6c596f25d25c1e2465d85e903a8bd48ae94cf07db2034d80aefe26d6a5fbf84",
+    "figure_sha256": "3373357f72b4a8bba70c5d17009cd39a0c9a7735e6e97a4893780459610c6865",
+    "text": "1\n中国项⽬影响力前 20 位\n名次/ 项⽬\nOpenRank\n参与账号 / 个\n全球名次\n01\nOpenHarmony\n75,809.4\n12,640\n1\n02\nopenEuler\n18,950.5\n9,039\n8\n03\nCANN\n14,719.5\n5,460\n13\n04\nAscend\n12,973.3\n5,798\n15\n05\nMindSpore\n7,321.5\n3,109\n33\n06\nPaddlePaddle\n6,567.1\n2,135\n37\n07\nCangjie\n4,806.2\n3,347\n51\n08\nAnt Design\n2,657.1\n2,370\n109\n09\nopenGauss\n2,459.6\n685\n122\n10\n魔搭\n2,370.0\n2,488\n131\n11\nTiDB\n2,255.3\n446\n137\n12\nverl\n2,247.8\n2,297\n138\n13\n8Panel\n2,002.1\n1,084\n150\n14\nopenKylin\n1,757.7\n582\n172\n15\nStarRocks\n1,716.0\n568\n177\n16\nRAGFlow\n1,595.3\n1,342\n187\n17\n香⼭处理器\n1,434.4\n206\n202\n18\n⻰蜥\n1,384.5\n326\n210\n19\nCoze\n1,306.7\n1,565\n216\n20\nFlagOS\n1,305.9\n470\n217\n参与账号为榜表关联开发者字段；不等于员⼯或代码作者。\n2\n七个百强席位的技术层次\n全球名次：2 项前十 · 4 项前三十\n项⽬\n主领域\n全球\nOpenHarmony\n操作系统\n1\nopenEuler\n操作系统\n8\nCANN\nAI 计算栈\n13\nAscend\nAI 计算栈\n15\nMindSpore\nAI 框架\n33\nPaddlePaddle\nAI 框架\n37\nCangjie\n编程语⾔\n51\n七席集中于系统、AI 计算与语⾔；\n应⽤与⼯具项⽬构成下⼀梯次。\n3\n组织承载：头部与专业主体\n中国前 30 名 · 项⽬数 / 项\n华为\n6\n开放原⼦\n5\n字节跳动\n4\n蚂蚁集团\n3\n阿⾥巴巴\n3\n其他/ 未识别\n9\n“其他 / 未识别”含 7 项其他机构、2 项组织未识别；按\n榜表组织标签汇总。\n4\n=> / >@：AI 项⽬覆盖三类关键环节\n算力与框架\n5\nCANN、Ascend、MindSpore、PaddlePaddle、FlagOS\n模型与后训练\n4\n魔搭、verl、ms-swift、inclusionAI\n应⽤与智能体\n4\nRAGFlow、Coze、AgentScope、DeerFlow\n"
+  },
+  {
+    "number": "3-13",
+    "section": "3.4",
+    "old_figure": "fig-3-12-project-features",
+    "source_file": "GOSD_2026_Section_3-4_Review_v0.2.pdf",
+    "source_page": 3,
+    "source_sha256": "b6c596f25d25c1e2465d85e903a8bd48ae94cf07db2034d80aefe26d6a5fbf84",
+    "figure_sha256": "53574fa6e1a279ca8b589e7687b5892c0d33cac32253756eca1c6abaf22ff6ae",
+    "text": "1\n技术结构：AI 与基础软件共同在场\n按主要⽤途，每项只归⼊⼀类；两榜各 30 项\n全球前 30\n中国前 30\nAI 与机器学习\n8\n13\n编程语⾔与运⾏时\n5\n1\n开发⼯具与框架\n4\n2\n云原⽣与基础设施\n4\n3\n操作系统与硬件\n3\n5\n数据与分析\n0\n6\n可观测性与安全\n2\n0\n企业应⽤与协作\n2\n0\n物联⽹与边缘\n2\n0\n项⽬数 / 项\n2\n组织承载形式的对照\n按榜表组织名称归类；颜⾊对应下⽅两榜。\n横条按各榜项⽬数量计算占⽐。\n企业及其他机构\n64/100 · 64.0%\n23/30 · 76.7%\n基⾦会\n22/100 · 22.0%\n5/30 · 16.7%\n⾼校\n4/100 · 4.0%\n0/30 · 0.0%\n未识别\n10/100 · 10.0%\n2/30 · 6.7%\n全球 100 强\n中国前 30\n3\n参与规模与⽹络影响：两个观察维度\n每点1 项 · 中国 7 项突出显⽰；两轴均为等⽐刻度\n3千\n1万\n3万\n8万\n500\n2千\n1万\n3万\nOpenHarmony\nPyTorch\nVSCode\nClaude Code\nOpenRank\n参与账号数 / 个 · 原榜字段\n4\n“项⽬”还包含不同聚合层次\n两榜各 30 项；按对象定义归类。\n横条均以30 项为分⺟。\n软件项⽬\n如 vLLM、verl\n5 项\n9 项\n项⽬⽣态\n如 PyTorch、OpenHarmony\n18 项\n17 项\n项⽬集合\n如Azure、Ascend、魔搭\n7 项\n4 项\n规模差异须结合仓库范围理解；\n不宜⽤分值除以⼈数直接评判效率。\n"
+  },
+  {
+    "number": "3-14",
+    "section": "3.4",
+    "old_figure": "fig-3-13-project-connections",
+    "source_file": "GOSD_2026_Section_3-4_Review_v0.2.pdf",
+    "source_page": 4,
+    "source_sha256": "b6c596f25d25c1e2465d85e903a8bd48ae94cf07db2034d80aefe26d6a5fbf84",
+    "figure_sha256": "569488f2f9cba1251c51f8fec5730000501642ef206d7d36de574b5a99c2bd22",
+    "text": "1\n六个社区的跨项⽬参与连接\n同⽉进⼊两个项⽬⾼活跃样本的去重账号数\nPyTorch\n1\nvLLM\n2\nSGLang\n3\nLangChain\n4\nDify\n5\nK-s\n6\n—\n16\n1\n6\n1\n1\n16\n—\n21\n11\n4\n2\n1\n21\n—\n2\n1\n0\n6\n11\n2\n—\n15\n1\n1\n4\n1\n15\n—\n0\n1\n2\n0\n1\n0\n—\n连接较多\n21\nvLLM / SGLang\n16\nPyTorch / vLLM\n15\nLangChain / Dify\n列号与⾏序⼀致；K-s 为 Kubernetes。\n2\n⾼活跃样本中的持续出现\n年度样本账号数及其中出现 9—12 ⽉的占⽐\n1—2 ⽉\n3—5 ⽉\n6—8 ⽉\n9—12 ⽉\n项⽬/ 年度样本\n9—12 ⽉占⽐\nPyTorch\n369\n9.8%\nvLLM\n514\n4.9%\nSGLang\n507\n4.5%\nLangChain\n885\n0.7%\nDify\n665\n1.4%\nK-s\n430\n7.0%\n每仓每⽉⾄多 100 个公开账号，经机器⼈过滤；\n这些占⽐描述样本持续出现，不是整体留存率。\n3\nverl：把训练与⽣成引擎连接起来\n字节跳动发起 · 中国榜第 12；后训练指模型初步训练后进⼀步改善回答与\n任务能力。\n训练引擎\n⽣成引擎\nFSDP\nvLLM\nFSDP7\nSGLang\nMegatron-LM\nTransformers\nverl\n组织后训练流程\n模型⼊⼝\nQwen、Llama、Gemma、DeepSeek\n硬件⼊⼝\nNVIDIA、AMD、昇腾\n为⽂档明确列举的⽀持项；具体引擎与硬件组合各有条件。\n4\n昇腾：⽤适配层接⼊ PyTorch\ntorch_npu 将昇腾接⼊ PyTorch；NPU 指⽤于\n神经⽹络计算的处理器。\nCANN\ntorch_npu\nPyTorch\nCANN Y.Z.Z 对应的四组版本记录\nPyTorch\ntorch_npu\n2.10.0\n2.10.0\n2.9.0\n±.².³.post±\n2.8.0\n±.-.³.post´\n2.7.1\n±.µ.¶.post´\n官⽅README 固定版本：2026-06-16。\n"
+  },
+  {
+    "number": "3-15",
+    "section": "3.5",
+    "old_figure": "fig-3-14-emerging-repositories",
+    "source_file": "GOSD_2026_Section_3-5_Review_v0.2.pdf",
+    "source_page": 1,
+    "source_sha256": "c09cfcef0ac000d51906be8e916f553e3b25445d94e10d4304c66dd4b2b8da29",
+    "figure_sha256": "f38c68ca3612bed574f7529e9e6a9f790c3a16c6453c02ecbef9c74203e0b909",
+    "text": "1\n新仓库影响力前 20 位\n名次/ 仓库\nOpenRank\n参与账号 / 个\n平台\n01\nopenclaw/openclaw\n7,047.5\n18,624\nGitHub\n02\ncann/ops-transformer\n2,607.1\n1,010\nAtomGit\n03\ncann/ops-nn\n2,146.4\n1,006\nAtomGit\n04\nAscend/pytorch\n1,919.1\n1,050\nAtomGit\n05\nMindSpore / mindspore\n1,823.2\n1,711\nAtomGit\n06\nNousResearch/hermes-agent\n1,765.4\n3,960\nGitHub\n07\ncann/pypto\n1,224.2\n431\nAtomGit\n08\ncann/ops-math\n1,096.6\n713\nAtomGit\n09\nlangchain-ai/deepagents\n1,017.2\n786\nGitHub\n10\nOpenHarmony · 媒体库\n904.7\n235\nAtomGit\n11\nIBM · Git / GitHub ⼊门\n883.1\n2,223\nGitHub\n12\ncann/asc-devkit\n879.2\n480\nAtomGit\n13\nOpenHarmony · 应⽤运⾏时\n769.2\n408\nAtomGit\n14\naden-hive/hive\n769.2\n1,454\nGitHub\n15\ncann/runtime\n761.1\n347\nAtomGit\n16\nAscend/ModelZoo-PyTorch\n704.0\n863\nAtomGit\n17\nvllm-project/vllm-omni\n703.1\n539\nGitHub\n18\nAscend/mind-cluster\n691.5\n279\nAtomGit\n19\nFacepunch/sbox-public\n687.7\n695\nGitHub\n20\ncann/hcomm\n684.7\n292\nAtomGit\n参与账号沿⽤榜表字段；不等于代码作者或持续维护者。\n2\n技术构成：底层组件居多\n前 30 仓 · 每仓按主要⽤途归⼊⼀类\nAI 基础软件\n18\n智能体与⼯具\n4\n系统与终端\n3\n桌⾯与开发⼯具\n2\n教育与开发服务\n2\n应⽤与游戏\n1\n22 / 30\nAI 基础软件与智能体\n两类合计占 73.3%，覆盖计算与使⽤⼊⼝。\n3\n平台与组件群的协作位置\nAtomGit\n20\nGitHub\n10\n每格 1 仓，依榜单顺序；平台不代表国别。\nAtomGit 的 20 个⼊榜仓库分属\nCANN\n8\nAscend\n8\nOpenHarmony\n3\nMindSpore\n1\n多个组件可以属于同⼀软件体系；\n仓库席位不等于独⽴项⽬个数。\n4\n头部影响集中，也有多种建设⼊⼝\n43.9%\n前 5 仓 / 30 仓 OpenRank 合计\n19.9%\n24.0%\n17.0%\n39.1%\n第 1 名\n第 2—5 名\n第 6—10 名\n第 11—30 名\n"
+  },
+  {
+    "number": "3-16",
+    "section": "3.5",
+    "old_figure": "fig-3-15-emerging-projects",
+    "source_file": "GOSD_2026_Section_3-5_Review_v0.2.pdf",
+    "source_page": 2,
+    "source_sha256": "c09cfcef0ac000d51906be8e916f553e3b25445d94e10d4304c66dd4b2b8da29",
+    "figure_sha256": "73f85143a295d0a335400082d9355ae436773cd4e7cfac148138f7d27b1c5b5b",
+    "text": "1\n新项⽬影响力前 20 位\n名次/ 项⽬\nOpenRank\n参与账号 / 个\n仓库 / 个\n01\nCANN\n14,719.5\n5,460\n68\n02\nHermes Agent\n1,765.4\n3,960\n1\n03\nDeepAgents\n1,017.2\n786\n1\n04\nZeroClaw\n877.0\n819\n2\n05\nPaperclip\n778.1\n1,077\n7\n06\nvLLM-Omni\n703.1\n539\n1\n07\nRLinf\n661.9\n231\n4\n08\nCLIProxyAPI\n617.4\n1,292\n9\n09\nOpenViking\n595.7\n635\n1\n10\nPi Mono\n588.0\n1,152\n1\n11\nHive\n587.1\n434\n2\n12\nCC Switch\n528.5\n1,512\n1\n13\nOh My OpenAgent\n519.5\n1,358\n1\n14\nAstron\n502.9\n236\n2\n15\nLark CLI\n429.3\n659\n1\n16\nNanobot\n427.9\n941\n1\n17\nBeads\n389.7\n726\n1\n18\nQwenPaw\n377.9\n884\n1\n19\nSpec Kit\n349.3\n1,058\n1\n20\nMultica\n302.6\n346\n2\n参与账号沿⽤榜表字段；不等于代码作者或持续维护者。\n2\n组织国别：已识别与未识别\n30 项中 13 项可识别；17 项未识别\n美国 6 项\n中国7 项\n中国\n7\n美国\n6\n未识别\n17\n每格 1 项，按排名排列；国别按组织标签，\n不表⽰贡献者位置或未识别项缺乏组织。\n3\n新项⽬的主要⽤途\n智能体与⼯具\n25 项\nHermes Agent、DeepAgents\n执⾏任务、记忆与⼯作流协作\nAI 基础软件\n4 项\nCANN、vLLM-Omni、RLinf\n计算⽀撑、多模态推理与训练\n教育与开发服务\n1 项\nGitHub Spec Kit\n规范驱动的开发⼯具\n项⽬榜平台：GitHub  项、AtomGit  项。\n4\n项⽬聚合改变了观察尺度\n项⽬数\n单仓 20 项\n多仓 10 项\n分值占⽐\n32.5%\n67.5%\n多仓项⽬包括 CANN（ 仓）、CLIProxyAPI（ 仓）、Paperclip（  仓）。\n"
+  },
+  {
+    "number": "3-17",
+    "section": "3.5",
+    "old_figure": "fig-3-16-cann-multirepository",
+    "source_file": "GOSD_2026_Section_3-5_Review_v0.2.pdf",
+    "source_page": 3,
+    "source_sha256": "c09cfcef0ac000d51906be8e916f553e3b25445d94e10d4304c66dd4b2b8da29",
+    "figure_sha256": "966f9300c3f316db7eb120b6c1afda00e6b529cd37ff22500a156f6b93204717",
+    "text": "1\n68 仓构成：从头部组件到⻓尾\n14,719.47\n主期项⽬ OpenRank\n前 12 仓占 77.4% · 其余 56 仓占 22.6%\nops-transformer\n17.7%\nops-nn\n14.6%\npypto\n8.3%\nops-math\n7.4%\nasc-devkit\n6.0%\nruntime\n5.2%\nhcomm\n4.7%\nge\n4.3%\ncann-recipes-infer\n2.8%\nascend-transformer-boost\n2.3%\npto-isa\n2.1%\nhccl\n2.1%\n按仓库 ID 去重；改名记录合并，分⺟为完整 68 仓。\n2\n软件栈：让模型连接算力\nCANN 连接 AI 框架与昇腾处理器；\n下⾯呈现主要功能分⼯及代表仓库。\n上层框架与应⽤：PyTorch、vLLM 等\n加速库｜复⽤计算与通信组件\n算⼦ ops-nn / ops-transformer；通信 hcomm / hccl\n编程与编译｜⽀持定制计算\nasc-devkit / pypto / pto-isa\n图、运⾏时与驱动｜组织程序执⾏\nge / runtime / driver\n昇腾 AI 处理器\n3\n影响扩⼤与参与⼊⼝增多\n⽉度OpenRank\n7—10 ⽉：期后观察\n0\n2000\n4000\n3,520\n4,856\n有影响力记录的仓库数 / 个\n1\n29\n63\n90\n25.08\n25.12\n26.04\n26.06\n26.10\n6 ⽉→10 ⽉：OpenRank +no.p%；⽉度仓库63 →90。\n4\n跨仓协作如何接续公共能力\n5,282\n主期去机器⼈协作账号\n其中 1,868 个参与 ≥2 仓，占 35.4%\n1 仓 3,414\n2—3 仓 1,313\n≥4 仓 555\n连续建设还需要可进⼊、可验证、可维护\n使⽤⼊⼝\nCANNLab 免费算力；Samples ⽰例\n质量反馈\nCANNBench 评测；Issue / PR 协作\n共同治理\n技术指导、项⽬管理、特别兴趣组\n主页设施为2026-11-10 观察；开放⼊⼝不等于\n已经实现普惠，仍需跟踪成本、维护和复⽤结果。\n"
+  },
+  {
+    "number": "3-18",
+    "section": "3.6",
+    "old_figure": "fig-3-17-model-global",
+    "source_file": "GOSD_2026_Section_3-6_Review_v0.2.pdf",
+    "source_page": 1,
+    "source_sha256": "921b79bf665855ec217cfe0d5e725058e054a2ed9f410adef718a10488b511c7",
+    "figure_sha256": "e0636088a987e9378d6f20a67ffb16f6d3fc6da487f918b1d22d4d144b128e07",
+    "text": "1\n全球模型影响力前 20 位\n名次/ 模型版本\n发布账⼾\nModelRank\n01\nFLUX.\u0013-dev\nBFL\n19,362.3\n02\nstable-diﬀusion-xl-base-\u0013.'\nStability AI\n14,365.8\n03\nQwen-..-/B\nQwen\n13,908.8\n04\nKrea-*-Turbo\nkrea\n13,586.0\n05\nKrea-*-Raw\nkrea\n12,488.3\n06\nQwen*.2-3B-Instruct\nQwen\n12,230.3\n07\nLlama-8.9-:B\nMeta Llama\n9,868.4\n08\nLlama-8.9-:B-Instruct\nMeta Llama\n9,476.8\n09\nsmolvla_base\nLeRobot\n8,223.1\n10\nQwen*.2-3B-Instruct\nUnsloth\n7,912.5\n11\nQwen8.2-@B\nQwen\n7,777.3\n12\nQwen8.2-@B-Base\nQwen\n7,403.0\n13\nQwen*.2-VL-8B-Instruct\nQwen\n6,966.6\n14\nIllustrious-xl-early-release-vC\nOnoma AI\n6,707.5\n15\nQwen8-:B-Base\nQwen\n6,591.9\n16\nQwen*.2-9.2B\nQwen\n6,208.6\n17\nQwen8-:B\nQwen\n6,186.4\n18\nQwen8.E-*3B\nQwen\n6,035.4\n19\ngemma-G-9*B\nGoogle\n6,033.5\n20\ngemma-G-9*B-it\nGoogle\n6,026.7\n分值：2026 年 6 ⽉来源归⼀化结果；不等于模型能力测试。\n2\n发布组织的世界分布\n94 席归属可识别 · 8 个国家\n美国 50\n中国 37\n欧洲4：法2、英德各1\n1\n2\n37\n50\n席 / 国家\n韩国、以⾊列、阿联酋各 1 席。\n按组织归属；灰⾊为未列明。\n3\n百强席位与排名梯次\n美国\n50\n中国\n37\n法国\n2\n英国、德国\n2\n其他 3 国\n3\n未识别\n6\n每格 1 个版本，按全球名次逐⾏排列。\n组织国别\n1—10\n11—30\n31—100\n美国\n6\n4\n40\n中国\n2\n14\n21\n法国\n0\n0\n2\n英国、德国\n2\n0\n0\n其他 3 国\n0\n1\n2\n未识别\n0\n1\n5\n4\n百强任务结构· 语⾔之外的复⽤节点\n⽂本⽣成\n38\n图⽂输⼊转⽂本\n20\n⽂本⽣成图像\n6\n跨模态转换\n6\n语⾳识别\n6\n零样本图像分类\n6\n填词预测\n4\n句⼦相似度\n4\n特征提取\n3\n机器⼈\n1\n图像⽣成视频\n1\n未标注任务\n5\n"
+  },
+  {
+    "number": "3-19",
+    "section": "3.6",
+    "old_figure": "fig-3-18-model-china",
+    "source_file": "GOSD_2026_Section_3-6_Review_v0.2.pdf",
+    "source_page": 2,
+    "source_sha256": "921b79bf665855ec217cfe0d5e725058e054a2ed9f410adef718a10488b511c7",
+    "figure_sha256": "f0e38e3bff8b57b30dff93616b83b66d5e98db1bb972a3111d37b656de7451d1",
+    "text": "1\n中国发布模型 · 百强内前 20 位\n榜内序 / 模型版本\n全球名次\nModelRank\n01\nQwen\u0015.\u0017-\u0019B\n3\n13,908.8\n02\nQwen\u0015.\u0017-\u0019B-Instruct\n6\n12,230.3\n03\nQwen&.\u0017-'B\n11\n7,777.3\n04\nQwen\u001e. -\"B-Base\n12\n7,403.0\n05\nQwen(. -VL-\u001eB-Instruct\n13\n6,966.6\n06\nQwen\u001e-2B-Base\n15\n6,591.9\n07\nQwen(. -3. B\n16\n6,208.6\n08\nQwen\u001e-2B\n17\n6,186.4\n09\nQwen\u001e.5-(6B\n18\n6,035.4\n10\nQwen(. -\u001eB\n21\n5,836.7\n11\nQwen(. -3. B-Instruct\n25\n5,071.0\n12\nQwen\u001e-7.5B-Base\n26\n4,990.5\n13\nQwen\u001e.5-\u001e B-A\u001eB\n27\n4,871.1\n14\nQwen\u001e-9B-Instruct-( 76\n28\n4,760.2\n15\nQwen\u001e. -9B\n29\n4,573.4\n16\nQwen\u001e. -9B-Base\n30\n4,483.8\n17\nQwen\u001e-9B-Base\n31\n4,123.9\n18\nQwen(. -\u001eB-Instruct\n32\n4,103.6\n19\nQwen\u001e-9B\n42\n3,346.0\n20\nQwen(. -7. B\n43\n3,322.7\n分值：2026 年 6 ⽉来源归⼀化结果；不等于模型能力测试。\n2\n两类发布主体的供给\nQwen \u001e5 席 · 智源 BAAI 3 席\n北京 · 智源 BAAI\n杭州· 阿⾥巴巴\nQwen：企业发布的通⽤模型系列\nBAAI：⾮营利研究机构的检索底座\n地点为组织节点，不代表模型研发全址。\n3\n任务布局与专⻓\n⽂本⽣成\n22 席\n图⽂输⼊转⽂本\n13 席\n特征提取\n1 席\n句⼦相似度\n1 席\nbge-m&\n全球第 51\n把⽂字转为可⽐较的表⽰，⽀撑检索；\n与通⽤⽣成模型形成任务互补。\n4\nQwen 的36 席：多代并存，⼩规模居多\n系列/ 型号规模\n≤3B\n3—37B\n>37B\n合计\nQwen(. \n2\n10\n0\n12\nQwen\u001e\n3\n8\n2\n13\nQwen\u001e. \n2\n6\n1\n9\nQwen\u001e.5\n0\n0\n2\n2\n"
+  },
+  {
+    "number": "3-20",
+    "section": "3.6",
+    "old_figure": "fig-3-19-qwen-deepseek",
+    "source_file": "GOSD_2026_Section_3-6_Review_v0.2.pdf",
+    "source_page": 3,
+    "source_sha256": "921b79bf665855ec217cfe0d5e725058e054a2ed9f410adef718a10488b511c7",
+    "figure_sha256": "90800bb329ce00b322f412bc7cb86c6a6b151f316857a3728fc7167c0dd9a68c",
+    "text": "1\n两种采⽤路径：模型规模不同\nATOM · \u0007\b\u0007\t.\u000b\u000b—\u0007\b\u0007\r.\b\t · 开放语⾔模型\n⼩于10B 组：Qwen\n44%\n占该规模组累计下载；每条的分⺟各⾃独⽴。\n\u0019\u001a\u001bB 以上组：DeepSeek\n47%\n占该规模组累计下载；每条的分⺟各⾃独⽴。\n31.1%\nDeepSeek 的调⽤份额\n\u0007\b\u0007\r.\b\u000b · OpenRouter 每⽉前十开放模型\n样本的 token（⽂本处理单位）份额。\n2\nQwen 底座的社区接续\nHF 夏季报告 · 期后发布的独⽴观察\n151,448\n个社区衍⽣仓库\n是下游改造与再发布，并⾮Qwen ⾃⾏发布。\nGGUF 转换仓库\n28,531\nQwen 官⽅54\n其他账⼾28,477\n99.8% 由⾮ Qwen 账⼾发布\nGGUF：常⽤于本地运⾏的模型⽂件格式。\n3\n蒸馏：推理样本与基础权重相结合\nDeepSeek-RY\n⽣成训练⽤的推理样本\nQwen\u0019.\u001a 系列\n4 个基础模型版本\nLlama ` 系列\n2 个基础模型版本\nRY-Distill-Qwen\n\u000b.lB / oB / \u000bpB / \t\u0007B\nRY-Distill-Llama\nqB / o\bB\n权重\n权重\n样本\n后续接续：RY-\u001b\u001a\u0019e 推理样本 + Qwen`-eB-Base\n→ DeepSeek-R\u000b-\bl\u0007q-Qwen\t-qB（\u0007\b\u0007l.\bl）\n4\n跨账⼾复⽤，跨境接续\n同⼀ Qwen 底座，在两种发布位置出现\nQwen · 中国\nQwen\u0007.l-oB-Instruct\n全球第 6 · ModelRank \u000b\u0007,\u0007\t\b.\t\n声明的底座关系\nUnsloth · 美国\nQwen\u0007.l-oB-Instruct\n全球第10 · ModelRank o,\u000b\u0007.l\n训练适配与分发也形成⽹络位置。\n不能把再发布归属改写为底座来源。\n"
+  }
+]

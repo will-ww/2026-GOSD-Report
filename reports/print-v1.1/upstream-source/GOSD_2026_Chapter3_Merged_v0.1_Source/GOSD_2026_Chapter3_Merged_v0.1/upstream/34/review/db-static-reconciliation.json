@@ -1,0 +1,11 @@
+{
+  "global100_count": 100,
+  "mismatches": [],
+  "main_window": [
+    "2025-07-01",
+    "2026-06-30"
+  ],
+  "read_date": "2026-11-10",
+  "label_mapping": "current flattened labels",
+  "note": "分值与100名顺序逐项核对；不是参与人数或历史组织身份独立复核"
+}

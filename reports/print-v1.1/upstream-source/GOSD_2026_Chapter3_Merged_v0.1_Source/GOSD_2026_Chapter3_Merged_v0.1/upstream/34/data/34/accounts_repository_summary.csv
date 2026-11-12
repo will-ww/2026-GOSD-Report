@@ -1,0 +1,7 @@
+repository,annual_unique_logins,months_1_2,months_3_5,months_6_8,months_9_12,high_frequency_share
+pytorch/pytorch,369,242,68,23,36,0.09756098
+vllm-project/vllm,514,396,71,22,25,0.04863813
+sgl-project/sglang,507,384,74,26,23,0.04536489
+langchain-ai/langchain,885,862,15,2,6,0.00677966
+langgenius/dify,665,594,45,17,9,0.01353383
+kubernetes/kubernetes,430,307,58,35,30,0.06976744

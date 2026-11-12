@@ -1,0 +1,38 @@
+{
+  "agent_pr_share": [
+    {
+      "period": "2026-03",
+      "value": 17,
+      "relation": "="
+    },
+    {
+      "period": "2026-09",
+      "value": 40,
+      "relation": ">"
+    }
+  ],
+  "copilot_active_users_agentic_share": [
+    {
+      "period": "prior-year observation",
+      "value": 35
+    },
+    {
+      "period": "2026 report observation",
+      "value": 55
+    }
+  ],
+  "nvidia_sample_records": [
+    {
+      "model": "Qwen2.5-Math-7B-Instruct",
+      "count": 19840970
+    },
+    {
+      "model": "Qwen2.5-Coder-32B-Instruct",
+      "count": 8917167
+    },
+    {
+      "model": "DeepSeek-R1",
+      "count": 1212994
+    }
+  ]
+}

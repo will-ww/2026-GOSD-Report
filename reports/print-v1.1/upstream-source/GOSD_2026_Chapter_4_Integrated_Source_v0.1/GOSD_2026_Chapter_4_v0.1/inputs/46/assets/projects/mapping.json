@@ -1,0 +1,113 @@
+[
+  {
+    "repo": "pytorch/pytorch",
+    "repo_id": "65600975",
+    "upstream_name": "PyTorch",
+    "logo": "assets/pytorch-logo.svg",
+    "type": "upstream project mark",
+    "source": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/pytorch-logo.svg",
+    "sha256": "4cbcf1c5a2dac51d806b8b77e75bc16928d68e7285f4976f51038c3daf19015e"
+  },
+  {
+    "repo": "pytorch/ao",
+    "repo_id": "714073518",
+    "upstream_name": "torchao",
+    "logo": "assets/PyTorch_Project_torchao.svg",
+    "type": "upstream project mark",
+    "source": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/PyTorch_Project_torchao.svg",
+    "sha256": "c003dde8187b3704caf872e2640e7c094417250badf4dd8566e0f9a0a9a0ed29"
+  },
+  {
+    "repo": "pytorch/helion",
+    "repo_id": "970899748",
+    "upstream_name": "Helion",
+    "logo": "assets/helion.svg",
+    "type": "upstream project mark",
+    "source": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/helion.svg",
+    "sha256": "322e2fe5e19debd3a8da5c39cfe00498d6e48eeb6abeba6eb95f218cf3ad7578"
+  },
+  {
+    "repo": "pytorch/vision",
+    "repo_id": "73328905",
+    "upstream_name": "torchvision",
+    "logo": "assets/PyTorch_Project_torchvision.svg",
+    "type": "upstream project mark",
+    "source": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/PyTorch_Project_torchvision.svg",
+    "sha256": "efddb237e0b95e9f8f49ab0f9288331aaf995c6d78be245e34442a65a24036e1"
+  },
+  {
+    "repo": "pytorch/TensorRT",
+    "repo_id": "246634306",
+    "upstream_name": "Torch-TensorRT",
+    "logo": "assets/TensorRT.svg",
+    "type": "upstream project mark",
+    "source": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/TensorRT.svg",
+    "sha256": "4f989a93ed1d94f385ea087a6a53af31aae2cfa48f9a45074b22f49322f0391b"
+  },
+  {
+    "repo": "pytorch/xla",
+    "repo_id": "156293205",
+    "upstream_name": "PyTorchXLA",
+    "logo": "assets/PyTorch_Project_xla.svg",
+    "type": "upstream project mark",
+    "source": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/PyTorch_Project_xla.svg",
+    "sha256": "ac8854a605886bc368794a512167b9e1dd2effa20e6726f128b3110f8fb6763b"
+  },
+  {
+    "repo": "pytorch/rl",
+    "repo_id": "454479855",
+    "upstream_name": "torchrl",
+    "logo": "assets/PyTorch_Project_torchrl.svg",
+    "type": "upstream project mark",
+    "source": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/PyTorch_Project_torchrl.svg",
+    "sha256": "834caac57756fafa5bd9ff74f6e9ad2eeaf9a6a348ee8ca1072262b76efb00ba"
+  },
+  {
+    "repo": "pytorch/audio",
+    "repo_id": "90321822",
+    "upstream_name": "torchaudio",
+    "logo": "assets/PyTorch_Project_torchaudio.svg",
+    "type": "upstream project mark",
+    "source": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/PyTorch_Project_torchaudio.svg",
+    "sha256": "71b57d2dd9dc0115ae3528db4bb81f387843faf34e6a350645ffcde4a0127614"
+  },
+  {
+    "repo": "pytorch/tensordict",
+    "repo_id": "554065369",
+    "upstream_name": "tensordict",
+    "logo": "assets/PyTorch_Project_tensordict.svg",
+    "type": "upstream project mark",
+    "source": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/PyTorch_Project_tensordict.svg",
+    "sha256": "87bc4ff3d74ae088c75a5dbd1fae97bf82cedb6548ebb428982abf2cfbe3f3fb"
+  },
+  {
+    "repo": "pytorch/ignite",
+    "repo_id": "111835796",
+    "upstream_name": "Ignite",
+    "logo": "assets/ignite_mixed.svg",
+    "type": "upstream project mark",
+    "source": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/ignite_mixed.svg",
+    "sha256": "47603e2bf346c493938f986a2d7068a26d0b704be61a2fb9efdac91ea672d8c1"
+  },
+  {
+    "repo": "pytorch/executorch",
+    "logo": "assets/pytorch__executorch_et-logo.png",
+    "type": "official README project mark",
+    "source": "https://raw.githubusercontent.com/pytorch/executorch/75af78c46f465301673b03b03ed028da25871eae/docs/source/_static/img/et-logo.png",
+    "sha256": "6c8ba2ba91b505245dccb8d4d97f6f7032da3e7bedee2e2d94477cba1256b5ed"
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "logo": "assets/pytorch__torchtitan_torchtitan-rectangle-torch-black.svg",
+    "type": "official README project mark",
+    "source": "https://raw.githubusercontent.com/pytorch/torchtitan/f5488516abe1b8879bc2157715a3a42a7cc55f45/assets/images/logo/torchtitan-rectangle-torch-black.svg",
+    "sha256": "9979ef61fa21bace22d31cd2407bb98c8df3edf592531e9f654691c80d535e89"
+  },
+  {
+    "repo": "meta-pytorch/torchcomms",
+    "logo": "assets/meta-pytorch__torchcomms_logo-light.png",
+    "type": "official README project mark",
+    "source": "https://raw.githubusercontent.com/meta-pytorch/torchcomms/8ecc3488fb132278b406f2abb755f1e8ba8a16e8/logo-light.png",
+    "sha256": "2a97f31440ede0e30c6f27254a24b2cae860699d2c8c0b6b062974c086d9cb83"
+  }
+]

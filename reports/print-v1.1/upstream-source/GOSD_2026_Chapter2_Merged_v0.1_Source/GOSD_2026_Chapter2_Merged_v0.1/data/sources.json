@@ -1,0 +1,80 @@
+[
+  [
+    "S01",
+    "OpenShare · GOSD 年度统计与主统计期",
+    "https://open-share.com/insight/open-world/gosd",
+    "图 2-1—2-10；公开数据读取 2026-11-09，元数据更新 2026-10-08。"
+  ],
+  [
+    "S02",
+    "OpenShare · 全球宏观洞察（自然年）",
+    "https://open-share.com/insight/open-world",
+    "图 2-4—2-6、2-9 的自然年序列；须与报告年度分开。"
+  ],
+  [
+    "S03",
+    "GOSD 2026 编制组 · 第二章归档与补充资料",
+    "https://github.com/will-ww/2026-GOSD-Report/tree/497478a19e92c676c225893a395738e747a71c8b/reports/round2-v2.0/source/chapters/02/modules/02/data/",
+    "图 2-1—2-16；公开归档 497478a，另含编制组确认的综合序列及平台补充。"
+  ],
+  [
+    "S04",
+    "OpenDigger · 宏观统计生产代码（固定版本）",
+    "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/src/dataProduction/openshareOverview.ts",
+    "地理估计与年度处理规则参考；与已发布 JSON 的执行映射待核。"
+  ],
+  [
+    "S05",
+    "GitHub Innovation Graph · Repositories / Datasheet",
+    "https://github.com/github/innovationgraph/blob/main/data/repositories.csv",
+    "图 2-13—2-14；读取 2026-11-10，数据版本 4b6d36c2。"
+  ],
+  [
+    "S06",
+    "GitHub · Octoverse 2026：Commits and pushes",
+    "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+    "图 2-14；独立观察窗口 2025.10—2026.09。"
+  ],
+  [
+    "S07",
+    "Hugging Face · State of Open Models: Summer 2026",
+    "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "图 2-13、2-15—2-16；1—8 月观察，部分分析截至 7 月。"
+  ],
+  [
+    "S08",
+    "Hugging Face · State of Open Source: Spring 2026",
+    "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+    "图 2-16 的机器人数据集计数：2024、2025 年。"
+  ],
+  [
+    "S09",
+    "F. Ríos / AI World · Two Million Models and Counting",
+    "https://aiworld.eu/story/hugging-faces-two-million-models-and-counting",
+    "图 2-15 的日度模型序列：2022-03-02—2025-12-08。"
+  ],
+  [
+    "S10",
+    "Longpre et al. · The Economies of Open Intelligence",
+    "https://www.dataprovenance.org/economies-of-open-intelligence.pdf",
+    "图 2-15 下载结构，采用原研究图 1 的群体和过滤条件。"
+  ],
+  [
+    "S11",
+    "团队研究 · Stable Structure, Uneven Diffusion",
+    "",
+    "图 2-17—2-19；配套《开源仓库行业版图数据报告》、复现包及汇总表。"
+  ],
+  [
+    "S12",
+    "Xu & Quispe (2026) · GitHub Repositories / NAICS",
+    "https://arxiv.org/abs/2607.06505",
+    "行业分类参考论文，arXiv:2607.06505；非本章复现结果的替代。"
+  ],
+  [
+    "S13",
+    "NAICS-GH 数据集；美国人口普查局 NAICS",
+    "https://huggingface.co/datasets/aquiro1994/naics-gh",
+    "分类训练数据 6,588 个标注仓库；官方分类体系见 census.gov/naics。"
+  ]
+]

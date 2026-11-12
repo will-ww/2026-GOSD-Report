@@ -1,0 +1,13 @@
+﻿key,label,count,top20,rank_21_50,rank_51_100,best_rank,accounts
+text-generation,文本生成,38,8,14,16,3,7
+image-text-to-text,图文理解,20,4,8,8,11,2
+text-to-image,图像生成,6,5,1,0,1,5
+any-to-any,全模态,6,2,4,0,19,1
+automatic-speech-recognition,语音识别,6,0,1,5,35,1
+zero-shot-image-classification,零样本图像分类,6,0,0,6,81,1
+fill-mask,掩码补全,4,0,2,2,38,3
+sentence-similarity,句子相似度,4,0,0,4,51,3
+feature-extraction,特征提取,3,0,0,3,62,2
+robotics,机器人,1,1,0,0,9,1
+image-to-video,图像生成视频,1,0,0,1,64,1
+,未标注,5,0,0,5,55,3

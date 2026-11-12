@@ -1,0 +1,99 @@
+[
+  {
+    "section": "4.1",
+    "status": "user-approved baseline; requested row removal completed",
+    "change": "only empty row and empty-value legend removed; category retained in atlas and ranking",
+    "claims": [
+      "I02",
+      "I03",
+      "I05"
+    ],
+    "limits": "public country subset differs from annual project ranking"
+  },
+  {
+    "section": "4.2",
+    "status": "new draft; narrative and visual self-review completed",
+    "claims": [
+      "I02",
+      "I03",
+      "I05",
+      "I07",
+      "I08"
+    ],
+    "checks": [
+      "96 unique model IDs in six tasks",
+      "publisher and original source separated",
+      "unknown geography retained in denominator",
+      "two identically named SmolVLA resources disambiguated by publisher"
+    ],
+    "limits": "fixed post-period sample; candidate universe incomplete; publisher geography not contributor geography"
+  },
+  {
+    "section": "4.3",
+    "status": "new draft; narrative and visual self-review completed",
+    "claims": [
+      "I02",
+      "I03",
+      "I05"
+    ],
+    "checks": [
+      "one page",
+      "16 functional examples",
+      "86 projects checked by stable repository IDs",
+      "37 non-overlapping public labels"
+    ],
+    "limits": "LLVM is cross-cutting toolchain; country sample not complete annual view"
+  },
+  {
+    "section": "4.4",
+    "status": "new draft; narrative and visual self-review completed",
+    "claims": [
+      "I02",
+      "I03",
+      "I05"
+    ],
+    "checks": [
+      "one page",
+      "93 primary categories counted once",
+      "full multilabel lists preserved",
+      "62 public labels associated with 65 anchors"
+    ],
+    "limits": "functional label is not a tested capability certification"
+  },
+  {
+    "section": "4.5",
+    "status": "new draft; narrative and visual self-review completed",
+    "claims": [
+      "I02",
+      "I03",
+      "I06"
+    ],
+    "checks": [
+      "one page",
+      "observed-month count beside each rank",
+      "no unsupported country data",
+      "Caliptra six-repository total 1043.81292649 vs OpenTitan one repository 692.7118587493896"
+    ],
+    "limits": "3 categories pending; 19/78 have 12 months; not hardware performance ranking"
+  },
+  {
+    "section": "4.6",
+    "status": "new draft; narrative and visual self-review completed",
+    "claims": [
+      "I02",
+      "I03",
+      "I05",
+      "I06",
+      "I08",
+      "I09"
+    ],
+    "checks": [
+      "82 classified records plus 1 pending",
+      "13 functional categories",
+      "public country coverage inadequate and not plotted",
+      "governance and contributor/organization identity distinguished",
+      "three growth examples each 24 months complete"
+    ],
+    "limits": "observation ecosystem is not formal foundation hosting roster; support mechanisms do not prove outcome"
+  }
+]

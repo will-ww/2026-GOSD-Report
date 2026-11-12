@@ -1,0 +1,244 @@
+country,publisher_type_grouped,story_org,n,high_open,high_open_pct,double_high,double_high_pct,high_complete,高完整-高开放,低完整-高开放,高完整-低开放,低完整-低开放,country_code,country_name_zh,publisher_type_zh
+China,company,Alibaba,113,106,93.80530973451327,16,14.15929203539823,18,16,90,2,5,CN,中国,企业
+China,company,inclusionAI,40,40,100.0,8,20.0,8,8,32,0,0,CN,中国,企业
+United States of America,company,Meta,38,2,5.263157894736842,1,2.631578947368421,10,1,1,9,27,US,美国,企业
+United States of America,company,NVIDIA,36,7,19.444444444444446,5,13.88888888888889,16,5,2,11,18,US,美国,企业
+United States of America,company,Google,32,2,6.25,1,3.125,15,1,1,14,16,US,美国,企业
+China,company,Tencent,29,3,10.344827586206897,1,3.4482758620689653,6,1,2,5,21,CN,中国,企业
+China,company,DeepSeek,23,21,91.30434782608695,0,0.0,0,0,21,0,2,CN,中国,企业
+United States of America,company,Liquid AI,22,0,0.0,0,0.0,1,0,0,1,21,US,美国,企业
+United States of America,company,Microsoft,21,20,95.23809523809523,6,28.57142857142857,6,6,14,0,1,US,美国,企业
+United States of America,company,IBM Granite,20,20,100.0,1,5.0,1,1,19,0,0,US,美国,企业
+France,company,Mistral AI,19,18,94.73684210526315,0,0.0,0,0,18,0,1,FR,法国,企业
+China,company,ByteDance,17,13,76.47058823529412,0,0.0,0,0,13,0,4,CN,中国,企业
+China,company,InternLM,16,15,93.75,11,68.75,12,11,4,1,0,CN,中国,企业
+China,company,Z.ai,16,16,100.0,1,6.25,1,1,15,0,0,CN,中国,企业
+China,company,StepFun,15,15,100.0,2,13.333333333333334,2,2,13,0,0,CN,中国,企业
+China,company,Baidu,14,11,78.57142857142857,1,7.142857142857142,1,1,10,0,3,CN,中国,企业
+China,company,Moonshot AI,13,8,61.53846153846154,0,0.0,0,0,8,0,5,CN,中国,企业
+China,community,OpenBMB,10,10,100.0,7,70.0,7,7,3,0,0,CN,中国,社区
+Germany,company,Black Forest Labs,10,2,20.0,0,0.0,0,0,2,0,8,DE,德国,企业
+Singapore,company,Skywork,10,4,40.0,1,10.0,1,1,3,0,6,SG,新加坡,企业
+China,company,Xiaomi MiMo,9,9,100.0,0,0.0,0,0,9,0,0,CN,中国,企业
+United States of America,nonprofit,Ai2,9,9,100.0,8,88.88888888888889,8,8,1,0,0,US,美国,非营利组织和高校
+China,company,LongCat,8,8,100.0,0,0.0,0,0,8,0,0,CN,中国,企业
+United States of America,company,OpenAI,7,7,100.0,0,0.0,0,0,7,0,0,US,美国,企业
+China,nonprofit,OpenMOSS-Team,6,6,100.0,1,16.666666666666664,1,1,5,0,0,CN,中国,非营利组织和高校
+United Kingdom,company,Stability AI,6,0,0.0,0,0.0,2,0,0,2,4,GB,英国,企业
+United States of America,company,Apple,6,0,0.0,0,0.0,1,0,0,1,5,US,美国,企业
+China,company,ACE-Step,5,5,100.0,0,0.0,0,0,5,0,0,CN,中国,企业
+China,company,HiDream.ai,5,5,100.0,0,0.0,0,0,5,0,0,CN,中国,企业
+China,company,Kuaishou,5,4,80.0,0,0.0,0,0,4,0,1,CN,中国,企业
+China,nonprofit,BAAI,5,5,100.0,3,60.0,3,3,2,0,0,CN,中国,非营利组织和高校
+South Korea,company,HyperCLOVA X,5,0,0.0,0,0.0,0,0,0,0,5,KR,韩国,企业
+Unknown,user,YatharthS,5,4,80.0,0,0.0,0,0,4,0,1,unknown,归属未知,个人账号
+China,company,rednote-hilab,4,4,100.0,0,0.0,0,0,4,0,0,CN,中国,企业
+South Korea,company,Kakao Corp.,4,1,25.0,0,0.0,0,0,1,0,3,KR,韩国,企业
+Switzerland,nonprofit,Swiss AI Initiative,4,4,100.0,3,75.0,3,3,1,0,0,CH,瑞士,非营利组织和高校
+United States of America,company,ServiceNow-AI,4,4,100.0,0,0.0,0,0,4,0,0,US,美国,企业
+Canada,community,Cohere Labs,3,0,0.0,0,0.0,0,0,0,0,3,CA,加拿大,社区
+China,community,Nanbeige LLM Lab,3,3,100.0,0,0.0,0,0,3,0,0,CN,中国,社区
+China,company,Alibaba-NLP,3,3,100.0,0,0.0,0,0,3,0,0,CN,中国,企业
+China,company,FireRedTeam,3,3,100.0,1,33.33333333333333,1,1,2,0,0,CN,中国,企业
+China,company,Index Team,3,1,33.33333333333333,0,0.0,0,0,1,0,2,CN,中国,企业
+China,company,MiniMax,3,1,33.33333333333333,0,0.0,0,0,1,0,2,CN,中国,企业
+France,company,LightOn AI,3,2,66.66666666666666,0,0.0,1,0,2,1,0,FR,法国,企业
+France,company,pyannote,3,3,100.0,1,33.33333333333333,1,1,2,0,0,FR,法国,企业
+France,nonprofit,Kyutai,3,3,100.0,0,0.0,0,0,3,0,0,FR,法国,非营利组织和高校
+Germany,company,Jina AI,3,0,0.0,0,0.0,1,0,0,1,2,DE,德国,企业
+India,company,Sarvam AI,3,2,66.66666666666666,0,0.0,0,0,2,0,1,IN,印度,企业
+South Korea,company,LG AI Research,3,0,0.0,0,0.0,0,0,0,0,3,KR,韩国,企业
+United States of America,community,Hugging Face Smol Models Research,3,3,100.0,3,100.0,3,3,0,0,0,US,美国,社区
+United States of America,company,DeepReinforce.AI,3,3,100.0,0,0.0,0,0,3,0,0,US,美国,企业
+United States of America,company,Kitten ML,3,3,100.0,0,0.0,0,0,3,0,0,US,美国,企业
+United States of America,company,Lightricks,3,0,0.0,0,0.0,0,0,0,0,3,US,美国,企业
+United States of America,company,Perplexity,3,3,100.0,0,0.0,0,0,3,0,0,US,美国,企业
+United States of America,company,Zyphra,3,3,100.0,0,0.0,0,0,3,0,0,US,美国,企业
+China,community,Genius Society,2,2,100.0,0,0.0,0,0,2,0,0,CN,中国,社区
+China,community,MeiGen-AI,2,2,100.0,0,0.0,0,0,2,0,0,CN,中国,社区
+China,company,Alpha-VLLM,2,2,100.0,0,0.0,0,0,2,0,0,CN,中国,企业
+China,company,MetaStoneTec,2,2,100.0,1,50.0,1,1,1,0,0,CN,中国,企业
+China,company,Soul-AILab,2,2,100.0,0,0.0,0,0,2,0,0,CN,中国,企业
+China,nonprofit,GSAI-ML,2,2,100.0,0,0.0,0,0,2,0,0,CN,中国,非营利组织和高校
+China,nonprofit,OpenDataLab,2,2,100.0,0,0.0,0,0,2,0,0,CN,中国,非营利组织和高校
+China,nonprofit,ZJU-AI4H,2,2,100.0,0,0.0,0,0,2,0,0,CN,中国,非营利组织和高校
+Czech Republic,company,JetBrains,2,2,100.0,0,0.0,0,0,2,0,0,CZ,捷克,企业
+France,company,PleIAs,2,2,100.0,0,0.0,0,0,2,0,0,FR,法国,企业
+France,company,Vidore,2,2,100.0,2,100.0,2,2,0,0,0,FR,法国,企业
+India,company,BharatGen AI,2,0,0.0,0,0.0,0,0,0,0,2,IN,印度,企业
+Israel,company,BRIA AI,2,0,0.0,0,0.0,0,0,0,0,2,IL,以色列,企业
+Kyrgyzstan,company,nineninesix,2,1,50.0,1,50.0,2,1,0,1,0,KG,吉尔吉斯斯坦,企业
+South Korea,community,Nari Labs,2,2,100.0,0,0.0,0,0,2,0,0,KR,韩国,社区
+South Korea,company,IQuestLab,2,0,0.0,0,0.0,0,0,0,0,2,KR,韩国,企业
+South Korea,company,Motif Technologies,2,2,100.0,0,0.0,0,0,2,0,0,KR,韩国,企业
+South Korea,company,Supertone,2,0,0.0,0,0.0,0,0,0,0,2,KR,韩国,企业
+South Korea,company,Trillion Labs,2,2,100.0,0,0.0,0,0,2,0,0,KR,韩国,企业
+South Korea,nonprofit,KORMo-Team,2,2,100.0,2,100.0,2,2,0,0,0,KR,韩国,非营利组织和高校
+United States of America,company,Arcee AI,2,2,100.0,0,0.0,0,0,2,0,0,US,美国,企业
+United States of America,company,Linum-AI,2,2,100.0,0,0.0,0,0,2,0,0,US,美国,企业
+United States of America,company,Resemble AI,2,1,50.0,0,0.0,0,0,1,0,1,US,美国,企业
+United States of America,company,xAI,2,1,50.0,0,0.0,0,0,1,0,1,US,美国,企业
+Unknown,community,UTTER - Unified Transcription and Translation for Extended Reality,2,2,100.0,0,0.0,0,0,2,0,0,unknown,归属未知,社区
+Unknown,user,HeartMuLa,2,2,100.0,0,0.0,0,0,2,0,0,unknown,归属未知,个人账号
+Unknown,user,JunhaoZhuang,2,2,100.0,0,0.0,0,0,2,0,0,unknown,归属未知,个人账号
+Unknown,user,ekwek,2,2,100.0,0,0.0,0,0,2,0,0,unknown,归属未知,个人账号
+Unknown,user,intfloat,2,2,100.0,0,0.0,0,0,2,0,0,unknown,归属未知,个人账号
+Unknown,user,lodestones,2,2,100.0,0,0.0,0,0,2,0,0,unknown,归属未知,个人账号
+Unknown,user,ostris,2,2,100.0,0,0.0,0,0,2,0,0,unknown,归属未知,个人账号
+Australia,company,Maincode,1,1,100.0,0,0.0,0,0,1,0,0,AU,澳大利亚,企业
+Austria,company,NX-AI,1,0,0.0,0,0.0,0,0,0,0,1,AT,奥地利,企业
+Canada,community,Spark Audio,1,0,0.0,0,0.0,0,0,0,0,1,CA,加拿大,社区
+Canada,company,Datalab,1,0,0.0,0,0.0,0,0,0,0,1,CA,加拿大,企业
+Canada,nonprofit,Chandar Research Lab,1,1,100.0,1,100.0,1,1,0,0,0,CA,加拿大,非营利组织和高校
+China,community,Amphion,1,1,100.0,0,0.0,0,0,1,0,0,CN,中国,社区
+China,community,DiffSynth-Studio,1,1,100.0,0,0.0,0,0,1,0,0,CN,中国,社区
+China,community,EasyControl,1,1,100.0,0,0.0,0,0,1,0,0,CN,中国,社区
+China,community,FoundationVision,1,1,100.0,0,0.0,0,0,1,0,0,CN,中国,社区
+China,community,Logics-MLLM,1,1,100.0,0,0.0,0,0,1,0,0,CN,中国,社区
+China,community,Zhejiang University,1,1,100.0,0,0.0,0,0,1,0,0,CN,中国,社区
+China,community,am team,1,1,100.0,0,0.0,0,0,1,0,0,CN,中国,社区
+China,community,starvector,1,1,100.0,0,0.0,0,0,1,0,0,CN,中国,社区
+China,company,AngelSlim,1,0,0.0,0,0.0,1,0,0,1,0,CN,中国,企业
+China,company,KlingTeam,1,0,0.0,0,0.0,1,0,0,1,0,CN,中国,企业
+China,company,MYZY-AI,1,1,100.0,0,0.0,0,0,1,0,0,CN,中国,企业
+China,company,PaddlePaddle,1,1,100.0,0,0.0,0,0,1,0,0,CN,中国,企业
+China,company,Qika,1,1,100.0,0,0.0,0,0,1,0,0,CN,中国,企业
+China,company,Sand AI,1,1,100.0,0,0.0,0,0,1,0,0,CN,中国,企业
+China,company,Spirit-AI-robotics,1,1,100.0,0,0.0,0,0,1,0,0,CN,中国,企业
+China,company,TensorArt Studios,1,0,0.0,0,0.0,0,0,0,0,1,CN,中国,企业
+China,company,YuanLabAI,1,1,100.0,1,100.0,1,1,0,0,0,CN,中国,企业
+China,company,ali-vilab,1,1,100.0,0,0.0,0,0,1,0,0,CN,中国,企业
+China,company,iFlyBot,1,1,100.0,0,0.0,0,0,1,0,0,CN,中国,企业
+China,company,jdopensource,1,0,0.0,0,0.0,0,0,0,0,1,CN,中国,企业
+China,company,robbyant,1,1,100.0,0,0.0,0,0,1,0,0,CN,中国,企业
+China,nonprofit,Depth Anything,1,0,0.0,0,0.0,0,0,0,0,1,CN,中国,非营利组织和高校
+China,nonprofit,Dream Org,1,1,100.0,0,0.0,0,0,1,0,0,CN,中国,非营利组织和高校
+China,nonprofit,Intern Robotics,1,0,0.0,0,0.0,1,0,0,1,0,CN,中国,非营利组织和高校
+China,nonprofit,NewBie AI,1,0,0.0,0,0.0,0,0,0,0,1,CN,中国,非营利组织和高校
+China,nonprofit,RUC-DataLab,1,1,100.0,1,100.0,1,1,0,0,0,CN,中国,非营利组织和高校
+China,nonprofit,ScienceOne-AI,1,1,100.0,0,0.0,0,0,1,0,0,CN,中国,非营利组织和高校
+China,nonprofit,W2GenAI Lab,1,0,0.0,0,0.0,1,0,0,1,0,CN,中国,非营利组织和高校
+China,user,MochunniaN1,1,1,100.0,1,100.0,1,1,0,0,0,CN,中国,个人账号
+Finland,nonprofit,Language Technology Research Group at the University of Helsinki,1,1,100.0,1,100.0,1,1,0,0,0,FI,芬兰,非营利组织和高校
+France,community,LeRobot,1,1,100.0,1,100.0,1,1,0,0,0,FR,法国,社区
+France,company,Photoroom,1,1,100.0,0,0.0,0,0,1,0,0,FR,法国,企业
+France,company,Tanaos,1,1,100.0,0,0.0,0,0,1,0,0,FR,法国,企业
+France,company,Ubisoft,1,0,0.0,0,0.0,0,0,0,0,1,FR,法国,企业
+Germany,company,Coqui.ai,1,0,0.0,0,0.0,0,0,0,0,1,DE,德国,企业
+Germany,company,Kugelaudio,1,1,100.0,1,100.0,1,1,0,0,0,DE,德国,企业
+Germany,company,Prior Labs,1,0,0.0,0,0.0,0,0,0,0,1,DE,德国,企业
+Germany,nonprofit,CompVis,1,0,0.0,0,0.0,1,0,0,1,0,DE,德国,非营利组织和高校
+India,company,HelpingAI,1,1,100.0,0,0.0,0,0,1,0,0,IN,印度,企业
+Israel,company,AI21,1,1,100.0,0,0.0,0,0,1,0,0,IL,以色列,企业
+Italy,company,Fastweb,1,0,0.0,0,0.0,0,0,0,0,1,IT,意大利,企业
+Japan,company,T-Tech,1,1,100.0,1,100.0,1,1,0,0,0,JP,日本,企业
+Latvia,company,Tilde,1,1,100.0,1,100.0,1,1,0,0,0,LV,拉脱维亚,企业
+Lithuania,company,OuteAI,1,0,0.0,0,0.0,0,0,0,0,1,LT,立陶宛,企业
+Portugal,company,Dria,1,1,100.0,0,0.0,0,0,1,0,0,PT,葡萄牙,企业
+Russia,community,Vikhr models,1,1,100.0,0,0.0,0,0,1,0,0,RU,俄罗斯,社区
+Russia,company,Yandex,1,0,0.0,0,0.0,0,0,0,0,1,RU,俄罗斯,企业
+Russia,nonprofit,ai-sage,1,1,100.0,0,0.0,0,0,1,0,0,RU,俄罗斯,非营利组织和高校
+Singapore,company,PixAI Labs,1,1,100.0,0,0.0,0,0,1,0,0,SG,新加坡,企业
+Singapore,nonprofit,TinyLlama,1,1,100.0,1,100.0,1,1,0,0,0,SG,新加坡,非营利组织和高校
+South Korea,company,HancomInSpaceAI,1,1,100.0,0,0.0,0,0,1,0,0,KR,韩国,企业
+South Korea,company,NC-AI-consortium-VAETKI,1,1,100.0,0,0.0,0,0,1,0,0,KR,韩国,企业
+South Korea,company,SK Telecom,1,1,100.0,0,0.0,0,0,1,0,0,KR,韩国,企业
+South Korea,company,upstage,1,0,0.0,0,0.0,0,0,0,0,1,KR,韩国,企业
+Spain,company,Freepik,1,0,0.0,0,0.0,0,0,0,0,1,ES,西班牙,企业
+Switzerland,nonprofit,ETH Zurich - Computer Vision and Geometry Lab,1,1,100.0,0,0.0,0,0,1,0,0,CH,瑞士,非营利组织和高校
+Turkey,company,Trendyol,1,0,0.0,0,0.0,0,0,0,0,1,TR,土耳其,企业
+Turkey,company,VNGRS,1,1,100.0,0,0.0,0,0,1,0,0,TR,土耳其,企业
+Turkey,nonprofit,Yildiz Technical University Computer Engineering Department Cosmos Research Group,1,0,0.0,0,0.0,0,0,0,0,1,TR,土耳其,非营利组织和高校
+United Arab Emirates,company,CAMB-AI,1,1,100.0,0,0.0,0,0,1,0,0,AE,阿拉伯联合酋长国,企业
+United Arab Emirates,company,Falcons.ai,1,1,100.0,0,0.0,0,0,1,0,0,AE,阿拉伯联合酋长国,企业
+United Arab Emirates,company,Technology Innovation Institute,1,0,0.0,0,0.0,0,0,0,0,1,AE,阿拉伯联合酋长国,企业
+United Kingdom,company,FASHN,1,1,100.0,0,0.0,0,0,1,0,0,GB,英国,企业
+United Kingdom,company,II,1,1,100.0,1,100.0,1,1,0,0,0,GB,英国,企业
+United Kingdom,company,Knowledgator Engineering,1,1,100.0,0,0.0,0,0,1,0,0,GB,英国,企业
+United Kingdom,company,Neuphonic,1,1,100.0,0,0.0,0,0,1,0,0,GB,英国,企业
+United Kingdom,company,Radical Numerics,1,1,100.0,0,0.0,0,0,1,0,0,GB,英国,企业
+United States of America,community,DistilBERT community,1,1,100.0,1,100.0,1,1,0,0,0,US,美国,社区
+United States of America,community,NASA-IBM AI4Science,1,1,100.0,1,100.0,1,1,0,0,0,US,美国,社区
+United States of America,community,Pipecat,1,1,100.0,1,100.0,1,1,0,0,0,US,美国,社区
+United States of America,community,Quixi AI,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,社区
+United States of America,community,TEN-framework,1,0,0.0,0,0.0,1,0,0,1,0,US,美国,社区
+United States of America,community,The Marin Project,1,1,100.0,1,100.0,1,1,0,0,0,US,美国,社区
+United States of America,company,1Covenant,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,AMD,1,1,100.0,1,100.0,1,1,0,0,0,US,美国,企业
+United States of America,company,Amazon,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,BERT community,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,BosonAI,1,0,0.0,0,0.0,0,0,0,0,1,US,美国,企业
+United States of America,company,Canopy Labs,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,Datadog,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,DatologyAI,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,Essential AI,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,FlashLabs,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,Guide Labs,1,0,0.0,0,0.0,0,0,0,0,1,US,美国,企业
+United States of America,company,Maya Research,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,MongoDB,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,Nomic AI,1,1,100.0,1,100.0,1,1,0,0,0,US,美国,企业
+United States of America,company,NuMind,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,OpenAI community,1,0,0.0,0,0.0,0,0,0,0,1,US,美国,企业
+United States of America,company,Overworld,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,Prime Intellect,1,1,100.0,1,100.0,1,1,0,0,0,US,美国,企业
+United States of America,company,Reka AI,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,Salesforce,1,0,0.0,0,0.0,0,0,0,0,1,US,美国,企业
+United States of America,company,Sesame,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,Suno,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,Tahoe Bio,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,Tarteel AI,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,Tesslate,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,Voyage AI,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,fastino,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,manifest ai,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,企业
+United States of America,company,moondream,1,0,0.0,0,0.0,0,0,0,0,1,US,美国,企业
+United States of America,nonprofit,Center for Language and Speech Processing @ JHU,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,非营利组织和高校
+United States of America,nonprofit,OpenFold Consortium,1,1,100.0,1,100.0,1,1,0,0,0,US,美国,非营利组织和高校
+United States of America,nonprofit,Princeton-AI,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,非营利组织和高校
+United States of America,nonprofit,Sentence Transformers,1,1,100.0,1,100.0,1,1,0,0,0,US,美国,非营利组织和高校
+United States of America,nonprofit,rl-research,1,1,100.0,0,0.0,0,0,1,0,0,US,美国,非营利组织和高校
+Unknown,community,Allura (Forge),1,0,0.0,0,0.0,0,0,0,0,1,unknown,归属未知,社区
+Unknown,community,MARVIS,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,社区
+Unknown,community,Maitrix.org,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,社区
+Unknown,community,SD v1.5,1,0,0.0,0,0.0,1,0,0,1,0,unknown,归属未知,社区
+Unknown,community,VibeVoice Community (Unofficial),1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,社区
+Unknown,community,xgen,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,社区
+Unknown,user,1231czx,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,AdamCodd,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,Aratako,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,Arrexel,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,CypressYang,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,ElectricAlexis,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,Jamichsu,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,KangLiao,1,0,0.0,0,0.0,1,0,0,1,0,unknown,归属未知,个人账号
+Unknown,user,Kr1sJ,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,RaphaelLiu,1,1,100.0,1,100.0,1,1,0,0,0,unknown,归属未知,个人账号
+Unknown,user,S4nfs,1,0,0.0,0,0.0,0,0,0,0,1,unknown,归属未知,个人账号
+Unknown,user,SWivid,1,0,0.0,0,0.0,1,0,0,1,0,unknown,归属未知,个人账号
+Unknown,user,SicariusSicariiStuff,1,0,0.0,0,0.0,0,0,0,0,1,unknown,归属未知,个人账号
+Unknown,user,XuGuo699,1,0,0.0,0,0.0,0,0,0,0,1,unknown,归属未知,个人账号
+Unknown,user,ZhengPeng7,1,1,100.0,1,100.0,1,1,0,0,0,unknown,归属未知,个人账号
+Unknown,user,ai-forever,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,aoi-ot,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,comfyanonymous,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,foreverlasting1202,1,1,100.0,1,100.0,1,1,0,0,0,unknown,归属未知,个人账号
+Unknown,user,ggerganov,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,herimor,1,1,100.0,1,100.0,1,1,0,0,0,unknown,归属未知,个人账号
+Unknown,user,hexgrad,1,1,100.0,1,100.0,1,1,0,0,0,unknown,归属未知,个人账号
+Unknown,user,huaichang,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,karpathy,1,1,100.0,1,100.0,1,1,0,0,0,unknown,归属未知,个人账号
+Unknown,user,kpsss34,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,mrfakename,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,nitrosocke,1,0,0.0,0,0.0,0,0,0,0,1,unknown,归属未知,个人账号
+Unknown,user,rasbt,1,0,0.0,0,0.0,0,0,0,0,1,unknown,归属未知,个人账号
+Unknown,user,rstar2-reproduce,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,shallowdream204,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,shiyi0408,1,1,100.0,1,100.0,1,1,0,0,0,unknown,归属未知,个人账号
+Unknown,user,stdstu123,1,1,100.0,1,100.0,1,1,0,0,0,unknown,归属未知,个人账号
+Unknown,user,thilina,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,vikhyatk,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,vita-video-gen,1,1,100.0,1,100.0,1,1,0,0,0,unknown,归属未知,个人账号
+Unknown,user,wushuang98,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,xiabs,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,xinsir,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号
+Unknown,user,yonigozlan,1,1,100.0,0,0.0,0,0,1,0,0,unknown,归属未知,个人账号

@@ -1,0 +1,2747 @@
+{
+	"meta":
+	[
+		{
+			"name": "id",
+			"type": "LowCardinality(String)"
+		},
+		{
+			"name": "name",
+			"type": "String"
+		},
+		{
+			"name": "month",
+			"type": "String"
+		},
+		{
+			"name": "openrank",
+			"type": "Float64"
+		},
+		{
+			"name": "repositories",
+			"type": "UInt64"
+		}
+	],
+
+	"data":
+	[
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"month": "2025-07-01",
+			"openrank": 53.3,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"month": "2025-08-01",
+			"openrank": 42.66,
+			"repositories": "6"
+		},
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"month": "2025-09-01",
+			"openrank": 38.14,
+			"repositories": "7"
+		},
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"month": "2025-10-01",
+			"openrank": 34.21,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"month": "2025-11-01",
+			"openrank": 26.55,
+			"repositories": "5"
+		},
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"month": "2025-12-01",
+			"openrank": 16.82,
+			"repositories": "3"
+		},
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"month": "2026-01-01",
+			"openrank": 5.41,
+			"repositories": "1"
+		},
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"month": "2026-03-01",
+			"openrank": 1.03,
+			"repositories": "1"
+		},
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"month": "2026-04-01",
+			"openrank": 1.62,
+			"repositories": "1"
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2025-07-01",
+			"openrank": 9001.43,
+			"repositories": "746"
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2025-08-01",
+			"openrank": 8740.32,
+			"repositories": "735"
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2025-09-01",
+			"openrank": 8436.58,
+			"repositories": "692"
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2025-10-01",
+			"openrank": 7607.37,
+			"repositories": "609"
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2025-11-01",
+			"openrank": 7188.42,
+			"repositories": "669"
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2025-12-01",
+			"openrank": 7181.74,
+			"repositories": "612"
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2026-01-01",
+			"openrank": 7013.21,
+			"repositories": "635"
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2026-02-01",
+			"openrank": 6529.49,
+			"repositories": "537"
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2026-03-01",
+			"openrank": 5870.07,
+			"repositories": "531"
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2026-04-01",
+			"openrank": 5376.28,
+			"repositories": "483"
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2026-05-01",
+			"openrank": 4650.2,
+			"repositories": "592"
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2026-06-01",
+			"openrank": 3652.39,
+			"repositories": "320"
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2025-07-01",
+			"openrank": 218.62,
+			"repositories": "11"
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2025-08-01",
+			"openrank": 196.58,
+			"repositories": "12"
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2025-09-01",
+			"openrank": 195,
+			"repositories": "11"
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2025-10-01",
+			"openrank": 180.04,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2025-11-01",
+			"openrank": 170.4,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2025-12-01",
+			"openrank": 171.41,
+			"repositories": "10"
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2026-01-01",
+			"openrank": 163.54,
+			"repositories": "12"
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2026-02-01",
+			"openrank": 136,
+			"repositories": "9"
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2026-03-01",
+			"openrank": 113.82,
+			"repositories": "4"
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2026-04-01",
+			"openrank": 110.2,
+			"repositories": "7"
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2026-05-01",
+			"openrank": 89.56,
+			"repositories": "2"
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2026-06-01",
+			"openrank": 59.81,
+			"repositories": "2"
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2025-07-01",
+			"openrank": 257.57,
+			"repositories": "11"
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2025-08-01",
+			"openrank": 241.4,
+			"repositories": "9"
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2025-09-01",
+			"openrank": 236.28,
+			"repositories": "11"
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2025-10-01",
+			"openrank": 211.15,
+			"repositories": "9"
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2025-11-01",
+			"openrank": 187.08,
+			"repositories": "10"
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2025-12-01",
+			"openrank": 166.68,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2026-01-01",
+			"openrank": 154.41,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2026-02-01",
+			"openrank": 155.9,
+			"repositories": "11"
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2026-03-01",
+			"openrank": 127.72,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2026-04-01",
+			"openrank": 123.87,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2026-05-01",
+			"openrank": 82.28,
+			"repositories": "7"
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2026-06-01",
+			"openrank": 60.17,
+			"repositories": "3"
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2025-07-01",
+			"openrank": 309.51,
+			"repositories": "42"
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2025-08-01",
+			"openrank": 280.53,
+			"repositories": "36"
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2025-09-01",
+			"openrank": 308.1,
+			"repositories": "45"
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2025-10-01",
+			"openrank": 298.63,
+			"repositories": "44"
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2025-11-01",
+			"openrank": 261.95,
+			"repositories": "38"
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2025-12-01",
+			"openrank": 252.46,
+			"repositories": "41"
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2026-01-01",
+			"openrank": 223.11,
+			"repositories": "37"
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2026-02-01",
+			"openrank": 198.66,
+			"repositories": "35"
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2026-03-01",
+			"openrank": 193.46,
+			"repositories": "34"
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2026-04-01",
+			"openrank": 181.08,
+			"repositories": "34"
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2026-05-01",
+			"openrank": 162.87,
+			"repositories": "29"
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2026-06-01",
+			"openrank": 114.21,
+			"repositories": "16"
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"month": "2025-07-01",
+			"openrank": 12.71,
+			"repositories": "3"
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"month": "2025-08-01",
+			"openrank": 13.06,
+			"repositories": "3"
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"month": "2025-09-01",
+			"openrank": 13.74,
+			"repositories": "5"
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"month": "2025-10-01",
+			"openrank": 14.47,
+			"repositories": "5"
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"month": "2025-11-01",
+			"openrank": 13.45,
+			"repositories": "4"
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"month": "2025-12-01",
+			"openrank": 19.48,
+			"repositories": "4"
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"month": "2026-01-01",
+			"openrank": 11.82,
+			"repositories": "2"
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"month": "2026-02-01",
+			"openrank": 12.44,
+			"repositories": "1"
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2025-07-01",
+			"openrank": 43.29,
+			"repositories": "14"
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2025-08-01",
+			"openrank": 39.35,
+			"repositories": "11"
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2025-09-01",
+			"openrank": 40.6,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2025-10-01",
+			"openrank": 32.69,
+			"repositories": "10"
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2025-11-01",
+			"openrank": 27.06,
+			"repositories": "9"
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2025-12-01",
+			"openrank": 26.2,
+			"repositories": "10"
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2026-01-01",
+			"openrank": 30.21,
+			"repositories": "10"
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2026-02-01",
+			"openrank": 28.54,
+			"repositories": "13"
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2026-03-01",
+			"openrank": 25.81,
+			"repositories": "10"
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2026-04-01",
+			"openrank": 26.18,
+			"repositories": "10"
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2026-05-01",
+			"openrank": 23.46,
+			"repositories": "12"
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2026-06-01",
+			"openrank": 14.43,
+			"repositories": "6"
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2025-07-01",
+			"openrank": 7.49,
+			"repositories": "3"
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2025-08-01",
+			"openrank": 7.4,
+			"repositories": "1"
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2025-09-01",
+			"openrank": 28.13,
+			"repositories": "3"
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2025-10-01",
+			"openrank": 190.6,
+			"repositories": "3"
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2025-11-01",
+			"openrank": 82.13,
+			"repositories": "1"
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2025-12-01",
+			"openrank": 32.98,
+			"repositories": "2"
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2026-01-01",
+			"openrank": 20.32,
+			"repositories": "4"
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2026-02-01",
+			"openrank": 8.89,
+			"repositories": "2"
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2026-03-01",
+			"openrank": 12.08,
+			"repositories": "3"
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2026-04-01",
+			"openrank": 6.33,
+			"repositories": "2"
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2026-05-01",
+			"openrank": 6.41,
+			"repositories": "3"
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2026-06-01",
+			"openrank": 5.99,
+			"repositories": "1"
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2025-07-01",
+			"openrank": 256.74,
+			"repositories": "17"
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2025-08-01",
+			"openrank": 230.35,
+			"repositories": "16"
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2025-09-01",
+			"openrank": 226.95,
+			"repositories": "22"
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2025-10-01",
+			"openrank": 198.14,
+			"repositories": "16"
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2025-11-01",
+			"openrank": 169.76,
+			"repositories": "12"
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2025-12-01",
+			"openrank": 159.26,
+			"repositories": "14"
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2026-01-01",
+			"openrank": 151.33,
+			"repositories": "13"
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2026-02-01",
+			"openrank": 125.96,
+			"repositories": "15"
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2026-03-01",
+			"openrank": 77.93,
+			"repositories": "9"
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2026-04-01",
+			"openrank": 67.22,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2026-05-01",
+			"openrank": 44.46,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2026-06-01",
+			"openrank": 27.28,
+			"repositories": "4"
+		},
+		{
+			"id": ":foundations\/girlscript",
+			"name": "GirlScript Foundation",
+			"month": "2025-07-01",
+			"openrank": 0.73,
+			"repositories": "1"
+		},
+		{
+			"id": ":foundations\/girlscript",
+			"name": "GirlScript Foundation",
+			"month": "2025-10-01",
+			"openrank": 1.01,
+			"repositories": "3"
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2025-07-01",
+			"openrank": 737.11,
+			"repositories": "18"
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2025-08-01",
+			"openrank": 681.52,
+			"repositories": "18"
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2025-09-01",
+			"openrank": 641.22,
+			"repositories": "22"
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2025-10-01",
+			"openrank": 586.24,
+			"repositories": "21"
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2025-11-01",
+			"openrank": 564.77,
+			"repositories": "20"
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2025-12-01",
+			"openrank": 505.96,
+			"repositories": "23"
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2026-01-01",
+			"openrank": 498.15,
+			"repositories": "21"
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2026-02-01",
+			"openrank": 483.72,
+			"repositories": "15"
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2026-03-01",
+			"openrank": 404.85,
+			"repositories": "17"
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2026-04-01",
+			"openrank": 336.63,
+			"repositories": "19"
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2026-05-01",
+			"openrank": 251.48,
+			"repositories": "15"
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2026-06-01",
+			"openrank": 175.26,
+			"repositories": "9"
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2025-07-01",
+			"openrank": 3560.36,
+			"repositories": "206"
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2025-08-01",
+			"openrank": 3355.76,
+			"repositories": "196"
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2025-09-01",
+			"openrank": 3245.1,
+			"repositories": "210"
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2025-10-01",
+			"openrank": 2989.52,
+			"repositories": "194"
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2025-11-01",
+			"openrank": 2782.42,
+			"repositories": "200"
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2025-12-01",
+			"openrank": 2641.94,
+			"repositories": "195"
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2026-01-01",
+			"openrank": 2595.02,
+			"repositories": "186"
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2026-02-01",
+			"openrank": 2462.59,
+			"repositories": "191"
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2026-03-01",
+			"openrank": 2310.13,
+			"repositories": "179"
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2026-04-01",
+			"openrank": 2085.31,
+			"repositories": "173"
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2026-05-01",
+			"openrank": 1804.28,
+			"repositories": "137"
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2026-06-01",
+			"openrank": 1315,
+			"repositories": "98"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2025-07-01",
+			"openrank": 924.05,
+			"repositories": "28"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2025-08-01",
+			"openrank": 862.34,
+			"repositories": "31"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2025-09-01",
+			"openrank": 793.25,
+			"repositories": "32"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2025-10-01",
+			"openrank": 702.8,
+			"repositories": "32"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2025-11-01",
+			"openrank": 629.67,
+			"repositories": "33"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2025-12-01",
+			"openrank": 579.28,
+			"repositories": "35"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2026-01-01",
+			"openrank": 579.22,
+			"repositories": "37"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2026-02-01",
+			"openrank": 581.95,
+			"repositories": "41"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2026-03-01",
+			"openrank": 493.95,
+			"repositories": "42"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2026-04-01",
+			"openrank": 450.17,
+			"repositories": "42"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2026-05-01",
+			"openrank": 379.23,
+			"repositories": "41"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2026-06-01",
+			"openrank": 269.45,
+			"repositories": "29"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2025-07-01",
+			"openrank": 7390.18,
+			"repositories": "847"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2025-08-01",
+			"openrank": 7183.55,
+			"repositories": "875"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2025-09-01",
+			"openrank": 7046.06,
+			"repositories": "867"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2025-10-01",
+			"openrank": 6599.79,
+			"repositories": "780"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2025-11-01",
+			"openrank": 6152.77,
+			"repositories": "796"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2025-12-01",
+			"openrank": 5754.92,
+			"repositories": "783"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2026-01-01",
+			"openrank": 5822.16,
+			"repositories": "784"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2026-02-01",
+			"openrank": 5402.5,
+			"repositories": "746"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2026-03-01",
+			"openrank": 4919.83,
+			"repositories": "728"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2026-04-01",
+			"openrank": 4400.17,
+			"repositories": "665"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2026-05-01",
+			"openrank": 3851.67,
+			"repositories": "587"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2026-06-01",
+			"openrank": 2839.21,
+			"repositories": "373"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"month": "2025-07-01",
+			"openrank": 0.53,
+			"repositories": "1"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"month": "2025-09-01",
+			"openrank": 1.09,
+			"repositories": "3"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"month": "2025-10-01",
+			"openrank": 2.46,
+			"repositories": "1"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"month": "2025-12-01",
+			"openrank": 1.01,
+			"repositories": "1"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"month": "2026-01-01",
+			"openrank": 0.65,
+			"repositories": "1"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"month": "2026-02-01",
+			"openrank": 1.71,
+			"repositories": "2"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"month": "2026-03-01",
+			"openrank": 0.86,
+			"repositories": "2"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"month": "2026-06-01",
+			"openrank": 0.33,
+			"repositories": "1"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2025-07-01",
+			"openrank": 253,
+			"repositories": "53"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2025-08-01",
+			"openrank": 232.86,
+			"repositories": "40"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2025-09-01",
+			"openrank": 233.78,
+			"repositories": "51"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2025-10-01",
+			"openrank": 206.07,
+			"repositories": "39"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2025-11-01",
+			"openrank": 199.8,
+			"repositories": "39"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2025-12-01",
+			"openrank": 177.42,
+			"repositories": "50"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2026-01-01",
+			"openrank": 160.94,
+			"repositories": "33"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2026-02-01",
+			"openrank": 157.23,
+			"repositories": "32"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2026-03-01",
+			"openrank": 130.32,
+			"repositories": "34"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2026-04-01",
+			"openrank": 132.86,
+			"repositories": "29"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2026-05-01",
+			"openrank": 124.73,
+			"repositories": "22"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2026-06-01",
+			"openrank": 76.97,
+			"repositories": "13"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2025-07-01",
+			"openrank": 911.72,
+			"repositories": "88"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2025-08-01",
+			"openrank": 819.5,
+			"repositories": "79"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2025-09-01",
+			"openrank": 800.88,
+			"repositories": "85"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2025-10-01",
+			"openrank": 725.44,
+			"repositories": "66"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2025-11-01",
+			"openrank": 712.43,
+			"repositories": "82"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2025-12-01",
+			"openrank": 658.56,
+			"repositories": "70"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2026-01-01",
+			"openrank": 672.06,
+			"repositories": "75"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2026-02-01",
+			"openrank": 634.95,
+			"repositories": "76"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2026-03-01",
+			"openrank": 580.67,
+			"repositories": "66"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2026-04-01",
+			"openrank": 551.85,
+			"repositories": "55"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2026-05-01",
+			"openrank": 493.86,
+			"repositories": "42"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2026-06-01",
+			"openrank": 375.57,
+			"repositories": "30"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2025-07-01",
+			"openrank": 169.97,
+			"repositories": "72"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2025-08-01",
+			"openrank": 158.04,
+			"repositories": "47"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2025-09-01",
+			"openrank": 158.02,
+			"repositories": "39"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2025-10-01",
+			"openrank": 145.73,
+			"repositories": "39"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2025-11-01",
+			"openrank": 126.46,
+			"repositories": "44"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2025-12-01",
+			"openrank": 90.23,
+			"repositories": "26"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2026-01-01",
+			"openrank": 91.73,
+			"repositories": "30"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2026-02-01",
+			"openrank": 73.41,
+			"repositories": "21"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2026-03-01",
+			"openrank": 62.86,
+			"repositories": "22"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2026-04-01",
+			"openrank": 60.67,
+			"repositories": "20"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2026-05-01",
+			"openrank": 52.57,
+			"repositories": "19"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2026-06-01",
+			"openrank": 45.42,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2025-07-01",
+			"openrank": 13.86,
+			"repositories": "10"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2025-08-01",
+			"openrank": 19.7,
+			"repositories": "10"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2025-09-01",
+			"openrank": 14.22,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2025-10-01",
+			"openrank": 13.62,
+			"repositories": "7"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2025-11-01",
+			"openrank": 8.92,
+			"repositories": "5"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2025-12-01",
+			"openrank": 6.62,
+			"repositories": "4"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2026-01-01",
+			"openrank": 6.81,
+			"repositories": "6"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2026-02-01",
+			"openrank": 6.58,
+			"repositories": "5"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2026-03-01",
+			"openrank": 6.8,
+			"repositories": "7"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2026-04-01",
+			"openrank": 7.3,
+			"repositories": "6"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2026-05-01",
+			"openrank": 2.56,
+			"repositories": "3"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2026-06-01",
+			"openrank": 2.36,
+			"repositories": "2"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2025-07-01",
+			"openrank": 81.22,
+			"repositories": "12"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2025-08-01",
+			"openrank": 71.54,
+			"repositories": "10"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2025-09-01",
+			"openrank": 67.55,
+			"repositories": "9"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2025-10-01",
+			"openrank": 52.26,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2025-11-01",
+			"openrank": 39.13,
+			"repositories": "7"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2025-12-01",
+			"openrank": 36.51,
+			"repositories": "5"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2026-01-01",
+			"openrank": 36.22,
+			"repositories": "7"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2026-02-01",
+			"openrank": 30.62,
+			"repositories": "4"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2026-03-01",
+			"openrank": 29.04,
+			"repositories": "5"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2026-04-01",
+			"openrank": 25.63,
+			"repositories": "4"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2026-05-01",
+			"openrank": 23.77,
+			"repositories": "7"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2026-06-01",
+			"openrank": 14.8,
+			"repositories": "2"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2025-07-01",
+			"openrank": 2552.65,
+			"repositories": "287"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2025-08-01",
+			"openrank": 2487.9,
+			"repositories": "277"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2025-09-01",
+			"openrank": 2465.55,
+			"repositories": "358"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2025-10-01",
+			"openrank": 2358.52,
+			"repositories": "310"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2025-11-01",
+			"openrank": 2246.72,
+			"repositories": "291"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2025-12-01",
+			"openrank": 2170.3,
+			"repositories": "286"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2026-01-01",
+			"openrank": 2116.85,
+			"repositories": "277"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2026-02-01",
+			"openrank": 2050.48,
+			"repositories": "296"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2026-03-01",
+			"openrank": 1886.64,
+			"repositories": "262"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2026-04-01",
+			"openrank": 1783.39,
+			"repositories": "232"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2026-05-01",
+			"openrank": 1489.51,
+			"repositories": "148"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2026-06-01",
+			"openrank": 1094.08,
+			"repositories": "77"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2025-07-01",
+			"openrank": 217.19,
+			"repositories": "76"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2025-08-01",
+			"openrank": 214.62,
+			"repositories": "71"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2025-09-01",
+			"openrank": 232.3,
+			"repositories": "83"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2025-10-01",
+			"openrank": 218.43,
+			"repositories": "73"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2025-11-01",
+			"openrank": 215.72,
+			"repositories": "70"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2025-12-01",
+			"openrank": 211.76,
+			"repositories": "73"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2026-01-01",
+			"openrank": 205.82,
+			"repositories": "78"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2026-02-01",
+			"openrank": 186.16,
+			"repositories": "76"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2026-03-01",
+			"openrank": 160.21,
+			"repositories": "68"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2026-04-01",
+			"openrank": 166.1,
+			"repositories": "64"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2026-05-01",
+			"openrank": 152.01,
+			"repositories": "52"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2026-06-01",
+			"openrank": 106.42,
+			"repositories": "33"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2025-07-01",
+			"openrank": 114.95,
+			"repositories": "9"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2025-08-01",
+			"openrank": 121.12,
+			"repositories": "11"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2025-09-01",
+			"openrank": 110.25,
+			"repositories": "10"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2025-10-01",
+			"openrank": 106.25,
+			"repositories": "10"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2025-11-01",
+			"openrank": 94.17,
+			"repositories": "6"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2025-12-01",
+			"openrank": 90.54,
+			"repositories": "6"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2026-01-01",
+			"openrank": 87.13,
+			"repositories": "7"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2026-02-01",
+			"openrank": 77.84,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2026-03-01",
+			"openrank": 68.72,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2026-04-01",
+			"openrank": 58.27,
+			"repositories": "7"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2026-05-01",
+			"openrank": 43.8,
+			"repositories": "5"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2026-06-01",
+			"openrank": 32,
+			"repositories": "2"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2025-07-01",
+			"openrank": 4871.2,
+			"repositories": "62"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2025-08-01",
+			"openrank": 4994.56,
+			"repositories": "66"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2025-09-01",
+			"openrank": 4897.41,
+			"repositories": "55"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2025-10-01",
+			"openrank": 4499.03,
+			"repositories": "53"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2025-11-01",
+			"openrank": 4398.06,
+			"repositories": "57"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2025-12-01",
+			"openrank": 4339.35,
+			"repositories": "64"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2026-01-01",
+			"openrank": 4151.44,
+			"repositories": "60"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2026-02-01",
+			"openrank": 3925.49,
+			"repositories": "58"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2026-03-01",
+			"openrank": 3655.34,
+			"repositories": "56"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2026-04-01",
+			"openrank": 3371.99,
+			"repositories": "60"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2026-05-01",
+			"openrank": 2796.49,
+			"repositories": "52"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2026-06-01",
+			"openrank": 2155.06,
+			"repositories": "45"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2025-07-01",
+			"openrank": 261.51,
+			"repositories": "55"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2025-08-01",
+			"openrank": 268.43,
+			"repositories": "58"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2025-09-01",
+			"openrank": 266.37,
+			"repositories": "61"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2025-10-01",
+			"openrank": 233.36,
+			"repositories": "53"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2025-11-01",
+			"openrank": 238.08,
+			"repositories": "53"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2025-12-01",
+			"openrank": 227.76,
+			"repositories": "51"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2026-01-01",
+			"openrank": 218.08,
+			"repositories": "56"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2026-02-01",
+			"openrank": 205.67,
+			"repositories": "52"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2026-03-01",
+			"openrank": 197.62,
+			"repositories": "66"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2026-04-01",
+			"openrank": 135.3,
+			"repositories": "33"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2026-05-01",
+			"openrank": 117.19,
+			"repositories": "28"
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2026-06-01",
+			"openrank": 68.73,
+			"repositories": "16"
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2025-07-01",
+			"openrank": 2402.9,
+			"repositories": "30"
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2025-08-01",
+			"openrank": 2393.25,
+			"repositories": "31"
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2025-09-01",
+			"openrank": 2416.8,
+			"repositories": "28"
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2025-10-01",
+			"openrank": 2144.19,
+			"repositories": "23"
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2025-11-01",
+			"openrank": 1963.76,
+			"repositories": "24"
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2025-12-01",
+			"openrank": 1828.92,
+			"repositories": "26"
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2026-01-01",
+			"openrank": 1815.15,
+			"repositories": "30"
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2026-02-01",
+			"openrank": 1655.34,
+			"repositories": "22"
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2026-03-01",
+			"openrank": 1454.92,
+			"repositories": "24"
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2026-04-01",
+			"openrank": 1248.39,
+			"repositories": "21"
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2026-05-01",
+			"openrank": 1111.1,
+			"repositories": "18"
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2026-06-01",
+			"openrank": 823.61,
+			"repositories": "17"
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2025-07-01",
+			"openrank": 10476.86,
+			"repositories": "2801"
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2025-08-01",
+			"openrank": 10684.88,
+			"repositories": "3250"
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2025-09-01",
+			"openrank": 10902.08,
+			"repositories": "2780"
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2025-10-01",
+			"openrank": 5919.36,
+			"repositories": "2363"
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2025-11-01",
+			"openrank": 7280.5,
+			"repositories": "2933"
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2025-12-01",
+			"openrank": 9837.31,
+			"repositories": "12643"
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2026-01-01",
+			"openrank": 6651.32,
+			"repositories": "1851"
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2026-02-01",
+			"openrank": 6791.89,
+			"repositories": "1545"
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2026-03-01",
+			"openrank": 7537.45,
+			"repositories": "1970"
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2026-04-01",
+			"openrank": 7827.61,
+			"repositories": "2152"
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2026-05-01",
+			"openrank": 7833.61,
+			"repositories": "1727"
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2026-06-01",
+			"openrank": 8222.46,
+			"repositories": "2133"
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2025-07-01",
+			"openrank": 69.43,
+			"repositories": "9"
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2025-08-01",
+			"openrank": 63.03,
+			"repositories": "11"
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2025-09-01",
+			"openrank": 65.72,
+			"repositories": "14"
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2025-10-01",
+			"openrank": 55.76,
+			"repositories": "6"
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2025-11-01",
+			"openrank": 56.26,
+			"repositories": "9"
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2025-12-01",
+			"openrank": 53.51,
+			"repositories": "7"
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2026-01-01",
+			"openrank": 45.28,
+			"repositories": "4"
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2026-02-01",
+			"openrank": 47.31,
+			"repositories": "7"
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2026-03-01",
+			"openrank": 38.7,
+			"repositories": "6"
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2026-04-01",
+			"openrank": 35.64,
+			"repositories": "5"
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2026-05-01",
+			"openrank": 30.69,
+			"repositories": "1"
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2026-06-01",
+			"openrank": 25.91,
+			"repositories": "1"
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2025-07-01",
+			"openrank": 210.63,
+			"repositories": "29"
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2025-08-01",
+			"openrank": 219.43,
+			"repositories": "26"
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2025-09-01",
+			"openrank": 205.7,
+			"repositories": "30"
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2025-10-01",
+			"openrank": 210.01,
+			"repositories": "23"
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2025-11-01",
+			"openrank": 209.82,
+			"repositories": "22"
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2025-12-01",
+			"openrank": 176.56,
+			"repositories": "21"
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2026-01-01",
+			"openrank": 169.26,
+			"repositories": "22"
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2026-02-01",
+			"openrank": 145.77,
+			"repositories": "22"
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2026-03-01",
+			"openrank": 135.36,
+			"repositories": "22"
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2026-04-01",
+			"openrank": 119.98,
+			"repositories": "23"
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2026-05-01",
+			"openrank": 98.58,
+			"repositories": "16"
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2026-06-01",
+			"openrank": 91.23,
+			"repositories": "16"
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2025-07-01",
+			"openrank": 1311.35,
+			"repositories": "47"
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2025-08-01",
+			"openrank": 1285.24,
+			"repositories": "45"
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2025-09-01",
+			"openrank": 1267.62,
+			"repositories": "47"
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2025-10-01",
+			"openrank": 1151.21,
+			"repositories": "46"
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2025-11-01",
+			"openrank": 1074.18,
+			"repositories": "43"
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2025-12-01",
+			"openrank": 1055.16,
+			"repositories": "36"
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2026-01-01",
+			"openrank": 947.07,
+			"repositories": "40"
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2026-02-01",
+			"openrank": 906.24,
+			"repositories": "40"
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2026-03-01",
+			"openrank": 807.2,
+			"repositories": "36"
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2026-04-01",
+			"openrank": 783.17,
+			"repositories": "39"
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2026-05-01",
+			"openrank": 728.31,
+			"repositories": "33"
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2026-06-01",
+			"openrank": 598.74,
+			"repositories": "18"
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2025-07-01",
+			"openrank": 628.29,
+			"repositories": "97"
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2025-08-01",
+			"openrank": 592.17,
+			"repositories": "117"
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2025-09-01",
+			"openrank": 560.79,
+			"repositories": "90"
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2025-10-01",
+			"openrank": 581.03,
+			"repositories": "112"
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2025-11-01",
+			"openrank": 574.69,
+			"repositories": "102"
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2025-12-01",
+			"openrank": 538.24,
+			"repositories": "99"
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2026-01-01",
+			"openrank": 508.88,
+			"repositories": "83"
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2026-02-01",
+			"openrank": 428.57,
+			"repositories": "66"
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2026-03-01",
+			"openrank": 392.46,
+			"repositories": "80"
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2026-04-01",
+			"openrank": 356,
+			"repositories": "74"
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2026-05-01",
+			"openrank": 284.69,
+			"repositories": "54"
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2026-06-01",
+			"openrank": 218.74,
+			"repositories": "20"
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2025-07-01",
+			"openrank": 1668.54,
+			"repositories": "98"
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2025-08-01",
+			"openrank": 1595.82,
+			"repositories": "90"
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2025-09-01",
+			"openrank": 1509.5,
+			"repositories": "90"
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2025-10-01",
+			"openrank": 1423.32,
+			"repositories": "77"
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2025-11-01",
+			"openrank": 1397.58,
+			"repositories": "83"
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2025-12-01",
+			"openrank": 1315.89,
+			"repositories": "82"
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2026-01-01",
+			"openrank": 1243.44,
+			"repositories": "82"
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2026-02-01",
+			"openrank": 1108.86,
+			"repositories": "77"
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2026-03-01",
+			"openrank": 979.47,
+			"repositories": "72"
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2026-04-01",
+			"openrank": 976.98,
+			"repositories": "76"
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2026-05-01",
+			"openrank": 799.52,
+			"repositories": "55"
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2026-06-01",
+			"openrank": 668.88,
+			"repositories": "45"
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2025-07-01",
+			"openrank": 147.92,
+			"repositories": "13"
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2025-08-01",
+			"openrank": 148.13,
+			"repositories": "13"
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2025-09-01",
+			"openrank": 31.27,
+			"repositories": "13"
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2025-10-01",
+			"openrank": 146.85,
+			"repositories": "11"
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2025-11-01",
+			"openrank": 144.38,
+			"repositories": "12"
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2025-12-01",
+			"openrank": 142.41,
+			"repositories": "10"
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2026-01-01",
+			"openrank": 133.82,
+			"repositories": "10"
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2026-02-01",
+			"openrank": 137.76,
+			"repositories": "12"
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2026-03-01",
+			"openrank": 138.25,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2026-04-01",
+			"openrank": 127.24,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2026-05-01",
+			"openrank": 117.65,
+			"repositories": "8"
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2026-06-01",
+			"openrank": 120.28,
+			"repositories": "3"
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2025-07-01",
+			"openrank": 164.38,
+			"repositories": "7"
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2025-08-01",
+			"openrank": 200.1,
+			"repositories": "10"
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2025-09-01",
+			"openrank": 205.64,
+			"repositories": "9"
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2025-10-01",
+			"openrank": 176.25,
+			"repositories": "5"
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2025-11-01",
+			"openrank": 153.88,
+			"repositories": "6"
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2025-12-01",
+			"openrank": 60.02,
+			"repositories": "3"
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2026-01-01",
+			"openrank": 32.92,
+			"repositories": "2"
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2026-02-01",
+			"openrank": 16.87,
+			"repositories": "3"
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2026-03-01",
+			"openrank": 13.55,
+			"repositories": "2"
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2026-04-01",
+			"openrank": 14.33,
+			"repositories": "2"
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2026-05-01",
+			"openrank": 9.82,
+			"repositories": "1"
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2026-06-01",
+			"openrank": 6.56,
+			"repositories": "1"
+		}
+	],
+
+	"rows": 387,
+
+	"statistics":
+	{
+		"elapsed": 0.811828694,
+		"rows_read": 216173308,
+		"bytes_read": 1465309244
+	}
+}

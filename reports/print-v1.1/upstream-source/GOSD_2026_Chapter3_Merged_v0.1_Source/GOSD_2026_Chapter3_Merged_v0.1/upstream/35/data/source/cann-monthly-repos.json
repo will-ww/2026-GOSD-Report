@@ -1,0 +1,4994 @@
+{
+	"meta":
+	[
+		{
+			"name": "platform",
+			"type": "LowCardinality(String)"
+		},
+		{
+			"name": "repo_id",
+			"type": "UInt64"
+		},
+		{
+			"name": "repo_name",
+			"type": "LowCardinality(String)"
+		},
+		{
+			"name": "month",
+			"type": "String"
+		},
+		{
+			"name": "openrank",
+			"type": "Float64"
+		}
+	],
+
+	"data":
+	[
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379660",
+			"repo_name": "cann\/cann-recipes-train",
+			"month": "2025-08",
+			"openrank": 1.3618
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623009",
+			"repo_name": "cann\/ascend-transformer-boost",
+			"month": "2025-09",
+			"openrank": 49.6471
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7631999",
+			"repo_name": "cann\/catlass",
+			"month": "2025-09",
+			"openrank": 15.2761
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649531",
+			"repo_name": "cann\/ops-math",
+			"month": "2025-09",
+			"openrank": 8.5896
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7665709",
+			"repo_name": "cann\/ops-nn",
+			"month": "2025-09",
+			"openrank": 7.8789
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623350",
+			"repo_name": "cann\/ascend-boost-comm",
+			"month": "2025-09",
+			"openrank": 7.3333
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7673863",
+			"repo_name": "cann\/ops-transformer",
+			"month": "2025-09",
+			"openrank": 6.6047
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379660",
+			"repo_name": "cann\/cann-recipes-train",
+			"month": "2025-09",
+			"openrank": 5.5028
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7637312",
+			"repo_name": "cann\/community",
+			"month": "2025-09",
+			"openrank": 3.7698
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7640418",
+			"repo_name": "cann\/cann-recipes-infer",
+			"month": "2025-09",
+			"openrank": 2.5679
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7657293",
+			"repo_name": "cann\/ops-cv",
+			"month": "2025-09",
+			"openrank": 1.815
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379672",
+			"repo_name": "cann\/cann-recipes-spatial-intelligence",
+			"month": "2025-09",
+			"openrank": 1.2217
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649482",
+			"repo_name": "cann\/opbase",
+			"month": "2025-09",
+			"openrank": 1.0923
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7673863",
+			"repo_name": "cann\/ops-transformer",
+			"month": "2025-10",
+			"openrank": 50.4757
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623009",
+			"repo_name": "cann\/ascend-transformer-boost",
+			"month": "2025-10",
+			"openrank": 41.981
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7665709",
+			"repo_name": "cann\/ops-nn",
+			"month": "2025-10",
+			"openrank": 38.1494
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649531",
+			"repo_name": "cann\/ops-math",
+			"month": "2025-10",
+			"openrank": 29.8584
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7640418",
+			"repo_name": "cann\/cann-recipes-infer",
+			"month": "2025-10",
+			"openrank": 24.4728
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7631999",
+			"repo_name": "cann\/catlass",
+			"month": "2025-10",
+			"openrank": 16.9032
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7702825",
+			"repo_name": "cann\/asnumpy",
+			"month": "2025-10",
+			"openrank": 9.1369
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7637312",
+			"repo_name": "cann\/community",
+			"month": "2025-10",
+			"openrank": 7.3423
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623350",
+			"repo_name": "cann\/ascend-boost-comm",
+			"month": "2025-10",
+			"openrank": 6.4933
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7657293",
+			"repo_name": "cann\/ops-cv",
+			"month": "2025-10",
+			"openrank": 5.6529
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7838749",
+			"repo_name": "cann\/hixl",
+			"month": "2025-10",
+			"openrank": 5.3013
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379660",
+			"repo_name": "cann\/cann-recipes-train",
+			"month": "2025-10",
+			"openrank": 5.1074
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649482",
+			"repo_name": "cann\/opbase",
+			"month": "2025-10",
+			"openrank": 2.5653
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379672",
+			"repo_name": "cann\/cann-recipes-spatial-intelligence",
+			"month": "2025-10",
+			"openrank": 1.2478
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8005834",
+			"repo_name": "cann\/graph-autofusion",
+			"month": "2025-10",
+			"openrank": 1.159
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380116",
+			"repo_name": "cann\/cann-recipes-embodied-intelligence",
+			"month": "2025-10",
+			"openrank": 0.8725
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7990062",
+			"repo_name": "cann\/infrastructure",
+			"month": "2025-10",
+			"openrank": 0.4265
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7673863",
+			"repo_name": "cann\/ops-transformer",
+			"month": "2025-11",
+			"openrank": 61.6055
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7665709",
+			"repo_name": "cann\/ops-nn",
+			"month": "2025-11",
+			"openrank": 57.8612
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649531",
+			"repo_name": "cann\/ops-math",
+			"month": "2025-11",
+			"openrank": 50.0812
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623009",
+			"repo_name": "cann\/ascend-transformer-boost",
+			"month": "2025-11",
+			"openrank": 45.3488
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7640418",
+			"repo_name": "cann\/cann-recipes-infer",
+			"month": "2025-11",
+			"openrank": 33.6936
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7631999",
+			"repo_name": "cann\/catlass",
+			"month": "2025-11",
+			"openrank": 22.4461
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7637312",
+			"repo_name": "cann\/community",
+			"month": "2025-11",
+			"openrank": 14.2151
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7838749",
+			"repo_name": "cann\/hixl",
+			"month": "2025-11",
+			"openrank": 13.7346
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7702825",
+			"repo_name": "cann\/asnumpy",
+			"month": "2025-11",
+			"openrank": 10.5288
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7657293",
+			"repo_name": "cann\/ops-cv",
+			"month": "2025-11",
+			"openrank": 9.6224
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379660",
+			"repo_name": "cann\/cann-recipes-train",
+			"month": "2025-11",
+			"openrank": 9.1693
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8005834",
+			"repo_name": "cann\/graph-autofusion",
+			"month": "2025-11",
+			"openrank": 5.6852
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379672",
+			"repo_name": "cann\/cann-recipes-spatial-intelligence",
+			"month": "2025-11",
+			"openrank": 4.7093
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623350",
+			"repo_name": "cann\/ascend-boost-comm",
+			"month": "2025-11",
+			"openrank": 4.1858
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547062",
+			"repo_name": "cann\/asc-devkit",
+			"month": "2025-11",
+			"openrank": 3.3751
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8082947",
+			"repo_name": "cann\/sip",
+			"month": "2025-11",
+			"openrank": 2.9622
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7990062",
+			"repo_name": "cann\/infrastructure",
+			"month": "2025-11",
+			"openrank": 2.9473
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649482",
+			"repo_name": "cann\/opbase",
+			"month": "2025-11",
+			"openrank": 2.8399
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547008",
+			"repo_name": "cann\/asc-tools",
+			"month": "2025-11",
+			"openrank": 2.4547
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380116",
+			"repo_name": "cann\/cann-recipes-embodied-intelligence",
+			"month": "2025-11",
+			"openrank": 1.9933
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7578631",
+			"repo_name": "cann\/atvoss",
+			"month": "2025-11",
+			"openrank": 0.8049
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8277906",
+			"repo_name": "cann\/hccl",
+			"month": "2025-11",
+			"openrank": 0.5346
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7874083",
+			"repo_name": "cann\/hcomm",
+			"month": "2025-11",
+			"openrank": 0.5346
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8257680",
+			"repo_name": "cann\/atvc",
+			"month": "2025-11",
+			"openrank": 0.4115
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546480",
+			"repo_name": "cann\/pyasc",
+			"month": "2025-11",
+			"openrank": 0.1242
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7673863",
+			"repo_name": "cann\/ops-transformer",
+			"month": "2025-12",
+			"openrank": 74.4729
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7665709",
+			"repo_name": "cann\/ops-nn",
+			"month": "2025-12",
+			"openrank": 55.1085
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649531",
+			"repo_name": "cann\/ops-math",
+			"month": "2025-12",
+			"openrank": 51.2366
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623009",
+			"repo_name": "cann\/ascend-transformer-boost",
+			"month": "2025-12",
+			"openrank": 47.1248
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7640418",
+			"repo_name": "cann\/cann-recipes-infer",
+			"month": "2025-12",
+			"openrank": 35.414
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7631999",
+			"repo_name": "cann\/catlass",
+			"month": "2025-12",
+			"openrank": 23.7125
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547062",
+			"repo_name": "cann\/asc-devkit",
+			"month": "2025-12",
+			"openrank": 14.1475
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7838749",
+			"repo_name": "cann\/hixl",
+			"month": "2025-12",
+			"openrank": 13.9616
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7637312",
+			"repo_name": "cann\/community",
+			"month": "2025-12",
+			"openrank": 12.7631
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379660",
+			"repo_name": "cann\/cann-recipes-train",
+			"month": "2025-12",
+			"openrank": 12.4391
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7657293",
+			"repo_name": "cann\/ops-cv",
+			"month": "2025-12",
+			"openrank": 9.724
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7702825",
+			"repo_name": "cann\/asnumpy",
+			"month": "2025-12",
+			"openrank": 9.5657
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546480",
+			"repo_name": "cann\/pyasc",
+			"month": "2025-12",
+			"openrank": 8.6482
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8005834",
+			"repo_name": "cann\/graph-autofusion",
+			"month": "2025-12",
+			"openrank": 6.7852
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623350",
+			"repo_name": "cann\/ascend-boost-comm",
+			"month": "2025-12",
+			"openrank": 5.2249
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7874083",
+			"repo_name": "cann\/hcomm",
+			"month": "2025-12",
+			"openrank": 4.5105
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379672",
+			"repo_name": "cann\/cann-recipes-spatial-intelligence",
+			"month": "2025-12",
+			"openrank": 4.0792
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7578631",
+			"repo_name": "cann\/atvoss",
+			"month": "2025-12",
+			"openrank": 3.3407
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380116",
+			"repo_name": "cann\/cann-recipes-embodied-intelligence",
+			"month": "2025-12",
+			"openrank": 3.241
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649482",
+			"repo_name": "cann\/opbase",
+			"month": "2025-12",
+			"openrank": 2.7444
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7990062",
+			"repo_name": "cann\/infrastructure",
+			"month": "2025-12",
+			"openrank": 2.551
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547008",
+			"repo_name": "cann\/asc-tools",
+			"month": "2025-12",
+			"openrank": 2.5174
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8277906",
+			"repo_name": "cann\/hccl",
+			"month": "2025-12",
+			"openrank": 2.43
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8082947",
+			"repo_name": "cann\/sip",
+			"month": "2025-12",
+			"openrank": 2.0759
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8257680",
+			"repo_name": "cann\/atvc",
+			"month": "2025-12",
+			"openrank": 1.1797
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8585306",
+			"repo_name": "cann\/triton-inference-server-ge-backend",
+			"month": "2025-12",
+			"openrank": 0.6723
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8635329",
+			"repo_name": "cann\/pypto",
+			"month": "2025-12",
+			"openrank": 0.3709
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380163",
+			"repo_name": "cann\/cann-recipes-harmony-infer",
+			"month": "2025-12",
+			"openrank": 0.3353
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8795005",
+			"repo_name": "cann\/driver",
+			"month": "2025-12",
+			"openrank": 0.28
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7673863",
+			"repo_name": "cann\/ops-transformer",
+			"month": "2026-01",
+			"openrank": 181.1276
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7665709",
+			"repo_name": "cann\/ops-nn",
+			"month": "2026-01",
+			"openrank": 157.9265
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649531",
+			"repo_name": "cann\/ops-math",
+			"month": "2026-01",
+			"openrank": 101.9619
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8635329",
+			"repo_name": "cann\/pypto",
+			"month": "2026-01",
+			"openrank": 90.9882
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824148",
+			"repo_name": "cann\/ge",
+			"month": "2026-01",
+			"openrank": 43.9471
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7640418",
+			"repo_name": "cann\/cann-recipes-infer",
+			"month": "2026-01",
+			"openrank": 43.1207
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547062",
+			"repo_name": "cann\/asc-devkit",
+			"month": "2026-01",
+			"openrank": 38.0334
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623009",
+			"repo_name": "cann\/ascend-transformer-boost",
+			"month": "2026-01",
+			"openrank": 36.8138
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8810053",
+			"repo_name": "cann\/runtime",
+			"month": "2026-01",
+			"openrank": 36.5028
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7631999",
+			"repo_name": "cann\/catlass",
+			"month": "2026-01",
+			"openrank": 26.0642
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7874083",
+			"repo_name": "cann\/hcomm",
+			"month": "2026-01",
+			"openrank": 24.474
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7657293",
+			"repo_name": "cann\/ops-cv",
+			"month": "2026-01",
+			"openrank": 22.8117
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7838749",
+			"repo_name": "cann\/hixl",
+			"month": "2026-01",
+			"openrank": 20.3545
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7637312",
+			"repo_name": "cann\/community",
+			"month": "2026-01",
+			"openrank": 19.7621
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8827531",
+			"repo_name": "cann\/pto-isa",
+			"month": "2026-01",
+			"openrank": 18.5051
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379660",
+			"repo_name": "cann\/cann-recipes-train",
+			"month": "2026-01",
+			"openrank": 14.7538
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546182",
+			"repo_name": "cann\/shmem",
+			"month": "2026-01",
+			"openrank": 13.4032
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649482",
+			"repo_name": "cann\/opbase",
+			"month": "2026-01",
+			"openrank": 9.5136
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546480",
+			"repo_name": "cann\/pyasc",
+			"month": "2026-01",
+			"openrank": 8.944
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7702825",
+			"repo_name": "cann\/asnumpy",
+			"month": "2026-01",
+			"openrank": 8.6049
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8277906",
+			"repo_name": "cann\/hccl",
+			"month": "2026-01",
+			"openrank": 6.712
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7990062",
+			"repo_name": "cann\/infrastructure",
+			"month": "2026-01",
+			"openrank": 6.4279
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547008",
+			"repo_name": "cann\/asc-tools",
+			"month": "2026-01",
+			"openrank": 6.0263
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8795005",
+			"repo_name": "cann\/driver",
+			"month": "2026-01",
+			"openrank": 5.9053
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824145",
+			"repo_name": "cann\/metadef",
+			"month": "2026-01",
+			"openrank": 5.7813
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380116",
+			"repo_name": "cann\/cann-recipes-embodied-intelligence",
+			"month": "2026-01",
+			"openrank": 5.3487
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8005834",
+			"repo_name": "cann\/graph-autofusion",
+			"month": "2026-01",
+			"openrank": 4.9272
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8082947",
+			"repo_name": "cann\/sip",
+			"month": "2026-01",
+			"openrank": 4.5407
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379672",
+			"repo_name": "cann\/cann-recipes-spatial-intelligence",
+			"month": "2026-01",
+			"openrank": 4.387
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8782573",
+			"repo_name": "cann\/amct",
+			"month": "2026-01",
+			"openrank": 4.1037
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8784133",
+			"repo_name": "cann\/oam-tools",
+			"month": "2026-01",
+			"openrank": 3.0971
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8585306",
+			"repo_name": "cann\/triton-inference-server-ge-backend",
+			"month": "2026-01",
+			"openrank": 2.9589
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "5882831",
+			"repo_name": "cann\/release-management",
+			"month": "2026-01",
+			"openrank": 2.9407
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623350",
+			"repo_name": "cann\/ascend-boost-comm",
+			"month": "2026-01",
+			"openrank": 2.8355
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7578631",
+			"repo_name": "cann\/atvoss",
+			"month": "2026-01",
+			"openrank": 2.5554
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8257680",
+			"repo_name": "cann\/atvc",
+			"month": "2026-01",
+			"openrank": 1.34
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8788227",
+			"repo_name": "cann\/cann-samples",
+			"month": "2026-01",
+			"openrank": 0.7426
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380163",
+			"repo_name": "cann\/cann-recipes-harmony-infer",
+			"month": "2026-01",
+			"openrank": 0.6774
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7673863",
+			"repo_name": "cann\/ops-transformer",
+			"month": "2026-02",
+			"openrank": 281.7471
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7665709",
+			"repo_name": "cann\/ops-nn",
+			"month": "2026-02",
+			"openrank": 251.3232
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8635329",
+			"repo_name": "cann\/pypto",
+			"month": "2026-02",
+			"openrank": 153.7364
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649531",
+			"repo_name": "cann\/ops-math",
+			"month": "2026-02",
+			"openrank": 130.184
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547062",
+			"repo_name": "cann\/asc-devkit",
+			"month": "2026-02",
+			"openrank": 75.4196
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824148",
+			"repo_name": "cann\/ge",
+			"month": "2026-02",
+			"openrank": 72.8868
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8810053",
+			"repo_name": "cann\/runtime",
+			"month": "2026-02",
+			"openrank": 71.623
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7874083",
+			"repo_name": "cann\/hcomm",
+			"month": "2026-02",
+			"openrank": 66.4766
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8827531",
+			"repo_name": "cann\/pto-isa",
+			"month": "2026-02",
+			"openrank": 40.1542
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7657293",
+			"repo_name": "cann\/ops-cv",
+			"month": "2026-02",
+			"openrank": 34.0961
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7640418",
+			"repo_name": "cann\/cann-recipes-infer",
+			"month": "2026-02",
+			"openrank": 33.0916
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623009",
+			"repo_name": "cann\/ascend-transformer-boost",
+			"month": "2026-02",
+			"openrank": 28.0792
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7631999",
+			"repo_name": "cann\/catlass",
+			"month": "2026-02",
+			"openrank": 27.1096
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7838749",
+			"repo_name": "cann\/hixl",
+			"month": "2026-02",
+			"openrank": 25.312
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546182",
+			"repo_name": "cann\/shmem",
+			"month": "2026-02",
+			"openrank": 25.2205
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379660",
+			"repo_name": "cann\/cann-recipes-train",
+			"month": "2026-02",
+			"openrank": 16.4357
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7637312",
+			"repo_name": "cann\/community",
+			"month": "2026-02",
+			"openrank": 15.194
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649482",
+			"repo_name": "cann\/opbase",
+			"month": "2026-02",
+			"openrank": 12.7575
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8277906",
+			"repo_name": "cann\/hccl",
+			"month": "2026-02",
+			"openrank": 12.0501
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824145",
+			"repo_name": "cann\/metadef",
+			"month": "2026-02",
+			"openrank": 10.2099
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547008",
+			"repo_name": "cann\/asc-tools",
+			"month": "2026-02",
+			"openrank": 9.0763
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546480",
+			"repo_name": "cann\/pyasc",
+			"month": "2026-02",
+			"openrank": 8.6145
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380116",
+			"repo_name": "cann\/cann-recipes-embodied-intelligence",
+			"month": "2026-02",
+			"openrank": 7.7563
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8795005",
+			"repo_name": "cann\/driver",
+			"month": "2026-02",
+			"openrank": 7.6613
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8005834",
+			"repo_name": "cann\/graph-autofusion",
+			"month": "2026-02",
+			"openrank": 7.2833
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8784133",
+			"repo_name": "cann\/oam-tools",
+			"month": "2026-02",
+			"openrank": 6.4477
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8782573",
+			"repo_name": "cann\/amct",
+			"month": "2026-02",
+			"openrank": 5.9179
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7990062",
+			"repo_name": "cann\/infrastructure",
+			"month": "2026-02",
+			"openrank": 5.8899
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379672",
+			"repo_name": "cann\/cann-recipes-spatial-intelligence",
+			"month": "2026-02",
+			"openrank": 5.6896
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8082947",
+			"repo_name": "cann\/sip",
+			"month": "2026-02",
+			"openrank": 5.0245
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "5882831",
+			"repo_name": "cann\/release-management",
+			"month": "2026-02",
+			"openrank": 4.7042
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7702825",
+			"repo_name": "cann\/asnumpy",
+			"month": "2026-02",
+			"openrank": 4.5477
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8788227",
+			"repo_name": "cann\/cann-samples",
+			"month": "2026-02",
+			"openrank": 3.4119
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8585306",
+			"repo_name": "cann\/triton-inference-server-ge-backend",
+			"month": "2026-02",
+			"openrank": 2.8766
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623350",
+			"repo_name": "cann\/ascend-boost-comm",
+			"month": "2026-02",
+			"openrank": 2.545
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7578631",
+			"repo_name": "cann\/atvoss",
+			"month": "2026-02",
+			"openrank": 2.3195
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8257680",
+			"repo_name": "cann\/atvc",
+			"month": "2026-02",
+			"openrank": 1.1426
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9128418",
+			"repo_name": "cann\/mat-chem-sim-pred",
+			"month": "2026-02",
+			"openrank": 0.7898
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380163",
+			"repo_name": "cann\/cann-recipes-harmony-infer",
+			"month": "2026-02",
+			"openrank": 0.5784
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7673863",
+			"repo_name": "cann\/ops-transformer",
+			"month": "2026-03",
+			"openrank": 388.0111
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7665709",
+			"repo_name": "cann\/ops-nn",
+			"month": "2026-03",
+			"openrank": 343.9014
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8635329",
+			"repo_name": "cann\/pypto",
+			"month": "2026-03",
+			"openrank": 211.0467
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649531",
+			"repo_name": "cann\/ops-math",
+			"month": "2026-03",
+			"openrank": 165.3239
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8810053",
+			"repo_name": "cann\/runtime",
+			"month": "2026-03",
+			"openrank": 123.5265
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824148",
+			"repo_name": "cann\/ge",
+			"month": "2026-03",
+			"openrank": 115.4739
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547062",
+			"repo_name": "cann\/asc-devkit",
+			"month": "2026-03",
+			"openrank": 115.1688
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7874083",
+			"repo_name": "cann\/hcomm",
+			"month": "2026-03",
+			"openrank": 110.4613
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8827531",
+			"repo_name": "cann\/pto-isa",
+			"month": "2026-03",
+			"openrank": 54.2228
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7657293",
+			"repo_name": "cann\/ops-cv",
+			"month": "2026-03",
+			"openrank": 45.9224
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7640418",
+			"repo_name": "cann\/cann-recipes-infer",
+			"month": "2026-03",
+			"openrank": 42.6824
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8277906",
+			"repo_name": "cann\/hccl",
+			"month": "2026-03",
+			"openrank": 34.8331
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7631999",
+			"repo_name": "cann\/catlass",
+			"month": "2026-03",
+			"openrank": 32.591
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546182",
+			"repo_name": "cann\/shmem",
+			"month": "2026-03",
+			"openrank": 32.1191
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7838749",
+			"repo_name": "cann\/hixl",
+			"month": "2026-03",
+			"openrank": 29.3812
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623009",
+			"repo_name": "cann\/ascend-transformer-boost",
+			"month": "2026-03",
+			"openrank": 28.7821
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8788227",
+			"repo_name": "cann\/cann-samples",
+			"month": "2026-03",
+			"openrank": 20.8809
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7637312",
+			"repo_name": "cann\/community",
+			"month": "2026-03",
+			"openrank": 19.75
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379660",
+			"repo_name": "cann\/cann-recipes-train",
+			"month": "2026-03",
+			"openrank": 14.0612
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649482",
+			"repo_name": "cann\/opbase",
+			"month": "2026-03",
+			"openrank": 14.0508
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380116",
+			"repo_name": "cann\/cann-recipes-embodied-intelligence",
+			"month": "2026-03",
+			"openrank": 13.2942
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824145",
+			"repo_name": "cann\/metadef",
+			"month": "2026-03",
+			"openrank": 11.7497
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8005834",
+			"repo_name": "cann\/graph-autofusion",
+			"month": "2026-03",
+			"openrank": 11.4916
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8795005",
+			"repo_name": "cann\/driver",
+			"month": "2026-03",
+			"openrank": 11.2274
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547008",
+			"repo_name": "cann\/asc-tools",
+			"month": "2026-03",
+			"openrank": 10.059
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8784133",
+			"repo_name": "cann\/oam-tools",
+			"month": "2026-03",
+			"openrank": 9.7599
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7702825",
+			"repo_name": "cann\/asnumpy",
+			"month": "2026-03",
+			"openrank": 9.3885
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9260575",
+			"repo_name": "cann\/cann-learning-hub",
+			"month": "2026-03",
+			"openrank": 9.3598
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8782573",
+			"repo_name": "cann\/amct",
+			"month": "2026-03",
+			"openrank": 9.2598
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7990062",
+			"repo_name": "cann\/infrastructure",
+			"month": "2026-03",
+			"openrank": 6.807
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546480",
+			"repo_name": "cann\/pyasc",
+			"month": "2026-03",
+			"openrank": 6.498
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "5882831",
+			"repo_name": "cann\/release-management",
+			"month": "2026-03",
+			"openrank": 6.0215
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9461373",
+			"repo_name": "cann\/skills",
+			"month": "2026-03",
+			"openrank": 5.52
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8082947",
+			"repo_name": "cann\/sip",
+			"month": "2026-03",
+			"openrank": 4.5769
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379672",
+			"repo_name": "cann\/cann-recipes-spatial-intelligence",
+			"month": "2026-03",
+			"openrank": 4.538
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916851",
+			"repo_name": "cann\/ops-blas",
+			"month": "2026-03",
+			"openrank": 3.8595
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8585306",
+			"repo_name": "cann\/triton-inference-server-ge-backend",
+			"month": "2026-03",
+			"openrank": 3.0685
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7578631",
+			"repo_name": "cann\/atvoss",
+			"month": "2026-03",
+			"openrank": 2.8741
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9364040",
+			"repo_name": "cann\/cann-spack-package",
+			"month": "2026-03",
+			"openrank": 1.9748
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9128418",
+			"repo_name": "cann\/mat-chem-sim-pred",
+			"month": "2026-03",
+			"openrank": 1.2047
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380163",
+			"repo_name": "cann\/cann-recipes-harmony-infer",
+			"month": "2026-03",
+			"openrank": 1.1469
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623350",
+			"repo_name": "cann\/ascend-boost-comm",
+			"month": "2026-03",
+			"openrank": 1.0752
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7627981",
+			"repo_name": "cann\/cann-agreements",
+			"month": "2026-03",
+			"openrank": 0.9528
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9302998",
+			"repo_name": "cann\/elec-ops-inspection",
+			"month": "2026-03",
+			"openrank": 0.7688
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "6092704",
+			"repo_name": "cann\/manifest",
+			"month": "2026-03",
+			"openrank": 0.7653
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9302993",
+			"repo_name": "cann\/elec-ops-simulation",
+			"month": "2026-03",
+			"openrank": 0.7069
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9302995",
+			"repo_name": "cann\/elec-ops-prediction",
+			"month": "2026-03",
+			"openrank": 0.6185
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8257680",
+			"repo_name": "cann\/atvc",
+			"month": "2026-03",
+			"openrank": 0.5957
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7673863",
+			"repo_name": "cann\/ops-transformer",
+			"month": "2026-04",
+			"openrank": 480.6279
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7665709",
+			"repo_name": "cann\/ops-nn",
+			"month": "2026-04",
+			"openrank": 359.8581
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8635329",
+			"repo_name": "cann\/pypto",
+			"month": "2026-04",
+			"openrank": 239.2004
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649531",
+			"repo_name": "cann\/ops-math",
+			"month": "2026-04",
+			"openrank": 182.6614
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8810053",
+			"repo_name": "cann\/runtime",
+			"month": "2026-04",
+			"openrank": 149.9204
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547062",
+			"repo_name": "cann\/asc-devkit",
+			"month": "2026-04",
+			"openrank": 147.1289
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7874083",
+			"repo_name": "cann\/hcomm",
+			"month": "2026-04",
+			"openrank": 136.6961
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824148",
+			"repo_name": "cann\/ge",
+			"month": "2026-04",
+			"openrank": 133.6
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8827531",
+			"repo_name": "cann\/pto-isa",
+			"month": "2026-04",
+			"openrank": 59.359
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8277906",
+			"repo_name": "cann\/hccl",
+			"month": "2026-04",
+			"openrank": 52.8258
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7640418",
+			"repo_name": "cann\/cann-recipes-infer",
+			"month": "2026-04",
+			"openrank": 52.6048
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7657293",
+			"repo_name": "cann\/ops-cv",
+			"month": "2026-04",
+			"openrank": 44.6614
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7838749",
+			"repo_name": "cann\/hixl",
+			"month": "2026-04",
+			"openrank": 36.4233
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546182",
+			"repo_name": "cann\/shmem",
+			"month": "2026-04",
+			"openrank": 36.0893
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7631999",
+			"repo_name": "cann\/catlass",
+			"month": "2026-04",
+			"openrank": 34.0455
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9461373",
+			"repo_name": "cann\/cannbot-skills",
+			"month": "2026-04",
+			"openrank": 30.9763
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8788227",
+			"repo_name": "cann\/cann-samples",
+			"month": "2026-04",
+			"openrank": 29.3349
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623009",
+			"repo_name": "cann\/ascend-transformer-boost",
+			"month": "2026-04",
+			"openrank": 25.7778
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7637312",
+			"repo_name": "cann\/community",
+			"month": "2026-04",
+			"openrank": 24.6662
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9260575",
+			"repo_name": "cann\/cann-learning-hub",
+			"month": "2026-04",
+			"openrank": 22.6536
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649482",
+			"repo_name": "cann\/opbase",
+			"month": "2026-04",
+			"openrank": 21.2296
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9516645",
+			"repo_name": "cann\/cann-competitions",
+			"month": "2026-04",
+			"openrank": 20.8202
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8005834",
+			"repo_name": "cann\/graph-autofusion",
+			"month": "2026-04",
+			"openrank": 16.6324
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380116",
+			"repo_name": "cann\/cann-recipes-embodied-intelligence",
+			"month": "2026-04",
+			"openrank": 14.9474
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8784133",
+			"repo_name": "cann\/oam-tools",
+			"month": "2026-04",
+			"openrank": 13.7037
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8795005",
+			"repo_name": "cann\/driver",
+			"month": "2026-04",
+			"openrank": 12.7261
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379660",
+			"repo_name": "cann\/cann-recipes-train",
+			"month": "2026-04",
+			"openrank": 12.613
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8782573",
+			"repo_name": "cann\/amct",
+			"month": "2026-04",
+			"openrank": 12.5466
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9028822",
+			"repo_name": "cann\/torchtitan-npu",
+			"month": "2026-04",
+			"openrank": 12.272
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824145",
+			"repo_name": "cann\/metadef",
+			"month": "2026-04",
+			"openrank": 11.862
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7702825",
+			"repo_name": "cann\/asnumpy",
+			"month": "2026-04",
+			"openrank": 11.0872
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7990062",
+			"repo_name": "cann\/infrastructure",
+			"month": "2026-04",
+			"openrank": 10.6322
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547008",
+			"repo_name": "cann\/asc-tools",
+			"month": "2026-04",
+			"openrank": 9.7085
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916851",
+			"repo_name": "cann\/ops-blas",
+			"month": "2026-04",
+			"openrank": 7.1638
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546480",
+			"repo_name": "cann\/pyasc",
+			"month": "2026-04",
+			"openrank": 6.9821
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "5882831",
+			"repo_name": "cann\/release-management",
+			"month": "2026-04",
+			"openrank": 6.6696
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9301267",
+			"repo_name": "cann\/catccos",
+			"month": "2026-04",
+			"openrank": 5.0383
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379672",
+			"repo_name": "cann\/cann-recipes-spatial-intelligence",
+			"month": "2026-04",
+			"openrank": 4.6305
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8082947",
+			"repo_name": "cann\/sip",
+			"month": "2026-04",
+			"openrank": 4.6077
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9636642",
+			"repo_name": "cann\/cmake",
+			"month": "2026-04",
+			"openrank": 3.6137
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7578631",
+			"repo_name": "cann\/atvoss",
+			"month": "2026-04",
+			"openrank": 2.8581
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916881",
+			"repo_name": "cann\/ops-tensor",
+			"month": "2026-04",
+			"openrank": 2.7814
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8585306",
+			"repo_name": "cann\/triton-inference-server-ge-backend",
+			"month": "2026-04",
+			"openrank": 2.7631
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9587699",
+			"repo_name": "cann\/cann-bench",
+			"month": "2026-04",
+			"openrank": 2.7328
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9625025",
+			"repo_name": "cann\/ops-collections",
+			"month": "2026-04",
+			"openrank": 2.5254
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623350",
+			"repo_name": "cann\/ascend-boost-comm",
+			"month": "2026-04",
+			"openrank": 2.3741
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916863",
+			"repo_name": "cann\/ops-sparse",
+			"month": "2026-04",
+			"openrank": 2.3153
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9630663",
+			"repo_name": "cann\/tensorflow",
+			"month": "2026-04",
+			"openrank": 1.7955
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916867",
+			"repo_name": "cann\/ops-solver",
+			"month": "2026-04",
+			"openrank": 1.5935
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9128418",
+			"repo_name": "cann\/mat-chem-sim-pred",
+			"month": "2026-04",
+			"openrank": 1.3872
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9579730",
+			"repo_name": "cann\/.gitcode",
+			"month": "2026-04",
+			"openrank": 1.215
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9364040",
+			"repo_name": "cann\/cann-spack-package",
+			"month": "2026-04",
+			"openrank": 1.1022
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9704197",
+			"repo_name": "cann\/xla-npu",
+			"month": "2026-04",
+			"openrank": 1.0964
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380163",
+			"repo_name": "cann\/cann-recipes-harmony-infer",
+			"month": "2026-04",
+			"openrank": 1.0265
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "6092704",
+			"repo_name": "cann\/manifest",
+			"month": "2026-04",
+			"openrank": 0.8643
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916889",
+			"repo_name": "cann\/ops-rand",
+			"month": "2026-04",
+			"openrank": 0.8266
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8257680",
+			"repo_name": "cann\/atvc",
+			"month": "2026-04",
+			"openrank": 0.6343
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916886",
+			"repo_name": "cann\/ops-fft",
+			"month": "2026-04",
+			"openrank": 0.5809
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7627981",
+			"repo_name": "cann\/cann-agreements",
+			"month": "2026-04",
+			"openrank": 0.4977
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9302995",
+			"repo_name": "cann\/elec-ops-prediction",
+			"month": "2026-04",
+			"openrank": 0.3327
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7673863",
+			"repo_name": "cann\/ops-transformer",
+			"month": "2026-05",
+			"openrank": 512.7238
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7665709",
+			"repo_name": "cann\/ops-nn",
+			"month": "2026-05",
+			"openrank": 417.875
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8635329",
+			"repo_name": "cann\/pypto",
+			"month": "2026-05",
+			"openrank": 265.0031
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547062",
+			"repo_name": "cann\/asc-devkit",
+			"month": "2026-05",
+			"openrank": 221.9133
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649531",
+			"repo_name": "cann\/ops-math",
+			"month": "2026-05",
+			"openrank": 182.8823
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8810053",
+			"repo_name": "cann\/runtime",
+			"month": "2026-05",
+			"openrank": 178.3065
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7874083",
+			"repo_name": "cann\/hcomm",
+			"month": "2026-05",
+			"openrank": 156.7822
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824148",
+			"repo_name": "cann\/ge",
+			"month": "2026-05",
+			"openrank": 136.9039
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8277906",
+			"repo_name": "cann\/hccl",
+			"month": "2026-05",
+			"openrank": 87.621
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8827531",
+			"repo_name": "cann\/pto-isa",
+			"month": "2026-05",
+			"openrank": 63.9384
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7640418",
+			"repo_name": "cann\/cann-recipes-infer",
+			"month": "2026-05",
+			"openrank": 60.8115
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9461373",
+			"repo_name": "cann\/cannbot-skills",
+			"month": "2026-05",
+			"openrank": 53.8808
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7657293",
+			"repo_name": "cann\/ops-cv",
+			"month": "2026-05",
+			"openrank": 44.216
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7838749",
+			"repo_name": "cann\/hixl",
+			"month": "2026-05",
+			"openrank": 44.1502
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9516645",
+			"repo_name": "cann\/cann-ops-competitions",
+			"month": "2026-05",
+			"openrank": 38.5728
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546182",
+			"repo_name": "cann\/shmem",
+			"month": "2026-05",
+			"openrank": 37.8977
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7631999",
+			"repo_name": "cann\/catlass",
+			"month": "2026-05",
+			"openrank": 37.7812
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8005834",
+			"repo_name": "cann\/graph-autofusion",
+			"month": "2026-05",
+			"openrank": 35.5281
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9865789",
+			"repo_name": "cann\/cann-outreach",
+			"month": "2026-05",
+			"openrank": 31.5477
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9028822",
+			"repo_name": "cann\/torchtitan-npu",
+			"month": "2026-05",
+			"openrank": 29.8507
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8788227",
+			"repo_name": "cann\/cann-samples",
+			"month": "2026-05",
+			"openrank": 27.9257
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9260575",
+			"repo_name": "cann\/cann-learning-hub",
+			"month": "2026-05",
+			"openrank": 27.5341
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7637312",
+			"repo_name": "cann\/community",
+			"month": "2026-05",
+			"openrank": 25.131
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649482",
+			"repo_name": "cann\/opbase",
+			"month": "2026-05",
+			"openrank": 21.884
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623009",
+			"repo_name": "cann\/ascend-transformer-boost",
+			"month": "2026-05",
+			"openrank": 20.2467
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8784133",
+			"repo_name": "cann\/oam-tools",
+			"month": "2026-05",
+			"openrank": 17.7652
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916851",
+			"repo_name": "cann\/ops-blas",
+			"month": "2026-05",
+			"openrank": 15.5633
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8782573",
+			"repo_name": "cann\/amct",
+			"month": "2026-05",
+			"openrank": 15.2847
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380116",
+			"repo_name": "cann\/cann-recipes-embodied-ai",
+			"month": "2026-05",
+			"openrank": 13.8999
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7990062",
+			"repo_name": "cann\/infrastructure",
+			"month": "2026-05",
+			"openrank": 13.3057
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824145",
+			"repo_name": "cann\/metadef",
+			"month": "2026-05",
+			"openrank": 12.2468
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8795005",
+			"repo_name": "cann\/driver",
+			"month": "2026-05",
+			"openrank": 11.7199
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9636642",
+			"repo_name": "cann\/cmake",
+			"month": "2026-05",
+			"openrank": 11.6925
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9587699",
+			"repo_name": "cann\/cann-bench",
+			"month": "2026-05",
+			"openrank": 10.4573
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547008",
+			"repo_name": "cann\/asc-tools",
+			"month": "2026-05",
+			"openrank": 10.0681
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379660",
+			"repo_name": "cann\/cann-recipes-train",
+			"month": "2026-05",
+			"openrank": 9.8266
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7702825",
+			"repo_name": "cann\/asnumpy",
+			"month": "2026-05",
+			"openrank": 7.5938
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8082947",
+			"repo_name": "cann\/sip",
+			"month": "2026-05",
+			"openrank": 7.4255
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916881",
+			"repo_name": "cann\/ops-tensor",
+			"month": "2026-05",
+			"openrank": 7.2485
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546480",
+			"repo_name": "cann\/pyasc",
+			"month": "2026-05",
+			"openrank": 6.1547
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9301267",
+			"repo_name": "cann\/catccos",
+			"month": "2026-05",
+			"openrank": 5.6925
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "5882831",
+			"repo_name": "cann\/release-management",
+			"month": "2026-05",
+			"openrank": 5.6232
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379672",
+			"repo_name": "cann\/cann-recipes-spatial-intelligence",
+			"month": "2026-05",
+			"openrank": 4.5343
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623350",
+			"repo_name": "cann\/ascend-boost-comm",
+			"month": "2026-05",
+			"openrank": 4.1039
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9872633",
+			"repo_name": "cann\/ops-test-kit",
+			"month": "2026-05",
+			"openrank": 3.7539
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380163",
+			"repo_name": "cann\/cann-recipes-harmony-infer",
+			"month": "2026-05",
+			"openrank": 3.7094
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916863",
+			"repo_name": "cann\/ops-sparse",
+			"month": "2026-05",
+			"openrank": 3.4105
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9625025",
+			"repo_name": "cann\/ops-collections",
+			"month": "2026-05",
+			"openrank": 3.2742
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7578631",
+			"repo_name": "cann\/atvoss",
+			"month": "2026-05",
+			"openrank": 2.7838
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9630663",
+			"repo_name": "cann\/tensorflow",
+			"month": "2026-05",
+			"openrank": 2.2846
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8585306",
+			"repo_name": "cann\/triton-inference-server-ge-backend",
+			"month": "2026-05",
+			"openrank": 1.7818
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9128418",
+			"repo_name": "cann\/mat-chem-sim-pred",
+			"month": "2026-05",
+			"openrank": 1.5117
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9704197",
+			"repo_name": "cann\/xla-npu",
+			"month": "2026-05",
+			"openrank": 1.3525
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916867",
+			"repo_name": "cann\/ops-solver",
+			"month": "2026-05",
+			"openrank": 1.2251
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916889",
+			"repo_name": "cann\/ops-rand",
+			"month": "2026-05",
+			"openrank": 1.0201
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9306431",
+			"repo_name": "cann\/asnumpy-docs",
+			"month": "2026-05",
+			"openrank": 1.0164
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916886",
+			"repo_name": "cann\/ops-fft",
+			"month": "2026-05",
+			"openrank": 0.8882
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9364040",
+			"repo_name": "cann\/cann-spack-package",
+			"month": "2026-05",
+			"openrank": 0.4765
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9302995",
+			"repo_name": "cann\/elec-ops-prediction",
+			"month": "2026-05",
+			"openrank": 0.4601
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8257680",
+			"repo_name": "cann\/atvc",
+			"month": "2026-05",
+			"openrank": 0.3644
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9302998",
+			"repo_name": "cann\/elec-ops-inspection",
+			"month": "2026-05",
+			"openrank": 0.3621
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9302993",
+			"repo_name": "cann\/elec-ops-simulation",
+			"month": "2026-05",
+			"openrank": 0.3487
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7673863",
+			"repo_name": "cann\/ops-transformer",
+			"month": "2026-06",
+			"openrank": 569.7444
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7665709",
+			"repo_name": "cann\/ops-nn",
+			"month": "2026-06",
+			"openrank": 456.5002
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547062",
+			"repo_name": "cann\/asc-devkit",
+			"month": "2026-06",
+			"openrank": 264.0182
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8635329",
+			"repo_name": "cann\/pypto",
+			"month": "2026-06",
+			"openrank": 263.8008
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8810053",
+			"repo_name": "cann\/runtime",
+			"month": "2026-06",
+			"openrank": 201.2501
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649531",
+			"repo_name": "cann\/ops-math",
+			"month": "2026-06",
+			"openrank": 193.807
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7874083",
+			"repo_name": "cann\/hcomm",
+			"month": "2026-06",
+			"openrank": 184.7799
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824148",
+			"repo_name": "cann\/ge",
+			"month": "2026-06",
+			"openrank": 126.1016
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8277906",
+			"repo_name": "cann\/hccl",
+			"month": "2026-06",
+			"openrank": 106.2908
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9865789",
+			"repo_name": "cann\/cann-outreach",
+			"month": "2026-06",
+			"openrank": 99.0335
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9516645",
+			"repo_name": "cann\/cann-ops-competitions",
+			"month": "2026-06",
+			"openrank": 84.5031
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7640418",
+			"repo_name": "cann\/cann-recipes-infer",
+			"month": "2026-06",
+			"openrank": 77.6463
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9461373",
+			"repo_name": "cann\/cannbot-skills",
+			"month": "2026-06",
+			"openrank": 73.4557
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8827531",
+			"repo_name": "cann\/pto-isa",
+			"month": "2026-06",
+			"openrank": 67.9531
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8005834",
+			"repo_name": "cann\/graph-autofusion",
+			"month": "2026-06",
+			"openrank": 60.4395
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7838749",
+			"repo_name": "cann\/hixl",
+			"month": "2026-06",
+			"openrank": 52.4421
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7657293",
+			"repo_name": "cann\/ops-cv",
+			"month": "2026-06",
+			"openrank": 47.4761
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546182",
+			"repo_name": "cann\/shmem",
+			"month": "2026-06",
+			"openrank": 47.3712
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7631999",
+			"repo_name": "cann\/catlass",
+			"month": "2026-06",
+			"openrank": 44.6736
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9260575",
+			"repo_name": "cann\/cann-learning-hub",
+			"month": "2026-06",
+			"openrank": 44.1125
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9028822",
+			"repo_name": "cann\/torchtitan-npu",
+			"month": "2026-06",
+			"openrank": 38.8444
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9865787",
+			"repo_name": "cann\/cann-launch-camp",
+			"month": "2026-06",
+			"openrank": 35.2533
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916851",
+			"repo_name": "cann\/ops-blas",
+			"month": "2026-06",
+			"openrank": 29.4488
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7637312",
+			"repo_name": "cann\/community",
+			"month": "2026-06",
+			"openrank": 27.1115
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8784133",
+			"repo_name": "cann\/oam-tools",
+			"month": "2026-06",
+			"openrank": 24.545
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649482",
+			"repo_name": "cann\/opbase",
+			"month": "2026-06",
+			"openrank": 21.4607
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623009",
+			"repo_name": "cann\/ascend-transformer-boost",
+			"month": "2026-06",
+			"openrank": 20.7965
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9587699",
+			"repo_name": "cann\/cann-bench",
+			"month": "2026-06",
+			"openrank": 20.3805
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8782573",
+			"repo_name": "cann\/amct",
+			"month": "2026-06",
+			"openrank": 20.3534
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8788227",
+			"repo_name": "cann\/cann-samples",
+			"month": "2026-06",
+			"openrank": 19.519
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9743536",
+			"repo_name": "cann\/pypto-gym",
+			"month": "2026-06",
+			"openrank": 19.0239
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916881",
+			"repo_name": "cann\/ops-tensor",
+			"month": "2026-06",
+			"openrank": 18.6649
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8795005",
+			"repo_name": "cann\/driver",
+			"month": "2026-06",
+			"openrank": 14.4755
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7990062",
+			"repo_name": "cann\/infrastructure",
+			"month": "2026-06",
+			"openrank": 13.8171
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379660",
+			"repo_name": "cann\/cann-recipes-train",
+			"month": "2026-06",
+			"openrank": 11.6187
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9301267",
+			"repo_name": "cann\/catccos",
+			"month": "2026-06",
+			"openrank": 10.7013
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9636642",
+			"repo_name": "cann\/cmake",
+			"month": "2026-06",
+			"openrank": 10.4444
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824145",
+			"repo_name": "cann\/metadef",
+			"month": "2026-06",
+			"openrank": 10.2724
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380116",
+			"repo_name": "cann\/cann-recipes-embodied-ai",
+			"month": "2026-06",
+			"openrank": 8.1893
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547008",
+			"repo_name": "cann\/asc-tools",
+			"month": "2026-06",
+			"openrank": 8.1085
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9302998",
+			"repo_name": "cann\/elec-ops-inspection",
+			"month": "2026-06",
+			"openrank": 6.9447
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7702825",
+			"repo_name": "cann\/asnumpy",
+			"month": "2026-06",
+			"openrank": 6.4329
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916863",
+			"repo_name": "cann\/ops-sparse",
+			"month": "2026-06",
+			"openrank": 5.915
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "5882831",
+			"repo_name": "cann\/release-management",
+			"month": "2026-06",
+			"openrank": 5.7115
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9872633",
+			"repo_name": "cann\/ops-test-kit",
+			"month": "2026-06",
+			"openrank": 5.1648
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8082947",
+			"repo_name": "cann\/sip",
+			"month": "2026-06",
+			"openrank": 5.1555
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546480",
+			"repo_name": "cann\/pyasc",
+			"month": "2026-06",
+			"openrank": 4.4333
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9625025",
+			"repo_name": "cann\/ops-collections",
+			"month": "2026-06",
+			"openrank": 3.7107
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380163",
+			"repo_name": "cann\/cann-recipes-harmony-infer",
+			"month": "2026-06",
+			"openrank": 3.4372
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8585306",
+			"repo_name": "cann\/triton-inference-server-ge-backend",
+			"month": "2026-06",
+			"openrank": 3.3311
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9128418",
+			"repo_name": "cann\/mat-chem-sim-pred",
+			"month": "2026-06",
+			"openrank": 3.0039
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916867",
+			"repo_name": "cann\/ops-solver",
+			"month": "2026-06",
+			"openrank": 2.8752
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9630663",
+			"repo_name": "cann\/tensorflow",
+			"month": "2026-06",
+			"openrank": 2.7033
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10007023",
+			"repo_name": "cann\/ops-multimodal-fusion",
+			"month": "2026-06",
+			"openrank": 2.5156
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623350",
+			"repo_name": "cann\/ascend-boost-comm",
+			"month": "2026-06",
+			"openrank": 2.2055
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379672",
+			"repo_name": "cann\/cann-recipes-spatial-intelligence",
+			"month": "2026-06",
+			"openrank": 1.6652
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7578631",
+			"repo_name": "cann\/atvoss",
+			"month": "2026-06",
+			"openrank": 1.6557
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9579730",
+			"repo_name": "cann\/.gitcode",
+			"month": "2026-06",
+			"openrank": 1.285
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9704197",
+			"repo_name": "cann\/xla-npu",
+			"month": "2026-06",
+			"openrank": 1.0279
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9364040",
+			"repo_name": "cann\/cann-spack-package",
+			"month": "2026-06",
+			"openrank": 0.9954
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "6092704",
+			"repo_name": "cann\/manifest",
+			"month": "2026-06",
+			"openrank": 0.7869
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916886",
+			"repo_name": "cann\/ops-fft",
+			"month": "2026-06",
+			"openrank": 0.6797
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8257680",
+			"repo_name": "cann\/atvc",
+			"month": "2026-06",
+			"openrank": 0.3745
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7673863",
+			"repo_name": "cann\/ops-transformer",
+			"month": "2026-07",
+			"openrank": 568.7983
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7665709",
+			"repo_name": "cann\/ops-nn",
+			"month": "2026-07",
+			"openrank": 476.9517
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547062",
+			"repo_name": "cann\/asc-devkit",
+			"month": "2026-07",
+			"openrank": 268.0075
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8635329",
+			"repo_name": "cann\/pypto",
+			"month": "2026-07",
+			"openrank": 237.4781
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7874083",
+			"repo_name": "cann\/hcomm",
+			"month": "2026-07",
+			"openrank": 224.0408
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649531",
+			"repo_name": "cann\/ops-math",
+			"month": "2026-07",
+			"openrank": 209.328
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8810053",
+			"repo_name": "cann\/runtime",
+			"month": "2026-07",
+			"openrank": 203.5873
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9865789",
+			"repo_name": "cann\/cann-outreach",
+			"month": "2026-07",
+			"openrank": 162.7848
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8277906",
+			"repo_name": "cann\/hccl",
+			"month": "2026-07",
+			"openrank": 134.3671
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824148",
+			"repo_name": "cann\/ge",
+			"month": "2026-07",
+			"openrank": 116.488
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9260575",
+			"repo_name": "cann\/cann-learning-hub",
+			"month": "2026-07",
+			"openrank": 101.8546
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9865787",
+			"repo_name": "cann\/cann-launch-camp",
+			"month": "2026-07",
+			"openrank": 95.2869
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9516645",
+			"repo_name": "cann\/cann-ops-competitions",
+			"month": "2026-07",
+			"openrank": 90.8518
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9461373",
+			"repo_name": "cann\/cannbot-skills",
+			"month": "2026-07",
+			"openrank": 88.8937
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8005834",
+			"repo_name": "cann\/graph-autofusion",
+			"month": "2026-07",
+			"openrank": 80.3831
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7640418",
+			"repo_name": "cann\/cann-recipes-infer",
+			"month": "2026-07",
+			"openrank": 79.8387
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8827531",
+			"repo_name": "cann\/pto-isa",
+			"month": "2026-07",
+			"openrank": 68.9823
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7631999",
+			"repo_name": "cann\/catlass",
+			"month": "2026-07",
+			"openrank": 59.3328
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7838749",
+			"repo_name": "cann\/hixl",
+			"month": "2026-07",
+			"openrank": 55.4637
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546182",
+			"repo_name": "cann\/shmem",
+			"month": "2026-07",
+			"openrank": 50.2801
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9028822",
+			"repo_name": "cann\/torchtitan-npu",
+			"month": "2026-07",
+			"openrank": 50.2371
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7657293",
+			"repo_name": "cann\/ops-cv",
+			"month": "2026-07",
+			"openrank": 44.3011
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916851",
+			"repo_name": "cann\/ops-blas",
+			"month": "2026-07",
+			"openrank": 31.8315
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916881",
+			"repo_name": "cann\/ops-tensor",
+			"month": "2026-07",
+			"openrank": 31.7314
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7637312",
+			"repo_name": "cann\/community",
+			"month": "2026-07",
+			"openrank": 25.8002
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9587699",
+			"repo_name": "cann\/cann-bench",
+			"month": "2026-07",
+			"openrank": 25.5337
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9743536",
+			"repo_name": "cann\/pypto-gym",
+			"month": "2026-07",
+			"openrank": 23.8422
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649482",
+			"repo_name": "cann\/opbase",
+			"month": "2026-07",
+			"openrank": 23.6921
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8782573",
+			"repo_name": "cann\/amct",
+			"month": "2026-07",
+			"openrank": 23.516
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916863",
+			"repo_name": "cann\/ops-sparse",
+			"month": "2026-07",
+			"openrank": 22.706
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8784133",
+			"repo_name": "cann\/oam-tools",
+			"month": "2026-07",
+			"openrank": 22.4816
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8788227",
+			"repo_name": "cann\/cann-samples",
+			"month": "2026-07",
+			"openrank": 18.0144
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8795005",
+			"repo_name": "cann\/driver",
+			"month": "2026-07",
+			"openrank": 16.0041
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7990062",
+			"repo_name": "cann\/infrastructure",
+			"month": "2026-07",
+			"openrank": 15.8569
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623009",
+			"repo_name": "cann\/ascend-transformer-boost",
+			"month": "2026-07",
+			"openrank": 14.7569
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9872633",
+			"repo_name": "cann\/ops-test-kit",
+			"month": "2026-07",
+			"openrank": 14.1981
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380116",
+			"repo_name": "cann\/cann-recipes-embodied-ai",
+			"month": "2026-07",
+			"openrank": 14.1803
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9301267",
+			"repo_name": "cann\/catccos",
+			"month": "2026-07",
+			"openrank": 11.7008
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379660",
+			"repo_name": "cann\/cann-recipes-train",
+			"month": "2026-07",
+			"openrank": 10.5899
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824145",
+			"repo_name": "cann\/metadef",
+			"month": "2026-07",
+			"openrank": 10.361
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9636642",
+			"repo_name": "cann\/cmake",
+			"month": "2026-07",
+			"openrank": 10.3425
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "5882831",
+			"repo_name": "cann\/release-management",
+			"month": "2026-07",
+			"openrank": 10.1111
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9679070",
+			"repo_name": "cann\/asc-comm",
+			"month": "2026-07",
+			"openrank": 9.6065
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546480",
+			"repo_name": "cann\/pyasc",
+			"month": "2026-07",
+			"openrank": 8.274
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7702825",
+			"repo_name": "cann\/asnumpy",
+			"month": "2026-07",
+			"openrank": 7.6898
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547008",
+			"repo_name": "cann\/asc-tools",
+			"month": "2026-07",
+			"openrank": 6.933
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8082947",
+			"repo_name": "cann\/sip",
+			"month": "2026-07",
+			"openrank": 5.8332
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10007023",
+			"repo_name": "cann\/ops-multimodal-fusion",
+			"month": "2026-07",
+			"openrank": 4.5315
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9128418",
+			"repo_name": "cann\/mat-chem-sim-pred",
+			"month": "2026-07",
+			"openrank": 3.439
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623350",
+			"repo_name": "cann\/ascend-boost-comm",
+			"month": "2026-07",
+			"openrank": 3.3997
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9579730",
+			"repo_name": "cann\/.gitcode",
+			"month": "2026-07",
+			"openrank": 3.3786
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9630663",
+			"repo_name": "cann\/tensorflow",
+			"month": "2026-07",
+			"openrank": 2.9939
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8585306",
+			"repo_name": "cann\/triton-inference-server-ge-backend",
+			"month": "2026-07",
+			"openrank": 2.9763
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916867",
+			"repo_name": "cann\/ops-solver",
+			"month": "2026-07",
+			"openrank": 2.859
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916886",
+			"repo_name": "cann\/ops-fft",
+			"month": "2026-07",
+			"openrank": 2.4979
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10246646",
+			"repo_name": "cann\/ops-gnn",
+			"month": "2026-07",
+			"openrank": 2.2754
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9934980",
+			"repo_name": "cann\/docs",
+			"month": "2026-07",
+			"openrank": 2.1408
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9364040",
+			"repo_name": "cann\/cann-spack-package",
+			"month": "2026-07",
+			"openrank": 2.1138
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9625025",
+			"repo_name": "cann\/ops-collections",
+			"month": "2026-07",
+			"openrank": 1.6615
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380163",
+			"repo_name": "cann\/cann-recipes-harmony-infer",
+			"month": "2026-07",
+			"openrank": 1.4399
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9704197",
+			"repo_name": "cann\/xla-npu",
+			"month": "2026-07",
+			"openrank": 1.4245
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "6092704",
+			"repo_name": "cann\/manifest",
+			"month": "2026-07",
+			"openrank": 1.4091
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379672",
+			"repo_name": "cann\/cann-recipes-spatial-intelligence",
+			"month": "2026-07",
+			"openrank": 1.0869
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7578631",
+			"repo_name": "cann\/atvoss",
+			"month": "2026-07",
+			"openrank": 1.0364
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9329169",
+			"repo_name": "cann\/gauss-splat",
+			"month": "2026-07",
+			"openrank": 1.0123
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7673863",
+			"repo_name": "cann\/ops-transformer",
+			"month": "2026-08",
+			"openrank": 606.9761
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7665709",
+			"repo_name": "cann\/ops-nn",
+			"month": "2026-08",
+			"openrank": 470.304
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547062",
+			"repo_name": "cann\/asc-devkit",
+			"month": "2026-08",
+			"openrank": 274.7566
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8635329",
+			"repo_name": "cann\/pypto",
+			"month": "2026-08",
+			"openrank": 230.6514
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7874083",
+			"repo_name": "cann\/hcomm",
+			"month": "2026-08",
+			"openrank": 224.8104
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649531",
+			"repo_name": "cann\/ops-math",
+			"month": "2026-08",
+			"openrank": 224.4196
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8810053",
+			"repo_name": "cann\/runtime",
+			"month": "2026-08",
+			"openrank": 219.078
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9865789",
+			"repo_name": "cann\/cann-outreach",
+			"month": "2026-08",
+			"openrank": 186.2314
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9516645",
+			"repo_name": "cann\/cann-ops-competitions",
+			"month": "2026-08",
+			"openrank": 142.112
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9260575",
+			"repo_name": "cann\/cann-learning-hub",
+			"month": "2026-08",
+			"openrank": 137.6814
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8277906",
+			"repo_name": "cann\/hccl",
+			"month": "2026-08",
+			"openrank": 136.2749
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824148",
+			"repo_name": "cann\/ge",
+			"month": "2026-08",
+			"openrank": 123.5796
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9461373",
+			"repo_name": "cann\/cannbot-skills",
+			"month": "2026-08",
+			"openrank": 88.1104
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8005834",
+			"repo_name": "cann\/graph-autofusion",
+			"month": "2026-08",
+			"openrank": 82.6642
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7640418",
+			"repo_name": "cann\/cann-recipes-infer",
+			"month": "2026-08",
+			"openrank": 78.0809
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7631999",
+			"repo_name": "cann\/catlass",
+			"month": "2026-08",
+			"openrank": 72.9664
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9028822",
+			"repo_name": "cann\/torchtitan-npu",
+			"month": "2026-08",
+			"openrank": 67.5898
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8827531",
+			"repo_name": "cann\/pto-isa",
+			"month": "2026-08",
+			"openrank": 67.0113
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7657293",
+			"repo_name": "cann\/ops-cv",
+			"month": "2026-08",
+			"openrank": 56.2524
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7838749",
+			"repo_name": "cann\/hixl",
+			"month": "2026-08",
+			"openrank": 55.9623
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546182",
+			"repo_name": "cann\/shmem",
+			"month": "2026-08",
+			"openrank": 54.5503
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9865787",
+			"repo_name": "cann\/cann-launch-camp",
+			"month": "2026-08",
+			"openrank": 49.0887
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9743536",
+			"repo_name": "cann\/pypto-gym",
+			"month": "2026-08",
+			"openrank": 47.4229
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916881",
+			"repo_name": "cann\/ops-tensor",
+			"month": "2026-08",
+			"openrank": 42.051
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916863",
+			"repo_name": "cann\/ops-sparse",
+			"month": "2026-08",
+			"openrank": 34.769
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8784133",
+			"repo_name": "cann\/oam-tools",
+			"month": "2026-08",
+			"openrank": 29.4287
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916851",
+			"repo_name": "cann\/ops-blas",
+			"month": "2026-08",
+			"openrank": 27.2792
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9872633",
+			"repo_name": "cann\/ops-test-kit",
+			"month": "2026-08",
+			"openrank": 27.1419
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7637312",
+			"repo_name": "cann\/community",
+			"month": "2026-08",
+			"openrank": 27.0994
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8782573",
+			"repo_name": "cann\/amct",
+			"month": "2026-08",
+			"openrank": 26.7967
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649482",
+			"repo_name": "cann\/opbase",
+			"month": "2026-08",
+			"openrank": 26.5057
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9587699",
+			"repo_name": "cann\/cann-bench",
+			"month": "2026-08",
+			"openrank": 26.1526
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9679070",
+			"repo_name": "cann\/asc-comm",
+			"month": "2026-08",
+			"openrank": 22.0754
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7990062",
+			"repo_name": "cann\/infrastructure",
+			"month": "2026-08",
+			"openrank": 20.1693
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8788227",
+			"repo_name": "cann\/cann-samples",
+			"month": "2026-08",
+			"openrank": 16.9221
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380116",
+			"repo_name": "cann\/cann-recipes-embodied-ai",
+			"month": "2026-08",
+			"openrank": 15.0913
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547008",
+			"repo_name": "cann\/asc-tools",
+			"month": "2026-08",
+			"openrank": 14.6417
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8795005",
+			"repo_name": "cann\/driver",
+			"month": "2026-08",
+			"openrank": 14.1041
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623009",
+			"repo_name": "cann\/ascend-transformer-boost",
+			"month": "2026-08",
+			"openrank": 12.1141
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9301267",
+			"repo_name": "cann\/catccos",
+			"month": "2026-08",
+			"openrank": 11.6306
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824145",
+			"repo_name": "cann\/metadef",
+			"month": "2026-08",
+			"openrank": 10.7984
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9636642",
+			"repo_name": "cann\/cmake",
+			"month": "2026-08",
+			"openrank": 10.2716
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10246646",
+			"repo_name": "cann\/ops-gnn",
+			"month": "2026-08",
+			"openrank": 8.33
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546480",
+			"repo_name": "cann\/pyasc",
+			"month": "2026-08",
+			"openrank": 8.2484
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379660",
+			"repo_name": "cann\/cann-recipes-train",
+			"month": "2026-08",
+			"openrank": 7.6163
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "5882831",
+			"repo_name": "cann\/release-management",
+			"month": "2026-08",
+			"openrank": 7.2797
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916867",
+			"repo_name": "cann\/ops-solver",
+			"month": "2026-08",
+			"openrank": 6.7716
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8082947",
+			"repo_name": "cann\/sip",
+			"month": "2026-08",
+			"openrank": 6.5619
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10528878",
+			"repo_name": "cann\/cannbot-dsl",
+			"month": "2026-08",
+			"openrank": 6.4654
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916886",
+			"repo_name": "cann\/ops-fft",
+			"month": "2026-08",
+			"openrank": 5.4942
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9579730",
+			"repo_name": "cann\/.gitcode",
+			"month": "2026-08",
+			"openrank": 5.4385
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7702825",
+			"repo_name": "cann\/asnumpy",
+			"month": "2026-08",
+			"openrank": 5.0159
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9128418",
+			"repo_name": "cann\/mat-chem-sim-pred",
+			"month": "2026-08",
+			"openrank": 4.7031
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10007023",
+			"repo_name": "cann\/ops-multimodal-fusion",
+			"month": "2026-08",
+			"openrank": 4.4423
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9934980",
+			"repo_name": "cann\/docs",
+			"month": "2026-08",
+			"openrank": 4.4142
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9329169",
+			"repo_name": "cann\/gauss-splat",
+			"month": "2026-08",
+			"openrank": 4.282
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9625025",
+			"repo_name": "cann\/ops-collections",
+			"month": "2026-08",
+			"openrank": 3.9876
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9630663",
+			"repo_name": "cann\/tensorflow",
+			"month": "2026-08",
+			"openrank": 3.8389
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623350",
+			"repo_name": "cann\/ascend-boost-comm",
+			"month": "2026-08",
+			"openrank": 3.7991
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8585306",
+			"repo_name": "cann\/triton-inference-server-ge-backend",
+			"month": "2026-08",
+			"openrank": 3.0605
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9173747",
+			"repo_name": "cann\/ops-ras",
+			"month": "2026-08",
+			"openrank": 3.0238
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380163",
+			"repo_name": "cann\/cann-recipes-harmony-infer",
+			"month": "2026-08",
+			"openrank": 2.9304
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379672",
+			"repo_name": "cann\/cann-recipes-spatial-intelligence",
+			"month": "2026-08",
+			"openrank": 1.8921
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9302998",
+			"repo_name": "cann\/elec-ops-inspection",
+			"month": "2026-08",
+			"openrank": 1.8313
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9704197",
+			"repo_name": "cann\/xla-npu",
+			"month": "2026-08",
+			"openrank": 1.7634
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8257680",
+			"repo_name": "cann\/atvc",
+			"month": "2026-08",
+			"openrank": 1.5249
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916889",
+			"repo_name": "cann\/ops-rand",
+			"month": "2026-08",
+			"openrank": 1.2268
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9364040",
+			"repo_name": "cann\/cann-spack-package",
+			"month": "2026-08",
+			"openrank": 1.0714
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "6092704",
+			"repo_name": "cann\/manifest",
+			"month": "2026-08",
+			"openrank": 0.9313
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9306431",
+			"repo_name": "cann\/asnumpy-docs",
+			"month": "2026-08",
+			"openrank": 0.8974
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10149854",
+			"repo_name": "cann\/its-matrix-computation",
+			"month": "2026-08",
+			"openrank": 0.6927
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7578631",
+			"repo_name": "cann\/atvoss",
+			"month": "2026-08",
+			"openrank": 0.6434
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9302993",
+			"repo_name": "cann\/elec-ops-simulation",
+			"month": "2026-08",
+			"openrank": 0.4319
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9302995",
+			"repo_name": "cann\/elec-ops-prediction",
+			"month": "2026-08",
+			"openrank": 0.4108
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10149845",
+			"repo_name": "cann\/its-trip",
+			"month": "2026-08",
+			"openrank": 0.3369
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10149850",
+			"repo_name": "cann\/its-stable-llm",
+			"month": "2026-08",
+			"openrank": 0.3369
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7673863",
+			"repo_name": "cann\/ops-transformer",
+			"month": "2026-09",
+			"openrank": 633.3058
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7665709",
+			"repo_name": "cann\/ops-nn",
+			"month": "2026-09",
+			"openrank": 489.5722
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9865789",
+			"repo_name": "cann\/cann-outreach",
+			"month": "2026-09",
+			"openrank": 370.9575
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547062",
+			"repo_name": "cann\/asc-devkit",
+			"month": "2026-09",
+			"openrank": 267.9546
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7874083",
+			"repo_name": "cann\/hcomm",
+			"month": "2026-09",
+			"openrank": 245.4102
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8635329",
+			"repo_name": "cann\/pypto",
+			"month": "2026-09",
+			"openrank": 236.0609
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8810053",
+			"repo_name": "cann\/runtime",
+			"month": "2026-09",
+			"openrank": 214.58
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649531",
+			"repo_name": "cann\/ops-math",
+			"month": "2026-09",
+			"openrank": 199.8364
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9516645",
+			"repo_name": "cann\/cann-ops-competitions",
+			"month": "2026-09",
+			"openrank": 155.7739
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8277906",
+			"repo_name": "cann\/hccl",
+			"month": "2026-09",
+			"openrank": 146.1492
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824148",
+			"repo_name": "cann\/ge",
+			"month": "2026-09",
+			"openrank": 115.9247
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9260575",
+			"repo_name": "cann\/cann-learning-hub",
+			"month": "2026-09",
+			"openrank": 110.4099
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8005834",
+			"repo_name": "cann\/graph-autofusion",
+			"month": "2026-09",
+			"openrank": 89.7506
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9461373",
+			"repo_name": "cann\/cannbot-skills",
+			"month": "2026-09",
+			"openrank": 87.992
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9028822",
+			"repo_name": "cann\/torchtitan-npu",
+			"month": "2026-09",
+			"openrank": 84.2166
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7631999",
+			"repo_name": "cann\/catlass",
+			"month": "2026-09",
+			"openrank": 72.5152
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7657293",
+			"repo_name": "cann\/ops-cv",
+			"month": "2026-09",
+			"openrank": 71.5128
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7640418",
+			"repo_name": "cann\/cann-recipes-infer",
+			"month": "2026-09",
+			"openrank": 71.0166
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916851",
+			"repo_name": "cann\/ops-blas",
+			"month": "2026-09",
+			"openrank": 68.9322
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7838749",
+			"repo_name": "cann\/hixl",
+			"month": "2026-09",
+			"openrank": 64.4255
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8827531",
+			"repo_name": "cann\/pto-isa",
+			"month": "2026-09",
+			"openrank": 62.7416
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9743536",
+			"repo_name": "cann\/pypto-gym",
+			"month": "2026-09",
+			"openrank": 54.1392
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546182",
+			"repo_name": "cann\/shmem",
+			"month": "2026-09",
+			"openrank": 46.5327
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916863",
+			"repo_name": "cann\/ops-sparse",
+			"month": "2026-09",
+			"openrank": 46.5311
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916881",
+			"repo_name": "cann\/ops-tensor",
+			"month": "2026-09",
+			"openrank": 43.7663
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9865787",
+			"repo_name": "cann\/cann-launch-camp",
+			"month": "2026-09",
+			"openrank": 38.0912
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8782573",
+			"repo_name": "cann\/amct",
+			"month": "2026-09",
+			"openrank": 33.0804
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649482",
+			"repo_name": "cann\/opbase",
+			"month": "2026-09",
+			"openrank": 32.491
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9679070",
+			"repo_name": "cann\/asc-comm",
+			"month": "2026-09",
+			"openrank": 32.1743
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7637312",
+			"repo_name": "cann\/community",
+			"month": "2026-09",
+			"openrank": 30.6776
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8784133",
+			"repo_name": "cann\/oam-tools",
+			"month": "2026-09",
+			"openrank": 30.6232
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547008",
+			"repo_name": "cann\/asc-tools",
+			"month": "2026-09",
+			"openrank": 28.7947
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9872633",
+			"repo_name": "cann\/ops-test-kit",
+			"month": "2026-09",
+			"openrank": 26.3831
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9587699",
+			"repo_name": "cann\/cann-bench",
+			"month": "2026-09",
+			"openrank": 24.4728
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7990062",
+			"repo_name": "cann\/infrastructure",
+			"month": "2026-09",
+			"openrank": 23.4157
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10528878",
+			"repo_name": "cann\/cannbot-dsl",
+			"month": "2026-09",
+			"openrank": 21.2835
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8795005",
+			"repo_name": "cann\/driver",
+			"month": "2026-09",
+			"openrank": 16.6747
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8788227",
+			"repo_name": "cann\/cann-samples",
+			"month": "2026-09",
+			"openrank": 13.45
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9301267",
+			"repo_name": "cann\/catccos",
+			"month": "2026-09",
+			"openrank": 12.9425
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10708627",
+			"repo_name": "cann\/cannbot",
+			"month": "2026-09",
+			"openrank": 12.2764
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824145",
+			"repo_name": "cann\/metadef",
+			"month": "2026-09",
+			"openrank": 12.2739
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380116",
+			"repo_name": "cann\/cann-recipes-embodied-ai",
+			"month": "2026-09",
+			"openrank": 11.9341
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379660",
+			"repo_name": "cann\/cann-recipes-train",
+			"month": "2026-09",
+			"openrank": 11.659
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623009",
+			"repo_name": "cann\/ascend-transformer-boost",
+			"month": "2026-09",
+			"openrank": 11.1423
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9636642",
+			"repo_name": "cann\/cmake",
+			"month": "2026-09",
+			"openrank": 10.1221
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9579730",
+			"repo_name": "cann\/.gitcode",
+			"month": "2026-09",
+			"openrank": 9.521
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10575920",
+			"repo_name": "cann\/cannbot-knowledge",
+			"month": "2026-09",
+			"openrank": 9.1414
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9934980",
+			"repo_name": "cann\/docs",
+			"month": "2026-09",
+			"openrank": 9.1299
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916867",
+			"repo_name": "cann\/ops-solver",
+			"month": "2026-09",
+			"openrank": 9.092
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8082947",
+			"repo_name": "cann\/sip",
+			"month": "2026-09",
+			"openrank": 8.7644
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10246646",
+			"repo_name": "cann\/ops-gnn",
+			"month": "2026-09",
+			"openrank": 7.8695
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546480",
+			"repo_name": "cann\/pyasc",
+			"month": "2026-09",
+			"openrank": 7.4187
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9625025",
+			"repo_name": "cann\/ops-collections",
+			"month": "2026-09",
+			"openrank": 6.9494
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9173747",
+			"repo_name": "cann\/ops-ras",
+			"month": "2026-09",
+			"openrank": 6.4915
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916886",
+			"repo_name": "cann\/ops-fft",
+			"month": "2026-09",
+			"openrank": 6.2633
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9128418",
+			"repo_name": "cann\/mat-chem-sim-pred",
+			"month": "2026-09",
+			"openrank": 6.1417
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10007023",
+			"repo_name": "cann\/ops-multimodal-fusion",
+			"month": "2026-09",
+			"openrank": 6.0882
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7702825",
+			"repo_name": "cann\/asnumpy",
+			"month": "2026-09",
+			"openrank": 5.5844
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10704375",
+			"repo_name": "cann\/cannbot-sentry",
+			"month": "2026-09",
+			"openrank": 5.5601
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380163",
+			"repo_name": "cann\/cann-recipes-harmony-infer",
+			"month": "2026-09",
+			"openrank": 5.1445
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "5882831",
+			"repo_name": "cann\/release-management",
+			"month": "2026-09",
+			"openrank": 4.8475
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9630663",
+			"repo_name": "cann\/tensorflow",
+			"month": "2026-09",
+			"openrank": 4.7542
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10466787",
+			"repo_name": "cann\/crypto",
+			"month": "2026-09",
+			"openrank": 4.5103
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623350",
+			"repo_name": "cann\/ascend-boost-comm",
+			"month": "2026-09",
+			"openrank": 3.3846
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9704197",
+			"repo_name": "cann\/xla-npu",
+			"month": "2026-09",
+			"openrank": 3.2199
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8585306",
+			"repo_name": "cann\/triton-inference-server-ge-backend",
+			"month": "2026-09",
+			"openrank": 2.9365
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9329169",
+			"repo_name": "cann\/gauss-splat",
+			"month": "2026-09",
+			"openrank": 2.3904
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10331175",
+			"repo_name": "cann\/oil-gas-ops-prospect",
+			"month": "2026-09",
+			"openrank": 2.354
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10728021",
+			"repo_name": "cann\/ops-tilelang",
+			"month": "2026-09",
+			"openrank": 2.2508
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9306431",
+			"repo_name": "cann\/asnumpy-docs",
+			"month": "2026-09",
+			"openrank": 1.9563
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379672",
+			"repo_name": "cann\/cann-recipes-spatial-intelligence",
+			"month": "2026-09",
+			"openrank": 1.9048
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8257680",
+			"repo_name": "cann\/atvc",
+			"month": "2026-09",
+			"openrank": 1.6636
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7578631",
+			"repo_name": "cann\/atvoss",
+			"month": "2026-09",
+			"openrank": 1.3439
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9302998",
+			"repo_name": "cann\/elec-ops-inspection",
+			"month": "2026-09",
+			"openrank": 1.1342
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9364040",
+			"repo_name": "cann\/cann-spack-package",
+			"month": "2026-09",
+			"openrank": 0.9741
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10982345",
+			"repo_name": "cann\/npu-simulator",
+			"month": "2026-09",
+			"openrank": 0.9607
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916889",
+			"repo_name": "cann\/ops-rand",
+			"month": "2026-09",
+			"openrank": 0.93
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9302995",
+			"repo_name": "cann\/elec-ops-prediction",
+			"month": "2026-09",
+			"openrank": 0.8747
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10149854",
+			"repo_name": "cann\/its-matrix-computation",
+			"month": "2026-09",
+			"openrank": 0.6618
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "6092704",
+			"repo_name": "cann\/manifest",
+			"month": "2026-09",
+			"openrank": 0.5903
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9302993",
+			"repo_name": "cann\/elec-ops-simulation",
+			"month": "2026-09",
+			"openrank": 0.4894
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10149845",
+			"repo_name": "cann\/its-trip",
+			"month": "2026-09",
+			"openrank": 0.4083
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10149850",
+			"repo_name": "cann\/its-stable-llm",
+			"month": "2026-09",
+			"openrank": 0.3709
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7673863",
+			"repo_name": "cann\/ops-transformer",
+			"month": "2026-10",
+			"openrank": 625.0439
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7665709",
+			"repo_name": "cann\/ops-nn",
+			"month": "2026-10",
+			"openrank": 496.4725
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9865789",
+			"repo_name": "cann\/cann-outreach",
+			"month": "2026-10",
+			"openrank": 331.4927
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7874083",
+			"repo_name": "cann\/hcomm",
+			"month": "2026-10",
+			"openrank": 263.8368
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649531",
+			"repo_name": "cann\/ops-math",
+			"month": "2026-10",
+			"openrank": 224.7415
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547062",
+			"repo_name": "cann\/asc-devkit",
+			"month": "2026-10",
+			"openrank": 218.6391
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8635329",
+			"repo_name": "cann\/pypto",
+			"month": "2026-10",
+			"openrank": 211.9069
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8810053",
+			"repo_name": "cann\/runtime",
+			"month": "2026-10",
+			"openrank": 204.7866
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9516645",
+			"repo_name": "cann\/cann-ops-competitions",
+			"month": "2026-10",
+			"openrank": 176.6536
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8277906",
+			"repo_name": "cann\/hccl",
+			"month": "2026-10",
+			"openrank": 150.2918
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824148",
+			"repo_name": "cann\/ge",
+			"month": "2026-10",
+			"openrank": 103.7949
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9461373",
+			"repo_name": "cann\/cannbot-skills",
+			"month": "2026-10",
+			"openrank": 100.451
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916851",
+			"repo_name": "cann\/ops-blas",
+			"month": "2026-10",
+			"openrank": 92.7824
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7640418",
+			"repo_name": "cann\/cann-recipes-infer",
+			"month": "2026-10",
+			"openrank": 90.8827
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9260575",
+			"repo_name": "cann\/cann-learning-hub",
+			"month": "2026-10",
+			"openrank": 90.5597
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9028822",
+			"repo_name": "cann\/torchtitan-npu",
+			"month": "2026-10",
+			"openrank": 83.6309
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7657293",
+			"repo_name": "cann\/ops-cv",
+			"month": "2026-10",
+			"openrank": 82.5056
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8005834",
+			"repo_name": "cann\/graph-autofusion",
+			"month": "2026-10",
+			"openrank": 79.3951
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7631999",
+			"repo_name": "cann\/catlass",
+			"month": "2026-10",
+			"openrank": 67.2625
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8827531",
+			"repo_name": "cann\/pto-isa",
+			"month": "2026-10",
+			"openrank": 64.1893
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7838749",
+			"repo_name": "cann\/hixl",
+			"month": "2026-10",
+			"openrank": 54.651
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8547008",
+			"repo_name": "cann\/asc-tools",
+			"month": "2026-10",
+			"openrank": 52.5498
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9743536",
+			"repo_name": "cann\/pypto-gym",
+			"month": "2026-10",
+			"openrank": 50.9967
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546182",
+			"repo_name": "cann\/shmem",
+			"month": "2026-10",
+			"openrank": 49.054
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9679070",
+			"repo_name": "cann\/asc-comm",
+			"month": "2026-10",
+			"openrank": 47.7861
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8784133",
+			"repo_name": "cann\/oam-tools",
+			"month": "2026-10",
+			"openrank": 45.67
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10528878",
+			"repo_name": "cann\/cannbot-dsl",
+			"month": "2026-10",
+			"openrank": 42.9707
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916881",
+			"repo_name": "cann\/ops-tensor",
+			"month": "2026-10",
+			"openrank": 40.4901
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916863",
+			"repo_name": "cann\/ops-sparse",
+			"month": "2026-10",
+			"openrank": 39.983
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9872633",
+			"repo_name": "cann\/ops-test-kit",
+			"month": "2026-10",
+			"openrank": 36.5558
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10708627",
+			"repo_name": "cann\/cannbot",
+			"month": "2026-10",
+			"openrank": 34.2511
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8782573",
+			"repo_name": "cann\/amct",
+			"month": "2026-10",
+			"openrank": 34.1197
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7649482",
+			"repo_name": "cann\/opbase",
+			"month": "2026-10",
+			"openrank": 31.6925
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9587699",
+			"repo_name": "cann\/cann-bench",
+			"month": "2026-10",
+			"openrank": 31.0843
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7637312",
+			"repo_name": "cann\/community",
+			"month": "2026-10",
+			"openrank": 26.794
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7990062",
+			"repo_name": "cann\/infrastructure",
+			"month": "2026-10",
+			"openrank": 25.2774
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9865787",
+			"repo_name": "cann\/cann-launch-camp",
+			"month": "2026-10",
+			"openrank": 25.1137
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10575920",
+			"repo_name": "cann\/cannbot-knowledge",
+			"month": "2026-10",
+			"openrank": 23.6181
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380116",
+			"repo_name": "cann\/cann-recipes-embodied-ai",
+			"month": "2026-10",
+			"openrank": 22.426
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8824145",
+			"repo_name": "cann\/metadef",
+			"month": "2026-10",
+			"openrank": 22.1503
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379660",
+			"repo_name": "cann\/cann-recipes-train",
+			"month": "2026-10",
+			"openrank": 22.1108
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8795005",
+			"repo_name": "cann\/driver",
+			"month": "2026-10",
+			"openrank": 17.6227
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916867",
+			"repo_name": "cann\/ops-solver",
+			"month": "2026-10",
+			"openrank": 16.3376
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10246646",
+			"repo_name": "cann\/ops-gnn",
+			"month": "2026-10",
+			"openrank": 16.0211
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8082947",
+			"repo_name": "cann\/sip",
+			"month": "2026-10",
+			"openrank": 15.3811
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7380163",
+			"repo_name": "cann\/cann-recipes-harmony-infer",
+			"month": "2026-10",
+			"openrank": 15.0465
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9301267",
+			"repo_name": "cann\/catccos",
+			"month": "2026-10",
+			"openrank": 14.8288
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8788227",
+			"repo_name": "cann\/cann-samples",
+			"month": "2026-10",
+			"openrank": 14.4131
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623009",
+			"repo_name": "cann\/ascend-transformer-boost",
+			"month": "2026-10",
+			"openrank": 13.9549
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9625025",
+			"repo_name": "cann\/ops-collections",
+			"month": "2026-10",
+			"openrank": 13.1782
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8546480",
+			"repo_name": "cann\/pyasc",
+			"month": "2026-10",
+			"openrank": 13.0758
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9934980",
+			"repo_name": "cann\/docs",
+			"month": "2026-10",
+			"openrank": 13.0732
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10704375",
+			"repo_name": "cann\/cannbot-sentry",
+			"month": "2026-10",
+			"openrank": 11.9656
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "5882831",
+			"repo_name": "cann\/release-management",
+			"month": "2026-10",
+			"openrank": 11.7545
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9636642",
+			"repo_name": "cann\/cmake",
+			"month": "2026-10",
+			"openrank": 10.9999
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9173747",
+			"repo_name": "cann\/ops-ras",
+			"month": "2026-10",
+			"openrank": 10.3585
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9579730",
+			"repo_name": "cann\/.gitcode",
+			"month": "2026-10",
+			"openrank": 8.7302
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7702825",
+			"repo_name": "cann\/asnumpy",
+			"month": "2026-10",
+			"openrank": 8.3494
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10032680",
+			"repo_name": "cann\/asc-stl",
+			"month": "2026-10",
+			"openrank": 8.1108
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9128418",
+			"repo_name": "cann\/mat-chem-sim-pred",
+			"month": "2026-10",
+			"openrank": 7.8024
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10728021",
+			"repo_name": "cann\/ops-tilelang",
+			"month": "2026-10",
+			"openrank": 7.5036
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916886",
+			"repo_name": "cann\/ops-fft",
+			"month": "2026-10",
+			"openrank": 7.2378
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9630663",
+			"repo_name": "cann\/tensorflow",
+			"month": "2026-10",
+			"openrank": 7.2036
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9329169",
+			"repo_name": "cann\/gauss-splat",
+			"month": "2026-10",
+			"openrank": 6.3837
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10466787",
+			"repo_name": "cann\/crypto",
+			"month": "2026-10",
+			"openrank": 6.0922
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7623350",
+			"repo_name": "cann\/ascend-boost-comm",
+			"month": "2026-10",
+			"openrank": 5.9908
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7595276",
+			"repo_name": "cann\/pypto-vscode",
+			"month": "2026-10",
+			"openrank": 5.9851
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9306431",
+			"repo_name": "cann\/asnumpy-docs",
+			"month": "2026-10",
+			"openrank": 4.8444
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10982345",
+			"repo_name": "cann\/npu-simulator",
+			"month": "2026-10",
+			"openrank": 4.8283
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10331175",
+			"repo_name": "cann\/oil-gas-ops-prospect",
+			"month": "2026-10",
+			"openrank": 3.8837
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8585306",
+			"repo_name": "cann\/triton-inference-server-ge-backend",
+			"month": "2026-10",
+			"openrank": 3.7162
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9302998",
+			"repo_name": "cann\/elec-ops-inspection",
+			"month": "2026-10",
+			"openrank": 3.5803
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9704197",
+			"repo_name": "cann\/xla-npu",
+			"month": "2026-10",
+			"openrank": 3.2478
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7578631",
+			"repo_name": "cann\/atvoss",
+			"month": "2026-10",
+			"openrank": 3.2138
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10007023",
+			"repo_name": "cann\/ops-multimodal-fusion",
+			"month": "2026-10",
+			"openrank": 2.9149
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8257680",
+			"repo_name": "cann\/atvc",
+			"month": "2026-10",
+			"openrank": 2.8902
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9364040",
+			"repo_name": "cann\/cann-spack-package",
+			"month": "2026-10",
+			"openrank": 2.3561
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10149845",
+			"repo_name": "cann\/its-trip",
+			"month": "2026-10",
+			"openrank": 1.7017
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10149854",
+			"repo_name": "cann\/its-matrix-computation",
+			"month": "2026-10",
+			"openrank": 1.5632
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "7379672",
+			"repo_name": "cann\/cann-recipes-spatial-intelligence",
+			"month": "2026-10",
+			"openrank": 1.5307
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10149850",
+			"repo_name": "cann\/its-stable-llm",
+			"month": "2026-10",
+			"openrank": 1.3813
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9302993",
+			"repo_name": "cann\/elec-ops-simulation",
+			"month": "2026-10",
+			"openrank": 1.2753
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10732768",
+			"repo_name": "cann\/multimodal-benchmark",
+			"month": "2026-10",
+			"openrank": 1.2672
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "9302995",
+			"repo_name": "cann\/elec-ops-prediction",
+			"month": "2026-10",
+			"openrank": 1.2608
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "6092704",
+			"repo_name": "cann\/manifest",
+			"month": "2026-10",
+			"openrank": 1.1003
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10466786",
+			"repo_name": "cann\/cann-recipes-docs",
+			"month": "2026-10",
+			"openrank": 1.0515
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "8916889",
+			"repo_name": "cann\/ops-rand",
+			"month": "2026-10",
+			"openrank": 0.8188
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10599108",
+			"repo_name": "cann\/bio-ops-molecule",
+			"month": "2026-10",
+			"openrank": 0.8132
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10732770",
+			"repo_name": "cann\/multimodal-ops",
+			"month": "2026-10",
+			"openrank": 0.7918
+		},
+		{
+			"platform": "AtomGit",
+			"repo_id": "10732771",
+			"repo_name": "cann\/multimodal-samples",
+			"month": "2026-10",
+			"openrank": 0.2154
+		}
+	],
+
+	"rows": 708,
+
+	"statistics":
+	{
+		"elapsed": 0.108612566,
+		"rows_read": 216157573,
+		"bytes_read": 321924876
+	}
+}

@@ -1,0 +1,51 @@
+{
+  "rows": 83,
+  "unique_repo_ids": 83,
+  "named_categories": 13,
+  "pending": 1,
+  "record_total": 17537.757820367813,
+  "old_category_total": 17549.700000000004,
+  "unreconciled_difference": 11.942179632191255,
+  "core_repo_value": 9423.006042480469,
+  "core_repo_share_pct": 53.72982190195875,
+  "top5_share_pct": 73.46781184002795,
+  "owners": {
+    "meta-pytorch": 32,
+    "pytorch": 30,
+    "pytorch-fdn": 9,
+    "PyTorchKorea": 4,
+    "PytorchConnectomics": 4,
+    "pytorch-labs": 1,
+    "pytorch-tabular": 1,
+    "pytorch-lifestream": 1,
+    "PytorchForge": 1
+  },
+  "classification": {
+    "编辑归类 · 可共同修订": 75,
+    "上游分类映射": 7,
+    "分类待核": 1
+  },
+  "current_group_summary": {
+    "工程与协作": {
+      "n": 34,
+      "value": 904.6248550266027,
+      "n_pct": 40.963855421686745,
+      "value_pct": 5.158155702070417
+    },
+    "模型与任务": {
+      "n": 16,
+      "value": 1410.8258248269558,
+      "n_pct": 19.27710843373494,
+      "value_pct": 8.044505114493406
+    },
+    "训练与执行": {
+      "n": 33,
+      "value": 15222.307140514255,
+      "n_pct": 39.75903614457831,
+      "value_pct": 86.79733918343618
+    }
+  },
+  "zero_value_rows": 0,
+  "period_status": "Original table marked 2026. Start/end not verified; not the 2025-07 to 2026-06 reporting period.",
+  "source_sha256": "fa00a556027bb46fea2a11090675348fbb0a629bbb01a296ed751a9cfc80af5f"
+}

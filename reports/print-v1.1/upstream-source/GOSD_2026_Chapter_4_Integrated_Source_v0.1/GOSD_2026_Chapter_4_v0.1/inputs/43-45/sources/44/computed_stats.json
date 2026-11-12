@@ -1,0 +1,154 @@
+{
+  "repositories": 93,
+  "classifications": 17,
+  "multilabel_projects": 31,
+  "multilabel_share": 0.3333333333333333,
+  "total_tag_assignments": 129,
+  "groups": [
+    {
+      "id": "structured",
+      "name": "通用与结构化",
+      "subtitle": "事务、存储与组织方式",
+      "categories": [
+        "relational",
+        "key_value",
+        "wide_column",
+        "columnar"
+      ],
+      "repository_count": 61
+    },
+    {
+      "id": "retrieval",
+      "name": "检索与关联",
+      "subtitle": "文档、搜索、向量与图",
+      "categories": [
+        "document",
+        "search_engine",
+        "vector",
+        "graph"
+      ],
+      "repository_count": 21
+    },
+    {
+      "id": "specialized",
+      "name": "专用数据语义",
+      "subtitle": "时空、对象与事件",
+      "categories": [
+        "time_series",
+        "spatial",
+        "event",
+        "object_oriented",
+        "hierarchical",
+        "rdf",
+        "native_xml",
+        "array",
+        "content"
+      ],
+      "repository_count": 11
+    }
+  ],
+  "category_comparison": [
+    {
+      "id": "relational",
+      "name": "关系型",
+      "primary": 34,
+      "all_tags": 44
+    },
+    {
+      "id": "key_value",
+      "name": "键值",
+      "primary": 22,
+      "all_tags": 24
+    },
+    {
+      "id": "document",
+      "name": "文档",
+      "primary": 5,
+      "all_tags": 18
+    },
+    {
+      "id": "wide_column",
+      "name": "宽列",
+      "primary": 5,
+      "all_tags": 10
+    },
+    {
+      "id": "search_engine",
+      "name": "搜索引擎",
+      "primary": 8,
+      "all_tags": 8
+    },
+    {
+      "id": "time_series",
+      "name": "时序",
+      "primary": 8,
+      "all_tags": 8
+    },
+    {
+      "id": "vector",
+      "name": "向量",
+      "primary": 4,
+      "all_tags": 4
+    },
+    {
+      "id": "graph",
+      "name": "图",
+      "primary": 4,
+      "all_tags": 4
+    },
+    {
+      "id": "object_oriented",
+      "name": "面向对象",
+      "primary": 1,
+      "all_tags": 6
+    },
+    {
+      "id": "hierarchical",
+      "name": "层次",
+      "primary": 0,
+      "all_tags": 1
+    },
+    {
+      "id": "rdf",
+      "name": "RDF",
+      "primary": 0,
+      "all_tags": 0
+    },
+    {
+      "id": "spatial",
+      "name": "空间",
+      "primary": 1,
+      "all_tags": 1
+    },
+    {
+      "id": "event",
+      "name": "事件",
+      "primary": 1,
+      "all_tags": 1
+    },
+    {
+      "id": "native_xml",
+      "name": "原生 XML",
+      "primary": 0,
+      "all_tags": 0
+    },
+    {
+      "id": "array",
+      "name": "数组",
+      "primary": 0,
+      "all_tags": 0
+    },
+    {
+      "id": "columnar",
+      "name": "列存",
+      "primary": 0,
+      "all_tags": 0
+    },
+    {
+      "id": "content",
+      "name": "内容",
+      "primary": 0,
+      "all_tags": 0
+    }
+  ]
+}

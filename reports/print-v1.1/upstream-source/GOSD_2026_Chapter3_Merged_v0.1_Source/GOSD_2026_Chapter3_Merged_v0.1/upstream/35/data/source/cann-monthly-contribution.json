@@ -1,0 +1,118 @@
+{
+	"meta":
+	[
+		{
+			"name": "month",
+			"type": "String"
+		},
+		{
+			"name": "contributors",
+			"type": "UInt64"
+		},
+		{
+			"name": "repos",
+			"type": "UInt64"
+		},
+		{
+			"name": "contribution",
+			"type": "Float64"
+		}
+	],
+
+	"data":
+	[
+		{
+			"month": "2025-08",
+			"contributors": "3",
+			"repos": "1",
+			"contribution": 1.2597
+		},
+		{
+			"month": "2025-09",
+			"contributors": "311",
+			"repos": "12",
+			"contribution": 107.534
+		},
+		{
+			"month": "2025-10",
+			"contributors": "442",
+			"repos": "17",
+			"contribution": 231.9258
+		},
+		{
+			"month": "2025-11",
+			"contributors": "576",
+			"repos": "25",
+			"contribution": 360.8642
+		},
+		{
+			"month": "2025-12",
+			"contributors": "385",
+			"repos": "29",
+			"contribution": 429.4637
+		},
+		{
+			"month": "2026-01",
+			"contributors": "1471",
+			"repos": "38",
+			"contribution": 1001.5277
+		},
+		{
+			"month": "2026-02",
+			"contributors": "1496",
+			"repos": "39",
+			"contribution": 1466.0614
+		},
+		{
+			"month": "2026-03",
+			"contributors": "2051",
+			"repos": "48",
+			"contribution": 2059.3558
+		},
+		{
+			"month": "2026-04",
+			"contributors": "2067",
+			"repos": "60",
+			"contribution": 2514.3847
+		},
+		{
+			"month": "2026-05",
+			"contributors": "2452",
+			"repos": "62",
+			"contribution": 2949.132
+		},
+		{
+			"month": "2026-06",
+			"contributors": "2843",
+			"repos": "63",
+			"contribution": 3462.5518
+		},
+		{
+			"month": "2026-07",
+			"contributors": "3123",
+			"repos": "65",
+			"contribution": 3924.8012
+		},
+		{
+			"month": "2026-08",
+			"contributors": "3208",
+			"repos": "76",
+			"contribution": 4231.3131
+		},
+		{
+			"month": "2026-09",
+			"contributors": "4229",
+			"repos": "83",
+			"contribution": 4638.0416
+		}
+	],
+
+	"rows": 14,
+
+	"statistics":
+	{
+		"elapsed": 0.093564981,
+		"rows_read": 204484543,
+		"bytes_read": 230093271
+	}
+}

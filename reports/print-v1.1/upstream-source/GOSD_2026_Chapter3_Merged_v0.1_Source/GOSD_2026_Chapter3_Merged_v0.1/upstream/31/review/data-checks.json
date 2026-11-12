@@ -1,0 +1,14 @@
+{
+  "country_seats_total": 100,
+  "countries": 32,
+  "top5_seats": 61,
+  "shared_top10": 6,
+  "global_china_province_scores_match": true,
+  "full_input_records": {
+    "global_divisions": 30,
+    "country_seats": 32,
+    "provinces": 30,
+    "cities": 30
+  },
+  "status": "derived consistency checked; source window and developer scope remain unverified"
+}

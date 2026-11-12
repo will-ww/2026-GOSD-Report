@@ -1,0 +1,143 @@
+{
+  "copied_at_date": "2026-11-07",
+  "source_repo": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report",
+  "source_commit": "c51e3441361407b68f10b339d97eff288319b503",
+  "first_csv_commit": "95ffe2d3ae52191555a40af25e1a00b26ffc65cc",
+  "first_csv_commit_date": "2026-10-12",
+  "data_collection_status": "Frozen processed tables copied byte-for-byte. No original 2026-10-02 API responses, complete candidate list, sampling code, pipeline-tag mapping, or per-record capture logs found in the inspected old-report repository or local relevant resources. This is not a new data collection.",
+  "files": [
+    {
+      "package_path": "inputs/legacy/data/processed/chapter4/fig-4-2-1_model_landscape_recent_downloads.csv",
+      "original_path": "data/processed/chapter4/fig-4-2-1_model_landscape_recent_downloads.csv",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter4/fig-4-2-1_model_landscape_recent_downloads.csv",
+      "sha256": "b19f27f11ad91b9729e92535cfd768f711d493c9d11bfa22156640e9bc0cbf6b",
+      "bytes": 34710
+    },
+    {
+      "package_path": "inputs/legacy/data/processed/chapter4/fig-4-2-3_model_landscape_likes.csv",
+      "original_path": "data/processed/chapter4/fig-4-2-3_model_landscape_likes.csv",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter4/fig-4-2-3_model_landscape_likes.csv",
+      "sha256": "438a8fc39f875a54326e188f526e440402307be1f6096e153e4af3fac90a382a",
+      "bytes": 33966
+    },
+    {
+      "package_path": "inputs/legacy/data/processed/chapter4/fig-4-2-2_model_landscape_total_downloads.csv",
+      "original_path": "data/processed/chapter4/fig-4-2-2_model_landscape_total_downloads.csv",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter4/fig-4-2-2_model_landscape_total_downloads.csv",
+      "sha256": "b40e969e8ae4035fc547ca77044ddc3609d451210b891d286a6eac203331a367",
+      "bytes": 34570
+    },
+    {
+      "package_path": "inputs/legacy/data/README.md",
+      "original_path": "data/README.md",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/README.md",
+      "sha256": "b846259c78bd9afc801aa292d687b0f633a62b512fc18b0b07e0d95ca7be426a",
+      "bytes": 21737
+    },
+    {
+      "package_path": "inputs/legacy/data/meta/dataset_inventory.csv",
+      "original_path": "data/meta/dataset_inventory.csv",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/meta/dataset_inventory.csv",
+      "sha256": "69ec346961364aeb7a73af55e2a4d11603caec98516a73e7379d51a34ed15c97",
+      "bytes": 30994
+    },
+    {
+      "package_path": "inputs/legacy/data/meta/数据可用性清单.md",
+      "original_path": "data/meta/数据可用性清单.md",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/meta/数据可用性清单.md",
+      "sha256": "f72c4a6e0fc144754114e304b50fcd2b1edad075fd5bba849a555d13fffa8da1",
+      "bytes": 21307
+    },
+    {
+      "package_path": "inputs/legacy/preview/content/gosl/landscapes.json",
+      "original_path": "preview/content/gosl/landscapes.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosl/landscapes.json",
+      "sha256": "d7d99048e14d4182e125ebe8bcd4a39bd7486401f596a698b466ab58c2d22cd8",
+      "bytes": 459347
+    },
+    {
+      "package_path": "inputs/legacy/preview/web/gosl_landscapes.py",
+      "original_path": "preview/web/gosl_landscapes.py",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/web/gosl_landscapes.py",
+      "sha256": "89a8dc6ab39e4bb03a796e9f8cb8632c5f2ddcb399dc03e6b0f3b8fb4186d785",
+      "bytes": 13936
+    },
+    {
+      "package_path": "inputs/legacy/preview/web/gosl_publication.py",
+      "original_path": "preview/web/gosl_publication.py",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/web/gosl_publication.py",
+      "sha256": "99e7832d599c9fcf37b8319e4fceb4063904520fe5201c8b1855864e20b8e465",
+      "bytes": 8182
+    },
+    {
+      "package_path": "inputs/legacy/preview/web/gosl-landscapes.js",
+      "original_path": "preview/web/gosl-landscapes.js",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/web/gosl-landscapes.js",
+      "sha256": "596564fc0fe10916067410f0c1f2ff8a82be4e590e4b2976a6f42c3f35b399b9",
+      "bytes": 16895
+    },
+    {
+      "package_path": "inputs/legacy/preview/web/gosl-landscapes.css",
+      "original_path": "preview/web/gosl-landscapes.css",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/web/gosl-landscapes.css",
+      "sha256": "f7f00a4d7c23ff40ffe13ec4486dee67444c5ca0604a7452e6fe08c833679d8d",
+      "bytes": 17214
+    },
+    {
+      "package_path": "inputs/legacy/preview/web/check_gosl_landscapes.py",
+      "original_path": "preview/web/check_gosl_landscapes.py",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/web/check_gosl_landscapes.py",
+      "sha256": "40feb1409e8430a1e76fd06c1f996bbb9e037082ab6a6d423ca35aaca2d60b52",
+      "bytes": 3842
+    },
+    {
+      "package_path": "inputs/legacy/preview/docs/chapter4-landscape-framework-v1.md",
+      "original_path": "preview/docs/chapter4-landscape-framework-v1.md",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/docs/chapter4-landscape-framework-v1.md",
+      "sha256": "09d26ee1d0969c6ee8fd146d40461b54aa4d09d404afb785cb26f0278d5645fa",
+      "bytes": 2754
+    },
+    {
+      "package_path": "inputs/legacy/preview/docs/chapter4-publication-review-20261021.md",
+      "original_path": "preview/docs/chapter4-publication-review-20261021.md",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/docs/chapter4-publication-review-20261021.md",
+      "sha256": "25896d8c71f235407cf25abcdde4ac4b04b3a89fa7725f7ac6c193eecb8a19f3",
+      "bytes": 2722
+    },
+    {
+      "package_path": "inputs/legacy/chapters/chapter4/4.2-AI-大模型全景洞察.md",
+      "original_path": "chapters/chapter4/4.2-AI-大模型全景洞察.md",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/chapters/chapter4/4.2-AI-大模型全景洞察.md",
+      "sha256": "5a790c8d6bedb0e9fd06c9b16fb1697c09713db3abb85fba7ddd9606bee312bb",
+      "bytes": 1123
+    },
+    {
+      "package_path": "inputs/legacy/LICENSE",
+      "original_path": "LICENSE",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/LICENSE",
+      "sha256": "f5b745ef98087f531e719ee8ca6a96809444573ecc7173c6fa68eaad39b3cc3f",
+      "bytes": 18658
+    },
+    {
+      "package_path": "inputs/legacy/preview/content/report-assets/data/fig-4-2-1_model_landscape_recent_downloads.csv",
+      "original_path": "preview/content/report-assets/data/fig-4-2-1_model_landscape_recent_downloads.csv",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/report-assets/data/fig-4-2-1_model_landscape_recent_downloads.csv",
+      "sha256": "b19f27f11ad91b9729e92535cfd768f711d493c9d11bfa22156640e9bc0cbf6b",
+      "bytes": 34710
+    },
+    {
+      "package_path": "inputs/legacy/preview/content/report-assets/data/fig-4-2-3_model_landscape_likes.csv",
+      "original_path": "preview/content/report-assets/data/fig-4-2-3_model_landscape_likes.csv",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/report-assets/data/fig-4-2-3_model_landscape_likes.csv",
+      "sha256": "438a8fc39f875a54326e188f526e440402307be1f6096e153e4af3fac90a382a",
+      "bytes": 33966
+    },
+    {
+      "package_path": "inputs/legacy/preview/content/report-assets/data/fig-4-2-2_model_landscape_total_downloads.csv",
+      "original_path": "preview/content/report-assets/data/fig-4-2-2_model_landscape_total_downloads.csv",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/report-assets/data/fig-4-2-2_model_landscape_total_downloads.csv",
+      "sha256": "b40e969e8ae4035fc547ca77044ddc3609d451210b891d286a6eac203331a367",
+      "bytes": 34570
+    }
+  ]
+}

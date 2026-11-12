@@ -1,0 +1,146 @@
+{
+  "package": "GOSD 5.1 frozen reproducible inputs",
+  "created_at_utc": "2026-11-07T02:15:20.522124+00:00",
+  "source_repository": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report",
+  "source_commit": "c51e3441361407b68f10b339d97eff288319b503",
+  "publication_edition": "20261021-s51-publication-v2",
+  "online_chapter": "https://www.x-lab.info/2026-Global-Open-Source-Development-Report/2026/zh/chapters/05/#ch05-s01",
+  "reference_repository": "https://github.com/will-ww/2026-GOSD-Report",
+  "reference_commit": "b3f7fd60400d6b46e1c3086b225e5b348a753c47",
+  "role_of_reference": "Editorial and approved visual baseline only; not a replacement supply dataset.",
+  "report_period": [
+    "2025-07-01",
+    "2026-06-30"
+  ],
+  "source_windows": {
+    "platform_summary": "2026-10-16",
+    "geography_retrieved_at_utc": "2026-10-17T14:46:56.679563+00:00",
+    "geography_as_of": "not_documented",
+    "annual_retrospective_snapshot": "2026-09-13",
+    "annual_points": "September 13 in 2022 through 2026, reconstructed from repositories visible at final snapshot.",
+    "monthly_range": [
+      "2022-03",
+      "2026-07"
+    ],
+    "latest_month_completeness": "not_documented"
+  },
+  "data_status": "observed source records; no simulated records in the three current figures",
+  "verification_scope": "Byte consistency, frozen aggregate reconciliation and exact arithmetic; not independent upstream recollection.",
+  "original_source_build_check": "python preview/web/build_gosm_supply_data.py --check: PASS (read-only); three current and eight historical CSVs reproduced, aggregate checks passed.",
+  "files": [
+    {
+      "packaged_path": "supply-observation.json",
+      "original_path": "preview/content/gosm/supply-observation.json",
+      "transformation": "none; exact byte copy",
+      "source_sha256": "8e6d0a8ebeced75cfef9c7bb5986f151325f1115fa8edef5421df45a5806f35a"
+    },
+    {
+      "packaged_path": "supply-original.json.gz",
+      "original_path": "preview/content/gosm/supply-original.json.gz",
+      "transformation": "none; exact byte copy",
+      "source_sha256": "9c1bb406d79b6c3491ba2af5a7ffb51673eaa957326cabdb766503f2766ee143"
+    },
+    {
+      "packaged_path": "annual.csv",
+      "original_path": "data/processed/chapter5/fig-5-1-1_hf_cumulative_models_publishers.csv",
+      "transformation": "none; exact byte copy; filename changed",
+      "source_sha256": "37124646ec1c5033554294a451ccc23df2a151534cd7ad09efdcbe1dec53aad3"
+    },
+    {
+      "packaged_path": "map-geometry.json",
+      "original_path": "preview/content/vmap/map-geometry.json",
+      "transformation": "none; exact byte copy",
+      "source_sha256": "586ffb51e43854a290fce46035dd9f7f28893dd0100d42853e415ee958b15512"
+    },
+    {
+      "packaged_path": "supply-methods.md",
+      "original_path": "preview/content/gosm/supply-methods.md",
+      "transformation": "none; exact byte copy",
+      "source_sha256": "2179eb504bdab8801d313d664debb38d43c3adddc32241cd484b63216e193a23"
+    },
+    {
+      "packaged_path": "source/gosm_supply_content.py",
+      "original_path": "preview/web/gosm_supply_content.py",
+      "transformation": "none; exact byte copy",
+      "source_sha256": "d86c33be9d15cc8b3337aa8babdad7c827663c6ee56a68b5844c9f8e3599e5b6"
+    },
+    {
+      "packaged_path": "source/gosm_supply_print.py",
+      "original_path": "preview/web/gosm_supply_print.py",
+      "transformation": "none; exact byte copy",
+      "source_sha256": "a4951a143f1d1221640263743bcb9059a029ee6424324e6ba6405a5c6c54d67d"
+    },
+    {
+      "packaged_path": "source/gosm-supply.js",
+      "original_path": "preview/web/gosm-supply.js",
+      "transformation": "none; exact byte copy",
+      "source_sha256": "a64b548a585a57a6ab9d9792e8ebaee8a47afdb68633ac23235234a9c3f51845"
+    },
+    {
+      "packaged_path": "source/gosm-supply.css",
+      "original_path": "preview/web/gosm-supply.css",
+      "transformation": "none; exact byte copy",
+      "source_sha256": "86965e78bdba22e5b1621b940cf977e9b0dd44da536b65627227f792458fe70e"
+    },
+    {
+      "packaged_path": "source/build_gosm_supply_data.py",
+      "original_path": "preview/web/build_gosm_supply_data.py",
+      "transformation": "none; exact byte copy",
+      "source_sha256": "617638cd2c8e3cdbfc0fbfeed660d0f1535e0f84c2f78acf07851312b5c75452"
+    },
+    {
+      "packaged_path": "source/gosm-supply-publication-20261021.md",
+      "original_path": "preview/docs/gosm-supply-publication-20261021.md",
+      "transformation": "none; exact byte copy",
+      "source_sha256": "08ffd000f7d7530ab6883ae3e4073ce933dc0fe6baa4da92363a36dfc965385d"
+    },
+    {
+      "packaged_path": "source/5.1-供给与贡献.md",
+      "original_path": "chapters/chapter5/5.1-供给与贡献.md",
+      "transformation": "none; exact byte copy",
+      "source_sha256": "2fab016337834a421ea39f4b8eaca4a94212163ac98d176e74b9a4631a99bd6f"
+    },
+    {
+      "packaged_path": "data/fig-5-1-03_china_supply_map.csv",
+      "original_path": "data/processed/chapter5/fig-5-1-03_china_supply_map.csv",
+      "transformation": "none; exact byte copy",
+      "source_sha256": "6b83965631e424c9d215b75596d9ed0d280e2b66bfd8ecdbfa20581d59292434"
+    },
+    {
+      "packaged_path": "data/fig-5-1-01_supply_panorama.csv",
+      "original_path": "data/processed/chapter5/fig-5-1-01_supply_panorama.csv",
+      "transformation": "none; exact byte copy",
+      "source_sha256": "e6ca8469cc1b0d19e659912871fc6ec2635c62158141f3c7c4508e61fd6d8dd1"
+    },
+    {
+      "packaged_path": "data/fig-5-1-02_china_us_comparison.csv",
+      "original_path": "data/processed/chapter5/fig-5-1-02_china_us_comparison.csv",
+      "transformation": "none; exact byte copy",
+      "source_sha256": "d1f0d9dd27e4ed0f94985d1cb7b006b72cb1554461c4bfd7ff1c003e4a8e0718"
+    },
+    {
+      "packaged_path": "map-provenance.json",
+      "original_path": "preview/content/vmap/map-provenance.json",
+      "transformation": "none; exact byte copy",
+      "source_sha256": "eaf9ae6a8760dcba8287f743192aef6560c64367d3dab1f9d4278402fb4e1591"
+    },
+    {
+      "packaged_path": "province-mapping.json",
+      "original_path": "preview/content/cmap/data.json",
+      "source_sha256": "5c7d6ded5cb704037b37d90ca5c172f7901a1905faff0e9cc2da488a6c7c589a",
+      "transformation": "Select provinces; preserve list order; retain only id, source_code, name, en. JSON UTF-8, ensure_ascii=False, indent=2, final newline.",
+      "records": 34
+    }
+  ],
+  "authored_support_files": [
+    "README.md",
+    "metadata.json"
+  ],
+  "excluded": [
+    "Fonts",
+    "PDFs",
+    "Historical simulated scenario data",
+    "Unnecessary second-chapter quantitative data"
+  ],
+  "preserved_deletions": "Do not restore removed concentration curves, indicator cards, independent exploratory charts, or simulations merely because archived source fields exist."
+}

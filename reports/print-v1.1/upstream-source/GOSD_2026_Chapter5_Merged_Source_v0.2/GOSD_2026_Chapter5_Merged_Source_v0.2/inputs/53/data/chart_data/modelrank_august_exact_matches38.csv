@@ -1,0 +1,39 @@
+model_id,rank,score,country,strict_final_grade,license_grade_difference
+meta-llama/Llama-3.1-8B,3,14144.49,United States of America,L2O1,False
+Qwen/Qwen2.5-7B-Instruct,5,13298.17,China,L2O3,False
+meta-llama/Llama-3.1-8B-Instruct,6,11019.36,United States of America,L2O1,False
+Qwen/Qwen3-14B,7,10275.3,China,L3O3,False
+Qwen/Qwen3-8B,9,9596.09,China,L2O3,False
+Qwen/Qwen2.5-VL-3B-Instruct,10,9310.46,China,L2O1,False
+lerobot/smolvla_base,11,9229.64,France,L3O3,False
+Qwen/Qwen3.5-9B,13,8195.74,China,L2O3,False
+Qwen/Qwen3.5-4B,15,7995.87,China,L2O3,False
+Qwen/Qwen3-1.7B,22,6075.21,China,L2O3,False
+Qwen/Qwen3-4B-Instruct-2507,25,5652.96,China,L2O3,False
+Qwen/Qwen2.5-3B-Instruct,28,5073.56,China,L3O1,False
+Qwen/Qwen3-0.6B,29,5064.21,China,L2O3,False
+allenai/Olmo-3-7B-Instruct,31,4886.67,United States of America,L5O3,False
+Qwen/Qwen2.5-1.5B-Instruct,33,4477.13,China,L2O3,False
+Qwen/Qwen2.5-0.5B,34,4354.41,China,L2O3,False
+meta-llama/Llama-3.2-3B-Instruct,38,4056.17,United States of America,L2O1,False
+distilbert/distilbert-base-uncased,39,4048.8,United States of America,L3O3,False
+Qwen/Qwen3.5-2B,43,3572.76,China,L2O3,False
+Qwen/Qwen3-4B,44,3566.05,China,L2O3,False
+black-forest-labs/FLUX.1-dev,50,3257.75,Germany,L2O1,False
+deepseek-ai/DeepSeek-V4-Flash-0731,51,3247.99,China,L2O3,False
+Qwen/Qwen3.5-0.8B,53,3214.53,China,L2O3,False
+Qwen/Qwen3-VL-8B-Instruct,54,3180.44,China,L2O3,False
+google/gemma-3-4b-it,65,2403.87,United States of America,L3O1,False
+openai/gpt-oss-20b,70,2220.04,United States of America,L2O3,False
+Qwen/Qwen3-VL-4B-Instruct,71,2199.84,China,L2O3,False
+openai/whisper-large-v3,72,2067.42,United States of America,L2O3,False
+google/gemma-2-2b-it,76,1879.96,United States of America,L3O1,False
+ornith-ai/Ornith-1.0-35B,79,1823.5,United States of America,L1O3,False
+Qwen/Qwen2.5-Coder-7B-Instruct,82,1718.14,China,L2O3,False
+LiquidAI/LFM2.5-1.2B-Base,84,1661.13,United States of America,L2O1,False
+Qwen/Qwen3.5-27B,88,1555.0,China,L2O3,False
+meta-llama/Llama-3.3-70B-Instruct,91,1519.35,United States of America,L2O1,False
+Qwen/Qwen2.5-VL-7B-Instruct,93,1451.91,China,L2O3,False
+meta-llama/Llama-3.2-1B-Instruct,94,1448.83,United States of America,L2O1,False
+Qwen/Qwen3.5-35B-A3B-Base,96,1444.8,China,L2O3,False
+Tongyi-MAI/Z-Image-Turbo,100,1387.13,China,L2O3,False

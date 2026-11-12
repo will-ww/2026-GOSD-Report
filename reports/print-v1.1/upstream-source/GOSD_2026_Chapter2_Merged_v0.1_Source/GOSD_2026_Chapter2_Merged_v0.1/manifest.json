@@ -1,0 +1,1071 @@
+{
+  "version": "merged-v0.1",
+  "date": "2026-11-10",
+  "status": "author-review",
+  "approved_baseline": "fff392e957bab9fb6d89d49dea712af47484efaa",
+  "repository": "will-ww/2026-GOSD-Report",
+  "repository_mutated": false,
+  "section_sources": [
+    [
+      "2.1",
+      "v0.3"
+    ],
+    [
+      "2.2",
+      "v0.3"
+    ],
+    [
+      "2.3",
+      "v0.3"
+    ],
+    [
+      "2.4",
+      "v0.2"
+    ],
+    [
+      "2.5",
+      "v0.3"
+    ],
+    [
+      "2.6 (原 2.8)",
+      "v0.2"
+    ]
+  ],
+  "constitutional_blobs": {
+    "constitution.md": "9cda7a8fc87113d293260ec913b033dc26731907",
+    "editorial-guidelines.md": "e61c427d5f883e170b69deaf428190d385e6e9cb",
+    "claims-map.md": "5e2c1bd03e8db90f2445813bccb4717602203623"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "080ed0d46403ef86138b24171cbf116384afa58fc914764d304751502202b146",
+      "bytes": 4468
+    },
+    {
+      "path": "assemble_content.py",
+      "sha256": "c5673b405c86439b0dce528b15dd0a5ff459ce1386ba4a8927d9fcf23bdd1685",
+      "bytes": 23873
+    },
+    {
+      "path": "assets/osdgs-symbol-compact.svg",
+      "sha256": "7de88d97f2153818823302676d3318a9b504dd9f719ef0961810a01cd3d5977f",
+      "bytes": 10729
+    },
+    {
+      "path": "build.py",
+      "sha256": "453f9bdea52aa6c1f2f73ab8d64a973c39c019cc4a93e8bdedfe006af359be55",
+      "bytes": 6073
+    },
+    {
+      "path": "chapter_pages.py",
+      "sha256": "5859c5ebb618528b5ebc37ab036bc25043bc3673493271d1a0046709fd733d21",
+      "bytes": 20531
+    },
+    {
+      "path": "data/content.json",
+      "sha256": "f1bffb02489b57786aba28fdbb214e2087229b41f85d5c87f5b1bb5ca83686cd",
+      "bytes": 36421
+    },
+    {
+      "path": "data/sources.json",
+      "sha256": "9682df0e89d38f35bce034b4a409fe5058b9a11c7211e8d10e78d6f50c58449b",
+      "bytes": 3058
+    },
+    {
+      "path": "evidence/claims-map.md",
+      "sha256": "10c9db84243c3a849d7d136f8d4807aa1ee6b65466188190284374c9a462d8b8",
+      "bytes": 8522
+    },
+    {
+      "path": "evidence/constitution.md",
+      "sha256": "d2438ecaf4f9ce550d074e70d2fcaa667e5add1711622ebbfb3d87140c3389a8",
+      "bytes": 4979
+    },
+    {
+      "path": "evidence/editorial-guidelines.md",
+      "sha256": "a35e4283ae612a3a49a6c8cac4630db34533dbc79c42f6c0fabafb1aa6c61c1c",
+      "bytes": 5274
+    },
+    {
+      "path": "figures/fig-2-01.svg",
+      "sha256": "f2b128ff792d3f2a1ab047573995dffb50a3b938f3f77d195edb488de078e591",
+      "bytes": 232774
+    },
+    {
+      "path": "figures/fig-2-02.svg",
+      "sha256": "645771b7dbf1409a44e98ffd2e58482ce7ec2039333c32c6b7f93fe83d9f4c3c",
+      "bytes": 28238
+    },
+    {
+      "path": "figures/fig-2-03.svg",
+      "sha256": "99b793384d88daa182cd818830f90d6afa8ea5b7dc1dc44eff68ff572fd23e94",
+      "bytes": 265162
+    },
+    {
+      "path": "figures/fig-2-04.svg",
+      "sha256": "e1989cbbfdef57f56e967e6503228cc914137779e267d79fdcb5c0339b3f24cc",
+      "bytes": 210876
+    },
+    {
+      "path": "figures/fig-2-05.svg",
+      "sha256": "2d27c18cb90d5ae4fbfa25fcc08f944ea72d659f8e15bd1c320d67947c4c2a5c",
+      "bytes": 28464
+    },
+    {
+      "path": "figures/fig-2-06.svg",
+      "sha256": "09de36d8d1b9cf800712891de4f9d27271c9113b26d80a10d303df238890ea04",
+      "bytes": 263716
+    },
+    {
+      "path": "figures/fig-2-07.svg",
+      "sha256": "ced9ceb2d4dbc1938f56f03fa5924a90d307aa4581fb9de2e89015bcb2b337de",
+      "bytes": 230109
+    },
+    {
+      "path": "figures/fig-2-08.svg",
+      "sha256": "a097d8c6f7853fd49bf5b0800e4de388206aaad02d5e481efd2f0a873a2d6aab",
+      "bytes": 208064
+    },
+    {
+      "path": "figures/fig-2-09.svg",
+      "sha256": "af44398de6f792f6e5116b9a5416b46d0cefdf9ddce22a2b7a1390c0b12a9860",
+      "bytes": 28143
+    },
+    {
+      "path": "figures/fig-2-10.svg",
+      "sha256": "b07d9968b88998e25d28ca3df3c2c50e6d7bf723160b4ceca3ea2341a8aa24a9",
+      "bytes": 28572
+    },
+    {
+      "path": "figures/fig-2-11.svg",
+      "sha256": "bf90356a7b843ca54bdea9a54872b959ea90597e769702ba987a0a6aa0f5a160",
+      "bytes": 229614
+    },
+    {
+      "path": "figures/fig-2-12.svg",
+      "sha256": "0c8712e47add7ff67a90452136a45dc3bcfad4d41d0602391301009cc9d73a3f",
+      "bytes": 28969
+    },
+    {
+      "path": "figures/fig-2-13.svg",
+      "sha256": "6f06f899bab0c1b4a98e595b482a32f3cff92d6aa2bebfc07ab09e828b817b01",
+      "bytes": 223955
+    },
+    {
+      "path": "figures/fig-2-14.svg",
+      "sha256": "de82a4c4b856a6f0affede6762c9294a74f8d40d7c62c6e92aa9de06bc0d44fb",
+      "bytes": 229652
+    },
+    {
+      "path": "figures/fig-2-15.svg",
+      "sha256": "508f413514f30184997ed6e76757580b158000464f48d9c14a092ee12a83cd0e",
+      "bytes": 270182
+    },
+    {
+      "path": "figures/fig-2-16.svg",
+      "sha256": "1549aaa7bdb1829922d513597afd5d4f84e0666f0b7709375c22a20648739f51",
+      "bytes": 221658
+    },
+    {
+      "path": "figures/fig-2-17.svg",
+      "sha256": "19eec559173b822928d69cc7ca1ecaf46593c642473b13356f488b9fd5f8918d",
+      "bytes": 32565
+    },
+    {
+      "path": "figures/fig-2-18.svg",
+      "sha256": "941cd28bdcb251dab2b914cb529ba27c7c81859221e9e8ebde9f5f4f5b8589a2",
+      "bytes": 29518
+    },
+    {
+      "path": "figures/fig-2-19.svg",
+      "sha256": "814c392414a0f83d93a953c76d332c63dba7e7c291b99d005ca689df256a1f9c",
+      "bytes": 21244
+    },
+    {
+      "path": "fix_pdf_text.py",
+      "sha256": "c121b4939e364c32f4d5f06c2b4931d3984d2cdfc4f05102c4254f1668d8f086",
+      "bytes": 1621
+    },
+    {
+      "path": "layout.sty",
+      "sha256": "0bad88eb133e3be00e6de809b500a94f8cb1411dbff85edd7fb2052e31b3eeaf",
+      "bytes": 7343
+    },
+    {
+      "path": "report.tex",
+      "sha256": "e67830e223ec7f7c8d2b324e09ea2ca671eaddc20e51377d567adfe4a573615f",
+      "bytes": 77558
+    },
+    {
+      "path": "review/figure-wording-edits.json",
+      "sha256": "b96989dfeb4dd5aad2f10b70ac46f42bc055b28db6ed646d9bee3e11e7e30fc9",
+      "bytes": 596
+    },
+    {
+      "path": "review/integration-review.md",
+      "sha256": "be57fec468b21109e36019dead2d0094a80043a7853db1b317cdd06a0c8fd3d8",
+      "bytes": 5226
+    },
+    {
+      "path": "review/pdf-text-repairs.json",
+      "sha256": "beac51bedaf8b45757fa4b9743547c75ca9583d7ef6412ec2e1283c4748276cf",
+      "bytes": 1364
+    },
+    {
+      "path": "review/verification.json",
+      "sha256": "db815203540616f32d5de9edadc4e2348a65ee3ac2a872961922da6170f1e408",
+      "bytes": 2456
+    },
+    {
+      "path": "run.py",
+      "sha256": "c42afad2a2dd22f74f358130bef8d38ca1d6c2ea841cdbd5f5f8adc882bde50c",
+      "bytes": 4021
+    },
+    {
+      "path": "upstream/2.1/README.txt",
+      "sha256": "f9964861a160409850473a0e83a69f0744a1c53bb893cf1c51d7804e48002a9f",
+      "bytes": 1211
+    },
+    {
+      "path": "upstream/2.1/assets/osdgs-symbol-compact.svg",
+      "sha256": "7de88d97f2153818823302676d3318a9b504dd9f719ef0961810a01cd3d5977f",
+      "bytes": 10729
+    },
+    {
+      "path": "upstream/2.1/assets/world_map.svg",
+      "sha256": "90454626a94b4b3c72a8c3f1567019316c7f69f4712eba4427f41fac364887f9",
+      "bytes": 190767
+    },
+    {
+      "path": "upstream/2.1/build.py",
+      "sha256": "4dbfdd7e237360cdde2ba46daf5da06a68359439470938dcfe693b3a5ddaedee",
+      "bytes": 19630
+    },
+    {
+      "path": "upstream/2.1/content.json",
+      "sha256": "645b9e7803914867db98ec7131ea173ace66df3d94d654afaf4c06378eb9dc31",
+      "bytes": 5057
+    },
+    {
+      "path": "upstream/2.1/content.py",
+      "sha256": "28a52ccd11a23350815ce9b2b9609e8cb0e061f193ed498f8e3201ff6c315eb4",
+      "bytes": 14595
+    },
+    {
+      "path": "upstream/2.1/data/china-drawing-geometry.json",
+      "sha256": "8a81f87d629c279a0449a7275dff41388ad5beaea9b0ef8fa57e5f682af18549",
+      "bytes": 235555
+    },
+    {
+      "path": "upstream/2.1/data/five_groups_active_trend.csv",
+      "sha256": "4afa1746472acb74221dd8885d5034695288f04f1636b7465e84ed42961f091e",
+      "bytes": 283
+    },
+    {
+      "path": "upstream/2.1/data/five_groups_current.csv",
+      "sha256": "102182a31bdff43cd4bc4695855232831e7f1ca1585c612bb85a35c68fdedc73",
+      "bytes": 180
+    },
+    {
+      "path": "upstream/2.1/data/global_report_year_trend.csv",
+      "sha256": "c36c0d6e22aaeb35cedc8b269515e46d31069a799f12bedf39bbf48d132fe042",
+      "bytes": 240
+    },
+    {
+      "path": "upstream/2.1/data/public-CN-developers.json",
+      "sha256": "acf6e49a8e9d322a2a03e2af5ef1b3167759a7f71c6ab2eee7c2d6626573956e",
+      "bytes": 10956
+    },
+    {
+      "path": "upstream/2.1/data/public-developers.json",
+      "sha256": "3419ec9f879762277d7b085a8514a01e8ff0a4b639ad208884385782af631aa9",
+      "bytes": 60872
+    },
+    {
+      "path": "upstream/2.1/data/public-meta.json",
+      "sha256": "93c18a23103a8bfa027233a42b1da6f69ab10d75e56cb368d9a60863033e72e9",
+      "bytes": 500
+    },
+    {
+      "path": "upstream/2.1/data/scenarios-v03.json",
+      "sha256": "06a25cb75019124ff51c81af0a2719afa59c1688427f863f89f53679072c8b2b",
+      "bytes": 4084
+    },
+    {
+      "path": "upstream/2.1/figures/01-global-current.svg",
+      "sha256": "f2b128ff792d3f2a1ab047573995dffb50a3b938f3f77d195edb488de078e591",
+      "bytes": 232774
+    },
+    {
+      "path": "upstream/2.1/figures/02-trends-2030.svg",
+      "sha256": "645771b7dbf1409a44e98ffd2e58482ce7ec2039333c32c6b7f93fe83d9f4c3c",
+      "bytes": 28238
+    },
+    {
+      "path": "upstream/2.1/figures/03-china-regions.svg",
+      "sha256": "99b793384d88daa182cd818830f90d6afa8ea5b7dc1dc44eff68ff572fd23e94",
+      "bytes": 265162
+    },
+    {
+      "path": "upstream/2.1/layout.sty",
+      "sha256": "b8ed3ba414bce559f129b94cb4a7251c9119d2de45513c9692ca69f59ea964d3",
+      "bytes": 7301
+    },
+    {
+      "path": "upstream/2.1/report.tex",
+      "sha256": "f70dab4a06a5d3a496809e2ef9f12bee04e28f7d2c514337253f128fcb1b913f",
+      "bytes": 13869
+    },
+    {
+      "path": "upstream/2.1/validate.py",
+      "sha256": "d1c1af45e8c4ee4f503aa190dd24061ab04e66df72e0d433c0603532a2decc9d",
+      "bytes": 3764
+    },
+    {
+      "path": "upstream/2.2/README.md",
+      "sha256": "e96512b3de01a8e4606d55f00c813b5364597b2746ca84ec6a727f23c435a798",
+      "bytes": 5134
+    },
+    {
+      "path": "upstream/2.2/assets/flows-base.svg",
+      "sha256": "26ae278c1a1463c37e4ba887de43093a98b3f8338c70b0136ffdfd20401fda54",
+      "bytes": 205081
+    },
+    {
+      "path": "upstream/2.2/assets/osdgs-symbol-compact.svg",
+      "sha256": "7de88d97f2153818823302676d3318a9b504dd9f719ef0961810a01cd3d5977f",
+      "bytes": 10729
+    },
+    {
+      "path": "upstream/2.2/assets/world-base.svg",
+      "sha256": "9216373133986030d98645a66920ebff7a2be2e521821638dbc991c845312c2d",
+      "bytes": 190390
+    },
+    {
+      "path": "upstream/2.2/build.py",
+      "sha256": "01441fb3a09e95442b3aed1157ec5ca5dbf064859acd4b75334b3891e849bf47",
+      "bytes": 5164
+    },
+    {
+      "path": "upstream/2.2/content.json",
+      "sha256": "b11ef92ba4138b9ba2489ef79843d0d0bce2a58af44c34e62932b25c15f41847",
+      "bytes": 9448
+    },
+    {
+      "path": "upstream/2.2/content_v03.py",
+      "sha256": "6f1e2661aa7095c289787f1df7b9e04b5646785eb7d6f66419310dc358be829b",
+      "bytes": 15657
+    },
+    {
+      "path": "upstream/2.2/data/CN-contribution.json",
+      "sha256": "4200543c54e36c5bc741d9e8a1e8eb3c6e9f7821a149f435938d831cfb00f216",
+      "bytes": 6195
+    },
+    {
+      "path": "upstream/2.2/data/averages-v02.json",
+      "sha256": "ddcdb05660cf460fda4927e51f4ec0ca09d708efbea3a6bf79ad23bf5bb1928e",
+      "bytes": 5521
+    },
+    {
+      "path": "upstream/2.2/data/china-drawing-geometry.json",
+      "sha256": "8a81f87d629c279a0449a7275dff41388ad5beaea9b0ef8fa57e5f682af18549",
+      "bytes": 235555
+    },
+    {
+      "path": "upstream/2.2/data/contribution.json",
+      "sha256": "d7851709397c564b2b33b9a9465845208bef1e37194a0b5ae0b5bd42ac612a70",
+      "bytes": 35711
+    },
+    {
+      "path": "upstream/2.2/data/countries_236_value_extract.csv",
+      "sha256": "6b698e615991bc83b797bc2c58a84762de23f4b357abd7852a073f6bf6f97855",
+      "bytes": 3406
+    },
+    {
+      "path": "upstream/2.2/data/countries_top35_excerpt.csv",
+      "sha256": "9ae690aee42fe93fee04860cecb4812f4afb9746568abc7472b44565f5fb1fe5",
+      "bytes": 1342
+    },
+    {
+      "path": "upstream/2.2/data/five_groups_contribution.csv",
+      "sha256": "6ec42dd568bbed1610cb3f468d92564b394bde81a46ae74e3fc49254213cf877",
+      "bytes": 331
+    },
+    {
+      "path": "upstream/2.2/data/half-CN-contribution.json",
+      "sha256": "e3b38cf47ba7c8eb752160459413ba5ce613b5718d3925f0d9fabb302a0e2973",
+      "bytes": 5631
+    },
+    {
+      "path": "upstream/2.2/data/half-CN-developers.json",
+      "sha256": "acf6e49a8e9d322a2a03e2af5ef1b3167759a7f71c6ab2eee7c2d6626573956e",
+      "bytes": 10956
+    },
+    {
+      "path": "upstream/2.2/data/half-contribution.json",
+      "sha256": "5991b71eb546685f54cf986e46b378bc82ac7ea64f99c852c6db9f0c6d0c1a4f",
+      "bytes": 32259
+    },
+    {
+      "path": "upstream/2.2/data/half-developers.json",
+      "sha256": "3419ec9f879762277d7b085a8514a01e8ff0a4b639ad208884385782af631aa9",
+      "bytes": 60872
+    },
+    {
+      "path": "upstream/2.2/data/half-meta.json",
+      "sha256": "93c18a23103a8bfa027233a42b1da6f69ab10d75e56cb368d9a60863033e72e9",
+      "bytes": 500
+    },
+    {
+      "path": "upstream/2.2/data/map-anchors.json",
+      "sha256": "e6a01ed4e74b99ae388d8df2bfad091964db859612c400167684b47f861dc307",
+      "bytes": 1002
+    },
+    {
+      "path": "upstream/2.2/data/natural-CN-contribution.json",
+      "sha256": "3ecb0030259200d01fb7952f96b2823146b11ed339f8b69ef9962d35589f993a",
+      "bytes": 5593
+    },
+    {
+      "path": "upstream/2.2/data/natural-CN-developers.json",
+      "sha256": "ee4e70835f0e19d9b97ebba6a9bc48426320fbcc21bc61e6908d4719d11e0127",
+      "bytes": 10963
+    },
+    {
+      "path": "upstream/2.2/data/natural-contribution.json",
+      "sha256": "79a223f2079a9b86c0c2dccc8845f5c164a2e1a4e1cef16c6f62ef62b77ab779",
+      "bytes": 31690
+    },
+    {
+      "path": "upstream/2.2/data/natural-developers.json",
+      "sha256": "d0f5ee2f59633fc2f826f5774cad754639b9f608cb0621893b058c4a93bbf701",
+      "bytes": 61060
+    },
+    {
+      "path": "upstream/2.2/data/natural-meta.json",
+      "sha256": "141f49881d2bb932bf9ff54d09464d5eb2f5887ab3a8e1f4aa2ae38274fc0f44",
+      "bytes": 506
+    },
+    {
+      "path": "upstream/2.2/data/openshareOverview.ts",
+      "sha256": "6f0e420d2d6fced0bad0b05beec21613507ea42cc1bba981490b690d5aedac94",
+      "bytes": 59373
+    },
+    {
+      "path": "upstream/2.2/data/project_sources_top10.csv",
+      "sha256": "590aeb718d75dabf12d334f24d1b54b61867eb0ac458ec8b9fae077c8bb62d3c",
+      "bytes": 745
+    },
+    {
+      "path": "upstream/2.2/data/province_average_original_top10.csv",
+      "sha256": "9e368036caacff8d781c5ad8cbe3f08b4d8f8a46839ea5e529c96e4b0811503e",
+      "bytes": 400
+    },
+    {
+      "path": "upstream/2.2/data/provinces_2025_snapshot.csv",
+      "sha256": "109638168da0ed1471b9858e9771ee78af4127b931dcb98bd84273fd93e8015d",
+      "bytes": 3008
+    },
+    {
+      "path": "upstream/2.2/data/public-CN-developers.json",
+      "sha256": "acf6e49a8e9d322a2a03e2af5ef1b3167759a7f71c6ab2eee7c2d6626573956e",
+      "bytes": 10956
+    },
+    {
+      "path": "upstream/2.2/data/public-developers.json",
+      "sha256": "3419ec9f879762277d7b085a8514a01e8ff0a4b639ad208884385782af631aa9",
+      "bytes": 60872
+    },
+    {
+      "path": "upstream/2.2/data/public-meta.json",
+      "sha256": "93c18a23103a8bfa027233a42b1da6f69ab10d75e56cb368d9a60863033e72e9",
+      "bytes": 500
+    },
+    {
+      "path": "upstream/2.2/data/regional-shares-v03.json",
+      "sha256": "dbfb3151a95507527f484394a1bb8fba4b291d92a0544c2b1881a44cec4c0401",
+      "bytes": 420
+    },
+    {
+      "path": "upstream/2.2/data/scenarios-v02.json",
+      "sha256": "cfa20afdda5f19dc8a8fd64d157be050b15936e916339d0cf42a7c09e20a831b",
+      "bytes": 4536
+    },
+    {
+      "path": "upstream/2.2/figures/01-contribution-map.svg",
+      "sha256": "e1989cbbfdef57f56e967e6503228cc914137779e267d79fdcb5c0339b3f24cc",
+      "bytes": 210876
+    },
+    {
+      "path": "upstream/2.2/figures/02-contribution-evolution.svg",
+      "sha256": "2d27c18cb90d5ae4fbfa25fcc08f944ea72d659f8e15bd1c320d67947c4c2a5c",
+      "bytes": 28464
+    },
+    {
+      "path": "upstream/2.2/figures/03-china-collaboration.svg",
+      "sha256": "09de36d8d1b9cf800712891de4f9d27271c9113b26d80a10d303df238890ea04",
+      "bytes": 263716
+    },
+    {
+      "path": "upstream/2.2/figures/04-global-collaboration.svg",
+      "sha256": "ced9ceb2d4dbc1938f56f03fa5924a90d307aa4581fb9de2e89015bcb2b337de",
+      "bytes": 230109
+    },
+    {
+      "path": "upstream/2.2/figures_content.py",
+      "sha256": "6b0dae34c19165c217a714a942a977c4b07cf837ccab25a8ff1caba78da274d2",
+      "bytes": 5179
+    },
+    {
+      "path": "upstream/2.2/layout.sty",
+      "sha256": "a2474d94b21e07e943a9ee161dfa032554406ebab5b34e8d1497ad760b83bcd9",
+      "bytes": 7301
+    },
+    {
+      "path": "upstream/2.2/panels_v02.py",
+      "sha256": "b6ad655bfde72f9ea9a8471632a81cf39f65496c7f46834fbd8fca2093ff8d88",
+      "bytes": 14940
+    },
+    {
+      "path": "upstream/2.2/report.tex",
+      "sha256": "48f949f589d1a1860735061548085f87efb6e1579035d3f800f544e0deb6825b",
+      "bytes": 18569
+    },
+    {
+      "path": "upstream/2.2/run.py",
+      "sha256": "40c230b2b8e220bb28612a7d64e50afef2cc155834e8f47c2e430466cc3af09b",
+      "bytes": 1403
+    },
+    {
+      "path": "upstream/2.3/REPRODUCE.txt",
+      "sha256": "c136b332d5596ef8a3b60747f7add87012d32b153e8e2b782a1ee7f1370e8ec8",
+      "bytes": 604
+    },
+    {
+      "path": "upstream/2.3/assets/osdgs-symbol-compact.svg",
+      "sha256": "7de88d97f2153818823302676d3318a9b504dd9f719ef0961810a01cd3d5977f",
+      "bytes": 10729
+    },
+    {
+      "path": "upstream/2.3/assets/world-base.svg",
+      "sha256": "9216373133986030d98645a66920ebff7a2be2e521821638dbc991c845312c2d",
+      "bytes": 190390
+    },
+    {
+      "path": "upstream/2.3/build.py",
+      "sha256": "c06851113ca7f5f98e61bdb5d56326504a16506aca54f42b5bae211cfd88fc71",
+      "bytes": 6077
+    },
+    {
+      "path": "upstream/2.3/content.py",
+      "sha256": "0ba9498c2b46bcd8aaeac4dcf8ca8cafba23ff7f867a2c3ddfae2e4f86081c4b",
+      "bytes": 12470
+    },
+    {
+      "path": "upstream/2.3/data/china_projects_30_excerpt.csv",
+      "sha256": "f0a5ae83391073242438eb5a55e2be5cfe57062bb0a1090d11d50305cfb344f9",
+      "bytes": 1155
+    },
+    {
+      "path": "upstream/2.3/data/china_projects_display.csv",
+      "sha256": "958f33149027da88df192ee82980f817c63584cc5f0e8e442032f597e9becb7a",
+      "bytes": 2373
+    },
+    {
+      "path": "upstream/2.3/data/derived-v01.json",
+      "sha256": "35ce01e6fcc128bee29a01fc608a1a5046f1c47611d96daa56f6ec872db1d0bc",
+      "bytes": 5220
+    },
+    {
+      "path": "upstream/2.3/data/five_groups_contribution.csv",
+      "sha256": "6ec42dd568bbed1610cb3f468d92564b394bde81a46ae74e3fc49254213cf877",
+      "bytes": 331
+    },
+    {
+      "path": "upstream/2.3/data/five_groups_influence.csv",
+      "sha256": "f95156c42faec5bb6b58a72783a01317c17a0712f847a1193e5353b778e9ac5a",
+      "bytes": 288
+    },
+    {
+      "path": "upstream/2.3/data/imap-observations-archive.json",
+      "sha256": "197484db5a9eab9dc75d89af637ab61faac9f170d1793c06858910f7bb9b6831",
+      "bytes": 12672
+    },
+    {
+      "path": "upstream/2.3/data/map-anchor-provenance.json",
+      "sha256": "65ea4621ccd9b208d93596257a2a2571a4ea8ac4572e5fdca3b372a9ca700910",
+      "bytes": 355
+    },
+    {
+      "path": "upstream/2.3/data/map-anchors.json",
+      "sha256": "5fb0eba196651b8d4b194c0ad255db32969e130122d17cd4b5e5802e432444dd",
+      "bytes": 1653
+    },
+    {
+      "path": "upstream/2.3/data/narratives.json",
+      "sha256": "b7f8ecda9774a305afa18685ac39ef43f03c99d3aee41b6cee1476c5b26d37cf",
+      "bytes": 4111
+    },
+    {
+      "path": "upstream/2.3/data/natural-CN-influence.json",
+      "sha256": "3fbe7133ca08cb0d58fb8ea4fe5ada20b80bca31e0697cbf33f5c3940d90c6a3",
+      "bytes": 1921
+    },
+    {
+      "path": "upstream/2.3/data/natural-influence.json",
+      "sha256": "523b4bbfb9b598e5d8154003cecb1a56fce890fff3df42ed63f2761f826882b6",
+      "bytes": 86362
+    },
+    {
+      "path": "upstream/2.3/data/natural-meta.json",
+      "sha256": "141f49881d2bb932bf9ff54d09464d5eb2f5887ab3a8e1f4aa2ae38274fc0f44",
+      "bytes": 506
+    },
+    {
+      "path": "upstream/2.3/data/openshareOverview.ts",
+      "sha256": "6f0e420d2d6fced0bad0b05beec21613507ea42cc1bba981490b690d5aedac94",
+      "bytes": 59373
+    },
+    {
+      "path": "upstream/2.3/data/project-use-sources.json",
+      "sha256": "9388d2ad1681dc4ee5282b64040c34d6d2a66ad050921afefe68bd53f481e3ca",
+      "bytes": 1063
+    },
+    {
+      "path": "upstream/2.3/data/report-CN-influence.json",
+      "sha256": "368ec10d4e6019b01240d92009144c4a127e613ad1f4672ba24d824d505faf83",
+      "bytes": 2076
+    },
+    {
+      "path": "upstream/2.3/data/report-contribution.json",
+      "sha256": "5991b71eb546685f54cf986e46b378bc82ac7ea64f99c852c6db9f0c6d0c1a4f",
+      "bytes": 32259
+    },
+    {
+      "path": "upstream/2.3/data/report-developers.json",
+      "sha256": "3419ec9f879762277d7b085a8514a01e8ff0a4b639ad208884385782af631aa9",
+      "bytes": 60872
+    },
+    {
+      "path": "upstream/2.3/data/report-influence.json",
+      "sha256": "7bb0a849329e3796ff11e9e6fd6c2353ea2545f90758e9be1a76fe0f7b077535",
+      "bytes": 86934
+    },
+    {
+      "path": "upstream/2.3/data/report-meta.json",
+      "sha256": "93c18a23103a8bfa027233a42b1da6f69ab10d75e56cb368d9a60863033e72e9",
+      "bytes": 500
+    },
+    {
+      "path": "upstream/2.3/data/source-links.json",
+      "sha256": "0cf3fc336d0055bbb98e129b11ade5730abbaa757b79561d14d422bd45b67014",
+      "bytes": 1310
+    },
+    {
+      "path": "upstream/2.3/design-plan.json",
+      "sha256": "357a6c38cad9df262179d26ef9eae19ac626d4c0ff96cd25ea69bb05b66b0cb3",
+      "bytes": 1570
+    },
+    {
+      "path": "upstream/2.3/figures/01-project-influence-map.svg",
+      "sha256": "a097d8c6f7853fd49bf5b0800e4de388206aaad02d5e481efd2f0a873a2d6aab",
+      "bytes": 208064
+    },
+    {
+      "path": "upstream/2.3/figures/02-project-influence-evolution.svg",
+      "sha256": "af44398de6f792f6e5116b9a5416b46d0cefdf9ddce22a2b7a1390c0b12a9860",
+      "bytes": 28143
+    },
+    {
+      "path": "upstream/2.3/figures/03-china-project-structure.svg",
+      "sha256": "b07d9968b88998e25d28ca3df3c2c50e6d7bf723160b4ceca3ea2341a8aa24a9",
+      "bytes": 28572
+    },
+    {
+      "path": "upstream/2.3/figures_content.py",
+      "sha256": "c0d62cbd78d2f3c1b729fb410cf2873fc72d65f36c9988ea7165bdbcfad09cf3",
+      "bytes": 13960
+    },
+    {
+      "path": "upstream/2.3/layout.sty",
+      "sha256": "0bad88eb133e3be00e6de809b500a94f8cb1411dbff85edd7fb2052e31b3eeaf",
+      "bytes": 7343
+    },
+    {
+      "path": "upstream/2.3/report.tex",
+      "sha256": "a1949a3338d2ae66c1a37ae16a60ee944e83b688db59299f90f9ea899bd28c08",
+      "bytes": 15313
+    },
+    {
+      "path": "upstream/2.3/run.py",
+      "sha256": "6c63de901dadf63e5743f21467a0d7f4c67ec3b6fd408ce2395f1f474473554e",
+      "bytes": 1044
+    },
+    {
+      "path": "upstream/2.3/source-manifest.json",
+      "sha256": "dcd735b0b2abe6475a933d9835fbbb41c4a951eb7aa415d00050a58a8151924c",
+      "bytes": 6521
+    },
+    {
+      "path": "upstream/2.4/assets/city_map_rank.svg",
+      "sha256": "44266f58ede72380ec60f8031e92a987376b5945119dcc43f3ba534b7a75bfb7",
+      "bytes": 16509
+    },
+    {
+      "path": "upstream/2.4/assets/world_talent.svg",
+      "sha256": "5789d40e72ee782f00254e3bea2e6b6c9d5ac02c5475dd955b4f2da808d60dfa",
+      "bytes": 189211
+    },
+    {
+      "path": "upstream/2.4/data/24/derived/city_comparison.csv",
+      "sha256": "c27a80380061c491c55d7756a29defee0431ca8dd2dfaeee9805fbcb84e65d95",
+      "bytes": 673
+    },
+    {
+      "path": "upstream/2.4/data/24/derived/five_region_comparison.csv",
+      "sha256": "02c5af07f007c335c6c1dfeb1d7bd1541f7e911e02ae83bf91e5e51cd7efa53b",
+      "bytes": 434
+    },
+    {
+      "path": "upstream/2.4/data/24/derived/global_top20.csv",
+      "sha256": "d8ea3b1660c9125d887e100568b9a39a7756b6ddfc6cce67fba56d6e9b9889f6",
+      "bytes": 761
+    },
+    {
+      "path": "upstream/2.4/data/24/maps/README.md",
+      "sha256": "2cedd2e965d69c796dfcff124fb0cc730484c3ab1ad297e58a2fe18acca09f61",
+      "bytes": 693
+    },
+    {
+      "path": "upstream/2.4/data/24/raw/five_region_talent.csv",
+      "sha256": "6e19b581dfb3c0449cf968f31b9c3066dfbfb042de0754f893383ae732969a71",
+      "bytes": 231
+    },
+    {
+      "path": "upstream/2.4/data/24/raw/global_talent.csv",
+      "sha256": "3ae9ec6fe54cf514e3d47b75270976e8f6759a3c5e0b73e6d772222297ef8408",
+      "bytes": 4158
+    },
+    {
+      "path": "upstream/2.4/data/24/raw/ten_city_talent.csv",
+      "sha256": "162c9448d705a3f8445a69459d063a2c29cd7109434383156817dcba30145de2",
+      "bytes": 286
+    },
+    {
+      "path": "upstream/2.4/data/content.json",
+      "sha256": "26ec3cddfaab5ce698688c9b86997c7ba8222c9c9a0c8818531a1b08b1746036",
+      "bytes": 4057
+    },
+    {
+      "path": "upstream/2.4/figures/04-talent-global.svg",
+      "sha256": "bf90356a7b843ca54bdea9a54872b959ea90597e769702ba987a0a6aa0f5a160",
+      "bytes": 229614
+    },
+    {
+      "path": "upstream/2.4/figures/05-talent-cities.svg",
+      "sha256": "0c8712e47add7ff67a90452136a45dc3bcfad4d41d0602391301009cc9d73a3f",
+      "bytes": 28969
+    },
+    {
+      "path": "upstream/2.5/README.md",
+      "sha256": "dad7c8cd8448858abe1c0df8bdf9b0956f03e9aa0b4a2d097b4a121e5c316fb8",
+      "bytes": 4460
+    },
+    {
+      "path": "upstream/2.5/assets/osdgs-symbol-compact.svg",
+      "sha256": "7de88d97f2153818823302676d3318a9b504dd9f719ef0961810a01cd3d5977f",
+      "bytes": 10729
+    },
+    {
+      "path": "upstream/2.5/assets_v03.py",
+      "sha256": "4e7a7e037595a7fe1839372a36a08530d925c690dba21b64d8d0fcaed8aeabbc",
+      "bytes": 23356
+    },
+    {
+      "path": "upstream/2.5/build.py",
+      "sha256": "c06851113ca7f5f98e61bdb5d56326504a16506aca54f42b5bae211cfd88fc71",
+      "bytes": 6077
+    },
+    {
+      "path": "upstream/2.5/data/25/editorial_baseline_v01.json",
+      "sha256": "45dd80e390f063713192c3f4c55ede770390c5acba5fbc4a43bdc208464a30cf",
+      "bytes": 14075
+    },
+    {
+      "path": "upstream/2.5/data/25/raw/platform_active_repositories.csv",
+      "sha256": "996852657b99c3fe9843cb0594bfe8a84fe750dedf68d4b658909b7ae1afd9de",
+      "bytes": 194
+    },
+    {
+      "path": "upstream/2.5/data/25/raw/publisher_sample_extract.json",
+      "sha256": "d24f7869529dff0b34f0affcdee1738f788094a7b2816589932b1360d4bcaf1f",
+      "bytes": 3596
+    },
+    {
+      "path": "upstream/2.5/data/content.json",
+      "sha256": "ebfc3a5c64ee1524d432e80008c06a4348de6ac0bdac10502cd77d7194cad87c",
+      "bytes": 7561
+    },
+    {
+      "path": "upstream/2.5/data/hf-daily-models.csv",
+      "sha256": "e3aebf36fa4eb09f6338fecdcc415002e7b0309a21c0b77b8d29107f3e95a6a6",
+      "bytes": 24930
+    },
+    {
+      "path": "upstream/2.5/data/innovationgraph-methods.md",
+      "sha256": "797438ea4692b2ff5a29db890fa183b6e18a5c5ef434e09012eca7ec5e8b3c7a",
+      "bytes": 12451
+    },
+    {
+      "path": "upstream/2.5/data/naturalearth_lowres.cpg",
+      "sha256": "09fc313075748ce8ead962229ed89c919d5a9ff71974ee725a0b48bb87d975a2",
+      "bytes": 10
+    },
+    {
+      "path": "upstream/2.5/data/naturalearth_lowres.dbf",
+      "sha256": "d2ae1c99adcf8e4586a5b12c639672035fa2f3f469e7255947de00401c3ed7e1",
+      "bytes": 48869
+    },
+    {
+      "path": "upstream/2.5/data/naturalearth_lowres.prj",
+      "sha256": "98aaf3d1c0ecadf1a424a4536de261c3daf4e373697cb86c40c43b989daf52eb",
+      "bytes": 143
+    },
+    {
+      "path": "upstream/2.5/data/naturalearth_lowres.shp",
+      "sha256": "08e341606e8391e458c3f08deb312de664b56bfae376064c5aa0aee6681a5f55",
+      "bytes": 180924
+    },
+    {
+      "path": "upstream/2.5/data/naturalearth_lowres.shx",
+      "sha256": "8b0be2ad97dd484aee5c2ebc98697d5372e832b8ae58a35a661aeef6b985668d",
+      "bytes": 1516
+    },
+    {
+      "path": "upstream/2.5/data/repo-countries.json",
+      "sha256": "5f6f92ac991a26d636d2e3f203e923c306cc4b40c1be8efd78184c5b12a0dc16",
+      "bytes": 99389
+    },
+    {
+      "path": "upstream/2.5/data/repositories.csv",
+      "sha256": "1b94b74a839aaf2118fb89cef2ee5d9aa2e48c4bc07dfb8300c7d781c502b1d4",
+      "bytes": 95047
+    },
+    {
+      "path": "upstream/2.5/data/sources.json",
+      "sha256": "a459d6d4e2b0e95e060b3965fd403c7b1c4bbfd12eb7d937943aab38e84fb4cf",
+      "bytes": 1281
+    },
+    {
+      "path": "upstream/2.5/figures/fig-2-13-asset-world.svg",
+      "sha256": "b07502163fb71ba7be0761ac955b28df609e67392617633799d38a79f2d9dcd8",
+      "bytes": 223955
+    },
+    {
+      "path": "upstream/2.5/figures/fig-2-14-code-world.svg",
+      "sha256": "e8efc846f7372ce4665bf00280a27ade3038f64f875814c713727824c57224c2",
+      "bytes": 229649
+    },
+    {
+      "path": "upstream/2.5/figures/fig-2-15-model-world.svg",
+      "sha256": "0747a8158a5c3126bd62a609ea97792057a12fd61c99555bc40495affd591b43",
+      "bytes": 270185
+    },
+    {
+      "path": "upstream/2.5/figures/fig-2-16-data-world.svg",
+      "sha256": "20f3eed2f4e6f3a77e78d994569e14ec11b7d715b25fdaf18d1e6a416b406825",
+      "bytes": 221658
+    },
+    {
+      "path": "upstream/2.5/layout.sty",
+      "sha256": "0bad88eb133e3be00e6de809b500a94f8cb1411dbff85edd7fb2052e31b3eeaf",
+      "bytes": 7343
+    },
+    {
+      "path": "upstream/2.5/report.tex",
+      "sha256": "4f50fd77586cfa85e2a9b99c991a0911fc8c6f1b228945fa1fae3d19bd0c2aa7",
+      "bytes": 14842
+    },
+    {
+      "path": "upstream/2.5/run.py",
+      "sha256": "0ff10d7792fd6bd1d2a7b50401a05baa172d37f684e54306479b3de9b05b98d3",
+      "bytes": 5630
+    },
+    {
+      "path": "upstream/2.6/README.md",
+      "sha256": "08a70d6a3120c61035b4e668005551f73d7c3d848c56072ed1753d0716ffecd6",
+      "bytes": 3392
+    },
+    {
+      "path": "upstream/2.6/appendix.py",
+      "sha256": "92d9e80bbb2feec2695276e8e27b7b543dc4be851837ff84156aa81d6ea6ea6f",
+      "bytes": 3391
+    },
+    {
+      "path": "upstream/2.6/assets/osdgs-symbol-compact.svg",
+      "sha256": "7de88d97f2153818823302676d3318a9b504dd9f719ef0961810a01cd3d5977f",
+      "bytes": 10729
+    },
+    {
+      "path": "upstream/2.6/build.py",
+      "sha256": "453f9bdea52aa6c1f2f73ab8d64a973c39c019cc4a93e8bdedfe006af359be55",
+      "bytes": 6073
+    },
+    {
+      "path": "upstream/2.6/data/content.json",
+      "sha256": "0c432098f021abdcfd1919beb1586be132f06ddb97ccc419ba2f3763e2fd2d0e",
+      "bytes": 5443
+    },
+    {
+      "path": "upstream/2.6/data/recovery_provenance.json",
+      "sha256": "c9a7c21e235b70040281aa61aa7e8d706839f1472efdb183f627b4e47374c455",
+      "bytes": 391
+    },
+    {
+      "path": "upstream/2.6/data/sector_ai_trends_recovered.csv",
+      "sha256": "62e89ebbf9edb46ae7d7d423dc76bf74a8d5046abdc698c9e4a9bc912af47f73",
+      "bytes": 2339
+    },
+    {
+      "path": "upstream/2.6/data/source/ai_keyword_sensitivity.csv",
+      "sha256": "06715ecf60046fcaa697d023defa231ce1234ef739ec0ce704faf465577b5226",
+      "bytes": 240
+    },
+    {
+      "path": "upstream/2.6/data/source/analysis_metadata.json",
+      "sha256": "825f65162862da2f636b7fb59cd607a2ebd7452f4d68822651ee795ac5bad13d",
+      "bytes": 1861
+    },
+    {
+      "path": "upstream/2.6/data/source/classifier_ablation.json",
+      "sha256": "67949f27026d8961b2e8cfa1867932cfcd49276ebd4e130c585ec70f974ea2c5",
+      "bytes": 266
+    },
+    {
+      "path": "upstream/2.6/data/source/classifier_confusions.csv",
+      "sha256": "37d6679674a0cd99b4260252d1b0e21a22e2b1d432d0bb762f785b73c0b179e7",
+      "bytes": 4072
+    },
+    {
+      "path": "upstream/2.6/data/source/classifier_per_class_metrics.csv",
+      "sha256": "0e60fe64bfe5ec1deaf84d56a5c0f76293ad0d242d610b96e314f9a9aa4f6b7e",
+      "bytes": 1466
+    },
+    {
+      "path": "upstream/2.6/data/source/overall_ai_mentions_by_year.csv",
+      "sha256": "dda02c03e3ddfc8b819eae2419cf0d4858d1f2397a4f3ede2458cf4a882b4b28",
+      "bytes": 383
+    },
+    {
+      "path": "upstream/2.6/data/source/sector_ai_mentions_2025.csv",
+      "sha256": "8a5aa8ec8e5c3ff4ec396108f8b1e9806a811ce0ef5d354c7db905f4b976712a",
+      "bytes": 1568
+    },
+    {
+      "path": "upstream/2.6/data/source/sector_counts_by_year.csv",
+      "sha256": "f5accd3ad09f1c519d0c2f06c2be737fc3668c6cf64a2c165c6ee4949d39305f",
+      "bytes": 438
+    },
+    {
+      "path": "upstream/2.6/data/source/sector_shares_by_year.csv",
+      "sha256": "a8eaaa5050ede4d87cfeff1e3fe287e4a764b116e4d0281875f3c7c1757d613a",
+      "bytes": 2034
+    },
+    {
+      "path": "upstream/2.6/data/treemap-audit.json",
+      "sha256": "10e1a65b922021fd412c7d68b199f4bd40e188dc498e8cf3061b54075225114c",
+      "bytes": 1686
+    },
+    {
+      "path": "upstream/2.6/evidence/claims-map.md",
+      "sha256": "c0e8511518099798930c8d3217244b5d7094512c221e11807fdbf4f2fcd64950",
+      "bytes": 13456
+    },
+    {
+      "path": "upstream/2.6/evidence/editorial-guidelines.md",
+      "sha256": "286b2b58888544933fa1a9f6ec9bd0049fd8d6652d0781a3ab5af630ff0154e7",
+      "bytes": 5275
+    },
+    {
+      "path": "upstream/2.6/evidence/insights-constitution.md",
+      "sha256": "ef15497f6e5139ecc553bce922e3d0e3095c49e97362e5e163df6d454e273b45",
+      "bytes": 4980
+    },
+    {
+      "path": "upstream/2.6/evidence/material-inventory.md",
+      "sha256": "79acb366f70c9896ee8b3a03675cab9ba4ad1487c2a29c3078d913dabd76eb44",
+      "bytes": 10960
+    },
+    {
+      "path": "upstream/2.6/evidence/repo-snapshots.json",
+      "sha256": "0c5cb0fb1f7e4f91fff26b232c23c9a23071f57a37c68b4cd6370bce08930bbe",
+      "bytes": 1173
+    },
+    {
+      "path": "upstream/2.6/evidence/report-constitution.md",
+      "sha256": "1de8179ad52e7640fab97c27f270bd3af156096f242793bfb4b0979143f3feeb",
+      "bytes": 14486
+    },
+    {
+      "path": "upstream/2.6/evidence/review-checklist.md",
+      "sha256": "0c82747d4f95794d17bc71472c539a4c6d947661c9f44a4a14901162b37c9f18",
+      "bytes": 6384
+    },
+    {
+      "path": "upstream/2.6/evidence/source-manifest.json",
+      "sha256": "38217778daf3e83448f8289421e50b8b341b27c178fba66b63cdd6b5098e5a71",
+      "bytes": 3439
+    },
+    {
+      "path": "upstream/2.6/figures/fig-2-8-1.svg",
+      "sha256": "19eec559173b822928d69cc7ca1ecaf46593c642473b13356f488b9fd5f8918d",
+      "bytes": 32565
+    },
+    {
+      "path": "upstream/2.6/figures/fig-2-8-2.svg",
+      "sha256": "941cd28bdcb251dab2b914cb529ba27c7c81859221e9e8ebde9f5f4f5b8589a2",
+      "bytes": 29518
+    },
+    {
+      "path": "upstream/2.6/figures/fig-2-8-3.svg",
+      "sha256": "814c392414a0f83d93a953c76d332c63dba7e7c291b99d005ca689df256a1f9c",
+      "bytes": 21244
+    },
+    {
+      "path": "upstream/2.6/industry.py",
+      "sha256": "57d16737699fc2aa09f4d9d19da6128e4a099eeea230939037cdb3bef3c2c793",
+      "bytes": 15099
+    },
+    {
+      "path": "upstream/2.6/layout.sty",
+      "sha256": "0bad88eb133e3be00e6de809b500a94f8cb1411dbff85edd7fb2052e31b3eeaf",
+      "bytes": 7343
+    },
+    {
+      "path": "upstream/2.6/prepare_data.py",
+      "sha256": "1abb47bc5cc79941a2398d9de5f1644fd4bd48fda765d0664f44a1c5e10004a7",
+      "bytes": 2376
+    },
+    {
+      "path": "upstream/2.6/report.tex",
+      "sha256": "8a13cbcf82858f655e7596a3a5410b5cf5acd3e2c15cde91ffe072c485773a0a",
+      "bytes": 11440
+    },
+    {
+      "path": "upstream/2.6/requirements.txt",
+      "sha256": "7ec6e8b7280459d81836aff983bd72312f19910c8a2e4d18914ef86ffeae256e",
+      "bytes": 31
+    },
+    {
+      "path": "upstream/2.6/run.py",
+      "sha256": "abeed8593f6b47a481beae836ca64c206104765949ecb660185510ad5288359e",
+      "bytes": 1823
+    },
+    {
+      "path": "verify.py",
+      "sha256": "045fbdeeb4f4917c3880931a2d3743536a0bb8be2058f02b420f7777ce831b08",
+      "bytes": 3510
+    }
+  ]
+}

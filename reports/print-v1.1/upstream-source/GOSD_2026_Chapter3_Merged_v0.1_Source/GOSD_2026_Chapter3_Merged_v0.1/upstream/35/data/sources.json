@@ -1,0 +1,42 @@
+[
+  {
+    "id": "E1",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-5-1_new_repo_openrank_top30.csv",
+    "title": "新仓库前 30 位榜表；固定提交 c51e344。"
+  },
+  {
+    "id": "E2",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-5-2_new_project_openrank_top30.csv",
+    "title": "新项目前 30 位榜表；同一固定提交。"
+  },
+  {
+    "id": "E3",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/emerging-reference.json",
+    "title": "两榜逐项用途、组织和官方入口映射。"
+  },
+  {
+    "id": "E4",
+    "url": "https://github.com/X-lab2017/open-digger/tree/master/skills",
+    "title": "OpenDigger 数据与指标说明；本轮查询及去重明细随源稿保存。"
+  },
+  {
+    "id": "E5",
+    "url": "https://atomgit.com/cann",
+    "title": "CANN 官方首页，2026-11-10 读取：功能分层、治理、学习与算力入口。"
+  },
+  {
+    "id": "E6",
+    "url": "https://www.huawei.com/cn/news/2025/8/ascend-summit-CANN-open-source",
+    "title": "华为 2025-08-05：宣布 CANN 全面开源开放。"
+  },
+  {
+    "id": "E7",
+    "url": "https://www.huawei.com/cn/news/2025/9/hc-shengten-opensource",
+    "title": "华为 2025-09-20：技术指导委员会成立及与上游社区协作方向。"
+  },
+  {
+    "id": "E8",
+    "url": "https://open-share.com/insight/companies/huawei/cann?scope=Global&unit=Project&timeType=month&time=2026-10&search=&page=1",
+    "title": "OpenShare CANN 洞察入口；本轮跳转登录，未取得页面数值。"
+  }
+]

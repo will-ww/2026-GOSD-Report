@@ -1,0 +1,6322 @@
+[
+  {
+    "id": "b1",
+    "page": 1,
+    "x": 18,
+    "y": 8.3,
+    "w": 25,
+    "max_height": null,
+    "text": "GOSD",
+    "center": false
+  },
+  {
+    "id": "b2",
+    "page": 1,
+    "x": 48,
+    "y": 9.7,
+    "w": 145,
+    "max_height": null,
+    "text": "2026 全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b3",
+    "page": 1,
+    "x": 17,
+    "y": 42.0,
+    "w": 30,
+    "max_height": null,
+    "text": "GOSD",
+    "center": true
+  },
+  {
+    "id": "b4",
+    "page": 1,
+    "x": 56,
+    "y": 27.5,
+    "w": 140,
+    "max_height": 8,
+    "text": "第一章 / CHAPTER 01",
+    "center": false
+  },
+  {
+    "id": "b5",
+    "page": 1,
+    "x": 55,
+    "y": 38,
+    "w": 142,
+    "max_height": 18,
+    "text": "从开放协作到公共价值",
+    "center": false
+  },
+  {
+    "id": "b6",
+    "page": 1,
+    "x": 56,
+    "y": 54,
+    "w": 140,
+    "max_height": 8,
+    "text": "Foundations & Public Value",
+    "center": false
+  },
+  {
+    "id": "b7",
+    "page": 1,
+    "x": 19,
+    "y": 83,
+    "w": 177,
+    "max_height": 12,
+    "text": "AI 重塑开源，开源塑造 AI",
+    "center": false
+  },
+  {
+    "id": "b8",
+    "page": 1,
+    "x": 19,
+    "y": 99,
+    "w": 177,
+    "max_height": 35,
+    "text": "以共同愿景确定方向，以观察方法理解进展。\n本章从人工智能与开源的双向关系出发，说明发展目标、生态对象与观察方法，为后续章节提供共同语言。",
+    "center": false
+  },
+  {
+    "id": "b9",
+    "page": 1,
+    "x": 19,
+    "y": 142,
+    "w": 177,
+    "max_height": 8,
+    "text": "本章阅读路径",
+    "center": false
+  },
+  {
+    "id": "b10",
+    "page": 1,
+    "x": 23,
+    "y": 156,
+    "w": 15,
+    "max_height": 8,
+    "text": "1.1",
+    "center": false
+  },
+  {
+    "id": "b11",
+    "page": 1,
+    "x": 41,
+    "y": 156,
+    "w": 130,
+    "max_height": 9,
+    "text": "人工智能时代的开源协作",
+    "center": false
+  },
+  {
+    "id": "b12",
+    "page": 1,
+    "x": 41,
+    "y": 163.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "AI 与开源相互改变",
+    "center": false
+  },
+  {
+    "id": "b13",
+    "page": 1,
+    "x": 176,
+    "y": 158.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "3—5",
+    "center": false
+  },
+  {
+    "id": "b14",
+    "page": 1,
+    "x": 23,
+    "y": 187,
+    "w": 15,
+    "max_height": 8,
+    "text": "1.2",
+    "center": false
+  },
+  {
+    "id": "b15",
+    "page": 1,
+    "x": 41,
+    "y": 187,
+    "w": 130,
+    "max_height": 9,
+    "text": "开源发展目标",
+    "center": false
+  },
+  {
+    "id": "b16",
+    "page": 1,
+    "x": 41,
+    "y": 194.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "从开放资源到公共能力",
+    "center": false
+  },
+  {
+    "id": "b17",
+    "page": 1,
+    "x": 176,
+    "y": 189.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "6—7",
+    "center": false
+  },
+  {
+    "id": "b18",
+    "page": 1,
+    "x": 23,
+    "y": 218,
+    "w": 15,
+    "max_height": 8,
+    "text": "1.3",
+    "center": false
+  },
+  {
+    "id": "b19",
+    "page": 1,
+    "x": 41,
+    "y": 218,
+    "w": 130,
+    "max_height": 9,
+    "text": "观察方法",
+    "center": false
+  },
+  {
+    "id": "b20",
+    "page": 1,
+    "x": 41,
+    "y": 225.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "从生态对象到可比证据",
+    "center": false
+  },
+  {
+    "id": "b21",
+    "page": 1,
+    "x": 176,
+    "y": 220.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "8—11",
+    "center": false
+  },
+  {
+    "id": "b22",
+    "page": 1,
+    "x": 19,
+    "y": 260,
+    "w": 177,
+    "max_height": 21,
+    "text": "第二至第五章从生态、主体、技术和模型四个视角展开分析；第六章再把跨章发现转为趋势判断和行动建议。",
+    "center": false
+  },
+  {
+    "id": "b23",
+    "page": 1,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b24",
+    "page": 1,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "1",
+    "center": false
+  },
+  {
+    "id": "b25",
+    "page": 2,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b26",
+    "page": 2,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第一章 · 共同目标与观察方法",
+    "center": false
+  },
+  {
+    "id": "b27",
+    "page": 2,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b28",
+    "page": 2,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "3",
+    "center": false
+  },
+  {
+    "id": "b29",
+    "page": 3,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b30",
+    "page": 3,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第一章 · 共同目标与观察方法",
+    "center": false
+  },
+  {
+    "id": "b31",
+    "page": 3,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b32",
+    "page": 3,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "4",
+    "center": false
+  },
+  {
+    "id": "b33",
+    "page": 4,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b34",
+    "page": 4,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第一章 · 共同目标与观察方法",
+    "center": false
+  },
+  {
+    "id": "b35",
+    "page": 4,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b36",
+    "page": 4,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "5",
+    "center": false
+  },
+  {
+    "id": "b37",
+    "page": 5,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b38",
+    "page": 5,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第一章 · 共同目标与观察方法",
+    "center": false
+  },
+  {
+    "id": "b39",
+    "page": 5,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b40",
+    "page": 5,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "6",
+    "center": false
+  },
+  {
+    "id": "b41",
+    "page": 6,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b42",
+    "page": 6,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第一章 · 共同目标与观察方法",
+    "center": false
+  },
+  {
+    "id": "b43",
+    "page": 6,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b44",
+    "page": 6,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "7",
+    "center": false
+  },
+  {
+    "id": "b45",
+    "page": 7,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b46",
+    "page": 7,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第一章 · 共同目标与观察方法",
+    "center": false
+  },
+  {
+    "id": "b47",
+    "page": 7,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b48",
+    "page": 7,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "8",
+    "center": false
+  },
+  {
+    "id": "b49",
+    "page": 8,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b50",
+    "page": 8,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第一章 · 共同目标与观察方法",
+    "center": false
+  },
+  {
+    "id": "b51",
+    "page": 8,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b52",
+    "page": 8,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "9",
+    "center": false
+  },
+  {
+    "id": "b53",
+    "page": 9,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b54",
+    "page": 9,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第一章 · 共同目标与观察方法",
+    "center": false
+  },
+  {
+    "id": "b55",
+    "page": 9,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b56",
+    "page": 9,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "10",
+    "center": false
+  },
+  {
+    "id": "b57",
+    "page": 10,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b58",
+    "page": 10,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第一章 · 共同目标与观察方法",
+    "center": false
+  },
+  {
+    "id": "b59",
+    "page": 10,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b60",
+    "page": 10,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "11",
+    "center": false
+  },
+  {
+    "id": "b61",
+    "page": 11,
+    "x": 18,
+    "y": 8.3,
+    "w": 25,
+    "max_height": null,
+    "text": "GOSD",
+    "center": false
+  },
+  {
+    "id": "b62",
+    "page": 11,
+    "x": 48,
+    "y": 9.7,
+    "w": 145,
+    "max_height": null,
+    "text": "2026 全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b63",
+    "page": 11,
+    "x": 17,
+    "y": 42.0,
+    "w": 30,
+    "max_height": null,
+    "text": "GOSD",
+    "center": true
+  },
+  {
+    "id": "b64",
+    "page": 11,
+    "x": 56,
+    "y": 27.5,
+    "w": 140,
+    "max_height": 8,
+    "text": "第二章 / CHAPTER 02",
+    "center": false
+  },
+  {
+    "id": "b65",
+    "page": 11,
+    "x": 55,
+    "y": 38,
+    "w": 142,
+    "max_height": 18,
+    "text": "全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b66",
+    "page": 11,
+    "x": 56,
+    "y": 54,
+    "w": 140,
+    "max_height": 8,
+    "text": "Global Open Source Ecosystem",
+    "center": false
+  },
+  {
+    "id": "b67",
+    "page": 11,
+    "x": 19,
+    "y": 83,
+    "w": 177,
+    "max_height": 12,
+    "text": "从参与分布，走向协作能力与行业价值",
+    "center": false
+  },
+  {
+    "id": "b68",
+    "page": 11,
+    "x": 19,
+    "y": 99,
+    "w": 177,
+    "max_height": 35,
+    "text": "人工智能扩大了开放资源的类型，也改变了生产与协作的节奏。看清这一变化，需要把人、贡献、项目、人才、代码、模型与数据放在相互联系的观察框架中，再追问这些资源能够服务哪些行业和社会需求。\n本章围绕六类相互衔接的主题地图展开。这里的“地图”既指地域分布，也指生态结构：全球视野揭示不同地区的参与路径，中国观察连接本地建设与跨境协作，行业专题则引向资源的应用条件。",
+    "center": false
+  },
+  {
+    "id": "b69",
+    "page": 11,
+    "x": 19,
+    "y": 129,
+    "w": 177,
+    "max_height": 8,
+    "text": "本章阅读路径",
+    "center": false
+  },
+  {
+    "id": "b70",
+    "page": 11,
+    "x": 23,
+    "y": 143.0,
+    "w": 15,
+    "max_height": 8,
+    "text": "2.1",
+    "center": false
+  },
+  {
+    "id": "b71",
+    "page": 11,
+    "x": 41,
+    "y": 143.0,
+    "w": 130,
+    "max_height": 9,
+    "text": "活跃地图",
+    "center": false
+  },
+  {
+    "id": "b72",
+    "page": 11,
+    "x": 41,
+    "y": 150.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "谁在参与，增长发生在哪里？",
+    "center": false
+  },
+  {
+    "id": "b73",
+    "page": 11,
+    "x": 176,
+    "y": 145.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "15—17",
+    "center": false
+  },
+  {
+    "id": "b74",
+    "page": 11,
+    "x": 23,
+    "y": 161.5,
+    "w": 15,
+    "max_height": 8,
+    "text": "2.2",
+    "center": false
+  },
+  {
+    "id": "b75",
+    "page": 11,
+    "x": 41,
+    "y": 161.5,
+    "w": 130,
+    "max_height": 9,
+    "text": "贡献地图",
+    "center": false
+  },
+  {
+    "id": "b76",
+    "page": 11,
+    "x": 41,
+    "y": 169.2,
+    "w": 134,
+    "max_height": 9,
+    "text": "参与怎样进入共同协作？",
+    "center": false
+  },
+  {
+    "id": "b77",
+    "page": 11,
+    "x": 176,
+    "y": 163.8,
+    "w": 16,
+    "max_height": 8,
+    "text": "18—21",
+    "center": false
+  },
+  {
+    "id": "b78",
+    "page": 11,
+    "x": 23,
+    "y": 180.0,
+    "w": 15,
+    "max_height": 8,
+    "text": "2.3",
+    "center": false
+  },
+  {
+    "id": "b79",
+    "page": 11,
+    "x": 41,
+    "y": 180.0,
+    "w": 130,
+    "max_height": 9,
+    "text": "项目影响地图",
+    "center": false
+  },
+  {
+    "id": "b80",
+    "page": 11,
+    "x": 41,
+    "y": 187.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "协作影响汇聚到哪些项目？",
+    "center": false
+  },
+  {
+    "id": "b81",
+    "page": 11,
+    "x": 176,
+    "y": 182.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "22—24",
+    "center": false
+  },
+  {
+    "id": "b82",
+    "page": 11,
+    "x": 23,
+    "y": 198.5,
+    "w": 15,
+    "max_height": 8,
+    "text": "2.4",
+    "center": false
+  },
+  {
+    "id": "b83",
+    "page": 11,
+    "x": 41,
+    "y": 198.5,
+    "w": 130,
+    "max_height": 9,
+    "text": "人才地图",
+    "center": false
+  },
+  {
+    "id": "b84",
+    "page": 11,
+    "x": 41,
+    "y": 206.2,
+    "w": 134,
+    "max_height": 9,
+    "text": "哪些地域积累了关键参与者？",
+    "center": false
+  },
+  {
+    "id": "b85",
+    "page": 11,
+    "x": 176,
+    "y": 200.8,
+    "w": 16,
+    "max_height": 8,
+    "text": "25—26",
+    "center": false
+  },
+  {
+    "id": "b86",
+    "page": 11,
+    "x": 23,
+    "y": 217.0,
+    "w": 15,
+    "max_height": 8,
+    "text": "2.5",
+    "center": false
+  },
+  {
+    "id": "b87",
+    "page": 11,
+    "x": 41,
+    "y": 217.0,
+    "w": 130,
+    "max_height": 9,
+    "text": "资产地图",
+    "center": false
+  },
+  {
+    "id": "b88",
+    "page": 11,
+    "x": 41,
+    "y": 224.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "协作形成了怎样的资源供给？",
+    "center": false
+  },
+  {
+    "id": "b89",
+    "page": 11,
+    "x": 176,
+    "y": 219.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "27—30",
+    "center": false
+  },
+  {
+    "id": "b90",
+    "page": 11,
+    "x": 23,
+    "y": 235.5,
+    "w": 15,
+    "max_height": 8,
+    "text": "2.6",
+    "center": false
+  },
+  {
+    "id": "b91",
+    "page": 11,
+    "x": 41,
+    "y": 235.5,
+    "w": 130,
+    "max_height": 9,
+    "text": "行业地图",
+    "center": false
+  },
+  {
+    "id": "b92",
+    "page": 11,
+    "x": 41,
+    "y": 243.2,
+    "w": 134,
+    "max_height": 9,
+    "text": "资源可能进入哪些应用领域？",
+    "center": false
+  },
+  {
+    "id": "b93",
+    "page": 11,
+    "x": 176,
+    "y": 237.8,
+    "w": 16,
+    "max_height": 8,
+    "text": "31—33",
+    "center": false
+  },
+  {
+    "id": "b94",
+    "page": 11,
+    "x": 19,
+    "y": 260,
+    "w": 177,
+    "max_height": 21,
+    "text": "参与规模、资源供给与实际成效分别计量；报告年度、自然年及期后资料分别标注；观察结果、条件情景与行动建议分别表述。章末启示见第 34 页；专题方法见附录 9—13。",
+    "center": false
+  },
+  {
+    "id": "b95",
+    "page": 11,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b96",
+    "page": 11,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "13",
+    "center": false
+  },
+  {
+    "id": "b97",
+    "page": 12,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b98",
+    "page": 12,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b99",
+    "page": 12,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b100",
+    "page": 12,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "15",
+    "center": false
+  },
+  {
+    "id": "b101",
+    "page": 13,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b102",
+    "page": 13,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b103",
+    "page": 13,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b104",
+    "page": 13,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "16",
+    "center": false
+  },
+  {
+    "id": "b105",
+    "page": 14,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b106",
+    "page": 14,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b107",
+    "page": 14,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b108",
+    "page": 14,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "17",
+    "center": false
+  },
+  {
+    "id": "b109",
+    "page": 15,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b110",
+    "page": 15,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b111",
+    "page": 15,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b112",
+    "page": 15,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "18",
+    "center": false
+  },
+  {
+    "id": "b113",
+    "page": 16,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b114",
+    "page": 16,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b115",
+    "page": 16,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b116",
+    "page": 16,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "19",
+    "center": false
+  },
+  {
+    "id": "b117",
+    "page": 17,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b118",
+    "page": 17,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b119",
+    "page": 17,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b120",
+    "page": 17,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "20",
+    "center": false
+  },
+  {
+    "id": "b121",
+    "page": 18,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b122",
+    "page": 18,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b123",
+    "page": 18,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b124",
+    "page": 18,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "21",
+    "center": false
+  },
+  {
+    "id": "b125",
+    "page": 19,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b126",
+    "page": 19,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b127",
+    "page": 19,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b128",
+    "page": 19,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "22",
+    "center": false
+  },
+  {
+    "id": "b129",
+    "page": 20,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b130",
+    "page": 20,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b131",
+    "page": 20,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b132",
+    "page": 20,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "23",
+    "center": false
+  },
+  {
+    "id": "b133",
+    "page": 21,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b134",
+    "page": 21,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b135",
+    "page": 21,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b136",
+    "page": 21,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "24",
+    "center": false
+  },
+  {
+    "id": "b137",
+    "page": 22,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b138",
+    "page": 22,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b139",
+    "page": 22,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b140",
+    "page": 22,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "25",
+    "center": false
+  },
+  {
+    "id": "b141",
+    "page": 23,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b142",
+    "page": 23,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b143",
+    "page": 23,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b144",
+    "page": 23,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "26",
+    "center": false
+  },
+  {
+    "id": "b145",
+    "page": 24,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b146",
+    "page": 24,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b147",
+    "page": 24,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b148",
+    "page": 24,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "27",
+    "center": false
+  },
+  {
+    "id": "b149",
+    "page": 25,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b150",
+    "page": 25,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b151",
+    "page": 25,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b152",
+    "page": 25,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "28",
+    "center": false
+  },
+  {
+    "id": "b153",
+    "page": 26,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b154",
+    "page": 26,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b155",
+    "page": 26,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b156",
+    "page": 26,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "29",
+    "center": false
+  },
+  {
+    "id": "b157",
+    "page": 27,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b158",
+    "page": 27,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b159",
+    "page": 27,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b160",
+    "page": 27,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "30",
+    "center": false
+  },
+  {
+    "id": "b161",
+    "page": 28,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b162",
+    "page": 28,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b163",
+    "page": 28,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b164",
+    "page": 28,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "31",
+    "center": false
+  },
+  {
+    "id": "b165",
+    "page": 29,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b166",
+    "page": 29,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b167",
+    "page": 29,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b168",
+    "page": 29,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "32",
+    "center": false
+  },
+  {
+    "id": "b169",
+    "page": 30,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b170",
+    "page": 30,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b171",
+    "page": 30,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b172",
+    "page": 30,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "33",
+    "center": false
+  },
+  {
+    "id": "b173",
+    "page": 31,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b174",
+    "page": 31,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第二章 · 全球开源生态地图",
+    "center": false
+  },
+  {
+    "id": "b175",
+    "page": 31,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b176",
+    "page": 31,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "34",
+    "center": false
+  },
+  {
+    "id": "b177",
+    "page": 32,
+    "x": 18,
+    "y": 8.3,
+    "w": 25,
+    "max_height": null,
+    "text": "GOSD",
+    "center": false
+  },
+  {
+    "id": "b178",
+    "page": 32,
+    "x": 48,
+    "y": 9.7,
+    "w": 145,
+    "max_height": null,
+    "text": "2026 全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b179",
+    "page": 32,
+    "x": 17,
+    "y": 42.0,
+    "w": 30,
+    "max_height": null,
+    "text": "GOSD",
+    "center": true
+  },
+  {
+    "id": "b180",
+    "page": 32,
+    "x": 56,
+    "y": 27.5,
+    "w": 140,
+    "max_height": 8,
+    "text": "第三章 / CHAPTER 03",
+    "center": false
+  },
+  {
+    "id": "b181",
+    "page": 32,
+    "x": 55,
+    "y": 38,
+    "w": 142,
+    "max_height": 18,
+    "text": "全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b182",
+    "page": 32,
+    "x": 56,
+    "y": 54,
+    "w": 140,
+    "max_height": 8,
+    "text": "Global Open Source Rankings",
+    "center": false
+  },
+  {
+    "id": "b183",
+    "page": 32,
+    "x": 19,
+    "y": 83,
+    "w": 177,
+    "max_height": 12,
+    "text": "从主体位置走向持续协作能力",
+    "center": false
+  },
+  {
+    "id": "b184",
+    "page": 32,
+    "x": 19,
+    "y": 99,
+    "w": 177,
+    "max_height": 35,
+    "text": "第二章回答开放生态在哪里生长，本章进一步识别哪些地区、组织、项目与模型形成了影响。排行榜提供寻找关键主体的入口；将位次与技术分工、实际接口和维护记录相连，才能理解开放资源如何转化为可持续公共能力。",
+    "center": false
+  },
+  {
+    "id": "b185",
+    "page": 32,
+    "x": 19,
+    "y": 129,
+    "w": 177,
+    "max_height": 8,
+    "text": "本章阅读路径",
+    "center": false
+  },
+  {
+    "id": "b186",
+    "page": 32,
+    "x": 23,
+    "y": 143.0,
+    "w": 15,
+    "max_height": 8,
+    "text": "3.1",
+    "center": false
+  },
+  {
+    "id": "b187",
+    "page": 32,
+    "x": 41,
+    "y": 143.0,
+    "w": 130,
+    "max_height": 9,
+    "text": "行政区划",
+    "center": false
+  },
+  {
+    "id": "b188",
+    "page": 32,
+    "x": 41,
+    "y": 150.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "从全球分布落到省州与城市",
+    "center": false
+  },
+  {
+    "id": "b189",
+    "page": 32,
+    "x": 176,
+    "y": 145.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "37—39",
+    "center": false
+  },
+  {
+    "id": "b190",
+    "page": 32,
+    "x": 23,
+    "y": 161.5,
+    "w": 15,
+    "max_height": 8,
+    "text": "3.2",
+    "center": false
+  },
+  {
+    "id": "b191",
+    "page": 32,
+    "x": 41,
+    "y": 161.5,
+    "w": 130,
+    "max_height": 9,
+    "text": "企业",
+    "center": false
+  },
+  {
+    "id": "b192",
+    "page": 32,
+    "x": 41,
+    "y": 169.2,
+    "w": 134,
+    "max_height": 9,
+    "text": "辨认资源供给与持续投入的主体",
+    "center": false
+  },
+  {
+    "id": "b193",
+    "page": 32,
+    "x": 176,
+    "y": 163.8,
+    "w": 16,
+    "max_height": 8,
+    "text": "40—43",
+    "center": false
+  },
+  {
+    "id": "b194",
+    "page": 32,
+    "x": 23,
+    "y": 180.0,
+    "w": 15,
+    "max_height": 8,
+    "text": "3.3",
+    "center": false
+  },
+  {
+    "id": "b195",
+    "page": 32,
+    "x": 41,
+    "y": 180.0,
+    "w": 130,
+    "max_height": 9,
+    "text": "基金会",
+    "center": false
+  },
+  {
+    "id": "b196",
+    "page": 32,
+    "x": 41,
+    "y": 187.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "识别跨组织共同建设的载体",
+    "center": false
+  },
+  {
+    "id": "b197",
+    "page": 32,
+    "x": 176,
+    "y": 182.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "44—46",
+    "center": false
+  },
+  {
+    "id": "b198",
+    "page": 32,
+    "x": 23,
+    "y": 198.5,
+    "w": 15,
+    "max_height": 8,
+    "text": "3.4",
+    "center": false
+  },
+  {
+    "id": "b199",
+    "page": 32,
+    "x": 41,
+    "y": 198.5,
+    "w": 130,
+    "max_height": 9,
+    "text": "项目",
+    "center": false
+  },
+  {
+    "id": "b200",
+    "page": 32,
+    "x": 41,
+    "y": 206.2,
+    "w": 134,
+    "max_height": 9,
+    "text": "从影响位次进入技术与协作关系",
+    "center": false
+  },
+  {
+    "id": "b201",
+    "page": 32,
+    "x": 176,
+    "y": 200.8,
+    "w": 16,
+    "max_height": 8,
+    "text": "47—50",
+    "center": false
+  },
+  {
+    "id": "b202",
+    "page": 32,
+    "x": 23,
+    "y": 217.0,
+    "w": 15,
+    "max_height": 8,
+    "text": "3.5",
+    "center": false
+  },
+  {
+    "id": "b203",
+    "page": 32,
+    "x": 41,
+    "y": 217.0,
+    "w": 130,
+    "max_height": 9,
+    "text": "新势力",
+    "center": false
+  },
+  {
+    "id": "b204",
+    "page": 32,
+    "x": 41,
+    "y": 224.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "观察新增供给怎样形成体系",
+    "center": false
+  },
+  {
+    "id": "b205",
+    "page": 32,
+    "x": 176,
+    "y": 219.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "51—53",
+    "center": false
+  },
+  {
+    "id": "b206",
+    "page": 32,
+    "x": 23,
+    "y": 235.5,
+    "w": 15,
+    "max_height": 8,
+    "text": "3.6",
+    "center": false
+  },
+  {
+    "id": "b207",
+    "page": 32,
+    "x": 41,
+    "y": 235.5,
+    "w": 130,
+    "max_height": 9,
+    "text": "模型",
+    "center": false
+  },
+  {
+    "id": "b208",
+    "page": 32,
+    "x": 41,
+    "y": 243.2,
+    "w": 134,
+    "max_height": 9,
+    "text": "把代码协作扩展到模型复用",
+    "center": false
+  },
+  {
+    "id": "b209",
+    "page": 32,
+    "x": 176,
+    "y": 237.8,
+    "w": 16,
+    "max_height": 8,
+    "text": "54—56",
+    "center": false
+  },
+  {
+    "id": "b210",
+    "page": 32,
+    "x": 19,
+    "y": 260,
+    "w": 177,
+    "max_height": 21,
+    "text": "OpenRank 依据代码协作关系衡量影响；ModelRank 依据模型派生与复用关系观察影响。两者不直接比较，也不替代技术质量、开放许可或公共成效评价。章末综合见第 57 页。",
+    "center": false
+  },
+  {
+    "id": "b211",
+    "page": 32,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b212",
+    "page": 32,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "35",
+    "center": false
+  },
+  {
+    "id": "b213",
+    "page": 33,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b214",
+    "page": 33,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b215",
+    "page": 33,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b216",
+    "page": 33,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "37",
+    "center": false
+  },
+  {
+    "id": "b217",
+    "page": 34,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b218",
+    "page": 34,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b219",
+    "page": 34,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b220",
+    "page": 34,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "38",
+    "center": false
+  },
+  {
+    "id": "b221",
+    "page": 35,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b222",
+    "page": 35,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b223",
+    "page": 35,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b224",
+    "page": 35,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "39",
+    "center": false
+  },
+  {
+    "id": "b225",
+    "page": 36,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b226",
+    "page": 36,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b227",
+    "page": 36,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b228",
+    "page": 36,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "40",
+    "center": false
+  },
+  {
+    "id": "b229",
+    "page": 37,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b230",
+    "page": 37,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b231",
+    "page": 37,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b232",
+    "page": 37,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "41",
+    "center": false
+  },
+  {
+    "id": "b233",
+    "page": 38,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b234",
+    "page": 38,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b235",
+    "page": 38,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b236",
+    "page": 38,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "42",
+    "center": false
+  },
+  {
+    "id": "b237",
+    "page": 39,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b238",
+    "page": 39,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b239",
+    "page": 39,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b240",
+    "page": 39,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "43",
+    "center": false
+  },
+  {
+    "id": "b241",
+    "page": 40,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b242",
+    "page": 40,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b243",
+    "page": 40,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b244",
+    "page": 40,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "44",
+    "center": false
+  },
+  {
+    "id": "b245",
+    "page": 41,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b246",
+    "page": 41,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b247",
+    "page": 41,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b248",
+    "page": 41,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "45",
+    "center": false
+  },
+  {
+    "id": "b249",
+    "page": 42,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b250",
+    "page": 42,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b251",
+    "page": 42,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b252",
+    "page": 42,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "46",
+    "center": false
+  },
+  {
+    "id": "b253",
+    "page": 43,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b254",
+    "page": 43,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b255",
+    "page": 43,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b256",
+    "page": 43,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "47",
+    "center": false
+  },
+  {
+    "id": "b257",
+    "page": 44,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b258",
+    "page": 44,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b259",
+    "page": 44,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b260",
+    "page": 44,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "48",
+    "center": false
+  },
+  {
+    "id": "b261",
+    "page": 45,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b262",
+    "page": 45,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b263",
+    "page": 45,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b264",
+    "page": 45,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "49",
+    "center": false
+  },
+  {
+    "id": "b265",
+    "page": 46,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b266",
+    "page": 46,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b267",
+    "page": 46,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b268",
+    "page": 46,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "50",
+    "center": false
+  },
+  {
+    "id": "b269",
+    "page": 47,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b270",
+    "page": 47,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b271",
+    "page": 47,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b272",
+    "page": 47,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "51",
+    "center": false
+  },
+  {
+    "id": "b273",
+    "page": 48,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b274",
+    "page": 48,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b275",
+    "page": 48,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b276",
+    "page": 48,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "52",
+    "center": false
+  },
+  {
+    "id": "b277",
+    "page": 49,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b278",
+    "page": 49,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b279",
+    "page": 49,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b280",
+    "page": 49,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "53",
+    "center": false
+  },
+  {
+    "id": "b281",
+    "page": 50,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b282",
+    "page": 50,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b283",
+    "page": 50,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b284",
+    "page": 50,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "54",
+    "center": false
+  },
+  {
+    "id": "b285",
+    "page": 51,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b286",
+    "page": 51,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b287",
+    "page": 51,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b288",
+    "page": 51,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "55",
+    "center": false
+  },
+  {
+    "id": "b289",
+    "page": 52,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b290",
+    "page": 52,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b291",
+    "page": 52,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b292",
+    "page": 52,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "56",
+    "center": false
+  },
+  {
+    "id": "b293",
+    "page": 53,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b294",
+    "page": 53,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第三章 · 全球开源影响力排行榜",
+    "center": false
+  },
+  {
+    "id": "b295",
+    "page": 53,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b296",
+    "page": 53,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "57",
+    "center": false
+  },
+  {
+    "id": "b297",
+    "page": 54,
+    "x": 18,
+    "y": 8.3,
+    "w": 25,
+    "max_height": null,
+    "text": "GOSD",
+    "center": false
+  },
+  {
+    "id": "b298",
+    "page": 54,
+    "x": 48,
+    "y": 9.7,
+    "w": 145,
+    "max_height": null,
+    "text": "2026 全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b299",
+    "page": 54,
+    "x": 17,
+    "y": 42.0,
+    "w": 30,
+    "max_height": null,
+    "text": "GOSD",
+    "center": true
+  },
+  {
+    "id": "b300",
+    "page": 54,
+    "x": 56,
+    "y": 27.5,
+    "w": 140,
+    "max_height": 8,
+    "text": "第四章 / CHAPTER 04",
+    "center": false
+  },
+  {
+    "id": "b301",
+    "page": 54,
+    "x": 55,
+    "y": 38,
+    "w": 142,
+    "max_height": 18,
+    "text": "全球开源技术全景洞察",
+    "center": false
+  },
+  {
+    "id": "b302",
+    "page": 54,
+    "x": 56,
+    "y": 54,
+    "w": 140,
+    "max_height": 8,
+    "text": "Open Source Technology Landscapes",
+    "center": false
+  },
+  {
+    "id": "b303",
+    "page": 54,
+    "x": 19,
+    "y": 83,
+    "w": 177,
+    "max_height": 12,
+    "text": "看清技术分工，理解共同维护",
+    "center": false
+  },
+  {
+    "id": "b304",
+    "page": 54,
+    "x": 19,
+    "y": 99,
+    "w": 177,
+    "max_height": 35,
+    "text": "技术全景将智能体、模型、云、数据库、RISC-V 与 PyTorch 生态放在共同的观察框架中，辨认技术分工、项目联系与长期维护条件。\n各节先呈现资源全景，再结合功能类别、项目影响与可用的地域证据展开分析。以 PyTorch 为组织型生态案例，观察框架、工具与公共维护怎样相互配合。",
+    "center": false
+  },
+  {
+    "id": "b305",
+    "page": 54,
+    "x": 19,
+    "y": 129,
+    "w": 177,
+    "max_height": 8,
+    "text": "本章阅读路径",
+    "center": false
+  },
+  {
+    "id": "b306",
+    "page": 54,
+    "x": 23,
+    "y": 143.0,
+    "w": 15,
+    "max_height": 8,
+    "text": "4.1",
+    "center": false
+  },
+  {
+    "id": "b307",
+    "page": 54,
+    "x": 41,
+    "y": 143.0,
+    "w": 130,
+    "max_height": 9,
+    "text": "Agentic AI 全景洞察",
+    "center": false
+  },
+  {
+    "id": "b308",
+    "page": 54,
+    "x": 41,
+    "y": 150.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "智能体工具与模型基础设施",
+    "center": false
+  },
+  {
+    "id": "b309",
+    "page": 54,
+    "x": 176,
+    "y": 145.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "61—64",
+    "center": false
+  },
+  {
+    "id": "b310",
+    "page": 54,
+    "x": 23,
+    "y": 161.5,
+    "w": 15,
+    "max_height": 8,
+    "text": "4.2",
+    "center": false
+  },
+  {
+    "id": "b311",
+    "page": 54,
+    "x": 41,
+    "y": 161.5,
+    "w": 130,
+    "max_height": 9,
+    "text": "开源模型技术全景",
+    "center": false
+  },
+  {
+    "id": "b312",
+    "page": 54,
+    "x": 41,
+    "y": 169.2,
+    "w": 134,
+    "max_height": 9,
+    "text": "模型任务、发布主体与地域",
+    "center": false
+  },
+  {
+    "id": "b313",
+    "page": 54,
+    "x": 176,
+    "y": 163.8,
+    "w": 16,
+    "max_height": 8,
+    "text": "65—67",
+    "center": false
+  },
+  {
+    "id": "b314",
+    "page": 54,
+    "x": 23,
+    "y": 180.0,
+    "w": 15,
+    "max_height": 8,
+    "text": "4.3",
+    "center": false
+  },
+  {
+    "id": "b315",
+    "page": 54,
+    "x": 41,
+    "y": 180.0,
+    "w": 130,
+    "max_height": 9,
+    "text": "云基础设施技术全景",
+    "center": false
+  },
+  {
+    "id": "b316",
+    "page": 54,
+    "x": 41,
+    "y": 187.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "从功能分工理解项目组合",
+    "center": false
+  },
+  {
+    "id": "b317",
+    "page": 54,
+    "x": 176,
+    "y": 182.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "68",
+    "center": false
+  },
+  {
+    "id": "b318",
+    "page": 54,
+    "x": 23,
+    "y": 198.5,
+    "w": 15,
+    "max_height": 8,
+    "text": "4.4",
+    "center": false
+  },
+  {
+    "id": "b319",
+    "page": 54,
+    "x": 41,
+    "y": 198.5,
+    "w": 130,
+    "max_height": 9,
+    "text": "数据库系统技术全景",
+    "center": false
+  },
+  {
+    "id": "b320",
+    "page": 54,
+    "x": 41,
+    "y": 206.2,
+    "w": 134,
+    "max_height": 9,
+    "text": "连接数据管理与系统能力",
+    "center": false
+  },
+  {
+    "id": "b321",
+    "page": 54,
+    "x": 176,
+    "y": 200.8,
+    "w": 16,
+    "max_height": 8,
+    "text": "69",
+    "center": false
+  },
+  {
+    "id": "b322",
+    "page": 54,
+    "x": 23,
+    "y": 217.0,
+    "w": 15,
+    "max_height": 8,
+    "text": "4.5",
+    "center": false
+  },
+  {
+    "id": "b323",
+    "page": 54,
+    "x": 41,
+    "y": 217.0,
+    "w": 130,
+    "max_height": 9,
+    "text": "RISC-V 技术生态全景",
+    "center": false
+  },
+  {
+    "id": "b324",
+    "page": 54,
+    "x": 41,
+    "y": 224.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "开放指令集与软硬件协作",
+    "center": false
+  },
+  {
+    "id": "b325",
+    "page": 54,
+    "x": 176,
+    "y": 219.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "70",
+    "center": false
+  },
+  {
+    "id": "b326",
+    "page": 54,
+    "x": 23,
+    "y": 235.5,
+    "w": 15,
+    "max_height": 8,
+    "text": "4.6",
+    "center": false
+  },
+  {
+    "id": "b327",
+    "page": 54,
+    "x": 41,
+    "y": 235.5,
+    "w": 130,
+    "max_height": 9,
+    "text": "PyTorch 生态",
+    "center": false
+  },
+  {
+    "id": "b328",
+    "page": 54,
+    "x": 41,
+    "y": 243.2,
+    "w": 134,
+    "max_height": 9,
+    "text": "从框架走向可维护的技术体系",
+    "center": false
+  },
+  {
+    "id": "b329",
+    "page": 54,
+    "x": 176,
+    "y": 237.8,
+    "w": 16,
+    "max_height": 8,
+    "text": "71—73",
+    "center": false
+  },
+  {
+    "id": "b330",
+    "page": 54,
+    "x": 19,
+    "y": 260,
+    "w": 177,
+    "max_height": 21,
+    "text": "主统计期为 2025-07-01 至 2026-06-30；期后技术名单、账户地域与公开贡献子样本分别注明。图中的资源数不等于当期新增或全行业规模，专题口径见附录 15—16。",
+    "center": false
+  },
+  {
+    "id": "b331",
+    "page": 54,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b332",
+    "page": 54,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "59",
+    "center": false
+  },
+  {
+    "id": "b333",
+    "page": 55,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b334",
+    "page": 55,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第四章 · 全球开源技术全景洞察",
+    "center": false
+  },
+  {
+    "id": "b335",
+    "page": 55,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b336",
+    "page": 55,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "61",
+    "center": false
+  },
+  {
+    "id": "b337",
+    "page": 56,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b338",
+    "page": 56,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第四章 · 全球开源技术全景洞察",
+    "center": false
+  },
+  {
+    "id": "b339",
+    "page": 56,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b340",
+    "page": 56,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "62",
+    "center": false
+  },
+  {
+    "id": "b341",
+    "page": 57,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b342",
+    "page": 57,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第四章 · 全球开源技术全景洞察",
+    "center": false
+  },
+  {
+    "id": "b343",
+    "page": 57,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b344",
+    "page": 57,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "63",
+    "center": false
+  },
+  {
+    "id": "b345",
+    "page": 58,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b346",
+    "page": 58,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第四章 · 全球开源技术全景洞察",
+    "center": false
+  },
+  {
+    "id": "b347",
+    "page": 58,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b348",
+    "page": 58,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "64",
+    "center": false
+  },
+  {
+    "id": "b349",
+    "page": 59,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b350",
+    "page": 59,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第四章 · 全球开源技术全景洞察",
+    "center": false
+  },
+  {
+    "id": "b351",
+    "page": 59,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b352",
+    "page": 59,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "65",
+    "center": false
+  },
+  {
+    "id": "b353",
+    "page": 60,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b354",
+    "page": 60,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第四章 · 全球开源技术全景洞察",
+    "center": false
+  },
+  {
+    "id": "b355",
+    "page": 60,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b356",
+    "page": 60,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "66",
+    "center": false
+  },
+  {
+    "id": "b357",
+    "page": 61,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b358",
+    "page": 61,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第四章 · 全球开源技术全景洞察",
+    "center": false
+  },
+  {
+    "id": "b359",
+    "page": 61,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b360",
+    "page": 61,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "67",
+    "center": false
+  },
+  {
+    "id": "b361",
+    "page": 62,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b362",
+    "page": 62,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第四章 · 全球开源技术全景洞察",
+    "center": false
+  },
+  {
+    "id": "b363",
+    "page": 62,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b364",
+    "page": 62,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "68",
+    "center": false
+  },
+  {
+    "id": "b365",
+    "page": 63,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b366",
+    "page": 63,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第四章 · 全球开源技术全景洞察",
+    "center": false
+  },
+  {
+    "id": "b367",
+    "page": 63,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b368",
+    "page": 63,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "69",
+    "center": false
+  },
+  {
+    "id": "b369",
+    "page": 64,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b370",
+    "page": 64,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第四章 · 全球开源技术全景洞察",
+    "center": false
+  },
+  {
+    "id": "b371",
+    "page": 64,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b372",
+    "page": 64,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "70",
+    "center": false
+  },
+  {
+    "id": "b373",
+    "page": 65,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b374",
+    "page": 65,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第四章 · 全球开源技术全景洞察",
+    "center": false
+  },
+  {
+    "id": "b375",
+    "page": 65,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b376",
+    "page": 65,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "71",
+    "center": false
+  },
+  {
+    "id": "b377",
+    "page": 66,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b378",
+    "page": 66,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第四章 · 全球开源技术全景洞察",
+    "center": false
+  },
+  {
+    "id": "b379",
+    "page": 66,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b380",
+    "page": 66,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "72",
+    "center": false
+  },
+  {
+    "id": "b381",
+    "page": 67,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b382",
+    "page": 67,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第四章 · 全球开源技术全景洞察",
+    "center": false
+  },
+  {
+    "id": "b383",
+    "page": 67,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b384",
+    "page": 67,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "73",
+    "center": false
+  },
+  {
+    "id": "b385",
+    "page": 68,
+    "x": 18,
+    "y": 8.3,
+    "w": 25,
+    "max_height": null,
+    "text": "GOSD",
+    "center": false
+  },
+  {
+    "id": "b386",
+    "page": 68,
+    "x": 48,
+    "y": 9.7,
+    "w": 145,
+    "max_height": null,
+    "text": "2026 全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b387",
+    "page": 68,
+    "x": 17,
+    "y": 42.0,
+    "w": 30,
+    "max_height": null,
+    "text": "GOSD",
+    "center": true
+  },
+  {
+    "id": "b388",
+    "page": 68,
+    "x": 56,
+    "y": 27.5,
+    "w": 140,
+    "max_height": 8,
+    "text": "第五章 / CHAPTER 05",
+    "center": false
+  },
+  {
+    "id": "b389",
+    "page": 68,
+    "x": 55,
+    "y": 38,
+    "w": 142,
+    "max_height": 18,
+    "text": "全球开源大模型发展洞察",
+    "center": false
+  },
+  {
+    "id": "b390",
+    "page": 68,
+    "x": 56,
+    "y": 54,
+    "w": 140,
+    "max_height": 8,
+    "text": "Global Open Model Ecosystem",
+    "center": false
+  },
+  {
+    "id": "b391",
+    "page": 68,
+    "x": 19,
+    "y": 83,
+    "w": 177,
+    "max_height": 12,
+    "text": "从开放供给，走向全球协作与公共能力",
+    "center": false
+  },
+  {
+    "id": "b392",
+    "page": 68,
+    "x": 19,
+    "y": 99,
+    "w": 177,
+    "max_height": 35,
+    "text": "模型生态的价值，既来自新的资源，也来自围绕资源持续展开的适配、再创造与维护。第四章呈现运行模型的技术生态，本章进一步观察模型与数据由谁供给、怎样进入全球协作，以及何种开放条件能够支撑持续使用和独立创新。\n地图定位发布者，派生网络连接上下游，开放评价检查材料与权利。三组证据分别揭示资源位置、协作角色和再创造条件，帮助判断公共投入应支持哪些环节。",
+    "center": false
+  },
+  {
+    "id": "b393",
+    "page": 68,
+    "x": 19,
+    "y": 131,
+    "w": 177,
+    "max_height": 8,
+    "text": "本章阅读路径",
+    "center": false
+  },
+  {
+    "id": "b394",
+    "page": 68,
+    "x": 23,
+    "y": 145,
+    "w": 15,
+    "max_height": 8,
+    "text": "5.1",
+    "center": false
+  },
+  {
+    "id": "b395",
+    "page": 68,
+    "x": 41,
+    "y": 145,
+    "w": 130,
+    "max_height": 9,
+    "text": "供给与贡献",
+    "center": false
+  },
+  {
+    "id": "b396",
+    "page": 68,
+    "x": 41,
+    "y": 152.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "HF 资产、增长与全球资源分工",
+    "center": false
+  },
+  {
+    "id": "b397",
+    "page": 68,
+    "x": 176,
+    "y": 147.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "77—79",
+    "center": false
+  },
+  {
+    "id": "b398",
+    "page": 68,
+    "x": 23,
+    "y": 177,
+    "w": 15,
+    "max_height": 8,
+    "text": "5.2",
+    "center": false
+  },
+  {
+    "id": "b399",
+    "page": 68,
+    "x": 41,
+    "y": 177,
+    "w": 130,
+    "max_height": 9,
+    "text": "网络与影响力",
+    "center": false
+  },
+  {
+    "id": "b400",
+    "page": 68,
+    "x": 41,
+    "y": 184.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "从基座供给到跨国再创造",
+    "center": false
+  },
+  {
+    "id": "b401",
+    "page": 68,
+    "x": 176,
+    "y": 179.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "80—82",
+    "center": false
+  },
+  {
+    "id": "b402",
+    "page": 68,
+    "x": 23,
+    "y": 209,
+    "w": 15,
+    "max_height": 8,
+    "text": "5.3",
+    "center": false
+  },
+  {
+    "id": "b403",
+    "page": 68,
+    "x": 41,
+    "y": 209,
+    "w": 130,
+    "max_height": 9,
+    "text": "开源开放与分级体系",
+    "center": false
+  },
+  {
+    "id": "b404",
+    "page": 68,
+    "x": 41,
+    "y": 216.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "从使用权限到完整交付",
+    "center": false
+  },
+  {
+    "id": "b405",
+    "page": 68,
+    "x": 176,
+    "y": 211.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "83—86",
+    "center": false
+  },
+  {
+    "id": "b406",
+    "page": 68,
+    "x": 19,
+    "y": 251,
+    "w": 177,
+    "max_height": 21,
+    "text": "中国贡献放在全球再创造中理解。全球南方可从语言适配、数据共建、评测与新基座供给等环节参与，具体合作由当地需求与能力条件决定。章末综合见第 87 页；专题口径见附录 17。",
+    "center": false
+  },
+  {
+    "id": "b407",
+    "page": 68,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b408",
+    "page": 68,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "75",
+    "center": false
+  },
+  {
+    "id": "b409",
+    "page": 69,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b410",
+    "page": 69,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第五章 · 全球开源大模型发展洞察",
+    "center": false
+  },
+  {
+    "id": "b411",
+    "page": 69,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b412",
+    "page": 69,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "77",
+    "center": false
+  },
+  {
+    "id": "b413",
+    "page": 70,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b414",
+    "page": 70,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第五章 · 全球开源大模型发展洞察",
+    "center": false
+  },
+  {
+    "id": "b415",
+    "page": 70,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b416",
+    "page": 70,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "78",
+    "center": false
+  },
+  {
+    "id": "b417",
+    "page": 71,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b418",
+    "page": 71,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第五章 · 全球开源大模型发展洞察",
+    "center": false
+  },
+  {
+    "id": "b419",
+    "page": 71,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b420",
+    "page": 71,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "79",
+    "center": false
+  },
+  {
+    "id": "b421",
+    "page": 72,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b422",
+    "page": 72,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第五章 · 全球开源大模型发展洞察",
+    "center": false
+  },
+  {
+    "id": "b423",
+    "page": 72,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b424",
+    "page": 72,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "80",
+    "center": false
+  },
+  {
+    "id": "b425",
+    "page": 73,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b426",
+    "page": 73,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第五章 · 全球开源大模型发展洞察",
+    "center": false
+  },
+  {
+    "id": "b427",
+    "page": 73,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b428",
+    "page": 73,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "81",
+    "center": false
+  },
+  {
+    "id": "b429",
+    "page": 74,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b430",
+    "page": 74,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第五章 · 全球开源大模型发展洞察",
+    "center": false
+  },
+  {
+    "id": "b431",
+    "page": 74,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b432",
+    "page": 74,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "82",
+    "center": false
+  },
+  {
+    "id": "b433",
+    "page": 75,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b434",
+    "page": 75,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第五章 · 全球开源大模型发展洞察",
+    "center": false
+  },
+  {
+    "id": "b435",
+    "page": 75,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b436",
+    "page": 75,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "83",
+    "center": false
+  },
+  {
+    "id": "b437",
+    "page": 76,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b438",
+    "page": 76,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第五章 · 全球开源大模型发展洞察",
+    "center": false
+  },
+  {
+    "id": "b439",
+    "page": 76,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b440",
+    "page": 76,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "84",
+    "center": false
+  },
+  {
+    "id": "b441",
+    "page": 77,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b442",
+    "page": 77,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第五章 · 全球开源大模型发展洞察",
+    "center": false
+  },
+  {
+    "id": "b443",
+    "page": 77,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b444",
+    "page": 77,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "85",
+    "center": false
+  },
+  {
+    "id": "b445",
+    "page": 78,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b446",
+    "page": 78,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第五章 · 全球开源大模型发展洞察",
+    "center": false
+  },
+  {
+    "id": "b447",
+    "page": 78,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b448",
+    "page": 78,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "86",
+    "center": false
+  },
+  {
+    "id": "b449",
+    "page": 79,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b450",
+    "page": 79,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第五章 · 全球开源大模型发展洞察",
+    "center": false
+  },
+  {
+    "id": "b451",
+    "page": 79,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b452",
+    "page": 79,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "87",
+    "center": false
+  },
+  {
+    "id": "b453",
+    "page": 80,
+    "x": 18,
+    "y": 8.3,
+    "w": 25,
+    "max_height": null,
+    "text": "GOSD",
+    "center": false
+  },
+  {
+    "id": "b454",
+    "page": 80,
+    "x": 48,
+    "y": 9.7,
+    "w": 145,
+    "max_height": null,
+    "text": "2026 全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b455",
+    "page": 80,
+    "x": 17,
+    "y": 42.0,
+    "w": 30,
+    "max_height": null,
+    "text": "GOSD",
+    "center": true
+  },
+  {
+    "id": "b456",
+    "page": 80,
+    "x": 56,
+    "y": 27.5,
+    "w": 140,
+    "max_height": 8,
+    "text": "第六章 / CHAPTER 06",
+    "center": false
+  },
+  {
+    "id": "b457",
+    "page": 80,
+    "x": 55,
+    "y": 38,
+    "w": 142,
+    "max_height": 18,
+    "text": "关键洞察、前瞻与战略建议",
+    "center": false
+  },
+  {
+    "id": "b458",
+    "page": 80,
+    "x": 56,
+    "y": 54,
+    "w": 140,
+    "max_height": 8,
+    "text": "Insights, Outlooks & Strategic Actions",
+    "center": false
+  },
+  {
+    "id": "b459",
+    "page": 80,
+    "x": 19,
+    "y": 83,
+    "w": 177,
+    "max_height": 12,
+    "text": "从观察事实，走向前瞻判断与共同行动",
+    "center": false
+  },
+  {
+    "id": "b460",
+    "page": 80,
+    "x": 19,
+    "y": 99,
+    "w": 177,
+    "max_height": 35,
+    "text": "本章将生态地图、主体榜单、技术全景与模型网络相互参照，归纳十二项关键洞察，并提出十大前瞻与十大战略建议。\n从已经观察到的现象出发，说明可能的变化及其条件，再落实到政府、企业、基金会与社区可以推进的工作。",
+    "center": false
+  },
+  {
+    "id": "b461",
+    "page": 80,
+    "x": 22,
+    "y": 137,
+    "w": 80,
+    "max_height": 7,
+    "text": "A 全球协作与体系能力",
+    "center": false
+  },
+  {
+    "id": "b462",
+    "page": 80,
+    "x": 113,
+    "y": 137,
+    "w": 80,
+    "max_height": 7,
+    "text": "B 中国模型开源与全球协作",
+    "center": false
+  },
+  {
+    "id": "b463",
+    "page": 80,
+    "x": 22,
+    "y": 150,
+    "w": 80,
+    "max_height": 7,
+    "text": "C 全球南方与公共能力",
+    "center": false
+  },
+  {
+    "id": "b464",
+    "page": 80,
+    "x": 113,
+    "y": 150,
+    "w": 80,
+    "max_height": 7,
+    "text": "D 中国产业、人才与城市结构",
+    "center": false
+  },
+  {
+    "id": "b465",
+    "page": 80,
+    "x": 23,
+    "y": 170,
+    "w": 15,
+    "max_height": 8,
+    "text": "6.1",
+    "center": false
+  },
+  {
+    "id": "b466",
+    "page": 80,
+    "x": 41,
+    "y": 170,
+    "w": 130,
+    "max_height": 9,
+    "text": "十二项关键洞察",
+    "center": false
+  },
+  {
+    "id": "b467",
+    "page": 80,
+    "x": 41,
+    "y": 177.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "观察到什么：四组主题，共十二项判断",
+    "center": false
+  },
+  {
+    "id": "b468",
+    "page": 80,
+    "x": 176,
+    "y": 172.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "91—94",
+    "center": false
+  },
+  {
+    "id": "b469",
+    "page": 80,
+    "x": 23,
+    "y": 198,
+    "w": 15,
+    "max_height": 8,
+    "text": "6.2",
+    "center": false
+  },
+  {
+    "id": "b470",
+    "page": 80,
+    "x": 41,
+    "y": 198,
+    "w": 130,
+    "max_height": 9,
+    "text": "十大前瞻",
+    "center": false
+  },
+  {
+    "id": "b471",
+    "page": 80,
+    "x": 41,
+    "y": 205.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "可能怎样变化：近期、中期与长期情景",
+    "center": false
+  },
+  {
+    "id": "b472",
+    "page": 80,
+    "x": 176,
+    "y": 200.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "95",
+    "center": false
+  },
+  {
+    "id": "b473",
+    "page": 80,
+    "x": 23,
+    "y": 226,
+    "w": 15,
+    "max_height": 8,
+    "text": "6.3",
+    "center": false
+  },
+  {
+    "id": "b474",
+    "page": 80,
+    "x": 41,
+    "y": 226,
+    "w": 130,
+    "max_height": 9,
+    "text": "十大战略建议",
+    "center": false
+  },
+  {
+    "id": "b475",
+    "page": 80,
+    "x": 41,
+    "y": 233.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "谁来做什么：共同建设、使用与维护",
+    "center": false
+  },
+  {
+    "id": "b476",
+    "page": 80,
+    "x": 176,
+    "y": 228.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "96",
+    "center": false
+  },
+  {
+    "id": "b477",
+    "page": 80,
+    "x": 19,
+    "y": 260,
+    "w": 177,
+    "max_height": 21,
+    "text": "观察事实、条件前瞻与行动建议分别阅读。前瞻从正式发布时点起算；面向 2030 的内容是有明确条件的长期情景。",
+    "center": false
+  },
+  {
+    "id": "b478",
+    "page": 80,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b479",
+    "page": 80,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "89",
+    "center": false
+  },
+  {
+    "id": "b480",
+    "page": 81,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b481",
+    "page": 81,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第六章 · 洞察、前瞻与战略建议",
+    "center": false
+  },
+  {
+    "id": "b482",
+    "page": 81,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b483",
+    "page": 81,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "91",
+    "center": false
+  },
+  {
+    "id": "b484",
+    "page": 82,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b485",
+    "page": 82,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第六章 · 洞察、前瞻与战略建议",
+    "center": false
+  },
+  {
+    "id": "b486",
+    "page": 82,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b487",
+    "page": 82,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "92",
+    "center": false
+  },
+  {
+    "id": "b488",
+    "page": 83,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b489",
+    "page": 83,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第六章 · 洞察、前瞻与战略建议",
+    "center": false
+  },
+  {
+    "id": "b490",
+    "page": 83,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b491",
+    "page": 83,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "93",
+    "center": false
+  },
+  {
+    "id": "b492",
+    "page": 84,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b493",
+    "page": 84,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第六章 · 洞察、前瞻与战略建议",
+    "center": false
+  },
+  {
+    "id": "b494",
+    "page": 84,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b495",
+    "page": 84,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "94",
+    "center": false
+  },
+  {
+    "id": "b496",
+    "page": 85,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b497",
+    "page": 85,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第六章 · 洞察、前瞻与战略建议",
+    "center": false
+  },
+  {
+    "id": "b498",
+    "page": 85,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b499",
+    "page": 85,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "95",
+    "center": false
+  },
+  {
+    "id": "b500",
+    "page": 86,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b501",
+    "page": 86,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "第六章 · 洞察、前瞻与战略建议",
+    "center": false
+  },
+  {
+    "id": "b502",
+    "page": 86,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b503",
+    "page": 86,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "96",
+    "center": false
+  },
+  {
+    "id": "b504",
+    "page": 87,
+    "x": 18,
+    "y": 8.3,
+    "w": 25,
+    "max_height": null,
+    "text": "GOSD",
+    "center": false
+  },
+  {
+    "id": "b505",
+    "page": 87,
+    "x": 48,
+    "y": 9.7,
+    "w": 145,
+    "max_height": null,
+    "text": "2026 全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b506",
+    "page": 87,
+    "x": 17,
+    "y": 42.0,
+    "w": 30,
+    "max_height": null,
+    "text": "GOSD",
+    "center": true
+  },
+  {
+    "id": "b507",
+    "page": 87,
+    "x": 56,
+    "y": 27.5,
+    "w": 140,
+    "max_height": 8,
+    "text": "附录 / APPENDIX",
+    "center": false
+  },
+  {
+    "id": "b508",
+    "page": 87,
+    "x": 55,
+    "y": 38,
+    "w": 142,
+    "max_height": 18,
+    "text": "附录与致谢",
+    "center": false
+  },
+  {
+    "id": "b509",
+    "page": 87,
+    "x": 56,
+    "y": 54,
+    "w": 140,
+    "max_height": 8,
+    "text": "Methods, Evidence & Acknowledgements",
+    "center": false
+  },
+  {
+    "id": "b510",
+    "page": 87,
+    "x": 19,
+    "y": 83,
+    "w": 177,
+    "max_height": 12,
+    "text": "让概念清楚，让比较有据",
+    "center": false
+  },
+  {
+    "id": "b511",
+    "page": 87,
+    "x": 19,
+    "y": 99,
+    "w": 177,
+    "max_height": 35,
+    "text": "本附录集中说明全书的概念、指标、统计范围与专题方法。基础解释与各章专用口径分别编排，便于从图表返回相应的方法说明。\n指标名称表达观察方向，不代表所有指标都已完成测量；具体数字仍按图中注明的对象、时间和样本解释。",
+    "center": false
+  },
+  {
+    "id": "b512",
+    "page": 87,
+    "x": 19,
+    "y": 128,
+    "w": 177,
+    "max_height": 8,
+    "text": "查阅路径",
+    "center": false
+  },
+  {
+    "id": "b513",
+    "page": 87,
+    "x": 23,
+    "y": 142,
+    "w": 15,
+    "max_height": 8,
+    "text": "1—8",
+    "center": false
+  },
+  {
+    "id": "b514",
+    "page": 87,
+    "x": 41,
+    "y": 142,
+    "w": 130,
+    "max_height": 9,
+    "text": "基础概念、指标与术语",
+    "center": false
+  },
+  {
+    "id": "b515",
+    "page": 87,
+    "x": 41,
+    "y": 149.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "读懂全书的观察对象和比较方法",
+    "center": false
+  },
+  {
+    "id": "b516",
+    "page": 87,
+    "x": 176,
+    "y": 144.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "99—106",
+    "center": false
+  },
+  {
+    "id": "b517",
+    "page": 87,
+    "x": 23,
+    "y": 165,
+    "w": 15,
+    "max_height": 8,
+    "text": "9—13",
+    "center": false
+  },
+  {
+    "id": "b518",
+    "page": 87,
+    "x": 41,
+    "y": 165,
+    "w": 130,
+    "max_height": 9,
+    "text": "生态地图方法",
+    "center": false
+  },
+  {
+    "id": "b519",
+    "page": 87,
+    "x": 41,
+    "y": 172.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "统计覆盖、历史情景、资产与行业样本",
+    "center": false
+  },
+  {
+    "id": "b520",
+    "page": 87,
+    "x": 176,
+    "y": 167.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "107—111",
+    "center": false
+  },
+  {
+    "id": "b521",
+    "page": 87,
+    "x": 23,
+    "y": 188,
+    "w": 15,
+    "max_height": 8,
+    "text": "14—16",
+    "center": false
+  },
+  {
+    "id": "b522",
+    "page": 87,
+    "x": 41,
+    "y": 188,
+    "w": 130,
+    "max_height": 9,
+    "text": "排行榜与技术口径",
+    "center": false
+  },
+  {
+    "id": "b523",
+    "page": 87,
+    "x": 41,
+    "y": 195.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "对象边界、技术样本和地域归属",
+    "center": false
+  },
+  {
+    "id": "b524",
+    "page": 87,
+    "x": 176,
+    "y": 190.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "112—114",
+    "center": false
+  },
+  {
+    "id": "b525",
+    "page": 87,
+    "x": 23,
+    "y": 211,
+    "w": 15,
+    "max_height": 8,
+    "text": "17",
+    "center": false
+  },
+  {
+    "id": "b526",
+    "page": 87,
+    "x": 41,
+    "y": 211,
+    "w": 130,
+    "max_height": 9,
+    "text": "模型生态方法",
+    "center": false
+  },
+  {
+    "id": "b527",
+    "page": 87,
+    "x": 41,
+    "y": 218.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "供给、派生、开放条件与证据范围",
+    "center": false
+  },
+  {
+    "id": "b528",
+    "page": 87,
+    "x": 176,
+    "y": 213.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "115",
+    "center": false
+  },
+  {
+    "id": "b529",
+    "page": 87,
+    "x": 23,
+    "y": 234,
+    "w": 15,
+    "max_height": 8,
+    "text": "致谢",
+    "center": false
+  },
+  {
+    "id": "b530",
+    "page": 87,
+    "x": 41,
+    "y": 234,
+    "w": 130,
+    "max_height": 9,
+    "text": "中英文致谢",
+    "center": false
+  },
+  {
+    "id": "b531",
+    "page": 87,
+    "x": 41,
+    "y": 241.7,
+    "w": 134,
+    "max_height": 9,
+    "text": "共同研究、开放协作与持续贡献",
+    "center": false
+  },
+  {
+    "id": "b532",
+    "page": 87,
+    "x": 176,
+    "y": 236.3,
+    "w": 16,
+    "max_height": 8,
+    "text": "117—118",
+    "center": false
+  },
+  {
+    "id": "b533",
+    "page": 87,
+    "x": 19,
+    "y": 260,
+    "w": 177,
+    "max_height": 21,
+    "text": "先查基础指标，再核对专题样本。方法说明与各幅图的来源、时间和限制共同决定数字可以怎样解释。",
+    "center": false
+  },
+  {
+    "id": "b534",
+    "page": 87,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b535",
+    "page": 87,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "97",
+    "center": false
+  },
+  {
+    "id": "b536",
+    "page": 88,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b537",
+    "page": 88,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b538",
+    "page": 88,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b539",
+    "page": 88,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "99",
+    "center": false
+  },
+  {
+    "id": "b540",
+    "page": 89,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b541",
+    "page": 89,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b542",
+    "page": 89,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b543",
+    "page": 89,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "100",
+    "center": false
+  },
+  {
+    "id": "b544",
+    "page": 90,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b545",
+    "page": 90,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b546",
+    "page": 90,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b547",
+    "page": 90,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "101",
+    "center": false
+  },
+  {
+    "id": "b548",
+    "page": 91,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b549",
+    "page": 91,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b550",
+    "page": 91,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b551",
+    "page": 91,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "102",
+    "center": false
+  },
+  {
+    "id": "b552",
+    "page": 92,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b553",
+    "page": 92,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b554",
+    "page": 92,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b555",
+    "page": 92,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "103",
+    "center": false
+  },
+  {
+    "id": "b556",
+    "page": 93,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b557",
+    "page": 93,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b558",
+    "page": 93,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b559",
+    "page": 93,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "104",
+    "center": false
+  },
+  {
+    "id": "b560",
+    "page": 94,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b561",
+    "page": 94,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b562",
+    "page": 94,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b563",
+    "page": 94,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "105",
+    "center": false
+  },
+  {
+    "id": "b564",
+    "page": 95,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b565",
+    "page": 95,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b566",
+    "page": 95,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b567",
+    "page": 95,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "106",
+    "center": false
+  },
+  {
+    "id": "b568",
+    "page": 96,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b569",
+    "page": 96,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b570",
+    "page": 96,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b571",
+    "page": 96,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "107",
+    "center": false
+  },
+  {
+    "id": "b572",
+    "page": 97,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b573",
+    "page": 97,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b574",
+    "page": 97,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b575",
+    "page": 97,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "108",
+    "center": false
+  },
+  {
+    "id": "b576",
+    "page": 98,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b577",
+    "page": 98,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b578",
+    "page": 98,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b579",
+    "page": 98,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "109",
+    "center": false
+  },
+  {
+    "id": "b580",
+    "page": 99,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b581",
+    "page": 99,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b582",
+    "page": 99,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b583",
+    "page": 99,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "110",
+    "center": false
+  },
+  {
+    "id": "b584",
+    "page": 100,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b585",
+    "page": 100,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b586",
+    "page": 100,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b587",
+    "page": 100,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "111",
+    "center": false
+  },
+  {
+    "id": "b588",
+    "page": 101,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b589",
+    "page": 101,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b590",
+    "page": 101,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b591",
+    "page": 101,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "112",
+    "center": false
+  },
+  {
+    "id": "b592",
+    "page": 102,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b593",
+    "page": 102,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b594",
+    "page": 102,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b595",
+    "page": 102,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "113",
+    "center": false
+  },
+  {
+    "id": "b596",
+    "page": 103,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b597",
+    "page": 103,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b598",
+    "page": 103,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b599",
+    "page": 103,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "114",
+    "center": false
+  },
+  {
+    "id": "b600",
+    "page": 104,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b601",
+    "page": 104,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b602",
+    "page": 104,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b603",
+    "page": 104,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "115",
+    "center": false
+  },
+  {
+    "id": "b604",
+    "page": 104,
+    "x": 19,
+    "y": 28,
+    "w": 177,
+    "max_height": 13,
+    "text": "17　模型生态：数据与阅读口径",
+    "center": false
+  },
+  {
+    "id": "b605",
+    "page": 104,
+    "x": 19,
+    "y": 44,
+    "w": 177,
+    "max_height": 17,
+    "text": "分别理解资源数量、获取活动、声明关系、网络位置与开放条件。不同对象、时间和样本不合成为一个国家或模型总分。",
+    "center": false
+  },
+  {
+    "id": "b606",
+    "page": 104,
+    "x": 19,
+    "y": 65,
+    "w": 177,
+    "max_height": 8,
+    "text": "图 5-1｜资产总量与周度新增",
+    "center": false
+  },
+  {
+    "id": "b607",
+    "page": 104,
+    "x": 19,
+    "y": 73,
+    "w": 177,
+    "max_height": 26,
+    "text": "平台总览于 2026.11.11 读取；仓库总量更新日为 2026.11.09，论文与社区为本次读取值。模型、数据集和 Spaces 的主期新增与上年同窗逐日合计比较；周线统一截至 2026.07.18。论文日期含义尚未明确，不计算同比，也不解释为当周新收录。",
+    "center": false
+  },
+  {
+    "id": "b608",
+    "page": 104,
+    "x": 19,
+    "y": 100,
+    "w": 177,
+    "max_height": 8,
+    "text": "图 5-1—5-3｜地域、主体与获取活动",
+    "center": false
+  },
+  {
+    "id": "b609",
+    "page": 104,
+    "x": 19,
+    "y": 108,
+    "w": 177,
+    "max_height": 26,
+    "text": "地域沿用 2026.10.17 冻结的 826 个组织账号、73,088 个模型与 12,502 个数据集，不以平台总量更新地域比例。国家按发布组织归属，省级归属待补仍留在全国分母。下载与点赞不代表独立用户、部署量或质量。",
+    "center": false
+  },
+  {
+    "id": "b610",
+    "page": 104,
+    "x": 19,
+    "y": 133,
+    "w": 177,
+    "max_height": 8,
+    "text": "图 5-2｜两类时间序列",
+    "center": false
+  },
+  {
+    "id": "b611",
+    "page": 104,
+    "x": 19,
+    "y": 141,
+    "w": 177,
+    "max_height": 26,
+    "text": "年度回看采用 2026.09.13 仍可见仓库的创建日期，不是逐年独立快照。月度记录覆盖 2024.07—2026.06，主期合计与此前 12 个月比较；两套来源不拼接，留存与下架规则仍待补充。",
+    "center": false
+  },
+  {
+    "id": "b612",
+    "page": 104,
+    "x": 19,
+    "y": 164,
+    "w": 177,
+    "max_height": 8,
+    "text": "图 5-4—5-6｜派生与影响",
+    "center": false
+  },
+  {
+    "id": "b613",
+    "page": 104,
+    "x": 19,
+    "y": 172,
+    "w": 177,
+    "max_height": 26,
+    "text": "网络来自 2026.10.16 非随机前 12,000 个输入中双端可见的声明关系，网络位置不代表模型能力。跨国表为 2026.09.13 的 10,943 对关系，与网络样本不同。来源称国家识别覆盖约 2.59%（含境内），完整分母尚未独立重建。",
+    "center": false
+  },
+  {
+    "id": "b614",
+    "page": 104,
+    "x": 19,
+    "y": 198,
+    "w": 177,
+    "max_height": 8,
+    "text": "图 5-7—5-10｜统一开放评价样本",
+    "center": false
+  },
+  {
+    "id": "b615",
+    "page": 104,
+    "x": 19,
+    "y": 206,
+    "w": 177,
+    "max_height": 26,
+    "text": "采用 2026.11.11 读取的 889 个完整模型 ID，与逐项证据对应，保留严格模式等级。按 country 字段重算国别，未知 64 条保留；旧 870、884 样本仅作归档，不将差值视为增长。三案例均使用精确模型 ID。",
+    "center": false
+  },
+  {
+    "id": "b616",
+    "page": 104,
+    "x": 19,
+    "y": 232,
+    "w": 177,
+    "max_height": 8,
+    "text": "分级与证据｜材料、权限及实际结果",
+    "center": false
+  },
+  {
+    "id": "b617",
+    "page": 104,
+    "x": 19,
+    "y": 240,
+    "w": 177,
+    "max_height": 33,
+    "text": "L1—L5 为累进材料完整性，O1—O4 为权利条件；材料较完整为 L3—L5，权限较开放为 O2—O4。missing 只表示来源未找到充分证据，不直接证明文件不存在。本报告未独立重跑训练或授予等级。正式标准、逐版本许可、统一截止日与地理覆盖继续核查；公共能力仍需成本、本地化、维护与结果证据。",
+    "center": false
+  },
+  {
+    "id": "b618",
+    "page": 105,
+    "x": 29,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b619",
+    "page": 105,
+    "x": 124,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b620",
+    "page": 105,
+    "x": 19,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b621",
+    "page": 105,
+    "x": 184,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "117",
+    "center": false
+  },
+  {
+    "id": "b622",
+    "page": 106,
+    "x": 21,
+    "y": 10.2,
+    "w": 98,
+    "max_height": 6,
+    "text": "GOSD 2026  全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b623",
+    "page": 106,
+    "x": 116,
+    "y": 10.2,
+    "w": 75,
+    "max_height": 6,
+    "text": "附录 · 指标、方法与数据来源",
+    "center": false
+  },
+  {
+    "id": "b624",
+    "page": 106,
+    "x": 11,
+    "y": 287,
+    "w": 145,
+    "max_height": 5,
+    "text": "GOSD 2026  ·  全球开源发展报告",
+    "center": false
+  },
+  {
+    "id": "b625",
+    "page": 106,
+    "x": 176,
+    "y": 286.2,
+    "w": 15,
+    "max_height": 7,
+    "text": "118",
+    "center": false
+  },
+  {
+    "id": "b626",
+    "page": 107,
+    "x": 69,
+    "y": 55.0,
+    "w": 72,
+    "max_height": null,
+    "text": "GOSD",
+    "center": true
+  },
+  {
+    "id": "b627",
+    "page": 107,
+    "x": 18,
+    "y": 102,
+    "w": 174,
+    "max_height": 20,
+    "text": "共同创造",
+    "center": false
+  },
+  {
+    "id": "b628",
+    "page": 107,
+    "x": 12,
+    "y": 124,
+    "w": 186,
+    "max_height": 20,
+    "text": "开放的智能未来",
+    "center": false
+  },
+  {
+    "id": "b629",
+    "page": 107,
+    "x": 18,
+    "y": 151,
+    "w": 174,
+    "max_height": 12,
+    "text": "OPEN SOURCE, A SHARED INTELLIGENT FUTURE",
+    "center": false
+  },
+  {
+    "id": "b630",
+    "page": 107,
+    "x": 18,
+    "y": 168,
+    "w": 174,
+    "max_height": 10,
+    "text": "参与  ·  供给  ·  复用  ·  治理  ·  公共价值",
+    "center": false
+  },
+  {
+    "id": "b631",
+    "page": 107,
+    "x": 18,
+    "y": 258,
+    "w": 174,
+    "max_height": 12,
+    "text": "2026 全球开源发展报告 · 精要版",
+    "center": false
+  },
+  {
+    "id": "b632",
+    "page": 107,
+    "x": 18,
+    "y": 267,
+    "w": 174,
+    "max_height": 9,
+    "text": "主统计期  2025-07-01 至 2026-06-30",
+    "center": false
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "audit_date": "2026-11-11",
+  "frontmatter_accepted": "v0.8; user expressly accepted in this conversation",
+  "repository_tree_sha": "497478a19e92c676c225893a395738e747a71c8b",
+  "sources": [
+    {
+      "name": "GOSD_2026_Chapter2_Merged_v0.1_Source.zip",
+      "version_id": "0",
+      "modified_at": "2026-11-10T01:30:47.825845Z"
+    },
+    {
+      "name": "GOSD_2026_Chapter3_Merged_v0.1_Source.zip",
+      "version_id": "0",
+      "modified_at": "2026-11-10T12:34:24.081883Z"
+    },
+    {
+      "name": "GOSD_2026_Chapter_4_Integrated_Source_v0.1.zip",
+      "version_id": "0",
+      "modified_at": "2026-11-10T15:15:37.169162Z"
+    },
+    {
+      "name": "GOSD_2026_Chapter5_Merged_Source_v0.2.zip",
+      "version_id": "1",
+      "modified_at": "2026-11-10T23:22:02.876062Z"
+    },
+    {
+      "name": "GOSD_2026_Chapter6_Source_v0.4.zip",
+      "version_id": "3",
+      "modified_at": "2026-11-11T02:12:28.878407Z"
+    },
+    {
+      "name": "GOSD_2026_Appendix_Acknowledgements_Source_v0.2.zip",
+      "version_id": "1",
+      "modified_at": "2026-11-11T01:53:09.624510+00:00"
+    }
+  ],
+  "available_review_units": [
+    [
+      "前置",
+      "v0.8",
+      15,
+      0
+    ],
+    [
+      "第一章",
+      "v0.5",
+      10,
+      0
+    ],
+    [
+      "第二章",
+      "合稿 v0.1",
+      21,
+      6
+    ],
+    [
+      "第三章",
+      "合稿 v0.1",
+      22,
+      4
+    ],
+    [
+      "第四章",
+      "合稿 v0.1",
+      13,
+      2
+    ],
+    [
+      "第五章",
+      "合稿 v0.2 + 图 5-1 v0.3",
+      12,
+      2
+    ],
+    [
+      "第六章",
+      "v0.4",
+      6,
+      0
+    ],
+    [
+      "附录及中英文致谢",
+      "v0.2",
+      10,
+      0
+    ]
+  ],
+  "integration_items": [
+    "图 5-1 v0.3 独立矢量 PDF 已取得，尚未在第五章合稿 v0.2 中；独立源稿包未检出。",
+    "前置 v0.8 读图示例使用第五章合稿 v0.2 的图 5-1，需与 v0.3 同步。",
+    "第二至第五章 14 页附带方法页需去重整合进统一附录；不得遗失各章特有口径。",
+    "封底可复用第二轮 SVG 与文字，须去掉第二轮版本说明、与精要版封面及三机构标识适配。",
+    "最终页码、目录、章内起页、图表交叉引用与书签联动。",
+    "仓库精要版版本指针落后于现存评审文件；合稿后再归档结构化源，PDF 不入 GitHub。"
+  ],
+  "approval_note": "除当前明确验收的前置 v0.8 外，本次文件盘点证明素材存在、可合稿，不将其他源稿内的待作者评审状态改为正式批准。"
+}

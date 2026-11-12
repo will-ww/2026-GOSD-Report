@@ -1,0 +1,11 @@
+{
+  "query": "project-monthly",
+  "elapsed_client_seconds": 8.262,
+  "rows": 1529,
+  "statistics": {
+    "elapsed": 0.42081251,
+    "rows_read": 2851441,
+    "bytes_read": 37026735
+  },
+  "sha256": "5c04ef99d71cefe91c873aab294356066a08cd516c3901756ca54f186e7b6f25"
+}

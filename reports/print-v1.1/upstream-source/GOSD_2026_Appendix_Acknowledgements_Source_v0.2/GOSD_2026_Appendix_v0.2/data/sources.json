@@ -1,0 +1,98 @@
+{
+  "version": "0.2",
+  "status": "review",
+  "date": "2026-11-11",
+  "main_window": [
+    "2025-07-01",
+    "2026-06-30"
+  ],
+  "authoritative_repository": "https://github.com/will-ww/2026-GOSD-Report",
+  "approved_baseline": "fff392e957bab9fb6d89d49dea712af47484efaa",
+  "appendix_numbering": "single appendix; no letter A",
+  "sources": [
+    {
+      "id": "S1",
+      "files": [
+        "docs/report-constitution.md",
+        "editions/insights/constitution.md",
+        "docs/appendix-plan.md"
+      ],
+      "accessed": "2026-11-11",
+      "note": "单一附录指令覆盖旧 A/B 规划；本轮不修改仓库。"
+    },
+    {
+      "id": "S1-local",
+      "name": "GOSD_2026_附录A_v1.0_指标数据与研究方法_精修评审稿.pdf",
+      "pages": "1–10"
+    },
+    {
+      "id": "S2",
+      "url": "https://www.openatom.org/journalism/detail/yXMemqkEpWdL",
+      "use": "团体标准的类型、编号及名称"
+    },
+    {
+      "id": "S3",
+      "urls": [
+        "https://github.com/X-lab2017/open-digger/tree/master/skills/open-digger-data-retrieval",
+        "https://open-digger.cn/docs/user_docs/metrics/activity"
+      ],
+      "use": "指标字段、账号集合关系、Activity 公式与权重"
+    },
+    {
+      "id": "S4",
+      "urls": [
+        "https://open-digger.cn/docs/user_docs/metrics/openrank",
+        "https://open-digger.cn/docs/user_docs/metrics/community_openrank",
+        "https://open-digger.cn/docs/user_docs/metrics/global_openrank"
+      ],
+      "use": "社区和全域 OpenRank 的对象与网络范围"
+    },
+    {
+      "id": "S5",
+      "url": "https://open-share.com/insight/open-world",
+      "use": "查证入口；具体数值沿各图归档，不新增未经核验统计"
+    },
+    {
+      "id": "S6",
+      "urls": [
+        "https://huggingface.co/docs/hub/en/model-cards",
+        "https://huggingface.co/docs/hub/en/datasets-cards",
+        "https://huggingface.co/docs/hub/en/models-download-stats"
+      ],
+      "use": "模型关系、材料元数据及下载口径"
+    },
+    {
+      "id": "S7",
+      "url": "https://www.digitalpublicgoods.net/standard",
+      "use": "DPG 标准与正式认可的区别"
+    },
+    {
+      "id": "S8",
+      "name": "开源仓库行业版图数据报告.docx",
+      "date": "2026-11-09",
+      "use": "样本、分类算法与团队自报测试表现；本轮未重新训练"
+    },
+    {
+      "id": "ACK-original",
+      "name": "全球开源发展报告-中文版-0123-单页版(1).pdf",
+      "pages": "129–134, 142–144",
+      "use": "附录样式和中英文致谢原文"
+    },
+    {
+      "id": "ACK-names",
+      "urls": [
+        "https://www.un.org/digital-emerging-technologies/zh",
+        "https://www.un.org/digital-emerging-technologies/about",
+        "https://english.cas.cn/about-cas/affiliations/",
+        "https://pytorch.org/foundation/",
+        "https://openinfra.org/about/"
+      ],
+      "use": "仅核对机构公开名称，不据此推定本年支持关系"
+    }
+  ],
+  "editing_baseline": {
+    "name": "GOSD_2026_Appendix_Acknowledgements_Review_v0.1.pdf",
+    "reviewed": "2026-11-11",
+    "note": "v0.1 来源记录沿用；本轮仅进行文本和排版精修，没有新增统计或重新核验外部源。"
+  }
+}

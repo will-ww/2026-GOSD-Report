@@ -1,0 +1,42 @@
+[
+  {
+    "id": "M1",
+    "title": "ModelRank：2026 年 6 月 Top 100 原始归档；输入仓库固定提交 c51e344。",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2026-06-top100.raw.json"
+  },
+  {
+    "id": "M2",
+    "title": "发布者身份与所在地：官方组织页、联系地址和法定披露，2026-11-10 核验。",
+    "url": "https://huggingface.co/organizations"
+  },
+  {
+    "id": "M3",
+    "title": "Lambert & Brand，The ATOM Report，2026-04-08，§2.1、§5.1、图 9 与图 12。",
+    "url": "https://arxiv.org/html/2604.07190v1"
+  },
+  {
+    "id": "M4",
+    "title": "Hugging Face，Summer 2026 Observations，§4；固定文本版本 2026-08-17。",
+    "url": "https://github.com/huggingface/blog/blob/9e982d5f2ff0c93248a897bf1e0c59c9828c5ab8/state-of-open-models-summer-2026.md"
+  },
+  {
+    "id": "M5",
+    "title": "DeepSeek-R1 官方模型卡，§3；六个蒸馏版本的基础模型与训练样本说明。",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1"
+  },
+  {
+    "id": "M6",
+    "title": "DeepSeek-R1-0528-Qwen3-8B 官方模型卡，§2；跨家族后训练关系。",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B"
+  },
+  {
+    "id": "M7",
+    "title": "Unsloth / Qwen2.5-7B-Instruct 模型卡；base_model 元数据及版本归属。",
+    "url": "https://huggingface.co/unsloth/Qwen2.5-7B-Instruct"
+  },
+  {
+    "id": "M8",
+    "title": "BAAI / bge-m3 官方模型卡；多语言检索与文本表示用途。",
+    "url": "https://huggingface.co/BAAI/bge-m3"
+  }
+]

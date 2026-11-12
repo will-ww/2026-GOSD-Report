@@ -1,0 +1,57 @@
+[
+  {
+    "path": "full-print-v1.0/assemble_full.py",
+    "size_bytes": 8646,
+    "sha256": "fcdddb5047dc259eef54ab38fb5a3525536cfc72bc36eaf69e3b5411ae41d59d"
+  },
+  {
+    "path": "full-print-v1.0/verify_pdfjs.mjs",
+    "size_bytes": 1325,
+    "sha256": "2e94820d2b7908f86c6a6d74f37ad1b64552fb1497a845ed7899259a4bb166cd"
+  },
+  {
+    "path": "full-print-v1.0/package_final_source.py",
+    "size_bytes": 1366,
+    "sha256": "6b26a2b313d7f6afabf2ff0fb12e9b7d5e4a8b2d71412bab0406833bae71cec0"
+  },
+  {
+    "path": "full-print-v1.0/README.md",
+    "size_bytes": 2492,
+    "sha256": "37bab4035b34f72a125a44d8c756359e5f4825a52026fc5f097cee0626b243f9"
+  },
+  {
+    "path": "full-print-v1.0/download-request.json",
+    "size_bytes": 11820,
+    "sha256": "9852dc57c0b8ed971975b7f6d481967a3988ba39d28f059b79baa4c36ebe5fed"
+  },
+  {
+    "path": "full-print-v1.0/review/module-manifest.json",
+    "size_bytes": 3626,
+    "sha256": "17d3fc51cccf20a3b87411124a9d283ffa8bf5722d280922c3bb0554c018b5b3"
+  },
+  {
+    "path": "full-print-v1.0/review/full-print-verification.json",
+    "size_bytes": 123626,
+    "sha256": "10d3d32fa94faaf3d2c4f16bd4a8d893a06d58a96cdea703f06884747833f23c"
+  },
+  {
+    "path": "full-print-v1.0/review/render-verification.json",
+    "size_bytes": 559,
+    "sha256": "6e565e7bb3395ec33022d63128228598b5ecc7616974f90dac9dd31b698d0885"
+  },
+  {
+    "path": "full-print-v1.0/review/contents-final.png",
+    "size_bytes": 929034,
+    "sha256": "5bf9a640262b23a2faaaee9740458bb8a6423cb71cfe6a7cfc9c8f7e8824b3ce"
+  },
+  {
+    "path": "full-print-v1.0/review/back-cover-final.png",
+    "size_bytes": 1229813,
+    "sha256": "965de0ee033b8fb74e1fc9dbefb2d9ee63b5d7bae820c5a0d86bd3d54188de21"
+  },
+  {
+    "path": "full-print-v1.0/review/folio-80-final-pdfjs.png",
+    "size_bytes": 678666,
+    "sha256": "ea12f5f1cff0763935ffbcccc324557578d008b192ac386124dc096d4ea4cb3d"
+  }
+]

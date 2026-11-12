@@ -1,0 +1,16 @@
+{
+  "version": "v0.2",
+  "date": "2026-11-10",
+  "baseline_comparison": "Section v0.1 and latest Chapter3 v0.1 first 3 pages text, rankings.py, build.py, run.py and layout.sty identical",
+  "changes": [
+    "Top30 flags with source country labels; preserve all values",
+    "Scatter numbers 1–30 correspond to global ranks; remove colliding name labels",
+    "Province-city strip plot from complete Top30 city data; no inferred collaboration edges",
+    "Rewrite introductions and 12 interpretations to match visuals"
+  ],
+  "pending": [
+    "Upstream static ranking period",
+    "Developer count units, coverage and account processing"
+  ],
+  "no_repository_write": true
+}

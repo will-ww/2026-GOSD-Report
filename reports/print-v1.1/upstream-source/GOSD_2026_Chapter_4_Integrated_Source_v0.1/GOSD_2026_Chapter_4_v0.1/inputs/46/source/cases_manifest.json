@@ -1,0 +1,42 @@
+[
+  {
+    "repo": "pytorch/executorch",
+    "commit": "75af78c46f465301673b03b03ed028da25871eae",
+    "url": "https://raw.githubusercontent.com/pytorch/executorch/75af78c46f465301673b03b03ed028da25871eae/README.md",
+    "github_url": "https://github.com/pytorch/executorch/blob/75af78c46f465301673b03b03ed028da25871eae/README.md",
+    "path": "sources/pytorch__executorch_README.md",
+    "sha256": "8279c8a1c46c6b1a3cf3adf3a6330325f87f4dd2fcdc36bf614f0d9d9f1ba741",
+    "status": "ok"
+  },
+  {
+    "repo": "pytorch/torchtitan",
+    "commit": "f5488516abe1b8879bc2157715a3a42a7cc55f45",
+    "url": "https://raw.githubusercontent.com/pytorch/torchtitan/f5488516abe1b8879bc2157715a3a42a7cc55f45/README.md",
+    "github_url": "https://github.com/pytorch/torchtitan/blob/f5488516abe1b8879bc2157715a3a42a7cc55f45/README.md",
+    "path": "sources/pytorch__torchtitan_README.md",
+    "sha256": "aecb655cb4afc70a3668b03531999d0155e089d0d1d37a85262a7fbc2f869197",
+    "status": "ok"
+  },
+  {
+    "repo": "meta-pytorch/torchcomms",
+    "commit": "8ecc3488fb132278b406f2abb755f1e8ba8a16e8",
+    "url": "https://raw.githubusercontent.com/meta-pytorch/torchcomms/8ecc3488fb132278b406f2abb755f1e8ba8a16e8/README.md",
+    "github_url": "https://github.com/meta-pytorch/torchcomms/blob/8ecc3488fb132278b406f2abb755f1e8ba8a16e8/README.md",
+    "path": "sources/meta-pytorch__torchcomms_README.md",
+    "sha256": "5194d6930f744876ee4f0e911b33451395b3f908aa6e717ccd8a41fcef3a1b19",
+    "status": "ok"
+  },
+  {
+    "repo": "meta-pytorch/torchcodec",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "repo": "pytorch/test-infra",
+    "commit": "5a57ea7e437667b8739cb0ba4dcf8940491c04b3",
+    "url": "https://raw.githubusercontent.com/pytorch/test-infra/5a57ea7e437667b8739cb0ba4dcf8940491c04b3/README.md",
+    "github_url": "https://github.com/pytorch/test-infra/blob/5a57ea7e437667b8739cb0ba4dcf8940491c04b3/README.md",
+    "path": "sources/pytorch__test-infra_README.md",
+    "sha256": "ab1142a3c8592199acc9ab89e74334a05dd1838a33879c3250e6bb13550dafed",
+    "status": "ok"
+  }
+]

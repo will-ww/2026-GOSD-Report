@@ -1,0 +1,1 @@
+SELECT repos,months,count() accounts FROM (SELECT actor_id,uniqExact(repo_id) repos,uniqExact(toYYYYMM(created_at)) months FROM normalized_community_openrank WHERE platform='AtomGit' AND org_id=5162848 AND created_at>='2025-07-01' AND created_at<'2026-07-01' GROUP BY actor_id) GROUP BY repos,months ORDER BY repos,months FORMAT JSON

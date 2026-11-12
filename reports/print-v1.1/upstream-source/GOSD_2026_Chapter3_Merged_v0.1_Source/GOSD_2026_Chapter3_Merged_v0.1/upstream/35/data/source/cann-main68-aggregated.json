@@ -1,0 +1,685 @@
+[
+  {
+    "repo_id": "7673863",
+    "repo_name": "cann/ops-transformer",
+    "month": "2026-06",
+    "openrank": 2607.1407,
+    "aliases": [
+      "cann/ops-transformer"
+    ],
+    "share": 0.17712192125621048
+  },
+  {
+    "repo_id": "7665709",
+    "repo_name": "cann/ops-nn",
+    "month": "2026-06",
+    "openrank": 2146.3824,
+    "aliases": [
+      "cann/ops-nn"
+    ],
+    "share": 0.14581927796935398
+  },
+  {
+    "repo_id": "8635329",
+    "repo_name": "cann/pypto",
+    "month": "2026-06",
+    "openrank": 1224.1464999999998,
+    "aliases": [
+      "cann/pypto"
+    ],
+    "share": 0.08316512414503201
+  },
+  {
+    "repo_id": "7649531",
+    "repo_name": "cann/ops-math",
+    "month": "2026-06",
+    "openrank": 1096.5863,
+    "aliases": [
+      "cann/ops-math"
+    ],
+    "share": 0.07449903730904865
+  },
+  {
+    "repo_id": "8547062",
+    "repo_name": "cann/asc-devkit",
+    "month": "2026-06",
+    "openrank": 879.2048,
+    "aliases": [
+      "cann/asc-devkit"
+    ],
+    "share": 0.059730740022463036
+  },
+  {
+    "repo_id": "8810053",
+    "repo_name": "cann/runtime",
+    "month": "2026-06",
+    "openrank": 761.1293,
+    "aliases": [
+      "cann/runtime"
+    ],
+    "share": 0.05170901744596853
+  },
+  {
+    "repo_id": "7874083",
+    "repo_name": "cann/hcomm",
+    "month": "2026-06",
+    "openrank": 684.7152,
+    "aliases": [
+      "cann/hcomm"
+    ],
+    "share": 0.04651765504536461
+  },
+  {
+    "repo_id": "8824148",
+    "repo_name": "cann/ge",
+    "month": "2026-06",
+    "openrank": 628.9132999999999,
+    "aliases": [
+      "cann/ge"
+    ],
+    "share": 0.04272662844762597
+  },
+  {
+    "repo_id": "7640418",
+    "repo_name": "cann/cann-recipes-infer",
+    "month": "2026-06",
+    "openrank": 406.10560000000004,
+    "aliases": [
+      "cann/cann-recipes-infer"
+    ],
+    "share": 0.027589690155543245
+  },
+  {
+    "repo_id": "7623009",
+    "repo_name": "cann/ascend-transformer-boost",
+    "month": "2026-06",
+    "openrank": 344.5978,
+    "aliases": [
+      "cann/ascend-transformer-boost"
+    ],
+    "share": 0.023411020508660455
+  },
+  {
+    "repo_id": "8827531",
+    "repo_name": "cann/pto-isa",
+    "month": "2026-06",
+    "openrank": 304.1326,
+    "aliases": [
+      "cann/pto-isa"
+    ],
+    "share": 0.020661926849075144
+  },
+  {
+    "repo_id": "8277906",
+    "repo_name": "cann/hccl",
+    "month": "2026-06",
+    "openrank": 303.2974,
+    "aliases": [
+      "cann/hccl"
+    ],
+    "share": 0.02060518567333684
+  },
+  {
+    "repo_id": "7631999",
+    "repo_name": "cann/catlass",
+    "month": "2026-06",
+    "openrank": 280.603,
+    "aliases": [
+      "cann/catlass"
+    ],
+    "share": 0.019063390967068418
+  },
+  {
+    "repo_id": "7657293",
+    "repo_name": "cann/ops-cv",
+    "month": "2026-06",
+    "openrank": 265.99800000000005,
+    "aliases": [
+      "cann/ops-cv"
+    ],
+    "share": 0.01807116770119445
+  },
+  {
+    "repo_id": "7838749",
+    "repo_name": "cann/hixl",
+    "month": "2026-06",
+    "openrank": 241.0608,
+    "aliases": [
+      "cann/hixl"
+    ],
+    "share": 0.01637700337214601
+  },
+  {
+    "repo_id": "8546182",
+    "repo_name": "cann/shmem",
+    "month": "2026-06",
+    "openrank": 192.101,
+    "aliases": [
+      "cann/shmem"
+    ],
+    "share": 0.013050810105967543
+  },
+  {
+    "repo_id": "7637312",
+    "repo_name": "cann/community",
+    "month": "2026-06",
+    "openrank": 169.70510000000002,
+    "aliases": [
+      "cann/community"
+    ],
+    "share": 0.011529294663298122
+  },
+  {
+    "repo_id": "9461373",
+    "repo_name": "cann/cannbot-skills",
+    "month": "2026-06",
+    "openrank": 163.8328,
+    "aliases": [
+      "cann/cannbot-skills",
+      "cann/skills"
+    ],
+    "share": 0.011130346858834463
+  },
+  {
+    "repo_id": "8005834",
+    "repo_name": "cann/graph-autofusion",
+    "month": "2026-06",
+    "openrank": 149.9315,
+    "aliases": [
+      "cann/graph-autofusion"
+    ],
+    "share": 0.010185931022758199
+  },
+  {
+    "repo_id": "9516645",
+    "repo_name": "cann/cann-ops-competitions",
+    "month": "2026-06",
+    "openrank": 143.8961,
+    "aliases": [
+      "cann/cann-competitions",
+      "cann/cann-ops-competitions"
+    ],
+    "share": 0.009775902655838938
+  },
+  {
+    "repo_id": "9865789",
+    "repo_name": "cann/cann-outreach",
+    "month": "2026-06",
+    "openrank": 130.5812,
+    "aliases": [
+      "cann/cann-outreach"
+    ],
+    "share": 0.008871325212306906
+  },
+  {
+    "repo_id": "7379660",
+    "repo_name": "cann/cann-recipes-train",
+    "month": "2026-06",
+    "openrank": 112.8894,
+    "aliases": [
+      "cann/cann-recipes-train"
+    ],
+    "share": 0.007669393300277522
+  },
+  {
+    "repo_id": "7649482",
+    "repo_name": "cann/opbase",
+    "month": "2026-06",
+    "openrank": 110.13810000000001,
+    "aliases": [
+      "cann/opbase"
+    ],
+    "share": 0.007482477595286146
+  },
+  {
+    "repo_id": "9260575",
+    "repo_name": "cann/cann-learning-hub",
+    "month": "2026-06",
+    "openrank": 103.66,
+    "aliases": [
+      "cann/cann-learning-hub"
+    ],
+    "share": 0.007042373415987399
+  },
+  {
+    "repo_id": "8788227",
+    "repo_name": "cann/cann-samples",
+    "month": "2026-06",
+    "openrank": 101.815,
+    "aliases": [
+      "cann/cann-samples"
+    ],
+    "share": 0.006917029223893084
+  },
+  {
+    "repo_id": "9028822",
+    "repo_name": "cann/torchtitan-npu",
+    "month": "2026-06",
+    "openrank": 80.9671,
+    "aliases": [
+      "cann/torchtitan-npu"
+    ],
+    "share": 0.005500680615566211
+  },
+  {
+    "repo_id": "7702825",
+    "repo_name": "cann/asnumpy",
+    "month": "2026-06",
+    "openrank": 76.88640000000001,
+    "aliases": [
+      "cann/asnumpy"
+    ],
+    "share": 0.00522344915503544
+  },
+  {
+    "repo_id": "8784133",
+    "repo_name": "cann/oam-tools",
+    "month": "2026-06",
+    "openrank": 75.3186,
+    "aliases": [
+      "cann/oam-tools"
+    ],
+    "share": 0.005116937163509441
+  },
+  {
+    "repo_id": "7380116",
+    "repo_name": "cann/cann-recipes-embodied-ai",
+    "month": "2026-06",
+    "openrank": 69.54260000000001,
+    "aliases": [
+      "cann/cann-recipes-embodied-ai",
+      "cann/cann-recipes-embodied-intelligence"
+    ],
+    "share": 0.004724531714438022
+  },
+  {
+    "repo_id": "8782573",
+    "repo_name": "cann/amct",
+    "month": "2026-06",
+    "openrank": 67.4661,
+    "aliases": [
+      "cann/amct"
+    ],
+    "share": 0.0045834600532543655
+  },
+  {
+    "repo_id": "8795005",
+    "repo_name": "cann/driver",
+    "month": "2026-06",
+    "openrank": 63.99550000000001,
+    "aliases": [
+      "cann/driver"
+    ],
+    "share": 0.004347677097654078
+  },
+  {
+    "repo_id": "7990062",
+    "repo_name": "cann/infrastructure",
+    "month": "2026-06",
+    "openrank": 62.80459999999999,
+    "aliases": [
+      "cann/infrastructure"
+    ],
+    "share": 0.004266770648675692
+  },
+  {
+    "repo_id": "8824145",
+    "repo_name": "cann/metadef",
+    "month": "2026-06",
+    "openrank": 62.122099999999996,
+    "aliases": [
+      "cann/metadef"
+    ],
+    "share": 0.004220403488185518
+  },
+  {
+    "repo_id": "8547008",
+    "repo_name": "cann/asc-tools",
+    "month": "2026-06",
+    "openrank": 58.0188,
+    "aliases": [
+      "cann/asc-tools"
+    ],
+    "share": 0.003941636646223131
+  },
+  {
+    "repo_id": "8916851",
+    "repo_name": "cann/ops-blas",
+    "month": "2026-06",
+    "openrank": 56.035399999999996,
+    "aliases": [
+      "cann/ops-blas"
+    ],
+    "share": 0.003806889941290954
+  },
+  {
+    "repo_id": "8546480",
+    "repo_name": "cann/pyasc",
+    "month": "2026-06",
+    "openrank": 50.399,
+    "aliases": [
+      "cann/pyasc"
+    ],
+    "share": 0.003423968529735182
+  },
+  {
+    "repo_id": "7623350",
+    "repo_name": "cann/ascend-boost-comm",
+    "month": "2026-06",
+    "openrank": 38.3765,
+    "aliases": [
+      "cann/ascend-boost-comm"
+    ],
+    "share": 0.002607193164177508
+  },
+  {
+    "repo_id": "7379672",
+    "repo_name": "cann/cann-recipes-spatial-intelligence",
+    "month": "2026-06",
+    "openrank": 36.702600000000004,
+    "aliases": [
+      "cann/cann-recipes-spatial-intelligence"
+    ],
+    "share": 0.002493473032390692
+  },
+  {
+    "repo_id": "8082947",
+    "repo_name": "cann/sip",
+    "month": "2026-06",
+    "openrank": 36.3689,
+    "aliases": [
+      "cann/sip"
+    ],
+    "share": 0.002470802378243335
+  },
+  {
+    "repo_id": "9865787",
+    "repo_name": "cann/cann-launch-camp",
+    "month": "2026-06",
+    "openrank": 35.2533,
+    "aliases": [
+      "cann/cann-launch-camp"
+    ],
+    "share": 0.002395011602795954
+  },
+  {
+    "repo_id": "9587699",
+    "repo_name": "cann/cann-bench",
+    "month": "2026-06",
+    "openrank": 33.5706,
+    "aliases": [
+      "cann/cann-bench"
+    ],
+    "share": 0.0022806936233720487
+  },
+  {
+    "repo_id": "5882831",
+    "repo_name": "cann/release-management",
+    "month": "2026-06",
+    "openrank": 31.6707,
+    "aliases": [
+      "cann/release-management"
+    ],
+    "share": 0.0021516196772690733
+  },
+  {
+    "repo_id": "8916881",
+    "repo_name": "cann/ops-tensor",
+    "month": "2026-06",
+    "openrank": 28.6948,
+    "aliases": [
+      "cann/ops-tensor"
+    ],
+    "share": 0.0019494452700856188
+  },
+  {
+    "repo_id": "9636642",
+    "repo_name": "cann/cmake",
+    "month": "2026-06",
+    "openrank": 25.7506,
+    "aliases": [
+      "cann/cmake"
+    ],
+    "share": 0.0017494244731403156
+  },
+  {
+    "repo_id": "9301267",
+    "repo_name": "cann/catccos",
+    "month": "2026-06",
+    "openrank": 21.4321,
+    "aliases": [
+      "cann/catccos"
+    ],
+    "share": 0.0014560375389618323
+  },
+  {
+    "repo_id": "7578631",
+    "repo_name": "cann/atvoss",
+    "month": "2026-06",
+    "openrank": 19.1922,
+    "aliases": [
+      "cann/atvoss"
+    ],
+    "share": 0.0013038649341531293
+  },
+  {
+    "repo_id": "9743536",
+    "repo_name": "cann/pypto-gym",
+    "month": "2026-06",
+    "openrank": 19.0239,
+    "aliases": [
+      "cann/pypto-gym"
+    ],
+    "share": 0.001292431098093794
+  },
+  {
+    "repo_id": "8585306",
+    "repo_name": "cann/triton-inference-server-ge-backend",
+    "month": "2026-06",
+    "openrank": 17.4523,
+    "aliases": [
+      "cann/triton-inference-server-ge-backend"
+    ],
+    "share": 0.001185660945088143
+  },
+  {
+    "repo_id": "8916863",
+    "repo_name": "cann/ops-sparse",
+    "month": "2026-06",
+    "openrank": 11.640799999999999,
+    "aliases": [
+      "cann/ops-sparse"
+    ],
+    "share": 0.0007908437242989206
+  },
+  {
+    "repo_id": "7380163",
+    "repo_name": "cann/cann-recipes-harmony-infer",
+    "month": "2026-06",
+    "openrank": 10.911100000000001,
+    "aliases": [
+      "cann/cann-recipes-harmony-infer"
+    ],
+    "share": 0.0007412699264825402
+  },
+  {
+    "repo_id": "9625025",
+    "repo_name": "cann/ops-collections",
+    "month": "2026-06",
+    "openrank": 9.5103,
+    "aliases": [
+      "cann/ops-collections"
+    ],
+    "share": 0.0006461034526149428
+  },
+  {
+    "repo_id": "9872633",
+    "repo_name": "cann/ops-test-kit",
+    "month": "2026-06",
+    "openrank": 8.9187,
+    "aliases": [
+      "cann/ops-test-kit"
+    ],
+    "share": 0.0006059117864669768
+  },
+  {
+    "repo_id": "9302998",
+    "repo_name": "cann/elec-ops-inspection",
+    "month": "2026-06",
+    "openrank": 8.0756,
+    "aliases": [
+      "cann/elec-ops-inspection"
+    ],
+    "share": 0.0005486339065999213
+  },
+  {
+    "repo_id": "9128418",
+    "repo_name": "cann/mat-chem-sim-pred",
+    "month": "2026-06",
+    "openrank": 7.8972999999999995,
+    "aliases": [
+      "cann/mat-chem-sim-pred"
+    ],
+    "share": 0.0005365206982257118
+  },
+  {
+    "repo_id": "9630663",
+    "repo_name": "cann/tensorflow",
+    "month": "2026-06",
+    "openrank": 6.7834,
+    "aliases": [
+      "cann/tensorflow"
+    ],
+    "share": 0.00046084541607185924
+  },
+  {
+    "repo_id": "8257680",
+    "repo_name": "cann/atvc",
+    "month": "2026-06",
+    "openrank": 6.0427,
+    "aliases": [
+      "cann/atvc"
+    ],
+    "share": 0.0004105243087091169
+  },
+  {
+    "repo_id": "8916867",
+    "repo_name": "cann/ops-solver",
+    "month": "2026-06",
+    "openrank": 5.6937999999999995,
+    "aliases": [
+      "cann/ops-solver"
+    ],
+    "share": 0.0003868210086431512
+  },
+  {
+    "repo_id": "9364040",
+    "repo_name": "cann/cann-spack-package",
+    "month": "2026-06",
+    "openrank": 4.5489,
+    "aliases": [
+      "cann/cann-spack-package"
+    ],
+    "share": 0.00030903967231318813
+  },
+  {
+    "repo_id": "9704197",
+    "repo_name": "cann/xla-npu",
+    "month": "2026-06",
+    "openrank": 3.4768,
+    "aliases": [
+      "cann/xla-npu"
+    ],
+    "share": 0.00023620416643551023
+  },
+  {
+    "repo_id": "10007023",
+    "repo_name": "cann/ops-multimodal-fusion",
+    "month": "2026-06",
+    "openrank": 2.5156,
+    "aliases": [
+      "cann/ops-multimodal-fusion"
+    ],
+    "share": 0.00017090289952978877
+  },
+  {
+    "repo_id": "9579730",
+    "repo_name": "cann/.gitcode",
+    "month": "2026-06",
+    "openrank": 2.5,
+    "aliases": [
+      "cann/.gitcode"
+    ],
+    "share": 0.0001698430787185848
+  },
+  {
+    "repo_id": "6092704",
+    "repo_name": "cann/manifest",
+    "month": "2026-06",
+    "openrank": 2.4165,
+    "aliases": [
+      "cann/manifest"
+    ],
+    "share": 0.00016417031988938407
+  },
+  {
+    "repo_id": "8916886",
+    "repo_name": "cann/ops-fft",
+    "month": "2026-06",
+    "openrank": 2.1488,
+    "aliases": [
+      "cann/ops-fft"
+    ],
+    "share": 0.000145983523020198
+  },
+  {
+    "repo_id": "8916889",
+    "repo_name": "cann/ops-rand",
+    "month": "2026-05",
+    "openrank": 1.8467,
+    "aliases": [
+      "cann/ops-rand"
+    ],
+    "share": 0.0001254596853878442
+  },
+  {
+    "repo_id": "7627981",
+    "repo_name": "cann/cann-agreements",
+    "month": "2026-04",
+    "openrank": 1.4505,
+    "aliases": [
+      "cann/cann-agreements"
+    ],
+    "share": 9.854295427252289e-05
+  },
+  {
+    "repo_id": "9302995",
+    "repo_name": "cann/elec-ops-prediction",
+    "month": "2026-05",
+    "openrank": 1.4113,
+    "aliases": [
+      "cann/elec-ops-prediction"
+    ],
+    "share": 9.587981479821548e-05
+  },
+  {
+    "repo_id": "9302993",
+    "repo_name": "cann/elec-ops-simulation",
+    "month": "2026-05",
+    "openrank": 1.0556,
+    "aliases": [
+      "cann/elec-ops-simulation"
+    ],
+    "share": 7.171454155813525e-05
+  },
+  {
+    "repo_id": "9306431",
+    "repo_name": "cann/asnumpy-docs",
+    "month": "2026-05",
+    "openrank": 1.0164,
+    "aliases": [
+      "cann/asnumpy-docs"
+    ],
+    "share": 6.905140208382784e-05
+  }
+]

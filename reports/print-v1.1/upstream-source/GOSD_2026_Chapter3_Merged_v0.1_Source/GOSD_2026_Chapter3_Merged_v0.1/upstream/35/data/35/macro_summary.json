@@ -1,0 +1,56 @@
+{
+  "period": "2025-07-01/2026-06-30 UTC",
+  "repo_domains": {
+    "AI智能体与Agent工具": 4,
+    "AI基础软件": 18,
+    "操作系统与智能终端": 3,
+    "教育与开发者服务": 2,
+    "应用与游戏平台": 1,
+    "桌面环境与开发者工具": 2
+  },
+  "project_domains": {
+    "AI基础软件": 4,
+    "AI智能体与Agent工具": 25,
+    "教育与开发者服务": 1
+  },
+  "repo_platforms": {
+    "GitHub": 10,
+    "AtomGit": 20
+  },
+  "project_platforms": {
+    "AtomGit": 1,
+    "GitHub": 29
+  },
+  "single_repository_projects": 20,
+  "multi_repository_projects": 10,
+  "cann_eight_component_sum": 10028.22,
+  "cann_groups": {
+    "算子": {
+      "repos": [
+        "ops-transformer",
+        "ops-nn",
+        "ops-math"
+      ],
+      "score_sum": 5850.11,
+      "fraction_within_eight": 0.5833647446904835
+    },
+    "编程工具": {
+      "repos": [
+        "pypto",
+        "asc-devkit"
+      ],
+      "score_sum": 2103.35,
+      "fraction_within_eight": 0.20974310495780912
+    },
+    "运行支撑": {
+      "repos": [
+        "runtime",
+        "hcomm",
+        "ge"
+      ],
+      "score_sum": 2074.76,
+      "fraction_within_eight": 0.20689215035170752
+    }
+  },
+  "cann_scope_warning": "8入榜关联仓库的分值构成，不是68仓全景或项目总分分解"
+}

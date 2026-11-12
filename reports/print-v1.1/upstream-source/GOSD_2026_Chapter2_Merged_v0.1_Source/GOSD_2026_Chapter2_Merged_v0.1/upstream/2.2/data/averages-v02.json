@@ -1,0 +1,237 @@
+{
+  "national": [
+    {
+      "rank": 1,
+      "identifier": ":divisions/US",
+      "name": "United States",
+      "name_zh": "美国",
+      "value": 4236888.42,
+      "change": 344268.59,
+      "code": "US",
+      "active": 4648482.88,
+      "active_rank": 1,
+      "average": 0.9114561738474124
+    },
+    {
+      "rank": 2,
+      "identifier": ":divisions/DE",
+      "name": "Germany",
+      "name_zh": "德国",
+      "value": 1551350.84,
+      "change": 117668.35,
+      "code": "DE",
+      "active": 1356975.92,
+      "active_rank": 5,
+      "average": 1.143241244840955
+    },
+    {
+      "rank": 3,
+      "identifier": ":divisions/CN",
+      "name": "China",
+      "name_zh": "中国",
+      "value": 1210375.59,
+      "change": 57126.65,
+      "code": "CN",
+      "active": 2344657.55,
+      "active_rank": 3,
+      "average": 0.5162270242833544
+    },
+    {
+      "rank": 4,
+      "identifier": ":divisions/GB",
+      "name": "United Kingdom",
+      "name_zh": "英国",
+      "value": 1085081.35,
+      "change": 78914.8,
+      "code": "GB",
+      "active": 1087008.17,
+      "active_rank": 6,
+      "average": 0.9982274098271039
+    },
+    {
+      "rank": 5,
+      "identifier": ":divisions/IN",
+      "name": "India",
+      "name_zh": "印度",
+      "value": 898609.13,
+      "change": 20849.74,
+      "code": "IN",
+      "active": 2732876.76,
+      "active_rank": 2,
+      "average": 0.3288143626352182
+    },
+    {
+      "rank": 6,
+      "identifier": ":divisions/FR",
+      "name": "France",
+      "name_zh": "法国",
+      "value": 852778.98,
+      "change": 66035.46,
+      "code": "FR",
+      "active": 838440.29,
+      "active_rank": 8,
+      "average": 1.0171016233010461
+    },
+    {
+      "rank": 7,
+      "identifier": ":divisions/CA",
+      "name": "Canada",
+      "name_zh": "加拿大",
+      "value": 743376.75,
+      "change": 43647.67,
+      "code": "CA",
+      "active": 870096.92,
+      "active_rank": 7,
+      "average": 0.8543608567192721
+    },
+    {
+      "rank": 8,
+      "identifier": ":divisions/BR",
+      "name": "Brazil",
+      "name_zh": "巴西",
+      "value": 623932.64,
+      "change": 12653.72,
+      "code": "BR",
+      "active": 1859971.03,
+      "active_rank": 4,
+      "average": 0.3354528806827706
+    },
+    {
+      "rank": 9,
+      "identifier": ":divisions/NL",
+      "name": "Netherlands",
+      "name_zh": "荷兰",
+      "value": 489341.32,
+      "change": 33905.95,
+      "code": "NL",
+      "active": 432751.92,
+      "active_rank": 14,
+      "average": 1.130766375340403
+    },
+    {
+      "rank": 10,
+      "identifier": ":divisions/JP",
+      "name": "Japan",
+      "name_zh": "日本",
+      "value": 463176.99,
+      "change": 44125.94,
+      "code": "JP",
+      "active": 455038.19,
+      "active_rank": 12,
+      "average": 1.0178859712851793
+    }
+  ],
+  "province": [
+    {
+      "rank": 1,
+      "identifier": ":divisions/CN/CN-BJ",
+      "name": "Beijing",
+      "name_zh": "北京市",
+      "value": 255006.72,
+      "change": 8047.65,
+      "code": "CN-BJ",
+      "active": 514881.28,
+      "average": 0.495272852025228
+    },
+    {
+      "rank": 2,
+      "identifier": ":divisions/CN/CN-SH",
+      "name": "Shanghai",
+      "name_zh": "上海市",
+      "value": 231534.1,
+      "change": 8580.46,
+      "code": "CN-SH",
+      "active": 382640.94,
+      "average": 0.6050949488050077
+    },
+    {
+      "rank": 3,
+      "identifier": ":divisions/CN/CN-GD",
+      "name": "Guangdong",
+      "name_zh": "广东省",
+      "value": 154140.32,
+      "change": 4350.73,
+      "code": "CN-GD",
+      "active": 334953.14,
+      "average": 0.4601847291236022
+    },
+    {
+      "rank": 4,
+      "identifier": ":divisions/CN/CN-ZJ",
+      "name": "Zhejiang",
+      "name_zh": "浙江省",
+      "value": 141034.78,
+      "change": 11365.23,
+      "code": "CN-ZJ",
+      "active": 215438.19,
+      "average": 0.6546415006550138
+    },
+    {
+      "rank": 5,
+      "identifier": ":divisions/CN/CN-TW",
+      "name": "Taiwan",
+      "name_zh": "台湾省",
+      "value": 140142.85,
+      "change": 12853.17,
+      "code": "CN-TW",
+      "active": 217772.86,
+      "average": 0.6435276186389801
+    },
+    {
+      "rank": 6,
+      "identifier": ":divisions/CN/CN-SC",
+      "name": "Sichuan",
+      "name_zh": "四川省",
+      "value": 59305.3,
+      "change": 2332.27,
+      "code": "CN-SC",
+      "active": 109844.8,
+      "average": 0.5399008419151384
+    },
+    {
+      "rank": 7,
+      "identifier": ":divisions/CN/CN-JS",
+      "name": "Jiangsu",
+      "name_zh": "江苏省",
+      "value": 49113.67,
+      "change": 1997.73,
+      "code": "CN-JS",
+      "active": 128003.35,
+      "average": 0.38369050497506507
+    },
+    {
+      "rank": 8,
+      "identifier": ":divisions/CN/CN-HB",
+      "name": "Hubei",
+      "name_zh": "湖北省",
+      "value": 33377.15,
+      "change": -627.27,
+      "code": "CN-HB",
+      "active": 79119.38,
+      "average": 0.4218580833166286
+    },
+    {
+      "rank": 9,
+      "identifier": ":divisions/CN/CN-SN",
+      "name": "Shaanxi",
+      "name_zh": "陕西省",
+      "value": 21197.28,
+      "change": 3349.75,
+      "code": "CN-SN",
+      "active": 49936,
+      "average": 0.42448894585068886
+    },
+    {
+      "rank": 10,
+      "identifier": ":divisions/CN/CN-FJ",
+      "name": "Fujian",
+      "name_zh": "福建省",
+      "value": 18870.02,
+      "change": 692.92,
+      "code": "CN-FJ",
+      "active": 38752.65,
+      "average": 0.4869349579964209
+    }
+  ],
+  "period": "2025-01-01/2025-12-31"
+}

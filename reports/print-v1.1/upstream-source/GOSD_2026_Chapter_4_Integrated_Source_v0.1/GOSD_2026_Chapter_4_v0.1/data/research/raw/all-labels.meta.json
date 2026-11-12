@@ -1,0 +1,11 @@
+{
+  "query": "all-labels",
+  "elapsed_client_seconds": 9.065,
+  "rows": 127,
+  "statistics": {
+    "elapsed": 0.259952465,
+    "rows_read": 5554152,
+    "bytes_read": 105892306
+  },
+  "sha256": "fb408d9324e3666807ed1bf74c023f2ae6cbd251093f41d6c4a872d690eacb5a"
+}

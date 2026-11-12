@@ -1,0 +1,62 @@
+[
+  [
+    "1",
+    "OpenGauge 平台总览",
+    "2026.11.11 读取；公开模型与数据集仓库总量。",
+    "http://47.100.76.186:9529/overview"
+  ],
+  [
+    "2",
+    "OpenGauge 供给观测归档",
+    "826 个组织账号的地域、主体、资产与月度序列；2026.10.17 冻结。",
+    "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/supply-observation.json"
+  ],
+  [
+    "3",
+    "HF 模型与发布账号年度回溯",
+    "2022—2026 各年 9 月 13 日；终点可见仓库回溯。",
+    "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter5/fig-5-1-1_hf_cumulative_models_publishers.csv"
+  ],
+  [
+    "4",
+    "模型基座与派生网络来源记录",
+    "2026.10.16 非随机样本；5,777 个节点与 5,111 条声明边。",
+    "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/lineage-live-provenance.json"
+  ],
+  [
+    "5",
+    "HF 派生模型年度回溯",
+    "有基座声明的仓库；与年度总模型使用同一回溯口径。",
+    "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter5/fig-5-2-1_hf_cumulative_derivation.csv"
+  ],
+  [
+    "6",
+    "跨国模型派生关系表",
+    "2026.09.13；186 个有向国家组合、10,943 对关系。",
+    "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter5/fig-5-2-2_cross_country_derivation_flows.csv"
+  ],
+  [
+    "7",
+    "ModelRank 国家头部席位月表",
+    "2024.07—2026.08；主期末 2026.06，未知归属保留分母。",
+    "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter5/fig-5-2-3_modelrank_country_head_trend.csv"
+  ],
+  [
+    "8",
+    "模型开放分级规范：项目保留文本与要求表",
+    "用于双轴释义；正式标准全文适用仍待逐条核对。",
+    "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/openness53-methods.md"
+  ],
+  [
+    "9",
+    "OpenGauge 开放评价模型明细",
+    "889 个模型 ID；2026.11.11 读取，保留来源严格模式等级。",
+    "http://47.100.76.186:9529/api/openness/quadrant/"
+  ],
+  [
+    "10",
+    "OpenGauge 逐模型材料与许可证据",
+    "九页、每页最多 100 条，共 889 条；按模型 ID 关联。",
+    "http://47.100.76.186:9529/openness"
+  ]
+]

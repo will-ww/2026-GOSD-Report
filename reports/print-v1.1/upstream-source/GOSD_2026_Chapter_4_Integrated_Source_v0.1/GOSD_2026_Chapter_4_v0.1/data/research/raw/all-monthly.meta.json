@@ -1,0 +1,11 @@
+{
+  "query": "all-monthly",
+  "elapsed_client_seconds": 11.151,
+  "rows": 6510,
+  "statistics": {
+    "elapsed": 0.267462978,
+    "rows_read": 5522033,
+    "bytes_read": 70789504
+  },
+  "sha256": "9ffb528bc13d69e9d18fd4796541dc2ad1f15c931ff3d2afcfd7749374f2e7f0"
+}

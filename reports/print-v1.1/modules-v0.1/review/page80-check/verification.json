@@ -1,0 +1,42 @@
+{
+  "form_objects_before": 10936,
+  "form_objects_after": 48,
+  "retained_vector_edges": 5111,
+  "retained_vector_nodes": 5777,
+  "rasterized": false,
+  "version": "module 6 v0.2",
+  "page_count": 14,
+  "folio": 80,
+  "local_page": 6,
+  "changed_pages": [
+    6
+  ],
+  "unchanged_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "text_preserved_on_all_pages": true,
+  "links_bookmarks_labels_preserved": true,
+  "fonts_embedded": true,
+  "mean_pixel_channel_difference": 0.034837521846682,
+  "max_pixel_channel_difference": 8,
+  "intentionally_blank_pages": [
+    2,
+    14
+  ],
+  "original_bytes": 13281966,
+  "file": "/workspace/scratch/77ced49644f0/modules-v0.1/output/pdf/GOSD_2026_Print_M06_Chapter5_v0.2.pdf",
+  "size_bytes": 9270225,
+  "sha256": "8530703cff346771d7ec4d79c6b3d445fd67a69f42963ddd8b0964a3237205ef"
+}

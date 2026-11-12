@@ -1,0 +1,548 @@
+[
+  {
+    "id": ":agencies/nsa/nifi",
+    "countries": 12,
+    "sha256": "cf1cbedb21811374a34afa0c700301d038047059c6bf4360c3cd6b726d35cd1f",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/alibaba/flink",
+    "countries": 19,
+    "sha256": "d7e2e76958f752415c711d4cc269d96708f3e974b06e9775a1d963a8ccadb058",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/alibaba/higress",
+    "countries": 10,
+    "sha256": "79dbc7623dfaefd4835c9f7519c610dfefae9d721ffb377c56ab5e2d566212a1",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/alibaba/nacos",
+    "countries": 11,
+    "sha256": "c35165e73169fa8ce761d6313d554e08b60b48be2b4c3b7756cf3a652f9806d4",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/amazon/opensearch",
+    "countries": 44,
+    "sha256": "53bec022eaa6f41f89a5c14c964e7253d5674aa9bd546efbcb9a46fbc8d9981d",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/api7/apisix",
+    "countries": 23,
+    "sha256": "024e3e27d47de2bf00567d7e23046400db6de7553a9b61d42fd77072fbebe4e5",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/apple/foundationdb",
+    "countries": 11,
+    "sha256": "034efebda96426d6c3f4771b9112bdec823936372ac39ab5c9cc06ddbf8637b7",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/baidu/doris",
+    "countries": 17,
+    "sha256": "43f62a69e70290b804a408adf385a45069b2befac107d0c47a66c07d00fd456a",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/chroma/chroma",
+    "countries": 16,
+    "sha256": "6231b0604bb7915571d51e6ef163982d46f328b084f3bbcc0abb9ff29d85878c",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/citrix/cloudstack",
+    "countries": 22,
+    "sha256": "666a2cb154e99303a698b416f86d7897c0bf05b77b9d912a152eff4496e2cc73",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/clockwork/spacetimedb",
+    "countries": 19,
+    "sha256": "3a179b35b2b75bd3b9c90db10773d6ce7ea511a1aff08b487b40d292e6efda7a",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/cloudera/hadoop",
+    "countries": 16,
+    "sha256": "2d932d1fe92214e68c214fa2015bfedf74d3452b0fbfb89f15ed7138708941e5",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/cockroachlabs/cockroachdb",
+    "countries": 19,
+    "sha256": "a8fcad89ac01bf1aac04c2e458bacb5fb29edd6ff2b5aacee0e7eca653dca4ee",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/cratedb/cratedb",
+    "countries": 15,
+    "sha256": "d7c2afe9d2f133800534de5aeee9e5df1b4cf81d633f1692770284bc8bfaf8fc",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/databend/databend",
+    "countries": 12,
+    "sha256": "bba9d460a9297cbec522e3784a5da0724d00b75f4fb96203ebafc2e1cb78f9ea",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/databricks/delta_lake",
+    "countries": 25,
+    "sha256": "0c757c88286ec1ff38c5137f24dd12a18a1685ebcfbbb42f378cd8f9f4073a6c",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/databricks/neon",
+    "countries": 29,
+    "sha256": "7d0757efdb86577d9a27f47d8e59a59da453ff1bb7e337a8255aede1f1743304",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/databricks/spark",
+    "countries": 29,
+    "sha256": "0c60abc18ef4438216cdb3ebab3909f43e023c9f9aa9f7cbbcd4cc9aeb03d6e3",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/dragonflydb/dragonflydb",
+    "countries": 25,
+    "sha256": "6e50e433b72a737609b8ca9429a08b7f1271e8e0217f2ef202dc03d9c7724af1",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/duckdb/duckdb",
+    "countries": 57,
+    "sha256": "34220fc002ba1d49609bf746c9d784aadbd5a181d5a151d691b8d25bd141996f",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/elastic/elasticsearch",
+    "countries": 37,
+    "sha256": "2fd730954a85f045ee23925c2500d3008db79129814716306704fca26f96984e",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/emq/emqx",
+    "countries": 20,
+    "sha256": "187d848845943b757d9c2259aa8d8deceb368696c782f2d1c8a745f6bd0fa0c4",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/google/beam",
+    "countries": 25,
+    "sha256": "388a36d6144e0e6ecccd54b53b78e67d71742590234b21b14611225946012640",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/google/vitess",
+    "countries": 22,
+    "sha256": "7972fbab7853502b48c19672052c55800ec16854a5948ee542733d3cb7e3baa0",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/grafana/grafana",
+    "countries": 61,
+    "sha256": "86cea77a57fa6f796e4e1ba1d65e00a1a8a17a3be24edc63f5b9b4f3c733b3e5",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/grafana/loki",
+    "countries": 32,
+    "sha256": "cb8d356a6e609b9619657173825d207e13e44d356d2111abbe9fd0b934071e92",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/grafana/mimir",
+    "countries": 26,
+    "sha256": "06594f5a7c41fab4ffa59951329a5d58371f4301b005ae01414719f1e6736b6c",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/grafana/tempo",
+    "countries": 24,
+    "sha256": "fe7c7e42ffc57c7c1381dcd997fddff0a3b3fc5aa2592476b5512d253b4aace8",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/gravitational/teleport",
+    "countries": 20,
+    "sha256": "331c36d7c7b7b911c9ec8e4ed77c0adbf2679603725ec14318fbafd959eef1d5",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/greptime/greptimedb",
+    "countries": 12,
+    "sha256": "01396fec6fcba952405bc255d0003fe5eae233005cf2c2fb382026730731eece",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/gridgain/ignite",
+    "countries": 7,
+    "sha256": "b06baa36256710911fe032381209d04caae7572d3b285d132fd3568db5c6f775",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/gridgain/ignite3",
+    "countries": 4,
+    "sha256": "3173ee31b150ea6a0a6892016ae6fe8bc6c710ea536a19f833f9efc4e27fc7c2",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/hashicorp/vault",
+    "countries": 30,
+    "sha256": "83b9725f288e0bf416d6b952da42805c3dd2ed81794c691a0186389cdaf64c61",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/huawei/volcano",
+    "countries": 15,
+    "sha256": "2aa7e69ea62a797c2e87a6462fa0711b4424e60c666cae42900fce6e5488bc43",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/huggingface/openenv",
+    "countries": 10,
+    "sha256": "269778b9f4a5ee538ad4248885a3a4c95fa341c38d2b57343c3895b24850c720",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/imply/druid",
+    "countries": 18,
+    "sha256": "ef1ad357021348070ac86d27db870ce350434e1dc78dedd38a37c6eebd1228eb",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/influxdata/influxdb",
+    "countries": 24,
+    "sha256": "89c0574c42374f0a5e48fd3dabe678eabb473f8f6198f62b66f90cffca1477eb",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/isovalent/cilium",
+    "countries": 55,
+    "sha256": "815548559e1dc984f93a6043776b31706c13a84e3cd3e7b387166a92782e010a",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/lancedb/lancedb",
+    "countries": 16,
+    "sha256": "d4aab0e3a6c73374753de8857ec14cff2760bead03ff69874f130641a34cba10",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/linkedin/kafka",
+    "countries": 23,
+    "sha256": "9a317fc7c269c9b892ace6b16e11f56be0b88d7b0682ac671fe1a045e91e25e4",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/linkedin/pinot",
+    "countries": 9,
+    "sha256": "9f3824a1af7fad9af3036e200e28773016cfe5dffe4778cf71a9eb15d175faaf",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/linkedin/venice",
+    "countries": 3,
+    "sha256": "5f2d009e47e1c8d4ced3699c571972d5c0d133f18d23daf1ae05ec99f32aeee7",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/lyft/envoy",
+    "countries": 45,
+    "sha256": "62bf21ddd9e2faf5aac04cf58b588e97fd94c35dee8a2132522be876ffecddf0",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/mariadb/mariadb",
+    "countries": 22,
+    "sha256": "1176b7ab5f57c60110a8d2dad326a991b8848379da6b132f84a3cfb1f6ac0b9a",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/matrix_origin/matrixone",
+    "countries": 2,
+    "sha256": "f0df948ef05556ac807b0d80df4755514ce801f64abc80ba505106f9cc381e64",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/meta/cassandra",
+    "countries": 18,
+    "sha256": "52aa31b2e75764098d87f63f0b75724f6d274295138a5f7d934e390bec5262de",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/meta/hive",
+    "countries": 10,
+    "sha256": "7662d9f5958471724d1066909ad087458a23ae4409648b21e7c5f7db4310eabd",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/meta/prestodb",
+    "countries": 13,
+    "sha256": "f8607696529e047b6eeb27d314dfcc98279bcb0520ab67177f8b4be42ac9af3b",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/meta/pytorch",
+    "countries": 65,
+    "sha256": "3a8972928f39fb95037dda2061ecd3821000012a90a570f4188ea1426d0f5056",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/meta/rocksdb",
+    "countries": 18,
+    "sha256": "b15c6b3772d17a060d1281a15715300d12d695a4a42cf0e8b643cc0a82fea3ec",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/meta/velox",
+    "countries": 10,
+    "sha256": "b9d7445be92008fce70757b2ef5dc36fc146bbef912578d4e31062b816982ea3",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/microsoft/azure",
+    "countries": 77,
+    "sha256": "e56400ff032a7990446533ca074bc12f695cb60645d4b90b37c79072161ee2c4",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/microsoft/hbase",
+    "countries": 14,
+    "sha256": "62fedec133fefcbd2b397a5bd4a2ecdfa7e3a973d19b26f6a5cb2169d8ec97e5",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/mongodb/wiredtiger",
+    "countries": 5,
+    "sha256": "9ccd335e083beae0b818fac63cbbd1d10e394150553273747ee3d5935ee2abc7",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/naver/cubrid",
+    "countries": 1,
+    "sha256": "f204bbfbe8b4aa850fc5d25d9391aa163569a6067e89cd8de8ea981c5166a523",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/okta/openfga",
+    "countries": 23,
+    "sha256": "f2bb552b4eb21eb58612df1af6de2086a20d528ec7876ffaa6375ff1e820cbc9",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/pingcap/tidb",
+    "countries": 13,
+    "sha256": "f75a7f25290580b59e2ba66e2947d922de1aec5a0bdbd63623bf5bc79d78546c",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/pingcap/tikv",
+    "countries": 16,
+    "sha256": "b8c2191a97c5415eabb05d02001f99e26287a1828c626e206a1548f50b3a29f2",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/qdrant/qdrant",
+    "countries": 33,
+    "sha256": "1abe2a18c90e892f24b929a6304e7a9f3c3d1ded5240a24dbd6aa55c5c1e5669",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/questdb/questdb",
+    "countries": 21,
+    "sha256": "8f2a39edf00cc82a6f5bd862a812b2d1825c93b8d7f7c77113e73c00b4a34b59",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/ravendb/ravendb",
+    "countries": 9,
+    "sha256": "31070d15410a371ad66cbc9095799e12be589a4153f37b2339adf860dfd7dd60",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/redhat/etcd",
+    "countries": 34,
+    "sha256": "8905494bece3c9dfed237d078aca41c264cbb37f0588d5da16397cb52c0c1d93",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/redhat/keycloak",
+    "countries": 52,
+    "sha256": "759a4ddcf070e8c6821e7acc8136c1e5436455ac6bad8d904c648b6ab4ad1ac3",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/redis/redis",
+    "countries": 47,
+    "sha256": "7ac688f4a94d703d4cf8437b7cd2d3bf0902ddfb8a7a30bd0795fdb385f796de",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/risingwavelabs/risingwave",
+    "countries": 17,
+    "sha256": "9ec972c6f1a94b62adeedfe035dc054df04829b86d797213d7ab1652ccc2a680",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/scylladb/scylladb",
+    "countries": 32,
+    "sha256": "89b65cfa74b789a7c3cae2d682370622ac781f9cbf36339ade621dfb8bfc2a19",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/soundcloud/prometheus",
+    "countries": 48,
+    "sha256": "9609643cf359731b8f02637615ef842c858c5acc2b3982fbd40b4a709fbcee33",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/sphereex/shardingsphere",
+    "countries": 8,
+    "sha256": "851174ab83535a79e3b12f983452be832c8febd51d72017d51c3b62f96bbbe09",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/starrocks/starrocks",
+    "countries": 27,
+    "sha256": "09fd2c79830d7dcf9e0141da4dbd7199ea0748529d8705722acd91e13e80a770",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/surrealdb/surrealdb",
+    "countries": 36,
+    "sha256": "763a235ca6a6fd83f2a91d646800a3d502d90894a555842e25ec8a923624e813",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/taos/tdengine",
+    "countries": 4,
+    "sha256": "988d9d3527d47ce69c61196c2be6859311d1cd6373f0b090eaf3a53015db0d6f",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/tigerdata/timescaledb",
+    "countries": 31,
+    "sha256": "0975921de70d73fcf79d90dc0b0454909bce170f89ee245b22008c3519ec59e1",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/timecho/iotdb",
+    "countries": 8,
+    "sha256": "e04724be34e439124e79f65044c54ef5b64496364590e076bc28f542cb7d64b9",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/vespa/vespa",
+    "countries": 12,
+    "sha256": "eec0eaa7e9f84dbac35560d201dc2b839b3bf9a90c0237001804056b46b96f96",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/victoriametrics/victoriametrics",
+    "countries": 43,
+    "sha256": "b81064a230965283895d4d4e860c0be0440d4a499595fecfe6999fcc0e5623a4",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/vk/tarantool",
+    "countries": 8,
+    "sha256": "a6be76df512f52744a2f45d99447576933b64a45ee011f889fdbd7d0e17dffc2",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/weaviate/weaviate",
+    "countries": 23,
+    "sha256": "6bf632aea9373d2e5c2d922c1730ccbdc59a17b105c9e3b46b1639dd6cf39827",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/yahoo/pulsar",
+    "countries": 23,
+    "sha256": "dcf623d563199bde395d16515029320eb667e1915db7668fe6671a09f2e2e438",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/yahoo/trafficserver",
+    "countries": 6,
+    "sha256": "f2a7d004d303f8100587c84a89193222371352adbde455046585121e0e9afca1",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/yandex/clickhouse",
+    "countries": 61,
+    "sha256": "0d5f6dc2c28a206f405987805f81db8a242339ba70d5a2dcfd1c40706eb99117",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/yandex/ydb",
+    "countries": 12,
+    "sha256": "f736a04541ea58a378fbd7fab4a0f0222fa4dcd69272696bfdd900e2a014433a",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/yandex/ytsaurus",
+    "countries": 7,
+    "sha256": "999a70752bdd74ff61401bdd09c7c5ef8e3657b5aa87cdc4d0d0734707e49573",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/yugabyte/yugabytedb",
+    "countries": 14,
+    "sha256": "0b9f3d0d992d760dc63335862b5154b68fc9909ff768b589afb38a028aa9918b",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":companies/zilliz/milvus",
+    "countries": 25,
+    "sha256": "63cfdb06b5bf2d0076e76ba59e04c7d533b4dbf66144f261145a73e8fcdd524c",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":foundations/apache/lucene",
+    "countries": 23,
+    "sha256": "28ffbacf76cb9cc10662065c04cbf7e6bd331b13c5f697faa1a42dcd2322b420",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":foundations/apache/seatunnel",
+    "countries": 10,
+    "sha256": "36f8aa39574e3ef5778da70b323a24cfadc6fb64e56755b1de63ba210372b2d2",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":foundations/linux_foundation/cncf/kubernetes",
+    "countries": 70,
+    "sha256": "47bd8f76f06dd456b1002f0b49df77e0b3d5451921fe06e22baab406dfed57e9",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":foundations/linux_foundation/valkey",
+    "countries": 47,
+    "sha256": "495e802650dd6c96d7932fb8579057f3d911687d4ee16708b8d59c454148197d",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":foundations/trino/trino",
+    "countries": 36,
+    "sha256": "e6c962ae2d5e2e33a52b4d0e70f7b8e47affc526f3f29985b2d19461848817bd",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":projects/datafusion",
+    "countries": 47,
+    "sha256": "08d726e291df4487985f57bb29ac27c54227c88b0866eec46bb07d4df28f78c8",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "id": ":universities/illinois/llvm",
+    "countries": 66,
+    "sha256": "1f9090d8e1c6d0c39b7863af8f64c1905b0fe1e138c01a3dca724d2abbaf7c05",
+    "retrieved": "2026-11-10"
+  }
+]

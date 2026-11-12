@@ -1,0 +1,1 @@
+SELECT formatDateTime(created_at,'%Y-%m') month,uniqExact(actor_id) contributors,uniqExact(repo_id) repos,round(sum(openrank),4) contribution FROM normalized_community_openrank WHERE platform='AtomGit' AND org_id=5162848 AND created_at>='2025-07-01' AND created_at<'2026-11-01' GROUP BY month ORDER BY month FORMAT JSON

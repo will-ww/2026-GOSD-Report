@@ -1,0 +1,212 @@
+[
+  {
+    "repo": "openclaw/openclaw",
+    "source": 7047.46,
+    "sum": 7047.44,
+    "delta": -0.02,
+    "months": 8
+  },
+  {
+    "repo": "cann/ops-transformer",
+    "source": 2607.14,
+    "sum": 2607.14,
+    "delta": 0.0,
+    "months": 10
+  },
+  {
+    "repo": "cann/ops-nn",
+    "source": 2146.38,
+    "sum": 2146.38,
+    "delta": 0.0,
+    "months": 10
+  },
+  {
+    "repo": "Ascend/pytorch",
+    "source": 1919.09,
+    "sum": 1919.09,
+    "delta": 0.0,
+    "months": 10
+  },
+  {
+    "repo": "mindspore/mindspore",
+    "source": 1823.15,
+    "sum": 1823.16,
+    "delta": 0.01,
+    "months": 7
+  },
+  {
+    "repo": "NousResearch/hermes-agent",
+    "source": 1765.39,
+    "sum": 1765.39,
+    "delta": 0.0,
+    "months": 5
+  },
+  {
+    "repo": "cann/pypto",
+    "source": 1224.15,
+    "sum": 1224.15,
+    "delta": 0.0,
+    "months": 7
+  },
+  {
+    "repo": "cann/ops-math",
+    "source": 1096.59,
+    "sum": 1096.58,
+    "delta": -0.01,
+    "months": 10
+  },
+  {
+    "repo": "langchain-ai/deepagents",
+    "source": 1017.25,
+    "sum": 1017.27,
+    "delta": 0.02,
+    "months": 12
+  },
+  {
+    "repo": "openharmony/multimedia_media_library",
+    "source": 904.71,
+    "sum": 904.7,
+    "delta": -0.01,
+    "months": 12
+  },
+  {
+    "repo": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "source": 883.12,
+    "sum": 883.13,
+    "delta": 0.01,
+    "months": 10
+  },
+  {
+    "repo": "cann/asc-devkit",
+    "source": 879.2,
+    "sum": 879.21,
+    "delta": 0.01,
+    "months": 8
+  },
+  {
+    "repo": "openharmony/ability_ability_runtime",
+    "source": 769.24,
+    "sum": 769.24,
+    "delta": 0.0,
+    "months": 12
+  },
+  {
+    "repo": "aden-hive/hive",
+    "source": 769.19,
+    "sum": 769.19,
+    "delta": 0.0,
+    "months": 6
+  },
+  {
+    "repo": "cann/runtime",
+    "source": 761.13,
+    "sum": 761.13,
+    "delta": 0.0,
+    "months": 6
+  },
+  {
+    "repo": "Ascend/ModelZoo-PyTorch",
+    "source": 703.95,
+    "sum": 703.96,
+    "delta": 0.01,
+    "months": 8
+  },
+  {
+    "repo": "vllm-project/vllm-omni",
+    "source": 703.14,
+    "sum": 703.14,
+    "delta": 0.0,
+    "months": 9
+  },
+  {
+    "repo": "Ascend/mind-cluster",
+    "source": 691.49,
+    "sum": 691.48,
+    "delta": -0.01,
+    "months": 11
+  },
+  {
+    "repo": "Facepunch/sbox-public",
+    "source": 687.71,
+    "sum": 687.7,
+    "delta": -0.01,
+    "months": 8
+  },
+  {
+    "repo": "cann/hcomm",
+    "source": 684.72,
+    "sum": 684.71,
+    "delta": -0.01,
+    "months": 8
+  },
+  {
+    "repo": "Ascend/MindSpeed-LLM",
+    "source": 671.85,
+    "sum": 671.85,
+    "delta": 0.0,
+    "months": 10
+  },
+  {
+    "repo": "noctalia-dev/noctalia",
+    "source": 659.16,
+    "sum": 659.15,
+    "delta": -0.01,
+    "months": 12
+  },
+  {
+    "repo": "AvengeMedia/DankMaterialShell",
+    "source": 648.98,
+    "sum": 648.97,
+    "delta": -0.01,
+    "months": 12
+  },
+  {
+    "repo": "Ascend/op-plugin",
+    "source": 647.23,
+    "sum": 647.25,
+    "delta": 0.02,
+    "months": 10
+  },
+  {
+    "repo": "openharmony/multimedia_av_codec",
+    "source": 634.4,
+    "sum": 634.41,
+    "delta": 0.01,
+    "months": 12
+  },
+  {
+    "repo": "cann/ge",
+    "source": 628.91,
+    "sum": 628.91,
+    "delta": 0.0,
+    "months": 6
+  },
+  {
+    "repo": "Ascend/torchair",
+    "source": 603.0,
+    "sum": 602.99,
+    "delta": -0.01,
+    "months": 9
+  },
+  {
+    "repo": "Ascend/MindSpeed-MM",
+    "source": 602.54,
+    "sum": 602.53,
+    "delta": -0.01,
+    "months": 10
+  },
+  {
+    "repo": "Ascend/RecSDK",
+    "source": 598.0,
+    "sum": 598.0,
+    "delta": 0.0,
+    "months": 11
+  },
+  {
+    "repo": "PlatformNetwork/bounty-challenge",
+    "source": 596.41,
+    "sum": 596.41,
+    "delta": 0.0,
+    "months": 6
+  }
+]

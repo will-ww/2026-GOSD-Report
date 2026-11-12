@@ -1,0 +1,1 @@
+SELECT id,name,name_zh,description_zh,data FROM labels WHERE type = 'Project' FORMAT JSON

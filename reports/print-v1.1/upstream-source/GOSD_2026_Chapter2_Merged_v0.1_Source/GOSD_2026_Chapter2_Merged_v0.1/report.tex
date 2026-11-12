@@ -1,0 +1,473 @@
+\documentclass[11pt]{article}\usepackage{layout}\begin{document}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{01}
+\Box{15}{28}{180}{\fontsize{20}{26}\selectfont\color{ink}\sffamily \bfseries 第二章｜全球开源生态地图}
+\Box{15}{44}{180}{\fontsize{15}{22}\selectfont\color{teal}\sffamily \bfseries 从参与分布，走向协作能力与行业价值}
+\Box{15}{60}{180}{\fontsize{10.3}{16.5}\selectfont\color{ink}人工智能扩大了开放资源的类型，也改变了生产与协作的节奏。看清这一变化，需要把人、贡献、项目、人才、代码、模型与数据放在相互联系的观察框架中，再追问这些资源能够服务哪些行业和社会需求。}
+\Box{15}{85}{180}{\fontsize{10.3}{16.5}\selectfont\color{ink}本章围绕六类相互衔接的主题地图展开这一问题。这里的“地图”既指地域分布，也指生态结构：全球视野揭示不同地区的参与路径，中国观察连接本地建设与跨境协作，行业专题则把视线进一步引向资源的应用条件。}
+\Box{15}{114}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries 六节阅读路径}
+\Rule{15}{141}{195}{line}
+\Box{15}{126}{11}{\fontsize{11}{15}\selectfont\color{teal}\sffamily \bfseries 2.1}
+\Box{29}{126}{40}{\fontsize{11}{15}\selectfont\color{ink}\sffamily \bfseries 活跃地图}
+\Box{72}{126}{105}{\fontsize{10.3}{15}\selectfont\color{ink}谁在参与，增长发生在哪里？}
+\Box{72}{132}{105}{\fontsize{8.8}{12}\selectfont\color{muted}\sffamily 规模、平台覆盖与区域增长}
+\Box{179}{126}{16}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 02—04}
+\Rule{15}{158}{195}{line}
+\Box{15}{143}{11}{\fontsize{11}{15}\selectfont\color{teal}\sffamily \bfseries 2.2}
+\Box{29}{143}{40}{\fontsize{11}{15}\selectfont\color{ink}\sffamily \bfseries 贡献地图}
+\Box{72}{143}{105}{\fontsize{10.3}{15}\selectfont\color{ink}参与怎样进入共同协作？}
+\Box{72}{149}{105}{\fontsize{8.8}{12}\selectfont\color{muted}\sffamily 贡献结构、平均贡献与跨境连接}
+\Box{179}{143}{16}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 05—08}
+\Rule{15}{175}{195}{line}
+\Box{15}{160}{11}{\fontsize{11}{15}\selectfont\color{teal}\sffamily \bfseries 2.3}
+\Box{29}{160}{40}{\fontsize{11}{15}\selectfont\color{ink}\sffamily \bfseries 项目影响地图}
+\Box{72}{160}{105}{\fontsize{10.3}{15}\selectfont\color{ink}协作影响汇聚到哪些项目？}
+\Box{72}{166}{105}{\fontsize{8.8}{12}\selectfont\color{muted}\sffamily 网络位置、项目结构与持续积累}
+\Box{179}{160}{16}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 09—11}
+\Rule{15}{192}{195}{line}
+\Box{15}{177}{11}{\fontsize{11}{15}\selectfont\color{teal}\sffamily \bfseries 2.4}
+\Box{29}{177}{40}{\fontsize{11}{15}\selectfont\color{ink}\sffamily \bfseries 人才地图}
+\Box{72}{177}{105}{\fontsize{10.3}{15}\selectfont\color{ink}哪些地域积累了关键参与者？}
+\Box{72}{183}{105}{\fontsize{8.8}{12}\selectfont\color{muted}\sffamily 高影响力样本与中国城市节点}
+\Box{179}{177}{16}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 12—13}
+\Rule{15}{209}{195}{line}
+\Box{15}{194}{11}{\fontsize{11}{15}\selectfont\color{teal}\sffamily \bfseries 2.5}
+\Box{29}{194}{40}{\fontsize{11}{15}\selectfont\color{ink}\sffamily \bfseries 资产地图}
+\Box{72}{194}{105}{\fontsize{10.3}{15}\selectfont\color{ink}协作形成了怎样的资源供给？}
+\Box{72}{200}{105}{\fontsize{8.8}{12}\selectfont\color{muted}\sffamily 代码、模型、数据与下载分布}
+\Box{179}{194}{16}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 14—17}
+\Rule{15}{226}{195}{line}
+\Box{15}{211}{11}{\fontsize{11}{15}\selectfont\color{teal}\sffamily \bfseries 2.6}
+\Box{29}{211}{40}{\fontsize{11}{15}\selectfont\color{ink}\sffamily \bfseries 行业地图}
+\Box{72}{211}{105}{\fontsize{10.3}{15}\selectfont\color{ink}资源可能进入哪些应用领域？}
+\Box{72}{217}{105}{\fontsize{8.8}{12}\selectfont\color{muted}\sffamily 行业构成与 AI 表述差异}
+\Box{179}{211}{16}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 18—20}
+\Box{15}{237}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries 读图时，始终区分三件事}
+\Box{15}{248}{180}{\fontsize{10}{16.5}\selectfont\color{ink}参与规模、资源供给与实际成效分别计量；报告年度、自然年及期后资料分别标注；观察结果与条件情景、行动建议分别表述。正文保留必要定义，附录 A 统一说明口径、情景计算与来源。}
+\Box{15}{273}{180}{\fontsize{8.7}{12}\selectfont\color{muted}\sffamily 章末启示与行动方向　21　｜　附录 A：第二章方法与证据　A1—A6}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{02}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.1 全球开源活跃地图}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 开源生态首先由参与者构成。活跃开发者指报告期内留下公开活动记录的账号；累计规模还包括当期未活跃账号。人数提供观察入口，贡献与影响将在后续两节展开。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-01.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-1　全球参与全景与平台覆盖。来源：OpenDigger / OpenShare 年度数据、编制组综合序列。主期 2025.07—2026.06；国家 GitHub、五域及中国补充分别统计，见附录 A1。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 多中心参与构成协作基础}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}美国、印度、中国和巴西是参与规模较大的节点；欧洲由多个相邻国家共同形成广泛网络。地域分布揭示寻找伙伴的基础，人数本身尚不足以代表技术质量、AI 研发能力或公共成效。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 既有中心与成长社区共同可见}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}前 20 名将空间分布转为可比较的读数。印度、巴西、印度尼西亚等拥有可观的参与基础，全球合作需要覆盖不同成长阶段的社区，并继续辨认其技术方向和参与方式。}
+\Box{15}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 参与积累与当期活跃并不同步}
+\Box{15}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}2022—2026 年，累计规模增长 131.7\%，当期活跃增长 87.3\%。账号基础扩张较快，能否形成持续协作仍需后续观察；两条总量曲线不能用来推断同一批用户的留存变化。}
+\Box{108}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ④ 跨平台观察补全中国图景}
+\Box{108}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}中国 GitHub 活跃约 250.48 万，加入国内平台去重补充约 120 万后约为 370 万。五域中的 454.5 万来自独立综合序列；三者覆盖不同，国内补充不再叠加到五域读数。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{03}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.1 参与增长与 2030 情景}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 规模积累与增长速度共同塑造未来格局。实线为 2022—2026 报告年度，虚线为条件情景；五域综合趋势与南方六国 GitHub 细分采用不同覆盖。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-02.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-2　参与历史、2030 条件情景与南方六国细分。来源：OpenDigger / OpenShare、编制组综合序列；情景由本报告测算。六国不代表全球南方整体，方法及读数见附录 A2。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 较快增长正在拓宽参与基础}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}2022—2026 年，南方六国综合组和印度的年均增速为 22.2\%、21.3\%，高于欧美比较组。在增长条件延续的假设下，其相对规模可能提高；欧洲仍具有较大的参与积累。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 长期情景服务于持续校准}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}全球累计、全球活跃和中国 GitHub 活跃三条曲线分别推演。2030 范围由“增速延续”和“逐步放缓”两种假设形成，不是置信区间，也未单独估计 AI 的作用；每年应按同口径更新。}
+\Box{15}{247}{180}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 全球南方内部存在多种成长路径}
+\Box{15}{253}{180}{\fontsize{10.1}{15.6}\selectfont\color{ink}六国 GitHub 细分中，巴西占活跃规模的 61.5\%；菲律宾、印度尼西亚同比增长 12.5\%、11.5\%，高于巴西的 7.4\%。现有规模与成长速度指向不同合作需求。这里的六国仅为代表样本，不能概括全球南方整体；后续还要结合贡献、项目和本地需求判断合作重点。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{04}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.1 中国参与：集聚与增长}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 中国的参与基础呈现明显集聚，也有不同速度的区域增长。以下按 GitHub 地理估计比较省级规模、净增与份额；国内平台补充未向各地区分摊。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-03.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-3　中国参与基础、同比变化与区域份额。来源：OpenDigger / OpenShare。2026 较 2025 报告年度；地理值为平台估计，份额独立取整，净增不等于迁入。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 头部集聚与广泛参与并存}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}全国 GitHub 活跃规模约 250.48 万，同比净增 30.40 万。京沪粤占当期活跃的 52.6\%，形成主要参与基础；其余地区共同构成跨区域协作的重要支撑，不能仅以头部排行概括中国。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 规模中心仍贡献较大增量}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}北京、上海、广东分别净增约 6.45 万、5.07 万和 4.39 万。前 20 表将现有规模与年度变化并列，帮助区分成熟基础和成长节点；净增不等同于人才迁入、首次参与或培养成效。}
+\Box{15}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 浙江等地区展现更快增长}
+\Box{15}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}台湾、浙江的活跃规模同比增长 19.2\% 和 16.1\%，高于全国的 13.8\%；浙江同时拥有 23.29 万的活跃基础。省级差异为后续产业与人才观察提供线索，不能直接替代杭州等城市的证据。}
+\Box{108}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ④ 参与增长引出贡献问题}
+\Box{108}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}台湾与浙江占当期活跃的 18.9\%，占净增的 23.3\%，后者高约 4.4 个百分点。增长能否进入项目协作、形成可持续贡献，是人数地图之后的问题；下一节据此转向贡献规模和跨境连接。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{05}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.2 全球开源贡献地图}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 参与记录回答“谁进入了生态”，贡献度进一步观察协作关系。OpenRank 依据项目中的协作网络计算开发者贡献，再按所在地汇总；它不是代码行数或工作时长。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-04.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-4　全球贡献、位次与平均贡献。来源：OpenDigger / OpenShare、编制组五域序列。①②④为报告年度；③为 2025 自然年，平均贡献＝同表贡献度÷活跃账号数。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 贡献分布呈现多节点格局}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}2026 报告年度公开估计中，美国贡献度为 332.10 万 OpenRank，德国、中国、英国分别为 110.77 万、93.68 万、78.85 万。欧洲多个国家共同构成重要贡献来源，国家位次与参与人数次序有所不同。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 人数相近也可能形成不同贡献}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}荷兰、瑞士在当期贡献中居第 10、第 13，活跃人数居第 15、第 25。贡献地图为识别合作伙伴增加一层信息；具体优势仍要进入项目、组织与技术领域，而不能由国别位次直接推定。}
+\Box{15}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 平均贡献补充总量比较}
+\Box{15}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}2025 同表快照中，德国、荷兰的平均贡献为 1.143、1.131，中国为 0.516。该值等于地区贡献度除以同期活跃账号数，反映地区结构；它不是每个人的典型水平、质量或生产效率。}
+\Box{108}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ④ 五域综合序列提供另一组观察}
+\Box{108}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}2026 年度五域中，欧洲、中国和美国分别为 650.16 万、442.92 万和 423.97 万。它与国家公开估计的覆盖不同，应在各自范围内分析；两种中国读数的差额不全部归因于国内平台。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{06}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.2 贡献增长与 2030 情景}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 参与扩张如何对应贡献积累？五域综合序列与全球、中美自然年序列分别展示增长及情景。两组覆盖和时间窗口不同，只在各自序列内部比较。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-05.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-5　贡献历史与 2030 条件情景。来源：OpenShare 自然年数据、编制组五域序列。两类窗口分别推演；虚线表示情景，不赋予概率，方法及读数见附录 A2—A3。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 中国综合贡献的增长较快}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}五域历史增速延续或逐步放缓时，2030 年中国综合贡献为 935—1,469 万 OpenRank，欧洲为 787—895 万。情景提示相对位置变化的可能性；其成立取决于协作持续性与统计覆盖稳定。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 全球增长之中，地区节奏不同}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}2021—2025 自然年，中国贡献读数增长 51.1\%，全球、美国分别增长 36.7\%、24.4\%。按相同情景方法，2030 年中国为 161—203 万。自然年与上方五域覆盖不同，不直接比较两组规模。}
+\Box{15}{247}{180}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 南方参与需要结合贡献结构阅读}
+\Box{15}{253}{180}{\fontsize{10.1}{15.6}\selectfont\color{ink}六国当期公开读数中，巴西贡献为 43.43 万 OpenRank，占六国合计 58.1\%；印度尼西亚、越南为 10.66 万、8.93 万。巴西的贡献份额低于其在同组六国的活跃份额 61.5\%，表明两类规模并不等价。合作投入还需辨认具体项目与维护需求，不能只随参与人数分配。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{07}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.2 中国贡献：区域结构与平均}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 同一时期的参与和贡献份额，可揭示不同的区域结构。地图、前 20 和份额图均为报告年度；平均贡献另用 2025 自然年同表快照。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-06.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-6　中国贡献分布、区域份额与平均贡献。来源：OpenDigger / OpenShare。①②③为 2025.07—2026.06；④为 2025 自然年；两类份额以各自全国合计为分母。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 主要地区构成中国贡献基础}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}2026 报告年度，京沪粤合计占全国贡献度约 52.9\%，与其活跃份额 52.6\% 接近。头部地区聚集大量参与和贡献，其他地区也共同支撑生态；省级汇总不能替代城市与产业分工分析。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 头部之外仍有多层次节点}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}北京、上海贡献度为 19.93 万和 18.00 万 OpenRank，台湾、浙江为 11.61 万和 11.19 万。四川贡献位次为第 6、活跃位次为第 7。不同次序为进一步识别地区项目、产业和维护团队提供线索。}
+\Box{15}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 区域贡献份额与参与份额有差异}
+\Box{15}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}台湾与浙江合计占活跃人数 18.9\%、贡献度 24.3\%，按未舍入值计算相差约 5.5 个百分点。其余地区的两项份额为 28.6\%、22.7\%。这种差异说明参与基础和贡献结构应联合阅读。}
+\Box{108}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ④ 平均贡献给出另一种排序}
+\Box{108}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}2025 同表中，浙江、台湾、上海、四川的平均贡献为 0.655、0.644、0.605、0.540，均高于全国比值 0.516。它补充规模视角，但不代表个人能力；省级差异也不能直接归因于某座城市。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{08}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.2 全球协作：贡献如何跨境连接}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 开发者所在地与项目归属地可以不同。中美项目来源前十表提供一组跨境协作样本：箭头表示贡献方向，结构图呈现本土、已列境外和未列来源。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-07.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-7　中美项目贡献来源与跨境连接。来源：编制组来源前十归档表，2025.07—2026.06。箭头为贡献方向，未列来源单独保留；完整项目名单待补，样本说明见附录 A4。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 中国参与双向跨境协作}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}归档样本中，中国开发者向美国项目贡献 24,420.69 OpenRank，反向为 1,980.46。它表明本地开发者与境外项目之间存在连接；项目样本和分母不同，不能据此计算国家净输出。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 本土支撑与跨境参与共同存在}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}中国项目样本的本土贡献为 79.22\%，已列境外来源为 14.02\%；美国项目相应为 38.28\%、39.66\%。本土建设提供基础，跨境参与扩大连接；未列部分保留为未知，不全部计为境外贡献。}
+\Box{15}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 来源集中程度呈现不同参与结构}
+\Box{15}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}中国项目前三来源占 87.03\%，美国项目为 52.93\%；前十分别覆盖 93.24\%、77.94\%。两组样本的贡献来源集中程度不同，可为拓展合作伙伴提供线索；不能单独用来判断项目开放程度或国家竞争力。}
+\Box{108}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ④ 连接还需沉淀为共同维护}
+\Box{108}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}前十明细覆盖 14 个来源国家，显示本土支撑与跨境参与共同进入项目。贡献关系是理解影响形成的线索；下一节转向项目网络位置，进一步区分“贡献来自哪里”和“影响汇聚在哪里”。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{09}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.3 全球开源项目影响地图}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 贡献进入项目后，会形成持续协作的网络。项目 OpenRank 衡量项目在这一网络中的影响位置；项目归属地可能不同于贡献来源，也不直接代表用户数、商业价值或产权。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-08.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-8　项目影响、参与结构与五域比较。来源：OpenDigger / OpenShare、编制组五域序列，2025.07—2026.06。③固定 29 国，三项各以相应指标合计为分母。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 项目影响向主要协作节点汇聚}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}在已统计的 29 国中，美国项目影响力为 144.78 万 OpenRank，中国为 53.07 万，构成两个主要节点。项目归属反映影响汇聚的位置，贡献则可能来自多个国家；理解这种集中格局，需要同时看跨境协作。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 合作网络需要连接多样化节点}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}荷兰、德国和英国分别为 5.51 万、3.16 万和 2.32 万，南非也进入前二十。主要节点之外，各地仍有值得关注的项目和维护团队。合作伙伴的选择应结合技术领域与协作需求，不能仅按国家规模排序。}
+\Box{15}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 参与广度与影响汇聚并不相同}
+\Box{15}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}固定 29 国中，美中合计占活跃人数 34.1\%、开发者贡献 37.1\%，项目影响占 89.1\%。三项分别以同组国家对应指标为分母。差异说明，广泛参与与项目组织能力是需要分别观察的生态侧面。}
+\Box{108}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ④ 贡献来源与项目位置互相补充}
+\Box{108}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}五域中，欧洲的开发者贡献居首、项目影响居第三；美国分别居第三和第一。贡献可以支持其他地区的项目，项目也可以汇聚全球协作。结合上一节跨境样本，才能更完整地理解地域作用。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{10}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.3 项目影响：增长与长期情景}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 历史曲线呈现规模与增长节奏，2030 情景展示不同假设下的可能路径。五域按报告年度、全球与中美按自然年分别观察；相对位置与绝对差距共同解释格局变化。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-09.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-9　项目影响历史与 2030 条件情景。来源：OpenShare 自然年数据、编制组五域序列；本报告测算。实线历史、虚线情景；不同覆盖分别阅读，见附录 A3。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 中国增长较快，积累仍需持续}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}2022—2026 五域序列中，中国项目影响增长 159.9\%。两种增速假设下，2030 年中国为 130—187 万 OpenRank，美国为 205—229 万。情景表达可能路径，不预设未来格局必然实现。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 中国项目影响在全球扩展中上升}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}2021—2025 自然年，全球、中国、美国读数分别增长 55.0\%、135.0\%、37.2\%。中国增幅高于全球，显示其在已观测项目网络中的影响扩展较快。该序列与五域覆盖不同，也不足以单独识别 AI 对增长的作用。}
+\Box{15}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 相对追近与绝对差距需要并看}
+\Box{15}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}五域序列中，中国相当于美国的比例由 20.7\% 升至 41.2\%；同期绝对差距由 106.5 万降至 103.0 万 OpenRank。较快增速与较大存量差距并存，提示应同时支持成长项目和长期积累，持续观察格局变化。}
+\Box{108}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ④ 较小基础也可形成成长空间}
+\Box{108}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}南方六国项目影响增长 42.3\%，印度增长 47.9\%，均高于美国，但基数较小。参与增长尚不等同于本地项目影响增强；培育共同维护、本地化和持续发布能力，是值得后续验证的建设方向。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{11}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.3 中国项目：结构与增长}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 中国项目观察同时呈现样本结构与历史变化。30 项标签用于比较项目内部构成，五域序列用于观察年度增长；两者独立，标签可能重叠。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-10.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-10　中国项目的样本结构、增长与位次。来源：编制组项目归档。①②④为 30 项标签样本，窗口待核；③为 2022—2026 报告年度五域序列；两类统计不拼接。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 系统与计算软件是样本重要支点}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}OpenHarmony 与 openEuler 居前两名，CANN、Ascend、MindSpore 随后。样本显示系统与计算基础软件的突出位置；其作用仍需在第四章结合技术生态、兼容关系和下游使用继续展开。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 样本内的影响分布较为集中}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}前两项占原表读数的 53.7\%，前十项占 84.3\%。这些比例说明维护需求可能围绕重要节点聚集，也应留意成长项目的接续。由于标签存在潜在重叠，不能将其作为全国项目集中度。}
+\Box{15}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 五年增长需要转化为持续积累}
+\Box{15}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}五域序列中，中国项目影响由 27.74 万增至 72.10 万 OpenRank，增长 159.9\%，2026 年相当于美国的 41.2\%。2023 年增幅约 53.7\%，随后三年为 17.7\%—21.1\%。扩张持续，但节奏并不均匀，长期支持应关注版本接续、维护者留存和跨组织协作。}
+\Box{108}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ④ 项目位置最终需要人才支撑}
+\Box{108}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}openGauss 的影响、活跃位次为第 9、第 19；PaddlePaddle 为第 6、第 10。人数与网络位置提供不同信息，不宜相除解释为个人效率。持续影响依赖具体协作关系，下一节回到其中的人才与城市节点。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{12}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.4 全球开源人才地图}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 持续协作离不开能够承接任务的人。本节沿用“个人全域 OpenRank 前 5\%”的人才观察样本，考察其地域积累；网络位置不能代替专业能力、职业身份或完整的人才评价。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-11.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-11　高影响力人才的全球分布与五域积累。来源：编制组人才归档。全球地图为 2026 年 7 月期后快照，五域为报告年度；前 5\% 筛选总体与执行细则待核，见附录 A4。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 人才网络既有中心，也有广泛节点}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}7 月快照中，美国为 35,005 人，德国为 14,157 人，中国为 12,653 人，印度与巴西也进入前十。较大群体提供寻找同行的基础，分布于不同地区的节点则拓展合作入口；合作选择还应结合具体项目与维护经验。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 中国的相对位置需要多维理解}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}中国在全球快照中居第三。五域年度表中，中国规模相当于美国的比例由 35.1\% 升至 37.4\%，人数差额却从 1.75 万扩大至 2.19 万。相对追近与存量差距扩大同时存在，提示短期增长仍需转化为长期人才积累。}
+\Box{15}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 人才积累在多个区域扩大}
+\Box{15}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}五域年度表中，中国在 2022—2026 年增长 38.3\%，印度和南方六国分别增长 37.3\%、36.8\%。较快增长拓宽潜在合作基础；能否转为稳定能力，还要看参与者是否持续承担协作与维护职责。}
+\Box{108}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ④ 增量与增速对应不同积累方式}
+\Box{108}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}最近一年，欧洲净增 2,867 人最多，中国净增 982 人、增幅 8.1\% 为五域最高。规模基础与增长速度并不形成相同排序，需要联合阅读；人才培养和政策成效仍需另行跟踪，不能由人数变化直接推定。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{13}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.4 中国城市：积累与成长}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 固定十城进一步展示人才网络的空间层次。规模、净增和增速回答不同问题；城市数据提供直接观察，避免从省级表现推断杭州等单个城市。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-12.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-12　中国固定十城的人才规模与增长。来源：编制组十城年度归档，2022—2026 报告年度。固定十城不是全国城市完整排名；人数变化不等于人才迁移或培养效果。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 京沪居前，多个城市形成合作节点}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}十城合计 3,590 人，北京 971 人、上海 913 人；杭州 486 人，随后为深圳和台北。成都、武汉等城市也有可连接的参与基础。地区合作宜围绕共同项目和维护需求组织，地图位置本身尚不能证明城市之间已形成分工。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 增长来源超出既有规模中心}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}京沪占十城人数 52.5\%，占 2022—2026 年净增的 49.3\%；其余八城带来略多于一半的增量。既有中心保持规模优势，成长来源则更广；这组固定样本尚不覆盖全国城市。}
+\Box{15}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 较小节点的成长值得被看见}
+\Box{15}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}五年间，武汉增长 45.8\%、成都增长 43.7\%，分别净增 33 人和 55 人；北京、上海增加 181 人和 175 人。高增幅与大增量各有含义。资源配置应同时考虑既有任务负荷和成长潜力，避免由单一规模或增速决定支持次序。}
+\Box{108}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ④ 杭州的近期增长值得继续跟踪}
+\Box{108}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}最近一年，杭州由 414 人增至 486 人，增长 17.4\%，为十城最高；上海净增 118 人最多。后续可结合维护职责和跨组织协作检验持续性，并进一步观察人才如何参与代码、模型与数据资源建设。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{14}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.5 全球开源资产地图}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 参与者通过协作形成代码、模型与数据供给。本节将“资产”用于指这些可积累、分发的数字资源；分别观察数量、增长与下载，不将不同资源相加为一个总量，也不作财务估值。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-13.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-13　三类资源的地域分布与增长。来源：GitHub Innovation Graph、HF Summer 2026、发布者归档样本。时间与覆盖各异；地域样本日期待核，详见附录 A4。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 共同底座，三种不同的资源}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}代码承载可修改的软件，模型提供可调用、可改造的智能能力，数据支持训练、评测与适配。三类资源相互依赖；地图展示它们的供给位置，不把仓库数量相加为一个“资产总量”。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 不同资源呈现不同地域位置}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}在各自样本中，美国均居前列；印度的公开代码仓库接近美国，中国的模型与数据集数量均居第二。代码积累的广泛分布与模型供给的集中格局并存，单一平台或单类资源难以概括整体生态。}
+\Box{15}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 多类资源在各自窗口内扩张}
+\Box{15}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}公开代码仓库一年增长 22.3\%；HF 模型、数据集在 2026 年 1—8 月增长约 21.8\%、40.6\%。这些窗口各异的观察，共同呈现供给扩展；不能直接比较增速高低或将增长全部归因于 AI。}
+\Box{108}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ④ 供给位置与下载分布有所不同}
+\Box{108}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}发布者样本中，美国的数据集数量占 47.8\%，下载占 82.6\%。数量分布与下载集中度存在差异。下载记录反映资源获取与分发，尚不能证明生产部署、独立用户规模或已经实现的公共价值。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{15}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.5 代码资产：积累与生产节奏}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 公开仓库存量刻画积累，活跃仓库反映参与运转的基础，代码提交与公开贡献则揭示当期生产和协作的节奏。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-14.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-14　公开代码仓库、增长与生产节奏。来源：GitHub Innovation Graph（2026 Q2）、平台活跃仓库归档、Octoverse 2026（2025.10—2026.09）。公开贡献与全部提交不相加。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 存量与活跃分别呈现资源基础}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}已披露地域的公开仓库合计 4.54 亿，为 2020 年同期的 3.45 倍。另一组报告年度数据中，GitHub、Gitee 活跃仓库为 633 万、439 万。存量、活跃和平台覆盖不同，不能据此计算统一活跃率。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 全球南方拥有可见的供给基础}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}印度、巴西、印度尼西亚分别有约 7,474 万、2,127 万和 1,138 万公开仓库，孟加拉国、尼日利亚也进入前二十。广泛的代码参与为本地应用与 AI 适配提供入口，其质量和持续维护仍需另行观察。}
+\Box{15}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 增长路径分化，不能只比较位次}
+\Box{15}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}美国与印度仓库存量接近，最近一年分别增长 17.0\% 和 35.0\%；巴西增长 24.7\%。中国合并内地及港澳台后约 3,388 万。地域数量受平台使用与归属方式影响，不足以单独判定技术领先。}
+\Box{108}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ④ 生产节奏加快，有效沉淀更关键}
+\Box{108}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}Octoverse 独立年度窗口内，GitHub 提交量为 343 亿次，公开贡献为 25 亿次。提交包括非公开活动，不能全部计为开源成果；在 AI 时代，识别有效供给仍需联看问题解决、测试、版本维护和下游复用。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{16}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.5 模型资产：供给与再分发}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 模型仓库包括原创模型，以及微调、量化和格式转换等再创造。数量、下载与派生分别观察供给、分发和接续；此处的模型记录不等同于完整开源 AI 系统。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-15.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-15　模型供给、数量增长与下载结构。来源：发布者归档、HF / F. Ríos 日度序列、HF Summer 2026、Longpre 等独立研究（截至 2025.08）。各样本和下载窗口见附录 A4。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 供给节点分布于多个区域}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}发布者样本中，美国有 45,801 个模型，中国有 6,017 个，法国、德国、芬兰及日韩、新加坡也有供给。地域节点显示多地参与的基础；具体发布主体、任务分工与生态连接仍需进一步识别。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 中国的下载份额高于数量份额}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}中国占样本模型数量的 8.3\%、下载的 12.6\%；美国分别为 63.4\%、73.9\%。两种份额揭示供给与分发的不同位置。下载不能直接解释为实际采用，其来源地域、用途和部署结果仍需另证。}
+\Box{15}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 适配与转换拓展资源可用性}
+\Box{15}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}HF 的 GGUF 格式仓库在 2026 年前七个月增长 464\%；这种格式便于本地运行。微调用于适配任务，量化通过降低数值精度压缩资源需求。数量扩张因而既含原创供给，也含围绕既有模型的再创造。}
+\Box{108}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ④ 全球接续需要区分观察群体}
+\Box{108}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}独立研究中，2024.08—2025.08 新发布模型的下载份额：中国 17.1\%、美国 15.8\%，个人及跨地域组织合计 57.6\%。这是特定模型群体的分发结构，不是总体市场份额，也不能与左侧地域样本直接拼接。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{17}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.5 数据资产：供给与可用条件}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 数据集提供训练、评测与本地化的材料。AI 将数据需求从文本扩展到动作、轨迹和环境交互，数据的可用性也因此更加重要。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-16.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-16　数据集供给、增长与下载差异。来源：发布者归档、HF Summer 2026、HF Spring 2026。下载按发布来源统计，不表示用户所在地；未列地域不按零值处理。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 数据供给的地域结构与模型不同}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}样本中，美国与中国分别有 5,871 和 1,338 个数据集；德国、法国之后，爱尔兰、马来西亚等也进入前列。较小经济体能够通过专业领域和语言资源形成贡献，不必复制大规模模型训练路线。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 数量基础还需连接获取与复用}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}中国占样本数据集数量的 10.9\%，高于其模型数量份额 8.3\%，数据集下载份额为 4.7\%。差异提示应检查语言、文档、格式、更新与分发条件；下载较少本身并不能证明质量或价值较低。}
+\Box{15}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 新增需求正在进入物理世界}
+\Box{15}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}HF 数据集总量在 2026 年 1—8 月从 71.1 万增至 100 万。机器人数据集从 2024 年的 1,145 个增至 2025 年的 26,991 个，约为前者的 23.6 倍；动作与交互记录正在成为训练智能系统的重要开放资源。}
+\Box{108}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ④ 资源供给引出行业应用问题}
+\Box{108}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}下载按资源发布者归属统计，集中于美国并不意味着需求只在那里。不同地区可以围绕本地语言和行业任务贡献数据；能否持续复用，还取决于使用条件、质量评测和维护。下一节据此转向行业应用线索。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{18}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.6 全球开源行业地图}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 资源可能服务于哪些行业？本节为期后探索专题：按北美行业分类体系（NAICS）估计仓库应用领域，分析 2026 年 11 月 9 日快照中的 18,086 个英文文本样本。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-17.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-17　19 个行业的位次与 2025 创建组规模。来源：团队 OpenDigger–NAICS 研究与复现包，2026-11-09 快照。年份为创建年份；每个仓库预测一类，方法见附录 A5。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 样本行业格局稳定，中部有交替}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}2021 与 2025 创建组的行业位次相关系数为 0.982，信息业始终居首，中部行业则有交替。这说明，在所分析样本中，较新仓库的 AI 表述增加可以伴随相近的行业构成。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 样本供给指向广泛的应用领域}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}2025 创建组中，信息业占 17.5\%，其余 82.5\% 被分入教育、专业服务、金融、制造等领域。行业标签补充了技术分类，但来自文本预测，不能外推为全部 GitHub 仓库或现实产业的占比。}
+\Box{15}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 教育与文娱的相对位置上移}
+\Box{15}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}教育由第 3 位升至第 2 位，份额由 10.9\% 变为 12.3\%；艺术娱乐休闲由第 7 位升至第 6 位，份额由 6.5\% 变为 7.8\%。它们提示开源供给具有广泛的知识与内容应用基础。}
+\Box{108}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ④ 位次须与份额结合判断}
+\Box{108}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}金融与保险由第 5 位升至第 4 位，份额却从约 8.2\% 变为 8.1\%；公用事业在第 3—7 位之间波动。相对位置变化不能直接解释为行业规模的增减，更不能替代实际使用评价。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{19}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.6 AI 提及：群体差异与行业落差}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 行业格局较为稳定，AI 相关表述却在不同创建群体和行业间呈现明显差异。这里的“AI 提及”指简介、标签和说明文本出现相关术语，是技术表述信号，不能直接等同于实际采用率。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-18.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-18　AI 提及的群体差异、词表对照及行业比较。来源：团队复现包。区间为 Wilson 95\% 区间，仅反映抽样波动，不含分类与选择偏差；AI 提及不等于采用率。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 较新仓库中的 AI 表述更普遍}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}宽词表下，2021 创建组为 6.1\%，2025 创建组为 24.2\%，相差 18.1 个百分点，约为前者的四倍。这是同一快照中的群体差异，反映技术表述变化，尚不能定位实际采用时间。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 行业落差大于总体平均所示}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}金融与保险为 40.1\%，公用事业为 8.1\%，相差约 32 个百分点。专业科技服务达到 47.3\%，但分类误差较大；建筑、行政支持等小样本行业的高比例也应谨慎解读。}
+\Box{15}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 收窄词表，主要信号依然存在}
+\Box{15}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}窄词表去除泛化机器学习用语后，2025 创建组仍达到 22.8\%，与宽词表相差约 1.4 个百分点。较新创建组的高提及比例，不完全由宽泛术语造成，但仍需实际功能与部署证据。}
+\Box{108}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ④ AI 信号并不局限于信息行业}
+\Box{108}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}制造、医疗与社会援助分别为 29.1\%、28.9\%，均高于全样本 24.2\%；信息业为 22.7\%。这为后续行业案例提供线索：应结合任务、数据与运行条件，核查技术表述如何转化为应用。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{20}
+\Box{15}{27}{180}{\fontsize{21}{27}\selectfont\color{ink}\sffamily \bfseries 2.6 行业规模与 AI 信号的错位}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 行业规模、AI 提及比例和 AI 相关仓库数量，需要联合判断。本图仍采用同一期后样本：面积表示 AI 提及仓库的数量，热力矩阵比较不同创建群体。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-2-19.pdf}}
+\Box{15}{199}{180}{\fontsize{7.8}{10.8}\selectfont\color{muted}\sffamily 图 2-19　AI 提及仓库构成、份额差与创建群体比较。来源：团队汇总表与研究图 3。面积分母为 2025 创建组 836 个 AI 提及仓库；＊专业科技分类待复核，重绘方法见附录 A5。}
+\Box{15}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ① 三个行业集中较多 AI 表述}
+\Box{15}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}2025 创建组中，专业科技、信息、金融合计 435 个 AI 提及仓库，占 52.0\%；三者占该组全部仓库的 36.9\%。AI 表述具有更强的行业集中性，专业科技分类误差也需同时考虑。}
+\Box{108}{211}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ② 规模优势与 AI 集中度并不一致}
+\Box{108}{217}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}信息业仓库最多，但 AI 提及数量为 137 个，低于专业科技服务的 186 个。专业科技、金融的 AI 仓库份额分别比自身仓库份额高 10.9、5.3 个百分点；观察需求应结合规模和结构。}
+\Box{15}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ③ 行业群体差异并非单向递增}
+\Box{15}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}制造、医疗在 2023 创建组的比例约为 23.7\%、23.5\%，高于 2024 组的 15.4\%、14.7\%，2025 组又较高。群体构成和文本更新均可能产生这种差异，不能直接视为应用曾经退潮。}
+\Box{108}{245}{87}{\fontsize{10.5}{14.2}\selectfont\color{teal}\sffamily \bfseries ④ 以行业任务检验公共价值}
+\Box{108}{251}{87}{\fontsize{10.1}{15.6}\selectfont\color{ink}公用事业与专业科技服务两端创建组的提及率差为 3.4、38.5 个百分点。差异提供案例选择线索；把文本信号转为决策依据，还需核实具体任务、成本、本地化、维护与结果，而不能将提及率直接当作采用率。}
+\end{canvas}
+\begin{canvas}\Header{第二章 · 全球开源生态地图}{teal}\Footer{21}
+\Box{15}{28}{180}{\fontsize{20}{26}\selectfont\color{ink}\sffamily \bfseries 本章小结｜从生态分布到公共能力}
+\Box{15}{45}{180}{\fontsize{10.3}{16.5}\selectfont\color{ink}六节观察呈现出一个共同问题：参与增长、资源扩张和协作影响具有不同的地域与行业结构。将开放资源转化为可持续公共能力，需要连接参与者、维护团队、使用场景与长期责任，不能只扩大可见数量。}
+\Box{15}{71}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries 本章形成的三项判断}
+\Box{15}{82}{180}{\fontsize{10.7}{16}\selectfont\color{ink}\sffamily \bfseries 全球协作具有多种参与位置}
+\Box{15}{88}{180}{\fontsize{9.8}{15}\selectfont\color{ink}人数、贡献和项目影响呈现不同次序。中国既有本地资源建设，也参与跨境协作；任何单一平台份额都不足以概括整体能力。}
+\Box{15}{104}{180}{\fontsize{10.7}{16}\selectfont\color{ink}\sffamily \bfseries 规模积累与成长节点需要并看}
+\Box{15}{110}{180}{\fontsize{9.8}{15}\selectfont\color{ink}印度、南方六国和中国城市样本显示不同成长节奏。增长提供合作机会，但不自动证明人才留存、项目维护或公共成效。}
+\Box{15}{126}{180}{\fontsize{10.7}{16}\selectfont\color{ink}\sffamily \bfseries 资源扩张使应用条件更加关键}
+\Box{15}{132}{180}{\fontsize{9.8}{15}\selectfont\color{ink}代码、模型与数据的数量和下载分布并不重合；行业 AI 表述提供探索线索，实际应用还需具体任务与结果证据。}
+\Box{15}{153}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries 行动方向｜在未来 6—12 个月形成可检验进展}
+\Box{15}{164}{180}{\fontsize{9}{13}\selectfont\color{muted}\sffamily 以下由本章证据引出的建议，供第六章综合评议；尚不是已验证的政策效果。}
+\Rule{15}{196}{195}{line}
+\Box{15}{176}{43}{\fontsize{10}{14}\selectfont\color{teal}\sffamily \bfseries 分层评价地区能力}
+\Box{15}{183}{43}{\fontsize{8.2}{12}\selectfont\color{muted}\sffamily 政府与研究机构}
+\Box{62}{176}{133}{\fontsize{9.4}{14.3}\selectfont\color{ink}据图 2-1—2-10，同列参与、贡献和项目影响；保留覆盖与时期。以同口径复算及项目抽样，检查增长是否伴随持续协作。}
+\Rule{15}{218}{195}{line}
+\Box{15}{198}{43}{\fontsize{10}{14}\selectfont\color{teal}\sffamily \bfseries 支持跨境共同维护}
+\Box{15}{205}{43}{\fontsize{8.2}{12}\selectfont\color{muted}\sffamily 基金会与项目团队}
+\Box{62}{198}{133}{\fontsize{9.4}{14.3}\selectfont\color{ink}据图 2-7、2-10，选择有明确需求的合作项目，配置多语文档、评审与维护资源。记录贡献采纳、共同维护职责及交接情况。}
+\Rule{15}{240}{195}{line}
+\Box{15}{220}{43}{\fontsize{10}{14}\selectfont\color{teal}\sffamily \bfseries 建设本地可用资源}
+\Box{15}{227}{43}{\fontsize{8.2}{12}\selectfont\color{muted}\sffamily 本地伙伴与公共机构}
+\Box{62}{220}{133}{\fontsize{9.4}{14.3}\selectfont\color{ink}据图 2-2、2-13—2-16，与南方社区共同确定语言和行业任务，配置适配、数据治理与维护预算；跟踪可获得性、成本与持续使用。}
+\Rule{15}{262}{195}{line}
+\Box{15}{242}{43}{\fontsize{10}{14}\selectfont\color{teal}\sffamily \bfseries 以城市和行业任务试点}
+\Box{15}{249}{43}{\fontsize{8.2}{12}\selectfont\color{muted}\sffamily 地方部门、高校与企业}
+\Box{62}{242}{133}{\fontsize{9.4}{14.3}\selectfont\color{ink}据图 2-12、2-17—2-19，连接维护者与真实需求；以成本、本地化、维护责任和实际结果四项记录检验成效，避免仅以数量验收。}
+\Box{15}{269}{180}{\fontsize{9}{13.3}\selectfont\color{muted}下一步：第三章识别关键主体，第四、五章进入技术与模型生态；第六章综合跨章证据，形成预测与行动建议。2030 情景持续校准，不作为政策效果承诺。}
+\end{canvas}
+\begin{canvas}\Header{附录 A · 第二章方法与证据}{teal}\Footer{A1}
+\Box{15}{28}{180}{\fontsize{20}{26}\selectfont\color{ink}\sffamily \bfseries 附录 A｜指标与统计覆盖}
+\Box{15}{43}{180}{\fontsize{9.8}{15.5}\selectfont\color{muted}\sffamily 本附录统一解释第二章 19 幅图的指标、时期和样本条件。基础数据来自固定归档与注明窗口的公开资料；尚未完成核验的生产与筛选条件分别说明。}
+\Box{15}{64}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries A1.1  核心指标：每一种计量回答一个问题}
+\Box{15}{77}{30}{\fontsize{10}{15}\selectfont\color{teal}\sffamily \bfseries 活跃与累计}
+\Box{48}{77}{147}{\fontsize{9.6}{14.6}\selectfont\color{ink}活跃是报告期内留下公开活动记录的账号，可能包括收藏、讨论或代码活动；累计还含当期未活跃账号。两者均非职业人口、国籍或 AI 研发人数。}
+\Box{15}{102}{30}{\fontsize{10}{15}\selectfont\color{teal}\sffamily \bfseries 贡献与项目影响}
+\Box{48}{102}{147}{\fontsize{9.6}{14.6}\selectfont\color{ink}开发者贡献 OpenRank 按协作网络计算，再按地域汇总；项目影响 OpenRank 观察项目的网络位置。二者对象不同，不相加，也不替代质量、收入或公共成效。}
+\Box{15}{127}{30}{\fontsize{10}{15}\selectfont\color{teal}\sffamily \bfseries 平均贡献}
+\Box{48}{127}{147}{\fontsize{9.6}{14.6}\selectfont\color{ink}同一时期、同一表的贡献总量÷活跃账号数，是地区比值；不是个人分布的中位数，也不是生产效率。同比与净增均为相邻期总量变化。}
+\Box{15}{152}{30}{\fontsize{10}{15}\selectfont\color{teal}\sffamily \bfseries 人才与数字资源}
+\Box{48}{152}{147}{\fontsize{9.6}{14.6}\selectfont\color{ink}人才采用个人全域 OpenRank 前 5\% 样本。资产计量仓库、模型和数据记录；不等同于原创作品数、法律权属或货币价值。具体限制见 A4。}
+\Box{15}{177}{30}{\fontsize{10}{15}\selectfont\color{teal}\sffamily \bfseries 下载与 AI 提及}
+\Box{48}{177}{147}{\fontsize{9.6}{14.6}\selectfont\color{ink}下载为资源获取记录，不等于用户数或生产采用。AI 提及为仓库文本出现词表术语，不等于功能实现、采用时间或行业应用率。}
+\Box{15}{204}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries A1.2  三类时间、三套覆盖}
+\Box{15}{215}{180}{\fontsize{9.6}{14.8}\selectfont\color{ink}报告年度：2026 年度为 2025-07-01—2026-06-30，历史年度按同样跨年窗口。自然年：贡献、项目影响部分历史及平均贡献另按 1—12 月。期后与独立窗口：2026 年 7 月人才快照、HF 夏季资料、Octoverse 独立年度，以及 11 月行业快照均单独标明。}
+\Box{15}{242}{180}{\fontsize{9.6}{14.8}\selectfont\color{ink}国家及省级 GitHub 估计、编制组五域综合序列、中国跨平台补充分别阅读。中国跨平台约 370 万＝GitHub 250.48 万＋国内平台去重补充约 120 万；不回填历史、不分摊省份、不再加入五域。五域中国为 454.534 万，两种综合数不能互换。}
+\Box{15}{269}{180}{\fontsize{8.7}{13}\selectfont\color{muted}\sffamily 地理标签表示可观察所在地或发布归属，不表示国籍。台湾、香港、澳门纳入中国；地图为统计示意，正式出版继续复核地图规范。}
+\end{canvas}
+\begin{canvas}\Header{附录 A · 第二章方法与证据}{teal}\Footer{A2}
+\Box{15}{28}{180}{\fontsize{20}{26}\selectfont\color{ink}\sffamily \bfseries 附录 A｜历史与情景方法}
+\Box{15}{45}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries A2.1  参与历史｜2022—2026 报告年度}
+\Box{15}{57}{180}{\sffamily\fontsize{9.2}{13.3}\selectfont\renewcommand{\arraystretch}{1.1}\setlength{\tabcolsep}{4pt}\begin{tabularx}{180mm}{@{}p{44mm}>{\raggedleft\arraybackslash}X>{\raggedleft\arraybackslash}X>{\raggedleft\arraybackslash}X>{\raggedleft\arraybackslash}X>{\raggedleft\arraybackslash}X@{}}\toprule 对象／单位 & 2022 & 2023 & 2024 & 2025 & 2026\\\midrule
+欧洲／万 & 370.35 & 414.79 & 464.56 & 520.48 & 675.39\\
+美国／万 & 252.43 & 282.72 & 316.65 & 354.60 & 465.15\\
+中国／万 & 237.79 & 266.80 & 299.60 & 320.00 & 454.53\\
+印度／万 & 125.90 & 149.80 & 178.30 & 212.20 & 272.36\\
+南方六国／万 & 134.60 & 161.50 & 193.80 & 232.62 & 300.46\\
+全球累计／亿 & 0.84 & 1.05 & 1.29 & 1.57 & 1.94\\
+全球活跃／万 & 1,543.27 & 1,794.31 & 2,009.11 & 2,644.05 & 2,890.37\\
+中国 GitHub／万 & 129.47 & 145.71 & 162.47 & 220.08 & 250.48\\
+\bottomrule\end{tabularx}}
+\Box{15}{116}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries A2.2  对应的 2030 情景端点}
+\Box{15}{128}{180}{\sffamily\fontsize{9.2}{13.3}\selectfont\renewcommand{\arraystretch}{1.1}\setlength{\tabcolsep}{4pt}\begin{tabularx}{180mm}{@{}p{44mm}>{\raggedleft\arraybackslash}X>{\raggedleft\arraybackslash}X>{\raggedleft\arraybackslash}X@{}}\toprule 对象／单位 & 历史年均增速 & 逐步放缓 & 历史延续\\\midrule
+欧洲／万 & 16.21\% & 972.53 & 1,231.67\\
+美国／万 & 16.51\% & 674.16 & 857.15\\
+中国／万 & 17.58\% & 674.01 & 868.83\\
+印度／万 & 21.28\% & 436.56 & 589.19\\
+南方六国／万 & 22.23\% & 491.27 & 670.69\\
+全球累计／亿 & 23.38\% & 3.25 & 4.49\\
+全球活跃／万 & 16.98\% & 4,231.74 & 5,413.33\\
+中国 GitHub／万 & 17.94\% & 374.24 & 484.59\\
+\bottomrule\end{tabularx}}
+\Box{15}{188}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries A2.3  统一算法与使用条件}
+\Box{15}{199}{180}{\fontsize{9.6}{15}\selectfont\color{ink}历史年均增速 g＝（末值÷首值）的四次方根−1。以末年为起点，延续情景每年按 g 复利增长；放缓情景第 h 年的增速为 g 乘以 0.8 的 h 次方，逐年复利。报告年度从 2027 年推演，自然年序列从 2026 年推演，均延长到 2030 年。}
+\Box{15}{226}{180}{\fontsize{9.6}{15}\selectfont\color{ink}0.8 为预设敏感性参数，并非拟合结果；两条路径不构成概率预测、置信区间或上下限承诺，也未单独估计 AI 与政策的因果效应。计算保留未舍入值，表格仅为展示取整。覆盖或生产规则变化时，须先校准序列再更新情景。}
+\Box{15}{254}{180}{\fontsize{9.3}{14.5}\selectfont\color{muted}五域不是全球完整分区。南方六国为巴西、印度尼西亚、越南、菲律宾、埃及、南非，印度单列；六国综合序列与 GitHub 细分不同。欧洲成员及历史聚合执行记录仍待补齐。}
+\end{canvas}
+\begin{canvas}\Header{附录 A · 第二章方法与证据}{teal}\Footer{A3}
+\Box{15}{28}{180}{\fontsize{20}{26}\selectfont\color{ink}\sffamily \bfseries 附录 A｜贡献与影响情景读数}
+\Box{15}{43}{180}{\fontsize{9.6}{15}\selectfont\color{muted}\sffamily 单位均为万 OpenRank。每行的历史首末值与 A2 算法足以复算端点；报告年度（2022→2026）与自然年（2021→2025）分别计算，覆盖不同，不用于相互换算。}
+\Box{15}{66}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries A3.1  开发者贡献}
+\Box{15}{78}{180}{\sffamily\fontsize{9.1}{13.3}\selectfont\renewcommand{\arraystretch}{1.1}\setlength{\tabcolsep}{4pt}\begin{tabularx}{180mm}{@{}p{44mm}>{\raggedleft\arraybackslash}X>{\raggedleft\arraybackslash}X>{\raggedleft\arraybackslash}X>{\raggedleft\arraybackslash}X@{}}\toprule 对象·窗口 & 历史首值 & 历史末值 & 2030 放缓 & 2030 延续\\\midrule
+欧洲·报告 & 472.40 & 650.16 & 787.29 & 894.82\\
+中国·报告 & 133.57 & 442.92 & 934.57 & 1,468.69\\
+美国·报告 & 340.43 & 423.97 & 483.26 & 528.02\\
+南方六国·报告 & 79.70 & 105.35 & 124.47 & 139.24\\
+印度·报告 & 68.10 & 89.47 & 105.32 & 117.54\\
+全球·自然 & 1,385.82 & 1,894.35 & 2,345.26 & 2,799.97\\
+美国·自然 & 340.67 & 423.69 & 491.40 & 556.47\\
+中国·自然 & 80.10 & 121.04 & 160.70 & 202.79\\
+\bottomrule\end{tabularx}}
+\Box{15}{139}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries A3.2  项目影响}
+\Box{15}{151}{180}{\sffamily\fontsize{9.1}{13.3}\selectfont\renewcommand{\arraystretch}{1.1}\setlength{\tabcolsep}{4pt}\begin{tabularx}{180mm}{@{}p{44mm}>{\raggedleft\arraybackslash}X>{\raggedleft\arraybackslash}X>{\raggedleft\arraybackslash}X>{\raggedleft\arraybackslash}X@{}}\toprule 对象·窗口 & 历史首值 & 历史末值 & 2030 放缓 & 2030 延续\\\midrule
+美国·报告 & 134.19 & 175.14 & 205.36 & 228.58\\
+中国·报告 & 27.74 & 72.10 & 129.92 & 187.42\\
+欧洲·报告 & 13.50 & 18.35 & 22.05 & 24.94\\
+南方六国·报告 & 0.42 & 0.60 & 0.74 & 0.85\\
+印度·报告 & 0.28 & 0.41 & 0.52 & 0.61\\
+全球·自然 & 176.68 & 273.91 & 370.25 & 473.84\\
+美国·自然 & 137.18 & 188.16 & 233.51 & 279.31\\
+中国·自然 & 23.44 & 55.08 & 100.32 & 160.28\\
+\bottomrule\end{tabularx}}
+\Box{15}{214}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries A3.3  连接解释，保留证据边界}
+\Box{15}{225}{180}{\fontsize{9.6}{15}\selectfont\color{ink}贡献来源与项目归属可以分离：同一地区的参与者可能建设其他地区的项目。图 2-8 的三类份额使用同一组 29 国，但分别以活跃人数 2,181.30 万、贡献度 1,147.66 万、项目影响 222.08 万为分母，不能互作“转化率”。}
+\Box{15}{252}{180}{\fontsize{9.3}{14.5}\selectfont\color{muted}国家公开表含地理估计，相关生产代码有年度调整处理，具体执行映射仍需核对。五域是独立归档；中国五域与国家公开表的差额不能全部解释为国内平台贡献。}
+\end{canvas}
+\begin{canvas}\Header{附录 A · 第二章方法与证据}{teal}\Footer{A4}
+\Box{15}{28}{180}{\fontsize{20}{26}\selectfont\color{ink}\sffamily \bfseries 附录 A｜样本与资产口径}
+\Box{15}{45}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries A4.1  跨境协作与中国项目}
+\Box{15}{55}{180}{\fontsize{9.4}{14.5}\selectfont\color{ink}图 2-7 依据中美项目来源前十表，共 20 条记录、14 个来源国家，主期为 2025.07—2026.06。项目完整名单尚未补齐，结论限于原表样本；未列来源保持未知。图 2-10 的 30 项标签合计 176,313.03 OpenRank，时间窗口、标签重叠和归属规则待核，不作为全国完整项目总量。}
+\Box{15}{89}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries A4.2  人才与固定十城}
+\Box{15}{99}{180}{\fontsize{9.4}{14.5}\selectfont\color{ink}沿用“个人全域 OpenRank 前 5\%”定义；比较总体、得分窗口、并列处理、身份去重和机器人剔除执行记录仍待核。全球地图为 2026 年 7 月快照，五域、十城为报告年度，不能相互拼接。十城合计 3,590 人仅是固定样本；人数变化不等于迁移、留存或政策效果。}
+\Box{15}{133}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries A4.3  代码：存量、活跃与事件分开计量}
+\Box{15}{143}{180}{\fontsize{9.4}{14.5}\selectfont\color{ink}Innovation Graph 为季末公开仓库存量，按具有事务分拣（triage）及以上权限成员的地域众数归属，包含不活跃仓库。排除欧盟汇总行避免重复，中国合并内地及港澳台；4.54 亿为已披露地域合计，历史均取第二季度。活跃仓库沿用年度归档，GitHub 与 Gitee 未跨平台去重，不能相加或与存量求统一活跃率。}
+\Box{15}{183}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries A4.4  模型与数据：发布归属不等于用户位置}
+\Box{15}{193}{180}{\fontsize{9.4}{14.5}\selectfont\color{ink}地域归档覆盖 826 个发布单位、63 个国家与地区：模型 72,280 个、下载约 600 亿次；数据集 12,291 个、下载约 8.06 亿次。原表分别列 14 个地域，未列不补零；快照、筛选及累计下载窗口待核。资源公开不自动等于符合完整开源条件，下载也不等于部署。}
+\Box{15}{227}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries A4.5  平台资料与独立研究另用自己的窗口}
+\Box{15}{237}{180}{\fontsize{9.4}{14.5}\selectfont\color{ink}HF 夏季材料为 2026 年 1—8 月，部分分析截至 7 月；日度模型曲线截至 2025-12-08。Longpre 等比较全历史模型与 2024.08—2025.08 新发布模型，并采用滚动窗口过滤；两组不是可直接相减的年度市场份额。机器人数据集沿用 HF 春季材料的 2024、2025 年计数。}
+\end{canvas}
+\begin{canvas}\Header{附录 A · 第二章方法与证据}{teal}\Footer{A5}
+\Box{15}{28}{180}{\fontsize{20}{26}\selectfont\color{ink}\sffamily \bfseries 附录 A｜行业专题方法}
+\Box{15}{45}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries A5.1  期后快照与样本构成}
+\Box{15}{55}{180}{\fontsize{9.5}{14.8}\selectfont\color{ink}2026-11-09 在 OpenDigger 跟踪的公开、非 Fork（非平台复制）仓库中，按 2021—2025 创建年份各抽取 4,000 个，候选池共 269,767 个。以前 2,000 字符中 ASCII 比例大于 90\% 近似筛选英文，保留 18,086 个；各年依次为 3,761、3,713、3,635、3,516、3,461。未逐仓核验许可，不能外推到全部 GitHub 或中国、全球南方整体。}
+\Box{15}{94}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries A5.2  从行业标准到仓库应用标签}
+\Box{15}{104}{180}{\fontsize{9.5}{14.8}\selectfont\color{ink}NAICS 原用于企业经营单位，本研究迁移为仓库应用领域标签，覆盖 19 类，不含企业管理类（55）。采用 NAICS-GH 的 5,270 个训练及验证样本训练词语、字符特征线性分类器，另以 1,318 个测试。准确率 76.3\%，加权 F1 为 75.8\%；F1 同时衡量误分与漏分。专业科技服务 F1 为 0.54，金融为 0.90，公用事业为 0.88；测试表现不等于本章样本准确率。}
+\Box{15}{149}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries A5.3  AI 表述、群体差异与统计区间}
+\Box{15}{159}{180}{\fontsize{9.5}{14.8}\selectfont\color{ink}在简介、标签和 README（项目说明）合并文本前 1,800 字符识别 AI／机器学习词语；窄词表去掉泛化机器学习用语。所有文本来自同一快照，年份只表示仓库创建群体，不能还原历年采用率或识别生成式 AI 的因果影响。Wilson 95\% 区间只反映抽样波动，不覆盖分类错误、词表误差或样本选择偏差；图中另标 n＜100 的行业。}
+\Box{15}{204}{180}{\fontsize{12}{18}\selectfont\color{teal}\sffamily \bfseries A5.4  图表复核与待补证据}
+\Box{15}{214}{180}{\fontsize{9.5}{14.8}\selectfont\color{ink}图 2-17 的 Spearman 位次相关系数按原研究结果报告，图上并列名次按最小名次表示。图 2-19 的 30 个行业分年值由提供的矢量图恢复，结合整数分母校准，并与 2025 汇总表核对；原始分年明细仍待补归档。专业科技与小样本分类应抽查，多语覆盖、实际复用与行业结果需要进一步证据。}
+\Box{15}{266}{180}{\fontsize{9.2}{13.5}\selectfont\color{muted}\sffamily 本专题只提供结构线索：不把 AI 关键词视为应用成效，不将创建群体差异延长为 2030 数值预测。}
+\end{canvas}
+\begin{canvas}\Header{附录 A · 第二章方法与证据}{teal}\Footer{A6}
+\Box{15}{28}{180}{\fontsize{20}{26}\selectfont\color{ink}\sffamily \bfseries 附录 A｜来源索引}
+\Box{15}{43}{180}{\fontsize{9.5}{14.5}\selectfont\color{muted}\sffamily 图题已给出直接来源与关键窗口。以下索引提供可点击出处；图件、原表、派生数据和文件指纹保留在配套结构化源稿中。来源列示不消除各页注明的样本限制。}
+\Box{15}{64.0}{180}{\sffamily\fontsize{9.3}{13.5}\selectfont\textcolor{teal}{S01}\hspace{2mm}\href{https://open-share.com/insight/open-world/gosd}{OpenShare · GOSD 年度统计与主统计期}}
+\Box{27}{70.0}{168}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 图 2-1—2-10；公开数据读取 2026-11-09，元数据更新 2026-10-08。}
+\Box{15}{79.8}{180}{\sffamily\fontsize{9.3}{13.5}\selectfont\textcolor{teal}{S02}\hspace{2mm}\href{https://open-share.com/insight/open-world}{OpenShare · 全球宏观洞察（自然年）}}
+\Box{27}{85.8}{168}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 图 2-4—2-6、2-9 的自然年序列；须与报告年度分开。}
+\Box{15}{95.6}{180}{\sffamily\fontsize{9.3}{13.5}\selectfont\textcolor{teal}{S03}\hspace{2mm}\href{https://github.com/will-ww/2026-GOSD-Report/tree/497478a19e92c676c225893a395738e747a71c8b/reports/round2-v2.0/source/chapters/02/modules/02/data/}{GOSD 2026 编制组 · 第二章归档与补充资料}}
+\Box{27}{101.6}{168}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 图 2-1—2-16；公开归档 497478a，另含编制组确认的综合序列及平台补充。}
+\Box{15}{111.4}{180}{\sffamily\fontsize{9.3}{13.5}\selectfont\textcolor{teal}{S04}\hspace{2mm}\href{https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/src/dataProduction/openshareOverview.ts}{OpenDigger · 宏观统计生产代码（固定版本）}}
+\Box{27}{117.4}{168}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 地理估计与年度处理规则参考；与已发布 JSON 的执行映射待核。}
+\Box{15}{127.2}{180}{\sffamily\fontsize{9.3}{13.5}\selectfont\textcolor{teal}{S05}\hspace{2mm}\href{https://github.com/github/innovationgraph/blob/main/data/repositories.csv}{GitHub Innovation Graph · Repositories / Datasheet}}
+\Box{27}{133.2}{168}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 图 2-13—2-14；读取 2026-11-10，数据版本 4b6d36c2。}
+\Box{15}{143.0}{180}{\sffamily\fontsize{9.3}{13.5}\selectfont\textcolor{teal}{S06}\hspace{2mm}\href{https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/}{GitHub · Octoverse 2026：Commits and pushes}}
+\Box{27}{149.0}{168}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 图 2-14；独立观察窗口 2025.10—2026.09。}
+\Box{15}{158.8}{180}{\sffamily\fontsize{9.3}{13.5}\selectfont\textcolor{teal}{S07}\hspace{2mm}\href{https://huggingface.co/blog/state-of-open-models-summer-2026}{Hugging Face · State of Open Models: Summer 2026}}
+\Box{27}{164.8}{168}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 图 2-13、2-15—2-16；1—8 月观察，部分分析截至 7 月。}
+\Box{15}{174.60000000000002}{180}{\sffamily\fontsize{9.3}{13.5}\selectfont\textcolor{teal}{S08}\hspace{2mm}\href{https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026}{Hugging Face · State of Open Source: Spring 2026}}
+\Box{27}{180.60000000000002}{168}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 图 2-16 的机器人数据集计数：2024、2025 年。}
+\Box{15}{190.4}{180}{\sffamily\fontsize{9.3}{13.5}\selectfont\textcolor{teal}{S09}\hspace{2mm}\href{https://aiworld.eu/story/hugging-faces-two-million-models-and-counting}{F. Ríos / AI World · Two Million Models and Counting}}
+\Box{27}{196.4}{168}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 图 2-15 的日度模型序列：2022-03-02—2025-12-08。}
+\Box{15}{206.20000000000002}{180}{\sffamily\fontsize{9.3}{13.5}\selectfont\textcolor{teal}{S10}\hspace{2mm}\href{https://www.dataprovenance.org/economies-of-open-intelligence.pdf}{Longpre et al. · The Economies of Open Intelligence}}
+\Box{27}{212.20000000000002}{168}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 图 2-15 下载结构，采用原研究图 1 的群体和过滤条件。}
+\Box{15}{222.0}{180}{\sffamily\fontsize{9.3}{13.5}\selectfont\textcolor{teal}{S11}\hspace{2mm}团队研究 · Stable Structure, Uneven Diffusion}
+\Box{27}{228.0}{168}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 图 2-17—2-19；配套《开源仓库行业版图数据报告》、复现包及汇总表。}
+\Box{15}{237.8}{180}{\sffamily\fontsize{9.3}{13.5}\selectfont\textcolor{teal}{S12}\hspace{2mm}\href{https://arxiv.org/abs/2607.06505}{Xu \& Quispe (2026) · GitHub Repositories / NAICS}}
+\Box{27}{243.8}{168}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 行业分类参考论文，arXiv:2607.06505；非本章复现结果的替代。}
+\Box{15}{253.60000000000002}{180}{\sffamily\fontsize{9.3}{13.5}\selectfont\textcolor{teal}{S13}\hspace{2mm}\href{https://huggingface.co/datasets/aquiro1994/naics-gh}{NAICS-GH 数据集；美国人口普查局 NAICS}}
+\Box{27}{259.6}{168}{\fontsize{8.5}{12}\selectfont\color{muted}\sffamily 分类训练数据 6,588 个标注仓库；官方分类体系见 census.gov/naics。}
+\Box{15}{274}{180}{\sffamily\fontsize{8.6}{12}\selectfont\href{https://www.census.gov/naics/}{NAICS 官方说明}　｜　主统计期：2025-07-01—2026-06-30；期后及独立窗口已分别标注。}
+\end{canvas}
+\end{document}

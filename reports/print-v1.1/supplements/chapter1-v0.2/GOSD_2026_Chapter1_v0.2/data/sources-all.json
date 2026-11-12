@@ -1,0 +1,114 @@
+[
+  {
+    "id": "S1",
+    "name": "GitHub Octoverse 2026",
+    "date": "2026-10-28；更新2026-11-06",
+    "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+    "locator": "Developers are reshaping their workflow",
+    "scope": "PR起草：2026年3月与9月；Copilot用户：外部年度观察；9月与报告发布时的观察为期后信息。",
+    "checked": "2026-11-10"
+  },
+  {
+    "id": "S2",
+    "name": "GitHub Copilot Agents application card",
+    "date": "读取2026-11-10",
+    "url": "https://docs.github.com/en/copilot/responsible-use/agents",
+    "locator": "Limitations / human review and testing",
+    "scope": "当前产品文档；仅用于解释协作机制及审查责任，不回填历史统计。",
+    "checked": "2026-11-10"
+  },
+  {
+    "id": "S3",
+    "name": "DeepSeek Open Infra官方索引",
+    "date": "2025年2月开源周",
+    "url": "https://github.com/deepseek-ai/open-infra-index#202502-open-source-week",
+    "locator": "Day 1–5；FlashMLA、DeepEP、DeepGEMM、DualPipe、3FS",
+    "scope": "主统计期以前的历史组件职责，不混用当前分支的硬件支持状态。",
+    "checked": "2026-11-10"
+  },
+  {
+    "id": "S4",
+    "name": "NVIDIA: Build Custom Reasoning Models with Advanced, Open Post-Training Datasets",
+    "date": "2025-05-14",
+    "url": "https://developer.nvidia.com/blog/build-custom-reasoning-models-with-advanced-open-post-training-datasets/",
+    "locator": "Table 2；data curation；model release list",
+    "scope": "历史案例；图中3个生成模型的原表样本记录，不作全表或国别占比推导。",
+    "checked": "2026-11-10"
+  },
+  {
+    "id": "S5",
+    "name": "Llama-Nemotron-Post-Training-Dataset 数据集卡",
+    "date": "固定历史版本04d0854",
+    "url": "https://huggingface.co/datasets/nvidia/Llama-Nemotron-Post-Training-Dataset/blob/04d085443485c2b8e14ad5f518005c769deb4904/README.md",
+    "locator": "数据来源模型、样本数与后训练用途",
+    "scope": "历史数据集卡，用于交叉核对选定模型条目。",
+    "checked": "2026-11-10"
+  },
+  {
+    "id": "S6",
+    "name": "联合国：可持续发展目标（SDGs）",
+    "url": "https://sdgs.un.org/goals",
+    "date": "2030年可持续发展议程；2015年通过",
+    "locator": "17个目标与全球伙伴关系",
+    "checked": "2026-11-10",
+    "scope": "发展目标背景，不作为本报告测量结果。"
+  },
+  {
+    "id": "S7",
+    "name": "Digital Public Goods Alliance：Digital Public Goods Standard",
+    "url": "https://www.digitalpublicgoods.net/standard",
+    "date": "当前公开标准；读取2026-11-10",
+    "locator": "9项指标；Disclaimers & Considerations第1条",
+    "checked": "2026-11-10",
+    "scope": "现行资源标准参照；认可针对核心方案设计，不包含地方实施效果评价。九项要求为中文概述；标准CC BY-SA 4.0。"
+  },
+  {
+    "id": "S8",
+    "name": "Stinckwich等：AI Systems as Digital Public Goods",
+    "url": "https://unu.edu/sites/default/files/2026-06/AI_Systems_as_Digital_Public_Goods_0.pdf",
+    "date": "2026-06-25",
+    "locator": "第14、43—46、50—52页",
+    "checked": "2026-11-10",
+    "scope": "UNU与ADB、UN ODET研究；主期内发布，建议为非约束性研究输入。本节不转载原图，不引用存在21/20差异的访谈百分比。"
+  },
+  {
+    "id": "S9",
+    "name": "GOSD报告宪法与第一章v0.5研究框架",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/tree/main/editions/insights/chapters/01/v0.5",
+    "date": "2026-11-09起的现行框架；读取2026-11-10",
+    "locator": "四支柱、十方向、29项候选指标；主统计期及四视角职责",
+    "checked": "2026-11-10",
+    "scope": "报告编制组研究设计，不是联合国认证、国家综合评分或全部已实测指标。"
+  },
+  {
+    "id": "S10",
+    "name": "OpenDigger：Global OpenRank Influence",
+    "url": "https://open-digger.cn/en/docs/user_docs/metrics/global_openrank",
+    "date": "动态方法文档；读取2026-11-10",
+    "locator": "Definition / Value Proposition / Parameters",
+    "checked": "2026-11-10",
+    "scope": "开发者—仓库网络与历史延续的概念解释；不新增测量，不把网络位置解释为社会成效。"
+  },
+  {
+    "id": "S11",
+    "name": "OpenDigger：Activity",
+    "url": "https://open-digger.cn/en/docs/user_docs/metrics/activity",
+    "date": "动态方法文档；读取2026-11-10",
+    "locator": "Definition与协作行为范围",
+    "checked": "2026-11-10",
+    "scope": "活跃度是按协作事件加权的指标；不等于活跃人数，也不等于OpenRank。"
+  },
+  {
+    "id": "S12",
+    "name": "GOSD第二、三章合稿评审材料",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/tree/main/editions/insights",
+    "date": "本轮读取最新可用合稿2026-11-10",
+    "locator": "第二章2.1参与、2.2贡献与2.3项目影响；第三章地区、企业与基金会榜单",
+    "checked": "2026-11-10",
+    "scope": "用于核对术语、统计单位与阅读路径。后续章节仍以各自图注、原始序列及评审状态为准。",
+    "local_files": [
+      "GOSD_2026_Chapter2_Merged_Review_v0.1.pdf",
+      "GOSD_2026_Chapter3_Merged_Review_v0.1.pdf"
+    ]
+  }
+]

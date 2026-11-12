@@ -1,0 +1,160 @@
+[
+  {
+    "section": "3.3",
+    "title": "3.3 全球开源基金会影响力排行榜",
+    "intro": "基金会把分散的项目、维护者与资源连接为共同建设的组织网络。从国别分布进入项目组合，才能理解开放资源由谁持续支持，以及榜单覆盖了什么。",
+    "figure": "fig-3-7-foundations",
+    "caption": "图 3-7　全球基金会榜、国别及项目与仓库覆盖。榜值沿用原表［F1］；项目与仓库按 OpenDigger 标签查询［F2］（2026.11.10 快照，回溯 2025.07—2026.06）。DuckDB、Eclipse 国别据官网补正［F3–F4］。",
+    "analyses": [
+      [
+        "① 前列是不同组织范围的共同建设网络",
+        "LF、开放原子与 Apache 位居原榜前三。LF 条目包含子基金会，其他条目的项目组合也各不相同。排名适合作为寻找合作网络的入口，不宜以分值直接评价机构效率或治理质量。"
+      ],
+      [
+        "② 组织落点集中，协作范围仍可跨越国界",
+        "前二十条目覆盖六个国别，美国占十三，荷兰占三；中国、日本、瑞士与比利时各一。这里呈现机构标签与归属资料，不能据此把其全部项目和贡献者归入同一国家。"
+      ],
+      [
+        "③ 从基金会名称继续进入具体项目",
+        "项目标签揭示组织之内的供给组合。开放原子有四十一个已识别项目，Apache 有二十五个；LF 标签族共识别一百八十一个项目。识别组合有助于把支持资金落实到具体维护对象。"
+      ],
+      [
+        "④ 仓库广度应与项目组织方式一起阅读",
+        "主期可见仓库中，开放原子为 19,043 个，LF 标签族去重为 2,981 个，Apache 为 1,322 个。同一个项目可能拆分为许多仓库，组织标签的覆盖也不均衡，数量差异不能直接解释为产出或公共价值差距。"
+      ]
+    ],
+    "sources": [
+      {
+        "id": "F1",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-3-1_global_foundation_openrank.csv"
+      },
+      {
+        "id": "F2",
+        "url": "https://github.com/X-lab2017/open-digger/tree/master/labeled_data/foundations"
+      },
+      {
+        "id": "F3",
+        "url": "https://duckdb.foundation/"
+      },
+      {
+        "id": "F4",
+        "url": "https://www.eclipse.org/org/foundation/annual-reports/2025/"
+      }
+    ],
+    "claim_ids": [
+      "I06",
+      "I09"
+    ]
+  },
+  {
+    "section": "3.3",
+    "title": "3.3.1 LF 内部：多层技术供给与维护重心",
+    "intro": "LF 旗下的组织组合同时覆盖云原生、AI、Web、安全与硬件。本图从有主期记录的十三个子标签展开，观察规模、核心仓库与相对位次，而不把它们视为互不重叠的资产包。",
+    "figure": "fig-3-8-lf-subfoundations",
+    "caption": "图 3-8　LF 子标签的规模、月度位次及项目组合。来源：OpenDigger 标签与 global_openrank［F2］；2025.07—2026.06，按 2026.11.10 标签回溯。标签分值沿用原聚合方式；跨标签与组织／仓库映射可能重叠，不相加推算 LF 唯一总量。",
+    "analyses": [
+      [
+        "① 云原生与 AI 构成前列的两个重点",
+        "CNCF 与 PyTorch 分列样本前两位，OpenJS 随后。基金会提供的公共基础覆盖运行环境、计算框架和开发工具；支持 Agent 与模型应用，需要同时关注这些已有的软件基础。"
+      ],
+      [
+        "② 安全标签前移，提示持续维护的需求",
+        "OpenSSF 在固定样本中的月度名次由第八升至第六，RISC-V 则由第六至第八，Hyperledger 回到第七。这反映相对协作位置变化，可作为追踪维护重点的信号，不能直接推断技术质量或安全成效。"
+      ],
+      [
+        "③ 核心集中程度提示不同的支持任务",
+        "PyTorch 首位仓库占标签分值的 39.2%，前三位占 73.5%；CNCF 分别为 5.2% 和 10.8%。前者更应检查核心仓库的维护接续，后者更需要跨项目协调；这些结构差异是核查入口，不等于风险高低的直接结论。"
+      ],
+      [
+        "④ 项目标签与代码仓库应保持两个尺度",
+        "CNCF 的七十个项目标签对应 1,339 个主期仓库，PyTorch 的五个项目标签对应 102 个。两种数字分别回答“有哪些项目”和“观察到哪些代码单元”；它们受映射覆盖影响，不宜当作官方完整托管清单。"
+      ]
+    ],
+    "sources": [
+      {
+        "id": "F2",
+        "url": "https://github.com/X-lab2017/open-digger/tree/master/labeled_data/foundations"
+      }
+    ],
+    "claim_ids": [
+      "I02",
+      "I06",
+      "I09"
+    ]
+  },
+  {
+    "section": "3.3",
+    "title": "3.3.2 AAIF：Agent 协作的公共组件",
+    "intro": "Agentic AI Foundation（AAIF）于 2025 年 12 月成立于 LF 框架下。其意义不只在于聚集热门项目，更在于让连接、指引、执行与运行环境获得跨组织共同演进的空间。",
+    "figure": "fig-3-9-aaif",
+    "caption": "图 3-9　AAIF 项目扩展、功能分工、协作记录与治理条件。成立及加入资料［A1–A4、A7–A8］；OpenDigger 主期记录［F2］。期后目录截至 2026.11.10；生命周期政策为 2026.10.15 版［A5］，不回溯为主期制度。",
+    "analyses": [
+      [
+        "① 扩展发生在清楚可辨的时间边界内",
+        "主期内从三个创始项目扩至四个；A2A 与 Agent Router 以及十月的四个新项目均属期后加入。主期末的四个项目与当前十个项目分别陈述，才能看清组织扩展，而不夸大全年托管规模。"
+      ],
+      [
+        "② 中国贡献可以体现为可复用公共组件",
+        "功能地图覆盖指引、互通、执行、流量管理与训练。阿里巴巴贡献的 OpenSandbox 于十月加入，为 AI 应用提供统一沙箱接口。这是中国资源进入全球共同建设的具体例证，实际使用与维护效果仍需继续跟踪。"
+      ],
+      [
+        "③ 协作记录与使用扩散需要分别观察",
+        "十二月至六月，agentgateway 的标签分值由 20.9 至 34.5，MCP 与 goose 的可见分值则下降。协议采用、工具使用和仓库协作并非同一个量；这些变化不能直接解释为市场采用变化或基金会支持成败。"
+      ],
+      [
+        "④ 公共能力需要治理门槛与使用者参与",
+        "现行政策把可运行实现、外部生产使用和持续维护纳入分阶段要求。期后 Gates Foundation 加入并支持非洲开发者参与［A6］，提供了扩大代表性的路径；后续应跟踪本地化成本、维护接续与服务结果，而非仅统计成员增长。"
+      ]
+    ],
+    "sources": [
+      {
+        "id": "F2",
+        "url": "https://github.com/X-lab2017/open-digger/tree/master/labeled_data/foundations"
+      },
+      {
+        "id": "F3",
+        "url": "https://duckdb.foundation/"
+      },
+      {
+        "id": "F4",
+        "url": "https://www.eclipse.org/org/foundation/annual-reports/2025/"
+      },
+      {
+        "id": "A1",
+        "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation"
+      },
+      {
+        "id": "A2",
+        "url": "https://aaif.io/blog/agentgateway-joins-aaif-as-an-open-gateway-for-agentic-ai-infrastructure"
+      },
+      {
+        "id": "A3",
+        "url": "https://aaif.io/news/agentic-ai-foundation-announces-four-new-projects"
+      },
+      {
+        "id": "A4",
+        "url": "https://aaif.io/projects"
+      },
+      {
+        "id": "A5",
+        "url": "https://github.com/aaif/technical-committee/blob/main/governance/project-lifecycle-policy.md"
+      },
+      {
+        "id": "A6",
+        "url": "https://www.linuxfoundation.org/press/agentic-ai-foundation-welcomes-the-gates-foundation-to-help-expand-the-benefits-of-agentic-ai-globally"
+      },
+      {
+        "id": "A7",
+        "url": "https://aaif.io/blog/a2a-joins-aaif"
+      },
+      {
+        "id": "A8",
+        "url": "https://aaif.io/blog/agent-router-joins-aaif"
+      }
+    ],
+    "claim_ids": [
+      "I06",
+      "I09"
+    ]
+  }
+]

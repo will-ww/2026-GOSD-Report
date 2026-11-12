@@ -1,0 +1,49 @@
+model_id,month,rank,score,covered_top100,report_window_relation
+Qwen/Qwen2.5-7B,2025-09,2,14530.09,True,within main reporting period
+Qwen/Qwen2.5-7B,2025-10,6,6595.9,True,within main reporting period
+Qwen/Qwen2.5-7B,2025-11,4,7389.35,True,within main reporting period
+Qwen/Qwen2.5-7B,2025-12,4,7464.74,True,within main reporting period
+Qwen/Qwen2.5-7B,2026-01,2,14149.0,True,within main reporting period
+Qwen/Qwen2.5-7B,2026-02,2,17078.95,True,within main reporting period
+Qwen/Qwen2.5-7B,2026-03,1,19106.55,True,within main reporting period
+Qwen/Qwen2.5-7B,2026-04,1,16429.74,True,within main reporting period
+Qwen/Qwen2.5-7B,2026-05,7,11591.14,True,within main reporting period
+Qwen/Qwen2.5-7B,2026-06,3,13908.83,True,within main reporting period
+Qwen/Qwen2.5-7B,2026-07,1,29907.39,True,post-period
+Qwen/Qwen2.5-7B,2026-08,4,14018.32,True,post-period
+allenai/OLMo-2-1124-7B,2025-09,,,False,within main reporting period
+allenai/OLMo-2-1124-7B,2025-10,,,False,within main reporting period
+allenai/OLMo-2-1124-7B,2025-11,,,False,within main reporting period
+allenai/OLMo-2-1124-7B,2025-12,94,1218.51,True,within main reporting period
+allenai/OLMo-2-1124-7B,2026-01,,,False,within main reporting period
+allenai/OLMo-2-1124-7B,2026-02,,,False,within main reporting period
+allenai/OLMo-2-1124-7B,2026-03,,,False,within main reporting period
+allenai/OLMo-2-1124-7B,2026-04,,,False,within main reporting period
+allenai/OLMo-2-1124-7B,2026-05,,,False,within main reporting period
+allenai/OLMo-2-1124-7B,2026-06,,,False,within main reporting period
+allenai/OLMo-2-1124-7B,2026-07,,,False,post-period
+allenai/OLMo-2-1124-7B,2026-08,,,False,post-period
+meta-llama/Llama-3.1-8B,2025-09,4,9494.32,True,within main reporting period
+meta-llama/Llama-3.1-8B,2025-10,8,6418.1,True,within main reporting period
+meta-llama/Llama-3.1-8B,2025-11,2,8078.44,True,within main reporting period
+meta-llama/Llama-3.1-8B,2025-12,5,6757.87,True,within main reporting period
+meta-llama/Llama-3.1-8B,2026-01,7,7660.84,True,within main reporting period
+meta-llama/Llama-3.1-8B,2026-02,10,5354.4,True,within main reporting period
+meta-llama/Llama-3.1-8B,2026-03,16,7979.23,True,within main reporting period
+meta-llama/Llama-3.1-8B,2026-04,3,12676.77,True,within main reporting period
+meta-llama/Llama-3.1-8B,2026-05,4,13300.35,True,within main reporting period
+meta-llama/Llama-3.1-8B,2026-06,7,9868.43,True,within main reporting period
+meta-llama/Llama-3.1-8B,2026-07,4,13422.19,True,post-period
+meta-llama/Llama-3.1-8B,2026-08,3,14144.49,True,post-period
+google/gemma-2-9b,2025-09,89,1012.87,True,within main reporting period
+google/gemma-2-9b,2025-10,70,1560.86,True,within main reporting period
+google/gemma-2-9b,2025-11,58,1822.02,True,within main reporting period
+google/gemma-2-9b,2025-12,,,False,within main reporting period
+google/gemma-2-9b,2026-01,89,1257.52,True,within main reporting period
+google/gemma-2-9b,2026-02,,,False,within main reporting period
+google/gemma-2-9b,2026-03,89,1271.32,True,within main reporting period
+google/gemma-2-9b,2026-04,97,1310.84,True,within main reporting period
+google/gemma-2-9b,2026-05,39,3673.22,True,within main reporting period
+google/gemma-2-9b,2026-06,,,False,within main reporting period
+google/gemma-2-9b,2026-07,,,False,post-period
+google/gemma-2-9b,2026-08,,,False,post-period

@@ -1,0 +1,24 @@
+[
+  {
+    "title": "PyTorch Cloud Credit Program",
+    "url": "https://pytorch.org/credits/",
+    "retrieved": "2026-11-11",
+    "period": "post-period observation",
+    "verified": "额度或资金支持 CI 自动测试及基础设施；需技术支持联系人和服务承诺。"
+  },
+  {
+    "title": "PyTorch Foundation",
+    "url": "https://pytorch.org/foundation/",
+    "retrieved": "2026-11-11",
+    "period": "post-period observation",
+    "verified": "基金会理事会的组织支持与项目维护者定义的技术治理分工。"
+  },
+  {
+    "title": "PyTorch Governance | Mechanics",
+    "url": "https://docs.pytorch.org/docs/2.15/community/governance.html",
+    "retrieved": "2026-11-11",
+    "document_updated": "2026-10-02",
+    "period": "post-period observation",
+    "verified": "模块维护者负责评审与模块方向；技术治理与商业治理分开。"
+  }
+]

@@ -1,0 +1,32 @@
+category_id,category_name,repository_count
+toolchain,WASM 工具链,2
+observability,可观测性,10
+database,数据库,12
+streaming_and_messaging,流与消息,9
+automation_and_configuration,自动化与配置,7
+key_management,密钥管理,3
+application_definition_and_image_build,应用定义与镜像构建,3
+service_proxy,服务代理,4
+continuous_integration_and_delivery,持续集成与交付,5
+api_gateway,API 网关,5
+security_and_compliance,安全与合规,3
+certified_kubernetes_installer,K8s 安装器认证,4
+scheduling_and_orchestration,调度与编排,2
+certified_kubernetes_distribution,K8s 发行版认证,3
+service_mesh,服务网格,3
+cloud_native_network,云原生网络,2
+container_runtime,容器运行时,2
+runtime,运行时,1
+paas_and_container_service,PaaS 与容器服务,1
+cloud_native_storage,云原生存储,2
+remote_procedure_call,远程过程调用,0
+feature_flagging,功能开关,0
+framework,框架,1
+container_registry,容器镜像仓库,0
+coordination_and_service_discovery,协调与服务发现,1
+hosted_platform,托管平台,1
+continuous_optimization,持续优化,0
+installable_platform,可安装平台,0
+specifications,规范,0
+tools,工具,0
+chaos_engineering,混沌工程,0

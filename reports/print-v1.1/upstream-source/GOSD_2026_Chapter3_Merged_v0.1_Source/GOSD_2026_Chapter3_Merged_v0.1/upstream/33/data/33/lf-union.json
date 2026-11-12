@@ -1,0 +1,30 @@
+{
+	"meta":
+	[
+		{
+			"name": "openrank",
+			"type": "Float64"
+		},
+		{
+			"name": "positive_repositories",
+			"type": "UInt64"
+		}
+	],
+
+	"data":
+	[
+		{
+			"openrank": 165911.86,
+			"positive_repositories": "2981"
+		}
+	],
+
+	"rows": 1,
+
+	"statistics":
+	{
+		"elapsed": 0.612082259,
+		"rows_read": 216149381,
+		"bytes_read": 1241998212
+	}
+}

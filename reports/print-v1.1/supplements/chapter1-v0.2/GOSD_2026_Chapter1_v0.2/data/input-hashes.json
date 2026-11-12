@@ -1,0 +1,27 @@
+[
+  {
+    "name": "UNU_AI_DPG_2026.pdf",
+    "sha256": "efd274092d0f62ea470244db8418baa65fe9c98f4c18007003839477caab4286",
+    "bytes": 2252090
+  },
+  {
+    "name": "GOSD_2026_Chapter2_Merged_Review_v0.1.pdf",
+    "sha256": "1a33e575858e10997015eaf852749795296f55ec6070e78a9873eb368a6b997c",
+    "bytes": 4996894
+  },
+  {
+    "name": "GOSD_2026_Chapter3_Merged_Review_v0.1.pdf",
+    "sha256": "e68aca8bc54e5dc7e08db6456c5b2539fa13f9b24fb010e813022cdceebd14d3",
+    "bytes": 23140721
+  },
+  {
+    "name": "approved-11.pdf",
+    "sha256": "6099b212c9511c5c977bc6834950fcab15aee9f2b06bc27f31b28a5fcb5d0104",
+    "bytes": 2240161
+  },
+  {
+    "name": "approved-cover.pdf",
+    "sha256": "040858417d7dba9e6a3142b8f295c014c447d333cb2937b6625aeb5144c6e0ed",
+    "bytes": 1024556
+  }
+]

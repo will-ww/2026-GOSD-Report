@@ -1,0 +1,802 @@
+[
+  {
+    "rank": 1,
+    "project": "OpenHarmony",
+    "openrank": 75809.42,
+    "active_developers": 12640,
+    "org": "开放原子开源基金会",
+    "country": "中国"
+  },
+  {
+    "rank": 2,
+    "project": "Azure",
+    "openrank": 29382.06,
+    "active_developers": 10544,
+    "org": "微软",
+    "country": "美国"
+  },
+  {
+    "rank": 3,
+    "project": "C#/.Net",
+    "openrank": 26437.85,
+    "active_developers": 8758,
+    "org": "微软",
+    "country": "美国"
+  },
+  {
+    "rank": 4,
+    "project": "PyTorch",
+    "openrank": 24785.25,
+    "active_developers": 4806,
+    "org": "PyTorch Foundation",
+    "country": "美国"
+  },
+  {
+    "rank": 5,
+    "project": "NixOS",
+    "openrank": 21258.31,
+    "active_developers": 7606,
+    "org": "Stichting NixOS Foundation",
+    "country": "荷兰"
+  },
+  {
+    "rank": 6,
+    "project": "LLVM",
+    "openrank": 20026.38,
+    "active_developers": 4889,
+    "org": "伊利诺伊大学厄巴纳-香槟分校",
+    "country": "美国"
+  },
+  {
+    "rank": 7,
+    "project": "vLLM",
+    "openrank": 19532.07,
+    "active_developers": 8612,
+    "org": "加州大学伯克利分校",
+    "country": "美国"
+  },
+  {
+    "rank": 8,
+    "project": "openEuler",
+    "openrank": 18950.48,
+    "active_developers": 9039,
+    "org": "开放原子开源基金会",
+    "country": "中国"
+  },
+  {
+    "rank": 9,
+    "project": "DataDog",
+    "openrank": 16551.18,
+    "active_developers": 3250,
+    "org": "DataDog",
+    "country": "美国"
+  },
+  {
+    "rank": 10,
+    "project": "OpenShift",
+    "openrank": 16465.88,
+    "active_developers": 2134,
+    "org": "红帽",
+    "country": "美国"
+  },
+  {
+    "rank": 11,
+    "project": "VSCode",
+    "openrank": 15422.31,
+    "active_developers": 24897,
+    "org": "微软",
+    "country": "美国"
+  },
+  {
+    "rank": 12,
+    "project": "OpenClaw",
+    "openrank": 14842.31,
+    "active_developers": 19318,
+    "org": "",
+    "country": "未识别"
+  },
+  {
+    "rank": 13,
+    "project": "CANN",
+    "openrank": 14719.47,
+    "active_developers": 5460,
+    "org": "华为",
+    "country": "中国"
+  },
+  {
+    "rank": 14,
+    "project": "Rust",
+    "openrank": 14687.8,
+    "active_developers": 4729,
+    "org": "Rust 基金会",
+    "country": "美国"
+  },
+  {
+    "rank": 15,
+    "project": "Ascend",
+    "openrank": 12973.33,
+    "active_developers": 5798,
+    "org": "华为",
+    "country": "中国"
+  },
+  {
+    "rank": 16,
+    "project": "Home Assistant",
+    "openrank": 12840.53,
+    "active_developers": 16046,
+    "org": "Nabu Casa Inc.",
+    "country": "美国"
+  },
+  {
+    "rank": 17,
+    "project": "Odoo",
+    "openrank": 12357.48,
+    "active_developers": 1716,
+    "org": "Odoo",
+    "country": "比利时"
+  },
+  {
+    "rank": 18,
+    "project": "Python",
+    "openrank": 11915.48,
+    "active_developers": 3397,
+    "org": "Python 软件基金会",
+    "country": "美国"
+  },
+  {
+    "rank": 19,
+    "project": "JavaScript/TypeScript",
+    "openrank": 11640.41,
+    "active_developers": 3812,
+    "org": "",
+    "country": "未识别"
+  },
+  {
+    "rank": 20,
+    "project": "Swift",
+    "openrank": 11020.91,
+    "active_developers": 1174,
+    "org": "苹果",
+    "country": "美国"
+  },
+  {
+    "rank": 21,
+    "project": "Conda Forge",
+    "openrank": 10637.63,
+    "active_developers": 3472,
+    "org": "",
+    "country": "未识别"
+  },
+  {
+    "rank": 22,
+    "project": "SGLang",
+    "openrank": 10549.41,
+    "active_developers": 3393,
+    "org": "加州大学伯克利分校",
+    "country": "美国"
+  },
+  {
+    "rank": 23,
+    "project": "OpenTelemetry",
+    "openrank": 10309.52,
+    "active_developers": 3868,
+    "org": "云原生计算基金会",
+    "country": "美国"
+  },
+  {
+    "rank": 24,
+    "project": "Kubernetes",
+    "openrank": 9604.2,
+    "active_developers": 4047,
+    "org": "云原生计算基金会",
+    "country": "美国"
+  },
+  {
+    "rank": 25,
+    "project": "Claude Code",
+    "openrank": 9241.59,
+    "active_developers": 32814,
+    "org": "Anthropic",
+    "country": "美国"
+  },
+  {
+    "rank": 26,
+    "project": "Zephyr",
+    "openrank": 8645.65,
+    "active_developers": 2247,
+    "org": "Linux 基金会",
+    "country": "美国"
+  },
+  {
+    "rank": 27,
+    "project": "Cloudflare",
+    "openrank": 7834.37,
+    "active_developers": 4100,
+    "org": "Cloudflare",
+    "country": "美国"
+  },
+  {
+    "rank": 28,
+    "project": "NextCloud",
+    "openrank": 7603.19,
+    "active_developers": 5065,
+    "org": "NextCloud",
+    "country": "德国"
+  },
+  {
+    "rank": 29,
+    "project": "LangChain",
+    "openrank": 7505.73,
+    "active_developers": 5251,
+    "org": "LangChain",
+    "country": "美国"
+  },
+  {
+    "rank": 30,
+    "project": "Dify",
+    "openrank": 7496.88,
+    "active_developers": 3929,
+    "org": "Dify AI",
+    "country": "美国"
+  },
+  {
+    "rank": 31,
+    "project": "Expensify",
+    "openrank": 7475.65,
+    "active_developers": 889,
+    "org": "Expensify",
+    "country": "美国"
+  },
+  {
+    "rank": 32,
+    "project": "Java",
+    "openrank": 7437.02,
+    "active_developers": 947,
+    "org": "甲骨文",
+    "country": "美国"
+  },
+  {
+    "rank": 33,
+    "project": "MindSpore",
+    "openrank": 7321.46,
+    "active_developers": 3109,
+    "org": "华为",
+    "country": "中国"
+  },
+  {
+    "rank": 34,
+    "project": "Flutter",
+    "openrank": 6986.55,
+    "active_developers": 4169,
+    "org": "谷歌",
+    "country": "美国"
+  },
+  {
+    "rank": 35,
+    "project": "Zed",
+    "openrank": 6740.19,
+    "active_developers": 7273,
+    "org": "Zed Industry",
+    "country": "美国"
+  },
+  {
+    "rank": 36,
+    "project": "n8n",
+    "openrank": 6706.43,
+    "active_developers": 4851,
+    "org": "n8n",
+    "country": "德国"
+  },
+  {
+    "rank": 37,
+    "project": "PaddlePaddle",
+    "openrank": 6567.09,
+    "active_developers": 2135,
+    "org": "百度",
+    "country": "中国"
+  },
+  {
+    "rank": 38,
+    "project": "Kibana",
+    "openrank": 6486.06,
+    "active_developers": 880,
+    "org": "Elastic",
+    "country": "美国"
+  },
+  {
+    "rank": 39,
+    "project": "MetaMask",
+    "openrank": 6484.76,
+    "active_developers": 1980,
+    "org": "ConsenSys",
+    "country": "美国"
+  },
+  {
+    "rank": 40,
+    "project": "OpenSearch",
+    "openrank": 6400.8,
+    "active_developers": 1621,
+    "org": "亚马逊",
+    "country": "美国"
+  },
+  {
+    "rank": 41,
+    "project": "Dart",
+    "openrank": 6068.74,
+    "active_developers": 1194,
+    "org": "谷歌",
+    "country": "美国"
+  },
+  {
+    "rank": 42,
+    "project": "LiteLLM",
+    "openrank": 5972.28,
+    "active_developers": 3524,
+    "org": "BerriAI",
+    "country": "美国"
+  },
+  {
+    "rank": 43,
+    "project": "ESLint",
+    "openrank": 5867.33,
+    "active_developers": 566,
+    "org": "OpenJS Foundation",
+    "country": "美国"
+  },
+  {
+    "rank": 44,
+    "project": "Godot Engine",
+    "openrank": 5866.91,
+    "active_developers": 4449,
+    "org": "Godot Foundation",
+    "country": "荷兰"
+  },
+  {
+    "rank": 45,
+    "project": "ClickHouse",
+    "openrank": 5258.18,
+    "active_developers": 2112,
+    "org": "Yandex",
+    "country": "俄罗斯"
+  },
+  {
+    "rank": 46,
+    "project": "Grafana",
+    "openrank": 5195.84,
+    "active_developers": 2390,
+    "org": "Grafana Labs",
+    "country": "美国"
+  },
+  {
+    "rank": 47,
+    "project": "SONiC",
+    "openrank": 4926.08,
+    "active_developers": 810,
+    "org": "Linux 基金会",
+    "country": "美国"
+  },
+  {
+    "rank": 48,
+    "project": "Spring",
+    "openrank": 4902.42,
+    "active_developers": 4140,
+    "org": "Linux 基金会",
+    "country": "美国"
+  },
+  {
+    "rank": 49,
+    "project": "Cherry Studio",
+    "openrank": 4834.72,
+    "active_developers": 2566,
+    "org": "",
+    "country": "未识别"
+  },
+  {
+    "rank": 50,
+    "project": "OpenCode",
+    "openrank": 4829.04,
+    "active_developers": 9867,
+    "org": "Anomaly",
+    "country": "美国"
+  },
+  {
+    "rank": 51,
+    "project": "Cangjie",
+    "openrank": 4806.2,
+    "active_developers": 3347,
+    "org": "华为",
+    "country": "中国"
+  },
+  {
+    "rank": 52,
+    "project": "Pydantic",
+    "openrank": 4794.33,
+    "active_developers": 1780,
+    "org": "",
+    "country": "未识别"
+  },
+  {
+    "rank": 53,
+    "project": "Dynamo",
+    "openrank": 4785.47,
+    "active_developers": 750,
+    "org": "英伟达",
+    "country": "美国"
+  },
+  {
+    "rank": 54,
+    "project": "OpenVINO",
+    "openrank": 4773.66,
+    "active_developers": 822,
+    "org": "英特尔",
+    "country": "美国"
+  },
+  {
+    "rank": 55,
+    "project": "TT-Metal",
+    "openrank": 4746.73,
+    "active_developers": 683,
+    "org": "Tenstorrent",
+    "country": "美国"
+  },
+  {
+    "rank": 56,
+    "project": "Gemini CLI",
+    "openrank": 4670.82,
+    "active_developers": 7585,
+    "org": "谷歌",
+    "country": "美国"
+  },
+  {
+    "rank": 57,
+    "project": "Rancher",
+    "openrank": 4660.61,
+    "active_developers": 980,
+    "org": "Rancher Labs",
+    "country": "美国"
+  },
+  {
+    "rank": 58,
+    "project": "Codex",
+    "openrank": 4523.78,
+    "active_developers": 8782,
+    "org": "OpenAI",
+    "country": "美国"
+  },
+  {
+    "rank": 59,
+    "project": "Prometheus",
+    "openrank": 4474.45,
+    "active_developers": 1463,
+    "org": "云原生计算基金会",
+    "country": "美国"
+  },
+  {
+    "rank": 60,
+    "project": "Model Context Protocol",
+    "openrank": 4468.87,
+    "active_developers": 3919,
+    "org": "智能体人工智能基金会（AAIF）",
+    "country": "美国"
+  },
+  {
+    "rank": 61,
+    "project": "Supabase",
+    "openrank": 4425.94,
+    "active_developers": 3332,
+    "org": "Supabase",
+    "country": "美国"
+  },
+  {
+    "rank": 62,
+    "project": "Elasticsearch",
+    "openrank": 4236.48,
+    "active_developers": 952,
+    "org": "Elastic",
+    "country": "美国"
+  },
+  {
+    "rank": 63,
+    "project": "Kotlin",
+    "openrank": 4128.25,
+    "active_developers": 395,
+    "org": "JetBrains",
+    "country": "荷兰"
+  },
+  {
+    "rank": 64,
+    "project": "Go",
+    "openrank": 4119.42,
+    "active_developers": 2024,
+    "org": "谷歌",
+    "country": "美国"
+  },
+  {
+    "rank": 65,
+    "project": "Bitwarden",
+    "openrank": 4112.06,
+    "active_developers": 2331,
+    "org": "Bitwarden",
+    "country": "美国"
+  },
+  {
+    "rank": 66,
+    "project": "New Relic",
+    "openrank": 4078.56,
+    "active_developers": 845,
+    "org": "New Relic",
+    "country": "美国"
+  },
+  {
+    "rank": 67,
+    "project": "Node.js",
+    "openrank": 4030.07,
+    "active_developers": 1953,
+    "org": "OpenJS Foundation",
+    "country": "美国"
+  },
+  {
+    "rank": 68,
+    "project": "OpenWrt",
+    "openrank": 3997.08,
+    "active_developers": 2474,
+    "org": "",
+    "country": "未识别"
+  },
+  {
+    "rank": 69,
+    "project": "Brave",
+    "openrank": 3986.51,
+    "active_developers": 2258,
+    "org": "Brave",
+    "country": "美国"
+  },
+  {
+    "rank": 70,
+    "project": "Ruby",
+    "openrank": 3883.37,
+    "active_developers": 998,
+    "org": "Ruby 基金会",
+    "country": "日本"
+  },
+  {
+    "rank": 71,
+    "project": "Camunda",
+    "openrank": 3861.64,
+    "active_developers": 430,
+    "org": "Camunda",
+    "country": "德国"
+  },
+  {
+    "rank": 72,
+    "project": "Open WebUI",
+    "openrank": 3838.36,
+    "active_developers": 2476,
+    "org": "",
+    "country": "美国"
+  },
+  {
+    "rank": 73,
+    "project": "DefiLlama",
+    "openrank": 3770.45,
+    "active_developers": 1911,
+    "org": "Llama Corp",
+    "country": "冰岛"
+  },
+  {
+    "rank": 74,
+    "project": "Transformers",
+    "openrank": 3766.43,
+    "active_developers": 2585,
+    "org": "Hugging Face",
+    "country": "美国"
+  },
+  {
+    "rank": 75,
+    "project": "webpack",
+    "openrank": 3760.77,
+    "active_developers": 598,
+    "org": "OpenJS Foundation",
+    "country": "美国"
+  },
+  {
+    "rank": 76,
+    "project": "YDB",
+    "openrank": 3731.75,
+    "active_developers": 360,
+    "org": "Yandex",
+    "country": "俄罗斯"
+  },
+  {
+    "rank": 77,
+    "project": "Homebrew",
+    "openrank": 3731.74,
+    "active_developers": 2250,
+    "org": "",
+    "country": "未识别"
+  },
+  {
+    "rank": 78,
+    "project": "Ceph",
+    "openrank": 3634.19,
+    "active_developers": 584,
+    "org": "红帽",
+    "country": "美国"
+  },
+  {
+    "rank": 79,
+    "project": "Laravel",
+    "openrank": 3513.18,
+    "active_developers": 2763,
+    "org": "Laravel Holdings",
+    "country": "美国"
+  },
+  {
+    "rank": 80,
+    "project": "WooCommerce",
+    "openrank": 3421.81,
+    "active_developers": 1111,
+    "org": "Woo",
+    "country": "南非"
+  },
+  {
+    "rank": 81,
+    "project": "Is-a.dev",
+    "openrank": 3406.2,
+    "active_developers": 4855,
+    "org": "",
+    "country": "未识别"
+  },
+  {
+    "rank": 82,
+    "project": "TensorRT",
+    "openrank": 3405.74,
+    "active_developers": 812,
+    "org": "英伟达",
+    "country": "美国"
+  },
+  {
+    "rank": 83,
+    "project": "Ruff",
+    "openrank": 3396.66,
+    "active_developers": 825,
+    "org": "Astral",
+    "country": "美国"
+  },
+  {
+    "rank": 84,
+    "project": "Redis",
+    "openrank": 3320.29,
+    "active_developers": 1917,
+    "org": "Redis Labs",
+    "country": "美国"
+  },
+  {
+    "rank": 85,
+    "project": "Cilium",
+    "openrank": 3267.75,
+    "active_developers": 1137,
+    "org": "云原生计算基金会",
+    "country": "美国"
+  },
+  {
+    "rank": 86,
+    "project": "Firebase",
+    "openrank": 3267.03,
+    "active_developers": 2207,
+    "org": "谷歌",
+    "country": "美国"
+  },
+  {
+    "rank": 87,
+    "project": "Expo",
+    "openrank": 3250.23,
+    "active_developers": 2963,
+    "org": "650 Industries",
+    "country": "美国"
+  },
+  {
+    "rank": 88,
+    "project": "Apache Airflow",
+    "openrank": 3179.7,
+    "active_developers": 1810,
+    "org": "Apache 软件基金会",
+    "country": "美国"
+  },
+  {
+    "rank": 89,
+    "project": "ScyllaDB",
+    "openrank": 3148.11,
+    "active_developers": 325,
+    "org": "ScyllaDB",
+    "country": "以色列"
+  },
+  {
+    "rank": 90,
+    "project": "MDN Web Docs",
+    "openrank": 3139.82,
+    "active_developers": 1758,
+    "org": "Mozilla",
+    "country": "美国"
+  },
+  {
+    "rank": 91,
+    "project": "Next.js",
+    "openrank": 3106.68,
+    "active_developers": 2469,
+    "org": "Vercel",
+    "country": "美国"
+  },
+  {
+    "rank": 92,
+    "project": "First Contributions",
+    "openrank": 3042.53,
+    "active_developers": 8004,
+    "org": "",
+    "country": "未识别"
+  },
+  {
+    "rank": 93,
+    "project": "Ray",
+    "openrank": 3031.59,
+    "active_developers": 1138,
+    "org": "加州大学伯克利分校",
+    "country": "美国"
+  },
+  {
+    "rank": 94,
+    "project": "JAX",
+    "openrank": 3006.26,
+    "active_developers": 976,
+    "org": "谷歌",
+    "country": "美国"
+  },
+  {
+    "rank": 95,
+    "project": "Coder",
+    "openrank": 3000.64,
+    "active_developers": 832,
+    "org": "Coder",
+    "country": "美国"
+  },
+  {
+    "rank": 96,
+    "project": "Milvus",
+    "openrank": 2961.8,
+    "active_developers": 606,
+    "org": "LF AI & Data Foundation",
+    "country": "美国"
+  },
+  {
+    "rank": 97,
+    "project": "Apache Arrow",
+    "openrank": 2952.32,
+    "active_developers": 1087,
+    "org": "Apache 软件基金会",
+    "country": "美国"
+  },
+  {
+    "rank": 98,
+    "project": "nRF Connect",
+    "openrank": 2919.8,
+    "active_developers": 326,
+    "org": "Nordic Semiconductor",
+    "country": "挪威"
+  },
+  {
+    "rank": 99,
+    "project": "Angular",
+    "openrank": 2893.94,
+    "active_developers": 1638,
+    "org": "谷歌",
+    "country": "美国"
+  },
+  {
+    "rank": 100,
+    "project": "llama.cpp",
+    "openrank": 2847.11,
+    "active_developers": 3042,
+    "org": "GGML.ai",
+    "country": "保加利亚"
+  }
+]

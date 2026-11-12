@@ -1,0 +1,3313 @@
+{
+  "version": "1.1",
+  "date": "2026-11-11",
+  "changed_physical_page": 5,
+  "folio": "iii",
+  "scope": "Only institute introduction layout; no research, statistical, wording or pagination changes.",
+  "evidence": [
+    "Approved v1.0 full print PDF",
+    "Approved M01 v0.1 PDF",
+    "Supplied transparent color institute logo",
+    "Original institute-research-system.svg"
+  ],
+  "outputs": [
+    {
+      "source": "/workspace/scratch/77ced49644f0/full-print-v1.0/output/pdf/GOSD_2026_Essential_Full_Print_v1.0.pdf",
+      "source_sha256": "22c9038733f43620b84befcd8e303268b7e424a23cb0f56a821bbc1145434e5d",
+      "output": "/workspace/scratch/77ced49644f0/institute-v1.1/output/GOSD_2026_Essential_Full_Print_v1.1.pdf",
+      "output_sha256": "e6ac1762b81db4337f32c2d9a4747565120f964f4f39ac3689328ddcc2751196",
+      "pages": 138,
+      "bytes": 59411508
+    },
+    {
+      "source": "/workspace/scratch/77ced49644f0/full-print-v1.0/inputs/GOSD_2026_Print_M01_Frontmatter_v0.1.pdf",
+      "source_sha256": "9df32e328a6ae9b050d1ea4cee71d188567ff497b5546f63230f9b2560067a23",
+      "output": "/workspace/scratch/77ced49644f0/institute-v1.1/output/GOSD_2026_Print_M01_Frontmatter_v0.2.pdf",
+      "output_sha256": "ffd2b88abafdb1d8afe79c3625fef141788a6ca26db5641d93393f9dd6afba34",
+      "pages": 18,
+      "bytes": 5123857
+    }
+  ],
+  "checks": [
+    {
+      "check": "No LaTeX overflow or missing glyph warnings",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri1",
+      "passed": true,
+      "details": {
+        "height_mm": 7.562005617822056,
+        "max_height_mm": 12
+      }
+    },
+    {
+      "check": "Text box inside print area: siri1",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri2",
+      "passed": true,
+      "details": {
+        "height_mm": 3.5452418154144176,
+        "max_height_mm": 7
+      }
+    },
+    {
+      "check": "Text box inside print area: siri2",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri3",
+      "passed": true,
+      "details": {
+        "height_mm": 2.7580386329043867,
+        "max_height_mm": 5
+      }
+    },
+    {
+      "check": "Text box inside print area: siri3",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri4",
+      "passed": true,
+      "details": {
+        "height_mm": 4.7920454683824545,
+        "max_height_mm": 9
+      }
+    },
+    {
+      "check": "Text box inside print area: siri4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri5",
+      "passed": true,
+      "details": {
+        "height_mm": 3.7395252801992522,
+        "max_height_mm": 7
+      }
+    },
+    {
+      "check": "Text box inside print area: siri5",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri6",
+      "passed": true,
+      "details": {
+        "height_mm": 5.791347613117475,
+        "max_height_mm": 12
+      }
+    },
+    {
+      "check": "Text box inside print area: siri6",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri7",
+      "passed": true,
+      "details": {
+        "height_mm": 4.5406779023107795,
+        "max_height_mm": 8
+      }
+    },
+    {
+      "check": "Text box inside print area: siri7",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri8",
+      "passed": true,
+      "details": {
+        "height_mm": 2.9839991697799917,
+        "max_height_mm": 10
+      }
+    },
+    {
+      "check": "Text box inside print area: siri8",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri9",
+      "passed": true,
+      "details": {
+        "height_mm": 2.8079529541995294,
+        "max_height_mm": 10
+      }
+    },
+    {
+      "check": "Text box inside print area: siri9",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri10",
+      "passed": true,
+      "details": {
+        "height_mm": 2.6902490660024907,
+        "max_height_mm": 5
+      }
+    },
+    {
+      "check": "Text box inside print area: siri10",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri11",
+      "passed": true,
+      "details": {
+        "height_mm": 5.791347613117475,
+        "max_height_mm": 12
+      }
+    },
+    {
+      "check": "Text box inside print area: siri11",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri12",
+      "passed": true,
+      "details": {
+        "height_mm": 4.554915538951155,
+        "max_height_mm": 8
+      }
+    },
+    {
+      "check": "Text box inside print area: siri12",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri13",
+      "passed": true,
+      "details": {
+        "height_mm": 2.9807973709699738,
+        "max_height_mm": 10
+      }
+    },
+    {
+      "check": "Text box inside print area: siri13",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri14",
+      "passed": true,
+      "details": {
+        "height_mm": 2.8139945482219453,
+        "max_height_mm": 10
+      }
+    },
+    {
+      "check": "Text box inside print area: siri14",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri15",
+      "passed": true,
+      "details": {
+        "height_mm": 2.7244109589041092,
+        "max_height_mm": 5
+      }
+    },
+    {
+      "check": "Text box inside print area: siri15",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri16",
+      "passed": true,
+      "details": {
+        "height_mm": 5.791347613117475,
+        "max_height_mm": 12
+      }
+    },
+    {
+      "check": "Text box inside print area: siri16",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri17",
+      "passed": true,
+      "details": {
+        "height_mm": 4.5406779023107795,
+        "max_height_mm": 8
+      }
+    },
+    {
+      "check": "Text box inside print area: siri17",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri18",
+      "passed": true,
+      "details": {
+        "height_mm": 2.971202518334025,
+        "max_height_mm": 10
+      }
+    },
+    {
+      "check": "Text box inside print area: siri18",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri19",
+      "passed": true,
+      "details": {
+        "height_mm": 2.883513297357133,
+        "max_height_mm": 10
+      }
+    },
+    {
+      "check": "Text box inside print area: siri19",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri20",
+      "passed": true,
+      "details": {
+        "height_mm": 2.693095890410959,
+        "max_height_mm": 5
+      }
+    },
+    {
+      "check": "Text box inside print area: siri20",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri21",
+      "passed": true,
+      "details": {
+        "height_mm": 2.7158353396983532,
+        "max_height_mm": 5
+      }
+    },
+    {
+      "check": "Text box inside print area: siri21",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri22",
+      "passed": true,
+      "details": {
+        "height_mm": 2.960697384806974,
+        "max_height_mm": 6
+      }
+    },
+    {
+      "check": "Text box inside print area: siri22",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri23",
+      "passed": true,
+      "details": {
+        "height_mm": 3.6843425764494255,
+        "max_height_mm": 8
+      }
+    },
+    {
+      "check": "Text box inside print area: siri23",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri24",
+      "passed": true,
+      "details": {
+        "height_mm": 19.59253795489138,
+        "max_height_mm": 31
+      }
+    },
+    {
+      "check": "Text box inside print area: siri24",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri25",
+      "passed": true,
+      "details": {
+        "height_mm": 3.7307352705133527,
+        "max_height_mm": 8
+      }
+    },
+    {
+      "check": "Text box inside print area: siri25",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri26",
+      "passed": true,
+      "details": {
+        "height_mm": 19.340263622526635,
+        "max_height_mm": 31
+      }
+    },
+    {
+      "check": "Text box inside print area: siri26",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri27",
+      "passed": true,
+      "details": {
+        "height_mm": 3.3840307181403078,
+        "max_height_mm": 8
+      }
+    },
+    {
+      "check": "Text box inside print area: siri27",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri28",
+      "passed": true,
+      "details": {
+        "height_mm": 3.522463705548637,
+        "max_height_mm": 12
+      }
+    },
+    {
+      "check": "Text box inside print area: siri28",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri29",
+      "passed": true,
+      "details": {
+        "height_mm": 1.813947308703473,
+        "max_height_mm": 5
+      }
+    },
+    {
+      "check": "Text box inside print area: siri29",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Text box fits: siri30",
+      "passed": true,
+      "details": {
+        "height_mm": 2.935849176698492,
+        "max_height_mm": 7
+      }
+    },
+    {
+      "check": "Text box inside print area: siri30",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri1",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri2",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri3",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri5",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri6",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri7",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri8",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri9",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri10",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri11",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri12",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri13",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri14",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri15",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri16",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri17",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri18",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri19",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri20",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri21",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri22",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri23",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri24",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri25",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri26",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri27",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri28",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri29",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Searchable content retained: siri30",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Independent institute identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "One unmodified institution logo image",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Visible logo centered",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Visible logo width 110mm",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Logo effective resolution above 450 dpi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Replacement carries Resources",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Replacement carries Contents",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Page count",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: All page labels retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: All bookmarks retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: All link destinations retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: PageLayout retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: PageMode retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: ViewerPreferences retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P1 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P1 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P1 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P2 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P2 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P2 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P3 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P3 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P3 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P4 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P4 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P4 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P5 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: New page renders unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: New page searchable text",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P6 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P6 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P6 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P7 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P7 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P7 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P8 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P8 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P8 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P9 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P9 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P9 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P10 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P10 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P10 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P11 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P11 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P11 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P12 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P12 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P12 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P13 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P13 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P13 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P14 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P14 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P14 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P15 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P15 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P15 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P16 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P16 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P16 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P17 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P17 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P17 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P18 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P18 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P18 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P19 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P19 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P19 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P20 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P20 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P20 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P21 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P21 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P21 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P22 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P22 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P22 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P23 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P23 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P23 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P24 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P24 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P24 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P25 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P25 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P25 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P26 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P26 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P26 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P27 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P27 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P27 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P28 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P28 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P28 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P29 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P29 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P29 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P30 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P30 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P30 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P31 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P31 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P31 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P32 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P32 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P32 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P33 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P33 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P33 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P34 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P34 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P34 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P35 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P35 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P35 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P36 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P36 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P36 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P37 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P37 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P37 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P38 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P38 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P38 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P39 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P39 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P39 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P40 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P40 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P40 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P41 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P41 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P41 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P42 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P42 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P42 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P43 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P43 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P43 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P44 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P44 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P44 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P45 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P45 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P45 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P46 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P46 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P46 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P47 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P47 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P47 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P48 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P48 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P48 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P49 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P49 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P49 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P50 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P50 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P50 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P51 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P51 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P51 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P52 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P52 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P52 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P53 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P53 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P53 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P54 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P54 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P54 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P55 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P55 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P55 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P56 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P56 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P56 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P57 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P57 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P57 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P58 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P58 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P58 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P59 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P59 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P59 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P60 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P60 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P60 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P61 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P61 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P61 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P62 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P62 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P62 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P63 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P63 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P63 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P64 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P64 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P64 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P65 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P65 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P65 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P66 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P66 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P66 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P67 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P67 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P67 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P68 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P68 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P68 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P69 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P69 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P69 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P70 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P70 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P70 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P71 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P71 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P71 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P72 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P72 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P72 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P73 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P73 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P73 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P74 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P74 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P74 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P75 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P75 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P75 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P76 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P76 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P76 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P77 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P77 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P77 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P78 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P78 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P78 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P79 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P79 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P79 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P80 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P80 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P80 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P81 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P81 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P81 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P82 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P82 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P82 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P83 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P83 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P83 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P84 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P84 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P84 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P85 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P85 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P85 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P86 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P86 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P86 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P87 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P87 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P87 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P88 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P88 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P88 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P89 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P89 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P89 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P90 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P90 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P90 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P91 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P91 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P91 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P92 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P92 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P92 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P93 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P93 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P93 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P94 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P94 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P94 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P95 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P95 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P95 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P96 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P96 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P96 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P97 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P97 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P97 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P98 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P98 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P98 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P99 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P99 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P99 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P100 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P100 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P100 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P101 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P101 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P101 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P102 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P102 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P102 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P103 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P103 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P103 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P104 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P104 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P104 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P105 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P105 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P105 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P106 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P106 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P106 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P107 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P107 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P107 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P108 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P108 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P108 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P109 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P109 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P109 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P110 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P110 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P110 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P111 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P111 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P111 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P112 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P112 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P112 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P113 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P113 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P113 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P114 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P114 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P114 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P115 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P115 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P115 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P116 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P116 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P116 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P117 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P117 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P117 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P118 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P118 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P118 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P119 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P119 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P119 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P120 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P120 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P120 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P121 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P121 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P121 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P122 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P122 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P122 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P123 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P123 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P123 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P124 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P124 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P124 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P125 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P125 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P125 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P126 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P126 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P126 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P127 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P127 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P127 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P128 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P128 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P128 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P129 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P129 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P129 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P130 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P130 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P130 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P131 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P131 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P131 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P132 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P132 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P132 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P133 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P133 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P133 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P134 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P134 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P134 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P135 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P135 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P135 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P136 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P136 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P136 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P137 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P137 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P137 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P138 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P138 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: P138 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Original text block 1 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Original text block 2 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Original text block 3 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Original text block 4 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Original text block 5 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Original text block 6 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Original text block 7 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Original text block 8 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Original text block 9 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Original text block 10 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Original text block 11 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Original text block 12 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Original text block 13 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Original text block 14 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Original text block 15 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Embedded font: PCNVGC+NotoSerifCJKjp-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Embedded font: KDXGTK+NotoSerifCJKjp-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Embedded font: HZZGEW+NotoSansCJKjp-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Essential_Full_Print_v1.1: Embedded font: EZFGNR+NotoSansCJKjp-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Intended blank P2 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Intended blank P10 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Intended blank P18 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Intended blank P20 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Intended blank P30 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Intended blank P32 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Intended blank P54 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Intended blank P76 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Intended blank P78 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Intended blank P92 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Intended blank P94 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Intended blank P106 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Intended blank P108 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Intended blank P116 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Intended blank P134 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Intended blank P137 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Repaired folio 80 still present",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD back cover retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Replacement carries Resources",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Replacement carries Contents",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Page count",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: All page labels retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: All bookmarks retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: All link destinations retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: PageLayout retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: PageMode retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: ViewerPreferences retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P1 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P1 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P1 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P2 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P2 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P2 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P3 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P3 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P3 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P4 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P4 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P4 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P5 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: New page renders unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: New page searchable text",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P6 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P6 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P6 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P7 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P7 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P7 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P8 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P8 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P8 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P9 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P9 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P9 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P10 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P10 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P10 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P11 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P11 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P11 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P12 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P12 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P12 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P13 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P13 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P13 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P14 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P14 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P14 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P15 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P15 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P15 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P16 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P16 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P16 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P17 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P17 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P17 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P18 A4",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P18 text unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: P18 artwork unchanged",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Original text block 1 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Original text block 2 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Original text block 3 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Original text block 4 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Original text block 5 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Original text block 6 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Original text block 7 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Original text block 8 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Original text block 9 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Original text block 10 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Original text block 11 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Original text block 12 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Original text block 13 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Original text block 14 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Original text block 15 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Embedded font: KDXGTK+NotoSerifCJKjp-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Embedded font: HZZGEW+NotoSansCJKjp-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Embedded font: EZFGNR+NotoSansCJKjp-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "GOSD_2026_Print_M01_Frontmatter_v0.2: Embedded font: PCNVGC+NotoSerifCJKjp-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    }
+  ]
+}

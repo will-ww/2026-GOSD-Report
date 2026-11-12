@@ -1,0 +1,93 @@
+[
+  {
+    "id": ":foundations/linux_foundation/cncf",
+    "name": "Cloud Native Computing Foundation (CNCF)",
+    "openrank": 67362.82,
+    "repositories": "1339",
+    "projects": 70
+  },
+  {
+    "id": ":foundations/linux_foundation/pytorch",
+    "name": "PyTorch Foundation",
+    "openrank": 48055.43,
+    "repositories": "102",
+    "projects": 5
+  },
+  {
+    "id": ":foundations/linux_foundation/openjs",
+    "name": "OpenJS Foundation",
+    "openrank": 24702.57,
+    "repositories": "613",
+    "projects": 35
+  },
+  {
+    "id": ":foundations/linux_foundation/lfai",
+    "name": "LF AI & Data Foundation",
+    "openrank": 7937.49,
+    "repositories": "140",
+    "projects": 37
+  },
+  {
+    "id": ":foundations/linux_foundation/aaif",
+    "name": "Agentic AI Foundation (AAIF)",
+    "openrank": 7245.36,
+    "repositories": "55",
+    "projects": 6
+  },
+  {
+    "id": ":foundations/linux_foundation/riscv",
+    "name": "RICSV Foundation",
+    "openrank": 2438.09,
+    "repositories": "103",
+    "projects": 0
+  },
+  {
+    "id": ":foundations/linux_foundation/openssf",
+    "name": "OpenSSF Foundation",
+    "openrank": 2286.74,
+    "repositories": "123",
+    "projects": 0
+  },
+  {
+    "id": ":foundations/linux_foundation/hyperledger",
+    "name": "Hyperledger Foundation",
+    "openrank": 2085.97,
+    "repositories": "83",
+    "projects": 13
+  },
+  {
+    "id": ":foundations/linux_foundation/lfed",
+    "name": "LF Edge Foundation",
+    "openrank": 1235.11,
+    "repositories": "108",
+    "projects": 10
+  },
+  {
+    "id": ":foundations/linux_foundation/presto",
+    "name": "Presto Foundation",
+    "openrank": 1005.05,
+    "repositories": "23",
+    "projects": 1
+  },
+  {
+    "id": ":foundations/linux_foundation/o3d",
+    "name": "Open 3D Foundation",
+    "openrank": 508.28,
+    "repositories": "20",
+    "projects": 0
+  },
+  {
+    "id": ":foundations/linux_foundation/lfne",
+    "name": "LF Networking Foundation",
+    "openrank": 109.34,
+    "repositories": "21",
+    "projects": 0
+  },
+  {
+    "id": ":foundations/linux_foundation/finops",
+    "name": "FinOps Foundation",
+    "openrank": 8.63,
+    "repositories": "4",
+    "projects": 0
+  }
+]

@@ -1,0 +1,5 @@
+group_id,group_name,repository_count,sample_share_pct,selected_count
+development,应用与开发,29,33.72093023255814,4
+runtime,编排与运行,21,24.418604651162788,4
+provisioning,资源与安全,21,24.418604651162788,4
+operations,观测与扩展,15,17.441860465116278,4

@@ -1,0 +1,50 @@
+[
+  {
+    "file": "vllm_cuda.txt",
+    "source_url": "https://github.com/vllm-project/vllm/blob/ab80b3dff4829768347b322c7a5d444e522ef7b3/requirements/cuda.txt",
+    "sha256": "dc8d99900531e0d9c960b12860db1356ec8500f3759c06b627e6864b9c4ad25a",
+    "retrieved_on": "2026-11-06"
+  },
+  {
+    "file": "vllm_common.txt",
+    "source_url": "https://github.com/vllm-project/vllm/blob/ab80b3dff4829768347b322c7a5d444e522ef7b3/requirements/common.txt",
+    "sha256": "77b1c0d8776eb790dd91863cbe9f23f47b79449bf32aa0ab61001cb49364f167",
+    "retrieved_on": "2026-11-06"
+  },
+  {
+    "file": "sglang_pyproject.toml",
+    "source_url": "https://github.com/sgl-project/sglang/blob/bae78a44da62ad98ee501adbc2823af37fe3f94b/python/pyproject.toml",
+    "sha256": "223536e2d609d52cda8180e5d32d9ee31e993a557758b0659be15926c3d77907",
+    "retrieved_on": "2026-11-06"
+  },
+  {
+    "file": "openharmony_README_zh.md",
+    "source_url": "https://github.com/openharmony/docs/blob/55311f494f7861393890d8faec59b1c5afc0a1f9/README_zh.md",
+    "sha256": "3faef97b365f622e7c2d4e05bcf8fd9f4ee3ff8544f1b71b1515887601c579c5",
+    "retrieved_on": "2026-11-06"
+  },
+  {
+    "file": "pytorch_README.md",
+    "source_url": "https://github.com/pytorch/pytorch/blob/v2.11.0/README.md",
+    "sha256": "8f2fca26709644c1a66daf9aa08e056921e0d3392af2f891113daec3dd0038f6",
+    "retrieved_on": "2026-11-06"
+  },
+  {
+    "file": "label_0.yml",
+    "source_url": "https://github.com/X-lab2017/open-digger/blob/ead4515179ae93a3bcbb151707a90fe7e1750f49/labeled_data/companies/huawei/openharmony.yml",
+    "sha256": "f5c8758438754bc7563a09cf121f33dfcf08117e06aa0a53776b3807b358b282",
+    "retrieved_on": "2026-11-06"
+  },
+  {
+    "file": "label_1.yml",
+    "source_url": "https://github.com/X-lab2017/open-digger/blob/ead4515179ae93a3bcbb151707a90fe7e1750f49/labeled_data/companies/meta/pytorch.yml",
+    "sha256": "9f949ea3d26d84b5be040d6ba12be8314c4e2d469b5edaeadb33428de53bdd9c",
+    "retrieved_on": "2026-11-06"
+  },
+  {
+    "file": "label_2.yml",
+    "source_url": "https://github.com/X-lab2017/open-digger/blob/ead4515179ae93a3bcbb151707a90fe7e1750f49/labeled_data/foundations/linux_foundation/pytorch.yml",
+    "sha256": "6bffcece4cef77eb177223506576c90e541bc13cbe7b56e2a526fe1025f04a64",
+    "retrieved_on": "2026-11-06"
+  }
+]

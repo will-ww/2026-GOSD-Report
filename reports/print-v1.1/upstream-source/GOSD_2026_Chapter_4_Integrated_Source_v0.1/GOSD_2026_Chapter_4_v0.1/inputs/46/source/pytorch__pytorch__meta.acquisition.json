@@ -1,0 +1,17 @@
+{
+  "repo": "pytorch/pytorch",
+  "metric": "meta",
+  "url": "https://oss.open-digger.cn/github/pytorch/pytorch/meta.json",
+  "status": "ok",
+  "reused_saved_bytes": false,
+  "started_at": "2026-11-07T08:52:21.926461+00:00",
+  "attempts": 1,
+  "http_status": 200,
+  "final_url": "https://oss.open-digger.cn/github/pytorch/pytorch/meta.json",
+  "sha256": "8f5aa53803a1f6e6aeb07dc43ab29c072f3b6589c083fa48d54cbe452ec5c30f",
+  "bytes": 491,
+  "file": "raw/pytorch__pytorch__meta.json",
+  "last_modified": "Mon, 02 Nov 2026 19:40:22 GMT",
+  "etag": "\"5BA5A5B32051D24C7ED61F5BAF7E5F09\"",
+  "completed_at": "2026-11-07T08:52:24.617284+00:00"
+}

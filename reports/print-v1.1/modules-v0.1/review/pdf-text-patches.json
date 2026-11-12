@@ -1,0 +1,548 @@
+[
+  {
+    "tag": "chapter1",
+    "page": 21,
+    "old": "附录A",
+    "new": "附录",
+    "count": 1
+  },
+  {
+    "tag": "chapter1",
+    "page": 23,
+    "old": "附录A",
+    "new": "附录",
+    "count": 1
+  },
+  {
+    "tag": "chapter2",
+    "page": 1,
+    "old": "附录A",
+    "new": "附录",
+    "count": 2
+  },
+  {
+    "tag": "chapter2",
+    "page": 2,
+    "old": "附录A1",
+    "new": "附录9",
+    "count": 1
+  },
+  {
+    "tag": "chapter2",
+    "page": 3,
+    "old": "附录A2",
+    "new": "附录10",
+    "count": 1
+  },
+  {
+    "tag": "chapter2",
+    "page": 6,
+    "old": "附录A2—A3",
+    "new": "附录10—11",
+    "count": 1
+  },
+  {
+    "tag": "chapter2",
+    "page": 8,
+    "old": "附录A4",
+    "new": "附录12",
+    "count": 1
+  },
+  {
+    "tag": "chapter2",
+    "page": 10,
+    "old": "附录A3",
+    "new": "附录11",
+    "count": 1
+  },
+  {
+    "tag": "chapter2",
+    "page": 12,
+    "old": "附录A4",
+    "new": "附录12",
+    "count": 1
+  },
+  {
+    "tag": "chapter2",
+    "page": 14,
+    "old": "附录A4",
+    "new": "附录12",
+    "count": 1
+  },
+  {
+    "tag": "chapter2",
+    "page": 16,
+    "old": "附录A4",
+    "new": "附录12",
+    "count": 1
+  },
+  {
+    "tag": "chapter2",
+    "page": 18,
+    "old": "附录A5",
+    "new": "附录13",
+    "count": 1
+  },
+  {
+    "tag": "chapter2",
+    "page": 20,
+    "old": "附录A5",
+    "new": "附录13",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-title",
+    "page": 22,
+    "old": "附录A｜指标与统计覆盖",
+    "new": "9　生态地图：指标与统计覆盖",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-label",
+    "page": 22,
+    "old": "A1.1",
+    "new": "9.1",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-label",
+    "page": 22,
+    "old": "A1.2",
+    "new": "9.2",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-title",
+    "page": 23,
+    "old": "附录A｜历史与情景方法",
+    "new": "10　生态地图：历史与情景方法",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-label",
+    "page": 23,
+    "old": "A2.1",
+    "new": "10.1",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-label",
+    "page": 23,
+    "old": "A2.2",
+    "new": "10.2",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-label",
+    "page": 23,
+    "old": "A2.3",
+    "new": "10.3",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-title",
+    "page": 24,
+    "old": "附录A｜贡献与影响情景读数",
+    "new": "11　生态地图：贡献与影响情景",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-label",
+    "page": 24,
+    "old": "A3.1",
+    "new": "11.1",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-label",
+    "page": 24,
+    "old": "A3.2",
+    "new": "11.2",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-label",
+    "page": 24,
+    "old": "A3.3",
+    "new": "11.3",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-title",
+    "page": 25,
+    "old": "附录A｜样本与资产口径",
+    "new": "12　生态地图：样本与资产口径",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-label",
+    "page": 25,
+    "old": "A4.1",
+    "new": "12.1",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-label",
+    "page": 25,
+    "old": "A4.2",
+    "new": "12.2",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-label",
+    "page": 25,
+    "old": "A4.3",
+    "new": "12.3",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-label",
+    "page": 25,
+    "old": "A4.4",
+    "new": "12.4",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-label",
+    "page": 25,
+    "old": "A4.5",
+    "new": "12.5",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-title",
+    "page": 26,
+    "old": "附录A｜行业专题方法",
+    "new": "13　生态地图：行业专题方法",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-label",
+    "page": 26,
+    "old": "A5.1",
+    "new": "13.1",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-label",
+    "page": 26,
+    "old": "A5.2",
+    "new": "13.2",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-label",
+    "page": 26,
+    "old": "A5.3",
+    "new": "13.3",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-label",
+    "page": 26,
+    "old": "A5.4",
+    "new": "13.4",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-reference",
+    "page": 22,
+    "old": "具体限制见A4",
+    "new": "具体限制见12",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-reference",
+    "page": 24,
+    "old": "每行的历史首末值与A2 算法足以复算端点",
+    "new": "由各行历史首末值与第10节方法复算端点",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-clean-handoff",
+    "page": 21,
+    "old": "以下由本章证据引出的建议，供第六章综合评议；尚不是已验证的政策效果。\n",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-clean-handoff",
+    "page": 21,
+    "old": "下一步：第三章识别关键主体，第四、五章进入技术与模型生态；第六章综合跨章证据，形成预测与行动建议。2030 情景持续校\n准，不作为政策效果承诺。\n",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter3",
+    "page": 12,
+    "old": "附录A",
+    "new": "附录",
+    "count": 1
+  },
+  {
+    "tag": "chapter3-appendix-title",
+    "page": 24,
+    "old": "附录A　对象边界与核验范围",
+    "new": "14　排行榜：对象边界与核验范围",
+    "count": 1
+  },
+  {
+    "tag": "chapter3-appendix-label",
+    "page": 24,
+    "old": "A2.1",
+    "new": "14.1",
+    "count": 1
+  },
+  {
+    "tag": "chapter3-appendix-label",
+    "page": 24,
+    "old": "A2.2",
+    "new": "14.2",
+    "count": 1
+  },
+  {
+    "tag": "chapter3-appendix-label",
+    "page": 24,
+    "old": "A2.3",
+    "new": "14.3",
+    "count": 1
+  },
+  {
+    "tag": "chapter3-appendix-label",
+    "page": 24,
+    "old": "A2.4",
+    "new": "14.4",
+    "count": 1
+  },
+  {
+    "tag": "chapter3-appendix-label",
+    "page": 24,
+    "old": "A2.5",
+    "new": "14.5",
+    "count": 1
+  },
+  {
+    "tag": "chapter3-clean-handoff",
+    "page": 22,
+    "old": "上述为证据引出的行动建议，尚非已验证效果。第四、五章继续检验技术连接、模型复用与开放条件；第六章综合跨章证据，形\n成完整的战略建议与实施安排。\n",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter4",
+    "page": 1,
+    "old": "附录A",
+    "new": "附录",
+    "count": 1
+  },
+  {
+    "tag": "chapter4",
+    "page": 4,
+    "old": "附录A",
+    "new": "附录",
+    "count": 1
+  },
+  {
+    "tag": "chapter4-appendix-title",
+    "page": 14,
+    "old": "附录A　样本、指标与时间",
+    "new": "15　技术全景：样本、指标与时间",
+    "count": 1
+  },
+  {
+    "tag": "chapter4-appendix-title",
+    "page": 15,
+    "old": "附录A　地域口径与主要来源",
+    "new": "16　技术全景：地域口径与来源",
+    "count": 1
+  },
+  {
+    "tag": "chapter5",
+    "page": 1,
+    "old": "附录A1—A2",
+    "new": "附录17",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 2,
+    "old": "［1］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 2,
+    "old": "［2］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 3,
+    "old": "［2］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 3,
+    "old": "［3］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 4,
+    "old": "［2］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 5,
+    "old": "［4］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 5,
+    "old": "［5］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 6,
+    "old": "［6］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 7,
+    "old": "［7］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 8,
+    "old": "［8］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 9,
+    "old": "［9］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 10,
+    "old": "［9］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 11,
+    "old": "［9］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 11,
+    "old": "［10］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 14,
+    "old": "［1］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 14,
+    "old": "［2］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 14,
+    "old": "［3］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 14,
+    "old": "［4］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 14,
+    "old": "［5］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 14,
+    "old": "［6］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 14,
+    "old": "［7］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 14,
+    "old": "［8］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 14,
+    "old": "［9］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-source-mark",
+    "page": 14,
+    "old": "［10］",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter5-clean-handoff",
+    "page": 12,
+    "old": "这些行动方向由本章证据支持，实施效果仍需验证；第六章进一步明确优先次序、承担主体与后续监测信号。\n",
+    "new": "",
+    "count": 1
+  },
+  {
+    "tag": "chapter2-appendix-paragraph-reflow",
+    "page": 24,
+    "old": "单位均为万OpenRank。每行的历史首末值与A2 算法足以复算端点；报告年度（2022→2026）与自然年\n",
+    "new": "单位均为万 OpenRank。根据各行历史首末值及第 10 节方法可复算端点；报告年度（2022→2026）与自然年（2021→2025）分别计算，覆盖不同，不用于相互换算。",
+    "count": 1
+  }
+]

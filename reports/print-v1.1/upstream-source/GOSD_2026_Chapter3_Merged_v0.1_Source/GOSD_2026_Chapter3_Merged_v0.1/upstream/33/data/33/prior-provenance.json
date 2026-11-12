@@ -1,0 +1,96 @@
+{
+  "version": "v0.2",
+  "status": "送审，非批准定稿",
+  "collected_on": "2026-11-05",
+  "activity_period": [
+    "2025-07",
+    "2026-06"
+  ],
+  "authority": {
+    "repository": "https://github.com/will-ww/2026-GOSD-Report",
+    "user_confirmed_baseline": "fff392e957bab9fb6d89d49dea712af47484efaa",
+    "reviewed_commit": "65a5fbda5c9192a11328ed9926959a0f0c5dc8f1",
+    "prior_source_ledger": "sources/prior-provenance.json"
+  },
+  "sources": [
+    {
+      "id": "R1",
+      "type": "legacy_unverified_tables",
+      "repository": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "path": "data/processed/chapter3",
+      "scope": "21条主榜、8条月度轨迹；尚未独立重算"
+    },
+    {
+      "id": "R2",
+      "url": "https://raw.githubusercontent.com/jmertic/lf-landscape/8fcfd93efdf91697b88b97b6ee4abdd2328b3a7b/landscape.yml",
+      "commit": "8fcfd93efdf91697b88b97b6ee4abdd2328b3a7b",
+      "commit_author_date": "2026-06-30T08:12:09Z",
+      "full_yaml_sha256": "ce834a794d498248fa768179bd181218d78a0b7ea92c223b6a86dd602207999d",
+      "filtered_entries": "research/lf_entries.json",
+      "scope": "Projects/All repo_url; additional_repos excluded"
+    },
+    {
+      "id": "R3",
+      "guide": "https://open-digger.cn/docs/user_docs/metrics/metrics_usage_guide",
+      "definition": "https://open-digger.cn/docs/user_docs/metrics/global_openrank",
+      "url_pattern": "https://oss.open-digger.cn/github/{owner}/{repo}/openrank.json",
+      "file_sha256_logs": [
+        "research/fetch_log.json",
+        "research/supplement_fetch_log.json"
+      ]
+    },
+    {
+      "id": "R4",
+      "manual_repository_mapping": "pytorch/pytorch",
+      "urls": [
+        "https://www.linuxfoundation.org/press/press-release/meta-transitions-pytorch-to-the-linux-foundation",
+        "https://github.com/pytorch/pytorch"
+      ],
+      "announcement_date": "2022-09-12",
+      "reason": "PyTorch Foundation名录条目未给出主仓库字段，单独补证。"
+    }
+  ],
+  "metrics": {
+    "ranking_value": "arithmetic mean of 12 monthly global OpenRank values",
+    "complete_case_cohort": 233,
+    "missing": "not zero-filled or imputed",
+    "group_basis": "period-end LF project-group field, retrospectively applied; not constant legal membership or treatment effect",
+    "monthly_rank": "all 233 complete repositories; descending value; tie=min",
+    "comparison_limit": "new repository means must not be equated with legacy foundation totals"
+  },
+  "validation": {
+    "checked_at": "2026-11-05T15:25:58.485568+00:00",
+    "input_hashes": "571/571 pass",
+    "mapped_repositories": 759,
+    "complete_repositories": 233,
+    "period_months": 12,
+    "rank_rows_checked": 233,
+    "monthly_ranking_cells_checked": 2796,
+    "top10_share_pct": 40.3509522766184,
+    "full_coverage_pct": 30.698287220026348,
+    "status": "pass"
+  },
+  "files": {
+    "data/all_repository_coverage.csv": "b532fe06e2483e01efedbdfde8d1e714d32274ce0266fcddc4f9c937ea511bc4",
+    "data/complete_repository_ranking.csv": "31a558041bb089a932506b6e03eee21b5fc57fa5c7a7ed1c3b7eee3654ad954f",
+    "data/fig-3-3-1_foundation_monthly_rank.csv": "3ee901ae2facc3ad0a9ae983a38b848706a825649ffb5f847ad8b21375220c5b",
+    "data/group_portfolio.csv": "6291466576a5b2984d41f2dc15b69035cbf5417a9a7fbf6451c889659abcf986",
+    "data/monthly_openrank.csv": "1c6e384ee935900b30f8f894f41e596a8e45d8319d3a4e37f445eef005908c13",
+    "data/monthly_sample_ranks.csv": "50b619b420f963c3c54be7fe091fc2ed11d00f5e96b909425bea4daabc02c931",
+    "data/table-3-3-1_global_foundation_openrank.csv": "3b025c56d9eb0562ae78ca24cfa4eeccd434cec73f60f976eacf0deef4d94987",
+    "data/trajectory_selection.csv": "710747ff82dfbdf436343a846ce92c69d0594cf96e4f24d6f10953c1d9bd54c1",
+    "figures/01_board.pdf": "b98a3034d720cd69f18424a6ebd69f62edb9ec2a6dab5e7496d17b3ca570cc97",
+    "figures/02_foundation_monthly.pdf": "4f3e09eb1bad72111c332f65cf89f463abd80b58bba28fb0713f7153e5979a37",
+    "figures/03_portfolios.pdf": "88d9dfc3d21b05ab913413c8cefc41948ff93f4150633970a508b60955ab662b",
+    "figures/04_top30.pdf": "9ef97fb034481a05be40926514f219ab735d73485b6cb981f0bb24f6861e103f",
+    "figures/05_repository_monthly.pdf": "b4974755f7518711535d8b784c0986ba65cd37e7086248df5ff44fd8454515da",
+    "sources/appendix-plan.md": "b549cec7fbec50c7e1ac4d123cd24132c7700adefa62cc11733d902b50f1d110",
+    "sources/claims-map.md": "77161de607705615ba5f46b7f0a4d4c856ee0849a1b7ca96ff7fc8fb01e57cfd",
+    "sources/logo-manifest.json": "c38f5676e1d7ead4cccbb57b6925eaf57711ffab378b9f8415499fd9a141a848",
+    "sources/material-inventory.md": "9fe9d1b215996ce3e02395f5839049d3a7beda0680a97c877e6f862789dc1aaa",
+    "sources/prior-provenance.json": "055d810f94c9fbca02d358f4f3490e6f29a5277c5b184e5ffbf8b8cf4e250f4d",
+    "sources/report-constitution.md": "5b1cbeae9869507cdb3bcbd049137a17bae22f4ae16481ee92b5602daf9f800b",
+    "sources/review-checklist.md": "41077bb12108ff96b86cadf58845c0071c6ac863ddc245c474d2107d6482da33"
+  }
+}

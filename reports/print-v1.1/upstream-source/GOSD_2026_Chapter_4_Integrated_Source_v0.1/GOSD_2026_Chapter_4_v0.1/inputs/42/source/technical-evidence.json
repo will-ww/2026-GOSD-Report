@@ -1,0 +1,77 @@
+{
+  "accessed": "2026-11-10",
+  "type": "official documentation and publisher model cards",
+  "historical_scope": "Current documentation used only to explain functions; not proof of availability, deployments or effects in the main reporting period.",
+  "sources": [
+    {
+      "id": "3",
+      "title": "HF Hub: Models Download Stats",
+      "url": "https://huggingface.co/docs/hub/models-download-stats",
+      "supported_paraphrase": "下载是指定文件获取信号，各库规则可能不同；不是用户数或部署数。",
+      "locator": "下载统计说明；query files 与 GET/HEAD 请求"
+    },
+    {
+      "id": "4",
+      "title": "BAAI/bge-m3",
+      "url": "https://huggingface.co/BAAI/bge-m3",
+      "supported_paraphrase": "模型卡声明多语言检索能力，含 Sentence Transformers 用法及 Milvus 集成示例；未验证本地服务成效。",
+      "locator": "模型介绍、多语言范围、调用与更新记录"
+    },
+    {
+      "id": "5",
+      "title": "BAAI/bge-reranker-v2-m3",
+      "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
+      "supported_paraphrase": "输入问题与候选资料，计算相关性以重排；与向量检索功能不同。",
+      "locator": "输入输出及 CrossEncoder/FlagEmbedding 示例"
+    },
+    {
+      "id": "6",
+      "title": "openai/whisper-small",
+      "url": "https://huggingface.co/openai/whisper-small",
+      "supported_paraphrase": "提供音频到文字的语音识别功能。",
+      "locator": "模型用途与自动语音识别示例"
+    },
+    {
+      "id": "7",
+      "title": "hexgrad/Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "supported_paraphrase": "提供文本到声音的语音合成功能。",
+      "locator": "模型介绍及生成示例"
+    },
+    {
+      "id": "8",
+      "title": "pyannote/speaker-diarization-3.1",
+      "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
+      "supported_paraphrase": "输出说话人及时间区间；存在访问条件，未称无条件可获取。",
+      "locator": "管线输入输出、使用条件及示例"
+    },
+    {
+      "id": "9",
+      "title": "openvla/openvla-7b",
+      "url": "https://huggingface.co/openvla/openvla-7b",
+      "supported_paraphrase": "示例连接图像、指令与动作预测，并指定动作尺度和机器人执行环境；本节没有进行实机验证。",
+      "locator": "predict_action、unnorm_key 与 robot.act 示例"
+    },
+    {
+      "id": "10",
+      "title": "HF Hub: GGUF",
+      "url": "https://huggingface.co/docs/hub/gguf",
+      "supported_paraphrase": "GGUF 为模型文件格式，可与推理工具配合使用。",
+      "locator": "格式定义与工具说明"
+    },
+    {
+      "id": "11",
+      "title": "MLX",
+      "url": "https://github.com/ml-explore/mlx",
+      "supported_paraphrase": "面向 Apple 芯片的机器学习数组框架，需要匹配运行环境。",
+      "locator": "官方仓库介绍"
+    },
+    {
+      "id": "12",
+      "title": "LeRobot Documentation",
+      "url": "https://huggingface.co/docs/lerobot/index",
+      "supported_paraphrase": "机器人学习工具，连接数据、模型与设备。",
+      "locator": "官方文档概览"
+    }
+  ]
+}

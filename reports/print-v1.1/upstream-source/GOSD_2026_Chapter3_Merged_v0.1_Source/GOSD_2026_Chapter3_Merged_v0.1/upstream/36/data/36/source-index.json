@@ -1,0 +1,106 @@
+[
+  {
+    "key": "agents",
+    "path": "data/sources/agents.md",
+    "source_url": "https://github.com/will-ww/2026-GOSD-Report/blob/b3f7fd60400d6b46e1c3086b225e5b348a753c47/AGENTS.md",
+    "git_blob_sha": "1b13a211ed9cc7dadfaf3bcff9eca808b63b9579",
+    "encoding": "utf-8",
+    "retrieved_date": "2026-11-07"
+  },
+  {
+    "key": "constitution",
+    "path": "data/sources/constitution.md",
+    "source_url": "https://github.com/will-ww/2026-GOSD-Report/blob/b3f7fd60400d6b46e1c3086b225e5b348a753c47/docs/report-constitution.md",
+    "git_blob_sha": "a5375ddcea133f50e4406e09d070721d6d54870e",
+    "encoding": "utf-8",
+    "retrieved_date": "2026-11-07"
+  },
+  {
+    "key": "claims",
+    "path": "data/sources/claims.md",
+    "source_url": "https://github.com/will-ww/2026-GOSD-Report/blob/b3f7fd60400d6b46e1c3086b225e5b348a753c47/docs/claims-map.md",
+    "git_blob_sha": "2117127eff62ba41f502f288fe31630c1be9fa2d",
+    "encoding": "utf-8",
+    "retrieved_date": "2026-11-07"
+  },
+  {
+    "key": "review",
+    "path": "data/sources/review.md",
+    "source_url": "https://github.com/will-ww/2026-GOSD-Report/blob/b3f7fd60400d6b46e1c3086b225e5b348a753c47/docs/review-checklist.md",
+    "git_blob_sha": "3a62d7e1fd7ff46e35874d7dd2fd065a1a450ee6",
+    "encoding": "utf-8",
+    "retrieved_date": "2026-11-07"
+  },
+  {
+    "key": "brand-review",
+    "path": "data/sources/brand-review.md",
+    "source_url": "https://github.com/will-ww/2026-GOSD-Report/blob/b3f7fd60400d6b46e1c3086b225e5b348a753c47/docs/reviews/2026-11-06-osdgs-v2.0-gosd-v0.6.md",
+    "git_blob_sha": "290cc93340a1891d8ebc60821ce4f9e06dbf2e9c",
+    "encoding": "utf-8",
+    "retrieved_date": "2026-11-07"
+  },
+  {
+    "key": "inventory",
+    "path": "data/sources/inventory.md",
+    "source_url": "https://github.com/will-ww/2026-GOSD-Report/blob/b3f7fd60400d6b46e1c3086b225e5b348a753c47/docs/material-inventory.md",
+    "git_blob_sha": "9d6fe2c33a8e545cb2e4f8de85d8c558bc246da5",
+    "encoding": "utf-8",
+    "retrieved_date": "2026-11-07"
+  },
+  {
+    "key": "monthly-manifest",
+    "path": "data/sources/monthly-manifest.json",
+    "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/manifest.json",
+    "git_blob_sha": "7e88aefb85a948d6fe965691acecaf4c48e773fd",
+    "encoding": "utf-8",
+    "retrieved_date": "2026-11-07"
+  },
+  {
+    "key": "model-reference",
+    "path": "data/sources/model-reference.json",
+    "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-reference.json",
+    "git_blob_sha": "d145c3e099015301d08f0da27f91837664be0c03",
+    "encoding": "utf-8",
+    "retrieved_date": "2026-11-07"
+  },
+  {
+    "key": "june-raw",
+    "path": "data/sources/june-raw.json",
+    "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2026-06-top100.raw.json",
+    "git_blob_sha": "e045af8ff02be299836c9df823b902dbe8192b4b",
+    "encoding": "utf-8",
+    "retrieved_date": "2026-11-07"
+  },
+  {
+    "key": "model-publication",
+    "path": "data/sources/model-publication.py",
+    "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/web/model_publication.py",
+    "git_blob_sha": "2dcca27f7a458cae8fe54c3da2b616ca52158795",
+    "encoding": "utf-8",
+    "retrieved_date": "2026-11-07"
+  },
+  {
+    "key": "model-organization",
+    "path": "data/sources/model-organization.json",
+    "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-organization-reference.json",
+    "git_blob_sha": "6a61965d1e7299c265935158785d95471e4009e5",
+    "encoding": "utf-8",
+    "retrieved_date": "2026-11-07"
+  },
+  {
+    "key": "model-notes",
+    "path": "data/sources/model-notes.md",
+    "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/docs/model-publication-20261021.md",
+    "git_blob_sha": "2198c7329b8afb5d0ca62d8765333a46391529bd",
+    "encoding": "utf-8",
+    "retrieved_date": "2026-11-07"
+  },
+  {
+    "key": "model-indicator",
+    "path": "data/sources/model-indicator.csv",
+    "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/meta/indicators_modelrank.csv",
+    "git_blob_sha": "31416cda6105ae78f72c444b901ab493d32744e8",
+    "encoding": "utf-8",
+    "retrieved_date": "2026-11-07"
+  }
+]

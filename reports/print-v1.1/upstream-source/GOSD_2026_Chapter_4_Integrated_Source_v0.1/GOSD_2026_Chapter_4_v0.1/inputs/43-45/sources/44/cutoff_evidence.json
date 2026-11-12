@@ -1,0 +1,116 @@
+[
+  {
+    "repo": "ClickHouse/ClickHouse",
+    "sha": "5366fc746b13a51ff988a8927b9b9edcf7a75e54",
+    "date": "2026-06-30T23:58:09Z",
+    "url": "https://github.com/ClickHouse/ClickHouse/commit/5366fc746b13a51ff988a8927b9b9edcf7a75e54"
+  },
+  {
+    "repo": "apache/doris",
+    "sha": "c23c9914ad4b776884e9359b0206ab91f8b7fca7",
+    "date": "2026-06-30T13:38:03Z",
+    "url": "https://github.com/apache/doris/commit/c23c9914ad4b776884e9359b0206ab91f8b7fca7"
+  },
+  {
+    "repo": "pingcap/tidb",
+    "sha": "693e52cd51bd8565795ad9c650dd8ac743fc26fe",
+    "date": "2026-06-30T10:13:39Z",
+    "url": "https://github.com/pingcap/tidb/commit/693e52cd51bd8565795ad9c650dd8ac743fc26fe"
+  },
+  {
+    "repo": "ydb-platform/ydb",
+    "sha": "76403ce74c3e525036d280c653b805537bf03a6d",
+    "date": "2026-06-30T23:53:19Z",
+    "url": "https://github.com/ydb-platform/ydb/commit/76403ce74c3e525036d280c653b805537bf03a6d"
+  },
+  {
+    "repo": "valkey-io/valkey",
+    "sha": "eefa8927dc2ba7bb9edf62f9288d155e74df59ff",
+    "date": "2026-06-30T23:30:18Z",
+    "url": "https://github.com/valkey-io/valkey/commit/eefa8927dc2ba7bb9edf62f9288d155e74df59ff"
+  },
+  {
+    "repo": "apache/hbase",
+    "sha": "17c266efc4fccf425e6a7926be943edae283f49e",
+    "date": "2026-06-30T19:42:11Z",
+    "url": "https://github.com/apache/hbase/commit/17c266efc4fccf425e6a7926be943edae283f49e"
+  },
+  {
+    "repo": "StarRocks/starrocks",
+    "sha": "5702ecbf0e012c9ca67b86ac8bdbbd703c9262a7",
+    "date": "2026-06-30T22:51:09Z",
+    "url": "https://github.com/StarRocks/starrocks/commit/5702ecbf0e012c9ca67b86ac8bdbbd703c9262a7"
+  },
+  {
+    "repo": "elastic/elasticsearch",
+    "sha": "f84fbb98789a7f5b3b2b978b8a8c113cc08c653c",
+    "date": "2026-06-30T21:34:45Z",
+    "url": "https://github.com/elastic/elasticsearch/commit/f84fbb98789a7f5b3b2b978b8a8c113cc08c653c"
+  },
+  {
+    "repo": "opensearch-project/OpenSearch",
+    "sha": "1e31adf1a2a11e01ed693ba1fae182a0507808c6",
+    "date": "2026-06-30T23:11:58Z",
+    "url": "https://github.com/opensearch-project/OpenSearch/commit/1e31adf1a2a11e01ed693ba1fae182a0507808c6"
+  },
+  {
+    "repo": "milvus-io/milvus",
+    "sha": "453a6f5193f0a0a9468bab642447dde255aa5812",
+    "date": "2026-06-30T23:04:28Z",
+    "url": "https://github.com/milvus-io/milvus/commit/453a6f5193f0a0a9468bab642447dde255aa5812"
+  },
+  {
+    "repo": "qdrant/qdrant",
+    "sha": "44ad62f8cd69642be5afa6441612525e24a0d063",
+    "date": "2026-06-03T15:09:21Z",
+    "url": "https://github.com/qdrant/qdrant/commit/44ad62f8cd69642be5afa6441612525e24a0d063"
+  },
+  {
+    "repo": "weaviate/weaviate",
+    "sha": "1657926b74712cc257c26c840fef7c3fb0b04802",
+    "date": "2026-06-30T18:15:31Z",
+    "url": "https://github.com/weaviate/weaviate/commit/1657926b74712cc257c26c840fef7c3fb0b04802"
+  },
+  {
+    "repo": "kuzudb/kuzu",
+    "sha": "89f0263cc7a1fd9c396d2c4953747a013556a7f9",
+    "date": "2025-10-10T13:09:14Z",
+    "url": "https://github.com/kuzudb/kuzu/commit/89f0263cc7a1fd9c396d2c4953747a013556a7f9"
+  },
+  {
+    "repo": "lancedb/lancedb",
+    "sha": "3a7b02119bf378e3918fc7a83e0e17762bba114a",
+    "date": "2026-06-30T22:24:56Z",
+    "url": "https://github.com/lancedb/lancedb/commit/3a7b02119bf378e3918fc7a83e0e17762bba114a"
+  },
+  {
+    "repo": "prometheus/prometheus",
+    "sha": "7070104b3485ae8999d6e77f9c654df4af42b1d6",
+    "date": "2026-06-30T21:03:13Z",
+    "url": "https://github.com/prometheus/prometheus/commit/7070104b3485ae8999d6e77f9c654df4af42b1d6"
+  },
+  {
+    "repo": "influxdata/influxdb",
+    "sha": "d7834110b3680ba8e53d16333d158b18b8847bc7",
+    "date": "2026-06-17T17:02:33Z",
+    "url": "https://github.com/influxdata/influxdb/commit/d7834110b3680ba8e53d16333d158b18b8847bc7"
+  },
+  {
+    "repo": "apache/iotdb",
+    "sha": "522c31c7750df43a83955f9d98cb76118d714342",
+    "date": "2026-06-30T16:21:16Z",
+    "url": "https://github.com/apache/iotdb/commit/522c31c7750df43a83955f9d98cb76118d714342"
+  },
+  {
+    "repo": "apache/sedona",
+    "sha": "f75bfd68ee853fa99397de18b1ba40c39cdfe708",
+    "date": "2026-06-26T17:19:40Z",
+    "url": "https://github.com/apache/sedona/commit/f75bfd68ee853fa99397de18b1ba40c39cdfe708"
+  },
+  {
+    "repo": "duckdb/duckdb",
+    "sha": "80b92a9c7b21ef2bd08338eb8b5cbf2f768606c6",
+    "date": "2026-06-30T22:03:29Z",
+    "url": "https://github.com/duckdb/duckdb/commit/80b92a9c7b21ef2bd08338eb8b5cbf2f768606c6"
+  }
+]

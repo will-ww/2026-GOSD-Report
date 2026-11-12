@@ -1,0 +1,26 @@
+[
+  {
+    "file": "community_evals_source_20261107.md",
+    "sha256": "47d281dd8013724e6463e48cc0eed26e9ad360864693b061c25906f2feec83fd",
+    "bytes": 5480,
+    "purpose": "internal source snapshot only; not user-facing distribution"
+  },
+  {
+    "file": "eee_source_20261107.md",
+    "sha256": "0aed84227f8ee3a3a651cee837f05dd507cfbda79aa1d30579db70b558b7274b",
+    "bytes": 10412,
+    "purpose": "internal source snapshot only; not user-facing distribution"
+  },
+  {
+    "file": "multimodal_source_20261107.md",
+    "sha256": "26a151ec4c3fa27acbb10a58120934a390d905646777ad05000e4a359487368e",
+    "bytes": 31053,
+    "purpose": "internal source snapshot only; not user-facing distribution"
+  },
+  {
+    "file": "summer_source_20261107.md",
+    "sha256": "47bef3f96b4b6a82a29b2b2d627be8afa537632deb3492364c15ed931074dca0",
+    "bytes": 21018,
+    "purpose": "internal source snapshot only; not user-facing distribution"
+  }
+]

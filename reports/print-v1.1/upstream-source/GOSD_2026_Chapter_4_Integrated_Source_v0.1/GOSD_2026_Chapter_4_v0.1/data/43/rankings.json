@@ -1,0 +1,1452 @@
+[
+  {
+    "id": "975734319",
+    "repo": "anomalyco/opencode",
+    "name": "OpenCode",
+    "layer": "Agent Infra",
+    "section": "Agentic coding",
+    "stage": "application",
+    "score": 4829.04457,
+    "months": 12
+  },
+  {
+    "id": "965415649",
+    "repo": "openai/codex",
+    "name": "Codex",
+    "layer": "Agent Infra",
+    "section": "Agentic coding",
+    "stage": "application",
+    "score": 4523.779490000001,
+    "months": 12
+  },
+  {
+    "id": "937253475",
+    "repo": "anthropics/claude-code",
+    "name": "Claude Code",
+    "layer": "Agent Infra",
+    "section": "Agentic coding",
+    "stage": "application",
+    "score": 9241.59285,
+    "months": 12
+  },
+  {
+    "id": "1008713177",
+    "repo": "QwenLM/qwen-code",
+    "name": "Qwen Code",
+    "layer": "Agent Infra",
+    "section": "Agentic coding",
+    "stage": "application",
+    "score": 669.4939049999998,
+    "months": 12
+  },
+  {
+    "id": "1035029907",
+    "repo": "earendil-works/pi",
+    "name": "Pi",
+    "layer": "Agent Infra",
+    "section": "Agentic coding",
+    "stage": "application",
+    "score": 588.010314,
+    "months": 8
+  },
+  {
+    "id": "824874689",
+    "repo": "cline/cline",
+    "name": "cline",
+    "layer": "Agent Infra",
+    "section": "Agentic coding",
+    "stage": "application",
+    "score": 1545.147365,
+    "months": 12
+  },
+  {
+    "id": "946087422",
+    "repo": "Kilo-Org/kilocode",
+    "name": "Kilo Code",
+    "layer": "Agent Infra",
+    "section": "Agentic coding",
+    "stage": "application",
+    "score": 1042.273331,
+    "months": 12
+  },
+  {
+    "id": "846698999",
+    "repo": "aaif-goose/goose",
+    "name": "Goose",
+    "layer": "Agent Infra",
+    "section": "Agentic coding",
+    "stage": "application",
+    "score": 1258.7735229999998,
+    "months": 12
+  },
+  {
+    "id": "1246459259",
+    "repo": "MoonshotAI/kimi-code",
+    "name": "kimi-code",
+    "layer": "Agent Infra",
+    "section": "Agentic coding",
+    "stage": "application",
+    "score": 39.766778,
+    "months": 2
+  },
+  {
+    "id": "968197216",
+    "repo": "google-gemini/gemini-cli",
+    "name": "Gemini CLI",
+    "layer": "Agent Infra",
+    "section": "Agentic coding",
+    "stage": "application",
+    "score": 4670.819249999999,
+    "months": 12
+  },
+  {
+    "id": "1216785679",
+    "repo": "esengine/DeepSeek-Reasonix",
+    "name": "DeepSeek-Reasonix",
+    "layer": "Agent Infra",
+    "section": "Agentic coding",
+    "stage": "application",
+    "score": 66.4651883,
+    "months": 3
+  },
+  {
+    "id": "771302083",
+    "repo": "OpenHands/OpenHands",
+    "name": "OpenHands",
+    "layer": "Agent Infra",
+    "section": "Agentic coding",
+    "stage": "application",
+    "score": 693.687241,
+    "months": 12
+  },
+  {
+    "id": "585860664",
+    "repo": "github/copilot-cli",
+    "name": "Copilot CLI",
+    "layer": "Agent Infra",
+    "section": "Agentic coding",
+    "stage": "application",
+    "score": 521.053345,
+    "months": 10
+  },
+  {
+    "id": "1256070689",
+    "repo": "MiniMax-AI/minimax-code",
+    "name": "MiniMax Code",
+    "layer": "Agent Infra",
+    "section": "Agentic coding",
+    "stage": "application",
+    "score": 2.0109007,
+    "months": 1
+  },
+  {
+    "id": "1333065091",
+    "repo": "deepseek-ai/deepseek-harness",
+    "name": "DeepSeek Harness",
+    "layer": "Agent Infra",
+    "section": "Agentic coding",
+    "stage": "application",
+    "score": 0,
+    "months": 0
+  },
+  {
+    "id": "1378288598",
+    "repo": "zai-org/ZCode",
+    "name": "ZCode",
+    "layer": "Agent Infra",
+    "section": "Agentic coding",
+    "stage": "application",
+    "score": 0,
+    "months": 0
+  },
+  {
+    "id": "1153130349",
+    "repo": "pingdotgg/t3code",
+    "name": "T3 Code",
+    "layer": "Agent Infra",
+    "section": "Coding workflows & harnesses",
+    "stage": "application",
+    "score": 292.24463000000003,
+    "months": 4
+  },
+  {
+    "id": "1031912724",
+    "repo": "farion1231/cc-switch",
+    "name": "cc-switch",
+    "layer": "Agent Infra",
+    "section": "Coding workflows & harnesses",
+    "stage": "application",
+    "score": 528.4521293,
+    "months": 11
+  },
+  {
+    "id": "1108837393",
+    "repo": "code-yeongyu/oh-my-openagent",
+    "name": "Oh My OpenAgent",
+    "layer": "Agent Infra",
+    "section": "Coding workflows & harnesses",
+    "stage": "application",
+    "score": 519.536631,
+    "months": 7
+  },
+  {
+    "id": "1136590548",
+    "repo": "affaan-m/ECC",
+    "name": "Everything Claude Code",
+    "layer": "Agent Infra",
+    "section": "Coding workflows & harnesses",
+    "stage": "application",
+    "score": 131.80864100000002,
+    "months": 6
+  },
+  {
+    "id": "1193909050",
+    "repo": "herdrdev/herdr",
+    "name": "herdr",
+    "layer": "Agent Infra",
+    "section": "Coding workflows & harnesses",
+    "stage": "application",
+    "score": 30.649243,
+    "months": 4
+  },
+  {
+    "id": "1073224795",
+    "repo": "obra/superpowers",
+    "name": "superpowers",
+    "layer": "Agent Infra",
+    "section": "Coding workflows & harnesses",
+    "stage": "application",
+    "score": 206.30061650000005,
+    "months": 9
+  },
+  {
+    "id": "1042367133",
+    "repo": "github/spec-kit",
+    "name": "spec-kit",
+    "layer": "Agent Infra",
+    "section": "Coding workflows & harnesses",
+    "stage": "application",
+    "score": 349.30508899999995,
+    "months": 10
+  },
+  {
+    "id": "1103012935",
+    "repo": "openclaw/openclaw",
+    "name": "OpenClaw",
+    "layer": "Agent Infra",
+    "section": "Personal AI assistants",
+    "stage": "application",
+    "score": 7047.4598555,
+    "months": 8
+  },
+  {
+    "id": "1024554267",
+    "repo": "NousResearch/hermes-agent",
+    "name": "Hermes Agent",
+    "layer": "Agent Infra",
+    "section": "Personal AI assistants",
+    "stage": "application",
+    "score": 1765.3865589999998,
+    "months": 5
+  },
+  {
+    "id": "1165324947",
+    "repo": "agentscope-ai/QwenPaw",
+    "name": "QwenPaw",
+    "layer": "Agent Infra",
+    "section": "Personal AI assistants",
+    "stage": "application",
+    "score": 377.86228700000004,
+    "months": 5
+  },
+  {
+    "id": "643445235",
+    "repo": "lobehub/lobehub",
+    "name": "LobeHub",
+    "layer": "Agent Infra",
+    "section": "Personal AI assistants",
+    "stage": "application",
+    "score": 1119.9332610000001,
+    "months": 12
+  },
+  {
+    "id": "575865240",
+    "repo": "AstrBotDevs/AstrBot",
+    "name": "AstrBot",
+    "layer": "Agent Infra",
+    "section": "Personal AI assistants",
+    "stage": "application",
+    "score": 961.433437,
+    "months": 12
+  },
+  {
+    "id": "1156956890",
+    "repo": "zeroclaw-labs/zeroclaw",
+    "name": "ZeroClaw",
+    "layer": "Agent Infra",
+    "section": "Personal AI assistants",
+    "stage": "application",
+    "score": 437.85938799999997,
+    "months": 5
+  },
+  {
+    "id": "1147094660",
+    "repo": "HKUDS/nanobot",
+    "name": "nanobot",
+    "layer": "Agent Infra",
+    "section": "Personal AI assistants",
+    "stage": "application",
+    "score": 427.889237,
+    "months": 5
+  },
+  {
+    "id": "805155266",
+    "repo": "CherryHQ/cherry-studio",
+    "name": "Cherry Studio",
+    "layer": "Agent Infra",
+    "section": "Chatbot workspaces",
+    "stage": "application",
+    "score": 2336.954785,
+    "months": 12
+  },
+  {
+    "id": "701547123",
+    "repo": "open-webui/open-webui",
+    "name": "Open WebUI",
+    "layer": "Agent Infra",
+    "section": "Chatbot workspaces",
+    "stage": "application",
+    "score": 1738.6506029999998,
+    "months": 12
+  },
+  {
+    "id": "600596928",
+    "repo": "danny-avila/LibreChat",
+    "name": "LibreChat",
+    "layer": "Agent Infra",
+    "section": "Chatbot workspaces",
+    "stage": "application",
+    "score": 816.102186,
+    "months": 12
+  },
+  {
+    "id": "979115477",
+    "repo": "bytedance/deer-flow",
+    "name": "deer-flow",
+    "layer": "Agent Infra",
+    "section": "Multi-agent orchestration",
+    "stage": "framework",
+    "score": 995.055398,
+    "months": 12
+  },
+  {
+    "id": "839037098",
+    "repo": "mastra-ai/mastra",
+    "name": "Mastra",
+    "layer": "Agent Infra",
+    "section": "Multi-agent orchestration",
+    "stage": "framework",
+    "score": 1525.36396,
+    "months": 12
+  },
+  {
+    "id": "1170821064",
+    "repo": "paperclipai/paperclip",
+    "name": "Paperclip",
+    "layer": "Agent Infra",
+    "section": "Multi-agent orchestration",
+    "stage": "framework",
+    "score": 386.60095299999995,
+    "months": 4
+  },
+  {
+    "id": "1133707766",
+    "repo": "multica-ai/multica",
+    "name": "multica",
+    "layer": "Agent Infra",
+    "section": "Multi-agent orchestration",
+    "stage": "framework",
+    "score": 150.0693254,
+    "months": 6
+  },
+  {
+    "id": "1183888342",
+    "repo": "stablyai/orca",
+    "name": "orca",
+    "layer": "Agent Infra",
+    "section": "Multi-agent orchestration",
+    "stage": "framework",
+    "score": 65.8198641,
+    "months": 4
+  },
+  {
+    "id": "193215554",
+    "repo": "n8n-io/n8n",
+    "name": "n8n",
+    "layer": "Agent Infra",
+    "section": "Workflow & agent builders",
+    "stage": "framework",
+    "score": 3187.7194399999994,
+    "months": 12
+  },
+  {
+    "id": "626805178",
+    "repo": "langgenius/dify",
+    "name": "Dify",
+    "layer": "Agent Infra",
+    "section": "Workflow & agent builders",
+    "stage": "framework",
+    "score": 3117.29493,
+    "months": 12
+  },
+  {
+    "id": "573661753",
+    "repo": "activepieces/activepieces",
+    "name": "activepieces",
+    "layer": "Agent Infra",
+    "section": "Workflow & agent builders",
+    "stage": "framework",
+    "score": 923.9121029999999,
+    "months": 12
+  },
+  {
+    "id": "599320067",
+    "repo": "langflow-ai/langflow",
+    "name": "Langflow",
+    "layer": "Agent Infra",
+    "section": "Workflow & agent builders",
+    "stage": "framework",
+    "score": 1077.5325370000003,
+    "months": 12
+  },
+  {
+    "id": "621803253",
+    "repo": "FlowiseAI/Flowise",
+    "name": "Flowise",
+    "layer": "Agent Infra",
+    "section": "Workflow & agent builders",
+    "stage": "framework",
+    "score": 447.56687900000003,
+    "months": 12
+  },
+  {
+    "id": "644461337",
+    "repo": "vercel/ai",
+    "name": "Vercel AI SDK",
+    "layer": "Agent Infra",
+    "section": "Code-first frameworks",
+    "stage": "framework",
+    "score": 1808.3451459999997,
+    "months": 12
+  },
+  {
+    "id": "488641606",
+    "repo": "agno-agi/agno",
+    "name": "agno",
+    "layer": "Agent Infra",
+    "section": "Code-first frameworks",
+    "stage": "framework",
+    "score": 1055.9300940000003,
+    "months": 12
+  },
+  {
+    "id": "655515393",
+    "repo": "CopilotKit/CopilotKit",
+    "name": "CopilotKit",
+    "layer": "Agent Infra",
+    "section": "Code-first frameworks",
+    "stage": "framework",
+    "score": 445.185325,
+    "months": 12
+  },
+  {
+    "id": "552661142",
+    "repo": "langchain-ai/langchain",
+    "name": "LangChain",
+    "layer": "Agent Infra",
+    "section": "Code-first frameworks",
+    "stage": "framework",
+    "score": 1150.9799629999995,
+    "months": 12
+  },
+  {
+    "id": "974445592",
+    "repo": "microsoft/agent-framework",
+    "name": "Microsoft Agent Framework",
+    "layer": "Agent Infra",
+    "section": "Code-first frameworks",
+    "stage": "framework",
+    "score": 768.9638198999999,
+    "months": 12
+  },
+  {
+    "id": "818331198",
+    "repo": "pydantic/pydantic-ai",
+    "name": "Pydantic AI",
+    "layer": "Agent Infra",
+    "section": "Code-first frameworks",
+    "stage": "framework",
+    "score": 1268.0932910000001,
+    "months": 12
+  },
+  {
+    "id": "707441527",
+    "repo": "livekit/agents",
+    "name": "LiveKit Agents",
+    "layer": "Agent Infra",
+    "section": "Code-first frameworks",
+    "stage": "framework",
+    "score": 880.1799530000001,
+    "months": 12
+  },
+  {
+    "id": "976095156",
+    "repo": "JetBrains/koog",
+    "name": "Koog",
+    "layer": "Agent Infra",
+    "section": "Code-first frameworks",
+    "stage": "framework",
+    "score": 713.972792,
+    "months": 12
+  },
+  {
+    "id": "958830659",
+    "repo": "google/adk-python",
+    "name": "Google ADK",
+    "layer": "Agent Infra",
+    "section": "Code-first frameworks",
+    "stage": "framework",
+    "score": 958.7610320000001,
+    "months": 12
+  },
+  {
+    "id": "736272311",
+    "repo": "pipecat-ai/pipecat",
+    "name": "Pipecat",
+    "layer": "Agent Infra",
+    "section": "Code-first frameworks",
+    "stage": "framework",
+    "score": 585.704009,
+    "months": 12
+  },
+  {
+    "id": "710601088",
+    "repo": "crewAIInc/crewAI",
+    "name": "crewAI",
+    "layer": "Agent Infra",
+    "section": "Code-first frameworks",
+    "stage": "framework",
+    "score": 541.018237,
+    "months": 12
+  },
+  {
+    "id": "1128123594",
+    "repo": "volcengine/OpenViking",
+    "name": "OpenViking",
+    "layer": "Agent Infra",
+    "section": "Memory, knowledge & context",
+    "stage": "runtime",
+    "score": 595.705396,
+    "months": 6
+  },
+  {
+    "id": "730534580",
+    "repo": "infiniflow/ragflow",
+    "name": "RAGFlow",
+    "layer": "Agent Infra",
+    "section": "Memory, knowledge & context",
+    "stage": "runtime",
+    "score": 1595.337874,
+    "months": 12
+  },
+  {
+    "id": "208728772",
+    "repo": "milvus-io/milvus",
+    "name": "Milvus",
+    "layer": "Agent Infra",
+    "section": "Memory, knowledge & context",
+    "stage": "runtime",
+    "score": 1172.9819860000002,
+    "months": 12
+  },
+  {
+    "id": "1086419061",
+    "repo": "vectorize-io/hindsight",
+    "name": "hindsight",
+    "layer": "Agent Infra",
+    "section": "Memory, knowledge & context",
+    "stage": "runtime",
+    "score": 117.86403499999999,
+    "months": 7
+  },
+  {
+    "id": "679343504",
+    "repo": "topoteretes/cognee",
+    "name": "Cognee",
+    "layer": "Agent Infra",
+    "section": "Memory, knowledge & context",
+    "stage": "runtime",
+    "score": 350.51057999999995,
+    "months": 12
+  },
+  {
+    "id": "656099147",
+    "repo": "mem0ai/mem0",
+    "name": "mem0",
+    "layer": "Agent Infra",
+    "section": "Memory, knowledge & context",
+    "stage": "runtime",
+    "score": 411.89868199999995,
+    "months": 12
+  },
+  {
+    "id": "1080442728",
+    "repo": "oceanbase/seekdb",
+    "name": "seekdb",
+    "layer": "Agent Infra",
+    "section": "Memory, knowledge & context",
+    "stage": "runtime",
+    "score": 51.270337100000006,
+    "months": 8
+  },
+  {
+    "id": "1129940957",
+    "repo": "headroomlabs-ai/headroom",
+    "name": "headroom",
+    "layer": "Agent Infra",
+    "section": "Memory, knowledge & context",
+    "stage": "runtime",
+    "score": 42.5543014,
+    "months": 6
+  },
+  {
+    "id": "764287615",
+    "repo": "supermemoryai/supermemory",
+    "name": "supermemory",
+    "layer": "Agent Infra",
+    "section": "Memory, knowledge & context",
+    "stage": "runtime",
+    "score": 107.04984139999999,
+    "months": 12
+  },
+  {
+    "id": "1063641074",
+    "repo": "a2ui-project/a2ui",
+    "name": "A2UI",
+    "layer": "Agent Infra",
+    "section": "Protocols & interoperability",
+    "stage": "runtime",
+    "score": 360.80892183,
+    "months": 10
+  },
+  {
+    "id": "979886407",
+    "repo": "IBM/mcp-context-forge",
+    "name": "MCP Context Forge",
+    "layer": "Agent Infra",
+    "section": "Protocols & interoperability",
+    "stage": "runtime",
+    "score": 493.96270799999996,
+    "months": 12
+  },
+  {
+    "id": "950891299",
+    "repo": "agentgateway/agentgateway",
+    "name": "AgentGateway",
+    "layer": "Agent Infra",
+    "section": "Protocols & interoperability",
+    "stage": "runtime",
+    "score": 252.05139599999998,
+    "months": 12
+  },
+  {
+    "id": "947349598",
+    "repo": "stacklok/toolhive",
+    "name": "ToolHive",
+    "layer": "Agent Infra",
+    "section": "Protocols & interoperability",
+    "stage": "runtime",
+    "score": 385.85621799999996,
+    "months": 12
+  },
+  {
+    "id": "954873280",
+    "repo": "a2aproject/A2A",
+    "name": "A2A",
+    "layer": "Agent Infra",
+    "section": "Protocols & interoperability",
+    "stage": "runtime",
+    "score": 222.87123329999997,
+    "months": 12
+  },
+  {
+    "id": "1061953414",
+    "repo": "anthropics/skills",
+    "name": "Agent Skills",
+    "layer": "Agent Infra",
+    "section": "Protocols & interoperability",
+    "stage": "runtime",
+    "score": 96.3796108,
+    "months": 9
+  },
+  {
+    "id": "890668799",
+    "repo": "modelcontextprotocol/servers",
+    "name": "MCP",
+    "layer": "Agent Infra",
+    "section": "Protocols & interoperability",
+    "stage": "runtime",
+    "score": 373.45810299999994,
+    "months": 12
+  },
+  {
+    "id": "979392131",
+    "repo": "ag-ui-protocol/ag-ui",
+    "name": "AG-UI",
+    "layer": "Agent Infra",
+    "section": "Protocols & interoperability",
+    "stage": "runtime",
+    "score": 262.917548,
+    "months": 12
+  },
+  {
+    "id": "1191372811",
+    "repo": "larksuite/cli",
+    "name": "Lark CLI",
+    "layer": "Agent Infra",
+    "section": "Tools, web & computer use",
+    "stage": "runtime",
+    "score": 429.26838699999996,
+    "months": 4
+  },
+  {
+    "id": "881458615",
+    "repo": "browser-use/browser-use",
+    "name": "Browser Use",
+    "layer": "Agent Infra",
+    "section": "Tools, web & computer use",
+    "stage": "runtime",
+    "score": 652.636296,
+    "months": 12
+  },
+  {
+    "id": "1132001614",
+    "repo": "vercel-labs/agent-browser",
+    "name": "Agent Browser",
+    "layer": "Agent Infra",
+    "section": "Tools, web & computer use",
+    "stage": "runtime",
+    "score": 117.87496100000001,
+    "months": 6
+  },
+  {
+    "id": "787076358",
+    "repo": "firecrawl/firecrawl",
+    "name": "firecrawl",
+    "layer": "Agent Infra",
+    "section": "Tools, web & computer use",
+    "stage": "runtime",
+    "score": 315.9887145,
+    "months": 12
+  },
+  {
+    "id": "925270205",
+    "repo": "trycua/cua",
+    "name": "CUA",
+    "layer": "Agent Infra",
+    "section": "Tools, web & computer use",
+    "stage": "runtime",
+    "score": 151.819261,
+    "months": 12
+  },
+  {
+    "id": "1062458369",
+    "repo": "alibaba/page-agent",
+    "name": "page-agent",
+    "layer": "Agent Infra",
+    "section": "Tools, web & computer use",
+    "stage": "runtime",
+    "score": 40.76454205,
+    "months": 9
+  },
+  {
+    "id": "440752086",
+    "repo": "coder/coder",
+    "name": "coder",
+    "layer": "Agent Infra",
+    "section": "Development sandboxes",
+    "stage": "runtime",
+    "score": 1012.546383,
+    "months": 12
+  },
+  {
+    "id": "384219990",
+    "repo": "warpdotdev/warp",
+    "name": "Warp",
+    "layer": "Agent Infra",
+    "section": "Development sandboxes",
+    "stage": "runtime",
+    "score": 1073.737621,
+    "months": 12
+  },
+  {
+    "id": "753490180",
+    "repo": "daytonaio/daytona",
+    "name": "daytona",
+    "layer": "Agent Infra",
+    "section": "Development sandboxes",
+    "stage": "runtime",
+    "score": 405.45585299999993,
+    "months": 12
+  },
+  {
+    "id": "1036441713",
+    "repo": "kubernetes-sigs/agent-sandbox",
+    "name": "agent-sandbox",
+    "layer": "Agent Infra",
+    "section": "Development sandboxes",
+    "stage": "runtime",
+    "score": 210.229494,
+    "months": 11
+  },
+  {
+    "id": "1118085970",
+    "repo": "opensandbox-group/OpenSandbox",
+    "name": "OpenSandbox",
+    "layer": "Agent Infra",
+    "section": "Development sandboxes",
+    "stage": "runtime",
+    "score": 82.2362171,
+    "months": 7
+  },
+  {
+    "id": "642497346",
+    "repo": "langfuse/langfuse",
+    "name": "Langfuse",
+    "layer": "Agent Infra",
+    "section": "Observability & evaluation",
+    "stage": "runtime",
+    "score": 953.710524,
+    "months": 12
+  },
+  {
+    "id": "638951438",
+    "repo": "comet-ml/opik",
+    "name": "Opik",
+    "layer": "Agent Infra",
+    "section": "Observability & evaluation",
+    "stage": "runtime",
+    "score": 759.278543,
+    "months": 12
+  },
+  {
+    "id": "564072810",
+    "repo": "Arize-ai/phoenix",
+    "name": "Arize Phoenix",
+    "layer": "Agent Infra",
+    "section": "Observability & evaluation",
+    "stage": "runtime",
+    "score": 614.584974,
+    "months": 12
+  },
+  {
+    "id": "633927609",
+    "repo": "promptfoo/promptfoo",
+    "name": "promptfoo",
+    "layer": "Agent Infra",
+    "section": "Observability & evaluation",
+    "stage": "runtime",
+    "score": 464.9693910000001,
+    "months": 12
+  },
+  {
+    "id": "671269505",
+    "repo": "BerriAI/litellm",
+    "name": "LiteLLM",
+    "layer": "Model Infra",
+    "section": "Model API gateways",
+    "stage": "model",
+    "score": 2969.77449,
+    "months": 12
+  },
+  {
+    "id": "1157102282",
+    "repo": "diegosouzapw/OmniRoute",
+    "name": "OmniRoute",
+    "layer": "Model Infra",
+    "section": "Model API gateways",
+    "stage": "model",
+    "score": 141.077226,
+    "months": 5
+  },
+  {
+    "id": "717197250",
+    "repo": "QuantumNous/new-api",
+    "name": "New API",
+    "layer": "Model Infra",
+    "section": "Model API gateways",
+    "stage": "model",
+    "score": 631.672791,
+    "months": 12
+  },
+  {
+    "id": "558188628",
+    "repo": "higress-group/higress",
+    "name": "higress",
+    "layer": "Model Infra",
+    "section": "Model API gateways",
+    "stage": "model",
+    "score": 578.6565949999999,
+    "months": 12
+  },
+  {
+    "id": "942206898",
+    "repo": "ai-dynamo/dynamo",
+    "name": "NVIDIA Dynamo",
+    "layer": "Model Infra",
+    "section": "Serving · Deploy",
+    "stage": "model",
+    "score": 1863.51365,
+    "months": 12
+  },
+  {
+    "id": "658928958",
+    "repo": "ollama/ollama",
+    "name": "ollama",
+    "layer": "Model Infra",
+    "section": "Serving · Deploy",
+    "stage": "model",
+    "score": 2902.9794700000007,
+    "months": 12
+  },
+  {
+    "id": "975070903",
+    "repo": "llm-d/llm-d",
+    "name": "llm-d",
+    "layer": "Model Infra",
+    "section": "Serving · Deploy",
+    "stage": "model",
+    "score": 305.883922,
+    "months": 12
+  },
+  {
+    "id": "740303686",
+    "repo": "sgl-project/sglang",
+    "name": "SGLang",
+    "layer": "Model Infra",
+    "section": "Serving · Inference",
+    "stage": "model",
+    "score": 4759.66992,
+    "months": 12
+  },
+  {
+    "id": "599547518",
+    "repo": "vllm-project/vllm",
+    "name": "vLLM",
+    "layer": "Model Infra",
+    "section": "Serving · Inference",
+    "stage": "model",
+    "score": 6959.38733,
+    "months": 12
+  },
+  {
+    "id": "679366051",
+    "repo": "NVIDIA/TensorRT-LLM",
+    "name": "TensorRT-LLM",
+    "layer": "Model Infra",
+    "section": "Serving · Inference",
+    "stage": "model",
+    "score": 3405.7391999999995,
+    "months": 12
+  },
+  {
+    "id": "612354784",
+    "repo": "ggml-org/llama.cpp",
+    "name": "llama.cpp",
+    "layer": "Model Infra",
+    "section": "Serving · Inference",
+    "stage": "model",
+    "score": 2847.1098500000003,
+    "months": 12
+  },
+  {
+    "id": "1054512829",
+    "repo": "vllm-project/vllm-omni",
+    "name": "vLLM Omni",
+    "layer": "Model Infra",
+    "section": "Serving · Inference",
+    "stage": "model",
+    "score": 703.1432038,
+    "months": 9
+  },
+  {
+    "id": "156939672",
+    "repo": "microsoft/onnxruntime",
+    "name": "ONNX Runtime",
+    "layer": "Model Infra",
+    "section": "Serving · Inference",
+    "stage": "model",
+    "score": 1612.7014009999998,
+    "months": 12
+  },
+  {
+    "id": "153097643",
+    "repo": "openvinotoolkit/openvino",
+    "name": "OpenVINO",
+    "layer": "Model Infra",
+    "section": "Serving · Inference",
+    "stage": "model",
+    "score": 1753.235756,
+    "months": 12
+  },
+  {
+    "id": "807305060",
+    "repo": "LMCache/LMCache",
+    "name": "LMCache",
+    "layer": "Model Infra",
+    "section": "Serving · Inference",
+    "stage": "model",
+    "score": 685.1469359999999,
+    "months": 12
+  },
+  {
+    "id": "949546994",
+    "repo": "NVIDIA-NeMo/RL",
+    "name": "NeMo RL",
+    "layer": "Model Infra",
+    "section": "Post-Train · RL & environments",
+    "stage": "model",
+    "score": 605.045678,
+    "months": 12
+  },
+  {
+    "id": "881221486",
+    "repo": "verl-project/verl",
+    "name": "verl",
+    "layer": "Model Infra",
+    "section": "Post-Train · RL & environments",
+    "stage": "model",
+    "score": 2247.851888,
+    "months": 12
+  },
+  {
+    "id": "1037741738",
+    "repo": "RLinf/RLinf",
+    "name": "RLinf",
+    "layer": "Model Infra",
+    "section": "Post-Train · RL & environments",
+    "stage": "model",
+    "score": 326.26588200000003,
+    "months": 11
+  },
+  {
+    "id": "250510075",
+    "repo": "huggingface/trl",
+    "name": "TRL",
+    "layer": "Model Infra",
+    "section": "Post-Train · RL & environments",
+    "stage": "model",
+    "score": 722.8415089999999,
+    "months": 12
+  },
+  {
+    "id": "1067949357",
+    "repo": "huggingface/OpenEnv",
+    "name": "OpenEnv",
+    "layer": "Model Infra",
+    "section": "Post-Train · RL & environments",
+    "stage": "model",
+    "score": 121.87034600000001,
+    "months": 9
+  },
+  {
+    "id": "937952934",
+    "repo": "areal-project/AReaL",
+    "name": "AReaL",
+    "layer": "Model Infra",
+    "section": "Post-Train · RL & environments",
+    "stage": "model",
+    "score": 482.35977199999996,
+    "months": 12
+  },
+  {
+    "id": "725205304",
+    "repo": "unslothai/unsloth",
+    "name": "Unsloth",
+    "layer": "Model Infra",
+    "section": "Post-Train · Supervised fine-tuning",
+    "stage": "model",
+    "score": 715.746877,
+    "months": 12
+  },
+  {
+    "id": "673412924",
+    "repo": "modelscope/ms-swift",
+    "name": "ms-swift",
+    "layer": "Model Infra",
+    "section": "Post-Train · Supervised fine-tuning",
+    "stage": "model",
+    "score": 1074.1383660000001,
+    "months": 12
+  },
+  {
+    "id": "646410686",
+    "repo": "hiyouga/LlamaFactory",
+    "name": "LLaMA Factory",
+    "layer": "Model Infra",
+    "section": "Post-Train · Supervised fine-tuning",
+    "stage": "model",
+    "score": 550.3002145000002,
+    "months": 12
+  },
+  {
+    "id": "65600975",
+    "repo": "pytorch/pytorch",
+    "name": "PyTorch",
+    "layer": "Model Infra",
+    "section": "Pre-Train · Framework & parallel",
+    "stage": "model",
+    "score": 9423.006019999999,
+    "months": 12
+  },
+  {
+    "id": "154739597",
+    "repo": "jax-ml/jax",
+    "name": "JAX",
+    "layer": "Model Infra",
+    "section": "Pre-Train · Framework & parallel",
+    "stage": "model",
+    "score": 1453.1539750000002,
+    "months": 12
+  },
+  {
+    "id": "176982014",
+    "repo": "NVIDIA/Megatron-LM",
+    "name": "Megatron-LM",
+    "layer": "Model Infra",
+    "section": "Pre-Train · Framework & parallel",
+    "stage": "model",
+    "score": 687.1103340000001,
+    "months": 12
+  },
+  {
+    "id": "65711522",
+    "repo": "PaddlePaddle/Paddle",
+    "name": "PaddlePaddle",
+    "layer": "Model Infra",
+    "section": "Pre-Train · Framework & parallel",
+    "stage": "model",
+    "score": 1469.3857389999996,
+    "months": 12
+  },
+  {
+    "id": "235860204",
+    "repo": "deepspeedai/DeepSpeed",
+    "name": "DeepSpeed",
+    "layer": "Model Infra",
+    "section": "Pre-Train · Framework & parallel",
+    "stage": "model",
+    "score": 322.98624800000005,
+    "months": 12
+  },
+  {
+    "id": "45717250",
+    "repo": "tensorflow/tensorflow",
+    "name": "tensorflow",
+    "layer": "Model Infra",
+    "section": "Pre-Train · Framework & parallel",
+    "stage": "model",
+    "score": 496.9913030000001,
+    "months": 12
+  },
+  {
+    "id": "86031674",
+    "repo": "wandb/wandb",
+    "name": "Weights & Biases",
+    "layer": "Model Infra",
+    "section": "Pre-Train · Evaluation & observability",
+    "stage": "model",
+    "score": 811.5846399999999,
+    "months": 12
+  },
+  {
+    "id": "136202695",
+    "repo": "mlflow/mlflow",
+    "name": "MLflow",
+    "layer": "Model Infra",
+    "section": "Pre-Train · Evaluation & observability",
+    "stage": "model",
+    "score": 1161.820617,
+    "months": 12
+  },
+  {
+    "id": "748713144",
+    "repo": "huggingface/lerobot",
+    "name": "LeRobot",
+    "layer": "Model Infra",
+    "section": "Pre-Train · Robotics infra",
+    "stage": "model",
+    "score": 758.1034390000001,
+    "months": 12
+  },
+  {
+    "id": "914053359",
+    "repo": "OpenMind/OM1",
+    "name": "OpenMind OM1",
+    "layer": "Model Infra",
+    "section": "Pre-Train · Robotics infra",
+    "stage": "model",
+    "score": 317.148879,
+    "months": 12
+  },
+  {
+    "id": "669331976",
+    "repo": "flashinfer-ai/flashinfer",
+    "name": "flashinfer",
+    "layer": "Model Infra",
+    "section": "Pre-Train · Compiler & accelerator",
+    "stage": "model",
+    "score": 1083.973497,
+    "months": 12
+  },
+  {
+    "id": "23496542",
+    "repo": "triton-lang/triton",
+    "name": "triton",
+    "layer": "Model Infra",
+    "section": "Pre-Train · Compiler & accelerator",
+    "stage": "model",
+    "score": 1262.0081690000002,
+    "months": 12
+  },
+  {
+    "id": "790916393",
+    "repo": "NVIDIA/Model-Optimizer",
+    "name": "NVIDIA Model Optimizer",
+    "layer": "Model Infra",
+    "section": "Pre-Train · Compiler & accelerator",
+    "stage": "model",
+    "score": 506.84176700000006,
+    "months": 12
+  },
+  {
+    "id": "539057023",
+    "repo": "NVIDIA/TransformerEngine",
+    "name": "Transformer Engine",
+    "layer": "Model Infra",
+    "section": "Pre-Train · Compiler & accelerator",
+    "stage": "model",
+    "score": 604.5058689999998,
+    "months": 12
+  },
+  {
+    "id": "523007292",
+    "repo": "openxla/xla",
+    "name": "OpenXLA",
+    "layer": "Model Infra",
+    "section": "Pre-Train · Compiler & accelerator",
+    "stage": "model",
+    "score": 565.08232,
+    "months": 12
+  },
+  {
+    "id": "112542515",
+    "repo": "NVIDIA/cutlass",
+    "name": "CUTLASS",
+    "layer": "Model Infra",
+    "section": "Pre-Train · Compiler & accelerator",
+    "stage": "model",
+    "score": 310.3363615,
+    "months": 12
+  },
+  {
+    "id": "494232964",
+    "repo": "Dao-AILab/flash-attention",
+    "name": "FlashAttention",
+    "layer": "Model Infra",
+    "section": "Pre-Train · Compiler & accelerator",
+    "stage": "model",
+    "score": 306.80712300000005,
+    "months": 12
+  },
+  {
+    "id": "933928679",
+    "repo": "deepseek-ai/DeepEP",
+    "name": "DeepEP",
+    "layer": "Model Infra",
+    "section": "Pre-Train · Compiler & accelerator",
+    "stage": "model",
+    "score": 162.0939102,
+    "months": 12
+  },
+  {
+    "id": "139156354",
+    "repo": "cvat-ai/cvat",
+    "name": "CVAT",
+    "layer": "Model Infra",
+    "section": "Data · Labeling",
+    "stage": "model",
+    "score": 423.93023,
+    "months": 12
+  },
+  {
+    "id": "192640529",
+    "repo": "HumanSignal/label-studio",
+    "name": "Label Studio",
+    "layer": "Model Infra",
+    "section": "Data · Labeling",
+    "stage": "model",
+    "score": 531.5097175999999,
+    "months": 11
+  },
+  {
+    "id": "33884891",
+    "repo": "apache/airflow",
+    "name": "Apache Airflow",
+    "layer": "Model Infra",
+    "section": "Data · Integration",
+    "stage": "model",
+    "score": 3110.4984200000004,
+    "months": 12
+  },
+  {
+    "id": "826168160",
+    "repo": "docling-project/docling",
+    "name": "docling",
+    "layer": "Model Infra",
+    "section": "Data · Integration",
+    "stage": "model",
+    "score": 764.2633740000001,
+    "months": 12
+  },
+  {
+    "id": "283046497",
+    "repo": "airbytehq/airbyte",
+    "name": "airbyte",
+    "layer": "Model Infra",
+    "section": "Data · Integration",
+    "stage": "model",
+    "score": 1142.564122,
+    "months": 12
+  },
+  {
+    "id": "888092115",
+    "repo": "microsoft/markitdown",
+    "name": "markitdown",
+    "layer": "Model Infra",
+    "section": "Data · Integration",
+    "stage": "model",
+    "score": 105.07179590000001,
+    "months": 12
+  },
+  {
+    "id": "391740664",
+    "repo": "open-metadata/OpenMetadata",
+    "name": "OpenMetadata",
+    "layer": "Model Infra",
+    "section": "Data · Governance",
+    "stage": "model",
+    "score": 1170.9840599999998,
+    "months": 12
+  },
+  {
+    "id": "46398090",
+    "repo": "datahub-project/datahub",
+    "name": "DataHub",
+    "layer": "Model Infra",
+    "section": "Data · Governance",
+    "stage": "model",
+    "score": 1046.203654,
+    "months": 12
+  },
+  {
+    "id": "158256479",
+    "repo": "apache/iceberg",
+    "name": "Apache Iceberg",
+    "layer": "Model Infra",
+    "section": "Data · Governance",
+    "stage": "model",
+    "score": 1239.278975,
+    "months": 12
+  },
+  {
+    "id": "182849188",
+    "repo": "delta-io/delta",
+    "name": "Delta Lake",
+    "layer": "Model Infra",
+    "section": "Data · Governance",
+    "stage": "model",
+    "score": 561.741128,
+    "months": 12
+  },
+  {
+    "id": "76474200",
+    "repo": "apache/hudi",
+    "name": "Apache Hudi",
+    "layer": "Model Infra",
+    "section": "Data · Governance",
+    "stage": "model",
+    "score": 639.538373,
+    "months": 12
+  },
+  {
+    "id": "447060287",
+    "repo": "apache/paimon",
+    "name": "Apache Paimon",
+    "layer": "Model Infra",
+    "section": "Data · Governance",
+    "stage": "model",
+    "score": 519.06687,
+    "months": 12
+  },
+  {
+    "id": "631431061",
+    "repo": "apache/gravitino",
+    "name": "Apache Gravitino",
+    "layer": "Model Infra",
+    "section": "Data · Governance",
+    "stage": "model",
+    "score": 657.8623659999998,
+    "months": 12
+  },
+  {
+    "id": "71932349",
+    "repo": "ray-project/ray",
+    "name": "ray",
+    "layer": "Model Infra",
+    "section": "Compute & scheduling",
+    "stage": "model",
+    "score": 2557.7531400000003,
+    "months": 12
+  },
+  {
+    "id": "17165658",
+    "repo": "apache/spark",
+    "name": "Apache Spark",
+    "layer": "Model Infra",
+    "section": "Compute & scheduling",
+    "stage": "model",
+    "score": 1744.1423400000003,
+    "months": 12
+  },
+  {
+    "id": "178075572",
+    "repo": "kserve/kserve",
+    "name": "kserve",
+    "layer": "Model Infra",
+    "section": "Compute & scheduling",
+    "stage": "model",
+    "score": 240.74536799999998,
+    "months": 12
+  },
+  {
+    "id": "175592968",
+    "repo": "volcano-sh/volcano",
+    "name": "volcano",
+    "layer": "Model Infra",
+    "section": "Compute & scheduling",
+    "stage": "model",
+    "score": 304.898517,
+    "months": 12
+  }
+]

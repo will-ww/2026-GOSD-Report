@@ -1,0 +1,67 @@
+{
+  "version": "4.2 v0.1",
+  "recorded": "2026-11-10",
+  "main_period": [
+    "2025-07-01",
+    "2026-06-30"
+  ],
+  "authority": "https://github.com/will-ww/2026-GOSD-Report",
+  "confirmed_baseline": "fff392e957bab9fb6d89d49dea712af47484efaa",
+  "source_data_commit": "c51e3441361407b68f10b339d97eff288319b503",
+  "scope": "Actual CSV inputs included in this package. The preserved legacy manifest is historical and lists additional files not included here.",
+  "limitations": "Frozen processed tables copied byte-for-byte. No original 2026-10-02 API responses, complete candidate list, sampling code, pipeline-tag mapping, or per-record capture logs found in the inspected old-report repository or local relevant resources. This is not a new data collection.",
+  "files": [
+    {
+      "path": "source/fig-4-2-1_model_landscape_recent_downloads.csv",
+      "sha256": "b19f27f11ad91b9729e92535cfd768f711d493c9d11bfa22156640e9bc0cbf6b",
+      "bytes": 34710,
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter4/fig-4-2-1_model_landscape_recent_downloads.csv",
+      "prior_sha256": "b19f27f11ad91b9729e92535cfd768f711d493c9d11bfa22156640e9bc0cbf6b",
+      "byte_identical": true,
+      "window": "Original metadata labels snapshot 2026-10-02; post-period; per-record capture logs not obtained.",
+      "used_in_pdf": true
+    },
+    {
+      "path": "source/fig-4-2-2_model_landscape_total_downloads.csv",
+      "sha256": "b40e969e8ae4035fc547ca77044ddc3609d451210b891d286a6eac203331a367",
+      "bytes": 34570,
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter4/fig-4-2-2_model_landscape_total_downloads.csv",
+      "prior_sha256": "b40e969e8ae4035fc547ca77044ddc3609d451210b891d286a6eac203331a367",
+      "byte_identical": true,
+      "window": "Original metadata labels snapshot 2026-10-02; post-period; per-record capture logs not obtained.",
+      "used_in_pdf": false
+    },
+    {
+      "path": "source/fig-4-2-3_model_landscape_likes.csv",
+      "sha256": "438a8fc39f875a54326e188f526e440402307be1f6096e153e4af3fac90a382a",
+      "bytes": 33966,
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter4/fig-4-2-3_model_landscape_likes.csv",
+      "prior_sha256": "438a8fc39f875a54326e188f526e440402307be1f6096e153e4af3fac90a382a",
+      "byte_identical": true,
+      "window": "Original metadata labels snapshot 2026-10-02; post-period; per-record capture logs not obtained.",
+      "used_in_pdf": false
+    },
+    {
+      "path": "source/summer_parameter_distribution.csv",
+      "sha256": "e159be4be7af9cdbc8f92402f58e2cc2c17caadc473701bd623214848d23af73",
+      "bytes": 2288,
+      "source_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "source_text_revision": "9e982d5f2ff0c93248a897bf1e0c59c9828c5ab8",
+      "source_chart_revision": "14faecfd3979f21dfb9b5327dea641c50c2f53b4",
+      "method": "Transcribed printed numeric labels; source charts visually rechecked 2026-11-10; original artwork and full text not distributed.",
+      "window": "2026-07-29 snapshot",
+      "used_in_pdf": true
+    },
+    {
+      "path": "source/summer_runtime_library_counts.csv",
+      "sha256": "62420760f60a86da60dddf3cec004a419e7b07da5eb1cbac54558865f071ebca",
+      "bytes": 3137,
+      "source_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "source_text_revision": "9e982d5f2ff0c93248a897bf1e0c59c9828c5ab8",
+      "source_chart_revision": "14faecfd3979f21dfb9b5327dea641c50c2f53b4",
+      "method": "Transcribed printed numeric labels; source charts visually rechecked 2026-11-10; original artwork and full text not distributed.",
+      "window": "2026-01-07 through 2026-07-29",
+      "used_in_pdf": true
+    }
+  ]
+}

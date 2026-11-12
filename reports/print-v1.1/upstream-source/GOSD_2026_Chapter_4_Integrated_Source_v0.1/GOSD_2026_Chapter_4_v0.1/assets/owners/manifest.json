@@ -1,0 +1,70 @@
+[
+  {
+    "owner": "PyTorchKorea",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "owner": "PytorchConnectomics",
+    "url": "https://github.com/PytorchConnectomics.png?size=96",
+    "path": "assets/owners/PytorchConnectomics.png",
+    "sha256": "3d532e11796c65af3e4f0fd3d32f98758ba2593c36754256c22147d746c051bb",
+    "kind": "repository owner avatar",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "owner": "PytorchForge",
+    "url": "https://github.com/PytorchForge.png?size=96",
+    "path": "assets/owners/PytorchForge.png",
+    "sha256": "8b6a272486ee9e85899cbc83bf1c0c8d14c27caf77502ed1896b95a45fef5210",
+    "kind": "repository owner avatar",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "owner": "meta-pytorch",
+    "url": "https://github.com/meta-pytorch.png?size=96",
+    "path": "assets/owners/meta-pytorch.png",
+    "sha256": "3f1123c78ffdef515c0e798cd221d5339d73aafef5cf781c418dfe4cf60ee466",
+    "kind": "repository owner avatar",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "owner": "pytorch",
+    "url": "https://github.com/pytorch.png?size=96",
+    "path": "assets/owners/pytorch.png",
+    "sha256": "0266bdf84c0482a76a396411c60067e3cbe53ffeddc616e1936fe2c40575f71d",
+    "kind": "repository owner avatar",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "owner": "pytorch-fdn",
+    "url": "https://github.com/pytorch-fdn.png?size=96",
+    "path": "assets/owners/pytorch-fdn.png",
+    "sha256": "5fee2e93e2edeedc925e3a0f404033624c90ca49a66c75b9b4a73ff2f7cff7da",
+    "kind": "repository owner avatar",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "owner": "pytorch-labs",
+    "url": "https://github.com/pytorch-labs.png?size=96",
+    "path": "assets/owners/pytorch-labs.png",
+    "sha256": "f5f5d3f3b985fa07fbbe526efedd5f41dd097b40d5660cc42f0147edc1c23656",
+    "kind": "repository owner avatar",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "owner": "pytorch-lifestream",
+    "url": "https://github.com/pytorch-lifestream.png?size=96",
+    "path": "assets/owners/pytorch-lifestream.png",
+    "sha256": "b6089eae697fae99a87ddf94ce0a8af8e073402f47bf27e58642befc3080b3c3",
+    "kind": "repository owner avatar",
+    "retrieved": "2026-11-10"
+  },
+  {
+    "owner": "pytorch-tabular",
+    "url": "https://github.com/pytorch-tabular.png?size=96",
+    "path": "assets/owners/pytorch-tabular.png",
+    "sha256": "65809a827872cb0cf6db6a12e695e77f5fa59ff9c8e9c89ec1df884e8d9ad897",
+    "kind": "repository owner avatar",
+    "retrieved": "2026-11-10"
+  }
+]

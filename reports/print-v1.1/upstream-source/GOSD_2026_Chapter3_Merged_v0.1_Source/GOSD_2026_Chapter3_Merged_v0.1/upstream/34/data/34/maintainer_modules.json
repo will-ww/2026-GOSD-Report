@@ -1,0 +1,569 @@
+[
+  {
+    "module": "NN APIs (torch.nn)",
+    "members": [
+      "alband",
+      "jbschlosser",
+      "mikaylagawarecki"
+    ],
+    "emeritus": [
+      "apaszke",
+      "colesbury",
+      "gchanan",
+      "soumith"
+    ]
+  },
+  {
+    "module": "Optimizers (torch.optim)",
+    "members": [
+      "alband",
+      "janeyx99",
+      "jbschlosser"
+    ],
+    "emeritus": [
+      "iramazanli",
+      "soumith",
+      "vincentqb"
+    ]
+  },
+  {
+    "module": "Autograd (torch.autograd)",
+    "members": [
+      "alband",
+      "ezyang",
+      "soulitzer"
+    ],
+    "emeritus": [
+      "apaszke"
+    ]
+  },
+  {
+    "module": "TorchDynamo",
+    "members": [
+      "anijain2305",
+      "ezyang",
+      "jansel",
+      "williamwen"
+    ],
+    "emeritus": []
+  },
+  {
+    "module": "TorchInductor",
+    "members": [
+      "eellison",
+      "eikanwang",
+      "jansel",
+      "shunting314"
+    ],
+    "emeritus": [
+      "chillee",
+      "jgong5"
+    ]
+  },
+  {
+    "module": "Cudagraph Tree",
+    "members": [
+      "boyuanfeng",
+      "eellison"
+    ],
+    "emeritus": []
+  },
+  {
+    "module": "PT2 Dispatcher",
+    "members": [
+      "aorenste",
+      "ezyang",
+      "zou3519"
+    ],
+    "emeritus": [
+      "bdhirsh",
+      "chillee"
+    ]
+  },
+  {
+    "module": "PT2 Export (torch.export)",
+    "members": [
+      "angelayi",
+      "miladm"
+    ],
+    "emeritus": [
+      "avikchaudhuri",
+      "gmagogsfm"
+    ]
+  },
+  {
+    "module": "AOT Inductor (AOTI) & AOTI Runtime",
+    "members": [
+      "desertfire",
+      "shangdiy"
+    ],
+    "emeritus": [
+      "angelayi",
+      "chenyang78"
+    ]
+  },
+  {
+    "module": "Distributions & RNG",
+    "members": [
+      "fritzo"
+    ],
+    "emeritus": [
+      "alicanb",
+      "neerajprad",
+      "vishwakftw"
+    ]
+  },
+  {
+    "module": "Distributed",
+    "members": [
+      "d4l3k",
+      "fduwjj",
+      "fegin",
+      "h-huang",
+      "wconstab",
+      "weifengpy",
+      "zpcore"
+    ],
+    "emeritus": [
+      "aazzolini",
+      "jamesr66a",
+      "kiukchung",
+      "kwen2501",
+      "mingzhe09088",
+      "mrshenli",
+      "osalpekar",
+      "pietern",
+      "pritamdamania87",
+      "rohan-varma",
+      "wanchaol",
+      "zhaojuanmao"
+    ]
+  },
+  {
+    "module": "Multiprocessing",
+    "members": [
+      "alband"
+    ],
+    "emeritus": [
+      "apaszke",
+      "ssnl",
+      "vitalyfedyunin"
+    ]
+  },
+  {
+    "module": "Linear Algebra (torch.linalg)",
+    "members": [
+      "lezcano"
+    ],
+    "emeritus": [
+      "ivanyashchuk",
+      "mruberry",
+      "nikitaved",
+      "vishwakftw"
+    ]
+  },
+  {
+    "module": "Sparse (torch.sparse)",
+    "members": [],
+    "emeritus": [
+      "amjames",
+      "cpuhrsch",
+      "ivanyashchuk",
+      "nikitaved",
+      "pearu"
+    ]
+  },
+  {
+    "module": "NestedTensor (torch.nested)",
+    "members": [],
+    "emeritus": [
+      "alband",
+      "cpuhrsch",
+      "drisspg",
+      "jbschlosser",
+      "mikaylagawarecki",
+      "ngimel"
+    ]
+  },
+  {
+    "module": "MaskedTensor (torch.masked)",
+    "members": [],
+    "emeritus": [
+      "cpuhrsch",
+      "george-qi"
+    ]
+  },
+  {
+    "module": "Fast Fourier Transform (torch.fft)",
+    "members": [],
+    "emeritus": [
+      "mruberry",
+      "peterbell10"
+    ]
+  },
+  {
+    "module": "Quantization (torch/ao)",
+    "members": [
+      "jerryzh168",
+      "vkuzo"
+    ],
+    "emeritus": [
+      "msaroufim",
+      "raghuramank100",
+      "z-a-f"
+    ]
+  },
+  {
+    "module": "MKLDNN",
+    "members": [
+      "jgong5",
+      "mingfeima",
+      "xiaobingsuper"
+    ],
+    "emeritus": [
+      "bddppq",
+      "colesbury",
+      "cpuhrsch",
+      "ilia-cher",
+      "jianhui-li",
+      "vitalyfedyunin",
+      "yinghai",
+      "zheng-xq"
+    ]
+  },
+  {
+    "module": "CUDA",
+    "members": [
+      "csarofeen",
+      "ezyang",
+      "ngimel",
+      "ptrblck"
+    ],
+    "emeritus": [
+      "ajtulloch",
+      "zheng-xq"
+    ]
+  },
+  {
+    "module": "AMD/ROCm/HIP",
+    "members": [
+      "jeffdaily",
+      "jithunnair-amd"
+    ],
+    "emeritus": [
+      "bddppq"
+    ]
+  },
+  {
+    "module": "XPU/Intel GPU",
+    "members": [
+      "eikanwang",
+      "guangyey"
+    ],
+    "emeritus": []
+  },
+  {
+    "module": "Windows",
+    "members": [],
+    "emeritus": [
+      "gaoteng-git",
+      "nbcsm",
+      "peterjc123"
+    ]
+  },
+  {
+    "module": "Apple M1/MPS/Metal",
+    "members": [
+      "malfet"
+    ],
+    "emeritus": [
+      "alband",
+      "kulinseth",
+      "razarmehr"
+    ]
+  },
+  {
+    "module": "PowerPC",
+    "members": [],
+    "emeritus": [
+      "avmgithub"
+    ]
+  },
+  {
+    "module": "x86 CPU",
+    "members": [
+      "jgong5",
+      "mingfeima"
+    ],
+    "emeritus": []
+  },
+  {
+    "module": "AArch64 CPU",
+    "members": [
+      "snadampal"
+    ],
+    "emeritus": []
+  },
+  {
+    "module": "Out-of-tree Backend Integration (PrivateUse1)",
+    "members": [
+      "fffrog"
+    ],
+    "emeritus": []
+  },
+  {
+    "module": "Build + CI",
+    "members": [
+      "alband",
+      "atalman",
+      "malfet",
+      "seemethere",
+      "zainrizvi"
+    ],
+    "emeritus": [
+      "dagitses",
+      "ezyang",
+      "kostmo",
+      "mehtanirav",
+      "osalpekar",
+      "zhouzhuojie"
+    ]
+  },
+  {
+    "module": "Profiling and Monitoring Tools",
+    "members": [
+      "divyanshk",
+      "scotts"
+    ],
+    "emeritus": [
+      "bitfort",
+      "gdankel",
+      "mingzhe09088",
+      "ngimel",
+      "robieta",
+      "xuzhao9"
+    ]
+  },
+  {
+    "module": "C++ API (libtorch + StableABI)",
+    "members": [
+      "janeyx99",
+      "mikaylagawarecki"
+    ],
+    "emeritus": [
+      "jbschlosser",
+      "yf225"
+    ]
+  },
+  {
+    "module": "C10 utils and operator dispatch",
+    "members": [
+      "bdhirsh",
+      "ezyang"
+    ],
+    "emeritus": [
+      "dzhulgakov",
+      "smessmer"
+    ]
+  },
+  {
+    "module": "ONNX exporter",
+    "members": [
+      "justinchuby",
+      "shubhambhokare1",
+      "titaiwangms",
+      "xadupre"
+    ],
+    "emeritus": [
+      "abock",
+      "bowenbao",
+      "garymm",
+      "houseroad",
+      "lara-hdr",
+      "neginraoof",
+      "spandantiwari",
+      "thiagocrepaldi"
+    ]
+  },
+  {
+    "module": "Docs / Tutorials",
+    "members": [
+      "sekyondameta",
+      "svekars"
+    ],
+    "emeritus": []
+  },
+  {
+    "module": "ExecuTorch (Edge, Mobile)",
+    "members": [
+      "digantdesai",
+      "jacobszwejbka",
+      "mergennachin"
+    ],
+    "emeritus": [
+      "cccclai",
+      "dbort",
+      "iseeyuan",
+      "kimishpatel",
+      "larryliu0820"
+    ]
+  },
+  {
+    "module": "TorchCodec",
+    "members": [
+      "nicolashug",
+      "scotts"
+    ],
+    "emeritus": [
+      "ahmadsharif1"
+    ]
+  },
+  {
+    "module": "TorchVision",
+    "members": [
+      "antoinesimoulin",
+      "nicolashug"
+    ],
+    "emeritus": [
+      "datumbox",
+      "fmassa",
+      "jdsgomes",
+      "pmeier",
+      "vfdev-5",
+      "yosuamichael"
+    ]
+  },
+  {
+    "module": "TorchText",
+    "members": [],
+    "emeritus": [
+      "cpuhrsch",
+      "nayef211",
+      "parmeet",
+      "zhangguanheng66"
+    ]
+  },
+  {
+    "module": "TorchAudio",
+    "members": [],
+    "emeritus": [
+      "carolineechen",
+      "cpuhrsch",
+      "hwangjeff",
+      "mthrok",
+      "nateanl",
+      "vincentqb",
+      "xiaohui-zhang"
+    ]
+  },
+  {
+    "module": "TorchRec",
+    "members": [
+      "colin2328",
+      "paulzhang12"
+    ],
+    "emeritus": [
+      "divchenko"
+    ]
+  },
+  {
+    "module": "TorchTune",
+    "members": [
+      "ebsmothers",
+      "joecummings",
+      "kartikayk"
+    ],
+    "emeritus": []
+  },
+  {
+    "module": "TorchChat",
+    "members": [
+      "byjlw",
+      "jack-khuu"
+    ],
+    "emeritus": [
+      "mikekgfb"
+    ]
+  },
+  {
+    "module": "XLA",
+    "members": [
+      "ailzhang",
+      "asuhan",
+      "bdhirsh",
+      "dlibenzi",
+      "gchanan",
+      "jackcaog",
+      "jysohn23",
+      "lsy323",
+      "qihqi",
+      "tengyifei",
+      "zcain117"
+    ],
+    "emeritus": []
+  },
+  {
+    "module": "TorchServe",
+    "members": [
+      "agunapal",
+      "dhanainme",
+      "hamidshojanazeri",
+      "lxning",
+      "msaroufim",
+      "mycpuorg",
+      "vdantu"
+    ],
+    "emeritus": []
+  },
+  {
+    "module": "Other Compilers (JIT / TorchScript / Package / Deploy)",
+    "members": [
+      "eellison",
+      "gmagogsfm",
+      "jamesr66a",
+      "jansel",
+      "jgong5",
+      "suo",
+      "zdevito"
+    ],
+    "emeritus": []
+  },
+  {
+    "module": "LiteInterpreter",
+    "members": [
+      "dreiss",
+      "ivankobzarev",
+      "linbinyu",
+      "raziel",
+      "xta0"
+    ],
+    "emeritus": []
+  },
+  {
+    "module": "TorchX",
+    "members": [
+      "d4l3k",
+      "kiukchung"
+    ],
+    "emeritus": []
+  },
+  {
+    "module": "TorchData",
+    "members": [
+      "aelavender",
+      "andrewkho",
+      "divyanshk",
+      "ramanishsingh",
+      "scotts"
+    ],
+    "emeritus": []
+  },
+  {
+    "module": "TorchArrow",
+    "members": [
+      "vitalyfedyunin",
+      "wenleix"
+    ],
+    "emeritus": []
+  }
+]

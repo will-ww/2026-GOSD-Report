@@ -1,0 +1,240 @@
+[
+  {
+    "id": ":foundations/openatom",
+    "name": "OpenAtom Foundation",
+    "openrank": 99965.35,
+    "repositories": "19043",
+    "projects": 41
+  },
+  {
+    "id": ":foundations/apache",
+    "name": "Apache Software Foundation",
+    "openrank": 81247.51,
+    "repositories": "1322",
+    "projects": 25
+  },
+  {
+    "id": ":foundations/linux_foundation/cncf",
+    "name": "Cloud Native Computing Foundation (CNCF)",
+    "openrank": 67362.82,
+    "repositories": "1339",
+    "projects": 70
+  },
+  {
+    "id": ":foundations/linux_foundation/pytorch",
+    "name": "PyTorch Foundation",
+    "openrank": 48055.43,
+    "repositories": "102",
+    "projects": 5
+  },
+  {
+    "id": ":foundations/linux_foundation",
+    "name": "Linux Foundation",
+    "openrank": 31147.41,
+    "repositories": "333",
+    "projects": 10
+  },
+  {
+    "id": ":foundations/linux_foundation/openjs",
+    "name": "OpenJS Foundation",
+    "openrank": 24702.57,
+    "repositories": "613",
+    "projects": 35
+  },
+  {
+    "id": ":foundations/nixos",
+    "name": "Stichting NixOS Foundation",
+    "openrank": 21258.31,
+    "repositories": "47",
+    "projects": 1
+  },
+  {
+    "id": ":foundations/rust",
+    "name": "Rust Foundation",
+    "openrank": 14687.8,
+    "repositories": "136",
+    "projects": 1
+  },
+  {
+    "id": ":foundations/python",
+    "name": "Python Software Foundation",
+    "openrank": 11915.48,
+    "repositories": "73",
+    "projects": 1
+  },
+  {
+    "id": ":foundations/linux_foundation/lfai",
+    "name": "LF AI & Data Foundation",
+    "openrank": 7937.49,
+    "repositories": "140",
+    "projects": 37
+  },
+  {
+    "id": ":foundations/linux_foundation/aaif",
+    "name": "Agentic AI Foundation (AAIF)",
+    "openrank": 7245.36,
+    "repositories": "55",
+    "projects": 6
+  },
+  {
+    "id": ":foundations/godot",
+    "name": "Godot Foundation",
+    "openrank": 5866.91,
+    "repositories": "41",
+    "projects": 1
+  },
+  {
+    "id": ":foundations/ruby",
+    "name": "Ruby Foundation",
+    "openrank": 5664.56,
+    "repositories": "203",
+    "projects": 2
+  },
+  {
+    "id": ":foundations/duckdb",
+    "name": "DuckDB Foundation",
+    "openrank": 2784.56,
+    "repositories": "57",
+    "projects": 1
+  },
+  {
+    "id": ":foundations/linux_foundation/riscv",
+    "name": "RICSV Foundation",
+    "openrank": 2438.09,
+    "repositories": "103",
+    "projects": 0
+  },
+  {
+    "id": ":foundations/linux_foundation/openssf",
+    "name": "OpenSSF Foundation",
+    "openrank": 2286.74,
+    "repositories": "123",
+    "projects": 0
+  },
+  {
+    "id": ":foundations/linux_foundation/hyperledger",
+    "name": "Hyperledger Foundation",
+    "openrank": 2085.97,
+    "repositories": "83",
+    "projects": 13
+  },
+  {
+    "id": ":foundations/csa_iot",
+    "name": "Connectivity Standards Alliance",
+    "openrank": 2004.52,
+    "repositories": "11",
+    "projects": 1
+  },
+  {
+    "id": ":foundations/php",
+    "name": "PHP Foundation",
+    "openrank": 1992.35,
+    "repositories": "58",
+    "projects": 1
+  },
+  {
+    "id": ":foundations/bevy",
+    "name": "Bevy Foundation",
+    "openrank": 1804.98,
+    "repositories": "17",
+    "projects": 1
+  },
+  {
+    "id": ":foundations/gentoo",
+    "name": "Gentoo Foundation",
+    "openrank": 1735.37,
+    "repositories": "46",
+    "projects": 1
+  },
+  {
+    "id": ":foundations/trino",
+    "name": "Trino Foundation",
+    "openrank": 1535.95,
+    "repositories": "20",
+    "projects": 1
+  },
+  {
+    "id": ":foundations/linux_foundation/lfed",
+    "name": "LF Edge Foundation",
+    "openrank": 1235.11,
+    "repositories": "108",
+    "projects": 10
+  },
+  {
+    "id": ":foundations/zig",
+    "name": "Zig Software Foundation",
+    "openrank": 1054.3,
+    "repositories": "11",
+    "projects": 1
+  },
+  {
+    "id": ":foundations/linux_foundation/presto",
+    "name": "Presto Foundation",
+    "openrank": 1005.05,
+    "repositories": "23",
+    "projects": 1
+  },
+  {
+    "id": ":foundations/openinfra",
+    "name": "OpenInfra Foundation",
+    "openrank": 587.23,
+    "repositories": "32",
+    "projects": 0
+  },
+  {
+    "id": ":foundations/linux_foundation/o3d",
+    "name": "Open 3D Foundation",
+    "openrank": 508.28,
+    "repositories": "20",
+    "projects": 0
+  },
+  {
+    "id": ":foundations/free_ebook",
+    "name": "Free EBook Foundation",
+    "openrank": 408.75,
+    "repositories": "7",
+    "projects": 1
+  },
+  {
+    "id": ":foundations/farama",
+    "name": "farama",
+    "openrank": 357.83,
+    "repositories": "26",
+    "projects": 1
+  },
+  {
+    "id": ":foundations/anoma",
+    "name": "Anoma Foundation",
+    "openrank": 219.73,
+    "repositories": "9",
+    "projects": 1
+  },
+  {
+    "id": ":foundations/eclipse",
+    "name": "Eclipse Foundation",
+    "openrank": 111.19,
+    "repositories": "7",
+    "projects": 0
+  },
+  {
+    "id": ":foundations/linux_foundation/lfne",
+    "name": "LF Networking Foundation",
+    "openrank": 109.34,
+    "repositories": "21",
+    "projects": 0
+  },
+  {
+    "id": ":foundations/linux_foundation/finops",
+    "name": "FinOps Foundation",
+    "openrank": 8.63,
+    "repositories": "4",
+    "projects": 0
+  },
+  {
+    "id": ":foundations/girlscript",
+    "name": "GirlScript Foundation",
+    "openrank": 1.74,
+    "repositories": "3",
+    "projects": 1
+  }
+]

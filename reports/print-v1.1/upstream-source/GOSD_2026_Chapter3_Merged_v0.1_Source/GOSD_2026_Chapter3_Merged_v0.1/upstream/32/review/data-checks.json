@@ -1,0 +1,42 @@
+{
+  "global_shares": [
+    0.1804972944463578,
+    0.3350507740497631,
+    0.15639511960968563,
+    0.32805681189419356
+  ],
+  "china_shares": [
+    0.5410278697033256,
+    0.2518700599925993,
+    0.1038113921017028,
+    0.10329067820237228
+  ],
+  "global_countries": {
+    "美国": 24,
+    "中国": 4,
+    "荷兰": 1,
+    "比利时": 1
+  },
+  "model_comparison": [
+    {
+      "company": "DeepSeek",
+      "rank": 26.0,
+      "openrank": 789.17,
+      "active_repos": 32.0,
+      "active_developers": 1287.0,
+      "active_developers_rank": 10
+    },
+    {
+      "company": "Moonshot AI",
+      "rank": 27.0,
+      "openrank": 727.69,
+      "active_repos": 29.0,
+      "active_developers": 802.0,
+      "active_developers_rank": 16
+    }
+  ],
+  "monthly_window": [
+    "2025-07",
+    "2026-06"
+  ]
+}

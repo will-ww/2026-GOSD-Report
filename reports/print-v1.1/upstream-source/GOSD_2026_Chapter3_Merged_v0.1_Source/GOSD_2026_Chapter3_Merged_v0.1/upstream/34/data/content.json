@@ -1,0 +1,800 @@
+[
+  {
+    "section": "3.4",
+    "title": "3.4 全球开源项目影响力排行榜",
+    "intro": "项目把组织投入转化为可使用、可维护的公共资源。OpenRank 衡量协作网络中的影响；结合组织国别、参与规模与技术用途，才能看清头部项目的结构及其连接方式。",
+    "figure": "fig-3-10-project-global",
+    "caption": "图 3-10　全球前 20 名、百强组织国别与榜内分值结构。来源：报告项目榜［P1］；OpenDigger 主统计期复算［P3］。OpenRank 为 2025.07—2026.06；组织国别沿用榜表标签，不代表贡献者来源。参与账号及对象边界说明见附录 1。",
+    "analyses": [
+      [
+        "① 头部项目横跨系统、语言与 AI",
+        "OpenHarmony、Azure、C#/.Net、PyTorch 与 NixOS 位居前五。AI 框架和推理工具已进入头部，但操作系统、语言与云基础设施仍占据重要位置。人工智能的开放发展，需要多层基础软件共同支撑。"
+      ],
+      [
+        "② 组织分布集中，协作边界跨越国别",
+        "百强中，美国标签占 69 项，中国占 7 项，荷兰与德国各 3 项；9 项国别未识别。组织标签适合观察项目承载布局，贡献者却可能来自全球。识别开放协作能力，还须连接项目参与和复用证据。"
+      ],
+      [
+        "③ 中国席位体现系统与 AI 计算支点",
+        "中国 7 个席位中，2 项进入前十、4 项进入前三十，其余位于第 33、37 和 51 位。席位数量与高位节点共同呈现结构位置；据此可以识别合作资源，但不能推导中国对全体全球项目的贡献份额。"
+      ],
+      [
+        "④ 影响分布既有头部，也有较宽支撑层",
+        "前十名占百强 OpenRank 合计的 33.6%，第 31—100 名合计占 38.7%。公共能力既依托高影响节点，也需要较广的项目支撑层。面向产业与政策的资源配置，应兼顾关键项目与专业维护团队。"
+      ]
+    ],
+    "sources": [
+      {
+        "id": "P1",
+        "label": "全球项目百强榜（固定报告数据）",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/figures/chapter3/leaderboards/projects.html"
+      },
+      {
+        "id": "P2",
+        "label": "中国项目前 30 名（固定报告数据）",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-4-3_china_project_openrank_top30.csv"
+      },
+      {
+        "id": "P3",
+        "label": "OpenDigger 指标实现与主统计期数据库复算",
+        "url": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/src/metrics/indices.ts"
+      }
+    ],
+    "claim_ids": [
+      "I01",
+      "I02",
+      "I10"
+    ]
+  },
+  {
+    "section": "3.4",
+    "title": "3.4.1 中国项目：从系统支点到 AI 工具",
+    "intro": "中国项目榜呈现系统底座、AI 计算、模型工具与应用框架的分层布局。全球位置说明哪些项目已进入头部网络，中国榜的技术与组织结构则展示后续协作资源从哪里形成。",
+    "figure": "fig-3-11-project-china",
+    "caption": "图 3-11　中国前 20 名、全球百强席位、组织承载与 AI 项目分层。来源：报告榜表［P1］［P2］、OpenDigger 复算［P3］及项目官方文档分类［P7］。全球名次来自同一统计期项目标签榜；技术分层为编辑分类，不将项目分值跨层加总。",
+    "analyses": [
+      [
+        "① 头部之外，专业项目已形成梯次",
+        "前七名进入全球百强；Ant Design、openGauss、魔搭、TiDB、verl 等构成其后的专业项目层。榜单不仅用于确认领先者，也可帮助识别设计工具、数据库、模型服务和训练流程中的合作入口。"
+      ],
+      [
+        "② 七个高位节点覆盖三类基础能力",
+        "OpenHarmony 与 openEuler 代表操作系统，CANN、Ascend、MindSpore 与 PaddlePaddle 涉及 AI 计算或框架，Cangjie 对应编程语言。这些资源连接应用运行、模型计算与开发过程，体现多层供给。"
+      ],
+      [
+        "③ 企业与基金会承担不同组织角色",
+        "中国前 30 名中，华为标签对应 6 项，开放原子对应 5 项，字节跳动对应 4 项。企业持续投入与基金会承载共同构成项目发展的组织条件；具体治理开放性仍应考察维护权、决策机制及外部参与。"
+      ],
+      [
+        "④ AI 供给已延伸到训练与应用流程",
+        "按主要用途归类，AI 项目占中国前 30 名的 13 项，覆盖算力与框架、模型与后训练、应用与智能体。中国贡献的观察应从模型发布延伸到这些环节，进一步追踪接口兼容、跨项目采用与持续维护。"
+      ]
+    ],
+    "sources": [
+      {
+        "id": "P1",
+        "label": "全球项目百强榜（固定报告数据）",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/figures/chapter3/leaderboards/projects.html"
+      },
+      {
+        "id": "P2",
+        "label": "中国项目前 30 名（固定报告数据）",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-4-3_china_project_openrank_top30.csv"
+      },
+      {
+        "id": "P3",
+        "label": "OpenDigger 指标实现与主统计期数据库复算",
+        "url": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/src/metrics/indices.ts"
+      },
+      {
+        "id": "P7",
+        "label": "项目用途及对象分类：项目官方文档逐项映射",
+        "items": [
+          {
+            "scope": "global",
+            "project": "OpenHarmony",
+            "url": "https://www.openharmony.cn/"
+          },
+          {
+            "scope": "global",
+            "project": "Azure",
+            "url": "https://azure.github.io/"
+          },
+          {
+            "scope": "global",
+            "project": "C#/.Net",
+            "url": "https://dotnet.microsoft.com/en-us/"
+          },
+          {
+            "scope": "global",
+            "project": "PyTorch",
+            "url": "https://pytorch.org/"
+          },
+          {
+            "scope": "global",
+            "project": "NixOS",
+            "url": "https://nixos.org/"
+          },
+          {
+            "scope": "global",
+            "project": "LLVM",
+            "url": "https://llvm.org/"
+          },
+          {
+            "scope": "global",
+            "project": "vLLM",
+            "url": "https://vllm.ai/"
+          },
+          {
+            "scope": "global",
+            "project": "openEuler",
+            "url": "https://www.openeuler.org/en/"
+          },
+          {
+            "scope": "global",
+            "project": "DataDog",
+            "url": "https://opensource.datadoghq.com/"
+          },
+          {
+            "scope": "global",
+            "project": "OpenShift",
+            "url": "https://www.redhat.com/en/technologies/cloud-computing/openshift"
+          },
+          {
+            "scope": "global",
+            "project": "VSCode",
+            "url": "https://code.visualstudio.com/"
+          },
+          {
+            "scope": "global",
+            "project": "OpenClaw",
+            "url": "https://openclaw.ai/"
+          },
+          {
+            "scope": "global",
+            "project": "CANN",
+            "url": "https://www.hiascend.com/cann"
+          },
+          {
+            "scope": "global",
+            "project": "Rust",
+            "url": "https://rust-lang.org/"
+          },
+          {
+            "scope": "global",
+            "project": "Ascend",
+            "url": "https://www.hiascend.com/"
+          },
+          {
+            "scope": "global",
+            "project": "Home Assistant",
+            "url": "https://www.home-assistant.io/"
+          },
+          {
+            "scope": "global",
+            "project": "Odoo",
+            "url": "https://github.com/odoo/odoo"
+          },
+          {
+            "scope": "global",
+            "project": "Python",
+            "url": "https://www.python.org/"
+          },
+          {
+            "scope": "global",
+            "project": "JavaScript/TypeScript",
+            "url": "https://www.typescriptlang.org/"
+          },
+          {
+            "scope": "global",
+            "project": "Swift",
+            "url": "https://www.swift.org/"
+          },
+          {
+            "scope": "global",
+            "project": "Conda Forge",
+            "url": "https://conda-forge.org/"
+          },
+          {
+            "scope": "global",
+            "project": "SGLang",
+            "url": "https://www.sglang.io/"
+          },
+          {
+            "scope": "global",
+            "project": "OpenTelemetry",
+            "url": "https://opentelemetry.io/"
+          },
+          {
+            "scope": "global",
+            "project": "Kubernetes",
+            "url": "https://kubernetes.io/"
+          },
+          {
+            "scope": "global",
+            "project": "Claude Code",
+            "url": "https://github.com/anthropics/claude-code"
+          },
+          {
+            "scope": "global",
+            "project": "Zephyr",
+            "url": "https://www.zephyrproject.org/"
+          },
+          {
+            "scope": "global",
+            "project": "Cloudflare",
+            "url": "https://cloudflare.github.io/"
+          },
+          {
+            "scope": "global",
+            "project": "NextCloud",
+            "url": "https://nextcloud.com/"
+          },
+          {
+            "scope": "global",
+            "project": "LangChain",
+            "url": "https://www.langchain.com/"
+          },
+          {
+            "scope": "global",
+            "project": "Dify",
+            "url": "https://dify.ai/"
+          },
+          {
+            "scope": "china",
+            "project": "OpenHarmony",
+            "url": "https://www.openharmony.cn/"
+          },
+          {
+            "scope": "china",
+            "project": "openEuler",
+            "url": "https://www.openeuler.org/en/"
+          },
+          {
+            "scope": "china",
+            "project": "CANN",
+            "url": "https://www.hiascend.com/cann"
+          },
+          {
+            "scope": "china",
+            "project": "Ascend",
+            "url": "https://www.hiascend.com/"
+          },
+          {
+            "scope": "china",
+            "project": "MindSpore",
+            "url": "https://www.mindspore.cn/"
+          },
+          {
+            "scope": "china",
+            "project": "PaddlePaddle",
+            "url": "https://www.paddlepaddle.org.cn/"
+          },
+          {
+            "scope": "china",
+            "project": "Cangjie",
+            "url": "https://cangjie-lang.cn/"
+          },
+          {
+            "scope": "china",
+            "project": "Ant Design",
+            "url": "https://ant.design/"
+          },
+          {
+            "scope": "china",
+            "project": "openGauss",
+            "url": "https://opengauss.org/zh/"
+          },
+          {
+            "scope": "china",
+            "project": "魔搭",
+            "url": "https://modelscope.cn/home"
+          },
+          {
+            "scope": "china",
+            "project": "TiDB",
+            "url": "https://www.pingcap.com/tidb/"
+          },
+          {
+            "scope": "china",
+            "project": "verl",
+            "url": "https://github.com/verl-project/verl"
+          },
+          {
+            "scope": "china",
+            "project": "1Panel",
+            "url": "https://github.com/1Panel-dev/1Panel"
+          },
+          {
+            "scope": "china",
+            "project": "openKylin",
+            "url": "https://www.openkylin.top/"
+          },
+          {
+            "scope": "china",
+            "project": "StarRocks",
+            "url": "https://www.starrocks.io/"
+          },
+          {
+            "scope": "china",
+            "project": "RAGFlow",
+            "url": "https://ragflow.io/"
+          },
+          {
+            "scope": "china",
+            "project": "香山处理器",
+            "url": "https://docs.xiangshan.cc/zh-cn/latest/"
+          },
+          {
+            "scope": "china",
+            "project": "龙蜥",
+            "url": "https://openanolis.cn/"
+          },
+          {
+            "scope": "china",
+            "project": "Coze",
+            "url": "https://github.com/coze-dev/coze-studio"
+          },
+          {
+            "scope": "china",
+            "project": "FlagOS",
+            "url": "https://github.com/flagos-ai"
+          },
+          {
+            "scope": "china",
+            "project": "openFuyao",
+            "url": "https://www.openfuyao.cn/zh/"
+          },
+          {
+            "scope": "china",
+            "project": "AntV",
+            "url": "https://github.com/antvis"
+          },
+          {
+            "scope": "china",
+            "project": "TDengine",
+            "url": "https://www.taosdata.com/"
+          },
+          {
+            "scope": "china",
+            "project": "AgentScope",
+            "url": "https://agentscope.io/"
+          },
+          {
+            "scope": "china",
+            "project": "ms-swift",
+            "url": "https://github.com/modelscope/ms-swift"
+          },
+          {
+            "scope": "china",
+            "project": "inclusionAI",
+            "url": "https://github.com/inclusionAI"
+          },
+          {
+            "scope": "china",
+            "project": "DeerFlow",
+            "url": "https://github.com/bytedance/deer-flow"
+          },
+          {
+            "scope": "china",
+            "project": "CloudWeGo",
+            "url": "https://www.cloudwego.io/"
+          },
+          {
+            "scope": "china",
+            "project": "KWDB",
+            "url": "https://github.com/KWDB/KWDB"
+          },
+          {
+            "scope": "china",
+            "project": "DataEase",
+            "url": "https://dataease.io/"
+          }
+        ]
+      }
+    ],
+    "claim_ids": [
+      "I05",
+      "I09",
+      "I10"
+    ]
+  },
+  {
+    "section": "3.4",
+    "title": "3.4.2 头部特征：技术、组织与协作规模",
+    "intro": "同样进入排行榜的项目，承担的技术任务、组织方式和聚合范围可能不同。将这些维度并置，可以辨认 AI 时代的结构位置，也有助于避免把“参与者更多”直接等同于“影响更大”。",
+    "figure": "fig-3-12-project-features",
+    "caption": "图 3-12　技术用途、组织承载、参与规模与对象层次。来源：榜表［P1］［P2］和项目官方文档分类［P7］。技术与对象对照各取前 30 名；组织对照为全球百强与中国前 30 名；散点为全球百强。分类逐项保留证据，见附录 1。",
+    "analyses": [
+      [
+        "① AI 的突出位置须放回全栈结构理解",
+        "全球前 30 名中，AI 与机器学习类有 8 项，中国前 30 名中有 13 项。全球榜同时包含语言、云基础设施、开发工具和系统项目。两榜技术结构不同，提示产业需要将 AI 投入与基础软件维护相互衔接。"
+      ],
+      [
+        "② 公共承载结构是体系能力的一部分",
+        "全球百强中，22 项组织标签指向基金会，4 项指向高校；中国前 30 名中，5 项指向基金会。企业之外的这些载体，为跨组织接续提供制度入口。它们是否形成开放治理，仍须以项目制度与执行记录判断。"
+      ],
+      [
+        "③ 参与规模与协作网络影响并不同步",
+        "Claude Code 的参与账号字段为 32,814，OpenRank 名次为第 25；PyTorch 为 4,806，名次为第 4。二者说明参与规模与网络影响观察的是不同方面。解释差异需回到协作行为与对象范围，不能据此评价效率。"
+      ],
+      [
+        "④ 聚合层次决定比较需要补充什么",
+        "全球前 30 名包括 5 个软件项目、18 个项目生态与 7 个项目集合；中国分别为 9、17 和 4。集合可能覆盖多个仓库，单一软件则边界较窄。深入评价应固定仓库清单，进一步比较维护、复用及治理能力。"
+      ]
+    ],
+    "sources": [
+      {
+        "id": "P1",
+        "label": "全球项目百强榜（固定报告数据）",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/figures/chapter3/leaderboards/projects.html"
+      },
+      {
+        "id": "P2",
+        "label": "中国项目前 30 名（固定报告数据）",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-4-3_china_project_openrank_top30.csv"
+      },
+      {
+        "id": "P7",
+        "label": "项目用途及对象分类：项目官方文档逐项映射",
+        "items": [
+          {
+            "scope": "global",
+            "project": "OpenHarmony",
+            "url": "https://www.openharmony.cn/"
+          },
+          {
+            "scope": "global",
+            "project": "Azure",
+            "url": "https://azure.github.io/"
+          },
+          {
+            "scope": "global",
+            "project": "C#/.Net",
+            "url": "https://dotnet.microsoft.com/en-us/"
+          },
+          {
+            "scope": "global",
+            "project": "PyTorch",
+            "url": "https://pytorch.org/"
+          },
+          {
+            "scope": "global",
+            "project": "NixOS",
+            "url": "https://nixos.org/"
+          },
+          {
+            "scope": "global",
+            "project": "LLVM",
+            "url": "https://llvm.org/"
+          },
+          {
+            "scope": "global",
+            "project": "vLLM",
+            "url": "https://vllm.ai/"
+          },
+          {
+            "scope": "global",
+            "project": "openEuler",
+            "url": "https://www.openeuler.org/en/"
+          },
+          {
+            "scope": "global",
+            "project": "DataDog",
+            "url": "https://opensource.datadoghq.com/"
+          },
+          {
+            "scope": "global",
+            "project": "OpenShift",
+            "url": "https://www.redhat.com/en/technologies/cloud-computing/openshift"
+          },
+          {
+            "scope": "global",
+            "project": "VSCode",
+            "url": "https://code.visualstudio.com/"
+          },
+          {
+            "scope": "global",
+            "project": "OpenClaw",
+            "url": "https://openclaw.ai/"
+          },
+          {
+            "scope": "global",
+            "project": "CANN",
+            "url": "https://www.hiascend.com/cann"
+          },
+          {
+            "scope": "global",
+            "project": "Rust",
+            "url": "https://rust-lang.org/"
+          },
+          {
+            "scope": "global",
+            "project": "Ascend",
+            "url": "https://www.hiascend.com/"
+          },
+          {
+            "scope": "global",
+            "project": "Home Assistant",
+            "url": "https://www.home-assistant.io/"
+          },
+          {
+            "scope": "global",
+            "project": "Odoo",
+            "url": "https://github.com/odoo/odoo"
+          },
+          {
+            "scope": "global",
+            "project": "Python",
+            "url": "https://www.python.org/"
+          },
+          {
+            "scope": "global",
+            "project": "JavaScript/TypeScript",
+            "url": "https://www.typescriptlang.org/"
+          },
+          {
+            "scope": "global",
+            "project": "Swift",
+            "url": "https://www.swift.org/"
+          },
+          {
+            "scope": "global",
+            "project": "Conda Forge",
+            "url": "https://conda-forge.org/"
+          },
+          {
+            "scope": "global",
+            "project": "SGLang",
+            "url": "https://www.sglang.io/"
+          },
+          {
+            "scope": "global",
+            "project": "OpenTelemetry",
+            "url": "https://opentelemetry.io/"
+          },
+          {
+            "scope": "global",
+            "project": "Kubernetes",
+            "url": "https://kubernetes.io/"
+          },
+          {
+            "scope": "global",
+            "project": "Claude Code",
+            "url": "https://github.com/anthropics/claude-code"
+          },
+          {
+            "scope": "global",
+            "project": "Zephyr",
+            "url": "https://www.zephyrproject.org/"
+          },
+          {
+            "scope": "global",
+            "project": "Cloudflare",
+            "url": "https://cloudflare.github.io/"
+          },
+          {
+            "scope": "global",
+            "project": "NextCloud",
+            "url": "https://nextcloud.com/"
+          },
+          {
+            "scope": "global",
+            "project": "LangChain",
+            "url": "https://www.langchain.com/"
+          },
+          {
+            "scope": "global",
+            "project": "Dify",
+            "url": "https://dify.ai/"
+          },
+          {
+            "scope": "china",
+            "project": "OpenHarmony",
+            "url": "https://www.openharmony.cn/"
+          },
+          {
+            "scope": "china",
+            "project": "openEuler",
+            "url": "https://www.openeuler.org/en/"
+          },
+          {
+            "scope": "china",
+            "project": "CANN",
+            "url": "https://www.hiascend.com/cann"
+          },
+          {
+            "scope": "china",
+            "project": "Ascend",
+            "url": "https://www.hiascend.com/"
+          },
+          {
+            "scope": "china",
+            "project": "MindSpore",
+            "url": "https://www.mindspore.cn/"
+          },
+          {
+            "scope": "china",
+            "project": "PaddlePaddle",
+            "url": "https://www.paddlepaddle.org.cn/"
+          },
+          {
+            "scope": "china",
+            "project": "Cangjie",
+            "url": "https://cangjie-lang.cn/"
+          },
+          {
+            "scope": "china",
+            "project": "Ant Design",
+            "url": "https://ant.design/"
+          },
+          {
+            "scope": "china",
+            "project": "openGauss",
+            "url": "https://opengauss.org/zh/"
+          },
+          {
+            "scope": "china",
+            "project": "魔搭",
+            "url": "https://modelscope.cn/home"
+          },
+          {
+            "scope": "china",
+            "project": "TiDB",
+            "url": "https://www.pingcap.com/tidb/"
+          },
+          {
+            "scope": "china",
+            "project": "verl",
+            "url": "https://github.com/verl-project/verl"
+          },
+          {
+            "scope": "china",
+            "project": "1Panel",
+            "url": "https://github.com/1Panel-dev/1Panel"
+          },
+          {
+            "scope": "china",
+            "project": "openKylin",
+            "url": "https://www.openkylin.top/"
+          },
+          {
+            "scope": "china",
+            "project": "StarRocks",
+            "url": "https://www.starrocks.io/"
+          },
+          {
+            "scope": "china",
+            "project": "RAGFlow",
+            "url": "https://ragflow.io/"
+          },
+          {
+            "scope": "china",
+            "project": "香山处理器",
+            "url": "https://docs.xiangshan.cc/zh-cn/latest/"
+          },
+          {
+            "scope": "china",
+            "project": "龙蜥",
+            "url": "https://openanolis.cn/"
+          },
+          {
+            "scope": "china",
+            "project": "Coze",
+            "url": "https://github.com/coze-dev/coze-studio"
+          },
+          {
+            "scope": "china",
+            "project": "FlagOS",
+            "url": "https://github.com/flagos-ai"
+          },
+          {
+            "scope": "china",
+            "project": "openFuyao",
+            "url": "https://www.openfuyao.cn/zh/"
+          },
+          {
+            "scope": "china",
+            "project": "AntV",
+            "url": "https://github.com/antvis"
+          },
+          {
+            "scope": "china",
+            "project": "TDengine",
+            "url": "https://www.taosdata.com/"
+          },
+          {
+            "scope": "china",
+            "project": "AgentScope",
+            "url": "https://agentscope.io/"
+          },
+          {
+            "scope": "china",
+            "project": "ms-swift",
+            "url": "https://github.com/modelscope/ms-swift"
+          },
+          {
+            "scope": "china",
+            "project": "inclusionAI",
+            "url": "https://github.com/inclusionAI"
+          },
+          {
+            "scope": "china",
+            "project": "DeerFlow",
+            "url": "https://github.com/bytedance/deer-flow"
+          },
+          {
+            "scope": "china",
+            "project": "CloudWeGo",
+            "url": "https://www.cloudwego.io/"
+          },
+          {
+            "scope": "china",
+            "project": "KWDB",
+            "url": "https://github.com/KWDB/KWDB"
+          },
+          {
+            "scope": "china",
+            "project": "DataEase",
+            "url": "https://dataease.io/"
+          }
+        ]
+      }
+    ],
+    "claim_ids": [
+      "I02",
+      "I05",
+      "I09",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "section": "3.4",
+    "title": "3.4.3 全球协作：中国项目如何接入与再创造",
+    "intro": "榜单给出位置，跨项目证据则说明连接怎样发生。共同参与账号揭示人员接点；工具接口与版本适配展示可使用的连接方式。中国贡献也应在这些可核验的接续与再创造中得到理解。",
+    "figure": "fig-3-13-project-connections",
+    "caption": "图 3-13　跨仓库参与、样本持续出现及中国项目接口案例。来源：OpenDigger 月度账号样本［P4］、verl［P5］、昇腾 PyTorch 扩展［P6］。账号窗为 2025.07—2026.06；两个文档版本均在主统计期内。接口支持不等于实际采用规模，详见附录 1。",
+    "analyses": [
+      [
+        "① 开放生态存在跨项目的人员接点",
+        "六个仓库的月度高活跃样本中，vLLM 与 SGLang 有 21 个同月重叠账号，PyTorch 与 vLLM 有 16 个。共同账号提供了继续研究协作网络的入口；它本身不证明正式合作、人才迁移或贡献者的国别。"
+      ],
+      [
+        "② 持续协作需要单独观察",
+        "在年度样本中，PyTorch 有 36 个账号在 9—12 个月出现，占 9.8%；Kubernetes 为 30 个，占 7.0%。一次性参与与持续出现并存。公共能力建设应跟踪长期维护，但这里的截断样本不能替代全量留存分析。"
+      ],
+      [
+        "③ 中国后训练工具在全球技术栈上再创造",
+        "verl 将训练引擎与生成引擎组织进后训练流程，官方文档列出 FSDP、Megatron-LM、vLLM 和 SGLang 等接口。其价值体现在承接已有资源并形成可组合工具，使中国项目成为全球技术网络中的连接节点。"
+      ],
+      [
+        "④ 兼容维护把本土算力接入全球框架",
+        "torch_npu 将昇腾与 PyTorch 连接起来，版本表列出 CANN 9.0.0 对应的四组配套记录。这样的接口与维护工作构成具体公共资源。后续评价可进一步跟踪兼容测试、使用成本、本地化部署与维护结果。"
+      ]
+    ],
+    "sources": [
+      {
+        "id": "P4",
+        "label": "六仓库月度高活跃账号样本及可复算方法",
+        "url": "https://oss.open-digger.cn/github/pytorch/pytorch/activity_details.json"
+      },
+      {
+        "id": "P5",
+        "label": "verl 官方 README，2026-05-29 固定版本",
+        "url": "https://github.com/verl-project/verl/blob/38b57931f0c4f4da1ff85a7d54c2d8bbc239163d/README.md"
+      },
+      {
+        "id": "P6",
+        "label": "Ascend Extension for PyTorch，2026-06-16 固定版本",
+        "url": "https://github.com/Ascend/pytorch/blob/554f7cd18e52dc2f94a5715c100b7d15b7b65de0/README.md"
+      }
+    ],
+    "claim_ids": [
+      "I02",
+      "I03",
+      "I05",
+      "I11"
+    ]
+  }
+]

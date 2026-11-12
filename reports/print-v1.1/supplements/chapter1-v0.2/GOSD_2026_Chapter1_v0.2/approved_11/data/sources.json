@@ -1,0 +1,47 @@
+[
+  {
+    "id": "S1",
+    "name": "GitHub Octoverse 2026",
+    "date": "2026-10-28；更新2026-11-06",
+    "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+    "locator": "Developers are reshaping their workflow",
+    "scope": "PR起草：2026年3月与9月；Copilot用户：外部年度观察；9月与报告发布时的观察为期后信息。",
+    "checked": "2026-11-10"
+  },
+  {
+    "id": "S2",
+    "name": "GitHub Copilot Agents application card",
+    "date": "读取2026-11-10",
+    "url": "https://docs.github.com/en/copilot/responsible-use/agents",
+    "locator": "Limitations / human review and testing",
+    "scope": "当前产品文档；仅用于解释协作机制及审查责任，不回填历史统计。",
+    "checked": "2026-11-10"
+  },
+  {
+    "id": "S3",
+    "name": "DeepSeek Open Infra官方索引",
+    "date": "2025年2月开源周",
+    "url": "https://github.com/deepseek-ai/open-infra-index#202502-open-source-week",
+    "locator": "Day 1–5；FlashMLA、DeepEP、DeepGEMM、DualPipe、3FS",
+    "scope": "主统计期以前的历史组件职责，不混用当前分支的硬件支持状态。",
+    "checked": "2026-11-10"
+  },
+  {
+    "id": "S4",
+    "name": "NVIDIA: Build Custom Reasoning Models with Advanced, Open Post-Training Datasets",
+    "date": "2025-05-14",
+    "url": "https://developer.nvidia.com/blog/build-custom-reasoning-models-with-advanced-open-post-training-datasets/",
+    "locator": "Table 2；data curation；model release list",
+    "scope": "历史案例；图中3个生成模型的原表样本记录，不作全表或国别占比推导。",
+    "checked": "2026-11-10"
+  },
+  {
+    "id": "S5",
+    "name": "Llama-Nemotron-Post-Training-Dataset 数据集卡",
+    "date": "固定历史版本04d0854",
+    "url": "https://huggingface.co/datasets/nvidia/Llama-Nemotron-Post-Training-Dataset/blob/04d085443485c2b8e14ad5f518005c769deb4904/README.md",
+    "locator": "数据来源模型、样本数与后训练用途",
+    "scope": "历史数据集卡，用于交叉核对选定模型条目。",
+    "checked": "2026-11-10"
+  }
+]

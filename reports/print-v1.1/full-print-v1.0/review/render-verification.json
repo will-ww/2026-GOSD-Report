@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-11",
+  "visual_review": "passed",
+  "source_artwork_comparison": "138/138 pages identical at 0.6 scale",
+  "checks": [
+    {
+      "engine": "Poppler",
+      "physical_page": 9,
+      "content": "目录",
+      "exit_code": 0
+    },
+    {
+      "engine": "Poppler",
+      "physical_page": 138,
+      "content": "简洁 GOSD 封底",
+      "exit_code": 0
+    },
+    {
+      "engine": "PDF.js",
+      "physical_page": 98,
+      "folio": "80",
+      "content": "模型派生网络",
+      "elapsed_ms": 2037,
+      "exit_code": 0
+    }
+  ]
+}

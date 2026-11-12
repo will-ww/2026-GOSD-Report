@@ -1,0 +1,2033 @@
+name: Bot Accounts
+type: Bot
+data:
+  platforms:
+    - name: GitHub
+      type: Code Hosting
+      users:
+        - id: 105309205
+          name: VSCodeTriageBot
+        - id: 96656532
+          name: SnoozeThis
+        - id: 8517910
+          name: LombiqBot
+        - id: 25180681
+          name: renovate-bot
+        - id: 53108186
+          name: codestar-github-bot-1
+        - id: 71103415
+          name: rjpagano
+        - id: 74294145
+          name: zhangsansana
+        - id: 10810283
+          name: direwolf-github
+        - id: 19733683
+          name: snyk-bot
+        - id: 29713643
+          name: autotester-one
+        - id: 112716341
+          name: TrellixVulnTeam
+        - id: 58837339
+          name: codeserver-test1
+        - id: 2354108
+          name: coveralls
+        - id: 65553080
+          name: codecov-commenter
+        - id: 75385594
+          name: turbocanary-admin
+        - id: 8655789
+          name: codecov-io
+        - id: 8518239
+          name: gitter-badger
+        - id: 43237426
+          name: jenkins-x-bot-test
+        - id: 18310276
+          name: favroautomation
+        - id: 58561319
+          name: cjxd-bot-test
+        - id: 7571158
+          name: xmo-odoo
+        - id: 18567580
+          name: conda-forge-linter
+        - id: 12673271
+          name: hubyeti
+        - id: 25985711
+          name: autotesterunito
+        - id: 18148588
+          name: idsb3t1
+        - id: 36490558
+          name: regro-cf-autotick-bot
+        - id: 47388737
+          name: git2e
+        - id: 11215289
+          name: keksobot
+        - id: 7389911
+          name: jsdelivrbot
+        - id: 53615266
+          name: odoomergebotsacrifice-reviewer
+        - id: 124045328
+          name: prisma-new-user
+        - id: 81279470
+          name: favroautomations
+        - id: 69541216
+          name: snek-testing-bot
+        - id: 14790466
+          name: greenkeeperio-bot
+        - id: 11571300
+          name: CLAassistant
+        - id: 20812245
+          name: SecurletBeatle
+        - id: 93227343
+          name: tf-vcs-testing
+        - id: 7917093
+          name: codepathreview
+        - id: 107148599
+          name: tf-vcs-testing-staging
+        - id: 58020879
+          name: testmail-ihub
+        - id: 23704769
+          name: codacy-badger
+        - id: 27942770
+          name: utterances-bot
+        - id: 21348156
+          name: npmcdn-to-unpkg-bot
+        - id: 51758509
+          name: codeserver-service-qa
+        - id: 1323708
+          name: JLLeitschuh
+        - id: 159960
+          name: anthonysterling
+        - id: 89770628
+          name: GHConnIT
+        - id: 8396105
+          name: arbor-test
+        - id: 80700348
+          name: githubvaladm
+        - id: 29791463
+          name: fossabot
+        - id: 50554310
+          name: JuliaTagBot
+        - id: 1206964
+          name: dcoraboeuf
+        - id: 66705189
+          name: PowerShellForGitHubTeam2
+        - id: 89271774
+          name: prophecy-git-testing
+        - id: 16239342
+          name: pyup-bot
+        - id: 39984067
+          name: odoomergebotsacrifice1
+        - id: 66705557
+          name: PowerShellForGitHubTeam3
+        - id: 3905501
+          name: bryant1410
+        - id: 2853390
+          name: ChadGoymer
+        - id: 7911893
+          name: slskopytko
+        - id: 66705723
+          name: PowerShellForGitHubTeam4
+        - id: 10775043
+          name: freddydk
+        - id: 19632501
+          name: elgohr
+        - id: 79655631
+          name: cloudnativetoolkit
+        - id: 68062990
+          name: bopopescu
+        - id: 45116607
+          name: i-date
+        - id: 31898046
+          name: octokit-fixture-user-a
+        - id: 6912981
+          name: waffle-iron
+        - id: 82947329
+          name: vanessa-cooper
+        - id: 8572152
+          name: per1234
+        - id: 27781505
+          name: shingoteshima
+        - id: 7882662
+          name: codeschool-kiddo
+        - id: 48073334
+          name: Mozilla-GitHub-Standards
+        - id: 42283162
+          name: aws-aemilia
+        - id: 69343704
+          name: wtools-bot
+        - id: 67524701
+          name: PowerShellForGitHubTeam6
+        - id: 90058168
+          name: slehiman
+        - id: 66446536
+          name: anaconda-pkg-build
+        - id: 43152844
+          name: hail-ci-test-1
+        - id: 2132216
+          name: githubteacher
+        - id: 6697940
+          name: houndci-bot
+        - id: 38495008
+          name: mergify-test2
+        - id: 46582385
+          name: crowdbotics-apps
+        - id: 1200918
+          name: afalko
+        - id: 11877806
+          name: idsdev
+        - id: 27071603
+          name: TOMARUMARU
+        - id: 58292905
+          name: claassistantio
+        - id: 17184073
+          name: houndci
+        - id: 60107403
+          name: github-terraform-test-user
+        - id: 3619686
+          name: migueldelmazo
+        - id: 65112456
+          name: dfkononov
+        - id: 15367484
+          name: ReadmeCritic
+        - id: 3092978
+          name: bitdeli-chef
+        - id: 20205210
+          name: backstroke-bot
+        - id: 5151713
+          name: shiftkey-tester
+        - id: 44867543
+          name: PowerShellForGitHubTeam
+        - id: 62652429
+          name: Katsuno0814
+        - id: 17040491
+          name: miyagit
+        - id: 44711774
+          name: BoardGenius
+        - id: 38348263
+          name: symphonyDev
+        - id: 2493292
+          name: mikedeboertest
+        - id: 61799930
+          name: ghsecuritylab
+        - id: 1916583
+          name: johnsonr
+        - id: 5384588
+          name: googlebot
+        - id: 1699478
+          name: bkreider
+        - id: 43622821
+          name: hail-hephaestus
+        - id: 45397632
+          name: flathubbot
+        - id: 15345076
+          name: BizinMitya
+        - id: 134259272
+          name: s-aka-moto
+        - id: 10285143
+          name: s2-testspace
+        - id: 47873678
+          name: timgates42
+        - id: 25132668
+          name: ryangribble-test2
+        - id: 17407202
+          name: mgcvnrpj
+        - id: 9287708
+          name: msftclas
+        - id: 123155263
+          name: automationinfra
+        - id: 55050704
+          name: tfttesting
+        - id: 53601138
+          name: odoomergebotsacrifice4
+        - id: 52211928
+          name: codeserver-test
+        - id: 950575
+          name: ocefpaf
+        - id: 43047562
+          name: scala-steward
+        - id: 6598971
+          name: gmlewis
+        - id: 23228316
+          name: priteshtest
+        - id: 12631461
+          name: OlgaLugacheva
+        - id: 469983
+          name: bgruening
+        - id: 2487206
+          name: fengjixuchui
+        - id: 17346392
+          name: gruntjs-updater
+        - id: 23075729
+          name: junta-m
+        - id: 118118912
+          name: mdp-forks
+        - id: 43363509
+          name: nus-se-bot
+        - id: 3709715
+          name: cclauss
+        - id: 2063176
+          name: kovacsrobert
+        - id: 11061664
+          name: ColonyTestUser1
+        - id: 495892
+          name: mortonfox
+        - id: 61720519
+          name: yuri240
+        - id: 3019665
+          name: jakirkham
+        - id: 36542986
+          name: TedLivist
+        - id: 34043081
+          name: chepullreq3
+        - id: 33928749
+          name: chepullreq1
+        - id: 93414321
+          name: soc-se-bot
+        - id: 90466754
+          name: TbctTestGitHubAdmin
+        - id: 15896982
+          name: helpfulrobot
+        - id: 43311929
+          name: nus-se-script
+        - id: 62540239
+          name: chobi555
+        - id: 55011449
+          name: nus-pe-bot
+        - id: 98024358
+          name: jfrog-pipelie-intg
+        - id: 96482822
+          name: pvm-test-bot
+        - id: 1322930
+          name: svn2github
+        - id: 1015790
+          name: alankstewart
+        - id: 14522744
+          name: orthographic-pedant
+        - id: 9906718
+          name: brianamarie
+        - id: 47786167
+          name: jsru
+        - id: 51349079
+          name: norito0627
+        - id: 51443836
+          name: syuji-yamamoto
+        - id: 31389482
+          name: cleancoindev
+        - id: 2706572
+          name: lrz-hal
+        - id: 12745474
+          name: rloterh
+        - id: 54933269
+          name: gennady-bars
+        - id: 16698198
+          name: conda-forge-admin
+        - id: 62537107
+          name: shodai-ito
+        - id: 26602940
+          name: 0xflotus
+        - id: 63122830
+          name: monocodus-demo-bot
+        - id: 25247802
+          name: coolswood
+        - id: 26537845
+          name: Descatles
+        - id: 15223942
+          name: actcattest001
+        - id: 44106989
+          name: masahirokurauchi
+        - id: 64821613
+          name: Hide-Morishita
+        - id: 73164720
+          name: ZarMarathon
+        - id: 134518
+          name: kianmeng
+        - id: 827205
+          name: DanielRuf
+        - id: 60845445
+          name: Saka-toku
+        - id: 33962718
+          name: chepullreq2
+        - id: 48236415
+          name: tenpadrummer
+        - id: 3457140
+          name: JTOne123
+        - id: 43335863
+          name: nus-pe-script
+        - id: 55044796
+          name: kuu0123
+        - id: 2705287
+          name: cbrueffer
+        - id: 1459385
+          name: movermeyer
+        - id: 127412338
+          name: snyk-code-test
+        - id: 93415066
+          name: soc-pe-bot
+        - id: 450800
+          name: sthagen
+        - id: 65230321
+          name: TakashiKozuma
+        - id: 29491356
+          name: Richienb
+        - id: 64880970
+          name: maimai0401
+        - id: 32717
+          name: kant
+        - id: 1892150
+          name: AnnJohn
+        - id: 24736507
+          name: pep8speaks
+        - id: 63367542
+          name: kokikurahashi
+        - id: 26066646
+          name: DevExpressExampleBot
+        - id: 20205210
+          name: backstroke-bot
+        - id: 130381185
+          name: argusSecurityBot
+        - id: 8761239
+          name: prout-test-bot
+        - id: 29791463
+          name: fossabot
+        - id: 45397632
+          name: flathubbot
+        - id: 102312994
+          name: platops-pr-bot
+        - id: 55011449
+          name: nus-pe-bot
+        - id: 35031835
+          name: jenkins-x-bot
+        - id: 19733683
+          name: snyk-bot
+        - id: 30189218
+          name: openshift-merge-robot
+        - id: 10010231
+          name: landscape-bot
+        - id: 119433300
+          name: edp-robot
+        - id: 29792991
+          name: atlasBuildbot
+        - id: 93414321
+          name: soc-se-bot
+        - id: 43363509
+          name: nus-se-bot
+        - id: 22344579
+          name: atomist-bot
+        - id: 42910462
+          name: golangcibot
+        - id: 9432863
+          name: prout-travis-bot
+        - id: 27903976
+          name: gitcoinbot
+        - id: 15710697
+          name: mention-bot
+        - id: 93415066
+          name: soc-pe-bot
+        - id: 5589368
+          name: cf-gitbot
+        - id: 5384588
+          name: googlebot
+        - id: 16239342
+          name: pyup-bot
+        - id: 30189103
+          name: openshift-ci-robot
+        - id: 31142743
+          name: gatekeeper-bot
+        - id: 89328645
+          name: step-security-bot
+        - id: 6422482
+          name: facebook-github-bot
+        - id: 14998418
+          name: yunohost-bot
+        - id: 11188330
+          name: deppbot
+        - id: 1779249
+          name: openshift-bot
+        - id: 26102846
+          name: pantheon-ci-bot
+        - id: 26066646
+          name: DevExpressExampleBot
+        - id: 6697940
+          name: houndci-bot
+        - id: 27942770
+          name: utterances-bot
+        - id: 23005875
+          name: jsf-clabot
+        - id: 33322735
+          name: openshift-cherrypick-robot
+        - id: 5149451
+          name: cfdreddbot
+        - id: 66069679
+          name: exercism-bot
+        - id: 20407524
+          name: k8s-ci-robot
+        - id: 11215289
+          name: keksobot
+        - id: 81333946
+          name: web3-bot
+        - id: 61872893
+          name: architectbot
+        - id: 65734717
+          name: cisagovbot
+        - id: 13711356
+          name: doppins-bot
+        - id: 53270907
+          name: k8s-triage-robot
+        - id: 62800204
+          name: xorimabot
+        - id: 69343704
+          name: wtools-bot
+        - id: 30488982
+          name: fejta-bot
+        - id: 8723280
+          name: OCA-git-bot
+        - id: 49161187
+          name: edx-requirements-bot
+        - id: 62766270
+          name: paketo-bot
+        - id: 218561
+          name: ruebot
+        - id: 17834419
+          name: AppVeyorBot
+        - id: 49554844
+          name: hcsp-bot
+        - id: 33266368
+          name: svc-excavator-bot
+        - id: 19979279
+          name: dpebot
+        - id: 30351955
+          name: pulumi-bot
+        - id: 2517319
+          name: scala-steward-bot
+        - id: 96482822
+          name: pvm-test-bot
+        - id: 26595624
+          name: ballerina-bot
+        - id: 9011267
+          name: dotnet-bot
+        - id: 76512065
+          name: ByteLegendBot
+        - id: 7806257
+          name: miq-bot
+        - id: 41213312
+          name: knative-prow-robot
+        - id: 61865014
+          name: asyncapi-bot
+        - id: 89879766
+          name: react-translations-bot
+        - id: 29409908
+          name: dotnet-maestro-bot
+        - id: 21341178
+          name: dhis2-bot
+        - id: 44651202
+          name: google-oss-robot
+        - id: 40893967
+          name: kyma-bot
+        - id: 27495990
+          name: violinist-bot
+        - id: 25687724
+          name: kubevirt-bot
+        - id: 47307013
+          name: reactjs-translation-bot
+        - id: 20280877
+          name: vaadin-bot
+        - id: 60070799
+          name: nsmbot
+        - id: 29268173
+          name: sre-bot
+        - id: 71242396
+          name: ti-chi-bot
+        - id: 24799081
+          name: 47erbot
+        - id: 70984784
+          name: yoshi-code-bot
+        - id: 7389911
+          name: jsdelivrbot
+        - id: 66930949
+          name: ti-srebot
+        - id: 15421488
+          name: gitmate-bot
+        - id: 52382196
+          name: brighid-bot
+        - id: 48335577
+          name: tekton-robot
+        - id: 20690070
+          name: cf-tm-bot
+        - id: 13025337
+          name: bitnami-bot
+        - id: 15896982
+          name: helpfulrobot
+        - id: 12693984
+          name: everypoliticianbot
+        - id: 14790466
+          name: greenkeeperio-bot
+        - id: 21348156
+          name: npmcdn-to-unpkg-bot
+        - id: 62039782
+          name: vscode-triage-bot
+        - id: 130106328
+          name: mourlijuao
+        - id: 19940114
+          name: codacy-bot
+        - id: 62280476
+          name: chirikuzu
+        - id: 81317599
+          name: jsfix-updater
+        - id: 18504676
+          name: ferambot
+        - id: 13711356
+          name: depsy-bot
+        - id: 43335863
+          name: cs2113-feedback-bot
+        - id: 43363509
+          name: cs2103-feedback-bot
+        - id: 109043477
+          name: assignguard-support
+        - id: 98140626
+          name: Kwaiseec
+        - id: 70083467
+          name: Abbylii
+        - id: 43363509
+          name: cs2103-bot
+        - id: 13653959
+          name: k8s-merge-robot
+        - id: 109859313
+          name: snewse
+        - id: 34531474
+          name: motimen1
+        - id: 22128119
+          name: yutakatahira
+        - id: 69685582
+          name: slvfalcone-stg
+        - id: 62985359
+          name: jenkins-x-labs-bot
+        - id: 2346051
+          name: PhoenixHe-msft
+        - id: 66254235
+          name: code6er
+        - id: 19560074
+          name: QualitySoftwareDeveloper
+        - id: 69925960
+          name: shiftleft-prod
+        - id: 133359954
+          name: pastramahodu
+        - id: 69685582
+          name: shiftleft-staging
+        - id: 46863888
+          name: shaybenb
+        - id: 49552382
+          name: Abbykawai
+        - id: 59519802
+          name: zhangtianjiaoxyz
+        - id: 71242396
+          name: ti-community-prow-bot
+        - id: 20193236
+          name: fino-qa
+        - id: 16263912
+          name: ryangribble-test
+        - id: 80468013
+          name: truecharts-bot
+        - id: 69925960
+          name: slvfalcone-prd
+        - id: 4502793
+          name: liferay-continuous-integration
+        - id: 30082422
+          name: adguard-bot
+        - id: 23042052
+          name: typescript-bot
+        - id: 4031291
+          name: AmplabJenkins
+        - id: 8862693
+          name: webcompat-bot
+        - id: 44816363
+          name: yoshi-automation
+        - id: 3372342
+          name: bors
+        - id: 25311884
+          name: istio-testing
+        - id: 15837671
+          name: elasticmachine
+        - id: 6585283
+          name: ansibot
+        - id: 37582175
+          name: tweakCompatible-bot
+        - id: 4170616
+          name: cmsbuild
+        - id: 1607653
+          name: weblate
+        - id: 27334172
+          name: JuliaRegistrator
+        - id: 63816999
+          name: wingetbot
+        - id: 53356347
+          name: azure-sdk
+        - id: 8108735
+          name: SparkQA
+        - id: 5268928
+          name: ilovezfs
+        - id: 8566911
+          name: gopherbot
+        - id: 37933096
+          name: r-ryantm
+        - id: 15083177
+          name: pazjacket
+        - id: 42042535
+          name: engine-flutter-autoroll
+        - id: 42973632
+          name: kibanamachine
+        - id: 11639412
+          name: GulajavaMinistudio
+        - id: 37626415
+          name: skia-flutter-autoroll
+        - id: 43080478
+          name: aws-cdk-automation
+        - id: 37411558
+          name: docker-robot
+        - id: 1589480
+          name: BrewTestBot
+        - id: 18508068
+          name: whedon
+        - id: 31669971
+          name: magento-engcom-team
+        - id: 18218145
+          name: AutorestCI
+        - id: 54940324
+          name: fw-bot
+        - id: 15851864
+          name: staticmanapp
+        - id: 4368172
+          name: bors-servo
+        - id: 5532044
+          name: VertNetInfo
+        - id: 36310445
+          name: modular-magician
+        - id: 16011037
+          name: stickler-ci
+        - id: 20559710
+          name: cockroach-teamcity
+        - id: 47040946
+          name: BiocondaBot
+        - id: 33237381
+          name: TravisBuddy
+        - id: 28546240
+          name: tensorflowbutler
+        - id: 49659212
+          name: bot-monkey-1
+        - id: 9976420
+          name: bt-admin
+        - id: 26440463
+          name: google-oss-bot
+        - id: 69777362
+          name: terrorizer1980
+        - id: 9259948
+          name: casey-collab
+        - id: 6313872
+          name: reporobot
+        - id: 6275607
+          name: alfhenrik-test
+        - id: 31488909
+          name: miss-islington
+        - id: 37855015
+          name: opbld31
+        - id: 71734192
+          name: AzureAdvocateBit
+        - id: 37855124
+          name: opbld33
+        - id: 37855075
+          name: opbld32
+        - id: 37854986
+          name: opbld30
+        - id: 4758888
+          name: spring-operator
+        - id: 78466014
+          name: metersphere-bot
+        - id: 94144367
+          name: kibana-ci
+        - id: 25447658
+          name: GrahamcOfBorg
+        - id: 57989628
+          name: PasanTestAutomation
+        - id: 49924207
+          name: sagemaker-bot
+        - id: 23419092
+          name: attobot
+        - id: 12551979
+          name: k8s-bot
+        - id: 28524381
+          name: nextcloud-android-bot
+        - id: 47225314
+          name: ioBrokerChecker
+        - id: 28918474
+          name: 1gtm
+        - id: 53219279
+          name: anwarhk-19
+        - id: 28024233
+          name: grpc-testing
+        - id: 89919391
+          name: editorialbot
+        - id: 20963210
+          name: VSC-Service-Account
+        - id: 52682268
+          name: fluttergithubbot
+        - id: 18269663
+          name: nodejs-github-bot
+        - id: 6398257
+          name: scrutinizer-notifier
+        - id: 29663566
+          name: srvbpigh
+        - id: 26117961
+          name: idexcodenvy
+        - id: 111235402
+          name: rtegts
+        - id: 109114227
+          name: zhdevcypress
+        - id: 43478413
+          name: grafanabot
+        - id: 76138650
+          name: zpsmqqjiwguht
+        - id: 42388855
+          name: msft-github-bot
+        - id: 4490759
+          name: wwjiang007
+        - id: 23526893
+          name: element-bot
+        - id: 90142015
+          name: cdklabs-automation
+        - id: 98138367
+          name: Kwaisece
+        - id: 51150235
+          name: opstest2
+        - id: 113848201
+          name: tansenew
+        - id: 63058869
+          name: Octomerger
+        - id: 72087504
+          name: knative-automation
+        - id: 40245078
+          name: toshtli
+        - id: 31899067
+          name: octokit-fixture-user-b
+        - id: 113696628
+          name: fukeluo
+        - id: 111279343
+          name: Gionets
+        - id: 104660922
+          name: aws-aemilia-pdx
+        - id: 1207985
+          name: changeworld
+        - id: 17282096
+          name: bioc-issue-bot
+        - id: 89958145
+          name: SyncfusionBuild
+        - id: 31047340
+          name: LibbyBot
+        - id: 17364419
+          name: grunt-updater2
+        - id: 54393557
+          name: conan-center-bot
+        - id: 11998001
+          name: MrLamont-HHSS
+        - id: 97764156
+          name: pytorchmergebot
+        - id: 111200369
+          name: xinwenyt
+        - id: 87362642
+          name: jainshri
+        - id: 66778882
+          name: labagithub2020
+        - id: 30834690
+          name: testrccti
+        - id: 7378925
+          name: rust-highfive
+        - id: 11654461
+          name: SmartThings
+        - id: 18333116
+          name: matticbot
+        - id: 76113289
+          name: rpzwuawboj
+        - id: 17056452
+          name: fastlane-bot
+        - id: 52186094
+          name: x303buster
+        - id: 6691194
+          name: ekmixon
+        - id: 6253494
+          name: scrutinizer-auto-fixer
+        - id: 70302186
+          name: atkins126
+        - id: 24387511
+          name: 0crat
+        - id: 67918504
+          name: vs-mobiletools-engineering-service2
+        - id: 46063739
+          name: DevExpress-XAF
+        - id: 15687499
+          name: ceph-workbench
+        - id: 12135932
+          name: Issues-Managment-Test
+        - id: 41385210
+          name: robot-clickhouse
+        - id: 32686087
+          name: react-native-bot
+        - id: 30081107
+          name: is24-versions-test
+        - id: 53615341
+          name: odoomergebotsacrifice-self-reviewer
+        - id: 68588906
+          name: fit2bot
+        - id: 31006499
+          name: atlasBuildbot2
+        - id: 79415918
+          name: hudi-bot
+        - id: 19210880
+          name: ghitest
+        - id: 96129003
+          name: java-app-scans
+        - id: 58790750
+          name: apmmachine
+        - id: 68967916
+          name: textiq-automation
+        - id: 12626182
+          name: Nitpick-CI
+        - id: 34669131
+          name: expo-bot
+        - id: 26566442
+          name: ant-design-bot
+        - id: 53303753
+          name: daniel-beck-bot
+        - id: 83238189
+          name: RitaBot-Dev
+        - id: 17503483
+          name: zenhub-integration-1
+        - id: 8754627
+          name: autolander
+        - id: 38571796
+          name: pixelexperiencebot
+        - id: 68055815
+          name: cjolowicz-test
+        - id: 48175510
+          name: 7enderhead-test
+        - id: 36231209
+          name: usercont-release-bot
+        - id: 33253343
+          name: cmty-test-user1
+        - id: 9614759
+          name: GoogleCodeExporter
+        - id: 41968677
+          name: kubermatic-bot
+        - id: 19697559
+          name: zenhub-readonly-user
+        - id: 105950516
+          name: marshall7m-testing
+        - id: 128256000
+          name: moti-test-4
+        - id: 16941146
+          name: shipped-automation
+        - id: 44327983
+          name: golint-fixer
+        - id: 29212966
+          name: npm-robot
+        - id: 56918694
+          name: panda-tester
+        - id: 99929124
+          name: HuggingFaceDocBuilderDev
+        - id: 17691292
+          name: TestAccount11223
+        - id: 18311513
+          name: OctokitIntegrationTest
+        - id: 49695357
+          name: bot-monkey-3
+        - id: 15823519
+          name: nventive-devops
+        - id: 46431239
+          name: FDU-SE-LAB
+        - id: 11995863
+          name: kie-ci
+        - id: 939955
+          name: wildfly-ci
+        - id: 32282838
+          name: jetstack-bot
+        - id: 133985707
+          name: edp-robot-autotests
+        - id: 5243949
+          name: asfbot
+        - id: 17982598
+          name: favroautomationtest
+        - id: 13464070
+          name: Red-Folder-Test
+        - id: 22822961
+          name: d2iq-mergebot
+        - id: 2709266
+          name: owncloud-bot
+        - id: 7585416
+          name: dt-bot
+        - id: 26676291
+          name: webpack-bot
+        - id: 65172877
+          name: micronaut-build
+        - id: 43188587
+          name: analysis-bot
+        - id: 49033423
+          name: w3fbot
+        - id: 98485815
+          name: cypress-app-bot
+        - id: 89942104
+          name: angular-robot
+        - id: 54977796
+          name: default-test-user
+        - id: 7568279
+          name: jcabi-github-test2
+        - id: 88102737
+          name: nextcloud-command
+        - id: 74741091
+          name: streamlit-badge-bot
+        - id: 67315154
+          name: xsoar-bot
+        - id: 63790625
+          name: mm-cloud-bot
+        - id: 17701284
+          name: devkhan-test
+        - id: 5580450
+          name: octokit-net-test
+        - id: 73547045
+          name: Ponicode-bot
+        - id: 48351886
+          name: OctoApiTest
+        - id: 74373520
+          name: Issues-translate-bot
+        - id: 67659625
+          name: mptolly-test
+        - id: 81750448
+          name: sap-ospo-bot
+        - id: 56653823
+          name: va-devops-bot
+        - id: 77078333
+          name: ooi-data-bot
+        - id: 49852071
+          name: appcompattester02
+        - id: 120673455
+          name: pixeegithub-testuser1
+        - id: 12962539
+          name: gentoo-repo-qa-bot
+        - id: 67294289
+          name: twilio-product-security
+        - id: 72491021
+          name: kam-bot
+        - id: 90836432
+          name: bepro-bot
+        - id: 49596073
+          name: javascript-translate-bot
+        - id: 34882892
+          name: balena-ci
+        - id: 15967203
+          name: scribesbot
+        - id: 62695641
+          name: bot-gradle
+        - id: 18572634
+          name: algoliareadmebot
+        - id: 1499428
+          name: w3c-bots
+        - id: 6342292
+          name: flatiron-bot
+        - id: 24305385
+          name: k8s-reviewable
+        - id: 61279246
+          name: huntr-helper
+        - id: 78034891
+          name: polkadot-js-bot
+        - id: 12432488
+          name: MelvinBot
+        - id: 35302948
+          name: codetriage-readme-bot
+        - id: 38711189
+          name: IssueHuntBot
+        - id: 56305545
+          name: fifth-test-user
+        - id: 45529330
+          name: sutgitbot
+        - id: 40633623
+          name: MagiskBot
+        - id: 367618
+          name: cm-gerrit
+        - id: 103086293
+          name: deepin-ci-robot
+        - id: 7869166
+          name: try-server-hook
+        - id: 75691118
+          name: msft-fluent-ui-bot
+        - id: 34947467
+          name: aspnet-hello
+        - id: 139449324
+          name: capGPTbot
+        - id: 47125896
+          name: blueocean-halkeye-test
+        - id: 77750099
+          name: docs-bot
+        - id: 72508088
+          name: fockboi-lgtm
+        - id: 56469371
+          name: sre-ci-robot
+        - id: 60944935
+          name: llvmbot
+        - id: 45953950
+          name: hashicorp-cla
+        - id: 47586280
+          name: ks-ci-bot
+        - id: 22027093
+          name: snyk-community
+        - id: 18198918
+          name: gitmagic-bot
+        - id: 65761570
+          name: firstcontributions-bot
+        - id: 16837285
+          name: robodoo
+        - id: 25045188
+          name: enterstudio
+        - id: 40209448
+          name: VortexFeedback
+        - id: 103138242
+          name: LC-Pam
+        - id: 33906690
+          name: sesheta
+        - id: 110583012
+          name: Yanajnp
+        - id: 100751064
+          name: standbyukrainegit
+        - id: 38162891
+          name: KarkDenUheldige
+        - id: 104669986
+          name: brackets-io
+        - id: 109332
+          name: jpbida
+        - id: 78621426
+          name: MaxMood96
+        - id: 8782239
+          name: clouie87
+        - id: 10529358
+          name: nettfunky
+        - id: 69237839
+          name: gnlab999
+        - id: 35950700
+          name: ItaiBarHaimTest
+        - id: 13560636
+          name: RoyArends
+        - id: 34568722
+          name: mhp0rtal
+        - id: 47964052
+          name: deelobase
+        - id: 37739084
+          name: anaionescu5
+        - id: 19641361
+          name: blueoceandeploy
+        - id: 34150294
+          name: nipython
+        - id: 110384147
+          name: natalia-mysiakina-EPAM
+        - id: 97467892
+          name: github-education
+        - id: 111757106
+          name: powerve
+        - id: 16705833
+          name: josecv
+        - id: 51758408
+          name: codeserver-service-dev
+        - id: 84454126
+          name: korekto-agent
+        - id: 44621162
+          name: Moti-H
+        - id: 40667877
+          name: jx-activiti-cloud
+        - id: 125750258
+          name: moti-h2
+        - id: 53257252
+          name: justforittesting
+        - id: 18583812
+          name: takari-looper
+        - id: 68048282
+          name: labagithub2020-andrew3
+        - id: 8152593
+          name: rrenfrow86
+        - id: 130132715
+          name: alveranuno
+        - id: 81902580
+          name: phoenix-dom
+        - id: 1343645
+          name: conke
+        - id: 13141341
+          name: syntheticmonitor
+        - id: 13007906
+          name: togusafish
+        - id: 32351151
+          name: rnshah9
+        - id: 26912367
+          name: InlineEngine
+        - id: 84392119
+          name: team-tf-cdk
+        - id: 17767101
+          name: dampirtest
+        - id: 10283530
+          name: johnousterhout
+        - id: 77257652
+          name: Ale0x78ButInBinary
+        - id: 110405722
+          name: vanessa-cooper-1
+        - id: 97195285
+          name: webkit-early-warning-system
+        - id: 28280845
+          name: gdziadkiewicz-test
+        - id: 33659100
+          name: jozefizso-integrationtests
+        - id: 46779048
+          name: buckaroo-upgrade-bot
+        - id: 10136059
+          name: test-khellang
+        - id: 106648844
+          name: SoftwareEthicsResearcher
+        - id: 23041403
+          name: homeassistant
+        - id: 15013452
+          name: hiteamtest-system
+        - id: 16115905
+          name: RobertoGarrido
+        - id: 122034307
+          name: stacenko-developer
+        - id: 123078419
+          name: sast-qa
+        - id: 133765389
+          name: sast-old-platform-qa
+        - id: 81352262
+          name: cdk8s-automation
+        - id: 95175571
+          name: NOUIY
+        - id: 59378654
+          name: SkyratBot
+        - id: 45807407
+          name: jellyfin-bot
+        - id: 121793512
+          name: Khepdup
+        - id: 54916045
+          name: ci-tester-lunarg
+        - id: 104583016
+          name: aws-aemilia-cmh
+        - id: 13233178
+          name: alibuild
+        - id: 10821961
+          name: mattermost-build
+        - id: 133978099
+          name: Auto-GPT-Bot
+        - id: 104586662
+          name: aws-aemilia-iad
+        - id: 141306041
+          name: cas-darwin-automation
+        - id: 83309141
+          name: opensearch-ci-bot
+        - id: 106112202
+          name: terraform-ibm-modules-ops
+        - id: 108880241
+          name: terraform-ibm-modules-dev
+        - id: 107565488
+          name: stainless-bot
+        - id: 25685558
+          name: taylorbot
+        - id: 7216869
+          name: sul-devops-team
+        - id: 30076809
+          name: dianomicbot
+        - id: 84948785
+          name: guru-dev-cicd-canary-beta
+        - id: 140712314
+          name: taiga-family-bot
+        - id: 137812415
+          name: platform-engineering-bot
+        - id: 60608242
+          name: tna-digital-archiving-jenkins
+        - id: 77396727
+          name: hmcts-platform-operations
+        - id: 54716445
+          name: nr-security-github
+        - id: 66216016
+          name: gardener-robot
+        - id: 90416843
+          name: k8s-infra-cherrypick-robot
+        - id: 9638672
+          name: loic-bot
+        - id: 155511566
+          name: security-alliance-bot
+        - id: 136437109
+          name: isomergithub70
+        - id: 55035720
+          name: content-bot
+        - id: 73667546
+          name: doris-bot
+        - id: 72034354
+          name: secretariat-bot
+        - id: 82990506
+          name: hc-github-team-secure-vault-core
+        - id: 134299653
+          name: lobehubbot
+        - id: 154629622
+          name: NovaBot13
+        - id: 95282030
+          name: gardener-ci-robot
+        - id: 68011578
+          name: raycastbot
+        - id: 17270325
+          name: graalvmbot
+        - id: 25752892
+          name: chromium-wpt-export-bot
+        - id: 88447997
+          name: rh-operator-bundle-bot
+        - id: 108495483
+          name: OhMyGuus-Bot
+        - id: 102256036
+          name: cq-bot
+        - id: 54726158
+          name: data-sync-user
+        - id: 28699486
+          name: frappe-pr-bot
+        - id: 82989933
+          name: hc-github-team-consul-core
+        - id: 58983587
+          name: qgis-bot
+        - id: 119904223
+          name: PckgrBot
+        - id: 118761991
+          name: robot-clickhouse-ci-1
+        - id: 24582011
+          name: GiteaBot
+        - id: 33470835
+          name: docschina-bot
+        - id: 104646451
+          name: aws-aemilia-mxp
+        - id: 104544900
+          name: aws-aemilia-bah
+        - id: 104661415
+          name: aws-aemilia-yul
+        - id: 136437109
+          name: isomergithub70
+        - id: 104583231
+          name: aws-aemilia-dub
+        - id: 104520202
+          name: aws-aemilia-arn
+        - id: 104582264
+          name: aws-aemilia-bom
+        - id: 164520693
+          name: mateacademy-ai-mentor
+        - id: 60611498
+          name: sourcery-ai-bot
+        - id: 38661258
+          name: folio-translations
+        - id: 7901977
+          name: ivy-team
+        - id: 113140650
+          name: svc-cli-bot
+        - id: 124084908
+          name: gh-actions-test-bot
+        - id: 137281646
+          name: CodiumAI-Agent
+        - id: 102256036
+          name: cq-bot
+        - id: 72787771
+          name: xdev-renovate
+        - id: 70776706
+          name: openstack-k8s-ci-robot
+        - id: 145445537
+          name: rhtap-qe-bots-2
+        - id: 95282030
+          name: gardener-ci-robot
+        - id: 71030998
+          name: initializ-bot
+        - id: 51342364
+          name: platformsh-devrel
+        - id: 82905295
+          name: ack-bot
+        - id: 111048771
+          name: xdev-gh-bot
+        - id: 61247838
+          name: eclipse-zenoh-bot
+        - id: 155511566
+          name: security-alliance-bot
+        - id: 108553330
+          name: LizardByte-bot
+        - id: 164522902
+          name: ChainPatrol-bot
+        - id: 143721230
+          name: doris-robot
+        - id: 166700802
+          name: github-automation-metabase
+        - id: 45370463
+          name: brave-builds
+        - id: 162997992
+          name: stackloktesting
+        - id: 164105940
+          name: stacksmoke
+        - id: 159936581
+          name: environment-testing
+        - id: 80064576
+          name: cknowles-admin
+        - id: 159246943
+          name: apiiro-snyk
+        - id: 99971683
+          name: ShreyashBandekar21
+        - id: 173339725
+          name: jimegeiwo
+        - id: 162922985
+          name: haohaocreates
+        - id: 43630382
+          name: alex-pakalniskis
+        - id: 168005249
+          name: rhtap-ci-tests-bot
+        - id: 151977651
+          name: cangulo-bot
+        - id: 97138177
+          name: AlexKitIt
+        - id: 106536606
+          name: sumit-strobes
+        - id: 141206411
+          name: GtdsIndonesia
+        - id: 15991828
+          name: laravel-shift
+        - id: 132594048
+          name: ISOMERGITHUB33
+        - id: 53613928
+          name: mohamedSalehHegazy
+        - id: 151173432
+          name: prezo-ci-bkp
+        - id: 102694185
+          name: MatMarrr
+        - id: 95081821
+          name: team-interval
+        - id: 23442052
+          name: xcluz-git
+        - id: 95439798
+          name: gqgserver
+        - id: 5022995
+          name: bajarang-agarwal1
+        - id: 145339968
+          name: sam-platform-auto
+        - id: 132117782
+          name: kusamanetworkss
+        - id: 149433462
+          name: sam-platform-auto-2
+        - id: 84103551
+          name: multitest123
+        - id: 92076035
+          name: beitlk
+        - id: 56928262
+          name: postali-marketing
+        - id: 61610729
+          name: baby636
+        - id: 4621646
+          name: igibek
+        - id: 62535745
+          name: s-aka-moto
+        - id: 148913307
+          name: elaguerta-nr
+        - id: 158979731
+          name: duzhg56980
+        - id: 8964373
+          name: moz-hwine
+        - id: 130284980
+          name: alelialeli2
+        - id: 56990852
+          name: yupimaru
+        - id: 101814735
+          name: bsoprojects
+        - id: 41402825
+          name: vokaplok
+        - id: 130314939
+          name: yanshulmatok
+        - id: 48127076
+          name: ContactAddInformatique
+        - id: 104595665
+          name: aws-aemilia-kix
+        - id: 704250
+          name: cmr
+        - id: 98147650
+          name: kwaicsse
+        - id: 124901986
+          name: cheransengodan-sensiple
+        - id: 20226104
+          name: snyk-test
+        - id: 88676023
+          name: GateQuality
+        - id: 63350304
+          name: jdlab-dev
+        - id: 104070462
+          name: amir1387aht
+        - id: 115764622
+          name: seeronline
+        - id: 15693930
+          name: KrissV2
+        - id: 64667029
+          name: rickdoq
+        - id: 170894649
+          name: Wanderx13
+        - id: 88782659
+          name: WSA1k
+        - id: 175113066
+          name: swaggy111
+        - id: 32580384
+          name: c0ffincolors
+        - id: 89100268
+          name: llowvxe
+        - id: 55325034
+          name: jia6214876
+        - id: 156702024
+          name: ioBroker-Bot
+        - id: 114004748
+          name: cingmanwu
+        - id: 31872143
+          name: TL-Yao
+        - id: 57792770
+          name: ytl2019
+        - id: 3389845
+          name: PiaoR
+        - id: 58259069
+          name: bambootest-bot
+        - id: 87254977
+          name: ahmar7
+        - id: 171268329
+          name: DigitalPlatFoundation
+        - id: 77073439
+          name: webkit-commit-queue
+        - id: 28621316
+          name: NordicBuilder
+        - id: 14542386
+          name: gentoo-bot
+        - id: 58790826
+          name: elasticsearchmachine
+        - id: 10336601
+          name: daocloudpublic
+        - id: 92915184
+          name: airbyteio
+        - id: 76178356
+          name: OSBotify
+        - id: 101608348
+          name: llamatester
+        - id: 17281578
+          name: yugabyte-ci
+        - id: 45043797
+          name: nixos-discourse
+        - id: 47979223
+          name: rustbot
+        - id: 110908925
+          name: bot-gitexp-user
+        - id: 120460335
+          name: pix-bot-github
+        - id: 69588470
+          name: posthog-bot
+        - id: 97558700
+          name: mui-bot
+        - id: 152529449
+          name: bot2-harness
+        - id: 43204447
+          name: app-sre-bot
+        - id: 115476073
+          name: Satellite-QE
+        - id: 177514479
+          name: BambulabRobot
+        - id: 48055056
+          name: ch-code-analysis
+        - id: 41093903
+          name: sysopenci
+        - id: 137281497
+          name: bcbuild-github-agent
+        - id: 115160210
+          name: cloud-platform-concourse-bot
+        - id: 58012459
+          name: llvm-ci
+        - id: 111915794
+          name: gravity-ui-bot
+        - id: 129911861
+          name: leanprover-community-mathlib4-bot
+        - id: 37885440
+          name: metamaskbot
+        - id: 75649378
+          name: modernappsninjabot
+        - id: 58891217
+          name: bazel-flag-bot
+        - id: 46904574
+          name: flinkbot
+        - id: 39309875
+          name: spinnakerbot
+        - id: 40367165
+          name: asf-ci
+        - id: 94524680
+          name: pilot5657
+        - id: 114339026
+          name: MirsonMboa
+        - id: 161912673
+          name: Qsgz2023ji5ban
+        - id: 145574407
+          name: NikhilKumar77777
+        - id: 81862745
+          name: qlqw233
+        - id: 62272459
+          name: esttemanb
+        - id: 28345176
+          name: bkballoon
+        - id: 34699717
+          name: LILIXZ
+        - id: 161035464
+          name: NhutDang2002
+        - id: 170385585
+          name: electricsidecar-dev
+        - id: 42236957
+          name: nf-core-bot
+        - id: 92810346
+          name: pyansys-ci-bot
+        - id: 64428345
+          name: carpentries-bot
+        - id: 25073645
+          name: nfbot
+        - id: 102549341
+          name: costellobot
+        - id: 70719334
+          name: FUMR-bot
+        - id: 82967070
+          name: ynbot
+        - id: 112753020
+          name: soc-se-bot-blue
+        - id: 95074132
+          name: stackable-bot
+        - id: 112753567
+          name: soc-se-bot-red
+        - id: 169414853
+          name: spanky-the-elfbot
+        - id: 6763890
+          name: particularbot
+        - id: 91362041
+          name: SagarChandra07
+        - id: 160645772
+          name: goncastrum
+        - id: 83200018
+          name: openshift-helm-charts-bot
+        - id: 64230302
+          name: discourse-translator-bot
+        - id: 167777325
+          name: sourcery-ai-experiments-bot
+        - id: 147593099
+          name: telcobot
+        - id: 10605095
+          name: pulpbot
+        - id: 44651360
+          name: streamnativebot
+        - id: 99490674
+          name: redhat-appstudio-qe-bot
+        - id: 55274381
+          name: vshnbot
+        - id: 11837500
+          name: brightspace-bot
+        - id: 86326137
+          name: bot-monkey-7
+        - id: 75360975
+          name: particularbot6
+        - id: 3698800
+          name: discoursebot
+        - id: 73200433
+          name: splunk-soar-connectors-bot
+        - id: 24442459
+          name: sqrbot
+        - id: 100378742
+          name: valitydev-bot
+        - id: 72348767
+          name: LXQtBot
+        - id: 72033612
+          name: SF-CLI-BOT
+        - id: 25537707
+          name: fire-bot
+        - id: 61554603
+          name: precog-bot
+        - id: 55426066
+          name: ibm-ci-bot
+        - id: 7335855
+          name: HelixBot
+        - id: 45991747
+          name: ArkEcosystemBot
+        - id: 45469328
+          name: CodeLingoBot
+        - id: 23072004
+          name: vorpal-buildbot
+        - id: 10377331
+          name: jsql-robot
+        - id: 16725049
+          name: sauron-gamma-bot
+        - id: 185837594
+          name: JasonnnW3000
+        - id: 52411473
+          name: kibe-star
+        - id: 82449132
+          name: kubevela-bot
+        - id: 84452982
+          name: openyurt-bot
+        - id: 175728472
+          name: Copilot
+        - id: 198982749
+          name: Copilot
+        - id: 206803686
+          name: bug-bbounty
+        - id: 203072455
+          name: dsanjaykumar1
+        - id: 2829939
+          name: lwsinclair
+        - id: 211068463
+          name: fivemeyestore
+        - id: 211069089
+          name: fivemhostingserver
+        - id: 211071282
+          name: fivemserverhostings
+        - id: 211056657
+          name: fivemtebex
+        - id: 211121817
+          name: fivemeyestoreserver
+        - id: 211106242
+          name: fivemservereyestore
+        - id: 204706964
+          name: buddytestuser2
+        - id: 204708221
+          name: buddytestuser4
+        - id: 204705513
+          name: buddytestuser1
+        - id: 204707759
+          name: buddytestuser3
+        - id: 216255171
+          name: safer-bot
+        - id: 201518671
+          name: AG2AI-Admin
+        - id: 170979611
+          name: actions-bot-pl
+        - id: 223996847
+          name: buddytestuser7
+        - id: 223991625
+          name: buddytestuser6
+        - id: 191946552
+          name: makingsmako9
+        - id: 156987119
+          name: waleedahmedhere
+        - id: 139272404
+          name: Vanya13917
+        - id: 48327001
+          name: NielsRogge
+        - id: 22970955
+          name: jinqi7
+        - id: 49986348
+          name: volcano-sh-bot
+        - id: 90828364
+          name: tensorrt-cicd
+        - id: 172744619
+          name: comfy-pr-bot
+        - id: 182006032
+          name: all-hands-bot
+        - id: 21957446
+          name: pytorchbot
+        - id: 126667691
+          name: CometActions
+        - id: 240547403
+          name: pr-validator-bot
+        - id: 270284398
+          name: PaddlePaddle-bot
+        - id: 87703623
+          name: robot-ci-heartex
+        - id: 121576822
+          name: gradio-pr-bot
+        - id: 236526959
+          name: flashinfer-bot
+        - id: 245956830
+          name: svcnvidia-nemo-ci
+        - id: 236850375
+          name: ammar-agent
+        - id: 234946041
+          name: rubimoutlook740-bot
+        - id: 223368873
+          name: adk-bot
+        - id: 85128059
+          name: searxng-bot
+        - id: 76678816
+          name: karmada-bot
+        - id: 48982446
+          name: kubeedge-bot
+        - id: 162969726
+          name: scylladbbot
+        - id: 163313767
+          name: ocpdocs-vale-bot
+        - id: 74306126
+          name: backstage-service
+        - id: 107444360
+          name: ocpdocs-previewbot
+        - id: 5429108
+          name: ceph-jenkins
+        - id: 148914812
+          name: rhacs-bot
+        - id: 55852648
+          name: metal3-io-bot
+        - id: 95302551
+          name: kongponents-bot
+        - id: 80706817
+          name: foundationdb-ci
+        - id: 205926666
+          name: neo4j-docops-agent
+        - id: 53030124
+          name: istio-policy-bot
+        - id: 52562448
+          name: kubevirt-commenter-bot
+        - id: 20374350
+          name: minikube-bot
+        - id: 174728082
+          name: svcAPLBot
+        - id: 229726533
+          name: ocp-sustaining-admins
+        - id: 86465892
+          name: kruise-bot
+        - id: 69307580
+          name: robot-ch-test-poll3
+        - id: 47390204
+          name: robot-ch-test-poll1
+        - id: 102140541
+          name: openshift-ota-bot
+        - id: 65280152
+          name: ceph-csi-bot
+        - id: 71450783
+          name: hco-bot
+        - id: 69306974
+          name: robot-ch-test-poll4
+        - id: 74887181
+          name: eks-distro-bot
+        - id: 63349887
+          name: robot-ch-test-poll2
+        - id: 110385897
+          name: k0s-bot
+        - id: 118811860
+          name: robot-clickhouse-ci-2
+        - id: 56698301
+          name: dapr-bot
+        - id: 45356221
+          name: robot-ch-test-poll
+        - id: 199975426
+          name: ydbot
+        - id: 49303554
+          name: Apache-HBase
+        - id: 257724643
+          name: CelerData-Reviewer
+        - id: 140790392
+          name: duckdblabs-bot
+        - id: 113648949
+          name: risingwave-ci
+        - id: 57942646
+          name: vdaas-ci
+        - id: 228744952
+          name: paradedb-bot
+        - id: 254631370
+          name: StarRocks-Reviewer
+        - id: 37936598
+          name: TarantoolBot
+        - id: 36883350
+          name: scylladb-promoter
+        - id: 123763385
+          name: timescale-automation
+        - id: 247838182
+          name: alamb-ghbot
+        - id: 234975836
+          name: clockwork-labs-bot
+        - id: 77737458
+          name: FishtownBuildBot
+        - id: 267740845
+          name: adriangbot
+        - id: 175387142
+          name: spectopo
+        - id: 79238446
+          name: mssonicbld
+        - id: 114952565
+          name: stephengillie
+        - id: 194854876
+          name: nextjs-bot
+        - id: 123498312
+          name: tenstorrent-github-bot
+        - id: 70344339
+          name: va-vsp-bot
+        - id: 65035528
+          name: bitwarden-bot
+        - id: 68648060
+          name: rust-log-analyzer
+        - id: 15028808
+          name: bazel-io
+        - id: 46540222
+          name: va-cms-bot
+        - id: 253674004
+          name: marketplace-ai-reviewer
+        - id: 134544507
+          name: prodsecmachine
+        - id: 12471139
+          name: rust-timer
+        - id: 60776566
+          name: jenkins-infra-bot
+        - id: 8039454
+          name: alfresco-build
+        - id: 178941316
+          name: tradebot-elastic
+        - id: 153242045
+          name: svc-docs-eng-opensource-bot
+        - id: 3605123
+          name: google-admin
+        - id: 151284481
+          name: grader-cogs108
+        - id: 184441617
+          name: prestodb-ci
+        - id: 120689390
+          name: UnownBot
+        - id: 143536629
+          name: damn-good-b0t
+        - id: 258099709
+          name: netzenbot
+        - id: 127956735
+          name: mobiletest-ci-bot
+        - id: 75336432
+          name: eks-distro-pr-bot
+        - id: 93915689
+          name: tdesign-bot
+        - id: 110475461
+          name: eng-dev-ecosystem-bot
+        - id: 88769842
+          name: vercel-release-bot
+        - id: 97796249
+          name: backport-action
+        - id: 18470668
+          name: prombot
+        - id: 81847
+          name: Claude
+        - id: 111755117
+          name: qdrant-cloud-bot
+        - id: 182743316
+          name: langfuse-bot
+        - id: 1134463
+          name: spring-builds
+        - id: 125606113
+          name: solrbot
+        - id: 107717825
+          name: opentelemetrybot
+        - id: 46524234
+          name: hadoop-yetus
+        - id: 99696057
+          name: openwrt-bot
+        - id: 199298453
+          name: vllm-bot
+        - id: 82989552
+          name: hc-github-team-nomad-core
+    - name: Gitee
+      type: Code Hosting
+      users:
+        - id: 7387629
+          name: openharmony_ci
+        - id: 5329419
+          name: openeuler-ci-bot
+        - id: 10101746
+          name: anolis-bot
+        - id: 7718575
+          name: I-am-a-robot
+        - id: 9376022
+          name: sig-ci-test
+        - id: 8512944
+          name: openeuler-sync-bot
+        - id: 5622128
+          name: opengauss-bot
+        - id: 7862199
+          name: turing_project
+        - id: 8783753
+          name: paddlepaddle-gardener
+        - id: 5518576
+          name: mindspore_ci
+        - id: 9508609
+          name: openharmony_sig_ci
+        - id: 10071196
+          name: openkylin-cibot
+        - id: 8783800
+          name: paddlepaddle-coordinator
+        - id: 13084139
+          name: opengauss_bot
+        - id: 7370452
+          name: ibizlab_admin
+        - id: 9968373
+          name: openeuler-survey-bot
+        - id: 8041105
+          name: ci-robot
+        - id: 13545596
+          name: pta-robot
+        - id: 7864319
+          name: atlasaccount
+        - id: 13814391
+          name: anolis-bot-ci
+        - id: 13240069
+          name: yushi-Icy
+        - id: 5595483
+          name: licihua
+        - id: 12889549
+          name: fengwujin
+        - id: 12953588
+          name: osc-bot
+        - id: 16228528
+          name: wenyuzifangtest001
+        - id: 12516224
+          name: openharmony_dcp
+        - id: 10379977
+          name: arkci
+        - id: 14563568
+          name: ohci
+        - id: 15847047
+          name: arkui-feature-manager
+        - id: 14506044
+          name: infrastructure-teams
+        - id: 9575379
+          name: openLiBing-bot
+    - name: AtomGit
+      type: Code Hosting
+      users:
+        - id: 21529
+          name: openharmony_ci
+        - id: 490015
+          name: openharmony_dcp
+        - id: 5689722
+          name: arkui-feature-manager
+        - id: 6764087
+          name: openharmony-docs-bot
+        - id: 2596302
+          name: cann-robot
+        - id: 5355243
+          name: ascend-robot
+        - id: 5580022
+          name: pta-robot
+        - id: 746087
+          name: AtlasAccount
+        - id: 3762624
+          name: openeuler-ci-bot
+        - id: 7782725
+          name: openeuler-infra-bot
+        - id: 9216614
+          name: devstation-robot
+        - id: 6860522
+          name: MindSpore-Bot
+        - id: 498909
+          name: CangjiePL
+        - id: 3096086
+          name: opengauss_bot
+        - id: 4568139
+          name: openFuyao-bot
+        - id: 1893501
+          name: openharmony_devops
+        - id: 9459213
+          name: infra_team
+        - id: 2323141
+          name: gitcode-bot
+        - id: 10671088
+          name: agentic-workflow
+        - id: 5275533
+          name: openLiBingCI
+        - id: 9516837
+          name: hulk-ci-bot
+        - id: 7174008
+          name: afwk_helper
+        - id: 5293293
+          name: openeuler-sync-bot
+        - id: 3227037
+          name: ohci1
+        - id: 1893530
+          name: openharmony_ops

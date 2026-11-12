@@ -1,0 +1,30 @@
+{
+  "confirmed_commit": "fff392e957bab9fb6d89d49dea712af47484efaa",
+  "read_files": [
+    {
+      "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/docs/report-constitution.md",
+      "blob_sha": "a5375ddcea133f50e4406e09d070721d6d54870e",
+      "checked": "2026-11-10"
+    },
+    {
+      "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/editions/insights/constitution.md",
+      "blob_sha": "9cda7a8fc87113d293260ec913b033dc26731907",
+      "checked": "2026-11-10"
+    },
+    {
+      "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/editions/insights/claims-map.md",
+      "blob_sha": "5e2c1bd03e8db90f2445813bccb4717602203623",
+      "checked": "2026-11-10"
+    },
+    {
+      "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/editions/insights/chapters/01/v0.5/README.md",
+      "blob_sha": "940383492605389fbc31cd85bf5a994979d6e24e",
+      "checked": "2026-11-10"
+    },
+    {
+      "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/docs/research/2026-11-04-governance/README.md",
+      "blob_sha": "7bf8593ea7ae932f0c3059559494a62b8751c58e",
+      "checked": "2026-11-10"
+    }
+  ]
+}

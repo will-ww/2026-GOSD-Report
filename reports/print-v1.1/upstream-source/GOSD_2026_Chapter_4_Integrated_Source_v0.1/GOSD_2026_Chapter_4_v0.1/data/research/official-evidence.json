@@ -1,0 +1,26 @@
+{
+  "retrieved": "2026-11-10",
+  "period_class": "post_period",
+  "sources": [
+    {
+      "url": "https://huggingface.co/docs/hub/models-download-stats",
+      "finding": "Counts selected-file HTTP requests with library-specific definitions; not unique users."
+    },
+    {
+      "url": "https://pytorch.org/foundation/",
+      "finding": "Board oversees foundation activities; project technical governance maintained separately."
+    },
+    {
+      "url": "https://docs.pytorch.org/docs/2.15/community/governance.html",
+      "finding": "Individual maintainer roles and technical decision process distinct from corporate membership."
+    },
+    {
+      "url": "https://pytorch.org/tac/",
+      "finding": "Open monthly technical meetings; listed representatives include Alibaba Cloud, Huawei, Cambricon."
+    },
+    {
+      "url": "https://pytorch.org/credits/",
+      "finding": "Credits and financial contributions support CI and foundation-hosted infrastructure; AWS example; technical contact and service support required."
+    }
+  ]
+}

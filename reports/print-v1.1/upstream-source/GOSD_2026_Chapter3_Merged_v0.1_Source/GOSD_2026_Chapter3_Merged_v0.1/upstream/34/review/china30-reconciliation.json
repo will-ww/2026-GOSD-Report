@@ -1,0 +1,332 @@
+[
+  {
+    "project": "OpenHarmony",
+    "match": [
+      {
+        "id": ":companies/huawei/openharmony",
+        "name": "OpenHarmony",
+        "openrank": 75809.42
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "openEuler",
+    "match": [
+      {
+        "id": ":companies/huawei/openeuler",
+        "name": "openEuler",
+        "openrank": 18950.48
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "CANN",
+    "match": [
+      {
+        "id": ":companies/huawei/cann",
+        "name": "CANN",
+        "openrank": 14719.47
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "Ascend",
+    "match": [
+      {
+        "id": ":companies/huawei/ascend",
+        "name": "Ascend",
+        "openrank": 12973.33
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "MindSpore",
+    "match": [
+      {
+        "id": ":companies/huawei/mindspore",
+        "name": "MindSpore",
+        "openrank": 7321.46
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "PaddlePaddle",
+    "match": [
+      {
+        "id": ":companies/baidu/paddle",
+        "name": "PaddlePaddle",
+        "openrank": 6567.09
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "Cangjie",
+    "match": [
+      {
+        "id": ":companies/huawei/cangjie",
+        "name": "Cangjie",
+        "openrank": 4806.2
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "Ant Design",
+    "match": [
+      {
+        "id": ":companies/antgroup/antd",
+        "name": "Ant Design",
+        "openrank": 2657.1
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "openGauss",
+    "match": [
+      {
+        "id": ":companies/huawei/opengauss",
+        "name": "openGauss",
+        "openrank": 2459.62
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "魔搭",
+    "match": [
+      {
+        "id": ":companies/alibaba/modelscope",
+        "name": "ModelScope",
+        "openrank": 2370.03
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "TiDB",
+    "match": [
+      {
+        "id": ":companies/pingcap/tidb",
+        "name": "TiDB",
+        "openrank": 2255.32
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "verl",
+    "match": [
+      {
+        "id": ":companies/bytedance/verl",
+        "name": "verl",
+        "openrank": 2247.85
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "1Panel",
+    "match": [
+      {
+        "id": ":companies/fit2cloud/1panel",
+        "name": "1Panel",
+        "openrank": 2002.13
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "openKylin",
+    "match": [
+      {
+        "id": ":companies/openkylin/openkylin",
+        "name": "openKylin",
+        "openrank": 1757.69
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "StarRocks",
+    "match": [
+      {
+        "id": ":companies/starrocks/starrocks",
+        "name": "StarRocks",
+        "openrank": 1716
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "RAGFlow",
+    "match": [
+      {
+        "id": ":companies/infiniflow/ragflow",
+        "name": "RAGFlow",
+        "openrank": 1595.34
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "香山处理器",
+    "match": [
+      {
+        "id": ":institutions/cas/xiangshan",
+        "name": "XiangShan",
+        "openrank": 1434.43
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "龙蜥",
+    "match": [
+      {
+        "id": ":companies/alibaba/anolis",
+        "name": "Anolis OS",
+        "openrank": 1384.53
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "Coze",
+    "match": [
+      {
+        "id": ":companies/bytedance/coze",
+        "name": "Coze",
+        "openrank": 1306.74
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "FlagOS",
+    "match": [
+      {
+        "id": ":institutions/baai/flagos",
+        "name": "FlagOS",
+        "openrank": 1305.86
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "openFuyao",
+    "match": [
+      {
+        "id": ":companies/huawei/openfuyao",
+        "name": "openFuyao",
+        "openrank": 1247.62
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "AntV",
+    "match": [
+      {
+        "id": ":companies/antgroup/antv",
+        "name": "AntV",
+        "openrank": 1160.66
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "TDengine",
+    "match": [
+      {
+        "id": ":companies/taos/tdengine",
+        "name": "TDengine",
+        "openrank": 1151.39
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "AgentScope",
+    "match": [
+      {
+        "id": ":companies/alibaba/agent_scope",
+        "name": "AgentScope",
+        "openrank": 1146
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "ms-swift",
+    "match": [
+      {
+        "id": ":companies/alibaba/ms_swift",
+        "name": "ms-swift",
+        "openrank": 1074.14
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "inclusionAI",
+    "match": [
+      {
+        "id": ":companies/antgroup/inclusionai",
+        "name": "inclusionAI",
+        "openrank": 1038.55
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "DeerFlow",
+    "match": [
+      {
+        "id": ":companies/bytedance/deer_flow",
+        "name": "DeerFlow",
+        "openrank": 995.06
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "CloudWeGo",
+    "match": [
+      {
+        "id": ":companies/bytedance/cloudwego",
+        "name": "CloudWeGo",
+        "openrank": 983.78
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "KWDB",
+    "match": [
+      {
+        "id": ":companies/inspur/kwdb",
+        "name": "KWDB",
+        "openrank": 948.11
+      }
+    ],
+    "score_ok": true
+  },
+  {
+    "project": "DataEase",
+    "match": [
+      {
+        "id": ":companies/fit2cloud/dataease",
+        "name": "DataEase",
+        "openrank": 927.63
+      }
+    ],
+    "score_ok": true
+  }
+]

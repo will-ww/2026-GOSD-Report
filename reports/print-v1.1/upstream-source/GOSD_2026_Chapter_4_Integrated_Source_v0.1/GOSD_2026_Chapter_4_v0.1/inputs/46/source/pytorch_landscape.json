@@ -1,0 +1,1861 @@
+{
+  "id": "pytorch",
+  "number": "4.6",
+  "title": "PyTorch 基金会全景洞察",
+  "en": "PYTORCH ECOSYSTEM LANDSCAPE",
+  "short": "PyTorch 生态",
+  "question": "围绕核心框架，模型任务、训练系统与工程协作如何分工？",
+  "intro": "将模型任务、规模化训练与工程支撑放在同一视图，理解核心框架与周边生态的关系。",
+  "scope": "报告已入库的 83 个生态仓库，含周边社区与组织项目；不等同基金会正式托管名录。",
+  "metric": "项目 OpenRank（原表值）",
+  "period": "原表标记 2026 · 起止窗口待核",
+  "accent": "down",
+  "groups": [
+    {
+      "id": "modeling",
+      "name": "模型与任务",
+      "subtitle": "数据、领域能力与保护",
+      "categories": [
+        "Computer Vision",
+        "Audio",
+        "Reinforcement Learning",
+        "Domain Applications",
+        "Data",
+        "Privacy"
+      ]
+    },
+    {
+      "id": "execution",
+      "name": "训练与执行",
+      "subtitle": "核心框架和系统能力",
+      "categories": [
+        "Training",
+        "Distributed Training",
+        "Compilers & Runtimes",
+        "Optimization"
+      ]
+    },
+    {
+      "id": "engineering",
+      "name": "工程与协作",
+      "subtitle": "交付、基础设施与社区",
+      "categories": [
+        "MLOps",
+        "Core Infrastructure",
+        "Documentation & Community",
+        "pending"
+      ]
+    }
+  ],
+  "need": "正式托管边界与技术角色核对、兼容关系、跨硬件和部署案例。",
+  "stage": "landscape-ready",
+  "version": "gosl-framework-v1",
+  "source": {
+    "path": "data/processed/chapter4/fig-4-6-1_pytorch_landscape.csv",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/d43b14a3850fffa6589b2ebe64bc257a0734ad6a/data/processed/chapter4/fig-4-6-1_pytorch_landscape.csv",
+    "sha256": "fa00a556027bb46fea2a11090675348fbb0a629bbb01a296ed751a9cfc80af5f",
+    "commit": "d43b14a3850fffa6589b2ebe64bc257a0734ad6a",
+    "download": "/assets/report/data/fig-4-6-1_pytorch_landscape.csv"
+  },
+  "projects": [
+    {
+      "id": "65600975",
+      "name": "pytorch",
+      "repo": "pytorch/pytorch",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "category": "Training",
+      "tags": [
+        "Training"
+      ],
+      "value": 9423.006042480469,
+      "description": "提供张量计算、自动微分与神经网络训练的核心框架。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/pytorch",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/pytorch/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": [
+        {
+          "category": "PyTorch Projects",
+          "subcategory": "Foundation",
+          "repo_url": "https://github.com/pytorch/pytorch",
+          "match": "exact",
+          "source": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml"
+        }
+      ]
+    },
+    {
+      "id": "463628495",
+      "name": "executorch",
+      "repo": "pytorch/executorch",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/executorch",
+      "category": "Compilers & Runtimes",
+      "tags": [
+        "Compilers & Runtimes"
+      ],
+      "value": 1659.4177780151367,
+      "description": "面向移动端、边缘与嵌入式设备的模型推理运行时。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/executorch",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/executorch/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "730932260",
+      "name": "torchtitan",
+      "repo": "pytorch/torchtitan",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/torchtitan",
+      "category": "Distributed Training",
+      "tags": [
+        "Distributed Training"
+      ],
+      "value": 635.5757751464844,
+      "description": "用于大规模生成式模型训练的 PyTorch 原生平台。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/torchtitan",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/torchtitan/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "714073518",
+      "name": "ao",
+      "repo": "pytorch/ao",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/ao",
+      "category": "Optimization",
+      "tags": [
+        "Optimization"
+      ],
+      "value": 612.4253406524658,
+      "description": "量化、稀疏化和低精度训练推理的模型优化库。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。 主分组沿用上游分类；Optimizations 仅规范为现有单数 Optimization。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/ao/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": [
+        {
+          "category": "Optimizations",
+          "subcategory": "General",
+          "repo_url": "https://github.com/pytorch/ao",
+          "match": "exact",
+          "source": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml"
+        }
+      ]
+    },
+    {
+      "id": "150154628",
+      "name": "FBGEMM",
+      "repo": "pytorch/FBGEMM",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/FBGEMM",
+      "category": "Optimization",
+      "tags": [
+        "Optimization"
+      ],
+      "value": 554.1819801330566,
+      "description": "服务深度学习训练和推理的高性能低精度算子库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/FBGEMM",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/FBGEMM/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "975171512",
+      "name": "monarch",
+      "repo": "meta-pytorch/monarch",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/monarch",
+      "category": "Distributed Training",
+      "tags": [
+        "Distributed Training"
+      ],
+      "value": 458.81152725219727,
+      "description": "支持远程 actor、消息与分布式张量的执行框架。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/monarch",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/monarch/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "970899748",
+      "name": "helion",
+      "repo": "pytorch/helion",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/helion",
+      "category": "Compilers & Runtimes",
+      "tags": [
+        "Compilers & Runtimes"
+      ],
+      "value": 435.4716548919678,
+      "description": "将 Python 嵌入式内核 DSL 编译至 Triton 的工具。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/helion",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/helion/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": [
+        {
+          "category": "PyTorch Projects",
+          "subcategory": "Foundation",
+          "repo_url": "https://github.com/pytorch/helion",
+          "match": "exact",
+          "source": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml"
+        }
+      ]
+    },
+    {
+      "id": "73328905",
+      "name": "vision",
+      "repo": "pytorch/vision",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/vision",
+      "category": "Computer Vision",
+      "tags": [
+        "Computer Vision"
+      ],
+      "value": 340.8576965332031,
+      "description": "提供视觉数据集、模型架构与图像变换的 TorchVision。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。 主分组沿用上游分类。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/vision/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": [
+        {
+          "category": "Modeling",
+          "subcategory": "Computer Vision",
+          "repo_url": "https://github.com/pytorch/vision",
+          "match": "exact",
+          "source": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml"
+        }
+      ]
+    },
+    {
+      "id": "353143803",
+      "name": "test-infra",
+      "repo": "pytorch/test-infra",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/test-infra",
+      "category": "Core Infrastructure",
+      "tags": [
+        "Core Infrastructure"
+      ],
+      "value": 259.58528423309326,
+      "description": "支持 PyTorch 持续集成、测试和开发工具的基础设施。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/test-infra",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/test-infra/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1080065885",
+      "name": "torchcomms",
+      "repo": "meta-pytorch/torchcomms",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/torchcomms",
+      "category": "Distributed Training",
+      "tags": [
+        "Distributed Training"
+      ],
+      "value": 236.3900065422058,
+      "description": "提供集合通信 API 与多种后端的 PyTorch 通信库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/torchcomms",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/torchcomms/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "807642214",
+      "name": "torchcodec",
+      "repo": "meta-pytorch/torchcodec",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/torchcodec",
+      "category": "Data",
+      "tags": [
+        "Data"
+      ],
+      "value": 233.5015468597412,
+      "description": "在媒体数据与 PyTorch 张量间转换的音视频及图像编解码库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/torchcodec",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/torchcodec/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "246634306",
+      "name": "TensorRT",
+      "repo": "pytorch/TensorRT",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/TensorRT",
+      "category": "Compilers & Runtimes",
+      "tags": [
+        "Compilers & Runtimes"
+      ],
+      "value": 217.0285587310791,
+      "description": "以 NVIDIA TensorRT 加速 PyTorch 模型推理的编译集成。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。 主分组沿用上游分类。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/TensorRT/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": [
+        {
+          "category": "Optimizations",
+          "subcategory": "Compilers & Runtimes",
+          "repo_url": "https://github.com/pytorch/TensorRT",
+          "match": "exact",
+          "source": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml"
+        }
+      ]
+    },
+    {
+      "id": "385408663",
+      "name": "torchrec",
+      "repo": "meta-pytorch/torchrec",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/torchrec",
+      "category": "Domain Applications",
+      "tags": [
+        "Domain Applications"
+      ],
+      "value": 212.9733362197876,
+      "description": "面向大规模推荐系统的模型与训练组件库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/torchrec",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://github.com/meta-pytorch/torchrec/blob/main/README.MD",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": [
+        {
+          "category": "Modeling",
+          "subcategory": "Specialized",
+          "repo_url": "https://github.com/pytorch/torchrec",
+          "match": "historical-name-candidate",
+          "source": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml"
+        }
+      ]
+    },
+    {
+      "id": "156293205",
+      "name": "xla",
+      "repo": "pytorch/xla",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/xla",
+      "category": "Compilers & Runtimes",
+      "tags": [
+        "Compilers & Runtimes"
+      ],
+      "value": 188.1769441962242,
+      "description": "连接 PyTorch 与 XLA 设备后端的编译执行集成。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。 主分组沿用上游分类。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/xla/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": [
+        {
+          "category": "Optimizations",
+          "subcategory": "Compilers & Runtimes",
+          "repo_url": "https://github.com/pytorch/xla",
+          "match": "exact",
+          "source": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml"
+        }
+      ]
+    },
+    {
+      "id": "454479855",
+      "name": "rl",
+      "repo": "pytorch/rl",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/rl",
+      "category": "Reinforcement Learning",
+      "tags": [
+        "Reinforcement Learning"
+      ],
+      "value": 186.07852745056152,
+      "description": "构建强化学习与决策系统的 TorchRL 组件库。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。 主分组沿用上游分类。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/rl/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": [
+        {
+          "category": "Modeling",
+          "subcategory": "Reinforcement Learning",
+          "repo_url": "https://github.com/pytorch/rl",
+          "match": "exact",
+          "source": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml"
+        }
+      ]
+    },
+    {
+      "id": "869176390",
+      "name": "tritonbench",
+      "repo": "meta-pytorch/tritonbench",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/tritonbench",
+      "category": "Optimization",
+      "tags": [
+        "Optimization"
+      ],
+      "value": 141.61738634109497,
+      "description": "评估 Triton 算子及其 PyTorch 集成性能的基准集。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/tritonbench",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/tritonbench/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "90321822",
+      "name": "audio",
+      "repo": "pytorch/audio",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/audio",
+      "category": "Audio",
+      "tags": [
+        "Audio"
+      ],
+      "value": 126.15572881698608,
+      "description": "面向 PyTorch 的音频、信号处理与相关模型工具库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/audio",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/audio/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": [
+        {
+          "category": "Modeling",
+          "subcategory": "Specialized",
+          "repo_url": "https://github.com/pytorch/audio",
+          "match": "exact",
+          "source": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml"
+        }
+      ]
+    },
+    {
+      "id": "69709572",
+      "name": "tutorials",
+      "repo": "pytorch/tutorials",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/tutorials",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 108.41081809997559,
+      "description": "PyTorch 使用教程与教学示例文档。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/tutorials",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/tutorials/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1067949357",
+      "name": "OpenEnv",
+      "repo": "meta-pytorch/OpenEnv",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/OpenEnv",
+      "category": "Reinforcement Learning",
+      "tags": [
+        "Reinforcement Learning"
+      ],
+      "value": 105.81062507629395,
+      "description": "创建与部署隔离智能体强化学习环境的框架。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/OpenEnv",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/OpenEnv/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1007924995",
+      "name": "torchforge",
+      "repo": "meta-pytorch/torchforge",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/torchforge",
+      "category": "Reinforcement Learning",
+      "tags": [
+        "Reinforcement Learning"
+      ],
+      "value": 81.80921590328217,
+      "description": "把智能体强化学习算法与执行基础设施分离的库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/torchforge",
+      "note": "当前 README 说明开发暂停，训练工作向 torchtitan 整合；保留历史样本。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/torchforge/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "142940093",
+      "name": "botorch",
+      "repo": "meta-pytorch/botorch",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/botorch",
+      "category": "Optimization",
+      "tags": [
+        "Optimization"
+      ],
+      "value": 73.71020555496216,
+      "description": "基于 PyTorch 的贝叶斯优化库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/botorch",
+      "note": "优化目标是贝叶斯决策与搜索，与算子性能优化不同；共用现有宽类别。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/botorch/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": [
+        {
+          "category": "Training",
+          "subcategory": "Probabilistic & Optimization",
+          "repo_url": "https://github.com/pytorch/botorch",
+          "match": "historical-name-candidate",
+          "source": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml"
+        }
+      ]
+    },
+    {
+      "id": "707869465",
+      "name": "torchtune",
+      "repo": "meta-pytorch/torchtune",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/torchtune",
+      "category": "Training",
+      "tags": [
+        "Training"
+      ],
+      "value": 71.6952303647995,
+      "description": "面向大语言模型微调的 PyTorch 原生训练库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/torchtune",
+      "note": "当前 README 说明已停止活跃维护；历史样本保留。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/torchtune/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "554065369",
+      "name": "tensordict",
+      "repo": "pytorch/tensordict",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/tensordict",
+      "category": "Optimization",
+      "tags": [
+        "Optimization"
+      ],
+      "value": 66.75226891040802,
+      "description": "支持批量操作与设备迁移的张量字典数据结构。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。 主分组沿用上游分类；Optimizations 仅规范为现有单数 Optimization。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/tensordict/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": [
+        {
+          "category": "Optimizations",
+          "subcategory": "General",
+          "repo_url": "https://github.com/pytorch/tensordict",
+          "match": "exact",
+          "source": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml"
+        }
+      ]
+    },
+    {
+      "id": "111835796",
+      "name": "ignite",
+      "repo": "pytorch/ignite",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/ignite",
+      "category": "Training",
+      "tags": [
+        "Training"
+      ],
+      "value": 66.73182129859924,
+      "description": "简化神经网络训练与评估的高层工具库。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。 主分组沿用上游分类。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/ignite/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": [
+        {
+          "category": "Training",
+          "subcategory": "General",
+          "repo_url": "https://github.com/pytorch/ignite",
+          "match": "exact",
+          "source": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml"
+        }
+      ]
+    },
+    {
+      "id": "364344493",
+      "name": "torchx",
+      "repo": "meta-pytorch/torchx",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/torchx",
+      "category": "MLOps",
+      "tags": [
+        "MLOps"
+      ],
+      "value": 59.579325437545776,
+      "description": "支持 Kubernetes、Slurm 等后端的机器学习作业启动器。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/torchx",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/torchx/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "280276446",
+      "name": "kineto",
+      "repo": "pytorch/kineto",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/kineto",
+      "category": "Optimization",
+      "tags": [
+        "Optimization"
+      ],
+      "value": 52.37333822250366,
+      "description": "提供模型性能观测、GPU 跟踪与诊断的分析库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/kineto",
+      "note": "当前 README 说明 2026-09-24 起冻结独立仓库开发，组件正并入 PyTorch。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/kineto/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "654341155",
+      "name": "ci-infra",
+      "repo": "pytorch/ci-infra",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/ci-infra",
+      "category": "Core Infrastructure",
+      "tags": [
+        "Core Infrastructure"
+      ],
+      "value": 48.42842525243759,
+      "description": "管理 PyTorch 云端 CI runner 与弹性资源的配置。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/ci-infra",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/ci-infra/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "996145316",
+      "name": "autoparallel",
+      "repo": "meta-pytorch/autoparallel",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/autoparallel",
+      "category": "Distributed Training",
+      "tags": [
+        "Distributed Training"
+      ],
+      "value": 46.2748544216156,
+      "description": "自动选择模型切分与并行策略的训练实验库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/autoparallel",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/autoparallel/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "204734444",
+      "name": "captum",
+      "repo": "meta-pytorch/captum",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/captum",
+      "category": "MLOps",
+      "tags": [
+        "MLOps"
+      ],
+      "value": 43.52848160266876,
+      "description": "解释 PyTorch 模型预测与输入归因的可解释性工具库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/captum",
+      "note": "现有类别无“可解释性”，本页按模型诊断环节暂归 MLOps；上游分类为 Modeling / Adversarial & Robustness。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/captum/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": [
+        {
+          "category": "Modeling",
+          "subcategory": "Adversarial & Robustness",
+          "repo_url": "https://github.com/pytorch/captum",
+          "match": "historical-name-candidate",
+          "source": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml"
+        }
+      ]
+    },
+    {
+      "id": "967628057",
+      "name": "torch-release-notes",
+      "repo": "meta-pytorch/torch-release-notes",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/torch-release-notes",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 42.6898113489151,
+      "description": "协作编写 PyTorch 版本发布说明的资料仓库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/torch-release-notes",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/torch-release-notes/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "132067444",
+      "name": "tutorials-kr",
+      "repo": "PyTorchKorea/tutorials-kr",
+      "owner": "PyTorchKorea",
+      "url": "https://github.com/PyTorchKorea/tutorials-kr",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 41.430887937545776,
+      "description": "PyTorch 教程的韩语社区翻译。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/PyTorchKorea/tutorials-kr",
+      "note": "社区翻译项目；不代表 PyTorch 基金会托管认证。",
+      "evidenceUrl": "https://raw.githubusercontent.com/PyTorchKorea/tutorials-kr/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "275254872",
+      "name": "pytorch-integration-testing",
+      "repo": "pytorch/pytorch-integration-testing",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/pytorch-integration-testing",
+      "category": "Core Infrastructure",
+      "tags": [
+        "Core Infrastructure"
+      ],
+      "value": 39.12939992547035,
+      "description": "验证候选 PyTorch 版本与下游库兼容性的集成测试。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/pytorch-integration-testing",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/pytorch-integration-testing/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1089121470",
+      "name": "MSLK",
+      "repo": "meta-pytorch/MSLK",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/MSLK",
+      "category": "Optimization",
+      "tags": [
+        "Optimization"
+      ],
+      "value": 38.97890496253967,
+      "description": "面向生成式 AI 训练与推理的高性能内核和优化集合。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/MSLK",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/MSLK/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "366851479",
+      "name": "data",
+      "repo": "meta-pytorch/data",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/data",
+      "category": "Data",
+      "tags": [
+        "Data"
+      ],
+      "value": 37.609466314315796,
+      "description": "增强 PyTorch DataLoader 可扩展性与状态恢复的数据加载库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/data",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/data/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": [
+        {
+          "category": "Training",
+          "subcategory": "General",
+          "repo_url": "https://github.com/pytorch/data",
+          "match": "historical-name-candidate",
+          "source": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml"
+        }
+      ]
+    },
+    {
+      "id": "975745458",
+      "name": "tritonparse",
+      "repo": "meta-pytorch/tritonparse",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/tritonparse",
+      "category": "Compilers & Runtimes",
+      "tags": [
+        "Compilers & Runtimes"
+      ],
+      "value": 32.78294837474823,
+      "description": "分析与可视化 Triton 内核编译、启动过程的工具。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/tritonparse",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/tritonparse/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "226441159",
+      "name": "opacus",
+      "repo": "meta-pytorch/opacus",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/opacus",
+      "category": "Privacy",
+      "tags": [
+        "Privacy"
+      ],
+      "value": 32.38718926906586,
+      "description": "为 PyTorch 模型训练提供差分隐私能力的工具库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/opacus",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/opacus/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": [
+        {
+          "category": "Training",
+          "subcategory": "Privacy",
+          "repo_url": "https://github.com/pytorch/opacus",
+          "match": "historical-name-candidate",
+          "source": "https://github.com/pytorch-fdn/landscape/blob/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml"
+        }
+      ]
+    },
+    {
+      "id": "945011080",
+      "name": "ambassador-program",
+      "repo": "pytorch-fdn/ambassador-program",
+      "owner": "pytorch-fdn",
+      "url": "https://github.com/pytorch-fdn/ambassador-program",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 32.356372475624084,
+      "description": "PyTorch 基金会社区大使计划的资料与协作入口。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch-fdn/ambassador-program",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch-fdn/ambassador-program/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1008020523",
+      "name": "BackendBench",
+      "repo": "meta-pytorch/BackendBench",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/BackendBench",
+      "category": "Optimization",
+      "tags": [
+        "Optimization"
+      ],
+      "value": 30.98969602584839,
+      "description": "评估 PyTorch 自定义后端与内核正确性、性能的套件。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/BackendBench",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/BackendBench/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "83772175",
+      "name": "cpuinfo",
+      "repo": "pytorch/cpuinfo",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/cpuinfo",
+      "category": "Core Infrastructure",
+      "tags": [
+        "Core Infrastructure"
+      ],
+      "value": 30.82021263241768,
+      "description": "识别 CPU 架构、指令集与硬件能力的基础库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/cpuinfo",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/cpuinfo/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "875026091",
+      "name": "torchft",
+      "repo": "meta-pytorch/torchft",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/torchft",
+      "category": "Distributed Training",
+      "tags": [
+        "Distributed Training"
+      ],
+      "value": 28.211285710334778,
+      "description": "提供逐步容错与故障恢复能力的分布式训练组件。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/torchft",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/torchft/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "936893692",
+      "name": "executorch-examples",
+      "repo": "meta-pytorch/executorch-examples",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/executorch-examples",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 26.125432521104813,
+      "description": "使用 ExecuTorch 的应用示例和演示。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/executorch-examples",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/executorch-examples/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1012632396",
+      "name": "torchstore",
+      "repo": "meta-pytorch/torchstore",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/torchstore",
+      "category": "Distributed Training",
+      "tags": [
+        "Distributed Training"
+      ],
+      "value": 26.08011817932129,
+      "description": "面向分布式进程的异步张量与模型权重存储。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/torchstore",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/torchstore/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1017609284",
+      "name": "KernelAgent",
+      "repo": "meta-pytorch/KernelAgent",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/KernelAgent",
+      "category": "Optimization",
+      "tags": [
+        "Optimization"
+      ],
+      "value": 24.37092661857605,
+      "description": "生成、验证并优化 Triton GPU 内核的工具。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/KernelAgent",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/KernelAgent/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "924911593",
+      "name": "landscape",
+      "repo": "pytorch-fdn/landscape",
+      "owner": "pytorch-fdn",
+      "url": "https://github.com/pytorch-fdn/landscape",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 22.82970952987671,
+      "description": "PyTorch 生态全景的分类数据与图形资源。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch-fdn/landscape",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch-fdn/landscape/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "745656245",
+      "name": "docs",
+      "repo": "pytorch/docs",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/docs",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 19.44698667526245,
+      "description": "自动生成的 PyTorch 文档网站内容。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/docs",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/docs/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "66424871",
+      "name": "examples",
+      "repo": "pytorch/examples",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/examples",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 18.84848827123642,
+      "description": "便于学习和复用的 PyTorch 应用示例。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/examples",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/examples/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "836426852",
+      "name": "attention-gym",
+      "repo": "meta-pytorch/attention-gym",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/attention-gym",
+      "category": "Optimization",
+      "tags": [
+        "Optimization"
+      ],
+      "value": 17.234917402267456,
+      "description": "FlexAttention 与新型注意力内核、示例及实验集合。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/attention-gym",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/attention-gym/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "924813662",
+      "name": "ecosystem",
+      "repo": "pytorch-fdn/ecosystem",
+      "owner": "pytorch-fdn",
+      "url": "https://github.com/pytorch-fdn/ecosystem",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 16.95383644104004,
+      "description": "PyTorch 生态项目申请、评审与流程资料。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch-fdn/ecosystem",
+      "note": "生态项目身份不等于 Foundation-Hosted 托管身份。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch-fdn/ecosystem/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "80786957",
+      "name": "gloo",
+      "repo": "pytorch/gloo",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/gloo",
+      "category": "Distributed Training",
+      "tags": [
+        "Distributed Training"
+      ],
+      "value": 16.414593875408173,
+      "description": "支持多机训练的集合通信原语库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/gloo",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/gloo/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "76109394",
+      "name": "tnt",
+      "repo": "meta-pytorch/tnt",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/tnt",
+      "category": "Training",
+      "tags": [
+        "Training"
+      ],
+      "value": 16.173600673675537,
+      "description": "PyTorch 训练循环工具与通用训练组件。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/tnt",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/tnt/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "755788099",
+      "name": "tlparse",
+      "repo": "meta-pytorch/tlparse",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/tlparse",
+      "category": "Compilers & Runtimes",
+      "tags": [
+        "Compilers & Runtimes"
+      ],
+      "value": 15.46334719657898,
+      "description": "解析 PyTorch 编译跟踪日志并生成分析页面的工具。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/tlparse",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/tlparse/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "631039625",
+      "name": "pytc-client",
+      "repo": "PytorchConnectomics/pytc-client",
+      "owner": "PytorchConnectomics",
+      "url": "https://github.com/PytorchConnectomics/pytc-client",
+      "category": "Domain Applications",
+      "tags": [
+        "Domain Applications"
+      ],
+      "value": 13.840507924556732,
+      "description": "连接 PyTorch Connectomics 工作流的桌面客户端。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/PytorchConnectomics/pytc-client",
+      "note": "独立领域社区项目；不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/PytorchConnectomics/pytc-client/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1001182816",
+      "name": "kraken",
+      "repo": "pytorch-labs/kraken",
+      "owner": "pytorch-labs",
+      "url": "https://github.com/pytorch-labs/kraken",
+      "category": "Distributed Training",
+      "tags": [
+        "Distributed Training"
+      ],
+      "value": 12.574747920036316,
+      "description": "面向对称内存与内核通信的 Triton 算子示例集。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch-labs/kraken",
+      "note": "README 定位为示例与实验材料，不应描述成成熟独立框架。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch-labs/kraken/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "178031166",
+      "name": "pytorch_connectomics",
+      "repo": "PytorchConnectomics/pytorch_connectomics",
+      "owner": "PytorchConnectomics",
+      "url": "https://github.com/PytorchConnectomics/pytorch_connectomics",
+      "category": "Domain Applications",
+      "tags": [
+        "Domain Applications"
+      ],
+      "value": 12.512736797332764,
+      "description": "用于二维、三维神经连接组图像分割的深度学习工具。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/PytorchConnectomics/pytorch_connectomics",
+      "note": "独立科研社区项目；不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/PytorchConnectomics/pytorch_connectomics/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "149312823",
+      "name": "pytorch_sphinx_theme",
+      "repo": "pytorch/pytorch_sphinx_theme",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/pytorch_sphinx_theme",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 12.139028400182724,
+      "description": "用于 PyTorch 文档与教程的 Sphinx 主题。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/pytorch_sphinx_theme",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/pytorch_sphinx_theme/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "92541759",
+      "name": "benchmark",
+      "repo": "pytorch/benchmark",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/benchmark",
+      "category": "Optimization",
+      "tags": [
+        "Optimization"
+      ],
+      "value": 12.062531888484955,
+      "description": "用于评估 PyTorch 性能的模型工作负载基准集。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/benchmark",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/benchmark/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "85707614",
+      "name": "pytorch.github.io",
+      "repo": "pytorch/pytorch.github.io",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/pytorch.github.io",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 11.528226017951965,
+      "description": "PyTorch 网站相关静态资源与历史站点内容。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/pytorch.github.io",
+      "note": "当前 README 提示该仓库已不是主站内容的权威来源。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/pytorch.github.io/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "892924584",
+      "name": "tokenizers",
+      "repo": "meta-pytorch/tokenizers",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/tokenizers",
+      "category": "Data",
+      "tags": [
+        "Data"
+      ],
+      "value": 11.21675655245781,
+      "description": "供模型运行栈使用的多种 C++ 分词器实现。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/tokenizers",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/tokenizers/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "321584367",
+      "name": "pytorch_tabular",
+      "repo": "pytorch-tabular/pytorch_tabular",
+      "owner": "pytorch-tabular",
+      "url": "https://github.com/pytorch-tabular/pytorch_tabular",
+      "category": "Domain Applications",
+      "tags": [
+        "Domain Applications"
+      ],
+      "value": 8.888658463954926,
+      "description": "为表格数据深度学习提供统一训练接口的工具库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch-tabular/pytorch_tabular",
+      "note": "独立社区项目；不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch-tabular/pytorch_tabular/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "927931245",
+      "name": "tac",
+      "repo": "pytorch-fdn/tac",
+      "owner": "pytorch-fdn",
+      "url": "https://github.com/pytorch-fdn/tac",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 7.54413378238678,
+      "description": "PyTorch 基金会技术咨询委员会的会议与治理资料。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch-fdn/tac",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch-fdn/tac/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "235820880",
+      "name": "rfcs",
+      "repo": "pytorch/rfcs",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/rfcs",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 6.223469510674477,
+      "description": "PyTorch 功能设计提案与意见征集流程。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/rfcs",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/rfcs/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "739159772",
+      "name": "FACTO",
+      "repo": "meta-pytorch/FACTO",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/FACTO",
+      "category": "Core Infrastructure",
+      "tags": [
+        "Core Infrastructure"
+      ],
+      "value": 5.844585180282593,
+      "description": "为张量算子生成输入并验证正确性的测试框架。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/FACTO",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/FACTO/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "367560207",
+      "name": "pytorch.kr",
+      "repo": "PyTorchKorea/pytorch.kr",
+      "owner": "PyTorchKorea",
+      "url": "https://github.com/PyTorchKorea/pytorch.kr",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 5.795102953910828,
+      "description": "韩国 PyTorch 用户社区网站。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/PyTorchKorea/pytorch.kr",
+      "note": "社区站点；不代表基金会托管项目。",
+      "evidenceUrl": "https://raw.githubusercontent.com/PyTorchKorea/pytorch.kr/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1169692518",
+      "name": "oss-landscape",
+      "repo": "PyTorchKorea/oss-landscape",
+      "owner": "PyTorchKorea",
+      "url": "https://github.com/PyTorchKorea/oss-landscape",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 5.386415660381317,
+      "description": "韩国社区维护的交互式开源 AI 项目全景。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/PyTorchKorea/oss-landscape",
+      "note": "社区分类资料；不代表基金会官方技术分类。",
+      "evidenceUrl": "https://raw.githubusercontent.com/PyTorchKorea/oss-landscape/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "379711067",
+      "name": "expecttest",
+      "repo": "pytorch/expecttest",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/expecttest",
+      "category": "Core Infrastructure",
+      "tags": [
+        "Core Infrastructure"
+      ],
+      "value": 4.959502696990967,
+      "description": "记录与更新预期输出的快照式测试库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/expecttest",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/expecttest/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1053556746",
+      "name": "alerting-infra",
+      "repo": "pytorch/alerting-infra",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/alerting-infra",
+      "category": "Core Infrastructure",
+      "tags": [
+        "Core Infrastructure"
+      ],
+      "value": 4.787884384393692,
+      "description": "归一化测试基础设施告警并协调问题跟踪的系统。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/alerting-infra",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/alerting-infra/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1208515536",
+      "name": "Awesome-Physical-AI",
+      "repo": "PyTorchKorea/Awesome-Physical-AI",
+      "owner": "PyTorchKorea",
+      "url": "https://github.com/PyTorchKorea/Awesome-Physical-AI",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 4.757149338722229,
+      "description": "物理 AI 模型、数据集与仿真器的社区资源清单。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/PyTorchKorea/Awesome-Physical-AI",
+      "note": "资源整理仓库，不是机器人模型或执行框架。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/PyTorchKorea/Awesome-Physical-AI/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "957987162",
+      "name": "accelerator-integration-wg",
+      "repo": "pytorch-fdn/accelerator-integration-wg",
+      "owner": "pytorch-fdn",
+      "url": "https://github.com/pytorch-fdn/accelerator-integration-wg",
+      "category": "Core Infrastructure",
+      "tags": [
+        "Core Infrastructure"
+      ],
+      "value": 4.410470604896545,
+      "description": "促进不同 AI 加速器接入 PyTorch 的工作组与技术资料。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch-fdn/accelerator-integration-wg",
+      "note": "工作组协作仓库；不是加速器硬件产品。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch-fdn/accelerator-integration-wg/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "996268889",
+      "name": "compile-graph-break-site",
+      "repo": "meta-pytorch/compile-graph-break-site",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/compile-graph-break-site",
+      "category": "Compilers & Runtimes",
+      "tags": [
+        "Compilers & Runtimes"
+      ],
+      "value": 4.190447226166725,
+      "description": "汇集 PyTorch Dynamo 图中断原因的诊断资料站。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/compile-graph-break-site",
+      "note": "编译诊断配套资料，不是独立编译器。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/compile-graph-break-site/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "964777452",
+      "name": "chakra_replay",
+      "repo": "meta-pytorch/chakra_replay",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/chakra_replay",
+      "category": "Optimization",
+      "tags": [
+        "Optimization"
+      ],
+      "value": 4.099476248025894,
+      "description": "重放 Chakra 执行轨迹以分析模型运行性能的工具。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/chakra_replay",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/chakra_replay/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1032112310",
+      "name": "meta-pytorch.github.io",
+      "repo": "meta-pytorch/meta-pytorch.github.io",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/meta-pytorch.github.io",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 4.058439329266548,
+      "description": "Meta PyTorch 项目的索引、文档检索与展示站点。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/meta-pytorch.github.io",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/meta-pytorch.github.io/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1025011982",
+      "name": "monitoring-observability",
+      "repo": "pytorch-fdn/monitoring-observability",
+      "owner": "pytorch-fdn",
+      "url": "https://github.com/pytorch-fdn/monitoring-observability",
+      "category": "Core Infrastructure",
+      "tags": [
+        "Core Infrastructure"
+      ],
+      "value": 3.774438500404358,
+      "description": "基金会监控与可观测性基础设施的 Terraform 配置。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch-fdn/monitoring-observability",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch-fdn/monitoring-observability/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "966340105",
+      "name": "foundation-hosted",
+      "repo": "pytorch-fdn/foundation-hosted",
+      "owner": "pytorch-fdn",
+      "url": "https://github.com/pytorch-fdn/foundation-hosted",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 3.41646084189415,
+      "description": "基金会托管项目的申请要求与治理流程资料。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch-fdn/foundation-hosted",
+      "note": "这是托管项目申请流程仓库，不证明本图其他项目均已获托管身份。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch-fdn/foundation-hosted/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1121826041",
+      "name": "monarch-kubernetes",
+      "repo": "meta-pytorch/monarch-kubernetes",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/monarch-kubernetes",
+      "category": "MLOps",
+      "tags": [
+        "MLOps"
+      ],
+      "value": 2.746955305337906,
+      "description": "部署和管理 Monarch 工作负载的 Kubernetes operator。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/monarch-kubernetes",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/monarch-kubernetes/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "123683042",
+      "name": "extension-cpp",
+      "repo": "pytorch/extension-cpp",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/extension-cpp",
+      "category": "Core Infrastructure",
+      "tags": [
+        "Core Infrastructure"
+      ],
+      "value": 2.7069180458784103,
+      "description": "展示 C++/CUDA 自定义算子及扩展接口的代码示例。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/extension-cpp",
+      "note": "以底层扩展接口归类；不是独立运行时。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/extension-cpp/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "848421799",
+      "name": "VesiclePy",
+      "repo": "PytorchConnectomics/VesiclePy",
+      "owner": "PytorchConnectomics",
+      "url": "https://github.com/PytorchConnectomics/VesiclePy",
+      "category": "Domain Applications",
+      "tags": [
+        "Domain Applications"
+      ],
+      "value": 2.463327407836914,
+      "description": "面向体积电镜数据的囊泡分割、分类与分析工具。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/PytorchConnectomics/VesiclePy",
+      "note": "独立科研社区项目；不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/PytorchConnectomics/VesiclePy/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "476114421",
+      "name": "SynAnno",
+      "repo": "PytorchConnectomics/SynAnno",
+      "owner": "PytorchConnectomics",
+      "url": "https://github.com/PytorchConnectomics/SynAnno",
+      "category": "Domain Applications",
+      "tags": [
+        "Domain Applications"
+      ],
+      "value": 2.3636574745178223,
+      "description": "交互式校对与修正电镜突触标注的工具。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/PytorchConnectomics/SynAnno",
+      "note": "独立科研社区项目；不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/PytorchConnectomics/SynAnno/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "481276814",
+      "name": "pytorch-lifestream",
+      "repo": "pytorch-lifestream/pytorch-lifestream",
+      "owner": "pytorch-lifestream",
+      "url": "https://github.com/pytorch-lifestream/pytorch-lifestream",
+      "category": "Domain Applications",
+      "tags": [
+        "Domain Applications"
+      ],
+      "value": 2.3568477630615234,
+      "description": "对离散事件序列进行自监督表示学习的工具库。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch-lifestream/pytorch-lifestream",
+      "note": "独立社区项目；不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch-lifestream/pytorch-lifestream/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "954675296",
+      "name": "multicloud-ci-infra",
+      "repo": "pytorch-fdn/multicloud-ci-infra",
+      "owner": "pytorch-fdn",
+      "url": "https://github.com/pytorch-fdn/multicloud-ci-infra",
+      "category": "Core Infrastructure",
+      "tags": [
+        "Core Infrastructure"
+      ],
+      "value": 2.1562508940696716,
+      "description": "推动多云持续集成资源共享的工作组资料。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch-fdn/multicloud-ci-infra",
+      "note": "工作组与基础设施规划，不是云平台产品。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch-fdn/multicloud-ci-infra/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "495989743",
+      "name": "torcheval",
+      "repo": "pytorch/torcheval",
+      "owner": "pytorch",
+      "url": "https://github.com/pytorch/torcheval",
+      "category": "Training",
+      "tags": [
+        "Training"
+      ],
+      "value": 1.9872284531593323,
+      "description": "模型指标计算、分布式指标聚合与评估工具。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch/torcheval",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch/torcheval/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1216098476",
+      "name": "wg-ospo-and-academic-outreach",
+      "repo": "pytorch-fdn/wg-ospo-and-academic-outreach",
+      "owner": "pytorch-fdn",
+      "url": "https://github.com/pytorch-fdn/wg-ospo-and-academic-outreach",
+      "category": "Documentation & Community",
+      "tags": [
+        "Documentation & Community"
+      ],
+      "value": 1.1862351894378662,
+      "description": "基金会 OSPO 与学术开源推广工作组资料。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/pytorch-fdn/wg-ospo-and-academic-outreach",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/pytorch-fdn/wg-ospo-and-academic-outreach/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1025688620",
+      "name": "AccelKernels",
+      "repo": "meta-pytorch/AccelKernels",
+      "owner": "meta-pytorch",
+      "url": "https://github.com/meta-pytorch/AccelKernels",
+      "category": "Optimization",
+      "tags": [
+        "Optimization"
+      ],
+      "value": 1.0516566038131714,
+      "description": "以 Triton 等 DSL 编写的实验性加速器内核集合。",
+      "classification": "编辑归类 · 可共同修订",
+      "classificationSource": "https://github.com/meta-pytorch/AccelKernels",
+      "note": "依据项目一手说明按功能归类。 功能分组不代表基金会托管关系。",
+      "evidenceUrl": "https://raw.githubusercontent.com/meta-pytorch/AccelKernels/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1026975679",
+      "name": "client",
+      "repo": "PytorchForge/client",
+      "owner": "PytorchForge",
+      "url": "https://github.com/PytorchForge/client",
+      "category": "pending",
+      "tags": [
+        "pending"
+      ],
+      "value": 1.0397160053253174,
+      "description": "配置并管理机器学习任务的跨平台桌面客户端。",
+      "classification": "分类待核",
+      "classificationSource": "https://github.com/PytorchForge/client",
+      "note": "README 可确认其为机器学习工作流客户端，但未提供明确 PyTorch 集成或基金会关系证据。未按组织名称推断生态归属，暂列待核验；与 meta-pytorch/torchforge 不是同一项目。",
+      "evidenceUrl": "https://raw.githubusercontent.com/PytorchForge/client/HEAD/README.md",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "Training",
+      "name": "训练",
+      "description": "核心训练框架与训练过程。",
+      "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/d43b14a3850fffa6589b2ebe64bc257a0734ad6a/data/processed/chapter4/fig-4-6-3_pytorch_subfield_5y.csv",
+      "count": 5
+    },
+    {
+      "id": "Compilers & Runtimes",
+      "name": "编译器与运行时",
+      "description": "编译、运行时与部署执行。",
+      "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/d43b14a3850fffa6589b2ebe64bc257a0734ad6a/data/processed/chapter4/fig-4-6-3_pytorch_subfield_5y.csv",
+      "count": 7
+    },
+    {
+      "id": "Distributed Training",
+      "name": "分布式训练",
+      "description": "规模化训练、通信和分布式执行。",
+      "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/d43b14a3850fffa6589b2ebe64bc257a0734ad6a/data/processed/chapter4/fig-4-6-3_pytorch_subfield_5y.csv",
+      "count": 8
+    },
+    {
+      "id": "Optimization",
+      "name": "优化",
+      "description": "模型和执行效率优化。",
+      "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/d43b14a3850fffa6589b2ebe64bc257a0734ad6a/data/processed/chapter4/fig-4-6-3_pytorch_subfield_5y.csv",
+      "count": 13
+    },
+    {
+      "id": "MLOps",
+      "name": "MLOps",
+      "description": "训练和部署的工程管理。",
+      "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/d43b14a3850fffa6589b2ebe64bc257a0734ad6a/data/processed/chapter4/fig-4-6-3_pytorch_subfield_5y.csv",
+      "count": 3
+    },
+    {
+      "id": "Computer Vision",
+      "name": "计算机视觉",
+      "description": "视觉模型与图像任务。",
+      "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/d43b14a3850fffa6589b2ebe64bc257a0734ad6a/data/processed/chapter4/fig-4-6-3_pytorch_subfield_5y.csv",
+      "count": 1
+    },
+    {
+      "id": "Reinforcement Learning",
+      "name": "强化学习",
+      "description": "策略学习与交互环境。",
+      "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/d43b14a3850fffa6589b2ebe64bc257a0734ad6a/data/processed/chapter4/fig-4-6-3_pytorch_subfield_5y.csv",
+      "count": 3
+    },
+    {
+      "id": "Documentation & Community",
+      "name": "文档与社区",
+      "description": "文档、教程与社区协作。",
+      "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/d43b14a3850fffa6589b2ebe64bc257a0734ad6a/data/processed/chapter4/fig-4-6-3_pytorch_subfield_5y.csv",
+      "count": 19
+    },
+    {
+      "id": "Data",
+      "name": "数据",
+      "description": "数据处理与组织。",
+      "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/d43b14a3850fffa6589b2ebe64bc257a0734ad6a/data/processed/chapter4/fig-4-6-3_pytorch_subfield_5y.csv",
+      "count": 3
+    },
+    {
+      "id": "Audio",
+      "name": "音频",
+      "description": "音频和语音任务。",
+      "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/d43b14a3850fffa6589b2ebe64bc257a0734ad6a/data/processed/chapter4/fig-4-6-3_pytorch_subfield_5y.csv",
+      "count": 1
+    },
+    {
+      "id": "Core Infrastructure",
+      "name": "核心基础设施",
+      "description": "测试、构建与核心工程基础设施。",
+      "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/d43b14a3850fffa6589b2ebe64bc257a0734ad6a/data/processed/chapter4/fig-4-6-3_pytorch_subfield_5y.csv",
+      "count": 11
+    },
+    {
+      "id": "Domain Applications",
+      "name": "领域应用",
+      "description": "面向具体领域的应用。",
+      "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/d43b14a3850fffa6589b2ebe64bc257a0734ad6a/data/processed/chapter4/fig-4-6-3_pytorch_subfield_5y.csv",
+      "count": 7
+    },
+    {
+      "id": "Privacy",
+      "name": "隐私",
+      "description": "隐私保护相关技术。",
+      "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/d43b14a3850fffa6589b2ebe64bc257a0734ad6a/data/processed/chapter4/fig-4-6-3_pytorch_subfield_5y.csv",
+      "count": 1
+    },
+    {
+      "id": "pending",
+      "name": "分类与样本待核",
+      "description": "分类证据或样本边界需要进一步核实，不并入确定类别。",
+      "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/d43b14a3850fffa6589b2ebe64bc257a0734ad6a/data/processed/chapter4/fig-4-6-1_pytorch_landscape.csv",
+      "count": 1
+    }
+  ],
+  "count": 83,
+  "categoryCount": 13
+}

@@ -1,0 +1,160 @@
+{
+  "version": "v0.1",
+  "date": "2026-11-10",
+  "pages": 26,
+  "body_pages": 22,
+  "appendix_pages": 4,
+  "figures": 20,
+  "all_a4_portrait": true,
+  "all_fonts_embedded": true,
+  "font_count": 68,
+  "figure_checks": [
+    {
+      "figure": "3-1",
+      "source_page": 1,
+      "chapter_page": 2,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.2397
+    },
+    {
+      "figure": "3-2",
+      "source_page": 2,
+      "chapter_page": 3,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.0685
+    },
+    {
+      "figure": "3-3",
+      "source_page": 3,
+      "chapter_page": 4,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.2428
+    },
+    {
+      "figure": "3-4",
+      "source_page": 1,
+      "chapter_page": 5,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.1923
+    },
+    {
+      "figure": "3-5",
+      "source_page": 2,
+      "chapter_page": 6,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.1465
+    },
+    {
+      "figure": "3-6",
+      "source_page": 3,
+      "chapter_page": 7,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.1112
+    },
+    {
+      "figure": "3-7",
+      "source_page": 4,
+      "chapter_page": 8,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.2758
+    },
+    {
+      "figure": "3-8",
+      "source_page": 1,
+      "chapter_page": 9,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.1158
+    },
+    {
+      "figure": "3-9",
+      "source_page": 2,
+      "chapter_page": 10,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.2123
+    },
+    {
+      "figure": "3-10",
+      "source_page": 3,
+      "chapter_page": 11,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.2516
+    },
+    {
+      "figure": "3-11",
+      "source_page": 1,
+      "chapter_page": 12,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.367
+    },
+    {
+      "figure": "3-12",
+      "source_page": 2,
+      "chapter_page": 13,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.2613
+    },
+    {
+      "figure": "3-13",
+      "source_page": 3,
+      "chapter_page": 14,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.1221
+    },
+    {
+      "figure": "3-14",
+      "source_page": 4,
+      "chapter_page": 15,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.1712
+    },
+    {
+      "figure": "3-15",
+      "source_page": 1,
+      "chapter_page": 16,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.3775
+    },
+    {
+      "figure": "3-16",
+      "source_page": 2,
+      "chapter_page": 17,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.242
+    },
+    {
+      "figure": "3-17",
+      "source_page": 3,
+      "chapter_page": 18,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.2691
+    },
+    {
+      "figure": "3-18",
+      "source_page": 1,
+      "chapter_page": 19,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.1954
+    },
+    {
+      "figure": "3-19",
+      "source_page": 2,
+      "chapter_page": 20,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.2303
+    },
+    {
+      "figure": "3-20",
+      "source_page": 3,
+      "chapter_page": 21,
+      "text_equal": true,
+      "mean_pixel_difference_0_255": 0.1926
+    }
+  ],
+  "analysis_text_overlaps": [],
+  "body_external_links": 0,
+  "contents_links": 6,
+  "appendix_links": 42,
+  "bookmarks": 33,
+  "sha256": "e68aca8bc54e5dc7e08db6456c5b2539fa13f9b24fb010e813022cdceebd14d3",
+  "visual_review": "26 pages rendered and inspected; final changed appendix pages reinspected"
+}

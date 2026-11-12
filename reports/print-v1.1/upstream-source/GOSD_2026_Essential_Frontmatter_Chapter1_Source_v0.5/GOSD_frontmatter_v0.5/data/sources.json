@@ -1,0 +1,43 @@
+{
+  "version": "0.5",
+  "baseline_pdf": "GOSD_2026_Essential_Frontmatter_Chapter1_Print_v0.4.pdf",
+  "constitution": {
+    "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/editions/insights/constitution.md",
+    "sha": "9cda7a8fc87113d293260ec913b033dc26731907",
+    "status": "2026-11-09 精要版宪法补充；本次已读取"
+  },
+  "cover": {
+    "reference": "用户本轮附件 image(20261110-224839).png",
+    "artwork": "原封面矢量版 approved-front-cover.pdf",
+    "logos": "用户提供的三家原始透明 PNG，保持比例与颜色"
+  },
+  "institution_original": {
+    "file": "全球开源发展报告-中文版-0123-单页版(1).pdf",
+    "version": "0",
+    "pages": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "role": "机构定位、发起方、使命愿景、五大范式、六大研究方向的主来源",
+    "preserved": "保留核心内容，收紧首创、百倍提升、全球引领等未经独立证据支持的表述"
+  },
+  "official_pages": [
+    {
+      "url": "https://singintelligence.com/about/",
+      "role": "交叉核对三位一体定位及使命",
+      "note": "当前网站采用三大范式表述；用户机构原稿扩展为五大范式，本版依照原稿保留五项，定稿前确认对外表述一致性"
+    },
+    {
+      "url": "https://singintelligence.com/report/",
+      "role": "核实 AISMM 白皮书已公开，以及研发全生命周期、人机协作、组织流程等内容"
+    }
+  ],
+  "editorial_diagrams": {
+    "I": "三位一体研究体系转为问题、证据、实践反馈关系",
+    "II": "五大范式以既有基础、扩展方向、研究重点并读；不宣称全面替代",
+    "III": "六个既有方向按相互联系重新分层，不作为机构正式组织架构或成熟度排序",
+    "IV": "基于机构服务对象与报告公共能力问题框架组织的实践路径，不是已完成项目业绩"
+  }
+}

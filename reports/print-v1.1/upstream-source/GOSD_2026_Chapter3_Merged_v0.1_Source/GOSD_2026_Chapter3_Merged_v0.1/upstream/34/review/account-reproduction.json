@@ -1,0 +1,80 @@
+{
+  "bot_label_count": 928,
+  "months": [
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+  ],
+  "summary": [
+    {
+      "repository": "pytorch/pytorch",
+      "annual_unique_logins": 369,
+      "bins": [
+        242,
+        68,
+        23,
+        36
+      ]
+    },
+    {
+      "repository": "vllm-project/vllm",
+      "annual_unique_logins": 514,
+      "bins": [
+        396,
+        71,
+        22,
+        25
+      ]
+    },
+    {
+      "repository": "sgl-project/sglang",
+      "annual_unique_logins": 507,
+      "bins": [
+        384,
+        74,
+        26,
+        23
+      ]
+    },
+    {
+      "repository": "langchain-ai/langchain",
+      "annual_unique_logins": 885,
+      "bins": [
+        862,
+        15,
+        2,
+        6
+      ]
+    },
+    {
+      "repository": "langgenius/dify",
+      "annual_unique_logins": 665,
+      "bins": [
+        594,
+        45,
+        17,
+        9
+      ]
+    },
+    {
+      "repository": "kubernetes/kubernetes",
+      "annual_unique_logins": 430,
+      "bins": [
+        307,
+        58,
+        35,
+        30
+      ]
+    }
+  ],
+  "all_six_summaries_and_15_pairs_match": true
+}

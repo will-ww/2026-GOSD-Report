@@ -1,0 +1,50 @@
+[
+  {
+    "id": "F1",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-3-1_global_foundation_openrank.csv"
+  },
+  {
+    "id": "F2",
+    "url": "https://github.com/X-lab2017/open-digger/tree/master/labeled_data/foundations"
+  },
+  {
+    "id": "F3",
+    "url": "https://duckdb.foundation/"
+  },
+  {
+    "id": "F4",
+    "url": "https://www.eclipse.org/org/foundation/annual-reports/2025/"
+  },
+  {
+    "id": "A1",
+    "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation"
+  },
+  {
+    "id": "A2",
+    "url": "https://aaif.io/blog/agentgateway-joins-aaif-as-an-open-gateway-for-agentic-ai-infrastructure"
+  },
+  {
+    "id": "A3",
+    "url": "https://aaif.io/news/agentic-ai-foundation-announces-four-new-projects"
+  },
+  {
+    "id": "A4",
+    "url": "https://aaif.io/projects"
+  },
+  {
+    "id": "A5",
+    "url": "https://github.com/aaif/technical-committee/blob/main/governance/project-lifecycle-policy.md"
+  },
+  {
+    "id": "A6",
+    "url": "https://www.linuxfoundation.org/press/agentic-ai-foundation-welcomes-the-gates-foundation-to-help-expand-the-benefits-of-agentic-ai-globally"
+  },
+  {
+    "id": "A7",
+    "url": "https://aaif.io/blog/a2a-joins-aaif"
+  },
+  {
+    "id": "A8",
+    "url": "https://aaif.io/blog/agent-router-joins-aaif"
+  }
+]

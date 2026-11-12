@@ -1,0 +1,96 @@
+{
+  "version": "v0.2",
+  "pages": 10,
+  "portrait_a4": true,
+  "embedded_fonts": true,
+  "indicators_preserved": 29,
+  "standard_numbers_preserved": 3,
+  "external_links": 0,
+  "source_list_and_dangling_markers_removed": true,
+  "table_alignment": "horizontal centering with vertically centered m columns, including tabularx X columns",
+  "body_outside_page": [],
+  "body_overlaps": [],
+  "pages_geometry": [
+    {
+      "page": 1,
+      "body_bottom_mm": 232.3
+    },
+    {
+      "page": 2,
+      "body_bottom_mm": 251.4
+    },
+    {
+      "page": 3,
+      "body_bottom_mm": 239.9
+    },
+    {
+      "page": 4,
+      "body_bottom_mm": 247.8
+    },
+    {
+      "page": 5,
+      "body_bottom_mm": 251.7
+    },
+    {
+      "page": 6,
+      "body_bottom_mm": 224.6
+    },
+    {
+      "page": 7,
+      "body_bottom_mm": 232.5
+    },
+    {
+      "page": 8,
+      "body_bottom_mm": 181.0
+    },
+    {
+      "page": 9,
+      "body_bottom_mm": 225.1
+    },
+    {
+      "page": 10,
+      "body_bottom_mm": 238.8
+    }
+  ],
+  "pdf_sha256": "bf93e5e2faddacc8d1f97820b2d450619c6e683fac4da53bc230f65478dec1a6",
+  "figure_geometry": [
+    {
+      "figure": "five-actions",
+      "out_of_bounds": [],
+      "overlaps": []
+    },
+    {
+      "figure": "participant-sets",
+      "out_of_bounds": [],
+      "overlaps": []
+    },
+    {
+      "figure": "openrank-matrix",
+      "out_of_bounds": [],
+      "overlaps": []
+    },
+    {
+      "figure": "time-windows",
+      "out_of_bounds": [],
+      "overlaps": []
+    },
+    {
+      "figure": "model-units",
+      "out_of_bounds": [],
+      "overlaps": []
+    }
+  ],
+  "visual_review": {
+    "all_pages_inspected": true,
+    "page_count": 10,
+    "checks": [
+      "表格水平与垂直居中",
+      "长短单元格混排",
+      "标题与图文间距",
+      "图件标注可读性",
+      "术语表末行无孤字",
+      "中英文致谢阅读顺序"
+    ],
+    "result": "pass"
+  }
+}

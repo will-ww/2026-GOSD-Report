@@ -1,0 +1,615 @@
+{
+	"meta":
+	[
+		{
+			"name": "repos",
+			"type": "UInt64"
+		},
+		{
+			"name": "months",
+			"type": "UInt64"
+		},
+		{
+			"name": "accounts",
+			"type": "UInt64"
+		}
+	],
+
+	"data":
+	[
+		{
+			"repos": "1",
+			"months": "1",
+			"accounts": "2577"
+		},
+		{
+			"repos": "1",
+			"months": "2",
+			"accounts": "350"
+		},
+		{
+			"repos": "1",
+			"months": "3",
+			"accounts": "151"
+		},
+		{
+			"repos": "1",
+			"months": "4",
+			"accounts": "77"
+		},
+		{
+			"repos": "1",
+			"months": "5",
+			"accounts": "89"
+		},
+		{
+			"repos": "1",
+			"months": "6",
+			"accounts": "135"
+		},
+		{
+			"repos": "1",
+			"months": "7",
+			"accounts": "17"
+		},
+		{
+			"repos": "1",
+			"months": "8",
+			"accounts": "10"
+		},
+		{
+			"repos": "1",
+			"months": "9",
+			"accounts": "4"
+		},
+		{
+			"repos": "1",
+			"months": "10",
+			"accounts": "4"
+		},
+		{
+			"repos": "2",
+			"months": "1",
+			"accounts": "188"
+		},
+		{
+			"repos": "2",
+			"months": "2",
+			"accounts": "193"
+		},
+		{
+			"repos": "2",
+			"months": "3",
+			"accounts": "144"
+		},
+		{
+			"repos": "2",
+			"months": "4",
+			"accounts": "98"
+		},
+		{
+			"repos": "2",
+			"months": "5",
+			"accounts": "96"
+		},
+		{
+			"repos": "2",
+			"months": "6",
+			"accounts": "126"
+		},
+		{
+			"repos": "2",
+			"months": "7",
+			"accounts": "23"
+		},
+		{
+			"repos": "2",
+			"months": "8",
+			"accounts": "20"
+		},
+		{
+			"repos": "2",
+			"months": "9",
+			"accounts": "15"
+		},
+		{
+			"repos": "2",
+			"months": "10",
+			"accounts": "7"
+		},
+		{
+			"repos": "3",
+			"months": "1",
+			"accounts": "30"
+		},
+		{
+			"repos": "3",
+			"months": "2",
+			"accounts": "39"
+		},
+		{
+			"repos": "3",
+			"months": "3",
+			"accounts": "58"
+		},
+		{
+			"repos": "3",
+			"months": "4",
+			"accounts": "35"
+		},
+		{
+			"repos": "3",
+			"months": "5",
+			"accounts": "57"
+		},
+		{
+			"repos": "3",
+			"months": "6",
+			"accounts": "120"
+		},
+		{
+			"repos": "3",
+			"months": "7",
+			"accounts": "22"
+		},
+		{
+			"repos": "3",
+			"months": "8",
+			"accounts": "18"
+		},
+		{
+			"repos": "3",
+			"months": "9",
+			"accounts": "17"
+		},
+		{
+			"repos": "3",
+			"months": "10",
+			"accounts": "7"
+		},
+		{
+			"repos": "4",
+			"months": "1",
+			"accounts": "10"
+		},
+		{
+			"repos": "4",
+			"months": "2",
+			"accounts": "10"
+		},
+		{
+			"repos": "4",
+			"months": "3",
+			"accounts": "22"
+		},
+		{
+			"repos": "4",
+			"months": "4",
+			"accounts": "21"
+		},
+		{
+			"repos": "4",
+			"months": "5",
+			"accounts": "28"
+		},
+		{
+			"repos": "4",
+			"months": "6",
+			"accounts": "69"
+		},
+		{
+			"repos": "4",
+			"months": "7",
+			"accounts": "28"
+		},
+		{
+			"repos": "4",
+			"months": "8",
+			"accounts": "13"
+		},
+		{
+			"repos": "4",
+			"months": "9",
+			"accounts": "15"
+		},
+		{
+			"repos": "4",
+			"months": "10",
+			"accounts": "13"
+		},
+		{
+			"repos": "5",
+			"months": "1",
+			"accounts": "3"
+		},
+		{
+			"repos": "5",
+			"months": "2",
+			"accounts": "2"
+		},
+		{
+			"repos": "5",
+			"months": "3",
+			"accounts": "6"
+		},
+		{
+			"repos": "5",
+			"months": "4",
+			"accounts": "11"
+		},
+		{
+			"repos": "5",
+			"months": "5",
+			"accounts": "16"
+		},
+		{
+			"repos": "5",
+			"months": "6",
+			"accounts": "37"
+		},
+		{
+			"repos": "5",
+			"months": "7",
+			"accounts": "16"
+		},
+		{
+			"repos": "5",
+			"months": "8",
+			"accounts": "16"
+		},
+		{
+			"repos": "5",
+			"months": "9",
+			"accounts": "12"
+		},
+		{
+			"repos": "5",
+			"months": "10",
+			"accounts": "4"
+		},
+		{
+			"repos": "6",
+			"months": "1",
+			"accounts": "1"
+		},
+		{
+			"repos": "6",
+			"months": "2",
+			"accounts": "4"
+		},
+		{
+			"repos": "6",
+			"months": "3",
+			"accounts": "4"
+		},
+		{
+			"repos": "6",
+			"months": "4",
+			"accounts": "7"
+		},
+		{
+			"repos": "6",
+			"months": "5",
+			"accounts": "12"
+		},
+		{
+			"repos": "6",
+			"months": "6",
+			"accounts": "21"
+		},
+		{
+			"repos": "6",
+			"months": "7",
+			"accounts": "8"
+		},
+		{
+			"repos": "6",
+			"months": "8",
+			"accounts": "11"
+		},
+		{
+			"repos": "6",
+			"months": "9",
+			"accounts": "9"
+		},
+		{
+			"repos": "6",
+			"months": "10",
+			"accounts": "9"
+		},
+		{
+			"repos": "7",
+			"months": "2",
+			"accounts": "1"
+		},
+		{
+			"repos": "7",
+			"months": "4",
+			"accounts": "1"
+		},
+		{
+			"repos": "7",
+			"months": "5",
+			"accounts": "3"
+		},
+		{
+			"repos": "7",
+			"months": "6",
+			"accounts": "15"
+		},
+		{
+			"repos": "7",
+			"months": "7",
+			"accounts": "3"
+		},
+		{
+			"repos": "7",
+			"months": "8",
+			"accounts": "4"
+		},
+		{
+			"repos": "7",
+			"months": "9",
+			"accounts": "4"
+		},
+		{
+			"repos": "7",
+			"months": "10",
+			"accounts": "3"
+		},
+		{
+			"repos": "7",
+			"months": "11",
+			"accounts": "1"
+		},
+		{
+			"repos": "8",
+			"months": "1",
+			"accounts": "1"
+		},
+		{
+			"repos": "8",
+			"months": "3",
+			"accounts": "1"
+		},
+		{
+			"repos": "8",
+			"months": "5",
+			"accounts": "2"
+		},
+		{
+			"repos": "8",
+			"months": "6",
+			"accounts": "7"
+		},
+		{
+			"repos": "8",
+			"months": "8",
+			"accounts": "7"
+		},
+		{
+			"repos": "8",
+			"months": "9",
+			"accounts": "4"
+		},
+		{
+			"repos": "8",
+			"months": "10",
+			"accounts": "5"
+		},
+		{
+			"repos": "9",
+			"months": "6",
+			"accounts": "4"
+		},
+		{
+			"repos": "9",
+			"months": "7",
+			"accounts": "1"
+		},
+		{
+			"repos": "9",
+			"months": "8",
+			"accounts": "5"
+		},
+		{
+			"repos": "9",
+			"months": "9",
+			"accounts": "2"
+		},
+		{
+			"repos": "10",
+			"months": "5",
+			"accounts": "3"
+		},
+		{
+			"repos": "10",
+			"months": "6",
+			"accounts": "1"
+		},
+		{
+			"repos": "10",
+			"months": "7",
+			"accounts": "1"
+		},
+		{
+			"repos": "10",
+			"months": "8",
+			"accounts": "1"
+		},
+		{
+			"repos": "10",
+			"months": "9",
+			"accounts": "1"
+		},
+		{
+			"repos": "11",
+			"months": "2",
+			"accounts": "1"
+		},
+		{
+			"repos": "11",
+			"months": "4",
+			"accounts": "1"
+		},
+		{
+			"repos": "11",
+			"months": "6",
+			"accounts": "1"
+		},
+		{
+			"repos": "11",
+			"months": "7",
+			"accounts": "1"
+		},
+		{
+			"repos": "11",
+			"months": "9",
+			"accounts": "2"
+		},
+		{
+			"repos": "11",
+			"months": "10",
+			"accounts": "2"
+		},
+		{
+			"repos": "12",
+			"months": "2",
+			"accounts": "1"
+		},
+		{
+			"repos": "12",
+			"months": "6",
+			"accounts": "1"
+		},
+		{
+			"repos": "12",
+			"months": "7",
+			"accounts": "1"
+		},
+		{
+			"repos": "12",
+			"months": "9",
+			"accounts": "2"
+		},
+		{
+			"repos": "12",
+			"months": "10",
+			"accounts": "1"
+		},
+		{
+			"repos": "13",
+			"months": "6",
+			"accounts": "1"
+		},
+		{
+			"repos": "13",
+			"months": "7",
+			"accounts": "2"
+		},
+		{
+			"repos": "13",
+			"months": "10",
+			"accounts": "1"
+		},
+		{
+			"repos": "14",
+			"months": "2",
+			"accounts": "1"
+		},
+		{
+			"repos": "14",
+			"months": "8",
+			"accounts": "1"
+		},
+		{
+			"repos": "14",
+			"months": "10",
+			"accounts": "1"
+		},
+		{
+			"repos": "15",
+			"months": "4",
+			"accounts": "1"
+		},
+		{
+			"repos": "16",
+			"months": "5",
+			"accounts": "1"
+		},
+		{
+			"repos": "16",
+			"months": "10",
+			"accounts": "1"
+		},
+		{
+			"repos": "17",
+			"months": "8",
+			"accounts": "1"
+		},
+		{
+			"repos": "19",
+			"months": "7",
+			"accounts": "1"
+		},
+		{
+			"repos": "20",
+			"months": "3",
+			"accounts": "1"
+		},
+		{
+			"repos": "20",
+			"months": "6",
+			"accounts": "1"
+		},
+		{
+			"repos": "21",
+			"months": "5",
+			"accounts": "1"
+		},
+		{
+			"repos": "22",
+			"months": "1",
+			"accounts": "1"
+		},
+		{
+			"repos": "25",
+			"months": "3",
+			"accounts": "1"
+		},
+		{
+			"repos": "25",
+			"months": "8",
+			"accounts": "1"
+		},
+		{
+			"repos": "26",
+			"months": "9",
+			"accounts": "1"
+		},
+		{
+			"repos": "28",
+			"months": "6",
+			"accounts": "1"
+		},
+		{
+			"repos": "33",
+			"months": "5",
+			"accounts": "1"
+		},
+		{
+			"repos": "42",
+			"months": "10",
+			"accounts": "1"
+		}
+	],
+
+	"rows": 117,
+
+	"statistics":
+	{
+		"elapsed": 0.039339345,
+		"rows_read": 204484543,
+		"bytes_read": 226882863
+	}
+}

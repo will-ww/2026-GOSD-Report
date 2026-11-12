@@ -1,0 +1,522 @@
+{
+  "cloud": {
+    "groups": [
+      {
+        "name": "应用与开发",
+        "purpose": "定义、交付与数据服务",
+        "count": 29,
+        "entries": [
+          {
+            "label": "Podman",
+            "url": "https://github.com/podman-container-tools/podman",
+            "role": "镜像构建",
+            "local_logo": "assets/43-podman.png",
+            "logo_kind": "project"
+          },
+          {
+            "label": "Kafka",
+            "url": "https://github.com/apache/kafka",
+            "role": "流与消息",
+            "local_logo": "assets/43-kafka.png",
+            "logo_kind": "project"
+          },
+          {
+            "label": "Spark",
+            "url": "https://github.com/apache/spark",
+            "role": "流与消息",
+            "local_logo": "assets/43-spark.png",
+            "logo_kind": "project"
+          },
+          {
+            "label": "TiDB",
+            "url": "https://github.com/pingcap/tidb",
+            "role": "数据库",
+            "local_logo": "assets/43-tidb.png",
+            "logo_kind": "project"
+          }
+        ]
+      },
+      {
+        "name": "编排与运行",
+        "purpose": "服务连接与执行环境",
+        "count": 21,
+        "entries": [
+          {
+            "label": "Envoy",
+            "url": "https://github.com/envoyproxy/envoy",
+            "role": "服务代理",
+            "local_logo": "assets/43-envoy.png",
+            "logo_kind": "project"
+          },
+          {
+            "label": "APISIX",
+            "url": "https://github.com/apache/apisix",
+            "role": "API 网关",
+            "local_logo": "assets/43-apisix.png",
+            "logo_kind": "project"
+          },
+          {
+            "label": "Calico",
+            "url": "https://github.com/projectcalico/calico",
+            "role": "云原生网络",
+            "local_logo": "assets/43-calico.png",
+            "logo_kind": "project"
+          },
+          {
+            "label": "Volcano",
+            "url": "https://github.com/volcano-sh/volcano",
+            "role": "调度与编排",
+            "local_logo": "assets/43-volcano.png",
+            "logo_kind": "project"
+          }
+        ]
+      },
+      {
+        "name": "资源与安全",
+        "purpose": "部署、权限与平台支撑",
+        "count": 21,
+        "entries": [
+          {
+            "label": "Keycloak",
+            "url": "https://github.com/keycloak/keycloak",
+            "role": "身份与密钥",
+            "local_logo": "assets/43-keycloak.png",
+            "logo_kind": "project"
+          },
+          {
+            "label": "Pulumi",
+            "url": "https://github.com/pulumi/pulumi",
+            "role": "自动化与配置",
+            "local_logo": "assets/43-pulumi.png",
+            "logo_kind": "project"
+          },
+          {
+            "label": "Tetragon",
+            "url": "https://github.com/cilium/tetragon",
+            "role": "安全与合规",
+            "local_logo": "assets/43-tetragon.png",
+            "logo_kind": "project"
+          },
+          {
+            "label": "K3s",
+            "url": "https://github.com/k3s-io/k3s",
+            "role": "K8s 发行版",
+            "local_logo": "assets/43-k3s.png",
+            "logo_kind": "project"
+          }
+        ]
+      },
+      {
+        "name": "观测与扩展",
+        "purpose": "可观测性 · WASM · Serverless",
+        "count": 15,
+        "entries": [
+          {
+            "label": "Grafana",
+            "url": "https://github.com/grafana/grafana",
+            "role": "可观测性",
+            "local_logo": "assets/43-grafana.png",
+            "logo_kind": "project"
+          },
+          {
+            "label": "Loki",
+            "url": "https://github.com/grafana/loki",
+            "role": "可观测性",
+            "local_logo": "assets/43-loki.png",
+            "logo_kind": "project"
+          },
+          {
+            "label": "LLVM",
+            "url": "https://github.com/llvm/llvm-project",
+            "role": "编译工具链*",
+            "local_logo": "assets/43-llvm.png",
+            "logo_kind": "project"
+          },
+          {
+            "label": "Wasmtime",
+            "url": "https://github.com/bytecodealliance/wasmtime",
+            "role": "WASM 运行时",
+            "local_logo": "assets/43-wasmtime.png",
+            "logo_kind": "organization"
+          }
+        ]
+      }
+    ],
+    "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosl/landscapes.json"
+  },
+  "riscv": {
+    "groups": [
+      {
+        "name": "规范与工具",
+        "purpose": "规范与计划 / 设计、编译与验证",
+        "entries": [
+          {
+            "label": "ISA Manual",
+            "url": "https://github.com/riscv/riscv-isa-manual",
+            "role": "指令集规范",
+            "local_logo": "assets/45-4.png",
+            "logo_kind": "organization"
+          },
+          {
+            "label": "Unified DB",
+            "url": "https://github.com/riscv/riscv-unified-db",
+            "role": "规范数据库",
+            "local_logo": "assets/45-5.png",
+            "logo_kind": "organization"
+          },
+          {
+            "label": "Chisel",
+            "url": "https://github.com/chipsalliance/chisel",
+            "role": "设计构建",
+            "local_logo": "assets/45-6.png",
+            "logo_kind": "project"
+          },
+          {
+            "label": "Arch Tests",
+            "url": "https://github.com/riscv/riscv-arch-test",
+            "role": "架构测试",
+            "local_logo": "assets/45-7.png",
+            "logo_kind": "organization"
+          }
+        ]
+      },
+      {
+        "name": "实现与固件",
+        "purpose": "芯片实现 / 固件与安全组件",
+        "entries": [
+          {
+            "label": "OpenTitan",
+            "url": "https://github.com/lowRISC/opentitan",
+            "role": "安全芯片与固件",
+            "local_logo": "assets/45-0.png",
+            "logo_kind": "project"
+          },
+          {
+            "label": "Caliptra",
+            "url": "https://github.com/chipsalliance/Caliptra",
+            "role": "信任根家族",
+            "local_logo": "assets/45-1.png",
+            "logo_kind": "project"
+          },
+          {
+            "label": "Ibex",
+            "url": "https://github.com/lowRISC/ibex",
+            "role": "处理器核",
+            "local_logo": "assets/45-2.png",
+            "logo_kind": "organization"
+          },
+          {
+            "label": "CVA6",
+            "url": "https://github.com/openhwgroup/cva6",
+            "role": "处理器核",
+            "local_logo": "assets/45-3.png",
+            "logo_kind": "organization"
+          }
+        ]
+      },
+      {
+        "name": "系统与库",
+        "purpose": "操作系统移植 / 库与接口",
+        "entries": [
+          {
+            "label": "openEuler RISC-V",
+            "url": "https://github.com/openeuler-riscv/oerv-team",
+            "role": "操作系统",
+            "local_logo": "assets/45-8.png",
+            "logo_kind": "organization"
+          },
+          {
+            "label": "Arch RISC-V",
+            "url": "https://github.com/felixonmars/archriscv-packages",
+            "role": "操作系统",
+            "local_logo": "assets/45-9.png",
+            "logo_kind": "upstream"
+          },
+          {
+            "label": "Rust riscv",
+            "url": "https://github.com/rust-embedded/riscv",
+            "role": "底层支持库",
+            "local_logo": "assets/45-14.png",
+            "logo_kind": "organization"
+          },
+          {
+            "label": "librpmi",
+            "url": "https://github.com/riscv-software-src/librpmi",
+            "role": "平台管理接口",
+            "local_logo": "assets/45-15.png",
+            "logo_kind": "organization"
+          }
+        ]
+      },
+      {
+        "name": "应用与基础设施",
+        "purpose": "应用 / 持续集成与软件分发",
+        "entries": [
+          {
+            "label": "RISC Zero",
+            "url": "https://github.com/risc0/risc0",
+            "role": "零知识虚拟机",
+            "local_logo": "assets/45-10.png",
+            "logo_kind": "project"
+          },
+          {
+            "label": "Tezos PVM",
+            "url": "https://github.com/tezos/riscv-pvm",
+            "role": "可证明执行",
+            "local_logo": "assets/45-11.png",
+            "logo_kind": "organization"
+          },
+          {
+            "label": "PLCT RISC-V CI",
+            "url": "https://github.com/plctlab/riscv-ci",
+            "role": "持续集成",
+            "local_logo": "assets/45-12.png",
+            "logo_kind": "organization"
+          },
+          {
+            "label": "EESSI RISC-V",
+            "url": "https://github.com/EESSI/dev.eessi.io-riscv",
+            "role": "软件分发",
+            "local_logo": "assets/45-13.png",
+            "logo_kind": "organization"
+          }
+        ]
+      }
+    ],
+    "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosl/landscapes.json"
+  },
+  "database": {
+    "groups": [
+      {
+        "name": "通用与结构化",
+        "purpose": "事务、存储与组织方式",
+        "color": "blue",
+        "entries": [
+          {
+            "label": "ClickHouse",
+            "role": "关系型",
+            "local_logo": "assets/44-clickhouse.png",
+            "logo_kind": "project",
+            "url": "https://github.com/ClickHouse/ClickHouse",
+            "bbox": [
+              0,
+              0,
+              800,
+              800
+            ]
+          },
+          {
+            "label": "Doris",
+            "role": "关系型",
+            "local_logo": "assets/44-doris.png",
+            "logo_kind": "project",
+            "url": "https://github.com/apache/doris",
+            "bbox": [
+              112,
+              201,
+              688,
+              284
+            ]
+          },
+          {
+            "label": "DuckDB",
+            "role": "关系型",
+            "local_logo": "assets/44-duckdb.png",
+            "logo_kind": "project",
+            "url": "https://github.com/duckdb/duckdb",
+            "bbox": [
+              3,
+              3,
+              797,
+              225
+            ]
+          },
+          {
+            "label": "YDB",
+            "role": "键值 · 多标签",
+            "local_logo": "assets/44-ydb.png",
+            "logo_kind": "project",
+            "url": "https://github.com/ydb-platform/ydb",
+            "bbox": [
+              0,
+              0,
+              800,
+              800
+            ]
+          },
+          {
+            "label": "TiDB",
+            "role": "键值 · 多标签",
+            "local_logo": "assets/44-tidb.png",
+            "logo_kind": "project",
+            "url": "https://github.com/pingcap/tidb",
+            "bbox": [
+              140,
+              140,
+              1341,
+              627
+            ]
+          },
+          {
+            "label": "Valkey",
+            "role": "键值",
+            "local_logo": "assets/44-valkey.png",
+            "logo_kind": "project",
+            "url": "https://github.com/valkey-io/valkey",
+            "bbox": [
+              12,
+              25,
+              767,
+              897
+            ]
+          },
+          {
+            "label": "HBase",
+            "role": "宽列",
+            "local_logo": "assets/44-hbase.png",
+            "logo_kind": "project",
+            "url": "https://github.com/apache/hbase",
+            "bbox": [
+              5,
+              2,
+              466,
+              118
+            ]
+          },
+          {
+            "label": "StarRocks",
+            "role": "宽列 · 多标签",
+            "local_logo": "assets/44-starrocks.png",
+            "logo_kind": "project",
+            "url": "https://github.com/StarRocks/starrocks",
+            "bbox": [
+              0,
+              14,
+              800,
+              911
+            ]
+          }
+        ]
+      },
+      {
+        "name": "检索与关联",
+        "purpose": "文档、搜索、向量与图",
+        "color": "teal",
+        "entries": [
+          {
+            "label": "Elasticsearch",
+            "role": "搜索 · 多标签",
+            "local_logo": "assets/44-elasticsearch.png",
+            "logo_kind": "project",
+            "url": "https://github.com/elastic/elasticsearch",
+            "bbox": [
+              148,
+              48,
+              255,
+              169
+            ]
+          },
+          {
+            "label": "OpenSearch",
+            "role": "搜索",
+            "local_logo": "assets/44-opensearch.png",
+            "logo_kind": "project",
+            "url": "https://github.com/opensearch-project/OpenSearch",
+            "bbox": [
+              0,
+              1,
+              799,
+              154
+            ]
+          },
+          {
+            "label": "Milvus",
+            "role": "向量",
+            "local_logo": "assets/44-milvus.png",
+            "logo_kind": "project",
+            "url": "https://github.com/milvus-io/milvus",
+            "bbox": [
+              13,
+              10,
+              787,
+              170
+            ]
+          },
+          {
+            "label": "Qdrant",
+            "role": "向量",
+            "local_logo": "assets/44-qdrant.png",
+            "logo_kind": "project",
+            "url": "https://github.com/qdrant/qdrant",
+            "bbox": [
+              0,
+              0,
+              800,
+              213
+            ]
+          },
+          {
+            "label": "Weaviate",
+            "role": "向量",
+            "local_logo": "assets/44-weaviate.png",
+            "logo_kind": "project",
+            "url": "https://github.com/weaviate/weaviate",
+            "bbox": [
+              72,
+              139,
+              555,
+              429
+            ]
+          },
+          {
+            "label": "LanceDB",
+            "role": "文档",
+            "local_logo": "assets/44-lancedb.png",
+            "logo_kind": "project",
+            "url": "https://github.com/lancedb/lancedb",
+            "bbox": [
+              0,
+              0,
+              800,
+              187
+            ]
+          }
+        ]
+      },
+      {
+        "name": "专用数据语义",
+        "purpose": "时空、对象与事件",
+        "color": "violet",
+        "entries": [
+          {
+            "label": "Prometheus",
+            "role": "时序 · 多标签",
+            "local_logo": "assets/44-prometheus.png",
+            "logo_kind": "project",
+            "url": "https://github.com/prometheus/prometheus",
+            "bbox": [
+              0,
+              4,
+              786,
+              791
+            ]
+          },
+          {
+            "label": "Sedona",
+            "role": "空间",
+            "local_logo": "assets/44-sedona.png",
+            "logo_kind": "project",
+            "url": "https://github.com/apache/sedona",
+            "bbox": [
+              0,
+              0,
+              4459,
+              695
+            ]
+          }
+        ]
+      }
+    ],
+    "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosl/landscapes.json"
+  }
+}

@@ -1,0 +1,16 @@
+repository_a,repository_b,annual_intersection,same_month_unique_accounts,same_month_account_months
+pytorch/pytorch,vllm-project/vllm,22,16,41
+pytorch/pytorch,sgl-project/sglang,4,1,1
+pytorch/pytorch,langchain-ai/langchain,9,6,6
+pytorch/pytorch,langgenius/dify,2,1,1
+pytorch/pytorch,kubernetes/kubernetes,1,1,1
+vllm-project/vllm,sgl-project/sglang,36,21,22
+vllm-project/vllm,langchain-ai/langchain,16,11,11
+vllm-project/vllm,langgenius/dify,7,4,4
+vllm-project/vllm,kubernetes/kubernetes,4,2,3
+sgl-project/sglang,langchain-ai/langchain,3,2,2
+sgl-project/sglang,langgenius/dify,2,1,1
+sgl-project/sglang,kubernetes/kubernetes,0,0,0
+langchain-ai/langchain,langgenius/dify,16,15,16
+langchain-ai/langchain,kubernetes/kubernetes,1,1,1
+langgenius/dify,kubernetes/kubernetes,0,0,0

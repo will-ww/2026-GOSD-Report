@@ -1,0 +1,97 @@
+{
+	"meta":
+	[
+		{
+			"name": "id",
+			"type": "String"
+		},
+		{
+			"name": "type",
+			"type": "LowCardinality(String)"
+		},
+		{
+			"name": "name",
+			"type": "String"
+		},
+		{
+			"name": "name_zh",
+			"type": "String"
+		},
+		{
+			"name": "description",
+			"type": "String"
+		},
+		{
+			"name": "description_zh",
+			"type": "String"
+		},
+		{
+			"name": "children",
+			"type": "Array(String)"
+		},
+		{
+			"name": "platforms.name",
+			"type": "Array(LowCardinality(String))"
+		},
+		{
+			"name": "platforms.type",
+			"type": "Array(LowCardinality(String))"
+		},
+		{
+			"name": "platforms.orgs",
+			"type": "Array(Array(UInt64))"
+		},
+		{
+			"name": "platforms.repos",
+			"type": "Array(Array(UInt64))"
+		},
+		{
+			"name": "platforms.users",
+			"type": "Array(Array(UInt64))"
+		},
+		{
+			"name": "data",
+			"type": "String"
+		}
+	],
+
+	"data":
+	[
+		{
+			"id": ":companies\/huawei\/cann",
+			"type": "Project",
+			"name": "CANN",
+			"name_zh": "",
+			"description": "CANN (Compute Architecture for Neural Networks) is a heterogeneous computing architecture for AI scenarios developed by Huawei.",
+			"description_zh": "CANN（Compute Architecture for Neural Networks）是华为针对 AI 场景推出的异构计算架构",
+			"children": [],
+			"platforms.name": [
+				"AtomGit"
+			],
+			"platforms.type": [
+				"Code Hosting"
+			],
+			"platforms.orgs": [
+				[
+					"5162848"
+				]
+			],
+			"platforms.repos": [
+				[]
+			],
+			"platforms.users": [
+				[]
+			],
+			"data": ""
+		}
+	],
+
+	"rows": 1,
+
+	"statistics":
+	{
+		"elapsed": 0.007057807,
+		"rows_read": 5777,
+		"bytes_read": 2263612
+	}
+}

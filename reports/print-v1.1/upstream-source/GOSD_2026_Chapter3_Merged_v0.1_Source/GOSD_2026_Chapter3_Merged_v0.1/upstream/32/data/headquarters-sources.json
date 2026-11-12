@@ -1,0 +1,194 @@
+{
+  "as_of": "2026-11-10",
+  "method": "企业官网、投资者关系资料或企业向监管机构提交的报告。地图仅绘制已核对的例证，不是全榜总部普查。阿里巴巴地点对应2026年20-F披露的主要业务执行办公室。城市坐标为示意定位，不是建筑地块。",
+  "global_sample_count": 6,
+  "china_sample_count": 9,
+  "china_city_count": 5,
+  "sources": {
+    "Microsoft": "https://www.microsoft.com/en-us/about/office-locations",
+    "NVIDIA": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+    "JetBrains": "https://www.jetbrains.com/en-us/company/contacts/",
+    "Alibaba": "https://data.alibabagroup.com/ir_filings/SEC/BABA/000119312526231755/baba-20260331.htm",
+    "Ant group": "https://www.antgroup.com/about/our-offices",
+    "Huawei": "https://www.huawei.com/en/media-center/company-facts/",
+    "Baidu": "https://ir.baidu.com/shareholder-services/investor-faqs",
+    "Tencent": "https://www.tencent.com/who-we-are/",
+    "ESPRESSIF": "https://docs.espressif.com/projects/esp-faq/en/latest/commercial-faq/index.html",
+    "DaoCloud": "https://www.daocloud.io/about/contact/index.html",
+    "Xiaomi": "https://www.mi.com/mea/about/index.html",
+    "iFLYTEK": "https://iflytek.zhiye.com/"
+  },
+  "links": [
+    {
+      "page": 0,
+      "company": "Microsoft",
+      "rect": [
+        709.2737500000001,
+        74,
+        30.0,
+        20
+      ],
+      "url": "https://www.microsoft.com/en-us/about/office-locations"
+    },
+    {
+      "page": 0,
+      "company": "NVIDIA",
+      "rect": [
+        709.2737500000001,
+        235,
+        44.0,
+        20
+      ],
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm"
+    },
+    {
+      "page": 0,
+      "company": "JetBrains",
+      "rect": [
+        935.5531249999999,
+        73,
+        63.446875,
+        20
+      ],
+      "url": "https://www.jetbrains.com/en-us/company/contacts/"
+    },
+    {
+      "page": 0,
+      "company": "Alibaba",
+      "rect": [
+        901.2378124999999,
+        224,
+        58.0,
+        20
+      ],
+      "url": "https://data.alibabagroup.com/ir_filings/SEC/BABA/000119312526231755/baba-20260331.htm"
+    },
+    {
+      "page": 0,
+      "company": "Ant group",
+      "rect": [
+        969.0,
+        224,
+        30.0,
+        20
+      ],
+      "url": "https://www.antgroup.com/about/our-offices"
+    },
+    {
+      "page": 0,
+      "company": "Huawei",
+      "rect": [
+        968.9999999999999,
+        256,
+        30.0,
+        20
+      ],
+      "url": "https://www.huawei.com/en/media-center/company-facts/"
+    },
+    {
+      "page": 2,
+      "company": "Baidu",
+      "rect": [
+        713,
+        333,
+        33.0,
+        22
+      ],
+      "url": "https://ir.baidu.com/shareholder-services/investor-faqs"
+    },
+    {
+      "page": 2,
+      "company": "Xiaomi",
+      "rect": [
+        766.4459375,
+        333,
+        33.0,
+        22
+      ],
+      "url": "https://www.mi.com/mea/about/index.html"
+    },
+    {
+      "page": 2,
+      "company": "Alibaba",
+      "rect": [
+        713,
+        359,
+        64.0,
+        22
+      ],
+      "url": "https://data.alibabagroup.com/ir_filings/SEC/BABA/000119312526231755/baba-20260331.htm"
+    },
+    {
+      "page": 2,
+      "company": "Ant group",
+      "rect": [
+        797.4459375,
+        359,
+        64.0,
+        22
+      ],
+      "url": "https://www.antgroup.com/about/our-offices"
+    },
+    {
+      "page": 2,
+      "company": "Huawei",
+      "rect": [
+        713,
+        385,
+        33.0,
+        22
+      ],
+      "url": "https://www.huawei.com/en/media-center/company-facts/"
+    },
+    {
+      "page": 2,
+      "company": "Tencent",
+      "rect": [
+        766.4459375,
+        385,
+        33.0,
+        22
+      ],
+      "url": "https://www.tencent.com/who-we-are/"
+    },
+    {
+      "page": 2,
+      "company": "ESPRESSIF",
+      "rect": [
+        713,
+        411,
+        64.0,
+        22
+      ],
+      "url": "https://docs.espressif.com/projects/esp-faq/en/latest/commercial-faq/index.html"
+    },
+    {
+      "page": 2,
+      "company": "DaoCloud",
+      "rect": [
+        797.4459375,
+        411,
+        48.5,
+        22
+      ],
+      "url": "https://www.daocloud.io/about/contact/index.html"
+    },
+    {
+      "page": 2,
+      "company": "iFLYTEK",
+      "rect": [
+        713,
+        437,
+        64.0,
+        22
+      ],
+      "url": "https://iflytek.zhiye.com/"
+    }
+  ],
+  "limits": [
+    "国别席位沿用固定来源的country_zh，不等于重新按总部国籍归类。",
+    "总部核对为期后辅助资料，不能解释为主统计期的迁移记录。",
+    "未将Elastic等分布式企业强制定位为单一总部。",
+    "地图包含中国台湾；地理轮廓仅作示意，不用于边界判定。"
+  ]
+}

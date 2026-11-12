@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170mm" height="139mm" viewBox="0 0 170 139"><rect width="170" height="139" fill="white" />
+<defs><pattern id="hatch" patternUnits="userSpaceOnUse" width="2.4" height="2.4"><rect width="2.4" height="2.4" fill="#F7FBFB" /><path d="M-1,1 L1,-1 M0,2.4 L2.4,0 M1.4,3.4 L3.4,1.4" stroke="#329A9B" stroke-width="0.3" /></pattern></defs>
+<text x="1.0000" y="6.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.23333" font-weight="700" fill="#142C49" text-anchor="start">固定十城样本：北京、上海居前，其他节点各具规模</text>
+<text x="1.0000" y="12.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.99861" font-weight="400" fill="#506778" text-anchor="start">2026报告年度 · 地图定位与同组排行互补 · 单位：人</text>
+<text x="1.0000" y="22.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.70417" font-weight="700" fill="#142C49" text-anchor="start">A  城市位置</text>
+<text x="103.0000" y="22.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.70417" font-weight="700" fill="#142C49" text-anchor="start">B  样本内人数排行</text>
+<path d="M58.943,102.960 L58.824,101.276 L59.743,100.348 L61.822,99.698 L62.931,99.683 L63.406,100.408 L62.606,101.321 L62.218,102.477 L60.574,103.500 L58.943,102.960Z" fill="#EFF4F5" stroke="#9EB6BF" stroke-width="0.19" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M81.410,93.909 L80.170,92.404 L79.735,90.975 L80.506,88.867 L81.706,87.132 L82.627,87.582 L82.518,88.827 L81.944,92.170 L81.410,93.909Z" fill="#EFF4F5" stroke="#9EB6BF" stroke-width="0.19" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M17.013,48.949 L16.624,45.210 L19.540,45.097 L20.345,44.823 L22.123,41.523 L24.650,42.738 L25.577,41.996 L26.028,40.035 L27.162,40.062 L28.405,38.938 L28.947,38.868 L29.054,40.301 L29.997,41.536 L31.796,42.581 L32.498,44.320 L31.632,46.578 L32.007,47.518 L33.625,48.089 L35.485,48.603 L37.057,50.048 L37.915,50.362 L38.391,52.290 L39.135,53.571 L40.748,53.655 L43.738,54.309 L45.701,54.121 L47.137,54.478 L49.288,55.769 L51.081,55.787 L51.736,56.423 L53.456,55.318 L55.821,54.564 L58.019,54.409 L59.694,53.610 L60.674,52.461 L61.640,51.713 L61.362,51.059 L60.854,50.311 L61.512,48.957 L62.321,49.082 L63.808,49.375 L65.117,48.177 L67.171,47.176 L68.035,45.733 L68.934,45.045 L70.890,44.515 L72.002,44.584 L72.045,43.853 L70.615,42.641 L69.448,42.153 L68.506,43.021 L67.135,42.870 L66.398,43.208 L65.962,42.430 L66.689,40.341 L67.158,38.775 L68.826,39.325 L70.498,37.827 L70.362,36.965 L71.208,34.723 L71.814,33.990 L71.628,32.924 L70.870,32.573 L71.745,31.453 L73.219,30.849 L74.838,30.500 L76.787,30.706 L78.015,31.182 L79.203,32.945 L79.857,33.667 L80.565,34.749 L81.474,36.533 L83.865,36.610 L85.750,37.590 L86.762,39.268 L88.756,38.720 L89.667,37.633 L91.632,36.421 L91.484,38.355 L91.189,39.214 L91.369,41.465 L91.018,43.620 L89.270,43.744 L88.287,44.754 L89.103,46.334 L89.529,48.708 L88.822,48.953 L89.095,49.952 L87.876,49.026 L87.594,50.277 L85.590,51.671 L86.064,52.665 L84.792,52.886 L83.963,52.418 L83.274,54.052 L81.880,55.468 L80.928,56.997 L78.944,57.977 L78.000,59.116 L76.457,59.943 L77.109,58.874 L76.662,58.141 L77.616,56.584 L76.650,55.664 L75.473,56.589 L73.999,58.255 L73.257,59.697 L71.777,59.999 L71.120,61.047 L72.110,62.315 L73.422,62.475 L73.602,63.377 L74.922,63.790 L76.439,62.076 L77.943,62.635 L78.954,62.515 L79.394,63.526 L77.276,64.468 L76.716,65.678 L75.328,66.930 L74.713,68.467 L76.615,69.320 L77.566,71.205 L78.866,72.890 L80.254,74.244 L80.483,75.740 L79.517,76.466 L80.100,77.469 L81.208,77.919 L81.227,79.593 L81.058,81.251 L80.116,81.592 L79.182,83.957 L78.138,86.790 L76.800,89.401 L74.523,91.561 L72.143,93.530 L70.066,93.977 L69.007,94.966 L68.301,94.382 L67.324,95.457 L64.763,96.649 L62.777,97.080 L62.244,99.201 L61.186,99.372 L60.616,97.964 L61.029,97.178 L58.459,96.651 L57.575,97.004 L55.654,96.538 L54.741,95.748 L55.019,94.597 L53.304,94.255 L52.401,93.512 L50.809,94.573 L48.985,94.784 L47.491,94.746 L46.472,95.205 L45.488,95.466 L45.700,97.743 L44.687,97.654 L44.533,97.183 L44.508,96.361 L43.095,96.879 L42.293,96.475 L40.932,95.655 L41.572,94.035 L40.413,93.581 L40.087,91.719 L38.117,91.915 L38.512,89.562 L40.345,88.006 L40.523,86.353 L40.569,84.808 L39.827,84.276 L39.321,83.047 L38.283,83.121 L36.416,82.663 L37.080,81.866 L36.375,80.539 L35.059,81.274 L33.654,80.631 L31.510,81.691 L29.736,82.991 L28.287,83.057 L27.593,82.413 L26.677,82.233 L25.499,81.585 L24.479,81.946 L23.081,83.243 L23.193,81.648 L22.060,81.889 L20.064,81.333 L18.188,80.505 L16.963,79.353 L15.711,78.685 L15.342,77.610 L14.450,77.117 L13.039,75.440 L11.841,74.514 L11.033,74.818 L9.070,72.855 L7.785,71.179 L7.920,68.887 L9.008,69.465 L9.329,68.472 L8.962,67.291 L9.556,65.725 L8.507,62.951 L6.195,61.420 L6.194,59.777 L5.354,58.522 L5.260,57.878 L5.384,56.694 L5.674,55.951 L4.916,55.222 L4.368,55.262 L4.582,53.340 L5.141,53.030 L5.088,52.510 L6.762,52.031 L7.878,51.958 L9.330,52.681 L10.243,51.589 L12.157,51.880 L12.885,51.240 L15.426,50.768 L15.741,50.373 L15.914,49.219 L17.013,48.949Z" fill="#EFF4F5" stroke="#9EB6BF" stroke-width="0.19" opacity="1" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="69.108" cy="58.896" r="3.300" fill="#007D78" stroke="#FFFFFF" stroke-width="0.23" opacity="0.85" />
+<circle cx="79.678" cy="75.297" r="3.200" fill="#007D78" stroke="#FFFFFF" stroke-width="0.23" opacity="0.85" />
+<circle cx="77.758" cy="77.584" r="2.335" fill="#007D78" stroke="#FFFFFF" stroke-width="0.23" opacity="0.85" />
+<circle cx="68.776" cy="94.356" r="1.970" fill="#007D78" stroke="#FFFFFF" stroke-width="0.23" opacity="0.85" />
+<circle cx="81.911" cy="87.638" r="1.737" fill="#007D78" stroke="#FFFFFF" stroke-width="0.23" opacity="0.85" />
+<circle cx="50.195" cy="78.748" r="1.425" fill="#007D78" stroke="#FFFFFF" stroke-width="0.23" opacity="0.85" />
+<circle cx="67.182" cy="93.315" r="1.335" fill="#007D78" stroke="#FFFFFF" stroke-width="0.23" opacity="0.85" />
+<circle cx="67.708" cy="78.172" r="1.085" fill="#007D78" stroke="#FFFFFF" stroke-width="0.23" opacity="0.85" />
+<circle cx="74.955" cy="74.312" r="1.054" fill="#007D78" stroke="#FFFFFF" stroke-width="0.23" opacity="0.85" />
+<circle cx="78.162" cy="75.399" r="0.827" fill="#007D78" stroke="#FFFFFF" stroke-width="0.23" opacity="0.85" />
+<path d="M69.108,58.896 L73.108,53.896" fill="none" stroke="#AABCC3" stroke-width="0.2" />
+<rect x="69.6155" y="50.2957" width="6.9856" height="3.7000" rx="0.2" fill="#FFFFFF" stroke="none" stroke-width="0.18" />
+<text x="73.1083" y="52.8957" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#142C49" text-anchor="middle">北京</text>
+<path d="M79.678,75.297 L88.678,74.297" fill="none" stroke="#AABCC3" stroke-width="0.2" />
+<rect x="85.1855" y="70.6970" width="6.9856" height="3.7000" rx="0.2" fill="#FFFFFF" stroke="none" stroke-width="0.18" />
+<text x="88.6783" y="73.2970" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#142C49" text-anchor="middle">上海</text>
+<path d="M77.758,77.584 L85.758,87.584" fill="none" stroke="#AABCC3" stroke-width="0.2" />
+<rect x="82.2653" y="83.9835" width="6.9856" height="3.7000" rx="0.2" fill="#FFFFFF" stroke="none" stroke-width="0.18" />
+<text x="85.7580" y="86.5835" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#142C49" text-anchor="middle">杭州</text>
+<path d="M68.776,94.356 L57.776,105.356" fill="none" stroke="#AABCC3" stroke-width="0.2" />
+<rect x="54.2829" y="101.7556" width="6.9856" height="3.7000" rx="0.2" fill="#FFFFFF" stroke="none" stroke-width="0.18" />
+<text x="57.7757" y="104.3556" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#142C49" text-anchor="middle">深圳</text>
+<path d="M81.911,87.638 L91.911,95.638" fill="none" stroke="#AABCC3" stroke-width="0.2" />
+<rect x="88.4185" y="92.0380" width="6.9856" height="3.7000" rx="0.2" fill="#FFFFFF" stroke="none" stroke-width="0.18" />
+<text x="91.9113" y="94.6380" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#142C49" text-anchor="middle">台北</text>
+<path d="M50.195,78.748 L39.195,75.748" fill="none" stroke="#AABCC3" stroke-width="0.2" />
+<rect x="35.7027" y="72.1480" width="6.9856" height="3.7000" rx="0.2" fill="#FFFFFF" stroke="none" stroke-width="0.18" />
+<text x="39.1955" y="74.7480" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#142C49" text-anchor="middle">成都</text>
+<path d="M67.708,78.172 L57.708,70.172" fill="none" stroke="#AABCC3" stroke-width="0.2" />
+<rect x="54.2151" y="66.5720" width="6.9856" height="3.7000" rx="0.2" fill="#FFFFFF" stroke="none" stroke-width="0.18" />
+<text x="57.7079" y="69.1720" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#142C49" text-anchor="middle">武汉</text>
+<text x="103.0000" y="33.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="start">01</text>
+<text x="111.0000" y="33.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#142C49" text-anchor="start">北京</text>
+<rect x="126.0000" y="30.8000" width="25.2460" height="2.8000" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="33.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#142C49" text-anchor="end">971</text>
+<text x="103.0000" y="40.1000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="start">02</text>
+<text x="111.0000" y="40.1000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#142C49" text-anchor="start">上海</text>
+<rect x="126.0000" y="37.9000" width="23.7380" height="2.8000" rx="0" fill="#155F91" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="40.1000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#142C49" text-anchor="end">913</text>
+<text x="103.0000" y="47.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="start">03</text>
+<text x="111.0000" y="47.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#142C49" text-anchor="start">杭州</text>
+<rect x="126.0000" y="45.0000" width="12.6360" height="2.8000" rx="0" fill="#329A9B" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="47.2000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#142C49" text-anchor="end">486</text>
+<text x="103.0000" y="54.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="start">04</text>
+<text x="111.0000" y="54.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#142C49" text-anchor="start">深圳</text>
+<rect x="126.0000" y="52.1000" width="8.9960" height="2.8000" rx="0" fill="#329A9B" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="54.3000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#142C49" text-anchor="end">346</text>
+<text x="103.0000" y="61.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="start">05</text>
+<text x="111.0000" y="61.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#142C49" text-anchor="start">台北</text>
+<rect x="126.0000" y="59.2000" width="6.9940" height="2.8000" rx="0" fill="#329A9B" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="61.4000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#142C49" text-anchor="end">269</text>
+<text x="103.0000" y="68.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="start">06</text>
+<text x="111.0000" y="68.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#142C49" text-anchor="start">成都</text>
+<rect x="126.0000" y="66.3000" width="4.7060" height="2.8000" rx="0" fill="#329A9B" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="68.5000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#142C49" text-anchor="end">181</text>
+<text x="103.0000" y="75.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="start">07</text>
+<text x="111.0000" y="75.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#142C49" text-anchor="start">广州</text>
+<rect x="126.0000" y="73.4000" width="4.1340" height="2.8000" rx="0" fill="#329A9B" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="75.6000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#142C49" text-anchor="end">159</text>
+<text x="103.0000" y="82.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="start">08</text>
+<text x="111.0000" y="82.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#142C49" text-anchor="start">武汉</text>
+<rect x="126.0000" y="80.5000" width="2.7300" height="2.8000" rx="0" fill="#329A9B" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="82.7000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#142C49" text-anchor="end">105</text>
+<text x="103.0000" y="89.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="start">09</text>
+<text x="111.0000" y="89.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#142C49" text-anchor="start">南京</text>
+<rect x="126.0000" y="87.6000" width="2.5740" height="2.8000" rx="0" fill="#329A9B" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="89.8000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#142C49" text-anchor="end">99</text>
+<text x="103.0000" y="96.9000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="start">10</text>
+<text x="111.0000" y="96.9000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="400" fill="#142C49" text-anchor="start">苏州</text>
+<rect x="126.0000" y="94.7000" width="1.5860" height="2.8000" rx="0" fill="#329A9B" stroke="none" stroke-width="0.18" />
+<text x="168.0000" y="96.9000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.17500" font-weight="700" fill="#142C49" text-anchor="end">61</text>
+<text x="1.0000" y="111.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="2.89278" font-weight="400" fill="#506778" text-anchor="start">圆面积表示人数；城市中心点仅为显示锚点。</text>
+<path d="M1.000,116.000 L169.000,116.000" fill="none" stroke="#D8E3E9" stroke-width="0.25" />
+<text x="1.0000" y="123.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.03389" font-weight="400" fill="#506778" text-anchor="start">十城合计</text>
+<text x="1.0000" y="132.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.93889" font-weight="700" fill="#142C49" text-anchor="start">3,590 人</text>
+<text x="64.0000" y="123.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.03389" font-weight="400" fill="#506778" text-anchor="start">北京与上海合计</text>
+<text x="64.0000" y="132.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.93889" font-weight="700" fill="#155F91" text-anchor="start">1,884 人</text>
+<text x="126.0000" y="123.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="3.03389" font-weight="400" fill="#506778" text-anchor="start">占十城样本</text>
+<text x="126.0000" y="132.0000" font-family="Liberation Sans, Noto Sans CJK SC" font-size="4.93889" font-weight="700" fill="#007D78" text-anchor="start">52.5%</text></svg>

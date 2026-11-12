@@ -1,0 +1,104 @@
+[
+  {
+    "name": "full-constitution.md",
+    "sha": "a5375ddcea133f50e4406e09d070721d6d54870e",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/docs/report-constitution.md",
+    "checked": "2026-11-10"
+  },
+  {
+    "name": "full-claims-map.md",
+    "sha": "2117127eff62ba41f502f288fe31630c1be9fa2d",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/docs/claims-map.md",
+    "checked": "2026-11-10"
+  },
+  {
+    "name": "insights-constitution.md",
+    "sha": "9cda7a8fc87113d293260ec913b033dc26731907",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/editions/insights/constitution.md",
+    "checked": "2026-11-10"
+  },
+  {
+    "name": "insights-claims-map.md",
+    "sha": "5e2c1bd03e8db90f2445813bccb4717602203623",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/editions/insights/claims-map.md",
+    "checked": "2026-11-10"
+  },
+  {
+    "name": "chapter-plan.md",
+    "sha": "32d2af30fcf4d69444c298bd0cb1bd8653ac6bc3",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/editions/insights/chapter-plan.md",
+    "checked": "2026-11-10"
+  },
+  {
+    "name": "outlook-method.md",
+    "sha": "b632714c6130f11d195f4e0a8a1a10da45e10c91",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/editions/insights/outlook-method.md",
+    "checked": "2026-11-10"
+  },
+  {
+    "name": "recommendations-method.md",
+    "sha": "8e267106e0cc80db0fc9ca1fce9142e2c42ea896",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/editions/insights/recommendations-method.md",
+    "checked": "2026-11-10"
+  },
+  {
+    "name": "insights-AGENTS.md",
+    "sha": "1aa1476c88d304162feaa3a1afdb64bc14493081",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/editions/insights/AGENTS.md",
+    "checked": "2026-11-10"
+  },
+  {
+    "name": "material-inventory.md",
+    "sha": "9d6fe2c33a8e545cb2e4f8de85d8c558bc246da5",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/docs/material-inventory.md",
+    "checked": "2026-11-10"
+  },
+  {
+    "name": "review-checklist.md",
+    "sha": "c1dbb81f9c7405d4dae643b09b42c89889ce2413",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/docs/review-checklist.md",
+    "checked": "2026-11-10"
+  },
+  {
+    "name": "current.json",
+    "sha": "2cceec60ba2c6332996ddca4aa870f8afcfba802",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/editions/insights/current.json",
+    "checked": "2026-11-10"
+  },
+  {
+    "name": "AGENTS.md",
+    "sha": "e0cebac55471c5b28e7aba7ebae1ba6d3b842ce1",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/AGENTS.md",
+    "checked": "2026-11-10"
+  },
+  {
+    "name": "insights-README.md",
+    "sha": "3004de31c93668b51604eaf38d93326d384d7317",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/editions/insights/README.md",
+    "checked": "2026-11-10"
+  },
+  {
+    "name": "readable-content-review.md",
+    "sha": "4d386ae72752a151d450413489f424e454736ce1",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/editions/insights/reviews/2026-11-09-readable-content.md",
+    "checked": "2026-11-10"
+  },
+  {
+    "name": "baseline-review.md",
+    "sha": "830b35780e8709e9e062a22ff4d4a080a2daa7e2",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/editions/insights/reviews/2026-11-09-baseline.md",
+    "checked": "2026-11-10"
+  },
+  {
+    "name": "brand-README.md",
+    "sha": "8d1e53091693ab8c157500b30b1750c163413f9f",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/brand/osdgs/README.md",
+    "checked": "2026-11-10"
+  },
+  {
+    "name": "brand-current.json",
+    "sha": "a7ef2b89ead6db9f74ab2cb0fe1c34800e97ff5f",
+    "url": "https://github.com/will-ww/2026-GOSD-Report/blob/main/brand/osdgs/current.json",
+    "checked": "2026-11-10"
+  }
+]

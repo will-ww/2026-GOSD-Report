@@ -1,0 +1,164 @@
+[
+  {
+    "section": "3.5",
+    "title": "3.5 全球新势力开源仓库与项目排行榜",
+    "intro": "“新”按本期榜表的创建记录界定，可能包含迁入或拆分，不等于技术首次出现。OpenRank 衡量协作网络影响；以仓库为单位，能看见 AI 底座和应用工具各自的建设入口。",
+    "figure": "fig-3-14-emerging-repositories",
+    "caption": "图 3-14　新仓库前 20 位、前 30 位技术与平台结构。来源：固定榜表［E1］、用途映射［E3］；分值窗口 2025.07—2026.06。仓库分值已用公开 OpenDigger 序列复算，复算最大差异为 0.02；“新”的历史资格另见附录 1。",
+    "analyses": [
+      [
+        "① 头部同时出现应用与计算组件",
+        "OpenClaw 位居首位，随后是 CANN 算子、昇腾框架适配和 MindSpore 仓库。智能体的快速迭代与计算基础软件的开放在同一名单中出现，提示产业应同时关注应用入口和持续支撑它的工程组件。"
+      ],
+      [
+        "② AI 供给的增长有清晰的层次",
+        "30 仓中，AI 基础软件占 18 仓，智能体与工具占 4 仓，合计 73.3%。算子是执行数学运算的基础组件，框架适配则帮助已有程序使用不同硬件；理解这些分工，才能判断可复用的资源究竟增加在哪里。"
+      ],
+      [
+        "③ 平台让不同协作体系变得可见",
+        "20 个 AtomGit 条目集中于 CANN、Ascend、OpenHarmony 和 MindSpore。多仓库拆分提供了具体参与入口，但 20 个席位并非 20 个独立技术体系；平台分布也不能直接当作国家贡献分布。"
+      ],
+      [
+        "④ 影响力识别重点，维护连接价值",
+        "前五仓占榜内分值的 43.9%，其余 25 仓仍构成较广的建设基础。支持新势力既要跟踪头部资源的复用，也应观察文档、测试和版本协同。短期排名说明网络位置，持续维护才决定资源能否长期使用。"
+      ]
+    ],
+    "sources": [
+      {
+        "id": "E1",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-5-1_new_repo_openrank_top30.csv",
+        "title": "新仓库前 30 位榜表；固定提交 c51e344。"
+      },
+      {
+        "id": "E2",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-5-2_new_project_openrank_top30.csv",
+        "title": "新项目前 30 位榜表；同一固定提交。"
+      },
+      {
+        "id": "E3",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/emerging-reference.json",
+        "title": "两榜逐项用途、组织和官方入口映射。"
+      },
+      {
+        "id": "E4",
+        "url": "https://github.com/X-lab2017/open-digger/tree/master/skills",
+        "title": "OpenDigger 数据与指标说明；本轮查询及去重明细随源稿保存。"
+      }
+    ],
+    "claim_ids": [
+      "I02",
+      "I05",
+      "I10"
+    ]
+  },
+  {
+    "section": "3.5",
+    "title": "3.5.1 新势力项目：从组件走向整体供给",
+    "intro": "项目可以聚合多个仓库，形成面向使用者的较完整资源。本页以项目为单位观察排名、组织与用途，并与上一页衔接：统计单位和纳入范围改变后，看到的技术结构也会改变。",
+    "figure": "fig-3-15-emerging-projects",
+    "caption": "图 3-15　新项目前 20 位、前 30 位组织国别、用途和聚合结构。来源：固定榜表［E2］、逐项映射［E3］；主统计期同前。国别按榜表组织标签；未识别单列。分值份额以本页 30 项合计为分母，不代表全球市场份额。",
+    "analyses": [
+      [
+        "① 多仓体系与轻量工具并列出现",
+        "CANN 位列第一，Hermes Agent 与 DeepAgents 随后。CANN 聚合 68 仓，后两项各为单仓，说明新供给既可以来自软件体系的整体开放，也可以来自聚焦任务的工具。分值须与对象范围一同理解。"
+      ],
+      [
+        "② 中国贡献覆盖底座与应用工具",
+        "已识别的中国组织有 7 项，包含 CANN、OpenViking、Astron、Nanobot、QwenPaw 等，跨越计算支撑、企业工具与高校研发。另有 17 项组织国别未识别，因此当前地图呈现的是已知布局，不能推断完整全球格局。"
+      ],
+      [
+        "③ 项目入口更集中于智能体工作流",
+        "25 项主要用于智能体与相关工具，占 83.3%；AI 基础软件为 4 项。与仓库榜的组件结构对照，可见从计算支撑到任务执行的两层供给。两榜平台与纳入范围不同，这一差异也不能全部归因于仓库聚合。"
+      ],
+      [
+        "④ 聚合能力要接受协作质量的检验",
+        "多仓项目为 10 项，占项目数的三分之一，却占榜内分值的 67.5%。这提示比较新势力时要兼看组件范围、接口配套与跨仓协作。仓库多并不自动代表体系成熟；CANN 为进一步观察提供了具体案例。"
+      ]
+    ],
+    "sources": [
+      {
+        "id": "E1",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-5-1_new_repo_openrank_top30.csv",
+        "title": "新仓库前 30 位榜表；固定提交 c51e344。"
+      },
+      {
+        "id": "E2",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-5-2_new_project_openrank_top30.csv",
+        "title": "新项目前 30 位榜表；同一固定提交。"
+      },
+      {
+        "id": "E3",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/emerging-reference.json",
+        "title": "两榜逐项用途、组织和官方入口映射。"
+      },
+      {
+        "id": "E4",
+        "url": "https://github.com/X-lab2017/open-digger/tree/master/skills",
+        "title": "OpenDigger 数据与指标说明；本轮查询及去重明细随源稿保存。"
+      }
+    ],
+    "claim_ids": [
+      "I02",
+      "I05",
+      "I10"
+    ]
+  },
+  {
+    "section": "3.5",
+    "title": "3.5.2 CANN：把多仓供给组织为体系能力",
+    "intro": "CANN（神经网络计算架构）是华为面向 AI 的异构计算软件栈，连接框架与昇腾处理器。其价值不仅在于开放组件的数量，还在于计算、编程、运行与社区维护能否共同接续。",
+    "figure": "fig-3-16-cann-multirepository",
+    "caption": "图 3-16　CANN 完整 68 仓画像与期后延伸。来源：OpenDigger 只读查询［E4］、CANN 官方首页［E5］及开放与治理公告［E6—E7］。主期为 2025.07—2026.06；曲线右侧为 2026.07—10，主页设施为 11-10 观察。仓库依 ID 去重，账号口径见附录 1。",
+    "analyses": [
+      [
+        "① 完整范围使结构性贡献可被识别",
+        "68 仓汇总分值与原榜一致，前 12 仓占 77.4%。Transformer 与神经网络算子居前，编程、通信及推理实践也进入头部。中国 AI 开源的贡献因而可以落实到可协作的软件层次，而不止停留在模型名称。"
+      ],
+      [
+        "② 分层开放为上游协作提供接口",
+        "官方资料将加速库、编程编译、图引擎和运行时等分层呈现，并提出与 PyTorch、vLLM 等社区协作。接口开放为适配与性能改进提供条件；是否形成跨境复用，还应继续核对版本兼容、上游接纳和实际采用。"
+      ],
+      [
+        "③ 影响力增长伴随组件范围扩展",
+        "主期末 6 月月度 OpenRank 为 3,520，10 月升至 4,856；有影响力记录的仓库由 63 个增至 90 个。增长体现协作网络与组件范围的共同扩展，不能直接解释为单仓效率、代码质量或商业采用提高。"
+      ],
+      [
+        "④ 从开放入口走向持续公共能力",
+        "主期 5,282 个去机器人协作账号中，1,868 个跨仓参与；另有 1,869 个在至少三个月出现。免费算力、示例和评测为参与提供条件，后续应以适配成本、跨组织维护与复用结果，检验其对 AI 普惠的实际支持。"
+      ]
+    ],
+    "sources": [
+      {
+        "id": "E4",
+        "url": "https://github.com/X-lab2017/open-digger/tree/master/skills",
+        "title": "OpenDigger 数据与指标说明；本轮查询及去重明细随源稿保存。"
+      },
+      {
+        "id": "E5",
+        "url": "https://atomgit.com/cann",
+        "title": "CANN 官方首页，2026-11-10 读取：功能分层、治理、学习与算力入口。"
+      },
+      {
+        "id": "E6",
+        "url": "https://www.huawei.com/cn/news/2025/8/ascend-summit-CANN-open-source",
+        "title": "华为 2025-08-05：宣布 CANN 全面开源开放。"
+      },
+      {
+        "id": "E7",
+        "url": "https://www.huawei.com/cn/news/2025/9/hc-shengten-opensource",
+        "title": "华为 2025-09-20：技术指导委员会成立及与上游社区协作方向。"
+      },
+      {
+        "id": "E8",
+        "url": "https://open-share.com/insight/companies/huawei/cann?scope=Global&unit=Project&timeType=month&time=2026-10&search=&page=1",
+        "title": "OpenShare CANN 洞察入口；本轮跳转登录，未取得页面数值。"
+      }
+    ],
+    "claim_ids": [
+      "I03",
+      "I05",
+      "I06",
+      "I10"
+    ]
+  }
+]

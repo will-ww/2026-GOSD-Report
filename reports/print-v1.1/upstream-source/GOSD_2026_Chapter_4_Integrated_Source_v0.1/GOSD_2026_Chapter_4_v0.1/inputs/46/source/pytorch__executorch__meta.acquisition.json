@@ -1,0 +1,17 @@
+{
+  "repo": "pytorch/executorch",
+  "metric": "meta",
+  "url": "https://oss.open-digger.cn/github/pytorch/executorch/meta.json",
+  "status": "ok",
+  "reused_saved_bytes": false,
+  "started_at": "2026-11-07T08:52:09.490868+00:00",
+  "attempts": 1,
+  "http_status": 200,
+  "final_url": "https://oss.open-digger.cn/github/pytorch/executorch/meta.json",
+  "sha256": "b41a8d1045b76d4be5785b05397d5a9d1e86102fc353817cbd8e33975e87e075",
+  "bytes": 419,
+  "file": "raw/pytorch__executorch__meta.json",
+  "last_modified": "Mon, 02 Nov 2026 19:40:23 GMT",
+  "etag": "\"84AC80202F2604A31099E4F73662C12C\"",
+  "completed_at": "2026-11-07T08:52:12.160317+00:00"
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "source": "assets/projects/pytorch-logo.svg",
+    "derived": "assets/symbols/pytorch-logo.svg",
+    "operation": "Show the original flame symbol only; preserve original geometry and colors. Full source mark retained.",
+    "sha256": "32c5b885288afa8de98dcec2525b76d20243710ee9efaa773374b60149e18683"
+  },
+  {
+    "source": "assets/projects/PyTorch_Project_torchrl.svg",
+    "derived": "assets/symbols/PyTorch_Project_torchrl.svg",
+    "operation": "Show the original flame symbol only; preserve original geometry and colors. Full source mark retained.",
+    "sha256": "ff38747f30f50650f9bb732974c2bd5e4da1cd24637275121440efd0f6dd537e"
+  },
+  {
+    "source": "assets/projects/PyTorch_Project_torchao.svg",
+    "derived": "assets/symbols/PyTorch_Project_torchao.svg",
+    "operation": "Show the original flame symbol only; preserve original geometry and colors. Full source mark retained.",
+    "sha256": "3a4c382f3398fd4a7467282fe00c2a05ac7e8355277aef7b99a10b26c5b64ff4"
+  },
+  {
+    "source": "assets/projects/PyTorch_Project_tensordict.svg",
+    "derived": "assets/symbols/PyTorch_Project_tensordict.svg",
+    "operation": "Show the original flame symbol only; preserve original geometry and colors. Full source mark retained.",
+    "sha256": "68612331eda06704f15f044b8ca95882d931531f3e608b3870dd3ca0390aa276"
+  },
+  {
+    "source": "assets/projects/PyTorch_Project_torchvision.svg",
+    "derived": "assets/symbols/PyTorch_Project_torchvision.svg",
+    "operation": "Show the original flame symbol only; preserve original geometry and colors. Full source mark retained.",
+    "sha256": "a5edcf1b41b5362d4164ac3001d144b5d3a33f1ffbe5c931f2c3a17d135c7576"
+  },
+  {
+    "source": "assets/projects/PyTorch_Project_xla.svg",
+    "derived": "assets/symbols/PyTorch_Project_xla.svg",
+    "operation": "Show the original flame symbol only; preserve original geometry and colors. Full source mark retained.",
+    "sha256": "38740006be8d9d97918647363953e629b7263f1d6e43f9dfed6eeeb11030fffd"
+  },
+  {
+    "source": "assets/projects/PyTorch_Project_torchaudio.svg",
+    "derived": "assets/symbols/PyTorch_Project_torchaudio.svg",
+    "operation": "Show the original flame symbol only; preserve original geometry and colors. Full source mark retained.",
+    "sha256": "17b202bcb2724750f83c4388322d0ae4892154ca1db57fd912844fe2c178ae71"
+  }
+]

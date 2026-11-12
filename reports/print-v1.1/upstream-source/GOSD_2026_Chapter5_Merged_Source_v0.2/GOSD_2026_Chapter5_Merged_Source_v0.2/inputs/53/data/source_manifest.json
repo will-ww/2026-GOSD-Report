@@ -1,0 +1,451 @@
+{
+  "audited_on": "2026-11-07",
+  "frozen_at": "2026-11-07T03:15:35.697917+00:00",
+  "source_main_heads": {
+    "original": "c51e3441361407b68f10b339d97eff288319b503",
+    "reference": "b3f7fd60400d6b46e1c3086b225e5b348a753c47"
+  },
+  "head_verification": "GitHub connector fetch_commit(main), exact response retained under inputs/verification",
+  "live_page": "https://www.x-lab.info/2026-Global-Open-Source-Development-Report/2026/zh/chapters/05/",
+  "live_verification": "Read via web tool on 2026-11-07; page identifies edition 2026.10.22 and retains 870/884/four cases/38 exact joins. Not a new platform scrape.",
+  "policy": "Read-only remote verification; bytes frozen from pinned Git objects; no reassessment, publication, or baseline modification.",
+  "files": [
+    {
+      "file": "inputs/report870/fig-5-3-1_openness_quadrants.csv",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "data/processed/chapter5/fig-5-3-1_openness_quadrants.csv",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter5/fig-5-3-1_openness_quadrants.csv",
+      "git_blob_sha1": "c5204a996d2400ceabf8bca1934690f6d23b5798",
+      "sha256": "faa29a52488561319476c54b94728751b34e11bcfdf87368ed4cb813fd9e389e",
+      "bytes": 208
+    },
+    {
+      "file": "inputs/report870/fig-5-3-2_openness_region_structure.csv",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "data/processed/chapter5/fig-5-3-2_openness_region_structure.csv",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter5/fig-5-3-2_openness_region_structure.csv",
+      "git_blob_sha1": "eca1ab4af3964c3d602f1549277ef07489bffddd",
+      "sha256": "7647863d7843514a5c790f24d39310196103a22927f71cb4c4262622a38d7a3b",
+      "bytes": 337
+    },
+    {
+      "file": "inputs/report870/fig-5-3-3_openness_publisher_types.csv",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "data/processed/chapter5/fig-5-3-3_openness_publisher_types.csv",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter5/fig-5-3-3_openness_publisher_types.csv",
+      "git_blob_sha1": "747b46c9cde7e9634e204adc8cadbab2bd0765d4",
+      "sha256": "94d63f011007a6c499a08cf946ecb1b6beb98b65a4183c1e7ae37cfc1846be35",
+      "bytes": 237
+    },
+    {
+      "file": "inputs/gosm/openness53-methods.md",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosm/openness53-methods.md",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/openness53-methods.md",
+      "git_blob_sha1": "45a3a3eef7bc704f7ef76f2e9a5bbb5f960b6897",
+      "sha256": "80577c8fb0f8c42a745e016ee1211352d0d55d1c6880d3b6f87d91f654ecd532",
+      "bytes": 6740
+    },
+    {
+      "file": "inputs/gosm/openness53.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosm/openness53.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/openness53.json",
+      "git_blob_sha1": "8cd23db1bec53fa5ea693e830eb47cb8df284a95",
+      "sha256": "dce1a49cf48695bd5d3484ab5f0900a67e5f7381da9181268fbee89f2763eb6a",
+      "bytes": 628106
+    },
+    {
+      "file": "inputs/gosm/openness-evidence-884.json.gz",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosm/openness-evidence-884.json.gz",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/openness-evidence-884.json.gz",
+      "git_blob_sha1": "f3636f78a114d3909b6332dc02dd5ee8c3ba2be4",
+      "sha256": "5995fc3a16db1e0db13f2aeebba96b15c07eff8642ba38a3444d71ab9c759ec5",
+      "bytes": 362618
+    },
+    {
+      "file": "inputs/gosm/openness-current.json.gz",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosm/openness-current.json.gz",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/openness-current.json.gz",
+      "git_blob_sha1": "5855ff8248cc9b92cb0a6d675e652312cbc599ec",
+      "sha256": "28edf24dcfc17dad588ce48d02066e94175ffa6dcc0be92879a6aa3e7e19d297",
+      "bytes": 60192
+    },
+    {
+      "file": "inputs/gosm/openness-method.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosm/openness-method.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/openness-method.json",
+      "git_blob_sha1": "a4098fe1bc99f8dfa34bccdd4d74ad38c8ea6304",
+      "sha256": "2b3cb6a5c5cc38e656dfbb80dca5bfecfd01e94ebc506032fd764b063a3736b2",
+      "bytes": 4815
+    },
+    {
+      "file": "inputs/gosm/cases.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosm/cases.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/cases.json",
+      "git_blob_sha1": "ed4d47cf275c326ec314c7e8b2c490ddf93171fc",
+      "sha256": "467c4e9d7a379bc2cff1e05afaa4950b45b264da8c46aa9da92f69a389263cd4",
+      "bytes": 13947
+    },
+    {
+      "file": "inputs/gosm/standard-requirements.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosm/standard-requirements.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/standard-requirements.json",
+      "git_blob_sha1": "103c93d9448815e6b32e5983e357abe5fb7643bf",
+      "sha256": "c899cd0d20378d6a7c575d7d982fdc69d50396b4d2d61e97df0ef96c65e6577e",
+      "bytes": 4552
+    },
+    {
+      "file": "inputs/gosm/standard-publication.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosm/standard-publication.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/standard-publication.json",
+      "git_blob_sha1": "5b26f204e10f01f3d84d2112262a8c3d6c268da0",
+      "sha256": "35b91a43c954a181b538c513db0f269284279851dae000049bd1fa42f7d6a130",
+      "bytes": 503
+    },
+    {
+      "file": "inputs/gosm/grading-specification-reference.pdf",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosm/grading-specification-reference.pdf",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/grading-specification-reference.pdf",
+      "git_blob_sha1": "a0951233d5f47ea5cc470e6ab6751dbdf8bea630",
+      "sha256": "777307467eaae3a1d14f8376f2178dd6c76319a9f3c78a552d8b2ac75756369f",
+      "bytes": 1092270
+    },
+    {
+      "file": "inputs/gosm/methods.md",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosm/methods.md",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/methods.md",
+      "git_blob_sha1": "b2214cb7aeb2922dffbb03a7a001a9fe0db0a7de",
+      "sha256": "b538c3b372e4815f03d5857cf2ac791ec596f97bd70cc8fd97018f4983ef06da",
+      "bytes": 8921
+    },
+    {
+      "file": "inputs/modelrank/manifest.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosr/model-monthly-source/manifest.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/manifest.json",
+      "git_blob_sha1": "7e88aefb85a948d6fe965691acecaf4c48e773fd",
+      "sha256": "e958cd6099cdc3ebdc086174ecb3a694421e5c8fdd4b297f44f50abddf9a8312",
+      "bytes": 4276
+    },
+    {
+      "file": "inputs/modelrank/modelrank-2025-09-top100.raw.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosr/model-monthly-source/modelrank-2025-09-top100.raw.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2025-09-top100.raw.json",
+      "git_blob_sha1": "161cef3e5f8345c3c1b35c9507401abd173217ad",
+      "sha256": "36269432ba7e22056c6d1b8d4b59915a2f335e978480bbbdd1273d7eb222738e",
+      "bytes": 30409
+    },
+    {
+      "file": "inputs/modelrank/modelrank-2025-10-top100.raw.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosr/model-monthly-source/modelrank-2025-10-top100.raw.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2025-10-top100.raw.json",
+      "git_blob_sha1": "9f50591054aa256867b5f31d6c054e03b6f9b55f",
+      "sha256": "62c286db4f4acc199d18d89fe858389c431dd728e8ba62d4b7595ddf99e0bc88",
+      "bytes": 30309
+    },
+    {
+      "file": "inputs/modelrank/modelrank-2025-11-top100.raw.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosr/model-monthly-source/modelrank-2025-11-top100.raw.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2025-11-top100.raw.json",
+      "git_blob_sha1": "6c95d80bd64d696e0ae5093a5175dc3131edd0a0",
+      "sha256": "29e54a9e97822d6bd94aa05fa687fed9b020fee97be00f40f02acc51a0377dbe",
+      "bytes": 30278
+    },
+    {
+      "file": "inputs/modelrank/modelrank-2025-12-top100.raw.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosr/model-monthly-source/modelrank-2025-12-top100.raw.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2025-12-top100.raw.json",
+      "git_blob_sha1": "a2ec28a58b2eec67ca09f7b937ded83b189c06a7",
+      "sha256": "1eb44ec5c76c50298c0d479736df059adb4d50db66dd6ab8384089b9d56ab36e",
+      "bytes": 30328
+    },
+    {
+      "file": "inputs/modelrank/modelrank-2026-01-top100.raw.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosr/model-monthly-source/modelrank-2026-01-top100.raw.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2026-01-top100.raw.json",
+      "git_blob_sha1": "d82b919bfb4d4b659872dbaeb49c4213991156b4",
+      "sha256": "8345f23f14afc2acb5124ad920f3ed4dbbb50347a0681d9cc6f7f1662bff8316",
+      "bytes": 30353
+    },
+    {
+      "file": "inputs/modelrank/modelrank-2026-02-top100.raw.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosr/model-monthly-source/modelrank-2026-02-top100.raw.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2026-02-top100.raw.json",
+      "git_blob_sha1": "2fd6febbfc9888969205b7d8e7a53c27bf381c8c",
+      "sha256": "09f0c4f26fbf3f926fe270589c577e4802256da59b02ea15f28ca191963e11ff",
+      "bytes": 30224
+    },
+    {
+      "file": "inputs/modelrank/modelrank-2026-03-top100.raw.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosr/model-monthly-source/modelrank-2026-03-top100.raw.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2026-03-top100.raw.json",
+      "git_blob_sha1": "d910e77f916b7542f87f5e9dc2c8034cb0ffcb2d",
+      "sha256": "03bc972049e52f3bb57d771eeaf674605c60c42bc2b077e7dd64adb570a7d154",
+      "bytes": 30442
+    },
+    {
+      "file": "inputs/modelrank/modelrank-2026-04-top100.raw.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosr/model-monthly-source/modelrank-2026-04-top100.raw.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2026-04-top100.raw.json",
+      "git_blob_sha1": "cd85ac5390419c04ebfeaf67d680ee4e6df09143",
+      "sha256": "0052ce1a8b8a2ea0cfbfce32f7da1e33ab29a5a09bf9c825f5dee83f46438f03",
+      "bytes": 30369
+    },
+    {
+      "file": "inputs/modelrank/modelrank-2026-05-top100.raw.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosr/model-monthly-source/modelrank-2026-05-top100.raw.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2026-05-top100.raw.json",
+      "git_blob_sha1": "0b78fd7056b2cedfc2ddaef76b0d38c614cb7a03",
+      "sha256": "36f7704fb3ccd214d7cf3f37e70990dadc39834f2545929e3ef466b65b5718ea",
+      "bytes": 30334
+    },
+    {
+      "file": "inputs/modelrank/modelrank-2026-06-top100.raw.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosr/model-monthly-source/modelrank-2026-06-top100.raw.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2026-06-top100.raw.json",
+      "git_blob_sha1": "e045af8ff02be299836c9df823b902dbe8192b4b",
+      "sha256": "cb55838de24913fb87315c217eaad0b6c6ad6e0f25d3a51347611857041e045b",
+      "bytes": 30508
+    },
+    {
+      "file": "inputs/modelrank/modelrank-2026-07-top100.raw.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosr/model-monthly-source/modelrank-2026-07-top100.raw.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2026-07-top100.raw.json",
+      "git_blob_sha1": "86e50d96121c02d20ff9af64b62ec639fa87141d",
+      "sha256": "5bc8f015ffa9763496ac32f2bd0b5715c991033b1bae31816a5c0ed11dbbb9e0",
+      "bytes": 30357
+    },
+    {
+      "file": "inputs/modelrank/modelrank-2026-08-top100.raw.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosr/model-monthly-source/modelrank-2026-08-top100.raw.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-monthly-source/modelrank-2026-08-top100.raw.json",
+      "git_blob_sha1": "47547193180097c008db0d52585ea3fa4fb8f212",
+      "sha256": "5dcf7b339daffd7c970b2a96797226ec0dc7d272cb6222f2cc2eeaaa19714141",
+      "bytes": 30330
+    },
+    {
+      "file": "inputs/modelrank/model-rankings-snapshot.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/gosr/model-rankings-snapshot.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosr/model-rankings-snapshot.json",
+      "git_blob_sha1": "ee615bec1560c2a808265aa0b7b59d7fa38a0433",
+      "sha256": "bf96a88e7046074747b258cfe9a24adb50ac78ed3a251fd129a8032c43735e64",
+      "bytes": 855105
+    },
+    {
+      "file": "inputs/geometry/map-geometry.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/vmap/map-geometry.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/vmap/map-geometry.json",
+      "git_blob_sha1": "527ef8b6aa7b29504461ff8ae5c3ef80bb92f2f1",
+      "sha256": "586ffb51e43854a290fce46035dd9f7f28893dd0100d42853e415ee958b15512",
+      "bytes": 672394
+    },
+    {
+      "file": "inputs/geometry/cmap-data.json",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/content/cmap/data.json",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/cmap/data.json",
+      "git_blob_sha1": "a9b7085b1e6664671c4084bb798c1158eda48682",
+      "sha256": "5c7d6ded5cb704037b37d90ca5c172f7901a1905faff0e9cc2da488a6c7c589a",
+      "bytes": 75455
+    },
+    {
+      "file": "inputs/documentation/original-section53.md",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "chapters/chapter5/5.3-开源开放与分级体系.md",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/chapters/chapter5/5.3-开源开放与分级体系.md",
+      "git_blob_sha1": "0d4a10a9209ee022b0c1a3d568940a98a78d1a19",
+      "sha256": "513908f76535b9d27c83af8976b31bd6db9ede2f5f5e20e31e18c47ca7bfaf94",
+      "bytes": 7988
+    },
+    {
+      "file": "inputs/documentation/publication-20261022.md",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/docs/gosm-openness-publication-20261022.md",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/docs/gosm-openness-publication-20261022.md",
+      "git_blob_sha1": "f562c534ea4221ae4f7db3967b96276e4ffc60ad",
+      "sha256": "e4a6206bfd64155719dcbf68c6432b65b651da8f93ffdc92bfda37ee7427a3ab",
+      "bytes": 1877
+    },
+    {
+      "file": "inputs/documentation/build_gosm_openness_data.py",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/web/build_gosm_openness_data.py",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/web/build_gosm_openness_data.py",
+      "git_blob_sha1": "2eb75746812dae06321a1cec05dc546b83e5de41",
+      "sha256": "677f84013da8e639618c9ad9af37d15f3cb22439de1bd6ca1a8ad102b6f7fad5",
+      "bytes": 6395
+    },
+    {
+      "file": "inputs/documentation/gosm-openness.js",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "preview/web/gosm-openness.js",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/web/gosm-openness.js",
+      "git_blob_sha1": "8e1e893045c12b5794bd53dab65c855b3e711faf",
+      "sha256": "9d3521cbe5982fd86ce12051933a4b6b8a3b037daad564bc3570dcef13a20e87",
+      "bytes": 56085
+    },
+    {
+      "file": "inputs/documentation/data-README.md",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "data/README.md",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/README.md",
+      "git_blob_sha1": "4dfb3eaa7fe9cafb9f49161d005bc678e2ed6017",
+      "sha256": "b846259c78bd9afc801aa292d687b0f633a62b512fc18b0b07e0d95ca7be426a",
+      "bytes": 21737
+    },
+    {
+      "file": "inputs/documentation/data-availability.md",
+      "source_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+      "commit": "c51e3441361407b68f10b339d97eff288319b503",
+      "repository_path": "data/meta/数据可用性清单.md",
+      "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/meta/数据可用性清单.md",
+      "git_blob_sha1": "59c40d97ae737b9ffb433e75cba20bd693fdc0cb",
+      "sha256": "f72c4a6e0fc144754114e304b50fcd2b1edad075fd5bba849a555d13fffa8da1",
+      "bytes": 21307
+    },
+    {
+      "file": "inputs/documentation/report-constitution.md",
+      "source_repository": "will-ww/2026-GOSD-Report",
+      "commit": "b3f7fd60400d6b46e1c3086b225e5b348a753c47",
+      "repository_path": "docs/report-constitution.md",
+      "source_url": "https://github.com/will-ww/2026-GOSD-Report/blob/b3f7fd60400d6b46e1c3086b225e5b348a753c47/docs/report-constitution.md",
+      "git_blob_sha1": "a5375ddcea133f50e4406e09d070721d6d54870e",
+      "sha256": "5b1cbeae9869507cdb3bcbd049137a17bae22f4ae16481ee92b5602daf9f800b",
+      "bytes": 14485
+    },
+    {
+      "file": "inputs/documentation/review-checklist.md",
+      "source_repository": "will-ww/2026-GOSD-Report",
+      "commit": "b3f7fd60400d6b46e1c3086b225e5b348a753c47",
+      "repository_path": "docs/review-checklist.md",
+      "source_url": "https://github.com/will-ww/2026-GOSD-Report/blob/b3f7fd60400d6b46e1c3086b225e5b348a753c47/docs/review-checklist.md",
+      "git_blob_sha1": "3a62d7e1fd7ff46e35874d7dd2fd065a1a450ee6",
+      "sha256": "ef1221ec906a36962ca792a219f4cb6e587afc55259fb708d0a93830fd9af6c3",
+      "bytes": 5702
+    }
+  ],
+  "compatibility_aliases": [
+    {
+      "file": "inputs/fig-5-3-1_openness_quadrants.csv",
+      "source": "inputs/report870/fig-5-3-1_openness_quadrants.csv",
+      "sha256": "faa29a52488561319476c54b94728751b34e11bcfdf87368ed4cb813fd9e389e"
+    },
+    {
+      "file": "inputs/fig-5-3-2_openness_region_structure.csv",
+      "source": "inputs/report870/fig-5-3-2_openness_region_structure.csv",
+      "sha256": "7647863d7843514a5c790f24d39310196103a22927f71cb4c4262622a38d7a3b"
+    },
+    {
+      "file": "inputs/fig-5-3-3_openness_publisher_types.csv",
+      "source": "inputs/report870/fig-5-3-3_openness_publisher_types.csv",
+      "sha256": "94d63f011007a6c499a08cf946ecb1b6beb98b65a4183c1e7ae37cfc1846be35"
+    },
+    {
+      "file": "inputs/openness53-methods.md",
+      "source": "inputs/gosm/openness53-methods.md",
+      "sha256": "80577c8fb0f8c42a745e016ee1211352d0d55d1c6880d3b6f87d91f654ecd532"
+    },
+    {
+      "file": "inputs/openness53.json",
+      "source": "inputs/gosm/openness53.json",
+      "sha256": "dce1a49cf48695bd5d3484ab5f0900a67e5f7381da9181268fbee89f2763eb6a"
+    },
+    {
+      "file": "inputs/openness-evidence-884.json.gz",
+      "source": "inputs/gosm/openness-evidence-884.json.gz",
+      "sha256": "5995fc3a16db1e0db13f2aeebba96b15c07eff8642ba38a3444d71ab9c759ec5"
+    },
+    {
+      "file": "inputs/openness-current.json.gz",
+      "source": "inputs/gosm/openness-current.json.gz",
+      "sha256": "28edf24dcfc17dad588ce48d02066e94175ffa6dcc0be92879a6aa3e7e19d297"
+    },
+    {
+      "file": "inputs/openness-method.json",
+      "source": "inputs/gosm/openness-method.json",
+      "sha256": "2b3cb6a5c5cc38e656dfbb80dca5bfecfd01e94ebc506032fd764b063a3736b2"
+    },
+    {
+      "file": "inputs/cases.json",
+      "source": "inputs/gosm/cases.json",
+      "sha256": "467c4e9d7a379bc2cff1e05afaa4950b45b264da8c46aa9da92f69a389263cd4"
+    },
+    {
+      "file": "inputs/standard-requirements.json",
+      "source": "inputs/gosm/standard-requirements.json",
+      "sha256": "c899cd0d20378d6a7c575d7d982fdc69d50396b4d2d61e97df0ef96c65e6577e"
+    },
+    {
+      "file": "inputs/standard-publication.json",
+      "source": "inputs/gosm/standard-publication.json",
+      "sha256": "35b91a43c954a181b538c513db0f269284279851dae000049bd1fa42f7d6a130"
+    },
+    {
+      "file": "inputs/grading-specification-reference.pdf",
+      "source": "inputs/gosm/grading-specification-reference.pdf",
+      "sha256": "777307467eaae3a1d14f8376f2178dd6c76319a9f3c78a552d8b2ac75756369f"
+    },
+    {
+      "file": "inputs/methods.md",
+      "source": "inputs/gosm/methods.md",
+      "sha256": "b538c3b372e4815f03d5857cf2ac791ec596f97bd70cc8fd97018f4983ef06da"
+    }
+  ]
+}

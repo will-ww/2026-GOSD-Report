@@ -1,0 +1,628 @@
+{
+  "section": "4.5 RISC-V",
+  "title": "RISC-V 开源技术栈：从规范到软件应用",
+  "baseline_repo": "X-lab2017/2026-Global-Open-Source-Development-Report",
+  "baseline_commit": "c51e3441361407b68f10b339d97eff288319b503",
+  "source_dataset": "preview/content/gosl/landscapes.json",
+  "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosl/landscapes.json",
+  "source_classification_ref": "5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830",
+  "target_reporting_window": {
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "timezone": "UTC"
+  },
+  "source_period": "原表标记 2026 · 起止窗口待核",
+  "temporal_status": "项目选择与结构统计仅是固定提交的样本清单，不是已验证主期活动或新增项目统计。原表起止窗口待核。",
+  "logo_retrieval_date": "2026-11-10",
+  "logo_temporal_status": "现行官方标志用于项目识别，不据此证明主期状态，不将期后事件计入主期。",
+  "landscape_type": "功能分区；非依赖图、成熟度评级或市场份额。",
+  "total_repositories": 78,
+  "known_category_count": 7,
+  "pending_repositories": 3,
+  "representative_items": 16,
+  "reading_order": [
+    "RISC-V Programs",
+    "Design Tools, Compilers and Verification",
+    "Implementations",
+    "Operating Systems",
+    "Applications",
+    "Infrastructure",
+    "Libraries"
+  ],
+  "groups": [
+    {
+      "id": "Implementations",
+      "name": "芯片实现",
+      "repository_count": 21,
+      "selected_items": [
+        "OpenTitan",
+        "Caliptra",
+        "Ibex",
+        "CVA6"
+      ]
+    },
+    {
+      "id": "RISC-V Programs",
+      "name": "RISC-V 规范与计划",
+      "repository_count": 18,
+      "selected_items": [
+        "ISA Manual",
+        "Unified DB"
+      ]
+    },
+    {
+      "id": "Design Tools, Compilers and Verification",
+      "name": "设计工具与编译验证",
+      "repository_count": 14,
+      "selected_items": [
+        "Chisel",
+        "Arch Tests"
+      ]
+    },
+    {
+      "id": "Infrastructure",
+      "name": "基础设施",
+      "repository_count": 8,
+      "selected_items": [
+        "PLCT RISC-V CI",
+        "EESSI RISC-V"
+      ]
+    },
+    {
+      "id": "Operating Systems",
+      "name": "操作系统",
+      "repository_count": 7,
+      "selected_items": [
+        "openEuler RISC-V",
+        "Arch RISC-V"
+      ]
+    },
+    {
+      "id": "Applications",
+      "name": "应用",
+      "repository_count": 5,
+      "selected_items": [
+        "RISC Zero",
+        "Tezos RISC-V PVM"
+      ]
+    },
+    {
+      "id": "Libraries",
+      "name": "库",
+      "repository_count": 2,
+      "selected_items": [
+        "Rust embedded/riscv",
+        "librpmi"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "OpenTitan",
+      "repo": "lowRISC/opentitan",
+      "repo_url": "https://github.com/lowRISC/opentitan",
+      "category": "Implementations",
+      "category_zh": "芯片实现",
+      "description": "安全芯片与固件",
+      "maintainer": "lowRISC",
+      "logo_id": "opentitan",
+      "logo_path": "/workspace/shared/gosd45/logos/preview/opentitan.png",
+      "logo_original_path": "/workspace/shared/gosd45/logos/opentitan.png",
+      "logo_source": "https://raw.githubusercontent.com/lowRISC/opentitan/master/doc/opentitan-logo.png",
+      "logo_kind": "项目标志",
+      "logo_is_independent_project_mark": true,
+      "represented_repositories": [
+        "lowRISC/opentitan"
+      ],
+      "classification": "上游分类映射",
+      "classification_source": "https://github.com/riscv-admin/riscv-landscape/blob/b33b96834c6434618894c1e6f948cb4cf55dcb75/landscape.yml",
+      "notes": "官方项目资源；不是重绘或文字替代。",
+      "kind": "project",
+      "logo_identity": "OpenTitan"
+    },
+    {
+      "name": "Caliptra",
+      "repo": "chipsalliance/Caliptra",
+      "repo_url": "https://github.com/chipsalliance/Caliptra",
+      "category": "Implementations",
+      "category_zh": "芯片实现",
+      "description": "硬件信任根家族 · 6仓库",
+      "maintainer": "CHIPS Alliance / Caliptra",
+      "logo_id": "caliptra",
+      "logo_path": "/workspace/shared/gosd45/logos/preview/caliptra.png",
+      "logo_original_path": "/workspace/shared/gosd45/logos/caliptra.svg",
+      "logo_source": "https://raw.githubusercontent.com/chipsalliance/Caliptra/main/doc/images/logo/svg/Caliptra%20color.svg",
+      "logo_kind": "项目标志",
+      "logo_is_independent_project_mark": true,
+      "represented_repositories": [
+        "chipsalliance/caliptra-sw",
+        "chipsalliance/caliptra-mcu-sw",
+        "chipsalliance/caliptra-ss",
+        "chipsalliance/caliptra-rtl",
+        "chipsalliance/Caliptra",
+        "chipsalliance/caliptra-dpe"
+      ],
+      "classification": "编辑归类 · 可共同修订",
+      "classification_source": "https://github.com/chipsalliance/Caliptra",
+      "notes": "官方项目资源；不是重绘或文字替代。",
+      "kind": "project",
+      "logo_identity": "Caliptra"
+    },
+    {
+      "name": "Ibex",
+      "repo": "lowRISC/ibex",
+      "repo_url": "https://github.com/lowRISC/ibex",
+      "category": "Implementations",
+      "category_zh": "芯片实现",
+      "description": "32位 RISC-V 处理器核",
+      "maintainer": "lowRISC",
+      "logo_id": "org_lowRISC",
+      "logo_path": "/workspace/shared/gosd45/logos/preview/org_lowRISC.png",
+      "logo_original_path": "/workspace/shared/gosd45/logos/org_lowRISC.png",
+      "logo_source": "https://avatars.githubusercontent.com/u/7814611?v=4&s=400",
+      "logo_kind": "维护组织标志",
+      "logo_is_independent_project_mark": false,
+      "represented_repositories": [
+        "lowRISC/ibex"
+      ],
+      "classification": "编辑归类 · 可共同修订",
+      "classification_source": "https://github.com/lowRISC/ibex",
+      "notes": "该项目未核实独立标志，明确使用维护组织标志。",
+      "kind": "maintainer",
+      "logo_identity": "lowRISC"
+    },
+    {
+      "name": "CVA6",
+      "repo": "openhwgroup/cva6",
+      "repo_url": "https://github.com/openhwgroup/cva6",
+      "category": "Implementations",
+      "category_zh": "芯片实现",
+      "description": "可配置处理器核",
+      "maintainer": "OpenHW Group",
+      "logo_id": "cva6_openhw",
+      "logo_path": "/workspace/shared/gosd45/logos/preview/cva6_openhw.png",
+      "logo_original_path": "/workspace/shared/gosd45/logos/cva6_openhw.png",
+      "logo_source": "https://raw.githubusercontent.com/openhwgroup/cva6/master/docs/riscv-isa/src/images/ohg_logo.png",
+      "logo_kind": "维护组织标志",
+      "logo_is_independent_project_mark": false,
+      "represented_repositories": [
+        "openhwgroup/cva6"
+      ],
+      "classification": "编辑归类 · 可共同修订",
+      "classification_source": "https://github.com/openhwgroup/cva6",
+      "notes": "该项目未核实独立标志，明确使用维护组织标志。",
+      "kind": "maintainer",
+      "logo_identity": "OpenHW Group"
+    },
+    {
+      "name": "ISA Manual",
+      "repo": "riscv/riscv-isa-manual",
+      "repo_url": "https://github.com/riscv/riscv-isa-manual",
+      "category": "RISC-V Programs",
+      "category_zh": "RISC-V 规范与计划",
+      "description": "指令集规范",
+      "maintainer": "RISC-V International",
+      "logo_id": "org_riscv",
+      "logo_path": "/workspace/shared/gosd45/logos/preview/org_riscv.png",
+      "logo_original_path": "/workspace/shared/gosd45/logos/org_riscv.png",
+      "logo_source": "https://avatars.githubusercontent.com/u/10872782?v=4&s=400",
+      "logo_kind": "维护组织标志",
+      "logo_is_independent_project_mark": false,
+      "represented_repositories": [
+        "riscv/riscv-isa-manual"
+      ],
+      "classification": "编辑归类 · 可共同修订",
+      "classification_source": "https://github.com/riscv/riscv-isa-manual",
+      "notes": "该项目未核实独立标志，明确使用维护组织标志。",
+      "kind": "maintainer",
+      "logo_identity": "RISC-V International"
+    },
+    {
+      "name": "Unified DB",
+      "repo": "riscv/riscv-unified-db",
+      "repo_url": "https://github.com/riscv/riscv-unified-db",
+      "category": "RISC-V Programs",
+      "category_zh": "RISC-V 规范与计划",
+      "description": "机器可读规范数据库",
+      "maintainer": "RISC-V International",
+      "logo_id": "org_riscv",
+      "logo_path": "/workspace/shared/gosd45/logos/preview/org_riscv.png",
+      "logo_original_path": "/workspace/shared/gosd45/logos/org_riscv.png",
+      "logo_source": "https://avatars.githubusercontent.com/u/10872782?v=4&s=400",
+      "logo_kind": "维护组织标志",
+      "logo_is_independent_project_mark": false,
+      "represented_repositories": [
+        "riscv/riscv-unified-db"
+      ],
+      "classification": "编辑归类 · 可共同修订",
+      "classification_source": "https://github.com/riscv/riscv-unified-db",
+      "notes": "该项目未核实独立标志，明确使用维护组织标志。",
+      "kind": "maintainer",
+      "logo_identity": "RISC-V International"
+    },
+    {
+      "name": "Chisel",
+      "repo": "chipsalliance/chisel",
+      "repo_url": "https://github.com/chipsalliance/chisel",
+      "category": "Design Tools, Compilers and Verification",
+      "category_zh": "设计工具与编译验证",
+      "description": "硬件构建语言",
+      "maintainer": "CHIPS Alliance",
+      "logo_id": "chisel",
+      "logo_path": "/workspace/shared/gosd45/logos/preview/chisel.png",
+      "logo_original_path": "/workspace/shared/gosd45/logos/chisel.svg",
+      "logo_source": "https://raw.githubusercontent.com/chipsalliance/chisel/main/docs/src/images/chisel_logo.svg",
+      "logo_kind": "项目标志",
+      "logo_is_independent_project_mark": true,
+      "represented_repositories": [
+        "chipsalliance/chisel"
+      ],
+      "classification": "编辑归类 · 可共同修订",
+      "classification_source": "https://github.com/chipsalliance/chisel",
+      "notes": "官方项目资源；不是重绘或文字替代。",
+      "kind": "project",
+      "logo_identity": "Chisel"
+    },
+    {
+      "name": "Arch Tests",
+      "repo": "riscv/riscv-arch-test",
+      "repo_url": "https://github.com/riscv/riscv-arch-test",
+      "category": "Design Tools, Compilers and Verification",
+      "category_zh": "设计工具与编译验证",
+      "description": "架构一致性测试",
+      "maintainer": "RISC-V International",
+      "logo_id": "org_riscv",
+      "logo_path": "/workspace/shared/gosd45/logos/preview/org_riscv.png",
+      "logo_original_path": "/workspace/shared/gosd45/logos/org_riscv.png",
+      "logo_source": "https://avatars.githubusercontent.com/u/10872782?v=4&s=400",
+      "logo_kind": "维护组织标志",
+      "logo_is_independent_project_mark": false,
+      "represented_repositories": [
+        "riscv/riscv-arch-test"
+      ],
+      "classification": "编辑归类 · 可共同修订",
+      "classification_source": "https://github.com/riscv/riscv-arch-test",
+      "notes": "该项目未核实独立标志，明确使用维护组织标志。",
+      "kind": "maintainer",
+      "logo_identity": "RISC-V International"
+    },
+    {
+      "name": "openEuler RISC-V",
+      "repo": "openeuler-riscv/oerv-team",
+      "repo_url": "https://github.com/openeuler-riscv/oerv-team",
+      "category": "Operating Systems",
+      "category_zh": "操作系统",
+      "description": "发行版移植与维护",
+      "maintainer": "openEuler RISC-V",
+      "logo_id": "org_openeuler-riscv",
+      "logo_path": "/workspace/shared/gosd45/logos/preview/org_openeuler-riscv.png",
+      "logo_original_path": "/workspace/shared/gosd45/logos/org_openeuler-riscv.png",
+      "logo_source": "https://avatars.githubusercontent.com/u/149658972?v=4&s=400",
+      "logo_kind": "维护组织标志",
+      "logo_is_independent_project_mark": false,
+      "represented_repositories": [
+        "openeuler-riscv/oerv-team"
+      ],
+      "classification": "编辑归类 · 可共同修订",
+      "classification_source": "https://github.com/openeuler-riscv/oerv-team",
+      "notes": "该项目未核实独立标志，明确使用维护组织标志。",
+      "kind": "maintainer",
+      "logo_identity": "openEuler RISC-V"
+    },
+    {
+      "name": "Arch RISC-V",
+      "repo": "felixonmars/archriscv-packages",
+      "repo_url": "https://github.com/felixonmars/archriscv-packages",
+      "category": "Operating Systems",
+      "category_zh": "操作系统",
+      "description": "Arch 软件包移植",
+      "maintainer": "felixonmars / Arch Linux RISC-V community",
+      "logo_id": "archlinux",
+      "logo_path": "/workspace/shared/gosd45/logos/preview/archlinux.png",
+      "logo_original_path": "/workspace/shared/gosd45/logos/archlinux.svg",
+      "logo_source": "https://archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f04ca9.svg",
+      "logo_kind": "上游发行版标志",
+      "logo_is_independent_project_mark": false,
+      "represented_repositories": [
+        "felixonmars/archriscv-packages"
+      ],
+      "classification": "编辑归类 · 可共同修订",
+      "classification_source": "https://github.com/felixonmars/archriscv-packages",
+      "notes": "上游发行版标志，不是该移植仓库的独立标志。",
+      "kind": "upstream",
+      "logo_identity": "Arch Linux"
+    },
+    {
+      "name": "RISC Zero",
+      "repo": "risc0/risc0",
+      "repo_url": "https://github.com/risc0/risc0",
+      "category": "Applications",
+      "category_zh": "应用",
+      "description": "基于 RISC-V 的零知识虚拟机",
+      "maintainer": "RISC Zero",
+      "logo_id": "risc0",
+      "logo_path": "/workspace/shared/gosd45/logos/preview/risc0.png",
+      "logo_original_path": "/workspace/shared/gosd45/logos/risc0.svg",
+      "logo_source": "https://raw.githubusercontent.com/risc0/risc0/main/website/static/img/logo.svg",
+      "logo_kind": "项目标志",
+      "logo_is_independent_project_mark": true,
+      "represented_repositories": [
+        "risc0/risc0"
+      ],
+      "classification": "编辑归类 · 可共同修订",
+      "classification_source": "https://github.com/risc0/risc0",
+      "notes": "官方项目资源；不是重绘或文字替代。",
+      "kind": "project",
+      "logo_identity": "RISC Zero"
+    },
+    {
+      "name": "Tezos RISC-V PVM",
+      "repo": "tezos/riscv-pvm",
+      "repo_url": "https://github.com/tezos/riscv-pvm",
+      "category": "Applications",
+      "category_zh": "应用",
+      "description": "可证明执行虚拟机",
+      "maintainer": "Tezos",
+      "logo_id": "org_tezos",
+      "logo_path": "/workspace/shared/gosd45/logos/preview/org_tezos.png",
+      "logo_original_path": "/workspace/shared/gosd45/logos/org_tezos.png",
+      "logo_source": "https://avatars.githubusercontent.com/u/21209817?v=4&s=400",
+      "logo_kind": "维护组织标志",
+      "logo_is_independent_project_mark": false,
+      "represented_repositories": [
+        "tezos/riscv-pvm"
+      ],
+      "classification": "编辑归类 · 可共同修订",
+      "classification_source": "https://github.com/tezos/riscv-pvm",
+      "notes": "该项目未核实独立标志，明确使用维护组织标志。",
+      "kind": "maintainer",
+      "logo_identity": "Tezos"
+    },
+    {
+      "name": "PLCT RISC-V CI",
+      "repo": "plctlab/riscv-ci",
+      "repo_url": "https://github.com/plctlab/riscv-ci",
+      "category": "Infrastructure",
+      "category_zh": "基础设施",
+      "description": "持续集成基础设施",
+      "maintainer": "PLCT Lab",
+      "logo_id": "org_plctlab",
+      "logo_path": "/workspace/shared/gosd45/logos/preview/org_plctlab.png",
+      "logo_original_path": "/workspace/shared/gosd45/logos/org_plctlab.png",
+      "logo_source": "https://avatars.githubusercontent.com/u/74488655?v=4&s=400",
+      "logo_kind": "维护组织标志",
+      "logo_is_independent_project_mark": false,
+      "represented_repositories": [
+        "plctlab/riscv-ci"
+      ],
+      "classification": "编辑归类 · 可共同修订",
+      "classification_source": "https://github.com/plctlab/riscv-ci",
+      "notes": "该项目未核实独立标志，明确使用维护组织标志。",
+      "kind": "maintainer",
+      "logo_identity": "PLCT Lab"
+    },
+    {
+      "name": "EESSI RISC-V",
+      "repo": "EESSI/dev.eessi.io-riscv",
+      "repo_url": "https://github.com/EESSI/dev.eessi.io-riscv",
+      "category": "Infrastructure",
+      "category_zh": "基础设施",
+      "description": "软件分发基础设施",
+      "maintainer": "EESSI",
+      "logo_id": "org_EESSI",
+      "logo_path": "/workspace/shared/gosd45/logos/preview/org_EESSI.png",
+      "logo_original_path": "/workspace/shared/gosd45/logos/org_EESSI.png",
+      "logo_source": "https://avatars.githubusercontent.com/u/64691137?v=4&s=400",
+      "logo_kind": "维护组织标志",
+      "logo_is_independent_project_mark": false,
+      "represented_repositories": [
+        "EESSI/dev.eessi.io-riscv"
+      ],
+      "classification": "编辑归类 · 可共同修订",
+      "classification_source": "https://github.com/EESSI/dev.eessi.io-riscv",
+      "notes": "该项目未核实独立标志，明确使用维护组织标志。",
+      "kind": "maintainer",
+      "logo_identity": "EESSI"
+    },
+    {
+      "name": "Rust embedded/riscv",
+      "repo": "rust-embedded/riscv",
+      "repo_url": "https://github.com/rust-embedded/riscv",
+      "category": "Libraries",
+      "category_zh": "库",
+      "description": "RISC-V 底层支持库",
+      "maintainer": "Rust Embedded",
+      "logo_id": "org_rust-embedded",
+      "logo_path": "/workspace/shared/gosd45/logos/preview/org_rust-embedded.png",
+      "logo_original_path": "/workspace/shared/gosd45/logos/org_rust-embedded.png",
+      "logo_source": "https://avatars.githubusercontent.com/u/17707713?v=4&s=400",
+      "logo_kind": "维护组织标志",
+      "logo_is_independent_project_mark": false,
+      "represented_repositories": [
+        "rust-embedded/riscv"
+      ],
+      "classification": "编辑归类 · 可共同修订",
+      "classification_source": "https://github.com/rust-embedded/riscv",
+      "notes": "该项目未核实独立标志，明确使用维护组织标志。",
+      "kind": "maintainer",
+      "logo_identity": "Rust Embedded"
+    },
+    {
+      "name": "librpmi",
+      "repo": "riscv-software-src/librpmi",
+      "repo_url": "https://github.com/riscv-software-src/librpmi",
+      "category": "Libraries",
+      "category_zh": "库",
+      "description": "平台管理接口库",
+      "maintainer": "RISC-V Software",
+      "logo_id": "org_riscv-software-src",
+      "logo_path": "/workspace/shared/gosd45/logos/preview/org_riscv-software-src.png",
+      "logo_original_path": "/workspace/shared/gosd45/logos/org_riscv-software-src.jpg",
+      "logo_source": "https://avatars.githubusercontent.com/u/89536631?v=4&s=400",
+      "logo_kind": "维护组织标志",
+      "logo_is_independent_project_mark": false,
+      "represented_repositories": [
+        "riscv-software-src/librpmi"
+      ],
+      "classification": "编辑归类 · 可共同修订",
+      "classification_source": "https://github.com/riscv-software-src/librpmi",
+      "notes": "该项目未核实独立标志，明确使用维护组织标志。",
+      "kind": "maintainer",
+      "logo_identity": "RISC-V Software"
+    }
+  ],
+  "supporting_statistic": {
+    "title": "冻结样本的功能结构",
+    "unit": "仓库条目",
+    "rows": [
+      {
+        "category": "Implementations",
+        "category_zh": "芯片实现",
+        "count": 21,
+        "share_percent": 26.9
+      },
+      {
+        "category": "RISC-V Programs",
+        "category_zh": "RISC-V 规范与计划",
+        "count": 18,
+        "share_percent": 23.1
+      },
+      {
+        "category": "Design Tools, Compilers and Verification",
+        "category_zh": "设计工具与编译验证",
+        "count": 14,
+        "share_percent": 17.9
+      },
+      {
+        "category": "Infrastructure",
+        "category_zh": "基础设施",
+        "count": 8,
+        "share_percent": 10.3
+      },
+      {
+        "category": "Operating Systems",
+        "category_zh": "操作系统",
+        "count": 7,
+        "share_percent": 9.0
+      },
+      {
+        "category": "Applications",
+        "category_zh": "应用",
+        "count": 5,
+        "share_percent": 6.4
+      },
+      {
+        "category": "Libraries",
+        "category_zh": "库",
+        "count": 2,
+        "share_percent": 2.6
+      },
+      {
+        "category": "pending",
+        "category_zh": "分类与样本待核",
+        "count": 3,
+        "share_percent": 3.8
+      }
+    ],
+    "denominator": 78,
+    "calculation": "对 datasets[id=riscv].projects[].category 计数；与原CSV按repo逐项对齐；不使用OpenRank。",
+    "summary": "实现、规范与构建验证共53条，占78条样本的67.9%。",
+    "warnings": [
+      "样本不是完整生态普查。",
+      "仓库条目不等于独立项目。",
+      "分类含编辑归类，另有3条待核。",
+      "不是2025-07至2026-06窗口内活跃度、增速或采用规模。"
+    ]
+  },
+  "short_insights": [
+    "规范、实现与构建验证占53/78条（67.9%），样本重心仍在开放技术栈的基础层。",
+    "Caliptra家族拆为6个仓库，OpenTitan以综合仓库入样；比较生态时应先统一项目粒度。"
+  ],
+  "recommended_footnote": "固定提交c51e344的78条仓库记录，16个代表项。四区合并阅读，保留七类；非完整名录/依赖图。组织及上游标志均标注。原表仅标2026，起止窗口待核。",
+  "excluded": [
+    "未核窗口的OpenRank及五年趋势",
+    "原文“应用由62增至424、近7倍”的跨年份混读",
+    "国家OpenRank直接解释为芯片控制权、采用或市场份额",
+    "2026-11 ACT4等期后观察"
+  ],
+  "missing_logos": [],
+  "independent_project_logos_not_verified": [
+    "Ibex",
+    "CVA6",
+    "ISA Manual",
+    "Unified DB",
+    "Arch Tests",
+    "openEuler RISC-V",
+    "Arch RISC-V",
+    "Tezos RISC-V PVM",
+    "PLCT RISC-V CI",
+    "EESSI RISC-V",
+    "Rust embedded/riscv",
+    "librpmi"
+  ],
+  "files": {
+    "logo_inventory": "/workspace/shared/gosd45/logo_assets.json",
+    "selected_manifest": "/workspace/shared/gosd45/landscape_manifest.json",
+    "category_counts": "/workspace/shared/gosd45/category_counts.csv",
+    "classification_records": "/workspace/shared/gosd45/frozen_repository_classification.csv",
+    "logo_contact_sheet": "/workspace/shared/gosd45/logo_contact_sheet.png"
+  },
+  "layout_groups": [
+    {
+      "id": "specs_tools",
+      "name": "规范与工具",
+      "category_ids": [
+        "RISC-V Programs",
+        "Design Tools, Compilers and Verification"
+      ],
+      "projects": [
+        "ISA Manual",
+        "Unified DB",
+        "Chisel",
+        "Arch Tests"
+      ]
+    },
+    {
+      "id": "implementation_firmware",
+      "name": "实现与固件",
+      "category_ids": [
+        "Implementations"
+      ],
+      "projects": [
+        "OpenTitan",
+        "Caliptra",
+        "Ibex",
+        "CVA6"
+      ]
+    },
+    {
+      "id": "systems_libraries",
+      "name": "系统与库",
+      "category_ids": [
+        "Operating Systems",
+        "Libraries"
+      ],
+      "projects": [
+        "openEuler RISC-V",
+        "Arch RISC-V",
+        "Rust embedded/riscv",
+        "librpmi"
+      ]
+    },
+    {
+      "id": "applications_infrastructure",
+      "name": "应用与基础设施",
+      "category_ids": [
+        "Applications",
+        "Infrastructure"
+      ],
+      "projects": [
+        "RISC Zero",
+        "Tezos RISC-V PVM",
+        "PLCT RISC-V CI",
+        "EESSI RISC-V"
+      ]
+    }
+  ],
+  "layout_note": "四大阅读区合并呈现，项目仍保留原七技术领域标签；功能分区并不表示依赖关系。"
+}

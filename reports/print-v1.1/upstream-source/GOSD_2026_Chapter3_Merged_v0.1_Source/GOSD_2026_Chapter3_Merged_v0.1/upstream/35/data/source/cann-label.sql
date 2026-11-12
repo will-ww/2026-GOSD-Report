@@ -1,0 +1,1 @@
+SELECT * FROM labels WHERE id=':companies/huawei/cann' FORMAT JSON

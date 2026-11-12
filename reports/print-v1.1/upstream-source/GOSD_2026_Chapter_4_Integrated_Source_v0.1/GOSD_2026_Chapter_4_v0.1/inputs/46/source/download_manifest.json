@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/landscape.yml",
+    "path": "sources/upstream-landscape.yml",
+    "sha256": "3b827bd1f2452fe51469814191e08d8e5d386d87aae0d003263d98c77a43ad15"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/README.md",
+    "path": "sources/upstream-README.md",
+    "sha256": "e425c8ae6a13ec757d934e633431390f42fccb0b9ae50d79e77c10dad9c45941"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/pytorch-logo.svg",
+    "path": "assets/pytorch-logo.svg",
+    "sha256": "4cbcf1c5a2dac51d806b8b77e75bc16928d68e7285f4976f51038c3daf19015e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/PyTorch_Project_torchao.svg",
+    "path": "assets/PyTorch_Project_torchao.svg",
+    "sha256": "c003dde8187b3704caf872e2640e7c094417250badf4dd8566e0f9a0a9a0ed29"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/helion.svg",
+    "path": "assets/helion.svg",
+    "sha256": "322e2fe5e19debd3a8da5c39cfe00498d6e48eeb6abeba6eb95f218cf3ad7578"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/PyTorch_Project_torchvision.svg",
+    "path": "assets/PyTorch_Project_torchvision.svg",
+    "sha256": "efddb237e0b95e9f8f49ab0f9288331aaf995c6d78be245e34442a65a24036e1"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/TensorRT.svg",
+    "path": "assets/TensorRT.svg",
+    "sha256": "4f989a93ed1d94f385ea087a6a53af31aae2cfa48f9a45074b22f49322f0391b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/PyTorch_Project_xla.svg",
+    "path": "assets/PyTorch_Project_xla.svg",
+    "sha256": "ac8854a605886bc368794a512167b9e1dd2effa20e6726f128b3110f8fb6763b"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/PyTorch_Project_torchrl.svg",
+    "path": "assets/PyTorch_Project_torchrl.svg",
+    "sha256": "834caac57756fafa5bd9ff74f6e9ad2eeaf9a6a348ee8ca1072262b76efb00ba"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/PyTorch_Project_torchaudio.svg",
+    "path": "assets/PyTorch_Project_torchaudio.svg",
+    "sha256": "71b57d2dd9dc0115ae3528db4bb81f387843faf34e6a350645ffcde4a0127614"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/PyTorch_Project_tensordict.svg",
+    "path": "assets/PyTorch_Project_tensordict.svg",
+    "sha256": "87bc4ff3d74ae088c75a5dbd1fae97bf82cedb6548ebb428982abf2cfbe3f3fb"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pytorch-fdn/landscape/bd7a33990fd445802d45c10e3679278358c958c3/hosted_logos/ignite_mixed.svg",
+    "path": "assets/ignite_mixed.svg",
+    "sha256": "47603e2bf346c493938f986a2d7068a26d0b704be61a2fb9efdac91ea672d8c1"
+  }
+]

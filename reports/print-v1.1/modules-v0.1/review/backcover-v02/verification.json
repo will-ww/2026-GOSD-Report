@@ -1,0 +1,39 @@
+{
+  "version": "module 8 v0.2",
+  "changed_pages": [
+    24
+  ],
+  "unchanged_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "page_count": 24,
+  "bookmarks_preserved": true,
+  "page_labels_preserved": true,
+  "back_cover_text": "共同创造\n开放的智能未来\nOPEN SOURCE, A SHARED INTELLIGENT FUTURE\n",
+  "background_image_only": true,
+  "fonts_embedded": true,
+  "file": "/workspace/scratch/77ced49644f0/modules-v0.1/output/pdf/GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.2.pdf",
+  "sha256": "a8234b189a04eca64286fc60745ca52911d81eb6684976058bce4049cea6e54c"
+}

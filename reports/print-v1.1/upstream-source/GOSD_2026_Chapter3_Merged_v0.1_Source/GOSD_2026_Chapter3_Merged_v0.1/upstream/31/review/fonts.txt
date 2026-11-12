@@ -1,0 +1,12 @@
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+HECGUA+NotoSansCJKsc-Bold-Identity-H CID Type 0C       Identity-H       yes yes yes     29  0
+WIOFGA+NotoSansCJKsc-Regular-Identity-H CID Type 0C       Identity-H       yes yes yes     31  0
+HCYVAY+LiberationSans                CID TrueType      Identity-H       yes yes yes     33  0
+PCZFCR+NotoSerifCJKsc-Regular-Identity-H CID Type 0C       Identity-H       yes yes yes     91  0
+APANDY+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes     78  0
+AGGDFK+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes     83  0
+BMWJSJ+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes     96  0
+QGOGJY+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    101  0
+BSTXGV+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    146  0
+HMCOMN+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    151  0

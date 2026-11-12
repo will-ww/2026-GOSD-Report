@@ -1,0 +1,858 @@
+{
+	"meta":
+	[
+		{
+			"name": "id",
+			"type": "LowCardinality(String)"
+		},
+		{
+			"name": "name",
+			"type": "String"
+		},
+		{
+			"name": "platform",
+			"type": "LowCardinality(String)"
+		},
+		{
+			"name": "repo_id",
+			"type": "UInt64"
+		},
+		{
+			"name": "repo_name",
+			"type": "String"
+		},
+		{
+			"name": "openrank",
+			"type": "Float64"
+		}
+	],
+
+	"data":
+	[
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"platform": "GitHub",
+			"repo_id": "510708090",
+			"repo_name": "namada-net\/namada-interface",
+			"openrank": 80.48
+		},
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"platform": "GitHub",
+			"repo_id": "510559980",
+			"repo_name": "namada-net\/namada",
+			"openrank": 80
+		},
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"platform": "GitHub",
+			"repo_id": "805329444",
+			"repo_name": "namada-net\/namada-governance-upgrades",
+			"openrank": 16.75
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"platform": "GitHub",
+			"repo_id": "33884891",
+			"repo_name": "apache\/airflow",
+			"openrank": 3110.5
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"platform": "GitHub",
+			"repo_id": "99919302",
+			"repo_name": "apache\/doris",
+			"openrank": 2107.15
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"platform": "GitHub",
+			"repo_id": "17165658",
+			"repo_name": "apache\/spark",
+			"openrank": 1744.14
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"platform": "GitHub",
+			"repo_id": "234798675",
+			"repo_name": "bevyengine\/bevy",
+			"openrank": 1481.67
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"platform": "GitHub",
+			"repo_id": "248689491",
+			"repo_name": "bevyengine\/bevy-website",
+			"openrank": 151.77
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"platform": "GitHub",
+			"repo_id": "1014163011",
+			"repo_name": "bevyengine\/twitcher",
+			"openrank": 84.25
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"platform": "GitHub",
+			"repo_id": "244694174",
+			"repo_name": "project-chip\/connectedhomeip",
+			"openrank": 1659.85
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"platform": "GitHub",
+			"repo_id": "673851163",
+			"repo_name": "project-chip\/certification-tool",
+			"openrank": 85.63
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"platform": "GitHub",
+			"repo_id": "250621901",
+			"repo_name": "project-chip\/zap",
+			"openrank": 57.72
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"platform": "GitHub",
+			"repo_id": "138754790",
+			"repo_name": "duckdb\/duckdb",
+			"openrank": 958.38
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"platform": "GitHub",
+			"repo_id": "155379486",
+			"repo_name": "duckdb\/duckdb-web",
+			"openrank": 222.49
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"platform": "GitHub",
+			"repo_id": "809730105",
+			"repo_name": "duckdb\/community-extensions",
+			"openrank": 205.8
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"platform": "GitHub",
+			"repo_id": "226955212",
+			"repo_name": "eclipse\/openvsx",
+			"openrank": 86.31
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"platform": "GitHub",
+			"repo_id": "285060286",
+			"repo_name": "eclipse\/editdor",
+			"openrank": 12.85
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"platform": "GitHub",
+			"repo_id": "20253182",
+			"repo_name": "eclipse\/mraa",
+			"openrank": 4.55
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"platform": "GitHub",
+			"repo_id": "534011733",
+			"repo_name": "Farama-Foundation\/Gymnasium",
+			"openrank": 95.75
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"platform": "GitHub",
+			"repo_id": "38127500",
+			"repo_name": "Farama-Foundation\/ViZDoom",
+			"openrank": 33.5
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"platform": "GitHub",
+			"repo_id": "235012937",
+			"repo_name": "Farama-Foundation\/PettingZoo",
+			"openrank": 21.23
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"platform": "GitHub",
+			"repo_id": "13491895",
+			"repo_name": "EbookFoundation\/free-programming-books",
+			"openrank": 198.86
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"platform": "GitHub",
+			"repo_id": "898598281",
+			"repo_name": "EbookFoundation\/altpoet",
+			"openrank": 6.04
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"platform": "GitHub",
+			"repo_id": "136947098",
+			"repo_name": "EbookFoundation\/regluit-provisioning",
+			"openrank": 2.42
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"platform": "GitHub",
+			"repo_id": "40499714",
+			"repo_name": "gentoo\/gentoo",
+			"openrank": 1476.33
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"platform": "GitHub",
+			"repo_id": "247912857",
+			"repo_name": "gentoo\/guru",
+			"openrank": 61.87
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"platform": "GitHub",
+			"repo_id": "15839027",
+			"repo_name": "gentoo\/portage",
+			"openrank": 60.61
+		},
+		{
+			"id": ":foundations\/girlscript",
+			"name": "GirlScript Foundation",
+			"platform": "GitHub",
+			"repo_id": "798084780",
+			"repo_name": "GSSoC24\/Contributor",
+			"openrank": 1.08
+		},
+		{
+			"id": ":foundations\/girlscript",
+			"name": "GirlScript Foundation",
+			"platform": "GitHub",
+			"repo_id": "829386281",
+			"repo_name": "GSSoC24\/Postman-Challenge",
+			"openrank": 0.41
+		},
+		{
+			"id": ":foundations\/girlscript",
+			"name": "GirlScript Foundation",
+			"platform": "GitHub",
+			"repo_id": "787948794",
+			"repo_name": "GSSoC24\/alumni",
+			"openrank": 0.25
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"platform": "GitHub",
+			"repo_id": "15634981",
+			"repo_name": "godotengine\/godot",
+			"openrank": 4460.13
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"platform": "GitHub",
+			"repo_id": "180609575",
+			"repo_name": "godotengine\/godot-proposals",
+			"openrank": 568.67
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"platform": "GitHub",
+			"repo_id": "47882383",
+			"repo_name": "godotengine\/godot-docs",
+			"openrank": 359.02
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"platform": "GitHub",
+			"repo_id": "59771425",
+			"repo_name": "zephyrproject-rtos\/zephyr",
+			"openrank": 7911.6
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"platform": "GitHub",
+			"repo_id": "52558133",
+			"repo_name": "sonic-net\/sonic-mgmt",
+			"openrank": 2056.83
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"platform": "GitHub",
+			"repo_id": "53432472",
+			"repo_name": "sonic-net\/sonic-buildimage",
+			"openrank": 1264.7
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"platform": "GitHub",
+			"repo_id": "846698999",
+			"repo_name": "block\/goose",
+			"openrank": 1258.77
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"platform": "GitHub",
+			"repo_id": "862578138",
+			"repo_name": "modelcontextprotocol\/typescript-sdk",
+			"openrank": 765.57
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"platform": "GitHub",
+			"repo_id": "862584018",
+			"repo_name": "modelcontextprotocol\/python-sdk",
+			"openrank": 718.89
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"platform": "GitHub",
+			"repo_id": "20580498",
+			"repo_name": "kubernetes\/kubernetes",
+			"openrank": 3509.1
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"platform": "GitHub",
+			"repo_id": "48109239",
+			"repo_name": "cilium\/cilium",
+			"openrank": 2027.67
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"platform": "GitHub",
+			"repo_id": "196414933",
+			"repo_name": "open-telemetry\/opentelemetry-collector-contrib",
+			"openrank": 1720.67
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"platform": "GitHub",
+			"repo_id": "635112935",
+			"repo_name": "finopsfoundation\/focus_validator",
+			"openrank": 6.65
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"platform": "GitHub",
+			"repo_id": "1167474615",
+			"repo_name": "finopsfoundation\/focus_scrub",
+			"openrank": 0.98
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"platform": "GitHub",
+			"repo_id": "667179837",
+			"repo_name": "finopsfoundation\/focus_converters",
+			"openrank": 0.76
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"platform": "GitHub",
+			"repo_id": "206414745",
+			"repo_name": "hyperledger\/besu",
+			"openrank": 445.41
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"platform": "GitHub",
+			"repo_id": "216610150",
+			"repo_name": "hyperledger-cacti\/cacti",
+			"openrank": 183.52
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"platform": "GitHub",
+			"repo_id": "1011906691",
+			"repo_name": "hyperledger\/fabric-x-orderer",
+			"openrank": 110.19
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"platform": "GitHub",
+			"repo_id": "208728772",
+			"repo_name": "milvus-io\/milvus",
+			"openrank": 1172.98
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"platform": "GitHub",
+			"repo_id": "182849188",
+			"repo_name": "delta-io\/delta",
+			"openrank": 561.74
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"platform": "GitHub",
+			"repo_id": "102692863",
+			"repo_name": "onnx\/onnx",
+			"openrank": 307.2
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"platform": "GitHub",
+			"repo_id": "182198941",
+			"repo_name": "lf-edge\/eve",
+			"openrank": 263.66
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"platform": "GitHub",
+			"repo_id": "195003588",
+			"repo_name": "lf-edge\/ekuiper",
+			"openrank": 70.22
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"platform": "GitHub",
+			"repo_id": "225508004",
+			"repo_name": "fledge-iot\/fledge",
+			"openrank": 59.43
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"platform": "GitHub",
+			"repo_id": "373643956",
+			"repo_name": "l3af-project\/l3afd",
+			"openrank": 25.09
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"platform": "GitHub",
+			"repo_id": "96556718",
+			"repo_name": "FDio\/vpp",
+			"openrank": 17.82
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"platform": "GitHub",
+			"repo_id": "96557007",
+			"repo_name": "FDio\/govpp",
+			"openrank": 15.89
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"platform": "GitHub",
+			"repo_id": "354743391",
+			"repo_name": "o3de\/o3de",
+			"openrank": 330.5
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"platform": "GitHub",
+			"repo_id": "505912410",
+			"repo_name": "o3de\/o3de-extras",
+			"openrank": 71.26
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"platform": "GitHub",
+			"repo_id": "301861568",
+			"repo_name": "o3de\/o3de.org",
+			"openrank": 31.23
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"platform": "GitHub",
+			"repo_id": "11061773",
+			"repo_name": "eslint\/eslint",
+			"openrank": 3690.61
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"platform": "GitHub",
+			"repo_id": "27193779",
+			"repo_name": "nodejs\/node",
+			"openrank": 1920.99
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"platform": "GitHub",
+			"repo_id": "3678731",
+			"repo_name": "webpack\/webpack",
+			"openrank": 1790.85
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"platform": "GitHub",
+			"repo_id": "335952417",
+			"repo_name": "sigstore\/cosign",
+			"openrank": 150.39
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"platform": "GitHub",
+			"repo_id": "767030962",
+			"repo_name": "guacsec\/trustify",
+			"openrank": 105.55
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"platform": "GitHub",
+			"repo_id": "558971199",
+			"repo_name": "gittuf\/gittuf",
+			"openrank": 105.2
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"platform": "GitHub",
+			"repo_id": "5349565",
+			"repo_name": "prestodb\/presto",
+			"openrank": 915.66
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"platform": "GitHub",
+			"repo_id": "782661155",
+			"repo_name": "prestodb\/pbench",
+			"openrank": 22.02
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"platform": "GitHub",
+			"repo_id": "209642759",
+			"repo_name": "prestodb\/airlift",
+			"openrank": 17.52
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"platform": "GitHub",
+			"repo_id": "65600975",
+			"repo_name": "pytorch\/pytorch",
+			"openrank": 9423.01
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"platform": "GitHub",
+			"repo_id": "599547518",
+			"repo_name": "vllm-project\/vllm",
+			"openrank": 6959.39
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"platform": "GitHub",
+			"repo_id": "71932349",
+			"repo_name": "ray-project\/ray",
+			"openrank": 2557.75
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"platform": "GitHub",
+			"repo_id": "80689539",
+			"repo_name": "riscv\/riscv-isa-manual",
+			"openrank": 313.72
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"platform": "GitHub",
+			"repo_id": "159356599",
+			"repo_name": "riscv\/sail-riscv",
+			"openrank": 241.21
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"platform": "GitHub",
+			"repo_id": "827956328",
+			"repo_name": "riscv-software-src\/riscv-unified-db",
+			"openrank": 240.68
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"platform": "GitHub",
+			"repo_id": "4542716",
+			"repo_name": "NixOS\/nixpkgs",
+			"openrank": 19198.06
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"platform": "GitHub",
+			"repo_id": "3386088",
+			"repo_name": "NixOS\/nix",
+			"openrank": 956.38
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"platform": "GitHub",
+			"repo_id": "1046934637",
+			"repo_name": "NixOS\/SC-election-2025",
+			"openrank": 230.65
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"platform": "AtomGit",
+			"repo_id": "4372488",
+			"repo_name": "openharmony\/docs",
+			"openrank": 8986.86
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"platform": "AtomGit",
+			"repo_id": "4418603",
+			"repo_name": "openharmony\/arkui_ace_engine",
+			"openrank": 3682.47
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"platform": "AtomGit",
+			"repo_id": "4431757",
+			"repo_name": "openharmony\/xts_acts",
+			"openrank": 2965.84
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"platform": "GitHub",
+			"repo_id": "113404957",
+			"repo_name": "kata-containers\/kata-containers",
+			"openrank": 521.13
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"platform": "GitHub",
+			"repo_id": "112949842",
+			"repo_name": "kata-containers\/www.katacontainers.io",
+			"openrank": 12.05
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"platform": "GitHub",
+			"repo_id": "293399774",
+			"repo_name": "kata-containers\/cgroups-rs",
+			"openrank": 8.04
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"platform": "GitHub",
+			"repo_id": "1903522",
+			"repo_name": "php\/php-src",
+			"openrank": 1027.75
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"platform": "GitHub",
+			"repo_id": "473949053",
+			"repo_name": "php\/frankenphp",
+			"openrank": 228.6
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"platform": "GitHub",
+			"repo_id": "3242728",
+			"repo_name": "php\/web-php",
+			"openrank": 162.5
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"platform": "GitHub",
+			"repo_id": "81598961",
+			"repo_name": "python\/cpython",
+			"openrank": 5473.19
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"platform": "GitHub",
+			"repo_id": "7053637",
+			"repo_name": "python\/mypy",
+			"openrank": 1615.5
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"platform": "GitHub",
+			"repo_id": "494077289",
+			"repo_name": "python\/typing_extensions",
+			"openrank": 1298.47
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"platform": "GitHub",
+			"repo_id": "8514",
+			"repo_name": "rails\/rails",
+			"openrank": 1310.08
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"platform": "GitHub",
+			"repo_id": "538746",
+			"repo_name": "ruby\/ruby",
+			"openrank": 1078.06
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"platform": "GitHub",
+			"repo_id": "614070",
+			"repo_name": "ruby\/rubygems",
+			"openrank": 356.23
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"platform": "GitHub",
+			"repo_id": "724712",
+			"repo_name": "rust-lang\/rust",
+			"openrank": 5525.58
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"platform": "GitHub",
+			"repo_id": "26850443",
+			"repo_name": "rust-lang\/rust-clippy",
+			"openrank": 745.43
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"platform": "GitHub",
+			"repo_id": "29197565",
+			"repo_name": "rust-lang\/libc",
+			"openrank": 727.57
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"platform": "GitHub",
+			"repo_id": "166515022",
+			"repo_name": "trinodb\/trino",
+			"openrank": 1298.52
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"platform": "GitHub",
+			"repo_id": "664750387",
+			"repo_name": "trinodb\/trino-gateway",
+			"openrank": 112.28
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"platform": "GitHub",
+			"repo_id": "220362473",
+			"repo_name": "trinodb\/trino-python-client",
+			"openrank": 18.55
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"platform": "GitHub",
+			"repo_id": "40276274",
+			"repo_name": "ziglang\/zig",
+			"openrank": 907.22
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"platform": "GitHub",
+			"repo_id": "883949570",
+			"repo_name": "ziglang\/translate-c",
+			"openrank": 52.66
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"platform": "GitHub",
+			"repo_id": "58763793",
+			"repo_name": "ziglang\/www.ziglang.org",
+			"openrank": 47.89
+		}
+	],
+
+	"rows": 102,
+
+	"statistics":
+	{
+		"elapsed": 1.489821094,
+		"rows_read": 216173308,
+		"bytes_read": 1601301616
+	}
+}

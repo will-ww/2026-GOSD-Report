@@ -1,0 +1,370 @@
+[
+  {
+    "pillar": "X1",
+    "direction": "D01",
+    "direction_name": "规模与密度",
+    "name": "活跃开发者规模",
+    "question": "观察期内有多少活跃参与者？",
+    "type": "北极星",
+    "sdg": [
+      "8",
+      "9"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X1",
+    "direction": "D01",
+    "direction_name": "规模与密度",
+    "name": "人才聚集密度",
+    "question": "参与者在当地有多集中？",
+    "type": "诊断",
+    "sdg": [
+      "9",
+      "11"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X1",
+    "direction": "D01",
+    "direction_name": "规模与密度",
+    "name": "新晋开发者增速",
+    "question": "新进入生态的参与者增长多快？",
+    "type": "驱动",
+    "sdg": [
+      "4",
+      "8"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X1",
+    "direction": "D02",
+    "direction_name": "生态多样性",
+    "name": "全球开源协作占比",
+    "question": "跨国协作在已识别关系中占多少？",
+    "type": "诊断",
+    "sdg": [
+      "10",
+      "17"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X1",
+    "direction": "D02",
+    "direction_name": "生态多样性",
+    "name": "学术机构贡献占比",
+    "question": "高校与科研机构贡献了多少？",
+    "type": "诊断",
+    "sdg": [
+      "4",
+      "9"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X2",
+    "direction": "D03",
+    "direction_name": "代码产出",
+    "name": "有效活跃仓库规模",
+    "question": "有持续或当期协作的仓库有多少？",
+    "type": "北极星",
+    "sdg": [
+      "9"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X2",
+    "direction": "D03",
+    "direction_name": "代码产出",
+    "name": "代码协作贡献度",
+    "question": "开发者在协作网络中贡献如何？",
+    "type": "北极星",
+    "sdg": [
+      "9",
+      "17"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X2",
+    "direction": "D03",
+    "direction_name": "代码产出",
+    "name": "高质量 PR 合入量",
+    "question": "经质量核验的合入修改有多少？",
+    "type": "驱动",
+    "sdg": [
+      "9"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X2",
+    "direction": "D04",
+    "direction_name": "模型开放供给",
+    "name": "开源模型发布量",
+    "question": "符合所定开放条件的模型有多少？",
+    "type": "驱动",
+    "sdg": [
+      "9"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X2",
+    "direction": "D04",
+    "direction_name": "模型开放供给",
+    "name": "模型供给方多样性",
+    "question": "模型供给是否来自多种主体？",
+    "type": "诊断",
+    "sdg": [
+      "9",
+      "10"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X2",
+    "direction": "D05",
+    "direction_name": "数据开放供给",
+    "name": "开源数据集发布量",
+    "question": "可按开放条件取得的数据集有多少？",
+    "type": "驱动",
+    "sdg": [
+      "9"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X2",
+    "direction": "D05",
+    "direction_name": "数据开放供给",
+    "name": "数据供给方多样性",
+    "question": "数据供给是否集中于少数主体？",
+    "type": "诊断",
+    "sdg": [
+      "9",
+      "10"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X3",
+    "direction": "D06",
+    "direction_name": "代码影响力",
+    "name": "代码仓库影响力",
+    "question": "仓库处于怎样的协作网络位置？",
+    "type": "北极星",
+    "sdg": [
+      "9",
+      "17"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X3",
+    "direction": "D06",
+    "direction_name": "代码影响力",
+    "name": "高影响力区域数量",
+    "question": "较高影响节点分布在多少地区？",
+    "type": "诊断",
+    "sdg": [
+      "10",
+      "11"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X3",
+    "direction": "D06",
+    "direction_name": "代码影响力",
+    "name": "高影响力组织数量",
+    "question": "哪些组织形成较高的协作影响？",
+    "type": "诊断",
+    "sdg": [
+      "17"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X3",
+    "direction": "D06",
+    "direction_name": "代码影响力",
+    "name": "高影响力项目数量",
+    "question": "有多少项目形成较高的协作影响？",
+    "type": "诊断",
+    "sdg": [
+      "9"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X3",
+    "direction": "D06",
+    "direction_name": "代码影响力",
+    "name": "高影响力人才数量",
+    "question": "较高影响的参与者规模有多大？",
+    "type": "诊断",
+    "sdg": [
+      "8",
+      "9"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X3",
+    "direction": "D07",
+    "direction_name": "模型影响力",
+    "name": "模型采用度",
+    "question": "模型被下载、调用或采用到何种程度？",
+    "type": "驱动",
+    "sdg": [
+      "9"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X3",
+    "direction": "D07",
+    "direction_name": "模型影响力",
+    "name": "模型社区热度",
+    "question": "模型受到怎样的关注与讨论？",
+    "type": "驱动",
+    "sdg": [
+      "9",
+      "17"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X3",
+    "direction": "D07",
+    "direction_name": "模型影响力",
+    "name": "模型生态衍生力",
+    "question": "模型衍生出怎样的后续成果？",
+    "type": "北极星",
+    "sdg": [
+      "9"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X3",
+    "direction": "D08",
+    "direction_name": "数据集影响力",
+    "name": "数据集采用度",
+    "question": "数据集被获取或使用到何种程度？",
+    "type": "驱动",
+    "sdg": [
+      "9"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X3",
+    "direction": "D08",
+    "direction_name": "数据集影响力",
+    "name": "数据社区热度",
+    "question": "数据集受到怎样的关注与讨论？",
+    "type": "驱动",
+    "sdg": [
+      "9",
+      "17"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X3",
+    "direction": "D08",
+    "direction_name": "数据集影响力",
+    "name": "数据生态复用率",
+    "question": "数据被后续项目接续使用的情况如何？",
+    "type": "北极星",
+    "sdg": [
+      "9",
+      "12"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X4",
+    "direction": "D09",
+    "direction_name": "治理成熟度",
+    "name": "基金会托管比例",
+    "question": "所观察项目中多少有基金会托管？",
+    "type": "北极星",
+    "sdg": [
+      "16",
+      "17"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X4",
+    "direction": "D09",
+    "direction_name": "治理成熟度",
+    "name": "治理主体均衡度",
+    "question": "规则形成是否由多类主体参与？",
+    "type": "诊断",
+    "sdg": [
+      "10",
+      "16"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X4",
+    "direction": "D09",
+    "direction_name": "治理成熟度",
+    "name": "合规许可覆盖率",
+    "question": "有多少对象完成规定的许可核验？",
+    "type": "诊断",
+    "sdg": [
+      "16"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X4",
+    "direction": "D10",
+    "direction_name": "公共福祉",
+    "name": "数字公共品共建度",
+    "question": "公共用途资源由哪些主体共同建设？",
+    "type": "北极星",
+    "sdg": [
+      "9",
+      "10",
+      "17"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X4",
+    "direction": "D10",
+    "direction_name": "公共福祉",
+    "name": "高开放度许可占比",
+    "question": "满足所定开放条件的许可占多少？",
+    "type": "诊断",
+    "sdg": [
+      "9",
+      "16"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  },
+  {
+    "pillar": "X4",
+    "direction": "D10",
+    "direction_name": "公共福祉",
+    "name": "AI 资产透明度",
+    "question": "来源、版本、用途和限制是否可查？",
+    "type": "诊断",
+    "sdg": [
+      "9",
+      "16"
+    ],
+    "status": "候选目录；本表不声明已经实测"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": ":companies/microsoft",
+    "name": "Microsoft",
+    "openrank": 167060.26,
+    "rank": 1,
+    "company_zh": "微软",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/huawei",
+    "name": "Huawei",
+    "openrank": 141253.65,
+    "rank": 2,
+    "company_zh": "华为",
+    "country_ids": [
+      ":divisions/CN"
+    ],
+    "country_zh": "中国",
+    "country_code": "CN"
+  },
+  {
+    "id": ":companies/google",
+    "name": "Google",
+    "openrank": 82517.69,
+    "rank": 3,
+    "company_zh": "谷歌",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/meta",
+    "name": "Meta",
+    "openrank": 49739.14,
+    "rank": 4,
+    "company_zh": "Meta",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/amazon",
+    "name": "Amazon",
+    "openrank": 36597.6,
+    "rank": 5,
+    "company_zh": "亚马逊",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/nvidia",
+    "name": "NVIDIA",
+    "openrank": 35291.1,
+    "rank": 6,
+    "company_zh": "英伟达",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/redhat",
+    "name": "RedHat",
+    "openrank": 30259.54,
+    "rank": 7,
+    "company_zh": "红帽",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/elastic",
+    "name": "Elastic",
+    "openrank": 29080.36,
+    "rank": 8,
+    "company_zh": "Elastic",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/anthropic",
+    "name": "Anthropic",
+    "openrank": 25147.06,
+    "rank": 9,
+    "company_zh": "Anthropic",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/mozilla",
+    "name": "Mozilla",
+    "openrank": 24974.3,
+    "rank": 10,
+    "company_zh": "Mozilla",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/alibaba",
+    "name": "Alibaba",
+    "openrank": 21370.04,
+    "rank": 11,
+    "company_zh": "阿里巴巴",
+    "country_ids": [
+      ":divisions/CN"
+    ],
+    "country_zh": "中国",
+    "country_code": "CN"
+  },
+  {
+    "id": ":companies/grafana",
+    "name": "Grafana Labs",
+    "openrank": 21185.41,
+    "rank": 12,
+    "company_zh": "Grafana Labs",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/bytedance",
+    "name": "ByteDance",
+    "openrank": 19551.65,
+    "rank": 13,
+    "company_zh": "字节跳动",
+    "country_ids": [
+      ":divisions/CN"
+    ],
+    "country_zh": "中国",
+    "country_code": "CN"
+  },
+  {
+    "id": ":companies/huggingface",
+    "name": "Hugging Face",
+    "openrank": 17744.48,
+    "rank": 14,
+    "company_zh": "Hugging Face",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/ibm",
+    "name": "IBM",
+    "openrank": 16860.93,
+    "rank": 15,
+    "company_zh": "IBM",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/datadog",
+    "name": "DataDog",
+    "openrank": 16551.18,
+    "rank": 16,
+    "company_zh": "DataDog",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/openai",
+    "name": "OpenAI",
+    "openrank": 15756.56,
+    "rank": 17,
+    "company_zh": "OpenAI",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/jetbrains",
+    "name": "JetBrains",
+    "openrank": 15377.58,
+    "rank": 18,
+    "company_zh": "JetBrains",
+    "country_ids": [
+      ":divisions/NL"
+    ],
+    "country_zh": "荷兰",
+    "country_code": "NL"
+  },
+  {
+    "id": ":companies/expensify",
+    "name": "Expensify",
+    "openrank": 15181.91,
+    "rank": 19,
+    "company_zh": "Expensify",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/apple",
+    "name": "Apple",
+    "openrank": 15172.63,
+    "rank": 20,
+    "company_zh": "苹果",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/tenstorrent",
+    "name": "Tenstorrent",
+    "openrank": 14837.01,
+    "rank": 21,
+    "company_zh": "Tenstorrent",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/antgroup",
+    "name": "Ant group",
+    "openrank": 14466.01,
+    "rank": 22,
+    "company_zh": "蚂蚁集团",
+    "country_ids": [
+      ":divisions/CN"
+    ],
+    "country_zh": "中国",
+    "country_code": "CN"
+  },
+  {
+    "id": ":companies/zed",
+    "name": "Zed Industry",
+    "openrank": 13640.16,
+    "rank": 23,
+    "company_zh": "Zed Industry",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/hashicorp",
+    "name": "HashiCorp",
+    "openrank": 13537.34,
+    "rank": 24,
+    "company_zh": "HashiCorp",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/nabucasa",
+    "name": "Nabu Casa Inc.",
+    "openrank": 12840.53,
+    "rank": 25,
+    "company_zh": "Nabu Casa Inc.",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/vercel",
+    "name": "Vercel",
+    "openrank": 12522.59,
+    "rank": 26,
+    "company_zh": "Vercel",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/odoo",
+    "name": "Odoo",
+    "openrank": 12357.48,
+    "rank": 27,
+    "company_zh": "Odoo",
+    "country_ids": [
+      ":divisions/BE"
+    ],
+    "country_zh": "比利时",
+    "country_code": "BE"
+  },
+  {
+    "id": ":companies/intel",
+    "name": "Intel",
+    "openrank": 12201.84,
+    "rank": 28,
+    "company_zh": "英特尔",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/astral",
+    "name": "Astral",
+    "openrank": 11893.78,
+    "rank": 29,
+    "company_zh": "Astral",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/anomaly",
+    "name": "Anomaly",
+    "openrank": 10585.67,
+    "rank": 30,
+    "company_zh": "Anomaly",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/oracle",
+    "name": "Oracle",
+    "openrank": 10503.63,
+    "rank": 31,
+    "company_zh": "甲骨文",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/baidu",
+    "name": "Baidu",
+    "openrank": 10371.51,
+    "rank": 32,
+    "company_zh": "百度",
+    "country_ids": [
+      ":divisions/CN"
+    ],
+    "country_zh": "中国",
+    "country_code": "CN"
+  },
+  {
+    "id": ":companies/tencent",
+    "name": "Tencent",
+    "openrank": 9276.72,
+    "rank": 33,
+    "company_zh": "腾讯",
+    "country_ids": [
+      ":divisions/CN"
+    ],
+    "country_zh": "中国",
+    "country_code": "CN"
+  },
+  {
+    "id": ":companies/langchain",
+    "name": "LangChain",
+    "openrank": 9101.88,
+    "rank": 34,
+    "company_zh": "LangChain",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/databricks",
+    "name": "Databricks",
+    "openrank": 9084.33,
+    "rank": 35,
+    "company_zh": "Databricks",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/yandex",
+    "name": "Yandex",
+    "openrank": 8989.93,
+    "rank": 36,
+    "company_zh": "Yandex",
+    "country_ids": [
+      ":divisions/RU"
+    ],
+    "country_zh": "俄罗斯",
+    "country_code": "RU"
+  },
+  {
+    "id": ":companies/vmware",
+    "name": "VMWare",
+    "openrank": 8984.08,
+    "rank": 37,
+    "company_zh": "VMWare",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/consensys",
+    "name": "ConsenSys",
+    "openrank": 8068.42,
+    "rank": 38,
+    "company_zh": "ConsenSys",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/cloudflare",
+    "name": "Cloudflare",
+    "openrank": 7834.37,
+    "rank": 39,
+    "company_zh": "Cloudflare",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/nextcloud",
+    "name": "NextCloud",
+    "openrank": 7603.19,
+    "rank": 40,
+    "company_zh": "NextCloud",
+    "country_ids": [
+      ":divisions/DE"
+    ],
+    "country_zh": "德国",
+    "country_code": "DE"
+  },
+  {
+    "id": ":companies/dify_ai",
+    "name": "Dify AI",
+    "openrank": 7496.88,
+    "rank": 41,
+    "company_zh": "Dify AI",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/linkedin",
+    "name": "LinkedIn",
+    "openrank": 6743.15,
+    "rank": 42,
+    "company_zh": "LinkedIn",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/docker",
+    "name": "Docker",
+    "openrank": 6740.67,
+    "rank": 43,
+    "company_zh": "Docker",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/n8n",
+    "name": "n8n",
+    "openrank": 6706.43,
+    "rank": 44,
+    "company_zh": "n8n",
+    "country_ids": [
+      ":divisions/DE"
+    ],
+    "country_zh": "德国",
+    "country_code": "DE"
+  },
+  {
+    "id": ":companies/berriai",
+    "name": "BerriAI",
+    "openrank": 5972.28,
+    "rank": 45,
+    "company_zh": "BerriAI",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/adobe",
+    "name": "Adobe",
+    "openrank": 5878,
+    "rank": 46,
+    "company_zh": "Adobe",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/pingcap",
+    "name": "PingCAP",
+    "openrank": 5793.82,
+    "rank": 47,
+    "company_zh": "PingCAP",
+    "country_ids": [
+      ":divisions/CN"
+    ],
+    "country_zh": "中国",
+    "country_code": "CN"
+  },
+  {
+    "id": ":companies/rancher",
+    "name": "Rancher Labs",
+    "openrank": 5479.13,
+    "rank": 48,
+    "company_zh": "Rancher Labs",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/airbnb",
+    "name": "Airbnb",
+    "openrank": 4994.21,
+    "rank": 49,
+    "company_zh": "Airbnb",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/snowflake",
+    "name": "Snowflake",
+    "openrank": 4576.66,
+    "rank": 50,
+    "company_zh": "Snowflake",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/wordpress",
+    "name": "WordPress",
+    "openrank": 4545.51,
+    "rank": 51,
+    "company_zh": "WordPress",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/soundcloud",
+    "name": "SoundCloud",
+    "openrank": 4534.77,
+    "rank": 52,
+    "company_zh": "SoundCloud",
+    "country_ids": [
+      ":divisions/DE"
+    ],
+    "country_zh": "德国",
+    "country_code": "DE"
+  },
+  {
+    "id": ":companies/paradigm",
+    "name": "Paradigm",
+    "openrank": 4476.87,
+    "rank": 53,
+    "company_zh": "Paradigm",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/supabase",
+    "name": "Supabase",
+    "openrank": 4425.94,
+    "rank": 54,
+    "company_zh": "Supabase",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/fit2cloud",
+    "name": "Fit2Cloud",
+    "openrank": 4325.93,
+    "rank": 55,
+    "company_zh": "飞致云",
+    "country_ids": [
+      ":divisions/CN"
+    ],
+    "country_zh": "中国",
+    "country_code": "CN"
+  },
+  {
+    "id": ":companies/mongodb",
+    "name": "MongoDB",
+    "openrank": 4214.44,
+    "rank": 56,
+    "company_zh": "MongoDB",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/espressif",
+    "name": "ESPRESSIF",
+    "openrank": 4125.54,
+    "rank": 57,
+    "company_zh": "乐鑫科技",
+    "country_ids": [
+      ":divisions/CN"
+    ],
+    "country_zh": "中国",
+    "country_code": "CN"
+  },
+  {
+    "id": ":companies/bitwarden",
+    "name": "Bitwarden",
+    "openrank": 4112.06,
+    "rank": 58,
+    "company_zh": "Bitwarden",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/newrelic",
+    "name": "New Relic",
+    "openrank": 4078.56,
+    "rank": 59,
+    "company_zh": "New Relic",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/brave",
+    "name": "Brave",
+    "openrank": 3986.51,
+    "rank": 60,
+    "company_zh": "Brave",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/gravitational",
+    "name": "Gravitational",
+    "openrank": 3983.73,
+    "rank": 61,
+    "company_zh": "Gravitational",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/camunda",
+    "name": "Camunda",
+    "openrank": 3861.64,
+    "rank": 62,
+    "company_zh": "Camunda",
+    "country_ids": [
+      ":divisions/DE"
+    ],
+    "country_zh": "德国",
+    "country_code": "DE"
+  },
+  {
+    "id": ":companies/llama_corp",
+    "name": "Llama Corp",
+    "openrank": 3771.4,
+    "rank": 63,
+    "company_zh": "Llama Corp",
+    "country_ids": [
+      ":divisions/IS"
+    ],
+    "country_zh": "冰岛",
+    "country_code": "IS"
+  },
+  {
+    "id": ":companies/zilliz",
+    "name": "Zilliz",
+    "openrank": 3581.47,
+    "rank": 64,
+    "company_zh": "赜睿信息科技",
+    "country_ids": [
+      ":divisions/CN"
+    ],
+    "country_zh": "中国",
+    "country_code": "CN"
+  },
+  {
+    "id": ":companies/laravel",
+    "name": "Laravel Holdings",
+    "openrank": 3513.18,
+    "rank": 65,
+    "company_zh": "Laravel Holdings",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/mysten_labs",
+    "name": "Mysten Labs",
+    "openrank": 3496.78,
+    "rank": 66,
+    "company_zh": "Mysten Labs",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/netflix",
+    "name": "Netflix",
+    "openrank": 3422.45,
+    "rank": 67,
+    "company_zh": "Netflix",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/woo",
+    "name": "Woo",
+    "openrank": 3421.81,
+    "rank": 68,
+    "company_zh": "Woo",
+    "country_ids": [
+      ":divisions/ZA"
+    ],
+    "country_zh": "南非",
+    "country_code": "ZA"
+  },
+  {
+    "id": ":companies/infiniflow",
+    "name": "Infinity Flow",
+    "openrank": 3408.72,
+    "rank": 69,
+    "company_zh": "Infinity Flow",
+    "country_ids": [
+      ":divisions/CN"
+    ],
+    "country_zh": "中国",
+    "country_code": "CN"
+  },
+  {
+    "id": ":companies/datastax",
+    "name": "DataStax",
+    "openrank": 3398.53,
+    "rank": 70,
+    "company_zh": "DataStax",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/isovalent",
+    "name": "Isovalent",
+    "openrank": 3344.78,
+    "rank": 71,
+    "company_zh": "Isovalent",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/redis",
+    "name": "Redis Labs",
+    "openrank": 3320.29,
+    "rank": 72,
+    "company_zh": "Redis Labs",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/livekit",
+    "name": "LiveKit",
+    "openrank": 3312.87,
+    "rank": 73,
+    "company_zh": "LiveKit",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/650_industries",
+    "name": "650 Industries",
+    "openrank": 3250.23,
+    "rank": 74,
+    "company_zh": "650 Industries",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/valve",
+    "name": "Valve",
+    "openrank": 3185.03,
+    "rank": 75,
+    "company_zh": "Valve",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/scylladb",
+    "name": "ScyllaDB",
+    "openrank": 3148.11,
+    "rank": 76,
+    "company_zh": "ScyllaDB",
+    "country_ids": [
+      ":divisions/IL"
+    ],
+    "country_zh": "以色列",
+    "country_code": "IL"
+  },
+  {
+    "id": ":companies/cloudbees",
+    "name": "Cloudbees",
+    "openrank": 3133.51,
+    "rank": 77,
+    "company_zh": "Cloudbees",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/fivetran",
+    "name": "Fivetran",
+    "openrank": 3074.42,
+    "rank": 78,
+    "company_zh": "Fivetran",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/ggml.ai",
+    "name": "GGML.ai",
+    "openrank": 3055.42,
+    "rank": 79,
+    "company_zh": "GGML.ai",
+    "country_ids": [
+      ":divisions/BG"
+    ],
+    "country_zh": "保加利亚",
+    "country_code": "BG"
+  },
+  {
+    "id": ":companies/coder",
+    "name": "Coder",
+    "openrank": 3000.64,
+    "rank": 80,
+    "company_zh": "Coder",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/flant",
+    "name": "Flant",
+    "openrank": 2948.77,
+    "rank": 81,
+    "company_zh": "Flant",
+    "country_ids": [
+      ":divisions/EE"
+    ],
+    "country_zh": "爱沙尼亚",
+    "country_code": "EE"
+  },
+  {
+    "id": ":companies/nordic_semiconductor",
+    "name": "Nordic Semiconductor",
+    "openrank": 2919.8,
+    "rank": 82,
+    "company_zh": "Nordic Semiconductor",
+    "country_ids": [
+      ":divisions/NO"
+    ],
+    "country_zh": "挪威",
+    "country_code": "NO"
+  },
+  {
+    "id": ":companies/coreweave",
+    "name": "CoreWeave",
+    "openrank": 2860.9,
+    "rank": 83,
+    "company_zh": "CoreWeave",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/duckdb",
+    "name": "DuckDB Labs",
+    "openrank": 2784.56,
+    "rank": 84,
+    "company_zh": "DuckDB Labs",
+    "country_ids": [
+      ":divisions/NL"
+    ],
+    "country_zh": "荷兰",
+    "country_code": "NL"
+  },
+  {
+    "id": ":companies/sensiolabs",
+    "name": "SensioLabs",
+    "openrank": 2717.84,
+    "rank": 85,
+    "company_zh": "SensioLabs",
+    "country_ids": [
+      ":divisions/FR"
+    ],
+    "country_zh": "法国",
+    "country_code": "FR"
+  },
+  {
+    "id": ":companies/dio",
+    "name": "Dio Academia",
+    "openrank": 2716.66,
+    "rank": 86,
+    "company_zh": "Dio Academia",
+    "country_ids": [
+      ":divisions/PT"
+    ],
+    "country_zh": "葡萄牙",
+    "country_code": "PT"
+  },
+  {
+    "id": ":companies/lyft",
+    "name": "Lyft",
+    "openrank": 2701.24,
+    "rank": 87,
+    "company_zh": "Lyft",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/github",
+    "name": "GitHub",
+    "openrank": 2690.85,
+    "rank": 88,
+    "company_zh": "GitHub",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/pivotal",
+    "name": "Pivotal",
+    "openrank": 2651.57,
+    "rank": 89,
+    "company_zh": "Pivotal",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/matra_datavision",
+    "name": "Matra Datavision",
+    "openrank": 2621.68,
+    "rank": 90,
+    "company_zh": "Matra Datavision",
+    "country_ids": [
+      ":divisions/FR"
+    ],
+    "country_zh": "法国",
+    "country_code": "FR"
+  },
+  {
+    "id": ":companies/mattermost",
+    "name": "Mattermost",
+    "openrank": 2619.45,
+    "rank": 91,
+    "company_zh": "Mattermost",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/cockroachlabs",
+    "name": "Cockroach Labs",
+    "openrank": 2618.65,
+    "rank": 92,
+    "company_zh": "Cockroach Labs",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/paloaltonetworks",
+    "name": "Palo Auto Networks",
+    "openrank": 2571.57,
+    "rank": 93,
+    "company_zh": "Palo Auto Networks",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/collate",
+    "name": "Collate",
+    "openrank": 2554.99,
+    "rank": 94,
+    "company_zh": "Collate",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/airbyte",
+    "name": "Airbyte",
+    "openrank": 2520.15,
+    "rank": 95,
+    "company_zh": "Airbyte",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/ollama",
+    "name": "Ollama",
+    "openrank": 2499.18,
+    "rank": 96,
+    "company_zh": "Ollama",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/kong",
+    "name": "Kong",
+    "openrank": 2425.31,
+    "rank": 97,
+    "company_zh": "Kong",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/selectdb",
+    "name": "SelectDB",
+    "openrank": 2398.13,
+    "rank": 98,
+    "company_zh": "SelectDB",
+    "country_ids": [
+      ":divisions/CN"
+    ],
+    "country_zh": "中国",
+    "country_code": "CN"
+  },
+  {
+    "id": ":companies/metabase",
+    "name": "Metabase",
+    "openrank": 2396.59,
+    "rank": 99,
+    "company_zh": "Metabase",
+    "country_ids": [
+      ":divisions/US"
+    ],
+    "country_zh": "美国",
+    "country_code": "US"
+  },
+  {
+    "id": ":companies/lobehub",
+    "name": "LobeHub",
+    "openrank": 2393.03,
+    "rank": 100,
+    "company_zh": "LobeHub",
+    "country_ids": [
+      ":divisions/SG"
+    ],
+    "country_zh": "新加坡",
+    "country_code": "SG"
+  }
+]

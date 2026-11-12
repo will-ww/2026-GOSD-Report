@@ -1,0 +1,182 @@
+{
+  "pages": {
+    "full": 27,
+    "body": 21,
+    "appendix": 6,
+    "figures": 19
+  },
+  "appendix_matches_full": true,
+  "links": 29,
+  "bookmarks": 28,
+  "fonts_embedded": true,
+  "unchanged_figure_numeric_labels": [
+    "2-1",
+    "2-2",
+    "2-3",
+    "2-4",
+    "2-5",
+    "2-6",
+    "2-7",
+    "2-8",
+    "2-9",
+    "2-10",
+    "2-11",
+    "2-12",
+    "2-13",
+    "2-14",
+    "2-15",
+    "2-16",
+    "2-17",
+    "2-18",
+    "2-19"
+  ],
+  "scenario_series_recomputed": [
+    [
+      "2.1",
+      "groups",
+      "欧洲",
+      4
+    ],
+    [
+      "2.1",
+      "groups",
+      "美国",
+      4
+    ],
+    [
+      "2.1",
+      "groups",
+      "中国",
+      4
+    ],
+    [
+      "2.1",
+      "groups",
+      "印度",
+      4
+    ],
+    [
+      "2.1",
+      "groups",
+      "全球南方代表国家",
+      4
+    ],
+    [
+      "2.1",
+      "global_and_china",
+      "total",
+      4
+    ],
+    [
+      "2.1",
+      "global_and_china",
+      "active",
+      4
+    ],
+    [
+      "2.1",
+      "global_and_china",
+      "china",
+      4
+    ],
+    [
+      "2.2",
+      "five_group_report_years",
+      "Europe",
+      4
+    ],
+    [
+      "2.2",
+      "five_group_report_years",
+      "China",
+      4
+    ],
+    [
+      "2.2",
+      "five_group_report_years",
+      "United States",
+      4
+    ],
+    [
+      "2.2",
+      "five_group_report_years",
+      "Global South representatives",
+      4
+    ],
+    [
+      "2.2",
+      "five_group_report_years",
+      "India",
+      4
+    ],
+    [
+      "2.2",
+      "natural_years",
+      "全球",
+      5
+    ],
+    [
+      "2.2",
+      "natural_years",
+      "美国",
+      5
+    ],
+    [
+      "2.2",
+      "natural_years",
+      "中国",
+      5
+    ],
+    [
+      "2.3",
+      "five_domain_scenarios",
+      "United States",
+      4
+    ],
+    [
+      "2.3",
+      "five_domain_scenarios",
+      "China",
+      4
+    ],
+    [
+      "2.3",
+      "five_domain_scenarios",
+      "Europe",
+      4
+    ],
+    [
+      "2.3",
+      "five_domain_scenarios",
+      "Global South representatives",
+      4
+    ],
+    [
+      "2.3",
+      "five_domain_scenarios",
+      "India",
+      4
+    ],
+    [
+      "2.3",
+      "natural_year_scenarios",
+      "全球",
+      5
+    ],
+    [
+      "2.3",
+      "natural_year_scenarios",
+      "美国",
+      5
+    ],
+    [
+      "2.3",
+      "natural_year_scenarios",
+      "中国",
+      5
+    ]
+  ],
+  "layout_warnings": [],
+  "issues": [],
+  "status": "pass"
+}

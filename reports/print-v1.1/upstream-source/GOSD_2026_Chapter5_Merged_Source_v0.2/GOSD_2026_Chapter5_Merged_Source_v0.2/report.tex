@@ -1,0 +1,240 @@
+\documentclass[11pt]{article}\usepackage{layout}\hypersetup{pdftitle={GOSD 2026 第五章合稿评审版 v0.2},pdfsubject={全球供给地图、模型派生与开放条件}}\begin{document}
+\begin{canvas}\Header{第五章 · 全球开源大模型发展洞察}{teal}\Footer{01}\pdfbookmark[1]{第五章　全球开源大模型发展洞察}{page01}
+\Box{15}{27}{180}{\fontsize{20}{27}\selectfont\color{ink}\sffamily \bfseries 第五章　全球开源大模型发展洞察}
+\Box{15}{40}{180}{\fontsize{11}{16}\selectfont\color{teal}\sffamily \bfseries 从开放供给，走向全球接续与公共能力}
+\Box{15}{54}{180}{\fontsize{10.7}{17}\selectfont\color{ink}模型生态的价值，既来自新的资源，也来自围绕资源持续展开的适配、再创造与维护。第四章呈现运行模型的技术生态，本章进一步观察模型与数据由谁供给、怎样进入全球接续，以及何种开放条件能够支撑持续使用和独立创新。}
+\Box{15}{88}{180}{\fontsize{10.7}{17}\selectfont\color{ink}地图定位发布者，派生网络连接上下游，开放评价检查材料与权利。三组证据互相补充，分别揭示资源位置、协作角色和再创造条件；它们共同帮助判断公共投入应支持哪些环节。}
+\Rect{15}{121}{180}{29}{paper}
+\Box{19}{125}{15}{\fontsize{15}{18}\selectfont\color{teal}\sffamily \bfseries 5.1}
+\Box{40}{125}{130}{\fontsize{12}{16}\selectfont\color{ink}\sffamily \bfseries 供给与贡献}
+\Box{173}{126}{20}{\fontsize{9}{12}\selectfont\color{muted}\sffamily 02—04}
+\Box{40}{134}{145}{\fontsize{10.4}{15}\selectfont\color{teal}\sffamily \bfseries 从世界地图到中国资源分工}
+\Box{40}{141}{145}{\fontsize{9.4}{14}\selectfont\color{muted}\sffamily 全球地图、发布者与增长、中国区域结构}
+\Rect{15}{154}{180}{29}{paper}
+\Box{19}{158}{15}{\fontsize{15}{18}\selectfont\color{teal}\sffamily \bfseries 5.2}
+\Box{40}{158}{130}{\fontsize{12}{16}\selectfont\color{ink}\sffamily \bfseries 网络与影响力}
+\Box{173}{159}{20}{\fontsize{9}{12}\selectfont\color{muted}\sffamily 05—07}
+\Box{40}{167}{145}{\fontsize{10.4}{15}\selectfont\color{teal}\sffamily \bfseries 从基座供给到跨国再创造}
+\Box{40}{174}{145}{\fontsize{9.4}{14}\selectfont\color{muted}\sffamily 派生全景、跨国关系、影响位置与时序}
+\Rect{15}{187}{180}{29}{paper}
+\Box{19}{191}{15}{\fontsize{15}{18}\selectfont\color{teal}\sffamily \bfseries 5.3}
+\Box{40}{191}{130}{\fontsize{12}{16}\selectfont\color{ink}\sffamily \bfseries 开源开放与分级体系}
+\Box{173}{192}{20}{\fontsize{9}{12}\selectfont\color{muted}\sffamily 08—11}
+\Box{40}{200}{145}{\fontsize{10.4}{15}\selectfont\color{teal}\sffamily \bfseries 从使用权限到完整交付}
+\Box{40}{207}{145}{\fontsize{9.4}{14}\selectfont\color{muted}\sffamily 评价体系、地域主体、全球开放、中国画像}
+\Box{15}{228}{180}{\fontsize{10.3}{16}\selectfont\color{ink}中国贡献放在全球再创造中理解：既观察模型和数据供给，也观察跨境复用、地区分工与材料交付。全球南方可以从语言适配、数据共建、评测与新基座供给等不同环节进入，合作路径应由当地需求与能力条件决定。}
+\Box{15}{260}{180}{\fontsize{8.7}{12.5}\selectfont\color{muted}\sffamily 主统计期：2025.07.01—2026.06.30。历史、期后快照和回溯数据分别标注；开放评价统一采用本次读取的 889 条记录。方法与来源集中于附录 A1—A2。}
+\end{canvas}
+\begin{canvas}\Header{第五章 · 全球开源大模型发展洞察}{teal}\Footer{02}\pdfbookmark[1]{5.1　供给与贡献：全球地图}{page02}
+\Box{15}{27}{180}{\fontsize{20}{27}\selectfont\color{ink}\sffamily \bfseries 5.1　供给与贡献：全球地图}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily Hugging Face（HF）汇集模型与数据的公开仓库。由全球规模进入发布者地图，可以识别资源积累的位置，再区分数量、获取活动与后续协作所代表的不同角色。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-5-1-1.pdf}}
+\Box{15}{199}{180}{\fontsize{7.6}{10.7}\selectfont\color{muted}\sffamily 图 5-1　全球模型供给地图与资源结构。来源：OpenGauge 总览\hyperlink{src1}{［1］}（2026.11.11 读取）及地域快照\hyperlink{src2}{［2］}（2026.10.17）。地图和份额仅使用 826 个组织账号样本；国家按发布者归属，灰白为未覆盖。平台总量与地域快照分别标注。}
+\Box{15}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ① 供给节点集中，但生态不限于中美}
+\Box{15}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}美国占地域样本模型数的 63.4\%，中国为 8.3\%；法国、德国、芬兰等亦形成可见供给节点。地图把分散的发布主体放入共同视野，为进一步比较资源类型和协作角色提供入口。}
+\Box{108}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ② 排名揭示多个可继续追踪的节点}
+\Box{108}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}前 15 位同时包括欧洲、东亚、南亚、东南亚与拉美国家。印度、巴西等已有可识别组织供给；理解其作用，需要继续连接语言资源、适配任务与跨国复用，而不只比较仓库数量。}
+\Box{15}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ③ 模型与数据需要分别识别供给者}
+\Box{15}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}同一组织名录内，美国的模型份额为 63.4\%，数据集份额为 47.5\%；中国分别为 8.3\% 与 10.8\%。两类资产的地域组合不同，模型供给地图应与数据维护网络共同观察。}
+\Box{108}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ④ 获取活动比数量更集中于中美}
+\Box{108}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}中美合计占样本模型数的 71.7\%、累计下载的 86.6\%。资源被获取的程度与发布规模并不等同；下一页进一步定位主要发布账号，寻找真正可开展合作的资源入口。}
+\end{canvas}
+\begin{canvas}\Header{第五章 · 全球开源大模型发展洞察}{teal}\Footer{03}\pdfbookmark[1]{5.1　供给与贡献：发布者与增长}{page03}
+\Box{15}{27}{180}{\fontsize{20}{27}\selectfont\color{ink}\sffamily \bfseries 5.1　供给与贡献：发布者与增长}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 从地图走向主体与时序：模型和数据由不同团队持续供给，发布账号与资源积累也有不同节奏。增长需要与具体发布者、资源类别和统计窗口一起理解。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-5-1-2.pdf}}
+\Box{15}{199}{180}{\fontsize{7.6}{10.7}\selectfont\color{muted}\sffamily 图 5-2　中美发布者与全球供给节奏。来源：地域快照及月度记录\hyperlink{src2}{［2］}、HF 年度回溯\hyperlink{src3}{［3］}。榜单为组织样本累计下载，中美同类共用条长尺度；年度点按 2026.9.13 可见仓库回溯。月图浅底为主期，两类序列不拼接。}
+\Box{15}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ① 模型获取活动集中在少数关键账号}
+\Box{15}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}Qwen、BAAI、deepseek-ai 合计占中国组织样本模型下载的 79.3\%。头部资源是连接全球使用者的重要入口，后续合作可围绕版本适配、问题反馈和兼容维护展开。}
+\Box{108}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ② 数据供给有独立的核心团队}
+\Box{108}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}InternRobotics、zai-org、OpenGVLab 与 allenai、argilla、huggingface 分别进入两国数据榜前列。支持模型生态，也需要支持数据整理、标注说明和持续更新等具体工作。}
+\Box{15}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ③ 资源积累快于发布账号扩张}
+\Box{15}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}最近两个年度回溯点之间，模型仓库增长 58.3\%，发布账号增长 48.4\%；平均每账号仓库数由 4.68 增至 4.99。扩张包含派生、量化与转换版本，需结合下一节观察再创造。}
+\Box{108}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ④ 数据供给的主期增量值得重视}
+\Box{108}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}月度序列中，主期模型新增合计 112.67 万个，数据集为 52.04 万个；较此前 12 个月分别增加 7.8\% 与 101.0\%。数据供给加快，为模型之外的公共资源建设提出新任务。}
+\end{canvas}
+\begin{canvas}\Header{第五章 · 全球开源大模型发展洞察}{teal}\Footer{04}\pdfbookmark[1]{5.1　供给与贡献：中国结构}{page04}
+\Box{15}{27}{180}{\fontsize{20}{27}\selectfont\color{ink}\sffamily \bfseries 5.1　供给与贡献：中国结构}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 中国供给既有资源集聚，也有地区与主体之间的分工。将省级地图、发布者与获取活动并列，可以把宏观优势落实到具体资源，为地方合作和产业支持提供线索。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-5-1-3.pdf}}
+\Box{15}{199}{180}{\fontsize{7.6}{10.7}\selectfont\color{muted}\sffamily 图 5-3　中国模型供给的区域分工。来源：OpenGauge 地域快照\hyperlink{src2}{［2］}。按组织账号省级归属定位；12 个账号、149 个模型、41 个数据集归属待补，仍计入全国。首位账号分别按本地模型或数据累计下载排序；省级数据不替代城市数据。}
+\Box{15}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ① 主要供给节点各有资源组合}
+\Box{15}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}浙江、北京、上海、广东集聚样本中 88.8\% 的模型仓库。地图呈现发布资源的位置，为合作提供组织入口；研发人员、算力与使用者的分布仍需另外观察。}
+\Box{108}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ② 模型积累与数据基础并不同序}
+\Box{108}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}浙江模型仓库数最多，为 1,726 个；北京拥有最多的组织账号和关联数据集，分别为 47 个与 480 个。地方布局应依据资源长项与合作需求，分别支持供给、数据和验证能力。}
+\Box{15}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ③ 同一地区也有多个协作角色}
+\Box{15}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}浙江的模型获取首位账号为 Qwen，数据首位为 inclusionAI；上海对应 OpenGVLab 与 InternRobotics。具体账号比省级排序更接近可执行任务，有助于建立跨主体资源协作。}
+\Box{108}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ④ 中国的区域互补可以连接全球}
+\Box{108}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}浙江占中国样本模型下载的 56.8\%，北京与上海合计占数据下载的 75.4\%。这些差异提示模型、数据与评测的互补空间；通过公开接口、联合任务与维护分工，才能形成持续协作。}
+\end{canvas}
+\begin{canvas}\Header{第五章 · 全球开源大模型发展洞察}{teal}\Footer{05}\pdfbookmark[1]{5.2　网络与影响力：派生全景}{page05}
+\Box{15}{27}{180}{\fontsize{20}{27}\selectfont\color{ink}\sffamily \bfseries 5.2　网络与影响力：派生全景}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily “基座”是后续模型声明采用的上游版本，“派生”是其后续版本。沿真实声明关系，可以看见供给怎样进入再创造，也能识别继续成为新上游的中间接续者。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-5-2-1.pdf}}
+\Box{15}{199}{180}{\fontsize{7.6}{10.7}\selectfont\color{muted}\sffamily 图 5-4　派生关系、模型网络与资源积累。来源：声明网络\hyperlink{src4}{［4］}（2026.10.16）与年度回溯\hyperlink{src5}{［5］}。网络为前 12,000 个连续非随机输入中的双端可见关系，保留全部 5,777 节点与 5,111 边；位置仅供导航。年度序列独立，示意图不对应具体训练。}
+\Box{15}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ① 一个后续版本可以连接多个上游}
+\Box{15}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}派生既可以承接单一基座，也可以声明多个来源；它还可能成为后续版本的起点。关系图帮助读者理解“接续”，而实际训练过程与各方贡献内容仍应回到版本说明。}
+\Box{108}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ② 网络呈现多种任务之间的再创造}
+\Box{108}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}完整网络保留语言、多模态、视觉、语音等任务。Qwen 等版本形成可辨认的接续节点，语音模型也有独立簇群；节点大小表示直接下游数，不能当作能力或全平台份额。}
+\Box{15}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ③ 派生积累已经成为重要供给来源}
+\Box{15}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}年度回溯中，有基座声明的仓库由 56.38 万增至 85.87 万，增加 52.3\%。微调、格式转换等后续工作扩大资源选择，评价供给时需要同时看到原创基座与接续劳动。}
+\Box{108}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ④ 中间接续者承担连接上下游的角色}
+\Box{108}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}552 个版本同时承接上游并拥有下游，50 个版本声明多个上游。维护支持可沿这些节点落实到适配测试、文档更新与问题响应，让资源链上的责任随版本继续传递。}
+\end{canvas}
+\begin{canvas}\Header{第五章 · 全球开源大模型发展洞察}{teal}\Footer{06}\pdfbookmark[1]{5.2　网络与影响力：跨国接续}{page06}
+\Box{15}{27}{180}{\fontsize{20}{27}\selectfont\color{ink}\sffamily \bfseries 5.2　网络与影响力：跨国接续}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 同一条模型关系有两个地理角色：基座来源地与后续发布地。把方向保留下来，才能解释中国资源如何进入全球再创造，以及不同国家在供给与接续中的分工。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-5-2-2.pdf}}
+\Box{15}{199}{180}{\fontsize{7.6}{10.7}\selectfont\color{muted}\sffamily 图 5-5　可识别跨国派生关系的来源与去向。来源：2026.9.13 流向表\hyperlink{src6}{［6］}，186 个有向国家组合、10,943 对关系。桑基图保留全部计数，地图突出四条路径；按发布者归属定位。仅为双端可识别跨国子集，不能代表全球复用份额。}
+\Box{15}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ① 中国贡献体现为全球后续创造的起点}
+\Box{15}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}中国基座至美国派生发布者有 4,639 对关系，占跨国样本 42.4\%，是最大的单一方向。它提供了超越发布数量的中国贡献证据：资源由不同地区的主体继续使用与改造。}
+\Box{108}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ② 跨境关系为合作提供具体入口}
+\Box{108}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}中国来源的可见跨国关系中，美国占 78.8\%，其余连接德国、英国、法国等节点。可沿已有版本关系邀请伙伴开展联合评测、兼容维护和问题反馈，再用共同交付检验合作。}
+\Box{15}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ③ 基座供给与接续发布是互补角色}
+\Box{15}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}中国在来源端有 5,888 对关系，美国在发布端有 7,513 对；德国、法国也同时参与两端。只观察其中一端，会遗漏全球分工中其他形式的贡献。}
+\Box{108}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ④ 全球南方也可成为新的上游}
+\Box{108}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}印度、巴西在样本中更多位于派生发布端，印度尼西亚同时具有 78 对基座输出和 29 对派生发布。支持策略应围绕当地任务，允许从适配、数据共建逐步走向新的资源供给。}
+\end{canvas}
+\begin{canvas}\Header{第五章 · 全球开源大模型发展洞察}{teal}\Footer{07}\pdfbookmark[1]{5.2　网络与影响力：层次与时序}{page07}
+\Box{15}{27}{180}{\fontsize{20}{27}\selectfont\color{ink}\sffamily \bfseries 5.2　网络与影响力：层次与时序}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily ModelRank 依据模型派生与复用网络衡量影响位置，“席位”指入榜模型版本数。把头部深度与月度变化一起看，可以区分重点版本的突破与更广生态的积累。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-5-2-3.pdf}}
+\Box{15}{199}{180}{\fontsize{7.6}{10.7}\selectfont\color{muted}\sffamily 图 5-6　ModelRank 国家席位的层次与月度变化。来源：2024.7—2026.8 月表\hyperlink{src7}{［7］}。主期末为 2026.6；浅青区为主期，灰区与虚线为期后。未知归属留在分母，三档榜单相互包含，席位不是影响力分值份额。}
+\Box{15}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ① 头部接近与生态广度可以同时观察}
+\Box{15}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}主期末 Top20 中，中国与美国为 9 席、8 席；扩大到 Top100，则为 37 席、50 席。两种观察揭示不同层次：重点版本的位置与更广的资源覆盖需要分别积累。}
+\Box{108}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ② 快速变化需要连续观察}
+\Box{108}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}主期 Top20 中国席位在 6—14 席、美国在 5—12 席之间变化，两国相对先后有四次月间反转。策略应追踪版本的持续复用与维护，避免用一个月的峰值代替长期判断。}
+\Box{15}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ③ 长窗口与报告年度回答不同问题}
+\Box{15}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}2024.7—2026.8，Top100 中美席位差由 59 席缩至 3 席；而主期首末月为 12 席与 13 席。中国的长期接近与年度内反复可以并存，应保留不同时间尺度的解释。}
+\Box{108}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ④ 影响位置还需连接开放条件}
+\Box{108}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}期后 8 月 Top20 中国增至 16 席；与此同时，Top1000 归属未知比例有所上升。接下来应核查具体版本、家族与开放材料，判断哪些资源能够被持续理解、修改与验证。}
+\end{canvas}
+\begin{canvas}\Header{第五章 · 全球开源大模型发展洞察}{teal}\Footer{08}\pdfbookmark[1]{5.3　开源开放与分级体系}{page08}
+\Box{15}{27}{180}{\fontsize{20}{27}\selectfont\color{ink}\sffamily \bfseries 5.3　开源开放与分级体系}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 模型被下载和复用之后，还要回答“交付了什么”与“允许怎样使用”。完整性 L 描述再创造所需材料，开放性 O 描述权利条件；具体版本、公开证据和运行验证共同构成评价基础。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-5-3-1.pdf}}
+\Box{15}{199}{180}{\fontsize{7.6}{10.7}\selectfont\color{muted}\sffamily 图 5-7　模型开放条件的双轴阅读图。释义据项目保留分级规范及要求表\hyperlink{src8}{［8］}；L2＋O3 为概念示例，不授予具体模型等级。正式标准全文适用仍待逐条比对。高完整与高开放为本章分析分组，分级不等于开源 AI 或数字公共品认证。}
+\Box{15}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ① 完整交付决定接续能走多远}
+\Box{15}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}从部署到理解、训练、验证与全链复现，材料逐步累积。完整性需要把代码、数据说明和环境连起来检查；文件数量或技术报告篇幅不能替代可运行、可核对的交付。}
+\Box{108}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ② 权限与材料应当分别评价}
+\Box{108}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}开放性说明使用、修改与再分发的限制或义务。即使权重与代码容易获取，也要核对预期用途的授权；许可较宽松，也不意味着训练材料已完整交付。}
+\Box{15}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ③ 两条轴能指出具体的补齐任务}
+\Box{15}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}例如 L2＋O3 表示材料支持部署与理解、授权较宽松。若希望独立再训练，还要补齐相应代码、数据来源与处理规则。这种拆解比一个综合分数更有利于安排公共投入。}
+\Box{108}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ④ 验证使开放从声明走向能力}
+\Box{108}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}评价应固定模型版本、记录材料来源，并按要求完成验证。基金会、高校与企业可以共同维护验证环境与证据记录，让外部使用者能够复核，也让维护责任有据可查。}
+\end{canvas}
+\begin{canvas}\Header{第五章 · 全球开源大模型发展洞察}{teal}\Footer{09}\pdfbookmark[1]{5.3　开放条件：地域与主体}{page09}
+\Box{15}{27}{180}{\fontsize{20}{27}\selectfont\color{ink}\sffamily \bfseries 5.3　开放条件：地域与主体}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 基于同一组 889 条可追溯模型记录，地图与主体结构共同说明：哪些地区进入了评价视野，谁提供了规模，谁交付了更完整的开放材料。发布主体标签与国家归属均沿用来源明细。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-5-3-2.pdf}}
+\Box{15}{199}{180}{\fontsize{7.6}{10.7}\selectfont\color{muted}\sffamily 图 5-8　开放评价样本的地域与发布主体。来源：OpenGauge 严格模式明细\hyperlink{src9}{［9］}，2026.11.11 读取，889 个完整模型 ID 去重；825 条可定位、64 条未知。地图色深表示数量；高校与非营利合并统计。样本不代表全平台总体。}
+\Box{15}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ① 地图把覆盖范围与资源位置一起呈现}
+\Box{15}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}中国 415 条、美国 263 条，合计占全样本 76.3\%；法国、韩国、德国等亦有可见记录。地图既标出已评价的资源，也提醒后续扩大地区和语言覆盖，而不是将空白等同于没有供给。}
+\Box{108}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ② 多个地区已有可见的模型供给节点}
+\Box{108}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}法国 36 条、韩国 28 条、德国 18 条；新加坡、英国、印度等也进入前列。这些记录为跨地区合作提供具体入口，仍需结合任务与主体识别优势，不能用评价样本数量替代全部供给规模。}
+\Box{15}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ③ 企业是规模供给与双高资源的重要来源}
+\Box{15}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}企业提供 728 条记录，占 81.9\%；其中 69 条达到双高，占全部双高记录 59.0\%。企业不仅贡献数量，也承担最多的双高资源，规模与材料交付需要一起观察。}
+\Box{108}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ④ 跨地区合作需要连接不同主体}
+\Box{108}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}中国样本包含 24 条非营利／高校记录与 25 条社区记录，美国分别为 14 条与 9 条。全球非营利／高校的双高比例为 42.6\%；可将这类交付经验与企业规模供给连接起来，支持共同维护与独立复现。}
+\end{canvas}
+\begin{canvas}\Header{第五章 · 全球开源大模型发展洞察}{teal}\Footer{10}\pdfbookmark[1]{5.3　开放条件：全球结构}{page10}
+\Box{15}{27}{180}{\fontsize{20}{27}\selectfont\color{ink}\sffamily \bfseries 5.3　开放条件：全球结构}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 同一套开放评价明细中，较宽松的使用权限与较完整的研究交付呈现不同格局。把地图、比例和等级矩阵联读，可以识别开放资源通向独立维护与再创造时，最需要补齐的环节。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-5-3-3.pdf}}
+\Box{15}{199}{180}{\fontsize{7.6}{10.7}\selectfont\color{muted}\sffamily 图 5-9　全球开放权限与材料完整性。来源同图 5-8\hyperlink{src9}{［9］}；高完整为 L3—L5，高开放为 O2—O4，双高为两者交集。比例按各国或图示分母计算，矩阵计数总和为 889；等级沿用来源，不代表本报告已独立运行验证。}
+\Box{15}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ① 完整材料的地域分布需要单独观察}
+\Box{15}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}中国、美国样本的高完整比例为 16.4\%、27.0\%，法国、韩国为 13.9\%、7.1\%。本样本 10 条 L5 记录均被来源归入美国，可沿具体版本学习全链交付实践；这些比例不代表各国全部模型。}
+\Box{108}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ② 不同地域有共同的材料补齐议题}
+\Box{108}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}中国与美国的高开放比例分别为 85.3\%、47.9\%，双高比例则接近，为 13.5\%、12.9\%。差异提醒我们分别讨论许可与完整性，也为跨国复现、评测和材料维护提供共同议题。}
+\Box{15}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ③ 最大单元指出最集中的改进方向}
+\Box{15}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}L2—O3 共有 438 条，占 49.3\%：使用权限较宽松，但材料完整性停留在模型理解层。支持重点可转向可执行训练、数据来源与处理链，让已有开放权限更容易转成再创造能力。}
+\Box{108}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ④ 从可用权利走向可复现交付}
+\Box{108}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}617 条高开放记录中，117 条同时高完整，占 19.0\%；其余 500 条停留在 L1—L2。授权之后仍有训练材料、数据说明和验证环境的建设空间，公共支持应将这些交付纳入共同维护。}
+\end{canvas}
+\begin{canvas}\Header{第五章 · 全球开源大模型发展洞察}{teal}\Footer{11}\pdfbookmark[1]{5.3　开放条件：中国画像}{page11}
+\Box{15}{27}{180}{\fontsize{20}{27}\selectfont\color{ink}\sffamily \bfseries 5.3　开放条件：中国画像}
+\Box{15}{40}{180}{\fontsize{9.7}{13.5}\selectfont\color{muted}\sffamily 中国样本覆盖模型、视觉、语音与检索等多种任务。供给与许可开放已形成可见基础，进一步的建设重点，是把头部资源优势连接到训练材料、数据治理、独立验证与持续维护。}
+\Box{15}{53}{180}{\includegraphics[width=180mm]{.build/assets/fig-5-3-4.pdf}}
+\Box{15}{199}{180}{\fontsize{7.6}{10.7}\selectfont\color{muted}\sffamily 图 5-10　中国开放评价样本的主体、任务与材料。来源：OpenGauge 889 条明细及逐项证据\hyperlink{src9}{［9］}\hyperlink{src10}{［10］}，中国子集 415 条。三案例采用精确模型 ID，圆点为平台材料评估；“未找到充分证据”不等于材料不存在，也不表示本报告独立验证。}
+\Box{15}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ① 头部企业牵引，多主体继续展开}
+\Box{15}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}中国样本覆盖 61 个发布主体。前三家合计提供 182 条记录，占 43.9\%。头部规模提供协作入口，支持政策还应识别具体资源与任务，关注数据、评测与维护团队，避免只围绕单个模型热度布局。}
+\Box{108}{214}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ② 下一步机会在完整交付能力}
+\Box{108}{220.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}中国 354 条高开放记录中，56 条同时高完整，占 15.8\%。L2—O3 的 287 条是最大单元。补齐训练材料、数据来源与验证环境，有助于把使用权限延伸为自主适配与维护能力。}
+\Box{15}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ③ 多类任务要求不同的公共支撑}
+\Box{15}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}中国样本包含 162 条语言与文本、118 条多模态、83 条视觉等记录。语音、检索也有供给；公共评测、数据与本地化支持应按任务设计，保留多种团队进入协作的路径。}
+\Box{108}{247}{87}{\fontsize{10.1}{14.3}\selectfont\color{teal}\sffamily \bfseries ④ 用具体版本安排可交付的工作}
+\Box{108}{253.2}{87}{\fontsize{9.65}{14.6}\selectfont\color{ink}Qwen3-0.6B、DeepSeek-R1 与 bge-m3 的材料状态不同，适合逐项确定补齐或复核任务。面向普惠试点，还须进一步验证成本、本地化、维护责任和使用结果，才能判断公共能力是否形成。}
+\end{canvas}
+\begin{canvas}\Header{第五章 · 全球开源大模型发展洞察}{teal}\Footer{12}\pdfbookmark[1]{本章综合：将开放资源转为公共能力}{page12}
+\Box{15}{27}{180}{\fontsize{20}{27}\selectfont\color{ink}\sffamily \bfseries 本章综合｜将开放资源转为公共能力}
+\Box{15}{40}{180}{\fontsize{11}{16}\selectfont\color{teal}\sffamily \bfseries 支持资源分工，连接全球接续，补齐可持续使用的条件}
+\Box{15}{56}{180}{\fontsize{11.3}{16}\selectfont\color{teal}\sffamily \bfseries 供给需要按资源与主体理解}
+\Box{15}{63}{180}{\fontsize{10}{15}\selectfont\color{ink}模型与数据的主要供给者并不相同，中国省级样本也呈现资源互补。支持对象应同时覆盖模型、数据、文档与维护，让公开资源能够通过具体接口和共同任务连接起来。见图 5-1—5-3。}
+\Box{15}{86}{180}{\fontsize{11.3}{16}\selectfont\color{teal}\sffamily \bfseries 中国贡献应置于全球再创造中观察}
+\Box{15}{93}{180}{\fontsize{10}{15}\selectfont\color{ink}跨国样本中，中国基座至美国派生发布者有 4,639 对关系；另一局部网络中，552 个版本同时连接上下游。这些证据分别揭示跨境方向与接续角色，为联合适配和维护提供入口。见图 5-4—5-6。}
+\Box{15}{116}{180}{\fontsize{11.3}{16}\selectfont\color{teal}\sffamily \bfseries 开放权限还需要完整交付与独立验证}
+\Box{15}{123}{180}{\fontsize{10}{15}\selectfont\color{ink}同一组 889 条记录中，高开放 617 条、高完整 175 条，两项重合 117 条。材料与权利的差异指向具体建设任务：训练配方、数据说明、验证环境与维护责任。见图 5-7—5-10。}
+\Rule{15}{149}{195}{line}
+\Box{15}{156}{180}{\fontsize{12}{17}\selectfont\color{teal}\sffamily \bfseries 面向行动：明确主体、交付与可观测结果}
+\Rect{15}{167}{87}{43}{paper}
+\Box{18}{170}{81}{\fontsize{10.7}{14.6}\selectfont\color{ink}\sffamily \bfseries 公共资源支持}
+\Box{18}{178}{81}{\fontsize{8.8}{12}\selectfont\color{teal}\sffamily 政府、基金会与资助机构}
+\Box{18}{185}{81}{\fontsize{9.4}{14}\selectfont\color{ink}将数据整理、文档和复现环境列入支持任务；验收材料版本、独立复现结果与维护响应。}
+\Rect{108}{167}{87}{43}{paper}
+\Box{111}{170}{81}{\fontsize{10.7}{14.6}\selectfont\color{ink}\sffamily \bfseries 跨境协作计划}
+\Box{111}{178}{81}{\fontsize{8.8}{12}\selectfont\color{teal}\sffamily 模型发布者与接续社区}
+\Box{111}{185}{81}{\fontsize{9.4}{14}\selectfont\color{ink}沿真实版本关系组织联合评测与适配；观察共同维护、兼容性修复及问题反馈闭环。}
+\Rect{15}{216}{87}{43}{paper}
+\Box{18}{219}{81}{\fontsize{10.7}{14.6}\selectfont\color{ink}\sffamily \bfseries 开放评价治理}
+\Box{18}{227}{81}{\fontsize{8.8}{12}\selectfont\color{teal}\sffamily 标准、评测与研究机构}
+\Box{18}{234}{81}{\fontsize{9.4}{14}\selectfont\color{ink}固定规则、版本和证据，公开改判记录；以材料完整度、验证通过与响应时效持续复核。}
+\Rect{108}{216}{87}{43}{paper}
+\Box{111}{219}{81}{\fontsize{10.7}{14.6}\selectfont\color{ink}\sffamily \bfseries 普惠能力试点}
+\Box{111}{227}{81}{\fontsize{8.8}{12}\selectfont\color{teal}\sffamily 当地伙伴、高校与产业团队}
+\Box{111}{234}{81}{\fontsize{9.4}{14}\selectfont\color{ink}围绕本地语言与场景实施；记录成本、本地化、维护责任和使用结果，再判断是否扩大。}
+\Box{15}{268}{180}{\fontsize{8.8}{12.5}\selectfont\color{muted}\sffamily 这些行动方向由本章证据支持，实施效果仍需验证；第六章进一步明确优先次序、承担主体与后续监测信号。}
+\end{canvas}
+\begin{canvas}\Header{附录 A · 第五章方法与证据}{teal}\Footer{A1}\pdfbookmark[1]{第五章：数据与阅读口径}{pageA1}
+\Box{15}{27}{180}{\fontsize{20}{27}\selectfont\color{ink}\sffamily \bfseries 附录 A｜数据与阅读口径}
+\Box{15}{43}{180}{\fontsize{10}{15}\selectfont\color{muted}全章区分资源数量、获取活动、声明关系、网络位置与开放条件。图中数字只在标明的对象、样本与时间范围内解释，不合成为一个国家或模型总分。}
+\Box{15}{65}{180}{\fontsize{10.7}{15}\selectfont\color{teal}\sffamily \bfseries 图 5-1—5-3｜供给与地域}
+\Box{15}{72.5}{180}{\fontsize{9.5}{14}\selectfont\color{ink}平台总览于北京时间 2026.11.11 读取。地域沿用 2026.10.17 冻结的 826 个组织账号、73,088 个模型与 12,502 个数据集；此次实时地域接口超时，不据平台总量更新地域比例。国家按组织归属，省级归属待补仍留在全国分母。}
+\Box{15}{99}{180}{\fontsize{10.7}{15}\selectfont\color{teal}\sffamily \bfseries 图 5-2｜两类时间序列}
+\Box{15}{106.5}{180}{\fontsize{9.5}{14}\selectfont\color{ink}年度为 2026.09.13 仍可见仓库按创建日期回看各年同日，非逐年独立快照。月度记录图示 2024.07—2026.06，主期合计与此前 12 个月比较；两套来源不拼接，月度留存与下架规则尚待补充。}
+\Box{15}{133}{180}{\fontsize{10.7}{15}\selectfont\color{teal}\sffamily \bfseries 图 5-4—5-6｜接续与影响}
+\Box{15}{140.5}{180}{\fontsize{9.5}{14}\selectfont\color{ink}网络来自 2026.10.16 非随机前 12,000 个输入中的双端可见声明关系；网络位置无能力含义。跨国表为 2026.09.13 的 10,943 对关系，与网络样本不同。来源称国家识别覆盖约 2.59\%（含境内），完整分母尚未独立重建。}
+\Box{15}{167}{180}{\fontsize{10.7}{15}\selectfont\color{teal}\sffamily \bfseries 图 5-7—5-10｜统一开放评价样本}
+\Box{15}{174.5}{180}{\fontsize{9.5}{14}\selectfont\color{ink}采用 2026.11.11 读取的 889 个完整模型 ID，与逐项证据逐条对应，保留严格模式等级。以 country 字段重算国别，未知 64 条保留；未使用容易混淆的地区比较标签。旧 870、884 样本留作归档，不将差值视为增长。}
+\Box{15}{201}{180}{\fontsize{10.7}{15}\selectfont\color{teal}\sffamily \bfseries 分级与案例｜规则和证据的边界}
+\Box{15}{208.5}{180}{\fontsize{9.5}{14}\selectfont\color{ink}L1—L5 为累进完整性，O1—O4 为许可条件；高完整 L3—L5，高开放 O2—O4。材料状态与许可资格字段的语义不同，不能把 missing 直接当成文件不存在。三案例取相同模型 ID；本报告未独立重跑训练或授予等级。}
+\Box{15}{235}{180}{\fontsize{10.7}{15}\selectfont\color{teal}\sffamily \bfseries 待核事项｜后续证据建设}
+\Box{15}{242.5}{180}{\fontsize{9.5}{14}\selectfont\color{ink}补齐平台样本筛选年度、统一统计截止日与历史留存规则；复核正式标准全文及逐版本许可适用；完善跨国关系地理覆盖和派生类型。面向普惠实施，继续取得成本、本地化、维护与结果证据。}
+\end{canvas}
+\begin{canvas}\Header{附录 A · 第五章方法与证据}{teal}\Footer{A2}\pdfbookmark[1]{第五章：资料来源与复核入口}{pageA2}
+\Box{15}{27}{180}{\fontsize{20}{27}\selectfont\color{ink}\sffamily \bfseries 附录 A｜资料来源与复核入口}
+\Box{15}{42}{180}{\fontsize{9.8}{14.5}\selectfont\color{muted}标题链接通向原始来源。图表以归档数据与本次公开读取结果重绘，正文仅保留必要的来源编号；结构化源稿保留完整数据、口径、计算与版本记录。}
+\Box{15}{63.0}{180}{\hypertarget{src1}{}\sffamily\bfseries\fontsize{10.2}{14}\selectfont\href{http://47.100.76.186:9529/overview}{［1］OpenGauge 平台总览}}
+\Box{24}{69.2}{171}{\fontsize{9}{13}\selectfont\color{muted}\sffamily 2026.11.11 读取；公开模型与数据集仓库总量。}
+\Box{15}{80.6}{180}{\hypertarget{src2}{}\sffamily\bfseries\fontsize{10.2}{14}\selectfont\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/supply-observation.json}{［2］OpenGauge 供给观测归档}}
+\Box{24}{86.8}{171}{\fontsize{9}{13}\selectfont\color{muted}\sffamily 826 个组织账号的地域、主体、资产与月度序列；2026.10.17 冻结。}
+\Box{15}{98.2}{180}{\hypertarget{src3}{}\sffamily\bfseries\fontsize{10.2}{14}\selectfont\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter5/fig-5-1-1_hf_cumulative_models_publishers.csv}{［3］HF 模型与发布账号年度回溯}}
+\Box{24}{104.4}{171}{\fontsize{9}{13}\selectfont\color{muted}\sffamily 2022—2026 各年 9 月 13 日；终点可见仓库回溯。}
+\Box{15}{115.80000000000001}{180}{\hypertarget{src4}{}\sffamily\bfseries\fontsize{10.2}{14}\selectfont\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/lineage-live-provenance.json}{［4］模型基座与派生网络来源记录}}
+\Box{24}{122.00000000000001}{171}{\fontsize{9}{13}\selectfont\color{muted}\sffamily 2026.10.16 非随机样本；5,777 个节点与 5,111 条声明边。}
+\Box{15}{133.4}{180}{\hypertarget{src5}{}\sffamily\bfseries\fontsize{10.2}{14}\selectfont\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter5/fig-5-2-1_hf_cumulative_derivation.csv}{［5］HF 派生模型年度回溯}}
+\Box{24}{139.6}{171}{\fontsize{9}{13}\selectfont\color{muted}\sffamily 有基座声明的仓库；与年度总模型使用同一回溯口径。}
+\Box{15}{151.0}{180}{\hypertarget{src6}{}\sffamily\bfseries\fontsize{10.2}{14}\selectfont\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter5/fig-5-2-2_cross_country_derivation_flows.csv}{［6］跨国模型派生关系表}}
+\Box{24}{157.2}{171}{\fontsize{9}{13}\selectfont\color{muted}\sffamily 2026.09.13；186 个有向国家组合、10,943 对关系。}
+\Box{15}{168.60000000000002}{180}{\hypertarget{src7}{}\sffamily\bfseries\fontsize{10.2}{14}\selectfont\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter5/fig-5-2-3_modelrank_country_head_trend.csv}{［7］ModelRank 国家头部席位月表}}
+\Box{24}{174.8}{171}{\fontsize{9}{13}\selectfont\color{muted}\sffamily 2024.07—2026.08；主期末 2026.06，未知归属保留分母。}
+\Box{15}{186.20000000000002}{180}{\hypertarget{src8}{}\sffamily\bfseries\fontsize{10.2}{14}\selectfont\href{https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/openness53-methods.md}{［8］模型开放分级规范：项目保留文本与要求表}}
+\Box{24}{192.4}{171}{\fontsize{9}{13}\selectfont\color{muted}\sffamily 用于双轴释义；正式标准全文适用仍待逐条核对。}
+\Box{15}{203.8}{180}{\hypertarget{src9}{}\sffamily\bfseries\fontsize{10.2}{14}\selectfont\href{http://47.100.76.186:9529/api/openness/quadrant/}{［9］OpenGauge 开放评价模型明细}}
+\Box{24}{210.0}{171}{\fontsize{9}{13}\selectfont\color{muted}\sffamily 889 个模型 ID；2026.11.11 读取，保留来源严格模式等级。}
+\Box{15}{221.4}{180}{\hypertarget{src10}{}\sffamily\bfseries\fontsize{10.2}{14}\selectfont\href{http://47.100.76.186:9529/openness}{［10］OpenGauge 逐模型材料与许可证据}}
+\Box{24}{227.6}{171}{\fontsize{9}{13}\selectfont\color{muted}\sffamily 九页、每页最多 100 条，共 889 条；按模型 ID 关联。}
+\Rule{15}{244}{195}{line}
+\Box{15}{251}{180}{\fontsize{10.3}{14}\selectfont\color{teal}\sffamily \bfseries 地图与名词}
+\Box{15}{259}{180}{\fontsize{9.3}{13.7}\selectfont\color{muted}地图沿用本报告已使用的世界与中国几何，台湾省纳入中国。模型仓库包含基座与后续版本；下载表示获取活动；地域为发布者归属；派生关系来自模型声明。以上指标均不直接证明实际部署或公共成效。}
+\end{canvas}
+\end{document}

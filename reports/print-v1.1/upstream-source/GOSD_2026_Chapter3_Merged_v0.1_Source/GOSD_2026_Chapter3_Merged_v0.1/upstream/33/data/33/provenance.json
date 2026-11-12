@@ -1,0 +1,49 @@
+{
+  "version": "3.3 v0.2",
+  "status": "review draft",
+  "retrieved_on": "2026-11-10",
+  "period": [
+    "2025-07-01",
+    "2026-06-30"
+  ],
+  "platforms": [
+    "GitHub",
+    "Gitee",
+    "GitLab",
+    "AtomGit"
+  ],
+  "base_commit": "fff392e957bab9fb6d89d49dea712af47484efaa",
+  "rank_snapshot_commit": "c51e3441361407b68f10b339d97eff288319b503",
+  "label_time": "2026-11-10",
+  "aaif_official_projects_at_period_end": 4,
+  "aaif_official_projects_current": 10,
+  "aaif_current_database_projects": 6,
+  "lf_current_subfoundation_labels_with_period_records": 13,
+  "interpretation": "Retrospective current labels; no attribution of pre-joining activity to foundation governance. Raw label scores retain baseline aggregation. Dedup diagnostic is separately recorded.",
+  "evidence_note": "research/evidence-review.md",
+  "files": {
+    "foundation-top-repos.sql": "f04e43db0490e59695bcf8b5de2a3ed460bbdd3149cc61a46eec190a92262069",
+    "foundation-monthly.json": "23a7a332523ab50fd146617113d3ad53e0d2f7b914ae160b42c4c3f2f7b3c8cd",
+    "lf-union.sql": "c550089ea1b1bf998386aebd33b57db8ade62858328408e6053346adcd8c5f7d",
+    "foundation-dedup.sql": "a3446b11de05cf9e0223a3447a84ab7f866fededa3df8e873f0ff2264f431665",
+    "aaif-core-monthly.sql": "2e7e734dae987031bb0d72f73fe73745610a1385705d43628233e88da29f8b9a",
+    "foundation-monthly.sql": "273c52ffe210108e0c7897137553c861c00266be24f43feb16d217a8a4370a8b",
+    "foundation-dedup-monthly.json": "ec0f9904e3ee9b358024f5b70f908c3b784409edc9a5e17d1aa613dd50d10d1e",
+    "table-3-3-1_global_foundation_openrank.csv": "3b025c56d9eb0562ae78ca24cfa4eeccd434cec73f60f976eacf0deef4d94987",
+    "prior-provenance.json": "4050f829deeaaf0a0e0a5d143c6232aca1a44f851763aeaa8b681bf38969e9d1",
+    "foundation-top-repos-raw.json": "86ed82e59369101d2ca67725d8f7c456d59921c28389be3535eef146af79487e",
+    "logo-manifest.json": "c38f5676e1d7ead4cccbb57b6925eaf57711ffab378b9f8415499fd9a141a848",
+    "foundation-dedup-monthly.sql": "ff17d671c149ddfe2faae0d6184ed424c455db29130caebf435ab85f169f2892",
+    "lf-subgroups.json": "c15a2a8f1ad9579036f62fdd6de3fce738b5617350012e9be18dc2b3e91f8ded",
+    "foundation-statistics.json": "90c0c86c44554ff3b27fb4d933ae944a063daed21b28c2f5632372d15077905d",
+    "foundation-totals.sql": "8d47e774680e73d819a972c32fb7a978f07669074dcccff3b0cd27671cd5bf6d",
+    "foundation-top-repos-raw.sql": "6d732fa7141481bd2983edcefc52273520470816cbaf6ad29184eb7f2f3b71d8",
+    "foundation-dedup.json": "812f088c2e5638e44cf0f30ab15bc96b2d48ffd0acebd0a08dbda2d5c2200feb",
+    "all-label-hierarchy.json": "48aca755dd10521b37591ea604c56d0c1ab933e9130483531ea3a0b553ac9f25",
+    "foundation-positive.json": "0f7d5c46171c50a213a9d25f6787ebb11e294295d011924b1b1df7ced3d48a09",
+    "lf-union.json": "7768f7e5dc7c39895da71f6cb9dfbdb971a3f0f46391037ec52408d7cde03ed4",
+    "aaif-core-monthly.json": "99883bf7bf918c4bec020cfeef495a6bba88d29cba041028346b19a02994f156",
+    "foundation-totals.json": "5a8bd363e892a18f1e7b58c3872953d0327fbc87f0c7385ca99f3c1129171e13",
+    "foundation-top-repos.json": "c56b59cfdbb1feb806ab1d42a08ce0675baa1b4b113c16b7e9f5e566ca158b50"
+  }
+}

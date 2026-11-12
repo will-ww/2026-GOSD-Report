@@ -1,0 +1,782 @@
+{
+	"meta":
+	[
+		{
+			"name": "id",
+			"type": "LowCardinality(String)"
+		},
+		{
+			"name": "name",
+			"type": "String"
+		},
+		{
+			"name": "openrank",
+			"type": "Float64"
+		}
+	],
+
+	"data":
+	[
+		{
+			"id": ":companies\/huawei\/openharmony",
+			"name": "OpenHarmony",
+			"openrank": 75809.42
+		},
+		{
+			"id": ":companies\/microsoft\/azure",
+			"name": "Azure",
+			"openrank": 29382.06
+		},
+		{
+			"id": ":companies\/microsoft\/dotnet",
+			"name": "C#\/.Net",
+			"openrank": 26437.85
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"openrank": 24785.25
+		},
+		{
+			"id": ":foundations\/nixos\/nixos",
+			"name": "NixOS",
+			"openrank": 21258.31
+		},
+		{
+			"id": ":universities\/illinois\/llvm",
+			"name": "LLVM",
+			"openrank": 20026.38
+		},
+		{
+			"id": ":universities\/uc_berkeley\/vllm",
+			"name": "vLLM",
+			"openrank": 19532.07
+		},
+		{
+			"id": ":companies\/huawei\/openeuler",
+			"name": "openEuler",
+			"openrank": 18950.48
+		},
+		{
+			"id": ":companies\/datadog\/datadog",
+			"name": "DataDog",
+			"openrank": 16551.18
+		},
+		{
+			"id": ":companies\/redhat\/openshift",
+			"name": "OpenShift",
+			"openrank": 16465.88
+		},
+		{
+			"id": ":companies\/microsoft\/vscode",
+			"name": "VSCode",
+			"openrank": 15422.31
+		},
+		{
+			"id": ":projects\/openclaw",
+			"name": "OpenClaw",
+			"openrank": 14842.31
+		},
+		{
+			"id": ":companies\/huawei\/cann",
+			"name": "CANN",
+			"openrank": 14719.47
+		},
+		{
+			"id": ":companies\/mozilla\/rust",
+			"name": "Rust",
+			"openrank": 14687.8
+		},
+		{
+			"id": ":companies\/huawei\/ascend",
+			"name": "Ascend",
+			"openrank": 12973.33
+		},
+		{
+			"id": ":companies\/nabucasa\/home_assistant",
+			"name": "Home Assistant",
+			"openrank": 12840.53
+		},
+		{
+			"id": ":companies\/odoo\/odoo",
+			"name": "Odoo",
+			"openrank": 12357.48
+		},
+		{
+			"id": ":foundations\/python\/python",
+			"name": "Python",
+			"openrank": 11915.48
+		},
+		{
+			"id": ":technology\/programming_language\/javascript",
+			"name": "JavaScript\/TypeScript",
+			"openrank": 11640.41
+		},
+		{
+			"id": ":companies\/apple\/swift",
+			"name": "Swift",
+			"openrank": 11020.91
+		},
+		{
+			"id": ":projects\/conda_forge",
+			"name": "Conda Forge",
+			"openrank": 10637.63
+		},
+		{
+			"id": ":universities\/uc_berkeley\/sglang",
+			"name": "SGLang",
+			"openrank": 10549.41
+		},
+		{
+			"id": ":companies\/google\/opentelemetry",
+			"name": "OpenTelemetry",
+			"openrank": 10309.52
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf\/kubernetes",
+			"name": "Kubernetes",
+			"openrank": 9604.2
+		},
+		{
+			"id": ":companies\/anthropic\/claude_code",
+			"name": "Claude Code",
+			"openrank": 9241.59
+		},
+		{
+			"id": ":foundations\/linux_foundation\/zephyr",
+			"name": "Zephyr",
+			"openrank": 8645.65
+		},
+		{
+			"id": ":companies\/cloudflare\/cloudflare",
+			"name": "Cloudflare",
+			"openrank": 7834.37
+		},
+		{
+			"id": ":companies\/nextcloud\/nextcloud",
+			"name": "NextCloud",
+			"openrank": 7603.19
+		},
+		{
+			"id": ":companies\/langchain\/langchain",
+			"name": "LangChain",
+			"openrank": 7505.73
+		},
+		{
+			"id": ":companies\/dify_ai\/dify",
+			"name": "Dify",
+			"openrank": 7496.88
+		},
+		{
+			"id": ":companies\/expensify\/expensify",
+			"name": "Expensify",
+			"openrank": 7475.65
+		},
+		{
+			"id": ":companies\/oracle\/java",
+			"name": "Java",
+			"openrank": 7437.02
+		},
+		{
+			"id": ":companies\/huawei\/mindspore",
+			"name": "MindSpore",
+			"openrank": 7321.46
+		},
+		{
+			"id": ":companies\/google\/flutter",
+			"name": "Flutter",
+			"openrank": 6986.55
+		},
+		{
+			"id": ":companies\/zed\/zed",
+			"name": "Zed",
+			"openrank": 6740.19
+		},
+		{
+			"id": ":companies\/n8n\/n8n",
+			"name": "n8n",
+			"openrank": 6706.43
+		},
+		{
+			"id": ":companies\/baidu\/paddle",
+			"name": "PaddlePaddle",
+			"openrank": 6567.09
+		},
+		{
+			"id": ":companies\/elastic\/kibana",
+			"name": "Kibana",
+			"openrank": 6486.06
+		},
+		{
+			"id": ":companies\/consensys\/metamask",
+			"name": "MetaMask",
+			"openrank": 6484.76
+		},
+		{
+			"id": ":companies\/amazon\/opensearch",
+			"name": "OpenSearch",
+			"openrank": 6400.8
+		},
+		{
+			"id": ":companies\/google\/dart",
+			"name": "Dart",
+			"openrank": 6068.74
+		},
+		{
+			"id": ":companies\/berriai\/litellm",
+			"name": "LiteLLM",
+			"openrank": 5972.28
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/eslint",
+			"name": "ESLint",
+			"openrank": 5867.33
+		},
+		{
+			"id": ":foundations\/godot\/godot_engine",
+			"name": "Godot Engine",
+			"openrank": 5866.91
+		},
+		{
+			"id": ":companies\/yandex\/clickhouse",
+			"name": "ClickHouse",
+			"openrank": 5258.18
+		},
+		{
+			"id": ":companies\/grafana\/grafana",
+			"name": "Grafana",
+			"openrank": 5195.84
+		},
+		{
+			"id": ":foundations\/linux_foundation\/sonic",
+			"name": "SONiC",
+			"openrank": 4926.08
+		},
+		{
+			"id": ":companies\/meta\/spring_projects",
+			"name": "Spring",
+			"openrank": 4902.42
+		},
+		{
+			"id": ":projects\/cherry_studio",
+			"name": "Cherry Studio",
+			"openrank": 4834.72
+		},
+		{
+			"id": ":companies\/anomaly\/opencode",
+			"name": "OpenCode",
+			"openrank": 4829.04
+		},
+		{
+			"id": ":companies\/huawei\/cangjie",
+			"name": "Cangjie",
+			"openrank": 4806.2
+		},
+		{
+			"id": ":projects\/pydantic",
+			"name": "Pydantic",
+			"openrank": 4794.33
+		},
+		{
+			"id": ":companies\/nvidia\/dynamo",
+			"name": "Dynamo",
+			"openrank": 4785.47
+		},
+		{
+			"id": ":companies\/intel\/openvino",
+			"name": "OpenVINO",
+			"openrank": 4773.66
+		},
+		{
+			"id": ":companies\/tenstorrent\/tt_metal",
+			"name": "TT-Metal",
+			"openrank": 4746.73
+		},
+		{
+			"id": ":companies\/google\/gemini_cli",
+			"name": "Gemini CLI",
+			"openrank": 4670.82
+		},
+		{
+			"id": ":companies\/rancher\/rancher",
+			"name": "Rancher",
+			"openrank": 4660.61
+		},
+		{
+			"id": ":companies\/openai\/codex",
+			"name": "Codex",
+			"openrank": 4523.78
+		},
+		{
+			"id": ":companies\/soundcloud\/prometheus",
+			"name": "Prometheus",
+			"openrank": 4474.45
+		},
+		{
+			"id": ":companies\/anthropic\/modelcontextprotocol",
+			"name": "Model Context Protocol",
+			"openrank": 4468.87
+		},
+		{
+			"id": ":companies\/supabase\/supabase",
+			"name": "Supabase",
+			"openrank": 4425.94
+		},
+		{
+			"id": ":companies\/elastic\/elasticsearch",
+			"name": "Elasticsearch",
+			"openrank": 4236.48
+		},
+		{
+			"id": ":companies\/jetbrains\/kotlin",
+			"name": "Kotlin",
+			"openrank": 4128.25
+		},
+		{
+			"id": ":companies\/google\/go",
+			"name": "Go",
+			"openrank": 4119.42
+		},
+		{
+			"id": ":companies\/bitwarden\/bitwarden",
+			"name": "Bitwarden",
+			"openrank": 4112.06
+		},
+		{
+			"id": ":companies\/newrelic\/newrelic",
+			"name": "New Relic",
+			"openrank": 4078.56
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/node.js",
+			"name": "Node.js",
+			"openrank": 4030.07
+		},
+		{
+			"id": ":projects\/openwrt",
+			"name": "OpenWrt",
+			"openrank": 3997.08
+		},
+		{
+			"id": ":companies\/brave\/brave",
+			"name": "Brave",
+			"openrank": 3986.51
+		},
+		{
+			"id": ":foundations\/ruby\/ruby",
+			"name": "Ruby",
+			"openrank": 3883.37
+		},
+		{
+			"id": ":companies\/camunda\/camunda",
+			"name": "Camunda",
+			"openrank": 3861.64
+		},
+		{
+			"id": ":projects\/open_webui",
+			"name": "Open WebUI",
+			"openrank": 3838.36
+		},
+		{
+			"id": ":companies\/llama_corp\/defillama",
+			"name": "DefiLlama",
+			"openrank": 3770.45
+		},
+		{
+			"id": ":companies\/huggingface\/transformers",
+			"name": "Transformers",
+			"openrank": 3766.43
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/webpack",
+			"name": "webpack",
+			"openrank": 3760.77
+		},
+		{
+			"id": ":companies\/yandex\/ydb",
+			"name": "YDB",
+			"openrank": 3731.75
+		},
+		{
+			"id": ":projects\/homebrew",
+			"name": "Homebrew",
+			"openrank": 3731.74
+		},
+		{
+			"id": ":companies\/redhat\/ceph",
+			"name": "Ceph",
+			"openrank": 3634.19
+		},
+		{
+			"id": ":companies\/laravel\/laravel",
+			"name": "Laravel",
+			"openrank": 3513.18
+		},
+		{
+			"id": ":companies\/woo\/woocommerce",
+			"name": "WooCommerce",
+			"openrank": 3421.81
+		},
+		{
+			"id": ":projects\/is_a_dev",
+			"name": "Is-a.dev",
+			"openrank": 3406.2
+		},
+		{
+			"id": ":companies\/nvidia\/tensorrt",
+			"name": "TensorRT",
+			"openrank": 3405.74
+		},
+		{
+			"id": ":companies\/astral\/ruff",
+			"name": "Ruff",
+			"openrank": 3396.66
+		},
+		{
+			"id": ":companies\/redis\/redis",
+			"name": "Redis",
+			"openrank": 3320.29
+		},
+		{
+			"id": ":companies\/isovalent\/cilium",
+			"name": "Cilium",
+			"openrank": 3267.75
+		},
+		{
+			"id": ":companies\/google\/firebase",
+			"name": "Firebase",
+			"openrank": 3267.03
+		},
+		{
+			"id": ":companies\/650_industries\/expo",
+			"name": "Expo",
+			"openrank": 3250.23
+		},
+		{
+			"id": ":companies\/airbnb\/airflow",
+			"name": "Apache Airflow",
+			"openrank": 3179.7
+		},
+		{
+			"id": ":companies\/scylladb\/scylladb",
+			"name": "ScyllaDB",
+			"openrank": 3148.11
+		},
+		{
+			"id": ":companies\/mozilla\/mdn",
+			"name": "MDN Web Docs",
+			"openrank": 3139.82
+		},
+		{
+			"id": ":companies\/vercel\/next",
+			"name": "Next.js",
+			"openrank": 3106.68
+		},
+		{
+			"id": ":projects\/first_contributions",
+			"name": "First Contributions",
+			"openrank": 3042.53
+		},
+		{
+			"id": ":universities\/uc_berkeley\/ray",
+			"name": "Ray",
+			"openrank": 3031.59
+		},
+		{
+			"id": ":companies\/google\/jax",
+			"name": "JAX",
+			"openrank": 3006.26
+		},
+		{
+			"id": ":companies\/coder\/coder",
+			"name": "Coder",
+			"openrank": 3000.64
+		},
+		{
+			"id": ":companies\/zilliz\/milvus",
+			"name": "Milvus",
+			"openrank": 2961.8
+		},
+		{
+			"id": ":foundations\/apache\/arrow",
+			"name": "Apache Arrow",
+			"openrank": 2952.32
+		},
+		{
+			"id": ":companies\/nordic_semiconductor\/nrf_connect",
+			"name": "nRF Connect",
+			"openrank": 2919.8
+		},
+		{
+			"id": ":companies\/google\/angular",
+			"name": "Angular",
+			"openrank": 2893.94
+		},
+		{
+			"id": ":companies\/ggml.ai\/llama.cpp",
+			"name": "llama.cpp",
+			"openrank": 2847.11
+		},
+		{
+			"id": ":institutions\/cern\/alice_o2",
+			"name": "AliceO2",
+			"openrank": 2813.24
+		},
+		{
+			"id": ":companies\/duckdb\/duckdb",
+			"name": "DuckDB",
+			"openrank": 2784.56
+		},
+		{
+			"id": ":companies\/flant\/deckhouse",
+			"name": "Deckhouse",
+			"openrank": 2753.13
+		},
+		{
+			"id": ":projects\/openssl",
+			"name": "OpenSSL",
+			"openrank": 2698.94
+		},
+		{
+			"id": ":projects\/space_station_14",
+			"name": "Space Station 14",
+			"openrank": 2688.76
+		},
+		{
+			"id": ":companies\/google\/grpc",
+			"name": "gRPC",
+			"openrank": 2677.92
+		},
+		{
+			"id": ":companies\/lyft\/envoy",
+			"name": "Envoy",
+			"openrank": 2675.8
+		},
+		{
+			"id": ":companies\/coreweave\/wandb",
+			"name": "Weights & Biases",
+			"openrank": 2669.48
+		},
+		{
+			"id": ":companies\/antgroup\/antd",
+			"name": "Ant Design",
+			"openrank": 2657.1
+		},
+		{
+			"id": ":companies\/matra_datavision\/freecad",
+			"name": "FreeCAD",
+			"openrank": 2621.68
+		},
+		{
+			"id": ":companies\/mattermost\/mattermost",
+			"name": "Mattermost",
+			"openrank": 2619.45
+		},
+		{
+			"id": ":companies\/cockroachlabs\/cockroachdb",
+			"name": "CockroachDB",
+			"openrank": 2618.65
+		},
+		{
+			"id": ":companies\/openai\/triton",
+			"name": "Triton",
+			"openrank": 2596.12
+		},
+		{
+			"id": ":companies\/paloaltonetworks\/cortex_content",
+			"name": "Cortex XSOAR",
+			"openrank": 2571.57
+		},
+		{
+			"id": ":companies\/collate\/openmetadata",
+			"name": "OpenMetadata",
+			"openrank": 2554.99
+		},
+		{
+			"id": ":companies\/sensiolabs\/symfony",
+			"name": "Symfony",
+			"openrank": 2550.43
+		},
+		{
+			"id": ":companies\/airbyte\/airbyte",
+			"name": "Airbyte",
+			"openrank": 2520.15
+		},
+		{
+			"id": ":companies\/ollama\/ollama",
+			"name": "Ollama",
+			"openrank": 2499.18
+		},
+		{
+			"id": ":projects\/systemd",
+			"name": "systemd",
+			"openrank": 2488.64
+		},
+		{
+			"id": ":companies\/google\/bazel",
+			"name": "Bazel",
+			"openrank": 2486.83
+		},
+		{
+			"id": ":projects\/svelte",
+			"name": "Svelte",
+			"openrank": 2459.79
+		},
+		{
+			"id": ":companies\/huawei\/opengauss",
+			"name": "openGauss",
+			"openrank": 2459.62
+		},
+		{
+			"id": ":projects\/comfyui",
+			"name": "Comfy UI",
+			"openrank": 2456.41
+		},
+		{
+			"id": ":companies\/livekit\/livekit",
+			"name": "LiveKit",
+			"openrank": 2432.69
+		},
+		{
+			"id": ":companies\/kong\/kong",
+			"name": "Kong",
+			"openrank": 2425.31
+		},
+		{
+			"id": ":companies\/metabase\/metabase",
+			"name": "Metabase",
+			"openrank": 2396.59
+		},
+		{
+			"id": ":companies\/databricks\/mlflow",
+			"name": "MLflow",
+			"openrank": 2394.03
+		},
+		{
+			"id": ":companies\/baidu\/doris",
+			"name": "Apache Doris",
+			"openrank": 2384.9
+		},
+		{
+			"id": ":companies\/langfuse\/langfuse",
+			"name": "Langfuse",
+			"openrank": 2374.61
+		},
+		{
+			"id": ":companies\/pivotal\/cloudfoundry",
+			"name": "Cloud Foundry",
+			"openrank": 2373.52
+		},
+		{
+			"id": ":companies\/alibaba\/modelscope",
+			"name": "ModelScope",
+			"openrank": 2370.03
+		},
+		{
+			"id": ":projects\/immich",
+			"name": "Immich",
+			"openrank": 2364.12
+		},
+		{
+			"id": ":projects\/open_journals",
+			"name": "Open Journals",
+			"openrank": 2346.04
+		},
+		{
+			"id": ":companies\/datastax\/langflow",
+			"name": "Langflow",
+			"openrank": 2325.3
+		},
+		{
+			"id": ":companies\/fivetran\/dbt",
+			"name": "dbt",
+			"openrank": 2311.62
+		},
+		{
+			"id": ":companies\/warp\/warp",
+			"name": "Warp",
+			"openrank": 2257.25
+		},
+		{
+			"id": ":companies\/pingcap\/tidb",
+			"name": "TiDB",
+			"openrank": 2255.32
+		},
+		{
+			"id": ":companies\/bytedance\/verl",
+			"name": "verl",
+			"openrank": 2247.85
+		},
+		{
+			"id": ":projects\/matplotlib",
+			"name": "Matplotlib",
+			"openrank": 2235.57
+		},
+		{
+			"id": ":foundations\/linux_foundation\/valkey",
+			"name": "Valkey",
+			"openrank": 2171.73
+		},
+		{
+			"id": ":universities\/uw\/flashinfer",
+			"name": "FlashInfer",
+			"openrank": 2158.96
+		},
+		{
+			"id": ":companies\/raycast\/raycast",
+			"name": "Raycast",
+			"openrank": 2148.2
+		},
+		{
+			"id": ":projects\/zen_browser",
+			"name": "Zen Browser",
+			"openrank": 2144.84
+		},
+		{
+			"id": ":companies\/linkedin\/datahub",
+			"name": "DataHub",
+			"openrank": 2119.89
+		},
+		{
+			"id": ":projects\/astrbot",
+			"name": "AstrBot AI",
+			"openrank": 2119.67
+		},
+		{
+			"id": ":companies\/netflix\/iceberg",
+			"name": "Apache Iceberg",
+			"openrank": 2108.6
+		},
+		{
+			"id": ":companies\/ibm\/open_liberty",
+			"name": "Open Liberty",
+			"openrank": 2051.42
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/express",
+			"name": "Express",
+			"openrank": 2045.74
+		},
+		{
+			"id": ":foundations\/csa_iot\/matter",
+			"name": "Matter",
+			"openrank": 2004.52
+		},
+		{
+			"id": ":companies\/fit2cloud\/1panel",
+			"name": "1Panel",
+			"openrank": 2002.13
+		}
+	],
+
+	"rows": 150,
+
+	"rows_before_limit_at_least": 832,
+
+	"statistics":
+	{
+		"elapsed": 0.676065411,
+		"rows_read": 216173308,
+		"bytes_read": 1242408111
+	}
+}

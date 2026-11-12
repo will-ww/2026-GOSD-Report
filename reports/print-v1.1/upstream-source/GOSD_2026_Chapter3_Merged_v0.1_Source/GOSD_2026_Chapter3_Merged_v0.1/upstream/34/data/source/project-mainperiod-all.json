@@ -1,0 +1,4190 @@
+{
+	"meta":
+	[
+		{
+			"name": "id",
+			"type": "LowCardinality(String)"
+		},
+		{
+			"name": "name",
+			"type": "String"
+		},
+		{
+			"name": "openrank",
+			"type": "Float64"
+		}
+	],
+
+	"data":
+	[
+		{
+			"id": ":companies\/huawei\/openharmony",
+			"name": "OpenHarmony",
+			"openrank": 75809.42
+		},
+		{
+			"id": ":companies\/microsoft\/azure",
+			"name": "Azure",
+			"openrank": 29382.06
+		},
+		{
+			"id": ":companies\/microsoft\/dotnet",
+			"name": "C#\/.Net",
+			"openrank": 26437.85
+		},
+		{
+			"id": ":companies\/meta\/pytorch",
+			"name": "PyTorch",
+			"openrank": 24785.25
+		},
+		{
+			"id": ":foundations\/nixos\/nixos",
+			"name": "NixOS",
+			"openrank": 21258.31
+		},
+		{
+			"id": ":universities\/illinois\/llvm",
+			"name": "LLVM",
+			"openrank": 20026.38
+		},
+		{
+			"id": ":universities\/uc_berkeley\/vllm",
+			"name": "vLLM",
+			"openrank": 19532.07
+		},
+		{
+			"id": ":companies\/huawei\/openeuler",
+			"name": "openEuler",
+			"openrank": 18950.48
+		},
+		{
+			"id": ":companies\/datadog\/datadog",
+			"name": "DataDog",
+			"openrank": 16551.18
+		},
+		{
+			"id": ":companies\/redhat\/openshift",
+			"name": "OpenShift",
+			"openrank": 16465.88
+		},
+		{
+			"id": ":companies\/microsoft\/vscode",
+			"name": "VSCode",
+			"openrank": 15422.31
+		},
+		{
+			"id": ":projects\/openclaw",
+			"name": "OpenClaw",
+			"openrank": 14842.31
+		},
+		{
+			"id": ":companies\/huawei\/cann",
+			"name": "CANN",
+			"openrank": 14719.47
+		},
+		{
+			"id": ":companies\/mozilla\/rust",
+			"name": "Rust",
+			"openrank": 14687.8
+		},
+		{
+			"id": ":companies\/huawei\/ascend",
+			"name": "Ascend",
+			"openrank": 12973.33
+		},
+		{
+			"id": ":companies\/nabucasa\/home_assistant",
+			"name": "Home Assistant",
+			"openrank": 12840.53
+		},
+		{
+			"id": ":companies\/odoo\/odoo",
+			"name": "Odoo",
+			"openrank": 12357.48
+		},
+		{
+			"id": ":foundations\/python\/python",
+			"name": "Python",
+			"openrank": 11915.48
+		},
+		{
+			"id": ":technology\/programming_language\/javascript",
+			"name": "JavaScript\/TypeScript",
+			"openrank": 11640.41
+		},
+		{
+			"id": ":companies\/apple\/swift",
+			"name": "Swift",
+			"openrank": 11020.91
+		},
+		{
+			"id": ":projects\/conda_forge",
+			"name": "Conda Forge",
+			"openrank": 10637.63
+		},
+		{
+			"id": ":universities\/uc_berkeley\/sglang",
+			"name": "SGLang",
+			"openrank": 10549.41
+		},
+		{
+			"id": ":companies\/google\/opentelemetry",
+			"name": "OpenTelemetry",
+			"openrank": 10309.52
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf\/kubernetes",
+			"name": "Kubernetes",
+			"openrank": 9604.2
+		},
+		{
+			"id": ":companies\/anthropic\/claude_code",
+			"name": "Claude Code",
+			"openrank": 9241.59
+		},
+		{
+			"id": ":foundations\/linux_foundation\/zephyr",
+			"name": "Zephyr",
+			"openrank": 8645.65
+		},
+		{
+			"id": ":companies\/cloudflare\/cloudflare",
+			"name": "Cloudflare",
+			"openrank": 7834.37
+		},
+		{
+			"id": ":companies\/nextcloud\/nextcloud",
+			"name": "NextCloud",
+			"openrank": 7603.19
+		},
+		{
+			"id": ":companies\/langchain\/langchain",
+			"name": "LangChain",
+			"openrank": 7505.73
+		},
+		{
+			"id": ":companies\/dify_ai\/dify",
+			"name": "Dify",
+			"openrank": 7496.88
+		},
+		{
+			"id": ":companies\/expensify\/expensify",
+			"name": "Expensify",
+			"openrank": 7475.65
+		},
+		{
+			"id": ":companies\/oracle\/java",
+			"name": "Java",
+			"openrank": 7437.02
+		},
+		{
+			"id": ":companies\/huawei\/mindspore",
+			"name": "MindSpore",
+			"openrank": 7321.46
+		},
+		{
+			"id": ":companies\/google\/flutter",
+			"name": "Flutter",
+			"openrank": 6986.55
+		},
+		{
+			"id": ":companies\/zed\/zed",
+			"name": "Zed",
+			"openrank": 6740.19
+		},
+		{
+			"id": ":companies\/n8n\/n8n",
+			"name": "n8n",
+			"openrank": 6706.43
+		},
+		{
+			"id": ":companies\/baidu\/paddle",
+			"name": "PaddlePaddle",
+			"openrank": 6567.09
+		},
+		{
+			"id": ":companies\/elastic\/kibana",
+			"name": "Kibana",
+			"openrank": 6486.06
+		},
+		{
+			"id": ":companies\/consensys\/metamask",
+			"name": "MetaMask",
+			"openrank": 6484.76
+		},
+		{
+			"id": ":companies\/amazon\/opensearch",
+			"name": "OpenSearch",
+			"openrank": 6400.8
+		},
+		{
+			"id": ":companies\/google\/dart",
+			"name": "Dart",
+			"openrank": 6068.74
+		},
+		{
+			"id": ":companies\/berriai\/litellm",
+			"name": "LiteLLM",
+			"openrank": 5972.28
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/eslint",
+			"name": "ESLint",
+			"openrank": 5867.33
+		},
+		{
+			"id": ":foundations\/godot\/godot_engine",
+			"name": "Godot Engine",
+			"openrank": 5866.91
+		},
+		{
+			"id": ":companies\/yandex\/clickhouse",
+			"name": "ClickHouse",
+			"openrank": 5258.18
+		},
+		{
+			"id": ":companies\/grafana\/grafana",
+			"name": "Grafana",
+			"openrank": 5195.84
+		},
+		{
+			"id": ":foundations\/linux_foundation\/sonic",
+			"name": "SONiC",
+			"openrank": 4926.08
+		},
+		{
+			"id": ":companies\/meta\/spring_projects",
+			"name": "Spring",
+			"openrank": 4902.42
+		},
+		{
+			"id": ":projects\/cherry_studio",
+			"name": "Cherry Studio",
+			"openrank": 4834.72
+		},
+		{
+			"id": ":companies\/anomaly\/opencode",
+			"name": "OpenCode",
+			"openrank": 4829.04
+		},
+		{
+			"id": ":companies\/huawei\/cangjie",
+			"name": "Cangjie",
+			"openrank": 4806.2
+		},
+		{
+			"id": ":projects\/pydantic",
+			"name": "Pydantic",
+			"openrank": 4794.33
+		},
+		{
+			"id": ":companies\/nvidia\/dynamo",
+			"name": "Dynamo",
+			"openrank": 4785.47
+		},
+		{
+			"id": ":companies\/intel\/openvino",
+			"name": "OpenVINO",
+			"openrank": 4773.66
+		},
+		{
+			"id": ":companies\/tenstorrent\/tt_metal",
+			"name": "TT-Metal",
+			"openrank": 4746.73
+		},
+		{
+			"id": ":companies\/google\/gemini_cli",
+			"name": "Gemini CLI",
+			"openrank": 4670.82
+		},
+		{
+			"id": ":companies\/rancher\/rancher",
+			"name": "Rancher",
+			"openrank": 4660.61
+		},
+		{
+			"id": ":companies\/openai\/codex",
+			"name": "Codex",
+			"openrank": 4523.78
+		},
+		{
+			"id": ":companies\/soundcloud\/prometheus",
+			"name": "Prometheus",
+			"openrank": 4474.45
+		},
+		{
+			"id": ":companies\/anthropic\/modelcontextprotocol",
+			"name": "Model Context Protocol",
+			"openrank": 4468.87
+		},
+		{
+			"id": ":companies\/supabase\/supabase",
+			"name": "Supabase",
+			"openrank": 4425.94
+		},
+		{
+			"id": ":companies\/elastic\/elasticsearch",
+			"name": "Elasticsearch",
+			"openrank": 4236.48
+		},
+		{
+			"id": ":companies\/jetbrains\/kotlin",
+			"name": "Kotlin",
+			"openrank": 4128.25
+		},
+		{
+			"id": ":companies\/google\/go",
+			"name": "Go",
+			"openrank": 4119.42
+		},
+		{
+			"id": ":companies\/bitwarden\/bitwarden",
+			"name": "Bitwarden",
+			"openrank": 4112.06
+		},
+		{
+			"id": ":companies\/newrelic\/newrelic",
+			"name": "New Relic",
+			"openrank": 4078.56
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/node.js",
+			"name": "Node.js",
+			"openrank": 4030.07
+		},
+		{
+			"id": ":projects\/openwrt",
+			"name": "OpenWrt",
+			"openrank": 3997.08
+		},
+		{
+			"id": ":companies\/brave\/brave",
+			"name": "Brave",
+			"openrank": 3986.51
+		},
+		{
+			"id": ":foundations\/ruby\/ruby",
+			"name": "Ruby",
+			"openrank": 3883.37
+		},
+		{
+			"id": ":companies\/camunda\/camunda",
+			"name": "Camunda",
+			"openrank": 3861.64
+		},
+		{
+			"id": ":projects\/open_webui",
+			"name": "Open WebUI",
+			"openrank": 3838.36
+		},
+		{
+			"id": ":companies\/llama_corp\/defillama",
+			"name": "DefiLlama",
+			"openrank": 3770.45
+		},
+		{
+			"id": ":companies\/huggingface\/transformers",
+			"name": "Transformers",
+			"openrank": 3766.43
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/webpack",
+			"name": "webpack",
+			"openrank": 3760.77
+		},
+		{
+			"id": ":companies\/yandex\/ydb",
+			"name": "YDB",
+			"openrank": 3731.75
+		},
+		{
+			"id": ":projects\/homebrew",
+			"name": "Homebrew",
+			"openrank": 3731.74
+		},
+		{
+			"id": ":companies\/redhat\/ceph",
+			"name": "Ceph",
+			"openrank": 3634.19
+		},
+		{
+			"id": ":companies\/laravel\/laravel",
+			"name": "Laravel",
+			"openrank": 3513.18
+		},
+		{
+			"id": ":companies\/woo\/woocommerce",
+			"name": "WooCommerce",
+			"openrank": 3421.81
+		},
+		{
+			"id": ":projects\/is_a_dev",
+			"name": "Is-a.dev",
+			"openrank": 3406.2
+		},
+		{
+			"id": ":companies\/nvidia\/tensorrt",
+			"name": "TensorRT",
+			"openrank": 3405.74
+		},
+		{
+			"id": ":companies\/astral\/ruff",
+			"name": "Ruff",
+			"openrank": 3396.66
+		},
+		{
+			"id": ":companies\/redis\/redis",
+			"name": "Redis",
+			"openrank": 3320.29
+		},
+		{
+			"id": ":companies\/isovalent\/cilium",
+			"name": "Cilium",
+			"openrank": 3267.75
+		},
+		{
+			"id": ":companies\/google\/firebase",
+			"name": "Firebase",
+			"openrank": 3267.03
+		},
+		{
+			"id": ":companies\/650_industries\/expo",
+			"name": "Expo",
+			"openrank": 3250.23
+		},
+		{
+			"id": ":companies\/airbnb\/airflow",
+			"name": "Apache Airflow",
+			"openrank": 3179.7
+		},
+		{
+			"id": ":companies\/scylladb\/scylladb",
+			"name": "ScyllaDB",
+			"openrank": 3148.11
+		},
+		{
+			"id": ":companies\/mozilla\/mdn",
+			"name": "MDN Web Docs",
+			"openrank": 3139.82
+		},
+		{
+			"id": ":companies\/vercel\/next",
+			"name": "Next.js",
+			"openrank": 3106.68
+		},
+		{
+			"id": ":projects\/first_contributions",
+			"name": "First Contributions",
+			"openrank": 3042.53
+		},
+		{
+			"id": ":universities\/uc_berkeley\/ray",
+			"name": "Ray",
+			"openrank": 3031.59
+		},
+		{
+			"id": ":companies\/google\/jax",
+			"name": "JAX",
+			"openrank": 3006.26
+		},
+		{
+			"id": ":companies\/coder\/coder",
+			"name": "Coder",
+			"openrank": 3000.64
+		},
+		{
+			"id": ":companies\/zilliz\/milvus",
+			"name": "Milvus",
+			"openrank": 2961.8
+		},
+		{
+			"id": ":foundations\/apache\/arrow",
+			"name": "Apache Arrow",
+			"openrank": 2952.32
+		},
+		{
+			"id": ":companies\/nordic_semiconductor\/nrf_connect",
+			"name": "nRF Connect",
+			"openrank": 2919.8
+		},
+		{
+			"id": ":companies\/google\/angular",
+			"name": "Angular",
+			"openrank": 2893.94
+		},
+		{
+			"id": ":companies\/ggml.ai\/llama.cpp",
+			"name": "llama.cpp",
+			"openrank": 2847.11
+		},
+		{
+			"id": ":institutions\/cern\/alice_o2",
+			"name": "AliceO2",
+			"openrank": 2813.24
+		},
+		{
+			"id": ":companies\/duckdb\/duckdb",
+			"name": "DuckDB",
+			"openrank": 2784.56
+		},
+		{
+			"id": ":companies\/flant\/deckhouse",
+			"name": "Deckhouse",
+			"openrank": 2753.13
+		},
+		{
+			"id": ":projects\/openssl",
+			"name": "OpenSSL",
+			"openrank": 2698.94
+		},
+		{
+			"id": ":projects\/space_station_14",
+			"name": "Space Station 14",
+			"openrank": 2688.76
+		},
+		{
+			"id": ":companies\/google\/grpc",
+			"name": "gRPC",
+			"openrank": 2677.92
+		},
+		{
+			"id": ":companies\/lyft\/envoy",
+			"name": "Envoy",
+			"openrank": 2675.8
+		},
+		{
+			"id": ":companies\/coreweave\/wandb",
+			"name": "Weights & Biases",
+			"openrank": 2669.48
+		},
+		{
+			"id": ":companies\/antgroup\/antd",
+			"name": "Ant Design",
+			"openrank": 2657.1
+		},
+		{
+			"id": ":companies\/matra_datavision\/freecad",
+			"name": "FreeCAD",
+			"openrank": 2621.68
+		},
+		{
+			"id": ":companies\/mattermost\/mattermost",
+			"name": "Mattermost",
+			"openrank": 2619.45
+		},
+		{
+			"id": ":companies\/cockroachlabs\/cockroachdb",
+			"name": "CockroachDB",
+			"openrank": 2618.65
+		},
+		{
+			"id": ":companies\/openai\/triton",
+			"name": "Triton",
+			"openrank": 2596.12
+		},
+		{
+			"id": ":companies\/paloaltonetworks\/cortex_content",
+			"name": "Cortex XSOAR",
+			"openrank": 2571.57
+		},
+		{
+			"id": ":companies\/collate\/openmetadata",
+			"name": "OpenMetadata",
+			"openrank": 2554.99
+		},
+		{
+			"id": ":companies\/sensiolabs\/symfony",
+			"name": "Symfony",
+			"openrank": 2550.43
+		},
+		{
+			"id": ":companies\/airbyte\/airbyte",
+			"name": "Airbyte",
+			"openrank": 2520.15
+		},
+		{
+			"id": ":companies\/ollama\/ollama",
+			"name": "Ollama",
+			"openrank": 2499.18
+		},
+		{
+			"id": ":projects\/systemd",
+			"name": "systemd",
+			"openrank": 2488.64
+		},
+		{
+			"id": ":companies\/google\/bazel",
+			"name": "Bazel",
+			"openrank": 2486.83
+		},
+		{
+			"id": ":projects\/svelte",
+			"name": "Svelte",
+			"openrank": 2459.79
+		},
+		{
+			"id": ":companies\/huawei\/opengauss",
+			"name": "openGauss",
+			"openrank": 2459.62
+		},
+		{
+			"id": ":projects\/comfyui",
+			"name": "Comfy UI",
+			"openrank": 2456.41
+		},
+		{
+			"id": ":companies\/livekit\/livekit",
+			"name": "LiveKit",
+			"openrank": 2432.69
+		},
+		{
+			"id": ":companies\/kong\/kong",
+			"name": "Kong",
+			"openrank": 2425.31
+		},
+		{
+			"id": ":companies\/metabase\/metabase",
+			"name": "Metabase",
+			"openrank": 2396.59
+		},
+		{
+			"id": ":companies\/databricks\/mlflow",
+			"name": "MLflow",
+			"openrank": 2394.03
+		},
+		{
+			"id": ":companies\/baidu\/doris",
+			"name": "Apache Doris",
+			"openrank": 2384.9
+		},
+		{
+			"id": ":companies\/langfuse\/langfuse",
+			"name": "Langfuse",
+			"openrank": 2374.61
+		},
+		{
+			"id": ":companies\/pivotal\/cloudfoundry",
+			"name": "Cloud Foundry",
+			"openrank": 2373.52
+		},
+		{
+			"id": ":companies\/alibaba\/modelscope",
+			"name": "ModelScope",
+			"openrank": 2370.03
+		},
+		{
+			"id": ":projects\/immich",
+			"name": "Immich",
+			"openrank": 2364.12
+		},
+		{
+			"id": ":projects\/open_journals",
+			"name": "Open Journals",
+			"openrank": 2346.04
+		},
+		{
+			"id": ":companies\/datastax\/langflow",
+			"name": "Langflow",
+			"openrank": 2325.3
+		},
+		{
+			"id": ":companies\/fivetran\/dbt",
+			"name": "dbt",
+			"openrank": 2311.62
+		},
+		{
+			"id": ":companies\/warp\/warp",
+			"name": "Warp",
+			"openrank": 2257.25
+		},
+		{
+			"id": ":companies\/pingcap\/tidb",
+			"name": "TiDB",
+			"openrank": 2255.32
+		},
+		{
+			"id": ":companies\/bytedance\/verl",
+			"name": "verl",
+			"openrank": 2247.85
+		},
+		{
+			"id": ":projects\/matplotlib",
+			"name": "Matplotlib",
+			"openrank": 2235.57
+		},
+		{
+			"id": ":foundations\/linux_foundation\/valkey",
+			"name": "Valkey",
+			"openrank": 2171.73
+		},
+		{
+			"id": ":universities\/uw\/flashinfer",
+			"name": "FlashInfer",
+			"openrank": 2158.96
+		},
+		{
+			"id": ":companies\/raycast\/raycast",
+			"name": "Raycast",
+			"openrank": 2148.2
+		},
+		{
+			"id": ":projects\/zen_browser",
+			"name": "Zen Browser",
+			"openrank": 2144.84
+		},
+		{
+			"id": ":companies\/linkedin\/datahub",
+			"name": "DataHub",
+			"openrank": 2119.89
+		},
+		{
+			"id": ":projects\/astrbot",
+			"name": "AstrBot AI",
+			"openrank": 2119.67
+		},
+		{
+			"id": ":companies\/netflix\/iceberg",
+			"name": "Apache Iceberg",
+			"openrank": 2108.6
+		},
+		{
+			"id": ":companies\/ibm\/open_liberty",
+			"name": "Open Liberty",
+			"openrank": 2051.42
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/express",
+			"name": "Express",
+			"openrank": 2045.74
+		},
+		{
+			"id": ":foundations\/csa_iot\/matter",
+			"name": "Matter",
+			"openrank": 2004.52
+		},
+		{
+			"id": ":companies\/fit2cloud\/1panel",
+			"name": "1Panel",
+			"openrank": 2002.13
+		},
+		{
+			"id": ":foundations\/php\/php",
+			"name": "PHP",
+			"openrank": 1992.35
+		},
+		{
+			"id": ":projects\/datafusion",
+			"name": "Apache DataFusion",
+			"openrank": 1957.38
+		},
+		{
+			"id": ":companies\/microsoft\/onnxruntime",
+			"name": "ONNX Runtime",
+			"openrank": 1951.73
+		},
+		{
+			"id": ":projects\/spack",
+			"name": "Spack",
+			"openrank": 1932.84
+		},
+		{
+			"id": ":companies\/gravitational\/teleport",
+			"name": "Teleport",
+			"openrank": 1924.4
+		},
+		{
+			"id": ":projects\/void_linux",
+			"name": "Void Linux",
+			"openrank": 1908.34
+		},
+		{
+			"id": ":companies\/tailscale\/tailscale",
+			"name": "Tailscale",
+			"openrank": 1875.94
+		},
+		{
+			"id": ":companies\/astral\/uv",
+			"name": "UV",
+			"openrank": 1872.24
+		},
+		{
+			"id": ":companies\/databricks\/spark",
+			"name": "Apache Spark",
+			"openrank": 1868.59
+		},
+		{
+			"id": ":companies\/redhat\/keycloak",
+			"name": "Keycloak",
+			"openrank": 1847.07
+		},
+		{
+			"id": ":companies\/neo4j\/neo4j",
+			"name": "Neo4j",
+			"openrank": 1837.01
+		},
+		{
+			"id": ":companies\/all_hands_ai\/openhands",
+			"name": "OpenHands",
+			"openrank": 1834.37
+		},
+		{
+			"id": ":companies\/redhat\/kubevirt",
+			"name": "KubeVirt",
+			"openrank": 1832.77
+		},
+		{
+			"id": ":companies\/microsoft\/playwright",
+			"name": "Playwright",
+			"openrank": 1818.27
+		},
+		{
+			"id": ":companies\/vercel\/ai",
+			"name": "Vercel AI SDK",
+			"openrank": 1808.35
+		},
+		{
+			"id": ":foundations\/bevy\/bevy",
+			"name": "Bevy",
+			"openrank": 1804.98
+		},
+		{
+			"id": ":companies\/github\/electron",
+			"name": "Electron",
+			"openrank": 1792.56
+		},
+		{
+			"id": ":foundations\/ruby\/rails",
+			"name": "Ruby on Rails",
+			"openrank": 1781.19
+		},
+		{
+			"id": ":companies\/nvidia\/nemo",
+			"name": "NeMo",
+			"openrank": 1772.19
+		},
+		{
+			"id": ":companies\/nousresearch\/hermes_agent",
+			"name": "Hermes Agent",
+			"openrank": 1765.39
+		},
+		{
+			"id": ":companies\/cline\/cline",
+			"name": "Cline",
+			"openrank": 1761.55
+		},
+		{
+			"id": ":companies\/openkylin\/openkylin",
+			"name": "openKylin",
+			"openrank": 1757.69
+		},
+		{
+			"id": ":companies\/intuit\/argo",
+			"name": "Argo",
+			"openrank": 1756.32
+		},
+		{
+			"id": ":companies\/microsoft\/power_toys",
+			"name": "PowerToys",
+			"openrank": 1744.84
+		},
+		{
+			"id": ":foundations\/gentoo\/gentoo",
+			"name": "Gentoo Linux",
+			"openrank": 1735.37
+		},
+		{
+			"id": ":companies\/spotify\/backstage",
+			"name": "Backstage",
+			"openrank": 1718.59
+		},
+		{
+			"id": ":companies\/starrocks\/starrocks",
+			"name": "StarRocks",
+			"openrank": 1716
+		},
+		{
+			"id": ":companies\/google\/kubeflow",
+			"name": "Kubeflow",
+			"openrank": 1714.81
+		},
+		{
+			"id": ":companies\/databricks\/delta_lake",
+			"name": "Delta Lake",
+			"openrank": 1713.59
+		},
+		{
+			"id": ":companies\/unsloth_ai\/unsloth",
+			"name": "Unsloth",
+			"openrank": 1707.19
+		},
+		{
+			"id": ":companies\/kestra\/kestra",
+			"name": "Kestra",
+			"openrank": 1684.42
+		},
+		{
+			"id": ":companies\/novell\/openqa",
+			"name": "openQA for SUSE",
+			"openrank": 1666.18
+		},
+		{
+			"id": ":companies\/victoriametrics\/victoriametrics",
+			"name": "VictoriaMetrics",
+			"openrank": 1658.15
+		},
+		{
+			"id": ":universities\/mit\/julia",
+			"name": "Julia",
+			"openrank": 1657.67
+		},
+		{
+			"id": ":companies\/redhat\/stackrox",
+			"name": "StackRox",
+			"openrank": 1631.4
+		},
+		{
+			"id": ":companies\/meta\/react_native",
+			"name": "React Native",
+			"openrank": 1624.42
+		},
+		{
+			"id": ":companies\/infiniflow\/ragflow",
+			"name": "RAGFlow",
+			"openrank": 1595.34
+		},
+		{
+			"id": ":technology\/programming_language\/scala",
+			"name": "Scala",
+			"openrank": 1575.34
+		},
+		{
+			"id": ":companies\/yugabyte\/yugabytedb",
+			"name": "YugabyteDB",
+			"openrank": 1542.89
+		},
+		{
+			"id": ":projects\/zigbee2mqtt",
+			"name": "Zigbee2MQTT",
+			"openrank": 1539.19
+		},
+		{
+			"id": ":companies\/mastra\/mastra",
+			"name": "Mastra",
+			"openrank": 1538.14
+		},
+		{
+			"id": ":foundations\/trino\/trino",
+			"name": "TrinoDB",
+			"openrank": 1535.95
+		},
+		{
+			"id": ":projects\/bitcoin",
+			"name": "Bitcoin",
+			"openrank": 1497.9
+		},
+		{
+			"id": ":projects\/cataclysm_dda",
+			"name": "Cataclysm - Dark Days Ahead",
+			"openrank": 1483.55
+		},
+		{
+			"id": ":companies\/microsoft\/vcpkg",
+			"name": "vcpkg",
+			"openrank": 1480.68
+		},
+		{
+			"id": ":projects\/travel_mapping",
+			"name": "Travel Mapping",
+			"openrank": 1478.45
+		},
+		{
+			"id": ":projects\/ladybird",
+			"name": "Ladybird",
+			"openrank": 1467.73
+		},
+		{
+			"id": ":companies\/polars\/polars",
+			"name": "Polars",
+			"openrank": 1455.81
+		},
+		{
+			"id": ":companies\/3drobotics\/ardupilot",
+			"name": "ArduPilot",
+			"openrank": 1453.42
+		},
+		{
+			"id": ":projects\/orca_slicer",
+			"name": "OrcaSlicer",
+			"openrank": 1441.9
+		},
+		{
+			"id": ":companies\/google\/tensorflow",
+			"name": "Tensorflow",
+			"openrank": 1438.67
+		},
+		{
+			"id": ":institutions\/cas\/xiangshan",
+			"name": "XiangShan",
+			"openrank": 1434.43
+		},
+		{
+			"id": ":companies\/linkedin\/kafka",
+			"name": "Apache Kafka",
+			"openrank": 1433.4
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/mocha",
+			"name": "Mocha",
+			"openrank": 1431.67
+		},
+		{
+			"id": ":projects\/ublock_origin",
+			"name": "uBlock Origin",
+			"openrank": 1428.88
+		},
+		{
+			"id": ":companies\/moving_tech_innovations\/nammayatri",
+			"name": "Namma Yatri",
+			"openrank": 1407.52
+		},
+		{
+			"id": ":companies\/nammayatri\/nammayatri",
+			"name": "Namma Yatri",
+			"openrank": 1407.52
+		},
+		{
+			"id": ":companies\/kilo\/kilocode",
+			"name": "Kilocode",
+			"openrank": 1389.01
+		},
+		{
+			"id": ":companies\/docker\/containerd",
+			"name": "containerd",
+			"openrank": 1386.88
+		},
+		{
+			"id": ":companies\/alibaba\/anolis",
+			"name": "Anolis OS",
+			"openrank": 1384.53
+		},
+		{
+			"id": ":projects\/libsdl",
+			"name": "SDL",
+			"openrank": 1379.24
+		},
+		{
+			"id": ":companies\/nrwl\/nx",
+			"name": "Nx",
+			"openrank": 1362.14
+		},
+		{
+			"id": ":companies\/bluesky\/bluesky",
+			"name": "Bluesky",
+			"openrank": 1356.68
+		},
+		{
+			"id": ":projects\/wolfi",
+			"name": "Wolfi OS",
+			"openrank": 1332.69
+		},
+		{
+			"id": ":projects\/woowacourse_precourse",
+			"name": "Woowacourse Precourse",
+			"openrank": 1330.95
+		},
+		{
+			"id": ":companies\/bytedance\/coze",
+			"name": "Coze",
+			"openrank": 1306.74
+		},
+		{
+			"id": ":institutions\/baai\/flagos",
+			"name": "FlagOS",
+			"openrank": 1305.86
+		},
+		{
+			"id": ":projects\/new_api",
+			"name": "QuantumNous",
+			"openrank": 1287.41
+		},
+		{
+			"id": ":companies\/synadia\/nats",
+			"name": "NATS",
+			"openrank": 1282.72
+		},
+		{
+			"id": ":companies\/mysten_labs\/sui",
+			"name": "Sui",
+			"openrank": 1274.12
+		},
+		{
+			"id": ":companies\/pydantic\/pydantic_ai",
+			"name": "Pydantic AI",
+			"openrank": 1268.09
+		},
+		{
+			"id": ":companies\/block\/goose",
+			"name": "Goose",
+			"openrank": 1258.77
+		},
+		{
+			"id": ":companies\/huawei\/openfuyao",
+			"name": "openFuyao",
+			"openrank": 1247.62
+		},
+		{
+			"id": ":companies\/qdrant\/qdrant",
+			"name": "Qdrant",
+			"openrank": 1244.66
+		},
+		{
+			"id": ":companies\/agno\/agno",
+			"name": "Agno",
+			"openrank": 1243.33
+		},
+		{
+			"id": ":companies\/google\/openxla",
+			"name": "OpenXLA",
+			"openrank": 1235.45
+		},
+		{
+			"id": ":companies\/grafana\/mimir",
+			"name": "Grafana Mimir",
+			"openrank": 1229.34
+		},
+		{
+			"id": ":companies\/paradigm\/reth",
+			"name": "Reth",
+			"openrank": 1225.77
+		},
+		{
+			"id": ":projects\/bioconda",
+			"name": "Bioconda",
+			"openrank": 1224.56
+		},
+		{
+			"id": ":companies\/opera\/gamemaker",
+			"name": "GameMaker",
+			"openrank": 1212.66
+		},
+		{
+			"id": ":companies\/airbnb\/superset",
+			"name": "Apache Superset",
+			"openrank": 1175.51
+		},
+		{
+			"id": ":companies\/antgroup\/antv",
+			"name": "AntV",
+			"openrank": 1160.66
+		},
+		{
+			"id": ":companies\/google\/a2aproject",
+			"name": "Agent2Agent (A2A) Project",
+			"openrank": 1151.96
+		},
+		{
+			"id": ":companies\/taos\/tdengine",
+			"name": "TDengine",
+			"openrank": 1151.39
+		},
+		{
+			"id": ":companies\/alibaba\/agent_scope",
+			"name": "AgentScope",
+			"openrank": 1146
+		},
+		{
+			"id": ":companies\/weaviate\/weaviate",
+			"name": "Weaviate",
+			"openrank": 1140.52
+		},
+		{
+			"id": ":companies\/lobehub\/lobe_chat",
+			"name": "Lobe Chat",
+			"openrank": 1136.49
+		},
+		{
+			"id": ":companies\/tigerdata\/timescaledb",
+			"name": "TimescaleDB",
+			"openrank": 1126.98
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/lodash",
+			"name": "Lodash",
+			"openrank": 1125.86
+		},
+		{
+			"id": ":projects\/coolify",
+			"name": "Coolify",
+			"openrank": 1111.27
+		},
+		{
+			"id": ":companies\/microsoft\/fluentui",
+			"name": "Fluent UI",
+			"openrank": 1086.9
+		},
+		{
+			"id": ":companies\/alibaba\/ms_swift",
+			"name": "ms-swift",
+			"openrank": 1074.14
+		},
+		{
+			"id": ":companies\/microsoft\/powershell",
+			"name": "PowerShell",
+			"openrank": 1060.97
+		},
+		{
+			"id": ":foundations\/zig\/zig",
+			"name": "Zig",
+			"openrank": 1054.3
+		},
+		{
+			"id": ":companies\/linkedin\/pinot",
+			"name": "Apache Pinot",
+			"openrank": 1044.53
+		},
+		{
+			"id": ":companies\/databricks\/neon",
+			"name": "Neon",
+			"openrank": 1043.79
+		},
+		{
+			"id": ":companies\/llamaindex\/llamaindex",
+			"name": "LlamaIndex",
+			"openrank": 1042.24
+		},
+		{
+			"id": ":companies\/antgroup\/inclusionai",
+			"name": "inclusionAI",
+			"openrank": 1038.55
+		},
+		{
+			"id": ":companies\/dagster_labs\/dagster",
+			"name": "Dagster",
+			"openrank": 1018.63
+		},
+		{
+			"id": ":companies\/langchain\/deepagents",
+			"name": "DeepAgents",
+			"openrank": 1017.25
+		},
+		{
+			"id": ":companies\/continue\/continue",
+			"name": "Continue",
+			"openrank": 1016.97
+		},
+		{
+			"id": ":companies\/ibm\/docling",
+			"name": "Docling Project",
+			"openrank": 1015.93
+		},
+		{
+			"id": ":companies\/promptfoo\/promptfoo",
+			"name": "Promptfoo",
+			"openrank": 1006.82
+		},
+		{
+			"id": ":companies\/meta\/prestodb",
+			"name": "PrestoDB",
+			"openrank": 1005.05
+		},
+		{
+			"id": ":companies\/modular\/modular",
+			"name": "Modular",
+			"openrank": 1003.75
+		},
+		{
+			"id": ":companies\/risingwavelabs\/risingwave",
+			"name": "RisingWave",
+			"openrank": 995.87
+		},
+		{
+			"id": ":companies\/bytedance\/deer_flow",
+			"name": "DeerFlow",
+			"openrank": 995.06
+		},
+		{
+			"id": ":companies\/vk\/tarantool",
+			"name": "Tarantool",
+			"openrank": 993.67
+		},
+		{
+			"id": ":projects\/island.is",
+			"name": "island.is",
+			"openrank": 989.17
+		},
+		{
+			"id": ":companies\/naver\/cubrid",
+			"name": "CUBRID",
+			"openrank": 986.8
+		},
+		{
+			"id": ":companies\/meta\/velox",
+			"name": "Velox",
+			"openrank": 986.1
+		},
+		{
+			"id": ":companies\/bytedance\/cloudwego",
+			"name": "CloudWeGo",
+			"openrank": 983.78
+		},
+		{
+			"id": ":companies\/citrix\/cloudstack",
+			"name": "Apache CloudStack",
+			"openrank": 973.6
+		},
+		{
+			"id": ":projects\/marimo",
+			"name": "marimo",
+			"openrank": 968.68
+		},
+		{
+			"id": ":companies\/microsoft\/dapr",
+			"name": "Dapr",
+			"openrank": 965.8
+		},
+		{
+			"id": ":companies\/google\/adk_python",
+			"name": "ADK Python",
+			"openrank": 958.76
+		},
+		{
+			"id": ":foundations\/apache\/nuttx",
+			"name": "Apache Nuttx",
+			"openrank": 955.94
+		},
+		{
+			"id": ":communities\/llm_d\/llm_d",
+			"name": "llm-d",
+			"openrank": 950.37
+		},
+		{
+			"id": ":companies\/inspur\/kwdb",
+			"name": "KWDB",
+			"openrank": 948.11
+		},
+		{
+			"id": ":companies\/paradigm\/foundry",
+			"name": "Foundry",
+			"openrank": 946.37
+		},
+		{
+			"id": ":companies\/prefect\/prefect",
+			"name": "Prefect",
+			"openrank": 939.54
+		},
+		{
+			"id": ":companies\/amazon\/aws_amplify",
+			"name": "AWS Amplify",
+			"openrank": 934.83
+		},
+		{
+			"id": ":companies\/redhat\/etcd",
+			"name": "etcd",
+			"openrank": 934.56
+		},
+		{
+			"id": ":projects\/hyprland",
+			"name": "Hyprland",
+			"openrank": 933.45
+		},
+		{
+			"id": ":companies\/activepieces\/activepieces",
+			"name": "Activepieces",
+			"openrank": 932.82
+		},
+		{
+			"id": ":companies\/fit2cloud\/dataease",
+			"name": "DataEase",
+			"openrank": 927.63
+		},
+		{
+			"id": ":companies\/google\/beam",
+			"name": "Apache Beam",
+			"openrank": 923.84
+		},
+		{
+			"id": ":companies\/google\/istio",
+			"name": "Istio",
+			"openrank": 923.59
+		},
+		{
+			"id": ":companies\/workday\/flowiseai",
+			"name": "FlowiseAI",
+			"openrank": 920.68
+		},
+		{
+			"id": ":companies\/emq\/emqx",
+			"name": "EMQX",
+			"openrank": 919.71
+		},
+		{
+			"id": ":companies\/snowflake\/streamlit",
+			"name": "Streamlit",
+			"openrank": 918.87
+		},
+		{
+			"id": ":projects\/mastodon",
+			"name": "Mastodon",
+			"openrank": 915.32
+		},
+		{
+			"id": ":companies\/mariadb\/mariadb",
+			"name": "MariaDB",
+			"openrank": 915.02
+		},
+		{
+			"id": ":companies\/meta\/cassandra",
+			"name": "Apache Cassandra",
+			"openrank": 913.85
+		},
+		{
+			"id": ":companies\/daily\/pipecat",
+			"name": "Pipecat",
+			"openrank": 905.7
+		},
+		{
+			"id": ":companies\/grafana\/loki",
+			"name": "Grafana Loki",
+			"openrank": 892.88
+		},
+		{
+			"id": ":companies\/alibaba\/higress",
+			"name": "Higress",
+			"openrank": 891.18
+		},
+		{
+			"id": ":companies\/nvidia\/cudf",
+			"name": "cuDF",
+			"openrank": 883.26
+		},
+		{
+			"id": ":companies\/huawei\/volcano",
+			"name": "Volcano",
+			"openrank": 881.73
+		},
+		{
+			"id": ":companies\/livekit\/agents",
+			"name": "LiveKit Agents",
+			"openrank": 880.18
+		},
+		{
+			"id": ":companies\/treasure_data\/fluentd",
+			"name": "Fluentd",
+			"openrank": 878.34
+		},
+		{
+			"id": ":projects\/zeroclaw",
+			"name": "ZeroClaw",
+			"openrank": 876.96
+		},
+		{
+			"id": ":companies\/tencent\/ozone",
+			"name": "Apache Ozone",
+			"openrank": 876.6
+		},
+		{
+			"id": ":companies\/surrealdb\/surrealdb",
+			"name": "SurrealDB",
+			"openrank": 865.41
+		},
+		{
+			"id": ":companies\/google\/keras",
+			"name": "Keras",
+			"openrank": 858.04
+		},
+		{
+			"id": ":companies\/cvat_ai\/cvat",
+			"name": "CVAT",
+			"openrank": 853.72
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/fastify",
+			"name": "Fastify",
+			"openrank": 848
+		},
+		{
+			"id": ":companies\/antgroup\/secretflow",
+			"name": "SecretFlow",
+			"openrank": 844.89
+		},
+		{
+			"id": ":companies\/daytona\/daytona",
+			"name": "Daytona",
+			"openrank": 842.83
+		},
+		{
+			"id": ":companies\/amazon\/aws_cdk",
+			"name": "AWS CDK",
+			"openrank": 837.76
+		},
+		{
+			"id": ":companies\/apple\/mlx",
+			"name": "MLX",
+			"openrank": 832.96
+		},
+		{
+			"id": ":companies\/rancher\/longhorn",
+			"name": "Longhorn",
+			"openrank": 818.52
+		},
+		{
+			"id": ":projects\/librechat",
+			"name": "LibreChat",
+			"openrank": 816.1
+		},
+		{
+			"id": ":companies\/browser_use\/browser_use",
+			"name": "Browser Use",
+			"openrank": 804.56
+		},
+		{
+			"id": ":companies\/huggingface\/gradio",
+			"name": "Gradio",
+			"openrank": 797.58
+		},
+		{
+			"id": ":companies\/bytedance\/lark",
+			"name": "Lark",
+			"openrank": 788.08
+		},
+		{
+			"id": ":projects\/crush",
+			"name": "Crush",
+			"openrank": 786.49
+		},
+		{
+			"id": ":projects\/paperclip",
+			"name": "Paperclip",
+			"openrank": 778.06
+		},
+		{
+			"id": ":companies\/nirmata\/kyverno",
+			"name": "Kyverno",
+			"openrank": 769.65
+		},
+		{
+			"id": ":companies\/microsoft\/agent_framework",
+			"name": "Microsoft Agent Framework",
+			"openrank": 768.96
+		},
+		{
+			"id": ":companies\/comet_ml\/opik",
+			"name": "Opik",
+			"openrank": 767.24
+		},
+		{
+			"id": ":communities\/lmcache\/lmcache",
+			"name": "LMCache",
+			"openrank": 764.04
+		},
+		{
+			"id": ":companies\/huggingface\/lerobot",
+			"name": "LeRobot",
+			"openrank": 758.1
+		},
+		{
+			"id": ":foundations\/apache\/camel",
+			"name": "Apache Camel",
+			"openrank": 746.82
+		},
+		{
+			"id": ":companies\/tooljet\/tooljet",
+			"name": "ToolJet",
+			"openrank": 746.62
+		},
+		{
+			"id": ":companies\/nvidia\/megatron",
+			"name": "Megatron",
+			"openrank": 744.24
+		},
+		{
+			"id": ":companies\/hashicorp\/vault",
+			"name": "Vault",
+			"openrank": 743.21
+		},
+		{
+			"id": ":companies\/ravendb\/ravendb",
+			"name": "RavenDB",
+			"openrank": 729.86
+		},
+		{
+			"id": ":companies\/lago\/lago",
+			"name": "Lago",
+			"openrank": 727.82
+		},
+		{
+			"id": ":institutions\/idea\/moonbit",
+			"name": "Moonbit",
+			"openrank": 727.59
+		},
+		{
+			"id": ":foundations\/apache\/lucene",
+			"name": "Apache Lucene",
+			"openrank": 725.49
+		},
+		{
+			"id": ":companies\/siyuan_note\/siyuan_note",
+			"name": "SiYuan",
+			"openrank": 723.07
+		},
+		{
+			"id": ":companies\/huggingface\/trl",
+			"name": "TRL",
+			"openrank": 722.84
+		},
+		{
+			"id": ":companies\/redhat\/debezium",
+			"name": "Debezium",
+			"openrank": 721.34
+		},
+		{
+			"id": ":companies\/vespa\/vespa",
+			"name": "Vespa",
+			"openrank": 716.7
+		},
+		{
+			"id": ":companies\/openmind\/om1",
+			"name": "OM1",
+			"openrank": 716.55
+		},
+		{
+			"id": ":companies\/jetbrains\/koog",
+			"name": "Koog",
+			"openrank": 713.97
+		},
+		{
+			"id": ":institutions\/bell_labs\/cpp",
+			"name": "C++",
+			"openrank": 712.36
+		},
+		{
+			"id": ":companies\/alibaba\/flink",
+			"name": "Apache Flink",
+			"openrank": 706.14
+		},
+		{
+			"id": ":projects\/organicmaps",
+			"name": "Organic Maps",
+			"openrank": 705.46
+		},
+		{
+			"id": ":projects\/vibe_kanban",
+			"name": "Vibe Kanban",
+			"openrank": 703.36
+		},
+		{
+			"id": ":universities\/uc_berkeley\/vllm_omni",
+			"name": "vLLM-Omni",
+			"openrank": 703.14
+		},
+		{
+			"id": ":companies\/greptime\/greptimedb",
+			"name": "GreptimeDB",
+			"openrank": 694.91
+		},
+		{
+			"id": ":companies\/microsoft\/hbase",
+			"name": "Apache HBase",
+			"openrank": 692.35
+		},
+		{
+			"id": ":companies\/mongodb\/wiredtiger",
+			"name": "WiredTiger",
+			"openrank": 692.06
+		},
+		{
+			"id": ":companies\/pingcap\/tikv",
+			"name": "TiKV",
+			"openrank": 688.1
+		},
+		{
+			"id": ":companies\/mckinsey\/mlrun",
+			"name": "MLRun",
+			"openrank": 684.44
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/onnx",
+			"name": "ONNX",
+			"openrank": 681.58
+		},
+		{
+			"id": ":companies\/antgroup\/asterinas",
+			"name": "Asterinas",
+			"openrank": 673.61
+		},
+		{
+			"id": ":companies\/datastrato\/gravitino",
+			"name": "Apache Gravitino",
+			"openrank": 670.11
+		},
+		{
+			"id": ":companies\/microsoft\/deepspeed",
+			"name": "DeepSpeed",
+			"openrank": 669.71
+		},
+		{
+			"id": ":companies\/alibaba\/qwen_code",
+			"name": "Qwen Code",
+			"openrank": 669.49
+		},
+		{
+			"id": ":projects\/shad_ps4",
+			"name": "shadPS4",
+			"openrank": 668.21
+		},
+		{
+			"id": ":companies\/uber\/hudi",
+			"name": "Apache Hudi",
+			"openrank": 662.1
+		},
+		{
+			"id": ":companies\/gridgain\/ignite3",
+			"name": "Apache Ignite 3",
+			"openrank": 661.91
+		},
+		{
+			"id": ":projects\/rlinf",
+			"name": "RLinf",
+			"openrank": 661.9
+		},
+		{
+			"id": ":companies\/dynatrace\/openfeature",
+			"name": "OpenFeature",
+			"openrank": 661.64
+		},
+		{
+			"id": ":companies\/cratedb\/cratedb",
+			"name": "CrateDB",
+			"openrank": 659.44
+		},
+		{
+			"id": ":universities\/pku\/tilelang",
+			"name": "TileLang",
+			"openrank": 653.85
+		},
+		{
+			"id": ":projects\/the_algorithms",
+			"name": "The Algorithms",
+			"openrank": 651.57
+		},
+		{
+			"id": ":companies\/microsoft\/fluid_framework",
+			"name": "Fluid Framework",
+			"openrank": 644.07
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/interledger",
+			"name": "Interledger",
+			"openrank": 635.48
+		},
+		{
+			"id": ":companies\/intel\/gluten",
+			"name": "Apache Gluten",
+			"openrank": 630.65
+		},
+		{
+			"id": ":companies\/questdb\/questdb",
+			"name": "QuestDB",
+			"openrank": 626.84
+		},
+		{
+			"id": ":projects\/qbittorrent",
+			"name": "qBittorrent",
+			"openrank": 625.3
+		},
+		{
+			"id": ":projects\/haystack",
+			"name": "deepset",
+			"openrank": 624.7
+		},
+		{
+			"id": ":companies\/styra\/open_policy_agent",
+			"name": "Open Policy Agent (OPA)",
+			"openrank": 624.52
+		},
+		{
+			"id": ":companies\/clockwork\/spacetimedb",
+			"name": "SpacetimeDB",
+			"openrank": 619.31
+		},
+		{
+			"id": ":projects\/cli_proxy_api",
+			"name": "CLIProxyAPI",
+			"openrank": 617.39
+		},
+		{
+			"id": ":companies\/gpustack\/gpustack",
+			"name": "GPUStack",
+			"openrank": 615.71
+		},
+		{
+			"id": ":companies\/arize\/phoenix",
+			"name": "Phoenix",
+			"openrank": 614.58
+		},
+		{
+			"id": ":companies\/snowflake\/polaris",
+			"name": "Apache Polaris",
+			"openrank": 613.87
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/appium",
+			"name": "Appium",
+			"openrank": 613.69
+		},
+		{
+			"id": ":companies\/amazon\/babelfish_for_postgresql",
+			"name": "Babelfish for PostgreSQL",
+			"openrank": 612.69
+		},
+		{
+			"id": ":companies\/antgroup\/oceanbase",
+			"name": "OceanBase",
+			"openrank": 612.52
+		},
+		{
+			"id": ":agencies\/nsa\/nifi",
+			"name": "Apache NiFi",
+			"openrank": 611.81
+		},
+		{
+			"id": ":companies\/heartex\/label_studio",
+			"name": "Label Studio",
+			"openrank": 611.08
+		},
+		{
+			"id": ":companies\/okta\/openfga",
+			"name": "OpenFGA",
+			"openrank": 609.14
+		},
+		{
+			"id": ":companies\/huawei\/opentiny",
+			"name": "OpenTiny",
+			"openrank": 609.05
+		},
+		{
+			"id": ":companies\/crewai\/crewai",
+			"name": "crewAI",
+			"openrank": 608.02
+		},
+		{
+			"id": ":companies\/nvidia\/nemo_rl",
+			"name": "NeMo RL",
+			"openrank": 605.05
+		},
+		{
+			"id": ":companies\/nvidia\/transformer_engine",
+			"name": "Transformer Engine",
+			"openrank": 604.51
+		},
+		{
+			"id": ":projects\/daily_codeforce_problems",
+			"name": "Daily CodeForce Problems",
+			"openrank": 601.26
+		},
+		{
+			"id": ":companies\/lancedb\/lancedb",
+			"name": "LanceDB",
+			"openrank": 600.6
+		},
+		{
+			"id": ":companies\/bytedance\/openviking",
+			"name": "OpenViking",
+			"openrank": 595.71
+		},
+		{
+			"id": ":companies\/linkedin\/venice",
+			"name": "Venice",
+			"openrank": 591.26
+		},
+		{
+			"id": ":projects\/pi_mono",
+			"name": "Pi Mono",
+			"openrank": 588.01
+		},
+		{
+			"id": ":projects\/hive",
+			"name": "Hive",
+			"openrank": 587.11
+		},
+		{
+			"id": ":companies\/chroma\/chroma",
+			"name": "Chroma",
+			"openrank": 580.45
+		},
+		{
+			"id": ":companies\/langchain\/langgraph",
+			"name": "LangGraph",
+			"openrank": 578.89
+		},
+		{
+			"id": ":companies\/timecho\/iotdb",
+			"name": "Apache IoTDB",
+			"openrank": 578.73
+		},
+		{
+			"id": ":companies\/amazon\/bottlerocket",
+			"name": "Bottlerocket",
+			"openrank": 578.52
+		},
+		{
+			"id": ":companies\/sysdig\/falco",
+			"name": "Falco",
+			"openrank": 577.83
+		},
+		{
+			"id": ":companies\/openai\/openai_agents_python",
+			"name": "OpenAI Agents Python",
+			"openrank": 575.63
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/kserve",
+			"name": "KServe",
+			"openrank": 569.31
+		},
+		{
+			"id": ":companies\/databend\/databend",
+			"name": "Databend",
+			"openrank": 565.64
+		},
+		{
+			"id": ":projects\/genesis",
+			"name": "Genesis",
+			"openrank": 559.98
+		},
+		{
+			"id": ":companies\/daocloud\/public_image_mirror",
+			"name": "DaoCloud Public Image Mirror",
+			"openrank": 557.83
+		},
+		{
+			"id": ":companies\/fit2cloud\/maxkb",
+			"name": "MaxKB",
+			"openrank": 557.73
+		},
+		{
+			"id": ":companies\/antgroup\/kata_container",
+			"name": "Kata Containers",
+			"openrank": 550.73
+		},
+		{
+			"id": ":projects\/llama_factory",
+			"name": "LLaMA-Factory",
+			"openrank": 550.3
+		},
+		{
+			"id": ":technology\/programming_language\/elixir",
+			"name": "Elixir",
+			"openrank": 549.34
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/flyte",
+			"name": "Flyte",
+			"openrank": 547.88
+		},
+		{
+			"id": ":companies\/composio\/composio",
+			"name": "Composio",
+			"openrank": 543
+		},
+		{
+			"id": ":companies\/dragonflydb\/dragonflydb",
+			"name": "DragonflyDB",
+			"openrank": 536.22
+		},
+		{
+			"id": ":companies\/alibaba\/nacos",
+			"name": "Nacos",
+			"openrank": 536.22
+		},
+		{
+			"id": ":companies\/yahoo\/pulsar",
+			"name": "Apache Pulsar",
+			"openrank": 534.42
+		},
+		{
+			"id": ":companies\/alibaba\/dubbo",
+			"name": "Apache Dubbo",
+			"openrank": 531.06
+		},
+		{
+			"id": ":foundations\/apache\/seatunnel",
+			"name": "Apache SeaTunnel",
+			"openrank": 529.58
+		},
+		{
+			"id": ":projects\/cc_switch",
+			"name": "CC Switch",
+			"openrank": 528.45
+		},
+		{
+			"id": ":companies\/google\/helm",
+			"name": "Helm",
+			"openrank": 528.12
+		},
+		{
+			"id": ":companies\/api7\/apisix",
+			"name": "Apache APISIX",
+			"openrank": 527.29
+		},
+		{
+			"id": ":companies\/cyberark\/cert_manager",
+			"name": "cert-manager",
+			"openrank": 526.88
+		},
+		{
+			"id": ":companies\/bytedance\/seed",
+			"name": "Seed",
+			"openrank": 526.63
+		},
+		{
+			"id": ":companies\/ubicloud\/ubicloud",
+			"name": "Ubicloud",
+			"openrank": 526.54
+		},
+		{
+			"id": ":companies\/alibaba\/paimon",
+			"name": "Apache Paimon",
+			"openrank": 525.86
+		},
+		{
+			"id": ":companies\/redhat\/metal3",
+			"name": "Metal3",
+			"openrank": 522.53
+		},
+		{
+			"id": ":companies\/github\/copilot_cli",
+			"name": "GitHub Copilot CLI",
+			"openrank": 521.05
+		},
+		{
+			"id": ":projects\/oh_my_opencode",
+			"name": "Oh My OpenAgent",
+			"openrank": 519.54
+		},
+		{
+			"id": ":institutions\/sh_ai_lab\/internlm\/lmdeploy",
+			"name": "LMDeploy",
+			"openrank": 515.91
+		},
+		{
+			"id": ":companies\/meta\/hive",
+			"name": "Apache Hive",
+			"openrank": 515.25
+		},
+		{
+			"id": ":companies\/paradigm\/wevm",
+			"name": "wevm",
+			"openrank": 514.7
+		},
+		{
+			"id": ":companies\/vmware\/harbor",
+			"name": "Harbor",
+			"openrank": 513.63
+		},
+		{
+			"id": ":companies\/redhat\/strimzi",
+			"name": "Strimzi",
+			"openrank": 512.04
+		},
+		{
+			"id": ":companies\/firecrawl\/firecrawl",
+			"name": "Firecrawl",
+			"openrank": 510.89
+		},
+		{
+			"id": ":companies\/restate\/restate",
+			"name": "Restate",
+			"openrank": 510.2
+		},
+		{
+			"id": ":universities\/thu\/kvcache\/mooncake",
+			"name": "Mooncake",
+			"openrank": 509.34
+		},
+		{
+			"id": ":companies\/nvidia\/model_optimizer",
+			"name": "Model Optimizer",
+			"openrank": 506.84
+		},
+		{
+			"id": ":companies\/dagger\/dagger",
+			"name": "Dagger",
+			"openrank": 504.43
+		},
+		{
+			"id": ":companies\/iflytek\/astron",
+			"name": "Astron",
+			"openrank": 502.9
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/webdriverio",
+			"name": "WebdriverIO",
+			"openrank": 502.63
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_besu",
+			"name": "Hyperledger Besu",
+			"openrank": 498.4
+		},
+		{
+			"id": ":companies\/fit2cloud\/jumpserver",
+			"name": "JumpServer",
+			"openrank": 497.27
+		},
+		{
+			"id": ":projects\/autogpt",
+			"name": "AutoGPT",
+			"openrank": 496.76
+		},
+		{
+			"id": ":companies\/ibm\/mcp_context_forge",
+			"name": "MCP Context Forge",
+			"openrank": 493.96
+		},
+		{
+			"id": ":companies\/upbound\/crossplane",
+			"name": "Crossplane",
+			"openrank": 490.53
+		},
+		{
+			"id": ":companies\/matrix_origin\/matrixone",
+			"name": "MatrixOne",
+			"openrank": 484.23
+		},
+		{
+			"id": ":companies\/meta\/rocksdb",
+			"name": "RocksDB",
+			"openrank": 483.29
+		},
+		{
+			"id": ":companies\/antgroup\/areal",
+			"name": "AReal",
+			"openrank": 482.36
+		},
+		{
+			"id": ":projects\/letta_ai",
+			"name": "Letta",
+			"openrank": 468.28
+		},
+		{
+			"id": ":companies\/imply\/druid",
+			"name": "Apache Druid",
+			"openrank": 461.49
+		},
+		{
+			"id": ":companies\/amazon\/aws_distro_for_opentelemetry",
+			"name": "AWS Distro for OpenTelemetry",
+			"openrank": 460.75
+		},
+		{
+			"id": ":companies\/upstash\/context7",
+			"name": "Context7",
+			"openrank": 460.47
+		},
+		{
+			"id": ":companies\/mintplex_labs\/anything_llm",
+			"name": "AnythingLLM",
+			"openrank": 459.4
+		},
+		{
+			"id": ":companies\/huanjiyun\/fastgpt",
+			"name": "FastGPT",
+			"openrank": 454.07
+		},
+		{
+			"id": ":companies\/zama\/fhevm",
+			"name": "FHEVM",
+			"openrank": 451.81
+		},
+		{
+			"id": ":companies\/cnet_networks\/solr",
+			"name": "Apache Solr",
+			"openrank": 451.02
+		},
+		{
+			"id": ":companies\/uber\/jaeger",
+			"name": "Jaeger",
+			"openrank": 450.72
+		},
+		{
+			"id": ":companies\/copilotkit\/copilotkit",
+			"name": "CopilotKit",
+			"openrank": 445.19
+		},
+		{
+			"id": ":companies\/appsmith\/appsmith",
+			"name": "Appsmith",
+			"openrank": 443.49
+		},
+		{
+			"id": ":companies\/weaveworks\/flux",
+			"name": "Flux",
+			"openrank": 442.96
+		},
+		{
+			"id": ":companies\/rtthread\/rtthread",
+			"name": "RT-Thread",
+			"openrank": 442.23
+		},
+		{
+			"id": ":companies\/huawei\/karmada",
+			"name": "Karmada",
+			"openrank": 440.19
+		},
+		{
+			"id": ":companies\/antgroup\/react_component",
+			"name": "React Component",
+			"openrank": 438.05
+		},
+		{
+			"id": ":projects\/spring_boot_tutorials",
+			"name": "Spring Boot 3 Tutorials",
+			"openrank": 437.68
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/kedro",
+			"name": "Kedro",
+			"openrank": 437.2
+		},
+		{
+			"id": ":companies\/oracle\/netbeans",
+			"name": "Apache Netbeans",
+			"openrank": 436.14
+		},
+		{
+			"id": ":companies\/mem0\/mem0",
+			"name": "Mem0",
+			"openrank": 433.69
+		},
+		{
+			"id": ":companies\/bytedance\/lark_cli",
+			"name": "Lark CLI",
+			"openrank": 429.27
+		},
+		{
+			"id": ":universities\/hku\/nanobot",
+			"name": "Nanobot",
+			"openrank": 427.89
+		},
+		{
+			"id": ":companies\/sphereex\/shardingsphere",
+			"name": "Apache ShardingSphere",
+			"openrank": 426.5
+		},
+		{
+			"id": ":companies\/microsoft\/keda",
+			"name": "KEDA",
+			"openrank": 425.97
+		},
+		{
+			"id": ":companies\/google\/knative",
+			"name": "Knative",
+			"openrank": 425.34
+		},
+		{
+			"id": ":companies\/google\/vitess",
+			"name": "Vitess",
+			"openrank": 417.2
+		},
+		{
+			"id": ":companies\/zipstack\/unstract",
+			"name": "Unstract",
+			"openrank": 413.82
+		},
+		{
+			"id": ":projects\/eliza",
+			"name": "Eliza",
+			"openrank": 409.93
+		},
+		{
+			"id": ":companies\/grafana\/tempo",
+			"name": "Grafana Tempo",
+			"openrank": 409.67
+		},
+		{
+			"id": ":companies\/juicedata\/juicefs",
+			"name": "JuiceFS",
+			"openrank": 407.83
+		},
+		{
+			"id": ":companies\/cloudera\/hadoop",
+			"name": "Apache Hadoop",
+			"openrank": 394.77
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/moment.js",
+			"name": "Moment.js",
+			"openrank": 394.53
+		},
+		{
+			"id": ":companies\/baidu\/amis",
+			"name": "amis",
+			"openrank": 394.11
+		},
+		{
+			"id": ":companies\/paradigm\/alloy",
+			"name": "Alloy",
+			"openrank": 394.1
+		},
+		{
+			"id": ":companies\/camel_ai\/camel",
+			"name": "CAMEL",
+			"openrank": 393.81
+		},
+		{
+			"id": ":companies\/anysphere\/cursor",
+			"name": "Cursor",
+			"openrank": 393.79
+		},
+		{
+			"id": ":projects\/lima",
+			"name": "Lima",
+			"openrank": 393.21
+		},
+		{
+			"id": ":projects\/sillytavern",
+			"name": "SillyTavern",
+			"openrank": 391.13
+		},
+		{
+			"id": ":companies\/yandex\/ytsaurus",
+			"name": "YTsaurus",
+			"openrank": 390.75
+		},
+		{
+			"id": ":projects\/beads",
+			"name": "Beads",
+			"openrank": 389.7
+		},
+		{
+			"id": ":companies\/influxdata\/influxdb",
+			"name": "InfluxDB",
+			"openrank": 389.52
+		},
+		{
+			"id": ":projects\/xiaozhi_esp32",
+			"name": "xiaozhi-esp32",
+			"openrank": 388.26
+		},
+		{
+			"id": ":companies\/nvidia\/triton",
+			"name": "Triton Inference",
+			"openrank": 385.97
+		},
+		{
+			"id": ":companies\/stacklok\/toolhive",
+			"name": "ToolHive",
+			"openrank": 385.86
+		},
+		{
+			"id": ":companies\/mifos\/fineract",
+			"name": "Apache Fineract",
+			"openrank": 385.85
+		},
+		{
+			"id": ":projects\/follow.is",
+			"name": "Follow",
+			"openrank": 385.43
+		},
+		{
+			"id": ":projects\/immortalwrt",
+			"name": "ImmortalWRT",
+			"openrank": 383.91
+		},
+		{
+			"id": ":companies\/cognee\/cognee",
+			"name": "Cognee",
+			"openrank": 383.48
+		},
+		{
+			"id": ":companies\/zama\/tfhe_rs",
+			"name": "TFHE-rs",
+			"openrank": 382.05
+		},
+		{
+			"id": ":projects\/searxng",
+			"name": "SearXNG",
+			"openrank": 381.65
+		},
+		{
+			"id": ":companies\/anaconda\/dask",
+			"name": "Dask",
+			"openrank": 378.59
+		},
+		{
+			"id": ":companies\/alibaba\/qwenpaw",
+			"name": "QwenPaw",
+			"openrank": 377.86
+		},
+		{
+			"id": ":companies\/xorbits\/xinference",
+			"name": "Xinference",
+			"openrank": 377.49
+		},
+		{
+			"id": ":companies\/anthropic\/mcp_servers",
+			"name": "MCP Servers",
+			"openrank": 373.46
+		},
+		{
+			"id": ":companies\/antgroup\/galacean",
+			"name": "Galacean",
+			"openrank": 369.47
+		},
+		{
+			"id": ":companies\/yahoo\/trafficserver",
+			"name": "Apache Traffic Server",
+			"openrank": 366.28
+		},
+		{
+			"id": ":companies\/buoyant\/linkerd",
+			"name": "Linkerd",
+			"openrank": 363.45
+		},
+		{
+			"id": ":companies\/alibaba\/dragonfly",
+			"name": "Dragonfly",
+			"openrank": 357.4
+		},
+		{
+			"id": ":companies\/unstructured\/unstructured",
+			"name": "Unstructured",
+			"openrank": 356.73
+		},
+		{
+			"id": ":projects\/avante_nvim",
+			"name": "avante.nvim",
+			"openrank": 355.61
+		},
+		{
+			"id": ":companies\/quantum\/rook",
+			"name": "Rook",
+			"openrank": 355.04
+		},
+		{
+			"id": ":companies\/redhat\/operator_framework",
+			"name": "Operator Framework",
+			"openrank": 354.99
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/jquery_user_interface",
+			"name": "jQuery User Interface",
+			"openrank": 353.38
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/sizzle",
+			"name": "Sizzle",
+			"openrank": 353.38
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/jquery",
+			"name": "jQuery",
+			"openrank": 353.38
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/esprima",
+			"name": "Esprima",
+			"openrank": 353.38
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/jquery_mobile",
+			"name": "jQuery Mobile",
+			"openrank": 353.38
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/chassis",
+			"name": "Chassis",
+			"openrank": 353.38
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/pep",
+			"name": "PEP",
+			"openrank": 353.38
+		},
+		{
+			"id": ":companies\/modelbest\/openbmb",
+			"name": "OpenBMB",
+			"openrank": 351.51
+		},
+		{
+			"id": ":companies\/kubecost\/opencost",
+			"name": "OpenCost",
+			"openrank": 351.25
+		},
+		{
+			"id": ":companies\/github\/spec_kit",
+			"name": "Spec Kit",
+			"openrank": 349.31
+		},
+		{
+			"id": ":companies\/formbricks\/formbricks",
+			"name": "Formbricks",
+			"openrank": 348.76
+		},
+		{
+			"id": ":companies\/gridgain\/ignite",
+			"name": "Apache Ignite",
+			"openrank": 347.7
+		},
+		{
+			"id": ":companies\/alibaba\/seata",
+			"name": "Apache Seata",
+			"openrank": 345.64
+		},
+		{
+			"id": ":communities\/agentgateway\/agentgateway",
+			"name": "Agentgateway",
+			"openrank": 344.61
+		},
+		{
+			"id": ":companies\/solo_io\/agentgateway",
+			"name": "agentgateway",
+			"openrank": 344.61
+		},
+		{
+			"id": ":companies\/microsoft\/semantic_kernel",
+			"name": "Semantic Kernel",
+			"openrank": 340.67
+		},
+		{
+			"id": ":projects\/skywalking",
+			"name": "Apache SkyWalking",
+			"openrank": 332.23
+		},
+		{
+			"id": ":companies\/cube_dev\/cube",
+			"name": "Cube",
+			"openrank": 331.17
+		},
+		{
+			"id": ":companies\/antgroup\/ant_design_x",
+			"name": "Ant Design X",
+			"openrank": 326.84
+		},
+		{
+			"id": ":institutions\/sh_ai_lab\/opencompass",
+			"name": "OpenCompass",
+			"openrank": 326
+		},
+		{
+			"id": ":foundations\/openatom\/ubml",
+			"name": "UBML",
+			"openrank": 323.6
+		},
+		{
+			"id": ":companies\/redhat\/ramalama",
+			"name": "RamaLama",
+			"openrank": 315.84
+		},
+		{
+			"id": ":companies\/nvidia\/cutlass",
+			"name": "CUTLASS",
+			"openrank": 310.34
+		},
+		{
+			"id": ":companies\/apple\/foundationdb",
+			"name": "FoundationDB",
+			"openrank": 308.93
+		},
+		{
+			"id": ":universities\/princeton\/dao_ai_lab\/flash_attention",
+			"name": "FlashAttention",
+			"openrank": 306.81
+		},
+		{
+			"id": ":projects\/multica",
+			"name": "Multica",
+			"openrank": 302.65
+		},
+		{
+			"id": ":projects\/claude_mem",
+			"name": "Claude Mem",
+			"openrank": 295.36
+		},
+		{
+			"id": ":companies\/alibaba\/rocketmq",
+			"name": "Apache RocketMQ",
+			"openrank": 293.53
+		},
+		{
+			"id": ":companies\/pingdotgg\/t3code",
+			"name": "T3 Code",
+			"openrank": 292.24
+		},
+		{
+			"id": ":companies\/tenstorrent\/tt_llk",
+			"name": "TT-LLK",
+			"openrank": 289.45
+		},
+		{
+			"id": ":projects\/eigent",
+			"name": "Eigent",
+			"openrank": 281.45
+		},
+		{
+			"id": ":companies\/alibaba\/ocm",
+			"name": "Open Cluster Management",
+			"openrank": 280.74
+		},
+		{
+			"id": ":companies\/data_chain\/data_chain",
+			"name": "DataChain",
+			"openrank": 278.5
+		},
+		{
+			"id": ":companies\/cosmonic\/wasmcloud",
+			"name": "wasmCloud",
+			"openrank": 274.7
+		},
+		{
+			"id": ":companies\/armo\/kubescape",
+			"name": "Kubescape",
+			"openrank": 267.43
+		},
+		{
+			"id": ":companies\/copilotkit\/ag_ui",
+			"name": "AG-UI",
+			"openrank": 263.68
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed\/project_eve",
+			"name": "Project EVE",
+			"openrank": 263.66
+		},
+		{
+			"id": ":companies\/huawei\/kubeedge",
+			"name": "KubeEdge",
+			"openrank": 259.34
+		},
+		{
+			"id": ":companies\/whaleops\/dolphinscheduler",
+			"name": "Apache DolphinScheduler",
+			"openrank": 259.21
+		},
+		{
+			"id": ":companies\/tabbyml\/tabby",
+			"name": "Tabby",
+			"openrank": 256.63
+		},
+		{
+			"id": ":companies\/alibaba\/openkruise",
+			"name": "OpenKruise",
+			"openrank": 256.24
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/nnstreamer",
+			"name": "NNStreamer",
+			"openrank": 256.16
+		},
+		{
+			"id": ":companies\/grafana\/cortex",
+			"name": "Cortex",
+			"openrank": 252.53
+		},
+		{
+			"id": ":companies\/antgroup\/vsag",
+			"name": "VSAG",
+			"openrank": 246.52
+		},
+		{
+			"id": ":companies\/databend\/opendal",
+			"name": "Apache OpenDAL",
+			"openrank": 244.82
+		},
+		{
+			"id": ":companies\/unkeyed\/unkey",
+			"name": "Unkey",
+			"openrank": 242.84
+		},
+		{
+			"id": ":companies\/moonshot\/kimi_cli",
+			"name": "Kimi CLI",
+			"openrank": 238.71
+		},
+		{
+			"id": ":projects\/aider",
+			"name": "Aider",
+			"openrank": 238.59
+		},
+		{
+			"id": ":companies\/capitalone\/cloud_custodian",
+			"name": "Cloud Custodian",
+			"openrank": 235.18
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_aries",
+			"name": "Hyperledger Aries",
+			"openrank": 232.51
+		},
+		{
+			"id": ":companies\/baidu\/echarts",
+			"name": "Apache ECharts",
+			"openrank": 231.7
+		},
+		{
+			"id": ":companies\/fit2cloud\/halo",
+			"name": "Halo",
+			"openrank": 230.52
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed\/edgex_foundry",
+			"name": "EdgeX Foundry",
+			"openrank": 229.71
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/libuv",
+			"name": "libuv",
+			"openrank": 228.87
+		},
+		{
+			"id": ":companies\/antgroup\/fury",
+			"name": "Fury",
+			"openrank": 226.33
+		},
+		{
+			"id": ":companies\/antgroup\/utoo",
+			"name": "Utoo",
+			"openrank": 225
+		},
+		{
+			"id": ":companies\/antgroup\/neovateai",
+			"name": "NeovateAI",
+			"openrank": 223.81
+		},
+		{
+			"id": ":companies\/amazon\/firecracker",
+			"name": "Firecracker",
+			"openrank": 223.45
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/openlineage",
+			"name": "OpenLineage",
+			"openrank": 223.36
+		},
+		{
+			"id": ":foundations\/anoma\/namada",
+			"name": "Namada",
+			"openrank": 219.73
+		},
+		{
+			"id": ":companies\/antgroup\/jeandle",
+			"name": "Jeandle",
+			"openrank": 219.13
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/nvm",
+			"name": "nvm",
+			"openrank": 210.4
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf\/agent_sandbox",
+			"name": "Agent Sandbox",
+			"openrank": 210.23
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/feast",
+			"name": "Feast",
+			"openrank": 210.12
+		},
+		{
+			"id": ":companies\/amazon\/freertos",
+			"name": "FreeRTOS",
+			"openrank": 210.12
+		},
+		{
+			"id": ":companies\/harness\/litmus",
+			"name": "Litmus",
+			"openrank": 209.54
+		},
+		{
+			"id": ":companies\/improbable\/thanos",
+			"name": "Thanos",
+			"openrank": 209.47
+		},
+		{
+			"id": ":companies\/pivotal\/buildpacks",
+			"name": "Buildpacks",
+			"openrank": 207.32
+		},
+		{
+			"id": ":projects\/superpowers",
+			"name": "Superpowers",
+			"openrank": 206.3
+		},
+		{
+			"id": ":companies\/netease\/codewave",
+			"name": "CodeWave",
+			"openrank": 201.64
+		},
+		{
+			"id": ":foundations\/free_ebook\/free_programming_books",
+			"name": "Free Programming Books",
+			"openrank": 198.86
+		},
+		{
+			"id": ":companies\/antgroup\/tugraph",
+			"name": "TuGraph",
+			"openrank": 196.55
+		},
+		{
+			"id": ":universities\/thu\/kvcache\/ktransformers",
+			"name": "KTransformers",
+			"openrank": 196.54
+		},
+		{
+			"id": ":companies\/alibaba\/koordinator",
+			"name": "Koordinator",
+			"openrank": 196.14
+		},
+		{
+			"id": ":companies\/flant\/werf",
+			"name": "Werf",
+			"openrank": 195.64
+		},
+		{
+			"id": ":companies\/google\/coredns",
+			"name": "CoreDNS",
+			"openrank": 195.62
+		},
+		{
+			"id": ":companies\/alibaba\/celeborn",
+			"name": "Apache Celeborn",
+			"openrank": 187.4
+		},
+		{
+			"id": ":companies\/antgroup\/umi",
+			"name": "UmiJS",
+			"openrank": 186.65
+		},
+		{
+			"id": ":foundations\/openatom\/taro",
+			"name": "Taro",
+			"openrank": 185.3
+		},
+		{
+			"id": ":companies\/microsoft\/autogen",
+			"name": "AutoGen",
+			"openrank": 183.92
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_cacti",
+			"name": "Hyperledger Cacti",
+			"openrank": 183.52
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf\/spire",
+			"name": "SPIRE",
+			"openrank": 183.44
+		},
+		{
+			"id": ":companies\/huanjiyun\/sealos",
+			"name": "Sealos",
+			"openrank": 183.26
+		},
+		{
+			"id": ":projects\/chatboxai",
+			"name": "Chatbox AI",
+			"openrank": 182.48
+		},
+		{
+			"id": ":companies\/openpipe\/art",
+			"name": "ART",
+			"openrank": 180.06
+		},
+		{
+			"id": ":companies\/antgroup\/ng_zorro",
+			"name": "NG-ZORRO",
+			"openrank": 174.76
+		},
+		{
+			"id": ":companies\/antgroup\/dtvm",
+			"name": "DTVM",
+			"openrank": 173.68
+		},
+		{
+			"id": ":companies\/openmeter\/openmeter",
+			"name": "OpenMeter",
+			"openrank": 172.92
+		},
+		{
+			"id": ":companies\/openai\/parameter_golf",
+			"name": "Parameter Golf",
+			"openrank": 171.48
+		},
+		{
+			"id": ":companies\/antgroup\/agent_universe",
+			"name": "agentUniverse",
+			"openrank": 168.11
+		},
+		{
+			"id": ":projects\/rtk",
+			"name": "RTK",
+			"openrank": 167.74
+		},
+		{
+			"id": ":companies\/antgroup\/dbgpt",
+			"name": "dbgpt",
+			"openrank": 167.38
+		},
+		{
+			"id": ":companies\/baidu\/brpc",
+			"name": "bRPC",
+			"openrank": 167.07
+		},
+		{
+			"id": ":companies\/sensiolabs\/twig",
+			"name": "Twig",
+			"openrank": 167.06
+		},
+		{
+			"id": ":companies\/supermemory\/supermemory",
+			"name": "Supermemory",
+			"openrank": 166.78
+		},
+		{
+			"id": ":companies\/alibaba\/kubevela",
+			"name": "KubeVela",
+			"openrank": 165.95
+		},
+		{
+			"id": ":companies\/antgroup\/cnpm",
+			"name": "cnpm",
+			"openrank": 164.17
+		},
+		{
+			"id": ":universities\/nyu\/in_toto",
+			"name": "in-toto",
+			"openrank": 162.36
+		},
+		{
+			"id": ":companies\/deepseek\/deepep",
+			"name": "DeepEP",
+			"openrank": 162.09
+		},
+		{
+			"id": ":foundations\/openatom\/open_solon",
+			"name": "OpenSolon",
+			"openrank": 161.49
+		},
+		{
+			"id": ":projects\/mistral_rs",
+			"name": "mistral.rs",
+			"openrank": 160.34
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/marko",
+			"name": "Marko",
+			"openrank": 158.83
+		},
+		{
+			"id": ":companies\/nvidia\/nccl",
+			"name": "NCCL",
+			"openrank": 156.57
+		},
+		{
+			"id": ":companies\/antgroup\/sofastack",
+			"name": "Sofastack",
+			"openrank": 156.14
+		},
+		{
+			"id": ":companies\/bentoml\/bentoml",
+			"name": "BentoML",
+			"openrank": 155.33
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_fabric",
+			"name": "Hyperledger Fabric",
+			"openrank": 154.6
+		},
+		{
+			"id": ":companies\/trycua\/cua",
+			"name": "Cua",
+			"openrank": 154.14
+		},
+		{
+			"id": ":companies\/ggml.ai\/whisper.cpp",
+			"name": "whisper.cpp",
+			"openrank": 152.85
+		},
+		{
+			"id": ":companies\/redhat\/cri_o",
+			"name": "CRI-O",
+			"openrank": 152.81
+		},
+		{
+			"id": ":companies\/qodo\/pr_agent",
+			"name": "PR Agent",
+			"openrank": 149.22
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed\/fledge",
+			"name": "Fledge",
+			"openrank": 144.23
+		},
+		{
+			"id": ":companies\/nordcraft\/nordcraft",
+			"name": "Nordcraft",
+			"openrank": 142.63
+		},
+		{
+			"id": ":communities\/omniroute\/omniroute",
+			"name": "OmniRoute",
+			"openrank": 141.08
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/amp",
+			"name": "AMP",
+			"openrank": 140.13
+		},
+		{
+			"id": ":companies\/parseable\/parseable",
+			"name": "Parseable",
+			"openrank": 138.21
+		},
+		{
+			"id": ":companies\/alibaba\/fluid",
+			"name": "Fluid",
+			"openrank": 138.12
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/node_red",
+			"name": "Node-RED",
+			"openrank": 137.24
+		},
+		{
+			"id": ":projects\/text_generation_webui",
+			"name": "TextGen",
+			"openrank": 135.18
+		},
+		{
+			"id": ":companies\/antgroup\/openspg",
+			"name": "OpenSPG",
+			"openrank": 134.79
+		},
+		{
+			"id": ":projects\/everything_claude_code",
+			"name": "Everything Claude Code",
+			"openrank": 131.81
+		},
+		{
+			"id": ":projects\/oh_my_claudecode",
+			"name": "Oh My ClaudeCode",
+			"openrank": 131.61
+		},
+		{
+			"id": ":companies\/tenstorrent\/tt_forge",
+			"name": "TT-Forge",
+			"openrank": 129.65
+		},
+		{
+			"id": ":companies\/antgroup\/kusion_stack",
+			"name": "KusionStack",
+			"openrank": 126.67
+		},
+		{
+			"id": ":companies\/huggingface\/openenv",
+			"name": "OpenEnv",
+			"openrank": 121.87
+		},
+		{
+			"id": ":companies\/microsoft\/graphrag",
+			"name": "GraphRAG",
+			"openrank": 121.72
+		},
+		{
+			"id": ":projects\/god_bless",
+			"name": "god_bless",
+			"openrank": 119.72
+		},
+		{
+			"id": ":projects\/openspec",
+			"name": "OpenSpec",
+			"openrank": 118.92
+		},
+		{
+			"id": ":companies\/vercel\/agent_browser",
+			"name": "Agent Browser",
+			"openrank": 117.87
+		},
+		{
+			"id": ":companies\/vectorize_io\/hindsight",
+			"name": "Hindsight",
+			"openrank": 117.86
+		},
+		{
+			"id": ":projects\/openrlhf",
+			"name": "OpenRLHF",
+			"openrank": 117.31
+		},
+		{
+			"id": ":companies\/jd\/cubefs",
+			"name": "CubeFS",
+			"openrank": 116.87
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf\/cloudevents",
+			"name": "CloudEvents",
+			"openrank": 116.85
+		},
+		{
+			"id": ":projects\/openfang",
+			"name": "OpenFang",
+			"openrank": 116.21
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed\/open_horizon",
+			"name": "Open Horizon",
+			"openrank": 115.34
+		},
+		{
+			"id": ":companies\/google\/a2ui",
+			"name": "A2UI",
+			"openrank": 115.17
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/grunt",
+			"name": "Grunt",
+			"openrank": 113.75
+		},
+		{
+			"id": ":projects\/redot_engine",
+			"name": "Redot Engine",
+			"openrank": 111.9
+		},
+		{
+			"id": ":companies\/fit2cloud\/metersphere",
+			"name": "MeterSphere",
+			"openrank": 110.65
+		},
+		{
+			"id": ":projects\/mempalace",
+			"name": "MemPalace",
+			"openrank": 110.57
+		},
+		{
+			"id": ":companies\/deepin\/linglong",
+			"name": "玲珑",
+			"openrank": 107.8
+		},
+		{
+			"id": ":companies\/antgroup\/intelligent_machine_learning",
+			"name": "Intelligent Machine Learning",
+			"openrank": 107.03
+		},
+		{
+			"id": ":companies\/microsoft\/markitdown",
+			"name": "MarkItDown",
+			"openrank": 105.07
+		},
+		{
+			"id": ":companies\/iotex\/iotex",
+			"name": "IoTeX Project",
+			"openrank": 104.88
+		},
+		{
+			"id": ":projects\/oh_my_codex",
+			"name": "Oh My Codex",
+			"openrank": 102.31
+		},
+		{
+			"id": ":projects\/openclaude",
+			"name": "OpenClaude",
+			"openrank": 100.75
+		},
+		{
+			"id": ":companies\/antgroup\/geaflow",
+			"name": "Geaflow",
+			"openrank": 99.52
+		},
+		{
+			"id": ":companies\/amazon\/eks_distro",
+			"name": "EKS Distro",
+			"openrank": 98.84
+		},
+		{
+			"id": ":companies\/anthropic\/skills",
+			"name": "Agent Skills",
+			"openrank": 96.38
+		},
+		{
+			"id": ":companies\/antgroup\/egg",
+			"name": "EggJS",
+			"openrank": 96
+		},
+		{
+			"id": ":foundations\/farama\/gymnasium",
+			"name": "Gymnasium",
+			"openrank": 95.75
+		},
+		{
+			"id": ":companies\/antgroup\/codefuse",
+			"name": "CodeFuse",
+			"openrank": 95.03
+		},
+		{
+			"id": ":companies\/databricks\/unity_catalog",
+			"name": "Unity Catalog",
+			"openrank": 94.67
+		},
+		{
+			"id": ":projects\/perplexica",
+			"name": "Vane",
+			"openrank": 93.35
+		},
+		{
+			"id": ":companies\/alibaba\/sca",
+			"name": "Spring Cloud Alibaba",
+			"openrank": 92.53
+		},
+		{
+			"id": ":companies\/tenstorrent\/tt_lang",
+			"name": "TT-Lang",
+			"openrank": 92.32
+		},
+		{
+			"id": ":companies\/segmentfault\/answer",
+			"name": "Apache Answer",
+			"openrank": 86.99
+		},
+		{
+			"id": ":companies\/antgroup\/modelpack",
+			"name": "ModelPack",
+			"openrank": 82.79
+		},
+		{
+			"id": ":companies\/alibaba\/opensandbox",
+			"name": "OpenSandbox",
+			"openrank": 82.24
+		},
+		{
+			"id": ":companies\/deepseek\/deepseek_v3",
+			"name": "DeepSeek-V3",
+			"openrank": 81.62
+		},
+		{
+			"id": ":companies\/antgroup\/kcl_lang",
+			"name": "KCL Lang",
+			"openrank": 78.01
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/opends4all",
+			"name": "OpenDS4All",
+			"openrank": 78
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/egeria",
+			"name": "Egeria",
+			"openrank": 78
+		},
+		{
+			"id": ":companies\/pingcap\/chaos_mesh",
+			"name": "Chaos Mesh",
+			"openrank": 77.38
+		},
+		{
+			"id": ":projects\/deepseek_tui",
+			"name": "DeepSeek TUI",
+			"openrank": 77.02
+		},
+		{
+			"id": ":projects\/pgvector",
+			"name": "pgvector",
+			"openrank": 76.91
+		},
+		{
+			"id": ":companies\/vmware\/contour",
+			"name": "Contour",
+			"openrank": 71.66
+		},
+		{
+			"id": ":companies\/alibaba\/inclavare_containers",
+			"name": "Inclavare Containers",
+			"openrank": 71.57
+		},
+		{
+			"id": ":communities\/xlab\/open_digger",
+			"name": "OpenDigger",
+			"openrank": 71.01
+		},
+		{
+			"id": ":companies\/redhat\/container_network_interface",
+			"name": "Container Network Interface (CNI)",
+			"openrank": 70.23
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed\/ekuiper",
+			"name": "eKuiper",
+			"openrank": 70.22
+		},
+		{
+			"id": ":projects\/stable_diffusion_webui_forge",
+			"name": "Stable Diffusion WebUI Forge",
+			"openrank": 69.74
+		},
+		{
+			"id": ":companies\/alibaba\/opensumi",
+			"name": "OpenSumi",
+			"openrank": 69.3
+		},
+		{
+			"id": ":universities\/uw\/the_update_framework",
+			"name": "The Update Framework (TUF)",
+			"openrank": 68.47
+		},
+		{
+			"id": ":companies\/antgroup\/tongsuo",
+			"name": "Tongsuo",
+			"openrank": 67.68
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/pyro",
+			"name": "Pyro",
+			"openrank": 66.61
+		},
+		{
+			"id": ":communities\/esengine\/deepseek_reasonix",
+			"name": "DeepSeek Reasonix",
+			"openrank": 66.47
+		},
+		{
+			"id": ":companies\/stablyai\/orca",
+			"name": "Orca",
+			"openrank": 65.82
+		},
+		{
+			"id": ":projects\/voicebox",
+			"name": "Voicebox",
+			"openrank": 65.19
+		},
+		{
+			"id": ":companies\/nevamind_ai\/memu",
+			"name": "memU",
+			"openrank": 64.92
+		},
+		{
+			"id": ":projects\/stable_diffusion_webui",
+			"name": "stable-diffusion-webui",
+			"openrank": 63.51
+		},
+		{
+			"id": ":companies\/alibaba\/chaosblade",
+			"name": "ChaosBlade",
+			"openrank": 62.37
+		},
+		{
+			"id": ":companies\/guardrails\/guardrails",
+			"name": "Guardrails",
+			"openrank": 59.35
+		},
+		{
+			"id": ":companies\/foundationagents\/openmanus",
+			"name": "OpenManus",
+			"openrank": 59.3
+		},
+		{
+			"id": ":companies\/docker\/notary",
+			"name": "Notary",
+			"openrank": 59.28
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/qunit",
+			"name": "QUnit",
+			"openrank": 58.51
+		},
+		{
+			"id": ":companies\/huawei\/service_comb",
+			"name": "Apache ServiceComb",
+			"openrank": 55.46
+		},
+		{
+			"id": ":companies\/ggml.ai\/ggml",
+			"name": "GGML",
+			"openrank": 55.46
+		},
+		{
+			"id": ":projects\/open_water_analytics",
+			"name": "Open Water Analytics",
+			"openrank": 54.86
+		},
+		{
+			"id": ":companies\/intel\/nwjs",
+			"name": "NW.js",
+			"openrank": 54.68
+		},
+		{
+			"id": ":projects\/mlc_llm",
+			"name": "MLC LLM",
+			"openrank": 54.6
+		},
+		{
+			"id": ":projects\/nextchat",
+			"name": "NextChat",
+			"openrank": 54.5
+		},
+		{
+			"id": ":companies\/alibaba\/dragonwell",
+			"name": "Dragonwell",
+			"openrank": 53.08
+		},
+		{
+			"id": ":companies\/antgroup\/seekdb",
+			"name": "SeekDB",
+			"openrank": 51.27
+		},
+		{
+			"id": ":companies\/alibaba\/midway",
+			"name": "MidwayJS",
+			"openrank": 50.47
+		},
+		{
+			"id": ":companies\/alibaba\/canal",
+			"name": "Canal",
+			"openrank": 49.6
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_iroha",
+			"name": "Hyperledger Iroha",
+			"openrank": 49.21
+		},
+		{
+			"id": ":companies\/stackblitz\/bolt.new",
+			"name": "Blot.New",
+			"openrank": 48.09
+		},
+		{
+			"id": ":companies\/alibaba\/openyurt",
+			"name": "OpenYurt",
+			"openrank": 47.95
+		},
+		{
+			"id": ":companies\/360\/pikiwidb",
+			"name": "PikiwiDB",
+			"openrank": 44.44
+		},
+		{
+			"id": ":companies\/alibaba\/arthas",
+			"name": "Arthas",
+			"openrank": 44.09
+		},
+		{
+			"id": ":companies\/deepseek\/deepseek_r1",
+			"name": "DeepSeek-R1",
+			"openrank": 43.28
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_firefly",
+			"name": "Hyperledger Firefly",
+			"openrank": 42.74
+		},
+		{
+			"id": ":companies\/headroomlabs\/headroom",
+			"name": "Headroom",
+			"openrank": 42.55
+		},
+		{
+			"id": ":companies\/stackblitz\/webcontainer",
+			"name": "WebContainers",
+			"openrank": 41.46
+		},
+		{
+			"id": ":companies\/lmsys\/fastchat",
+			"name": "FastChat",
+			"openrank": 40.85
+		},
+		{
+			"id": ":companies\/alibaba\/page_agent",
+			"name": "Page Agent",
+			"openrank": 40.76
+		},
+		{
+			"id": ":companies\/alibaba\/ice",
+			"name": "Ice",
+			"openrank": 40.43
+		},
+		{
+			"id": ":companies\/moonshot\/kimi_code",
+			"name": "Kimi Code",
+			"openrank": 39.77
+		},
+		{
+			"id": ":projects\/scira",
+			"name": "scira",
+			"openrank": 37.95
+		},
+		{
+			"id": ":companies\/antgroup\/weavefox",
+			"name": "WeaveFox",
+			"openrank": 37.88
+		},
+		{
+			"id": ":companies\/microsoft\/interpretml",
+			"name": "InterpretML",
+			"openrank": 37.84
+		},
+		{
+			"id": ":companies\/zama\/concrete",
+			"name": "Concrete",
+			"openrank": 36.93
+		},
+		{
+			"id": ":projects\/safetensors",
+			"name": "Safetensors",
+			"openrank": 36.82
+		},
+		{
+			"id": ":companies\/antgroup\/openderisk",
+			"name": "OpenDeRisk",
+			"openrank": 35.29
+		},
+		{
+			"id": ":companies\/hpc_ai\/colossalai",
+			"name": "Colossal-AI",
+			"openrank": 34.85
+		},
+		{
+			"id": ":companies\/baidu\/apollo",
+			"name": "Apollo Auto",
+			"openrank": 34.32
+		},
+		{
+			"id": ":companies\/ambassadorlabs\/emissary_ingress",
+			"name": "Emissary-Ingress",
+			"openrank": 34
+		},
+		{
+			"id": ":projects\/free_domain",
+			"name": "FreeDomain",
+			"openrank": 33.69
+		},
+		{
+			"id": ":projects\/langchain_chatchat",
+			"name": "Chatchat-Space",
+			"openrank": 32.9
+		},
+		{
+			"id": ":companies\/mindverse\/second_me",
+			"name": "Second Me",
+			"openrank": 32.15
+		},
+		{
+			"id": ":companies\/huggingface\/text_generation_inference",
+			"name": "Text Generation Inference",
+			"openrank": 31.69
+		},
+		{
+			"id": ":companies\/tencent\/opentenbase",
+			"name": "OpenTenBase",
+			"openrank": 31.4
+		},
+		{
+			"id": ":projects\/autoresearch",
+			"name": "AutoResearch",
+			"openrank": 30.57
+		},
+		{
+			"id": ":companies\/black_forest_labs\/flux",
+			"name": "FLUX models",
+			"openrank": 29.92
+		},
+		{
+			"id": ":companies\/tencent\/tkestack",
+			"name": "TKEStack",
+			"openrank": 29.72
+		},
+		{
+			"id": ":companies\/antgroup\/aq-medai",
+			"name": "AQ-MedAI",
+			"openrank": 28.98
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_cello",
+			"name": "Hyperledger Cello",
+			"openrank": 27.98
+		},
+		{
+			"id": ":companies\/foundationagents\/metagpt",
+			"name": "MetaGPT",
+			"openrank": 27.25
+		},
+		{
+			"id": ":companies\/alibaba\/polardb-pg",
+			"name": "PolarDB-for-PostgreSQL",
+			"openrank": 27.14
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf\/spiffe",
+			"name": "SPIFFE",
+			"openrank": 26.81
+		},
+		{
+			"id": ":companies\/lobehub\/lobe_theme",
+			"name": "Lobe Theme",
+			"openrank": 25.63
+		},
+		{
+			"id": ":companies\/alibaba\/serverless_devs",
+			"name": "Serverless Devs",
+			"openrank": 25.48
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/architect",
+			"name": "Architect",
+			"openrank": 24.79
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_solang",
+			"name": "Hyperledger Solang",
+			"openrank": 23.2
+		},
+		{
+			"id": ":projects\/one_api",
+			"name": "one-api",
+			"openrank": 23.14
+		},
+		{
+			"id": ":companies\/antgroup\/mosn",
+			"name": "MOSN",
+			"openrank": 22.18
+		},
+		{
+			"id": ":foundations\/openatom\/vearch",
+			"name": "Vearch",
+			"openrank": 22.04
+		},
+		{
+			"id": ":companies\/microsoft\/omniparser",
+			"name": "OmniParser",
+			"openrank": 21.66
+		},
+		{
+			"id": ":projects\/api_testing",
+			"name": "API Testing",
+			"openrank": 21.45
+		},
+		{
+			"id": ":foundations\/openatom\/hapjs",
+			"name": "hapjs",
+			"openrank": 20.9
+		},
+		{
+			"id": ":companies\/alibaba\/sentinel",
+			"name": "Sentinel",
+			"openrank": 19.97
+		},
+		{
+			"id": ":projects\/the_pr_agent",
+			"name": "The PR Agent",
+			"openrank": 19.74
+		},
+		{
+			"id": ":companies\/alibaba\/polardb-x",
+			"name": "PolarDB-X",
+			"openrank": 19.33
+		},
+		{
+			"id": ":companies\/antgroup\/koupleless",
+			"name": "Koupleless",
+			"openrank": 19.02
+		},
+		{
+			"id": ":companies\/nomic\/gpt4all",
+			"name": "GPT4All",
+			"openrank": 18.91
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/janusgraph",
+			"name": "JanusGraph",
+			"openrank": 18.44
+		},
+		{
+			"id": ":companies\/camel_ai\/owl",
+			"name": "OWL",
+			"openrank": 18.41
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/adversarial_robustness_toolkit",
+			"name": "Adversarial Robustness Toolkit",
+			"openrank": 18.09
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/messageformat",
+			"name": "Messageformat",
+			"openrank": 17.66
+		},
+		{
+			"id": ":companies\/harness\/harness",
+			"name": "Harness",
+			"openrank": 17.57
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_caliper",
+			"name": "Hyperledger Caliper",
+			"openrank": 16.95
+		},
+		{
+			"id": ":companies\/myshell\/melotts",
+			"name": "MeloTTS",
+			"openrank": 16.63
+		},
+		{
+			"id": ":companies\/valve\/openvr",
+			"name": "OpenVR SDK",
+			"openrank": 15.47
+		},
+		{
+			"id": ":communities\/xlab\/hypertrons",
+			"name": "Hypertrons",
+			"openrank": 15.4
+		},
+		{
+			"id": ":communities\/xlab\/hypercrx",
+			"name": "HyperCRX",
+			"openrank": 15.4
+		},
+		{
+			"id": ":companies\/openai\/agents_md",
+			"name": "AGENTS.md",
+			"openrank": 15.06
+		},
+		{
+			"id": ":companies\/antgroup\/petercat",
+			"name": "Peter Cat",
+			"openrank": 14.09
+		},
+		{
+			"id": ":companies\/tencent\/opencloudos",
+			"name": "OpenCloudOS",
+			"openrank": 13.71
+		},
+		{
+			"id": ":foundations\/openatom\/openkona",
+			"name": "OpenKona",
+			"openrank": 13.42
+		},
+		{
+			"id": ":companies\/myshell\/openvoice",
+			"name": "OpenVoice",
+			"openrank": 12.47
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/webhint.io",
+			"name": "Webhint.io",
+			"openrank": 12.42
+		},
+		{
+			"id": ":foundations\/openatom\/dora_ssr",
+			"name": "Dora SSR",
+			"openrank": 11.95
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/jerryscript",
+			"name": "Jerryscript",
+			"openrank": 11.32
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/horovod",
+			"name": "Horovod",
+			"openrank": 11.24
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/kompute",
+			"name": "Kompute",
+			"openrank": 11.22
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/open_voice_interoperability",
+			"name": "Open Voice Interoperability",
+			"openrank": 11.11
+		},
+		{
+			"id": ":companies\/alibaba\/datax",
+			"name": "DataX",
+			"openrank": 10.73
+		},
+		{
+			"id": ":companies\/antgroup\/aigw",
+			"name": "AIGW",
+			"openrank": 10.65
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_indy",
+			"name": "Hyperledger Indy",
+			"openrank": 10.27
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/marquez",
+			"name": "Marquez",
+			"openrank": 10.26
+		},
+		{
+			"id": ":companies\/greatdb\/greatsql",
+			"name": "GreatSQL",
+			"openrank": 10.2
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/angel_ml",
+			"name": "Angel-ML",
+			"openrank": 9.47
+		},
+		{
+			"id": ":companies\/alibaba\/graphscope",
+			"name": "GraphScope",
+			"openrank": 9.42
+		},
+		{
+			"id": ":companies\/deepin\/codeya_ide",
+			"name": "Codeya IDE",
+			"openrank": 8.8
+		},
+		{
+			"id": ":companies\/airbnb\/enzyme",
+			"name": "Enzyme",
+			"openrank": 8.68
+		},
+		{
+			"id": ":companies\/antgroup\/occlum",
+			"name": "Occlum",
+			"openrank": 8.37
+		},
+		{
+			"id": ":companies\/antgroup\/magic_quill",
+			"name": "MagicQuill",
+			"openrank": 8.3
+		},
+		{
+			"id": ":companies\/alibaba\/havenask",
+			"name": "Havenask",
+			"openrank": 8
+		},
+		{
+			"id": ":companies\/huawei\/open_inula",
+			"name": "OpenInula",
+			"openrank": 7.95
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/ludwig",
+			"name": "Ludwig",
+			"openrank": 7.84
+		},
+		{
+			"id": ":companies\/antgroup\/unieo",
+			"name": "Unieo",
+			"openrank": 7.73
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/sparklyr",
+			"name": "sparklyr",
+			"openrank": 7.32
+		},
+		{
+			"id": ":companies\/alibaba\/open_messaging",
+			"name": "OpenMessaging",
+			"openrank": 7.27
+		},
+		{
+			"id": ":companies\/pythagora\/pythagora",
+			"name": "Pythagora",
+			"openrank": 7.2
+		},
+		{
+			"id": ":companies\/alibaba\/vineyard",
+			"name": "Vineyard",
+			"openrank": 6.76
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_anoncreds",
+			"name": "Hyperledger AnonCreds",
+			"openrank": 6.37
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/fate",
+			"name": "FATE",
+			"openrank": 6.29
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf\/keptn",
+			"name": "Keptn",
+			"openrank": 6.02
+		},
+		{
+			"id": ":companies\/alibaba\/lowcode_engine",
+			"name": "Lowcode Engine",
+			"openrank": 5.48
+		},
+		{
+			"id": ":companies\/alibaba\/easyexcel",
+			"name": "EasyExcel",
+			"openrank": 5.46
+		},
+		{
+			"id": ":companies\/deepseek\/deepseek_vl2",
+			"name": "DeepSeek-VL2",
+			"openrank": 5.38
+		},
+		{
+			"id": ":companies\/baidu\/huiyan",
+			"name": "Biadu Map Huiyan",
+			"openrank": 4.84
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/ai_fairness_360_toolkit",
+			"name": "AI Fairness 360 Toolkit",
+			"openrank": 4.44
+		},
+		{
+			"id": ":companies\/astral\/rye",
+			"name": "Rye",
+			"openrank": 4.04
+		},
+		{
+			"id": ":companies\/alibaba\/fusion",
+			"name": "Fusion Design",
+			"openrank": 3.8
+		},
+		{
+			"id": ":companies\/bytedance\/oceanengine",
+			"name": "Ocean Engine",
+			"openrank": 3.78
+		},
+		{
+			"id": ":companies\/bytedance\/byconity",
+			"name": "ByConity",
+			"openrank": 3.28
+		},
+		{
+			"id": ":companies\/myshell\/ailice",
+			"name": "AIlice",
+			"openrank": 3.25
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_bevel",
+			"name": "Hyperledger Bevel",
+			"openrank": 3.23
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/dojo",
+			"name": "Dojo",
+			"openrank": 3.03
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/rwkv",
+			"name": "RWKV",
+			"openrank": 2.95
+		},
+		{
+			"id": ":foundations\/openatom\/openblock",
+			"name": "狮偶",
+			"openrank": 2.9
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/ai_explainability_360_toolkit",
+			"name": "AI Explainability 360 Toolkit",
+			"openrank": 2.81
+		},
+		{
+			"id": ":foundations\/openatom\/miniblink",
+			"name": "MiniBlink",
+			"openrank": 2.49
+		},
+		{
+			"id": ":companies\/antgroup\/antchain",
+			"name": "Ant Chain",
+			"openrank": 2.4
+		},
+		{
+			"id": ":companies\/antgroup\/horaedb",
+			"name": "Apache HoraeDB",
+			"openrank": 2.26
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/datashim",
+			"name": "Datashim",
+			"openrank": 2.18
+		},
+		{
+			"id": ":companies\/huawei\/kurator",
+			"name": "Kurator",
+			"openrank": 2.17
+		},
+		{
+			"id": ":universities\/puc_rio\/lua",
+			"name": "Lua",
+			"openrank": 2.14
+		},
+		{
+			"id": ":foundations\/openatom\/opennjet",
+			"name": "OpenNJet",
+			"openrank": 2.05
+		},
+		{
+			"id": ":companies\/antgroup\/trass_stack",
+			"name": "Traas Stack",
+			"openrank": 1.89
+		},
+		{
+			"id": ":companies\/360\/thinkjs",
+			"name": "ThinkJS",
+			"openrank": 1.77
+		},
+		{
+			"id": ":foundations\/girlscript\/gssoc24",
+			"name": "GirlScript Summer of Code 24",
+			"openrank": 1.74
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/intern",
+			"name": "Intern",
+			"openrank": 1.58
+		},
+		{
+			"id": ":companies\/antgroup\/macaca",
+			"name": "Macaca",
+			"openrank": 1.57
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/globalize",
+			"name": "Globalize",
+			"openrank": 1.4
+		},
+		{
+			"id": ":companies\/emq\/hstreamdb",
+			"name": "HStreamDB",
+			"openrank": 1.39
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/amundsen",
+			"name": "Amundsen",
+			"openrank": 1.37
+		},
+		{
+			"id": ":companies\/airbnb\/react_dates",
+			"name": "React Dates",
+			"openrank": 1.27
+		},
+		{
+			"id": ":companies\/polarsignals\/frostdb",
+			"name": "FrostDB",
+			"openrank": 1.24
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger\/hyperledger_web3j",
+			"name": "Hyperledger Web3J",
+			"openrank": 1.21
+		},
+		{
+			"id": ":companies\/huawei\/liteos",
+			"name": "LiteOS",
+			"openrank": 1.01
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/adlik",
+			"name": "Adlik",
+			"openrank": 1
+		},
+		{
+			"id": ":companies\/alibaba\/teambition",
+			"name": "Teambition",
+			"openrank": 0.94
+		},
+		{
+			"id": ":companies\/antgroup\/dva",
+			"name": "DvaJS",
+			"openrank": 0.89
+		},
+		{
+			"id": ":companies\/openpipe\/openpipe",
+			"name": "OpenPipe",
+			"openrank": 0.86
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs\/requirejs",
+			"name": "RequireJS",
+			"openrank": 0.74
+		},
+		{
+			"id": ":companies\/mermaid\/mermaidjs",
+			"name": "Mermaid JS",
+			"openrank": 0.69
+		},
+		{
+			"id": ":companies\/alibaba\/openkraken",
+			"name": "OpenKraken",
+			"openrank": 0.69
+		},
+		{
+			"id": ":companies\/llama_corp\/llamanodes",
+			"name": "LlamaNodes",
+			"openrank": 0.68
+		},
+		{
+			"id": ":companies\/alibaba\/opensergo",
+			"name": "OpenSergo",
+			"openrank": 0.64
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/soajs",
+			"name": "SOAJS",
+			"openrank": 0.61
+		},
+		{
+			"id": ":companies\/baidu\/mesalock",
+			"name": "MesaLock Linux",
+			"openrank": 0.59
+		},
+		{
+			"id": ":foundations\/openatom\/rtthread_nano",
+			"name": "RT-TKern",
+			"openrank": 0.46
+		},
+		{
+			"id": ":companies\/huanjiyun\/laf",
+			"name": "Laf",
+			"openrank": 0.45
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/tony",
+			"name": "TonY",
+			"openrank": 0.4
+		},
+		{
+			"id": ":companies\/sensiolabs\/blackfire",
+			"name": "Blackfire",
+			"openrank": 0.35
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai\/docarrary",
+			"name": "Docarrary",
+			"openrank": 0.3
+		},
+		{
+			"id": ":companies\/llama_corp\/llamapay",
+			"name": "LlamaPay",
+			"openrank": 0.27
+		},
+		{
+			"id": ":companies\/stoneatom\/stonedb",
+			"name": "StoneDB",
+			"openrank": 0.26
+		},
+		{
+			"id": ":companies\/alibaba\/kubedl",
+			"name": "KubeDL",
+			"openrank": 0.25
+		},
+		{
+			"id": ":companies\/alibaba\/alios_things",
+			"name": "AliOS Things",
+			"openrank": 0.19
+		}
+	],
+
+	"rows": 832,
+
+	"statistics":
+	{
+		"elapsed": 0.375695722,
+		"rows_read": 216173308,
+		"bytes_read": 1242408111
+	}
+}

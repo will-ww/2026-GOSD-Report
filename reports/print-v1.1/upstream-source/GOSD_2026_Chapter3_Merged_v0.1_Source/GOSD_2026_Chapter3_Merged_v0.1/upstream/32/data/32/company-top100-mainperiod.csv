@@ -1,0 +1,101 @@
+rank,id,name,company_zh,openrank,country_zh,country_code
+1,:companies/microsoft,Microsoft,微软,167060.26,美国,US
+2,:companies/huawei,Huawei,华为,141253.65,中国,CN
+3,:companies/google,Google,谷歌,82517.69,美国,US
+4,:companies/meta,Meta,Meta,49739.14,美国,US
+5,:companies/amazon,Amazon,亚马逊,36597.6,美国,US
+6,:companies/nvidia,NVIDIA,英伟达,35291.1,美国,US
+7,:companies/redhat,RedHat,红帽,30259.54,美国,US
+8,:companies/elastic,Elastic,Elastic,29080.36,美国,US
+9,:companies/anthropic,Anthropic,Anthropic,25147.06,美国,US
+10,:companies/mozilla,Mozilla,Mozilla,24974.3,美国,US
+11,:companies/alibaba,Alibaba,阿里巴巴,21370.04,中国,CN
+12,:companies/grafana,Grafana Labs,Grafana Labs,21185.41,美国,US
+13,:companies/bytedance,ByteDance,字节跳动,19551.65,中国,CN
+14,:companies/huggingface,Hugging Face,Hugging Face,17744.48,美国,US
+15,:companies/ibm,IBM,IBM,16860.93,美国,US
+16,:companies/datadog,DataDog,DataDog,16551.18,美国,US
+17,:companies/openai,OpenAI,OpenAI,15756.56,美国,US
+18,:companies/jetbrains,JetBrains,JetBrains,15377.58,荷兰,NL
+19,:companies/expensify,Expensify,Expensify,15181.91,美国,US
+20,:companies/apple,Apple,苹果,15172.63,美国,US
+21,:companies/tenstorrent,Tenstorrent,Tenstorrent,14837.01,美国,US
+22,:companies/antgroup,Ant group,蚂蚁集团,14466.01,中国,CN
+23,:companies/zed,Zed Industry,Zed Industry,13640.16,美国,US
+24,:companies/hashicorp,HashiCorp,HashiCorp,13537.34,美国,US
+25,:companies/nabucasa,Nabu Casa Inc.,Nabu Casa Inc.,12840.53,美国,US
+26,:companies/vercel,Vercel,Vercel,12522.59,美国,US
+27,:companies/odoo,Odoo,Odoo,12357.48,比利时,BE
+28,:companies/intel,Intel,英特尔,12201.84,美国,US
+29,:companies/astral,Astral,Astral,11893.78,美国,US
+30,:companies/anomaly,Anomaly,Anomaly,10585.67,美国,US
+31,:companies/oracle,Oracle,甲骨文,10503.63,美国,US
+32,:companies/baidu,Baidu,百度,10371.51,中国,CN
+33,:companies/tencent,Tencent,腾讯,9276.72,中国,CN
+34,:companies/langchain,LangChain,LangChain,9101.88,美国,US
+35,:companies/databricks,Databricks,Databricks,9084.33,美国,US
+36,:companies/yandex,Yandex,Yandex,8989.93,俄罗斯,RU
+37,:companies/vmware,VMWare,VMWare,8984.08,美国,US
+38,:companies/consensys,ConsenSys,ConsenSys,8068.42,美国,US
+39,:companies/cloudflare,Cloudflare,Cloudflare,7834.37,美国,US
+40,:companies/nextcloud,NextCloud,NextCloud,7603.19,德国,DE
+41,:companies/dify_ai,Dify AI,Dify AI,7496.88,美国,US
+42,:companies/linkedin,LinkedIn,LinkedIn,6743.15,美国,US
+43,:companies/docker,Docker,Docker,6740.67,美国,US
+44,:companies/n8n,n8n,n8n,6706.43,德国,DE
+45,:companies/berriai,BerriAI,BerriAI,5972.28,美国,US
+46,:companies/adobe,Adobe,Adobe,5878,美国,US
+47,:companies/pingcap,PingCAP,PingCAP,5793.82,中国,CN
+48,:companies/rancher,Rancher Labs,Rancher Labs,5479.13,美国,US
+49,:companies/airbnb,Airbnb,Airbnb,4994.21,美国,US
+50,:companies/snowflake,Snowflake,Snowflake,4576.66,美国,US
+51,:companies/wordpress,WordPress,WordPress,4545.51,美国,US
+52,:companies/soundcloud,SoundCloud,SoundCloud,4534.77,德国,DE
+53,:companies/paradigm,Paradigm,Paradigm,4476.87,美国,US
+54,:companies/supabase,Supabase,Supabase,4425.94,美国,US
+55,:companies/fit2cloud,Fit2Cloud,飞致云,4325.93,中国,CN
+56,:companies/mongodb,MongoDB,MongoDB,4214.44,美国,US
+57,:companies/espressif,ESPRESSIF,乐鑫科技,4125.54,中国,CN
+58,:companies/bitwarden,Bitwarden,Bitwarden,4112.06,美国,US
+59,:companies/newrelic,New Relic,New Relic,4078.56,美国,US
+60,:companies/brave,Brave,Brave,3986.51,美国,US
+61,:companies/gravitational,Gravitational,Gravitational,3983.73,美国,US
+62,:companies/camunda,Camunda,Camunda,3861.64,德国,DE
+63,:companies/llama_corp,Llama Corp,Llama Corp,3771.4,冰岛,IS
+64,:companies/zilliz,Zilliz,赜睿信息科技,3581.47,中国,CN
+65,:companies/laravel,Laravel Holdings,Laravel Holdings,3513.18,美国,US
+66,:companies/mysten_labs,Mysten Labs,Mysten Labs,3496.78,美国,US
+67,:companies/netflix,Netflix,Netflix,3422.45,美国,US
+68,:companies/woo,Woo,Woo,3421.81,南非,ZA
+69,:companies/infiniflow,Infinity Flow,Infinity Flow,3408.72,中国,CN
+70,:companies/datastax,DataStax,DataStax,3398.53,美国,US
+71,:companies/isovalent,Isovalent,Isovalent,3344.78,美国,US
+72,:companies/redis,Redis Labs,Redis Labs,3320.29,美国,US
+73,:companies/livekit,LiveKit,LiveKit,3312.87,美国,US
+74,:companies/650_industries,650 Industries,650 Industries,3250.23,美国,US
+75,:companies/valve,Valve,Valve,3185.03,美国,US
+76,:companies/scylladb,ScyllaDB,ScyllaDB,3148.11,以色列,IL
+77,:companies/cloudbees,Cloudbees,Cloudbees,3133.51,美国,US
+78,:companies/fivetran,Fivetran,Fivetran,3074.42,美国,US
+79,:companies/ggml.ai,GGML.ai,GGML.ai,3055.42,保加利亚,BG
+80,:companies/coder,Coder,Coder,3000.64,美国,US
+81,:companies/flant,Flant,Flant,2948.77,爱沙尼亚,EE
+82,:companies/nordic_semiconductor,Nordic Semiconductor,Nordic Semiconductor,2919.8,挪威,NO
+83,:companies/coreweave,CoreWeave,CoreWeave,2860.9,美国,US
+84,:companies/duckdb,DuckDB Labs,DuckDB Labs,2784.56,荷兰,NL
+85,:companies/sensiolabs,SensioLabs,SensioLabs,2717.84,法国,FR
+86,:companies/dio,Dio Academia,Dio Academia,2716.66,葡萄牙,PT
+87,:companies/lyft,Lyft,Lyft,2701.24,美国,US
+88,:companies/github,GitHub,GitHub,2690.85,美国,US
+89,:companies/pivotal,Pivotal,Pivotal,2651.57,美国,US
+90,:companies/matra_datavision,Matra Datavision,Matra Datavision,2621.68,法国,FR
+91,:companies/mattermost,Mattermost,Mattermost,2619.45,美国,US
+92,:companies/cockroachlabs,Cockroach Labs,Cockroach Labs,2618.65,美国,US
+93,:companies/paloaltonetworks,Palo Auto Networks,Palo Auto Networks,2571.57,美国,US
+94,:companies/collate,Collate,Collate,2554.99,美国,US
+95,:companies/airbyte,Airbyte,Airbyte,2520.15,美国,US
+96,:companies/ollama,Ollama,Ollama,2499.18,美国,US
+97,:companies/kong,Kong,Kong,2425.31,美国,US
+98,:companies/selectdb,SelectDB,SelectDB,2398.13,中国,CN
+99,:companies/metabase,Metabase,Metabase,2396.59,美国,US
+100,:companies/lobehub,LobeHub,LobeHub,2393.03,新加坡,SG

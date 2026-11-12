@@ -1,0 +1,18 @@
+{
+  "source": "https://open-digger.cn/docs/user_docs/metrics/activity",
+  "weights": {
+    "OI": 2.2235,
+    "ID": 0.5252,
+    "OPR": 4.0679,
+    "PRR": 0.7427,
+    "MPR": 2.0339
+  },
+  "demonstration_counts": [
+    2,
+    4,
+    1,
+    2,
+    1
+  ],
+  "demonstration_only": true
+}

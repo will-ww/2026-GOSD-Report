@@ -1,0 +1,22 @@
+[
+  {
+    "figure": "6-1-global",
+    "out_of_bounds": [],
+    "overlaps": []
+  },
+  {
+    "figure": "6-2-china",
+    "out_of_bounds": [],
+    "overlaps": []
+  },
+  {
+    "figure": "6-3-public",
+    "out_of_bounds": [],
+    "overlaps": []
+  },
+  {
+    "figure": "6-4-cities",
+    "out_of_bounds": [],
+    "overlaps": []
+  }
+]

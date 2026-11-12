@@ -1,0 +1,148 @@
+[
+  {
+    "module": 1,
+    "name": "封面和前置内容",
+    "file": "/workspace/scratch/77ced49644f0/modules-v0.1/output/pdf/GOSD_2026_Print_M01_Frontmatter_v0.1.pdf",
+    "pages": 18,
+    "blank_pages": [
+      2,
+      10,
+      18
+    ],
+    "folios": "i—xvi，封面与封二不计罗马页码",
+    "source_pages": {
+      "0": 0,
+      "1": 2,
+      "2": 3,
+      "3": 4,
+      "4": 5,
+      "5": 6,
+      "6": 7,
+      "7": 8,
+      "8": 10,
+      "9": 11,
+      "10": 12,
+      "11": 13,
+      "12": 14,
+      "13": 15,
+      "14": 16
+    },
+    "size_bytes": 4953950,
+    "sha256": "e1bb6d216f0d50a9d6c9192f2f9270641e090bb8fb0f282afb183c4ec9d3bcc8"
+  },
+  {
+    "module": 2,
+    "name": "从开放协作到公共价值",
+    "file": "/workspace/scratch/77ced49644f0/modules-v0.1/output/pdf/GOSD_2026_Print_M02_Chapter1_v0.1.pdf",
+    "pages": 12,
+    "blank_pages": [
+      2,
+      12
+    ],
+    "folios": [
+      1,
+      12
+    ],
+    "size_bytes": 4845810,
+    "sha256": "b043331e8dd1a30a158a3c6ec313a0e7a191ccaad2329be1ddc7d3869f738946"
+  },
+  {
+    "module": 3,
+    "name": "全球开源生态地图",
+    "file": "/workspace/scratch/77ced49644f0/modules-v0.1/output/pdf/GOSD_2026_Print_M03_Chapter2_v0.1.pdf",
+    "pages": 22,
+    "blank_pages": [
+      2
+    ],
+    "folios": [
+      13,
+      34
+    ],
+    "size_bytes": 6438374,
+    "sha256": "c7e2146c7967685936b367c88954ba8581d715b9190f5653225f4623c767580e"
+  },
+  {
+    "module": 4,
+    "name": "全球开源影响力排行榜",
+    "file": "/workspace/scratch/77ced49644f0/modules-v0.1/output/pdf/GOSD_2026_Print_M04_Chapter3_v0.1.pdf",
+    "pages": 24,
+    "blank_pages": [
+      2,
+      24
+    ],
+    "folios": [
+      35,
+      58
+    ],
+    "size_bytes": 24601095,
+    "sha256": "411b1f4c8d4e842ff9474c9ec6d537f9c8d6fae36061217229292e20b0d9e131"
+  },
+  {
+    "module": 5,
+    "name": "全球开源技术全景洞察",
+    "file": "/workspace/scratch/77ced49644f0/modules-v0.1/output/pdf/GOSD_2026_Print_M05_Chapter4_v0.1.pdf",
+    "pages": 16,
+    "blank_pages": [
+      2,
+      16
+    ],
+    "folios": [
+      59,
+      74
+    ],
+    "size_bytes": 16419437,
+    "sha256": "e44e9b412f22e5dadb176e34ffcbda2a60ccffc715dd35bf62e9e60eaed0cd84"
+  },
+  {
+    "module": 6,
+    "name": "全球开源大模型发展洞察",
+    "file": "/workspace/scratch/77ced49644f0/modules-v0.1/output/pdf/GOSD_2026_Print_M06_Chapter5_v0.2.pdf",
+    "pages": 14,
+    "blank_pages": [
+      2,
+      14
+    ],
+    "folios": [
+      75,
+      88
+    ],
+    "size_bytes": 9270225,
+    "sha256": "8530703cff346771d7ec4d79c6b3d445fd67a69f42963ddd8b0964a3237205ef",
+    "version": "0.2",
+    "revision": "第80页单次绘制透明组扁平化；全部矢量节点、边与文字保留"
+  },
+  {
+    "module": 7,
+    "name": "关键洞察、前瞻与战略建议",
+    "file": "/workspace/scratch/77ced49644f0/modules-v0.1/output/pdf/GOSD_2026_Print_M07_Chapter6_v0.1.pdf",
+    "pages": 8,
+    "blank_pages": [
+      2
+    ],
+    "folios": [
+      89,
+      96
+    ],
+    "size_bytes": 2167355,
+    "sha256": "f6d1e8734a978049e456847b95ce868b5967a28f3c348e385f38046a1b057b84"
+  },
+  {
+    "module": 8,
+    "name": "附录与致谢",
+    "file": "/workspace/scratch/77ced49644f0/modules-v0.1/output/pdf/GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf",
+    "pages": 24,
+    "blank_pages": [
+      2,
+      20,
+      23
+    ],
+    "folios": [
+      97,
+      120
+    ],
+    "size_bytes": 4442725,
+    "sha256": "55b2f6621cf0cfdf6da77153be75477c15551b41db1c4275f47d9976a15ebc4d",
+    "version": "0.3",
+    "revision": "简洁封底恢复居中的 GOSD 标识"
+  }
+]

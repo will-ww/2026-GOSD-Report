@@ -1,0 +1,2356 @@
+{
+	"meta":
+	[
+		{
+			"name": "id",
+			"type": "LowCardinality(String)"
+		},
+		{
+			"name": "name",
+			"type": "String"
+		},
+		{
+			"name": "month",
+			"type": "String"
+		},
+		{
+			"name": "openrank",
+			"type": "Float64"
+		}
+	],
+
+	"data":
+	[
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 53.3
+		},
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 42.66
+		},
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 38.14
+		},
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 34.21
+		},
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 26.55
+		},
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 16.82
+		},
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 5.41
+		},
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 1.03
+		},
+		{
+			"id": ":foundations\/anoma",
+			"name": "Anoma Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 1.62
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 6469.3
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 6352.99
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 6142.96
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 5552.56
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 5252.76
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 5253.7
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 5104.33
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 4768.76
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 4347.01
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 3955.06
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 3436.07
+		},
+		{
+			"id": ":foundations\/apache",
+			"name": "Apache Software Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 2686.58
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 218.62
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 196.58
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 195
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 180.04
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 170.4
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 171.41
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 163.54
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 136
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 113.82
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 110.2
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 89.56
+		},
+		{
+			"id": ":foundations\/bevy",
+			"name": "Bevy Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 59.81
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 257.57
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 241.4
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 236.28
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 211.15
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 187.08
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 166.68
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 154.41
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 155.9
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 127.72
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 123.87
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 82.28
+		},
+		{
+			"id": ":foundations\/csa_iot",
+			"name": "Connectivity Standards Alliance",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 60.17
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 309.51
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 280.53
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 308.1
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 298.63
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 261.95
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 252.46
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 223.11
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 198.66
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 193.46
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 181.08
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 162.87
+		},
+		{
+			"id": ":foundations\/duckdb",
+			"name": "DuckDB Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 114.21
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 12.71
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 13.06
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 13.74
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 14.47
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 13.45
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 19.48
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 11.82
+		},
+		{
+			"id": ":foundations\/eclipse",
+			"name": "Eclipse Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 12.44
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 32.45
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 28.72
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 26.83
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 23.1
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 19.09
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 18.26
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 22.73
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 22.8
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 19.48
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 19.6
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 18.15
+		},
+		{
+			"id": ":foundations\/farama",
+			"name": "farama",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 10.86
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 5.06
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 3.7
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 15.08
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 95.98
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 41.07
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 17.11
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 10.91
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 4.73
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 6.31
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 3.34
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 3.6
+		},
+		{
+			"id": ":foundations\/free_ebook",
+			"name": "Free EBook Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 3
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 256.74
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 230.35
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 226.95
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 198.14
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 169.76
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 159.26
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 151.33
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 125.96
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 77.93
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 67.22
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 44.46
+		},
+		{
+			"id": ":foundations\/gentoo",
+			"name": "Gentoo Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 27.28
+		},
+		{
+			"id": ":foundations\/girlscript",
+			"name": "GirlScript Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 0.73
+		},
+		{
+			"id": ":foundations\/girlscript",
+			"name": "GirlScript Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 1.01
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 737.11
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 681.52
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 641.22
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 586.24
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 564.77
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 505.96
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 498.15
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 483.72
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 404.85
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 336.63
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 251.48
+		},
+		{
+			"id": ":foundations\/godot",
+			"name": "Godot Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 175.26
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 3525.01
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 3330.16
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 3218.48
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 2968.69
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 2765.16
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 2623.33
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 2576.1
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 2446.56
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 2294.96
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 2071.73
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 1796.27
+		},
+		{
+			"id": ":foundations\/linux_foundation",
+			"name": "Linux Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 1308.1
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 888.7
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 836.74
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 766.63
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 681.97
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 612.41
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 560.67
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 560.3
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 565.92
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 478.79
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 436.6
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 371.21
+		},
+		{
+			"id": ":foundations\/linux_foundation\/aaif",
+			"name": "Agentic AI Foundation (AAIF)",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 262.55
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 7352.06
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 7146.84
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 7011.03
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 6573.95
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 6134.1
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 5726.8
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 5792.98
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 5379.8
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 4897.13
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 4378.7
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 3838.35
+		},
+		{
+			"id": ":foundations\/linux_foundation\/cncf",
+			"name": "Cloud Native Computing Foundation (CNCF)",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 2826.17
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 0.53
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 1.09
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 2.46
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 1.01
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 0.65
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 1.71
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 0.86
+		},
+		{
+			"id": ":foundations\/linux_foundation\/finops",
+			"name": "FinOps Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 0.33
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 172.61
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 155.46
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 158.08
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 148.91
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 139.39
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 124.17
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 110.39
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 107.67
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 115.71
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 123.25
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 114.08
+		},
+		{
+			"id": ":foundations\/linux_foundation\/hyperledger",
+			"name": "Hyperledger Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 73.44
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 684.44
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 620.83
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 615.8
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 557.05
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 541.34
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 489.6
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 504.31
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 480.33
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 436
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 406.77
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 360.67
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfai",
+			"name": "LF AI & Data Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 264.88
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 134.58
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 125.14
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 120.21
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 108.65
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 93.4
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 61.61
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 62.08
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 47.64
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 42.26
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 41.51
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 34.68
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfed",
+			"name": "LF Edge Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 29.46
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 13.86
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 19.7
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 14.22
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 13.62
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 8.92
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 6.62
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 6.81
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 6.58
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 6.8
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 7.3
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 2.56
+		},
+		{
+			"id": ":foundations\/linux_foundation\/lfne",
+			"name": "LF Networking Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 2.36
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 81.22
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 71.54
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 67.55
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 52.26
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 39.13
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 36.51
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 36.22
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 30.62
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 29.04
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 25.63
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 23.77
+		},
+		{
+			"id": ":foundations\/linux_foundation\/o3d",
+			"name": "Open 3D Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 14.8
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 2552.65
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 2487.9
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 2465.55
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 2358.52
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 2246.72
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 2170.3
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 2116.85
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 2050.48
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 1886.64
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 1783.39
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 1489.51
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openjs",
+			"name": "OpenJS Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 1094.08
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 217.19
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 214.62
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 232.3
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 218.43
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 215.72
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 211.76
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 205.82
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 186.16
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 160.21
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 166.1
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 152.01
+		},
+		{
+			"id": ":foundations\/linux_foundation\/openssf",
+			"name": "OpenSSF Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 100.63
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 114.95
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 121.12
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 110.25
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 106.25
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 94.17
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 90.54
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 87.13
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 77.84
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 68.72
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 58.27
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 43.8
+		},
+		{
+			"id": ":foundations\/linux_foundation\/presto",
+			"name": "Presto Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 32
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 3099.71
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 3198.5
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 3119.19
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 2891.81
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 2826.04
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 2831.93
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 2725.76
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 2603.75
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 2442.87
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 2277.34
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 1887.82
+		},
+		{
+			"id": ":foundations\/linux_foundation\/pytorch",
+			"name": "PyTorch Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 1445.32
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 261.51
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 268.43
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 266.37
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 233.36
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 238.08
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 227.76
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 218.08
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 205.67
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 197.62
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 135.3
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 117.19
+		},
+		{
+			"id": ":foundations\/linux_foundation\/riscv",
+			"name": "RICSV Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 68.73
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 2402.9
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 2393.25
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 2416.8
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 2144.19
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 1963.76
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 1828.92
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 1815.15
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 1655.34
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 1454.92
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 1248.39
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 1111.1
+		},
+		{
+			"id": ":foundations\/nixos",
+			"name": "Stichting NixOS Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 823.61
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 10467.1
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 10678.78
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 10896.76
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 5914.37
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 7276.23
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 9834.01
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 6647.78
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 6791.89
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 7534.99
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 7824.85
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 7831.71
+		},
+		{
+			"id": ":foundations\/openatom",
+			"name": "OpenAtom Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 8222.46
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 69.43
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 63.03
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 65.72
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 55.76
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 56.26
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 53.51
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 45.28
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 47.31
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 38.7
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 35.64
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 30.69
+		},
+		{
+			"id": ":foundations\/openinfra",
+			"name": "OpenInfra Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 25.91
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 210.63
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 219.43
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 205.7
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 210.01
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 209.82
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 176.56
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 169.26
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 145.77
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 135.36
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 119.98
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 98.58
+		},
+		{
+			"id": ":foundations\/php",
+			"name": "PHP Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 91.23
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 1311.35
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 1285.24
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 1267.62
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 1151.21
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 1074.18
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 1055.16
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 947.07
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 906.24
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 807.2
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 783.17
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 728.31
+		},
+		{
+			"id": ":foundations\/python",
+			"name": "Python Software Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 598.74
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 628.29
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 592.17
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 560.79
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 581.03
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 574.69
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 538.24
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 508.88
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 428.57
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 392.46
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 356
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 284.69
+		},
+		{
+			"id": ":foundations\/ruby",
+			"name": "Ruby Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 218.74
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 1668.54
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 1595.82
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 1509.5
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 1423.32
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 1397.58
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 1315.89
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 1243.44
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 1108.86
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 979.47
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 976.98
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 799.52
+		},
+		{
+			"id": ":foundations\/rust",
+			"name": "Rust Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 668.88
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 147.92
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 148.13
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 31.27
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 146.85
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 144.38
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 142.41
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 133.82
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 137.76
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 138.25
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 127.24
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 117.65
+		},
+		{
+			"id": ":foundations\/trino",
+			"name": "Trino Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 120.28
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2025-07-01 00:00:00",
+			"openrank": 164.38
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2025-08-01 00:00:00",
+			"openrank": 200.1
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2025-09-01 00:00:00",
+			"openrank": 205.64
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2025-10-01 00:00:00",
+			"openrank": 176.25
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2025-11-01 00:00:00",
+			"openrank": 153.88
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2025-12-01 00:00:00",
+			"openrank": 60.02
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2026-01-01 00:00:00",
+			"openrank": 32.92
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2026-02-01 00:00:00",
+			"openrank": 16.87
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2026-03-01 00:00:00",
+			"openrank": 13.55
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2026-04-01 00:00:00",
+			"openrank": 14.33
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2026-05-01 00:00:00",
+			"openrank": 9.82
+		},
+		{
+			"id": ":foundations\/zig",
+			"name": "Zig Software Foundation",
+			"month": "2026-06-01 00:00:00",
+			"openrank": 6.56
+		}
+	],
+
+	"rows": 387,
+
+	"statistics":
+	{
+		"elapsed": 0.658194834,
+		"rows_read": 216173308,
+		"bytes_read": 1242168308
+	}
+}

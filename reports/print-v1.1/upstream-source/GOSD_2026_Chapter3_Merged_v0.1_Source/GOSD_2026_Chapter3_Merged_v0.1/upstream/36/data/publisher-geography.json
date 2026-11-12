@@ -1,0 +1,222 @@
+[
+  {
+    "publisher": "Qwen",
+    "organization": "阿里巴巴 / Qwen",
+    "country": "中国",
+    "city": "杭州",
+    "location_source": "https://home.alibabagroup.com/en-US/faqs-corporate-information",
+    "identity_source": "https://huggingface.co/Qwen",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "google",
+    "organization": "Google",
+    "country": "美国",
+    "city": "山景城",
+    "location_source": "https://about.google/company-info/locations/",
+    "identity_source": "https://huggingface.co/google",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "openai",
+    "organization": "OpenAI",
+    "country": "美国",
+    "city": "旧金山",
+    "location_source": "https://openai.com/policies/terms-of-use/",
+    "identity_source": "https://huggingface.co/openai",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "facebook",
+    "organization": "Meta",
+    "country": "美国",
+    "city": "门洛帕克",
+    "location_source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+    "identity_source": "https://huggingface.co/facebook",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "meta-llama",
+    "organization": "Meta",
+    "country": "美国",
+    "city": "门洛帕克",
+    "location_source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+    "identity_source": "https://huggingface.co/meta-llama",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "FacebookAI",
+    "organization": "Meta",
+    "country": "美国",
+    "city": "门洛帕克",
+    "location_source": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+    "identity_source": "https://huggingface.co/FacebookAI",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "intfloat",
+    "organization": "个人账户",
+    "country": "未识别",
+    "city": "",
+    "location_source": "",
+    "identity_source": "https://huggingface.co/intfloat",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "jhu-clsp",
+    "organization": "约翰斯·霍普金斯大学 CLSP",
+    "country": "美国",
+    "city": "巴尔的摩",
+    "location_source": "https://www.clsp.jhu.edu/contact/",
+    "identity_source": "https://huggingface.co/jhu-clsp",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "krea",
+    "organization": "Krea",
+    "country": "美国",
+    "city": "旧金山",
+    "location_source": "https://www.krea.ai/blog/new-krea",
+    "identity_source": "https://huggingface.co/krea",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "LiquidAI",
+    "organization": "Liquid AI",
+    "country": "美国",
+    "city": "剑桥（马萨诸塞州）",
+    "location_source": "https://www.liquid.ai/privacy-policy",
+    "identity_source": "https://huggingface.co/LiquidAI",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "mistralai",
+    "organization": "Mistral AI",
+    "country": "法国",
+    "city": "巴黎",
+    "location_source": "https://mistral.ai/fr/legal/",
+    "identity_source": "https://huggingface.co/mistralai",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "unsloth",
+    "organization": "Unsloth AI",
+    "country": "美国",
+    "city": "旧金山",
+    "location_source": "https://www.ycombinator.com/companies/unsloth-ai",
+    "identity_source": "https://huggingface.co/unsloth",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "BAAI",
+    "organization": "北京智源人工智能研究院",
+    "country": "中国",
+    "city": "北京",
+    "location_source": "https://www.baai.ac.cn/about-us",
+    "identity_source": "https://huggingface.co/BAAI",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "black-forest-labs",
+    "organization": "Black Forest Labs",
+    "country": "德国",
+    "city": "弗赖堡",
+    "location_source": "https://bfl.ai/legal/imprint",
+    "identity_source": "https://huggingface.co/black-forest-labs",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "cmz1024",
+    "organization": "个人账户",
+    "country": "未识别",
+    "city": "",
+    "location_source": "",
+    "identity_source": "https://huggingface.co/cmz1024",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "distilbert",
+    "organization": "Hugging Face",
+    "country": "美国",
+    "city": "纽约",
+    "location_source": "https://huggingface.co/terms-of-service",
+    "identity_source": "https://huggingface.co/distilbert",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "KBlueLeaf",
+    "organization": "个人账户",
+    "country": "未识别",
+    "city": "",
+    "location_source": "",
+    "identity_source": "https://huggingface.co/KBlueLeaf",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "lerobot",
+    "organization": "Hugging Face",
+    "country": "美国",
+    "city": "纽约",
+    "location_source": "https://huggingface.co/terms-of-service",
+    "identity_source": "https://huggingface.co/docs/lerobot/index",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "Lightricks",
+    "organization": "Lightricks",
+    "country": "以色列",
+    "city": "耶路撒冷",
+    "location_source": "https://www.lightricks.com/contact-us",
+    "identity_source": "https://huggingface.co/Lightricks",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "OnomaAIResearch",
+    "organization": "Onoma AI",
+    "country": "韩国",
+    "city": "首尔",
+    "location_source": "https://www.onomaai.com/",
+    "identity_source": "https://huggingface.co/OnomaAIResearch",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "stabilityai",
+    "organization": "Stability AI",
+    "country": "英国",
+    "city": "伦敦",
+    "location_source": "https://find-and-update.company-information.service.gov.uk/company/12295325",
+    "identity_source": "https://huggingface.co/stabilityai",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  },
+  {
+    "publisher": "tiiuae",
+    "organization": "Technology Innovation Institute",
+    "country": "阿联酋",
+    "city": "阿布扎比",
+    "location_source": "https://www.tii.ae/contact-us",
+    "identity_source": "https://huggingface.co/tiiuae",
+    "verification_date": "2026-11-10",
+    "scope": "当前组织归属核验，不是贡献者或历史团队地理"
+  }
+]

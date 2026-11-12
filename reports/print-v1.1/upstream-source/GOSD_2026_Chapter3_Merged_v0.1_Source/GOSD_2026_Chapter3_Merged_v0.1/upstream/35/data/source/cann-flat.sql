@@ -1,0 +1,1 @@
+SELECT DISTINCT id,platform,name,entity_id,entity_type FROM flatten_labels WHERE id=':companies/huawei/cann' FORMAT JSON

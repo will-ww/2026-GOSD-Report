@@ -1,0 +1,24 @@
+{
+  "retrieved_at": "2026-11-10",
+  "atomgit_url": "https://atomgit.com/cann",
+  "atomgit_html_sha256": "f4f4a1f463b7712194d4fe8b41f10ce81d172689368f2d99bfb7785b7cda85b4",
+  "official_observations": [
+    "CANN official landing page divides the stack into accelerator libraries, graph engine, programming/compiler, runtime/driver and tools.",
+    "It links PyTorch, vllm-ascend and sglang community resources.",
+    "CANNLab is described as free online compute; Samples provides examples; Bench provides evaluation; governance includes TSC, PMC and SIG."
+  ],
+  "announcements": [
+    {
+      "url": "https://www.huawei.com/cn/news/2025/8/ascend-summit-CANN-open-source",
+      "date": "2025-08-05",
+      "fact": "Huawei announced comprehensive CANN open sourcing and ecosystem co-development."
+    },
+    {
+      "url": "https://www.huawei.com/cn/news/2025/9/hc-shengten-opensource",
+      "date": "2025-09-20",
+      "fact": "Technical Steering Committee established; collaboration with Triton, PyTorch, vLLM and verl named. Planned release schedules are not treated as proof of completed releases."
+    }
+  ],
+  "openshare_access": "URL redirected to login requiring GitHub sign-in; no chart values read.",
+  "queries": "Read-only OpenDigger SQL, user-authorized account; no credentials included."
+}

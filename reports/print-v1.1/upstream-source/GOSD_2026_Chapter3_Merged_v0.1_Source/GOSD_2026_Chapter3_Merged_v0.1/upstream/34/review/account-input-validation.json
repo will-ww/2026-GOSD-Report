@@ -1,0 +1,50 @@
+[
+  {
+    "file": "pytorch_pytorch.json",
+    "sha256": "0cfbf100ffd00b000895f901b0606d87366fbd0318c2d545266494b7a0e157c7",
+    "same_as_fixed_input": true,
+    "bytes": 327837
+  },
+  {
+    "file": "vllm-project_vllm.json",
+    "sha256": "7c85687d0a6233423a6e6c2cac601d2a8909a5ea3485d18d2942650216612ada",
+    "same_as_fixed_input": true,
+    "bytes": 120558
+  },
+  {
+    "file": "sgl-project_sglang.json",
+    "sha256": "3875c8093e51ec6d315cc664e7e39ebd3b023e176e932696ada0d6ae640931da",
+    "same_as_fixed_input": true,
+    "bytes": 91971
+  },
+  {
+    "file": "langchain-ai_langchain.json",
+    "sha256": "b149ec94ae8088ff4290cc887f604f2c615f9826b694255eecabe7ce845d3df7",
+    "same_as_fixed_input": true,
+    "bytes": 133815
+  },
+  {
+    "file": "langgenius_dify.json",
+    "sha256": "78a90beba647528dc6ea14f9cb56bfde82bde0fca3340f83223b61e51eaae975",
+    "same_as_fixed_input": true,
+    "bytes": 114358
+  },
+  {
+    "file": "kubernetes_kubernetes.json",
+    "sha256": "b32ec7d5324705b365002c882c65826d6515b377f85ae287641428eb71fe15cd",
+    "same_as_fixed_input": true,
+    "bytes": 385954
+  },
+  {
+    "file": "indices.ts",
+    "sha256": "122774d40d120844ff073149143547c63d3c9b3825c548ad9e85578265ac289e",
+    "same_as_fixed_input": true,
+    "bytes": 15910
+  },
+  {
+    "file": "bot_labels.yml",
+    "sha256": "f7f13f7e7ee4e1a3a6c87b14e3c9a2535e7e2368dab66ffdc6007b2a0458f369",
+    "same_as_fixed_input": true,
+    "bytes": 53752
+  }
+]

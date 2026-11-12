@@ -1,0 +1,56 @@
+{
+  "data_usage": "只采用冻结清单及分类形成的计数，不采用OpenRank/趋势/国家贡献数作为发布统计。",
+  "source_window": "报告主期2025-07-01至2026-06-30；RISC-V子数据的起止窗口在源JSON中明确待核。不能把清单数量当成主期新增或活跃数。",
+  "simulation_check": "第四章出版校订记录明确说“国家贡献图保持模拟标识”，且规定4.2—4.6不增加趋势、贡献分析或未经验证的结论。本交付不采用任何国家贡献图或OpenRank趋势。所读RISC-V各CSV本身没有逐文件模拟标记，因此不武断把全部数值标成假数。",
+  "known_numeric_issues": [
+    {
+      "issue": "应用近7倍的比较基年错读",
+      "chapter_claim": "2025年62.0升至2026年424.0",
+      "csv_fact": {
+        "2022": 62.0,
+        "2025": 670.9,
+        "2026": 424.0
+      },
+      "action": "不采用该增长结论；也不在主期页重用未经窗口核实的修正同比。"
+    },
+    {
+      "issue": "riscv-isa-manual贡献口径/值冲突",
+      "chapter_value": 3282.5,
+      "scatter_csv_value": 67.6,
+      "action": "不采用此贡献值与累计叙述。"
+    },
+    {
+      "issue": "原表2026窗口未证实",
+      "evidence": "landscapes.json datasets[id=riscv].period = 原表标记2026·起止窗口待核",
+      "action": "只发布样本结构计数，明确不是主期活跃度/增速。"
+    }
+  ],
+  "structural_validation": {
+    "csv_rows": 78,
+    "json_projects": 78,
+    "repo_sets_match": true,
+    "category_counts_match_source_categories": true,
+    "known_categories": 7,
+    "pending": 3,
+    "known_count": 75
+  },
+  "pending_repositories": [
+    "7908837174/riscv-unified-db-kallal",
+    "RISCVI-301/CMPUT301F25riscvi",
+    "marcutudor79/riscv-processor-design"
+  ],
+  "post_period": "未将2026-11的ACT4相关观察纳入主期；标志下载于2026-11-10，仅用于识别。",
+  "logos": {
+    "selected_items": 16,
+    "independent_project_marks": 4,
+    "maintainer_marks": 11,
+    "upstream_distribution_marks": 1,
+    "selected_missing": 0,
+    "visual_checked": true,
+    "recreated_or_generated": false,
+    "limitations": "12项未确认独立项目标志，已明示为维护组织/上游标志；不伪装成独立项目logo。",
+    "copyright": "标志权利属于各自权利人，仅用于识别；不表示认可或隶属关系。"
+  },
+  "reproduction": "python /workspace/shared/gosd45/recompute_stats.py",
+  "simulation_evidence": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/docs/chapter4-publication-review-20261021.md"
+}

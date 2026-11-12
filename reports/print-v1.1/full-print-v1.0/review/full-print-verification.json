@@ -1,0 +1,5619 @@
+{
+  "version": "1.0",
+  "date": "2026-11-11",
+  "file": "/workspace/scratch/77ced49644f0/full-print-v1.0/output/pdf/GOSD_2026_Essential_Full_Print_v1.0.pdf",
+  "size_bytes": 59266798,
+  "sha256": "22c9038733f43620b84befcd8e303268b7e424a23cb0f56a821bbc1145434e5d",
+  "pages": 138,
+  "intentionally_blank_physical_pages": [
+    2,
+    10,
+    18,
+    20,
+    30,
+    32,
+    54,
+    76,
+    78,
+    92,
+    94,
+    106,
+    108,
+    116,
+    134,
+    137
+  ],
+  "embedded_font_resources": 167,
+  "bookmarks": 60,
+  "new_full_book_links": 22,
+  "checks": [
+    {
+      "check": "138 pages",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Bookmarks retained and redirected",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Roman front matter",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Continuous 1–120 body folios",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P1: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P1: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P1: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P2: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P2: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P2: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P3: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P3: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P3: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P4: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P4: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P4: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P5: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P5: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P5: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P6: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P6: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P6: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P7: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P7: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P7: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P8: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P8: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P8: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P9: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P10: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P10: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P10: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P11: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P11: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P11: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P12: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P12: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P12: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P13: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P13: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P13: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P13: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P13: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P13: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P13: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P13: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P13: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P14: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P14: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P14: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P15: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P15: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P15: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P16: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P16: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P16: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P17: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P17: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P17: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P18: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P18: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P18: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P19: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P19: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P19: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P19: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P19: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P19: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P20: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P20: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P20: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P21: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P21: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P21: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P22: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P22: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P22: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P23: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P23: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P23: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P24: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P24: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P24: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P25: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P25: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P25: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P26: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P26: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P26: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P27: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P27: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P27: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P28: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P28: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P28: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P29: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P29: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P29: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P30: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P30: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P30: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P31: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P31: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P31: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P31: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P31: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P31: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P31: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P31: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P31: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P32: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P32: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P32: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P33: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P33: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P33: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P34: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P34: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P34: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P35: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P35: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P35: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P36: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P36: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P36: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P37: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P37: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P37: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P38: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P38: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P38: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P39: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P39: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P39: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P40: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P40: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P40: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P41: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P41: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P41: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P42: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P42: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P42: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P43: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P43: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P43: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P44: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P44: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P44: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P45: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P45: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P45: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P46: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P46: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P46: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P47: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P47: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P47: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P48: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P48: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P48: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P49: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P49: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P49: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P50: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P50: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P50: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P51: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P51: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P51: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P52: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P52: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P52: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P53: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P53: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P53: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P53: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P53: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P53: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P53: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P53: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P53: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P54: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P54: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P54: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P55: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P55: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P55: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P56: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P56: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P56: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P57: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P57: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P57: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P58: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P58: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P58: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P59: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P59: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P59: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P60: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P60: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P60: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P61: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P61: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P61: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P62: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P62: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P62: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P63: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P63: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P63: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P64: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P64: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P64: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P65: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P65: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P65: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P66: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P66: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P66: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P67: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P67: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P67: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P68: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P68: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P68: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P69: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P69: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P69: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P70: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P70: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P70: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P71: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P71: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P71: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P72: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P72: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P72: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P73: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P73: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P73: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P74: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P74: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P74: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P75: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P75: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P75: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P76: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P76: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P76: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P77: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P77: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P77: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P77: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P77: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P77: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P77: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P77: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P77: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P78: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P78: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P78: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P79: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P79: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P79: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P80: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P80: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P80: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P81: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P81: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P81: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P82: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P82: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P82: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P83: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P83: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P83: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P84: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P84: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P84: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P85: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P85: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P85: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P86: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P86: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P86: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P87: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P87: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P87: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P88: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P88: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P88: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P89: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P89: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P89: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P90: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P90: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P90: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P91: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P91: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P91: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P92: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P92: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P92: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P93: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P93: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P93: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P93: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P93: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P93: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P94: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P94: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P94: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P95: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P95: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P95: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P96: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P96: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P96: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P97: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P97: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P97: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P98: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P98: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P98: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P99: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P99: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P99: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P100: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P100: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P100: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P101: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P101: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P101: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P102: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P102: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P102: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P103: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P103: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P103: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P104: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P104: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P104: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P105: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P105: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P105: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P106: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P106: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P106: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P107: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P107: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P107: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P107: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P107: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P107: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P108: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P108: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P108: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P109: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P109: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P109: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P110: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P110: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P110: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P111: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P111: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P111: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P112: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P112: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P112: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P113: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P113: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P113: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P114: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P114: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P114: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P115: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P115: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P115: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P115: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P115: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P115: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P115: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P115: internal link target valid",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P116: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P116: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P116: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P117: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P117: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P117: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P118: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P118: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P118: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P119: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P119: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P119: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P120: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P120: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P120: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P121: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P121: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P121: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P122: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P122: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P122: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P123: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P123: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P123: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P124: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P124: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P124: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P125: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P125: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P125: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P126: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P126: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P126: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P127: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P127: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P127: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P128: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P128: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P128: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P129: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P129: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P129: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P130: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P130: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P130: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P131: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P131: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P131: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P132: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P132: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P132: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P133: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P133: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P133: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P134: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P134: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P134: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P135: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P135: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P135: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P136: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P136: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P136: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P137: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P137: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P137: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P138: source text retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P138: source artwork retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P138: A4 portrait",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P2: intentional blank",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P10: intentional blank",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P18: intentional blank",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P20: intentional blank",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P30: intentional blank",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P32: intentional blank",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P54: intentional blank",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P76: intentional blank",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P78: intentional blank",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P92: intentional blank",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P94: intentional blank",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P106: intentional blank",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P108: intentional blank",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P116: intentional blank",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P134: intentional blank",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "P137: intentional blank",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Module 2: recto opening",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Module 3: recto opening",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Module 4: recto opening",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Module 5: recto opening",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Module 6: recto opening",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Module 7: recto opening",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Module 8: recto opening",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: DTAYQE+LiberationSerif-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: GOTORT+NotoSerifCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: DLHTHU+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: FJDPGO+NotoSansCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: VKNIKL+NotoSansCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: WWLACQ+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: FUWOOK+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: FCAMTM+NotoSansCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: GSHKBG+NotoSansCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: AUNDZK+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: QIFFNB+LiberationSans",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: HBSSIS+NotoSerifCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: ZPGSNC+NotoSansCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: SKYSJW+LiberationSerif-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: GKDXJZ+NotoSansCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: LYJCTI+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: OPFZOX+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: CUHRWR+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: NINIKB+NotoSansCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: KWCCHH+NotoSansCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: MEVWBM+LiberationSans",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: UODQUX+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: IKITSC+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: FOLBOV+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: UTWYRQ+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: XMTGBU+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: LQMOEY+NotoSansCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: XKNHAP+NotoSansCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: ARPFBZ+LiberationSans",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: GYPUCG+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: LAKZJV+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: ZJJHDI+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: ANBHON+NotoSansCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: DMTGSW+NotoSansCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: CDZNNB+LiberationSans",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: SQRNQI+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: LKIQHH+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: BQTKJJ+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: STIMEV+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: SVSLYA+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: TMFJJP+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: YWYIQG+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: YAWYST+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: MGEZER+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: YEUZTN+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: XVLDFI+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: RDMNBG+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: CSRILC+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: JGHDLB+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: UUUNOK+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: UEKETH+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: GLMYTL+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: LJPJWV+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: KMZFJI+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: XESOVI+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: NCFZHY+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: TMSXMR+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: XXTRTR+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: VOAWCJ+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: JCLOPG+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: PWSBDX+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: SVSHNW+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: YLXETF+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: IJSDGT+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: JUFNFR+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: LCQIDO+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: NQJJHV+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: VMGBHO+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: SLGGSO+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: CGNSTS+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: WIENDP+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: GKIJTJ+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: HECGUA+NotoSansCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: WIOFGA+NotoSansCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: HCYVAY+LiberationSans",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: PCZFCR+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: MYUCAS+NotoSansCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: OUETUO+NotoSansCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: KKTRFP+LiberationSans",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: BBOUPK+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: MMSHFJ+NotoSansCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: QWSOMV+NotoSansCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: SAZXAJ+LiberationSans",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: TXKIOI+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: KQRFGP+NotoSansCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: FYJWUQ+NotoSansCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: EFBTMH+LiberationSans",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: JPMVEI+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: HHAYLS+NotoSansCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: PPOPVA+NotoSansCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: RBLIFD+LiberationSans",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: CAHKNK+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: YEVAXC+NotoSansCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: ZCOFQX+NotoSansCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: CHMOER+LiberationSans",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: GIZJXK+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: ZUSXNI+NotoSansCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: GZEFQW+NotoSansCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: LAVGSP+LiberationSans",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: KVRLXP+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: PIYNRV+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: LGGMAN+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: VIJZDS+NotoSansCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: UIJDVI+NotoSansCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: OLFUCR+LiberationSans",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: FSJSWX+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: EMCBXA+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: LTKEUB+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: VWXYOB+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: EKEIPN+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: PNEZVW+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: TAAJVO+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: EVHMXM+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: BULPQJ+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: UDAHPP+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: EVKICM+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: FRYCDT+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: BQCZZH+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: BIWVSO+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: BVDIKZ+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: JKHJNP+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: QYZDHW+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: EFXTDG+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: GJQDIM+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: MYCCDT+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: OSJQCP+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: PEPVQG+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: JHOGPX+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: EYIZLY+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: OKGHKN+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: DXYNMS+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: SJIHQW+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: EENOSZ+NotoSansCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: FINYLC+NotoSansCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: IDTOBE+LiberationSans",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: QVNUBF+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: RJGXYZ+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: VJAKHR+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: JNOWYT+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: USDVYC+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: VHTRVD+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: MDOGJD+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: PVJLMU+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: CTVEKO+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: QANXFL+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: JSVBZL+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: KSQGWM+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: IIYCFY+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: HWJDIX+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: NAGSRP+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: KKBYYK+NotoSansCJKsc-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: ZDKXKJ+NotoSansCJKsc-Regular",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: AELCLK+NotoSansCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: YNHYQR+NotoSansCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: PWEHXR+LiberationSans",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: YEIYVQ+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: GWLSHM+NotoSansCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: WGYFJY+NotoSansCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: KVUJFJ+LiberationSans",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: ZTSTMR+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: BVFIQF+NotoSerifCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: YUHFFI+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: VVHFCL+NotoSerifCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: YHPUYX+LiberationSerif",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: JOALZY+LiberationSerif-Bold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: BOATZR+NotoSerifCJKsc-Bold-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Embedded font: KPVDKK+NotoSansCJKsc-Regular-Identity-H",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 8,
+        "rect": [
+          39.68503952026367,
+          266.4566650390625,
+          377.00787353515625,
+          287.716552734375
+        ],
+        "kind": 1,
+        "target_page": 3
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 8,
+        "rect": [
+          39.68503952026367,
+          289.7008056640625,
+          377.00787353515625,
+          310.96063232421875
+        ],
+        "kind": 1,
+        "target_page": 4
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 8,
+        "rect": [
+          39.68503952026367,
+          312.94488525390625,
+          377.00787353515625,
+          334.2047119140625
+        ],
+        "kind": 1,
+        "target_page": 10
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 8,
+        "rect": [
+          39.68503952026367,
+          336.18896484375,
+          377.00787353515625,
+          357.4488220214844
+        ],
+        "kind": 1,
+        "target_page": 12
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 8,
+        "rect": [
+          39.68503952026367,
+          359.4330749511719,
+          377.00787353515625,
+          380.6929016113281
+        ],
+        "kind": 1,
+        "target_page": 13
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 8,
+        "rect": [
+          39.68503952026367,
+          382.6771545410156,
+          377.00787353515625,
+          403.93701171875
+        ],
+        "kind": 1,
+        "target_page": 14
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 18,
+        "rect": [
+          53.85826873779297,
+          433.7007751464844,
+          555.590576171875,
+          518.7401733398438
+        ],
+        "kind": 1,
+        "target_page": 20
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 18,
+        "rect": [
+          53.85826873779297,
+          521.5748291015625,
+          555.590576171875,
+          606.6141967773438
+        ],
+        "kind": 1,
+        "target_page": 23
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 18,
+        "rect": [
+          53.85826873779297,
+          609.4487915039062,
+          555.590576171875,
+          694.4881591796875
+        ],
+        "kind": 1,
+        "target_page": 25
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 30,
+        "rect": [
+          53.85826873779297,
+          396.85040283203125,
+          555.590576171875,
+          446.4566955566406
+        ],
+        "kind": 1,
+        "target_page": 32
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 30,
+        "rect": [
+          53.85826873779297,
+          449.2913513183594,
+          555.590576171875,
+          498.89764404296875
+        ],
+        "kind": 1,
+        "target_page": 35
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 30,
+        "rect": [
+          53.85826873779297,
+          501.7322692871094,
+          555.590576171875,
+          551.3385620117188
+        ],
+        "kind": 1,
+        "target_page": 39
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 30,
+        "rect": [
+          53.85826873779297,
+          554.1732177734375,
+          555.590576171875,
+          603.779541015625
+        ],
+        "kind": 1,
+        "target_page": 42
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 30,
+        "rect": [
+          53.85826873779297,
+          606.6141967773438,
+          555.590576171875,
+          656.220458984375
+        ],
+        "kind": 1,
+        "target_page": 44
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 30,
+        "rect": [
+          53.85826873779297,
+          659.0551147460938,
+          555.590576171875,
+          708.6614379882812
+        ],
+        "kind": 1,
+        "target_page": 48
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 52,
+        "rect": [
+          53.85826873779297,
+          396.85040283203125,
+          555.590576171875,
+          446.4566955566406
+        ],
+        "kind": 1,
+        "target_page": 54
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 52,
+        "rect": [
+          53.85826873779297,
+          449.2913513183594,
+          555.590576171875,
+          498.89764404296875
+        ],
+        "kind": 1,
+        "target_page": 57
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 52,
+        "rect": [
+          53.85826873779297,
+          501.7322692871094,
+          555.590576171875,
+          551.3385620117188
+        ],
+        "kind": 1,
+        "target_page": 61
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 52,
+        "rect": [
+          53.85826873779297,
+          554.1732177734375,
+          555.590576171875,
+          603.779541015625
+        ],
+        "kind": 1,
+        "target_page": 64
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 52,
+        "rect": [
+          53.85826873779297,
+          606.6141967773438,
+          555.590576171875,
+          656.220458984375
+        ],
+        "kind": 1,
+        "target_page": 68
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 52,
+        "rect": [
+          53.85826873779297,
+          659.0551147460938,
+          555.590576171875,
+          708.6614379882812
+        ],
+        "kind": 1,
+        "target_page": 71
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 76,
+        "rect": [
+          53.85826873779297,
+          396.85040283203125,
+          555.590576171875,
+          446.4566955566406
+        ],
+        "kind": 1,
+        "target_page": 78
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 76,
+        "rect": [
+          53.85826873779297,
+          449.2913513183594,
+          555.590576171875,
+          498.89764404296875
+        ],
+        "kind": 1,
+        "target_page": 82
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 76,
+        "rect": [
+          53.85826873779297,
+          501.7322692871094,
+          555.590576171875,
+          551.3385620117188
+        ],
+        "kind": 1,
+        "target_page": 85
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 76,
+        "rect": [
+          53.85826873779297,
+          554.1732177734375,
+          555.590576171875,
+          603.779541015625
+        ],
+        "kind": 1,
+        "target_page": 86
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 76,
+        "rect": [
+          53.85826873779297,
+          606.6141967773438,
+          555.590576171875,
+          656.220458984375
+        ],
+        "kind": 1,
+        "target_page": 87
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 76,
+        "rect": [
+          53.85826873779297,
+          659.0551147460938,
+          555.590576171875,
+          708.6614379882812
+        ],
+        "kind": 1,
+        "target_page": 88
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 92,
+        "rect": [
+          53.85826873779297,
+          402.5196838378906,
+          555.590576171875,
+          490.3937072753906
+        ],
+        "kind": 1,
+        "target_page": 94
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 92,
+        "rect": [
+          53.85826873779297,
+          493.22833251953125,
+          555.590576171875,
+          581.1023559570312
+        ],
+        "kind": 1,
+        "target_page": 97
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 92,
+        "rect": [
+          53.85826873779297,
+          583.93701171875,
+          555.590576171875,
+          671.81103515625
+        ],
+        "kind": 1,
+        "target_page": 100
+      }
+    },
+    {
+      "check": "Retained external destination",
+      "passed": true,
+      "details": {
+        "source_page": 94,
+        "rect": [
+          53.83858108520508,
+          567.0,
+          564.03857421875,
+          579.0
+        ],
+        "kind": 2,
+        "uri": "http://47.100.76.186:9529/overview"
+      }
+    },
+    {
+      "check": "Retained external destination",
+      "passed": true,
+      "details": {
+        "source_page": 94,
+        "rect": [
+          53.83858108520508,
+          580.0,
+          564.03857421875,
+          592.0
+        ],
+        "kind": 2,
+        "uri": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/supply-observation.json"
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 106,
+        "rect": [
+          53.85826873779297,
+          473.3858337402344,
+          555.590576171875,
+          549.9212646484375
+        ],
+        "kind": 1,
+        "target_page": 108
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 106,
+        "rect": [
+          53.85826873779297,
+          552.7559204101562,
+          555.590576171875,
+          629.2913208007812
+        ],
+        "kind": 1,
+        "target_page": 112
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 106,
+        "rect": [
+          53.85826873779297,
+          632.1259765625,
+          555.590576171875,
+          708.6614379882812
+        ],
+        "kind": 1,
+        "target_page": 113
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 114,
+        "rect": [
+          53.85826873779297,
+          394.0157470703125,
+          555.590576171875,
+          456.3779602050781
+        ],
+        "kind": 1,
+        "target_page": 116
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 114,
+        "rect": [
+          53.85826873779297,
+          459.21258544921875,
+          555.590576171875,
+          521.5748291015625
+        ],
+        "kind": 1,
+        "target_page": 124
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 114,
+        "rect": [
+          53.85826873779297,
+          524.409423828125,
+          555.590576171875,
+          586.7716674804688
+        ],
+        "kind": 1,
+        "target_page": 129
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 114,
+        "rect": [
+          53.85826873779297,
+          589.6063232421875,
+          555.590576171875,
+          651.968505859375
+        ],
+        "kind": 1,
+        "target_page": 132
+      }
+    },
+    {
+      "check": "Retained internal destination",
+      "passed": true,
+      "details": {
+        "source_page": 114,
+        "rect": [
+          53.85826873779297,
+          654.8031616210938,
+          555.590576171875,
+          717.1653442382812
+        ],
+        "kind": 1,
+        "target_page": 134
+      }
+    },
+    {
+      "check": "Retained external destination",
+      "passed": true,
+      "details": {
+        "source_page": 131,
+        "rect": [
+          31.18141746520996,
+          530.08203125,
+          210.06341552734375,
+          543.2100219726562
+        ],
+        "kind": 2,
+        "uri": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/tree/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter4"
+      }
+    },
+    {
+      "check": "Retained external destination",
+      "passed": true,
+      "details": {
+        "source_page": 131,
+        "rect": [
+          31.18141746520996,
+          553.89404296875,
+          228.06842041015625,
+          567.02099609375
+        ],
+        "kind": 2,
+        "uri": "https://github.com/antgroup/agentic-ai-landscape/tree/e330d75ea4ca314bc81f6868df63425c8acca5e3"
+      }
+    },
+    {
+      "check": "Retained external destination",
+      "passed": true,
+      "details": {
+        "source_page": 131,
+        "rect": [
+          31.18141746520996,
+          577.7050170898438,
+          212.42942810058594,
+          590.8330078125
+        ],
+        "kind": 2,
+        "uri": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/src/cron/tasks/monthlyExport.ts"
+      }
+    },
+    {
+      "check": "Retained external destination",
+      "passed": true,
+      "details": {
+        "source_page": 131,
+        "rect": [
+          31.18141746520996,
+          601.489013671875,
+          173.5274200439453,
+          614.6170043945312
+        ],
+        "kind": 2,
+        "uri": "https://huggingface.co/docs/hub/models-download-stats"
+      }
+    },
+    {
+      "check": "Retained external destination",
+      "passed": true,
+      "details": {
+        "source_page": 131,
+        "rect": [
+          31.18141746520996,
+          625.364013671875,
+          191.4144287109375,
+          638.4920043945312
+        ],
+        "kind": 2,
+        "uri": "https://github.com/pytorch-fdn/landscape/tree/bd7a33990fd445802d45c10e3679278358c958c3"
+      }
+    },
+    {
+      "check": "Retained external destination",
+      "passed": true,
+      "details": {
+        "source_page": 131,
+        "rect": [
+          31.18141746520996,
+          649.156982421875,
+          150.89842224121094,
+          662.2850341796875
+        ],
+        "kind": 2,
+        "uri": "https://pytorch.org/foundation/"
+      }
+    },
+    {
+      "check": "Retained external destination",
+      "passed": true,
+      "details": {
+        "source_page": 131,
+        "rect": [
+          31.18141746520996,
+          672.89599609375,
+          132.76641845703125,
+          686.0240478515625
+        ],
+        "kind": 2,
+        "uri": "https://docs.pytorch.org/docs/2.15/community/governance.html"
+      }
+    },
+    {
+      "check": "Retained external destination",
+      "passed": true,
+      "details": {
+        "source_page": 131,
+        "rect": [
+          31.18141746520996,
+          696.843017578125,
+          176.1834259033203,
+          709.9710083007812
+        ],
+        "kind": 2,
+        "uri": "https://pytorch.org/tac/"
+      }
+    },
+    {
+      "check": "Retained external destination",
+      "passed": true,
+      "details": {
+        "source_page": 131,
+        "rect": [
+          31.18141746520996,
+          720.5010375976562,
+          123.7004165649414,
+          733.6279907226562
+        ],
+        "kind": 2,
+        "uri": "https://pytorch.org/credits/"
+      }
+    },
+    {
+      "check": "Full-book navigation: 从开放协作到公共价值",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 全球开源生态地图",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 全球开源影响力排行榜",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 全球开源技术全景洞察",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 全球开源大模型发展洞察",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 关键洞察、前瞻与战略建议",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 附录",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 致谢",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 阅读路径：执行摘要",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 阅读路径：第一章",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 阅读路径：第二章",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 阅读路径：第三章",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 阅读路径：第四章",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 阅读路径：第五章",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 阅读路径：第六章",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 阅读路径：附录",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 结构图：第1章",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 结构图：第2章",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 结构图：第3章",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 结构图：第4章",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 结构图：第5章",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Full-book navigation: 结构图：第6章",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Repaired folio 80 retained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "Clean GOSD back cover",
+      "passed": true,
+      "details": null
+    }
+  ],
+  "modules": [
+    {
+      "module": 1,
+      "name": "封面和前置内容",
+      "file": "/workspace/scratch/77ced49644f0/modules-v0.1/output/pdf/GOSD_2026_Print_M01_Frontmatter_v0.1.pdf",
+      "pages": 18,
+      "blank_pages": [
+        2,
+        10,
+        18
+      ],
+      "folios": "i—xvi，封面与封二不计罗马页码",
+      "source_pages": {
+        "0": 0,
+        "1": 2,
+        "2": 3,
+        "3": 4,
+        "4": 5,
+        "5": 6,
+        "6": 7,
+        "7": 8,
+        "8": 10,
+        "9": 11,
+        "10": 12,
+        "11": 13,
+        "12": 14,
+        "13": 15,
+        "14": 16
+      },
+      "size_bytes": 4953950,
+      "sha256": "e1bb6d216f0d50a9d6c9192f2f9270641e090bb8fb0f282afb183c4ec9d3bcc8",
+      "source_file": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf",
+      "source_sha256": "9df32e328a6ae9b050d1ea4cee71d188567ff497b5546f63230f9b2560067a23",
+      "physical_start": 1,
+      "physical_end": 18
+    },
+    {
+      "module": 2,
+      "name": "从开放协作到公共价值",
+      "file": "/workspace/scratch/77ced49644f0/modules-v0.1/output/pdf/GOSD_2026_Print_M02_Chapter1_v0.1.pdf",
+      "pages": 12,
+      "blank_pages": [
+        2,
+        12
+      ],
+      "folios": [
+        1,
+        12
+      ],
+      "size_bytes": 4845810,
+      "sha256": "b043331e8dd1a30a158a3c6ec313a0e7a191ccaad2329be1ddc7d3869f738946",
+      "source_file": "GOSD_2026_Print_M02_Chapter1_v0.1.pdf",
+      "source_sha256": "54f836317edde0525c985733f61a47479458a7c2d5ade1c3900ade7de367f93a",
+      "physical_start": 19,
+      "physical_end": 30
+    },
+    {
+      "module": 3,
+      "name": "全球开源生态地图",
+      "file": "/workspace/scratch/77ced49644f0/modules-v0.1/output/pdf/GOSD_2026_Print_M03_Chapter2_v0.1.pdf",
+      "pages": 22,
+      "blank_pages": [
+        2
+      ],
+      "folios": [
+        13,
+        34
+      ],
+      "size_bytes": 6438374,
+      "sha256": "c7e2146c7967685936b367c88954ba8581d715b9190f5653225f4623c767580e",
+      "source_file": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf",
+      "source_sha256": "5bb9618eb6c531ab6abf31f31e486efb8f700090e22ccb6c7e92fe364f4979cd",
+      "physical_start": 31,
+      "physical_end": 52
+    },
+    {
+      "module": 4,
+      "name": "全球开源影响力排行榜",
+      "file": "/workspace/scratch/77ced49644f0/modules-v0.1/output/pdf/GOSD_2026_Print_M04_Chapter3_v0.1.pdf",
+      "pages": 24,
+      "blank_pages": [
+        2,
+        24
+      ],
+      "folios": [
+        35,
+        58
+      ],
+      "size_bytes": 24601095,
+      "sha256": "411b1f4c8d4e842ff9474c9ec6d537f9c8d6fae36061217229292e20b0d9e131",
+      "source_file": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf",
+      "source_sha256": "411b1f4c8d4e842ff9474c9ec6d537f9c8d6fae36061217229292e20b0d9e131",
+      "physical_start": 53,
+      "physical_end": 76
+    },
+    {
+      "module": 5,
+      "name": "全球开源技术全景洞察",
+      "file": "/workspace/scratch/77ced49644f0/modules-v0.1/output/pdf/GOSD_2026_Print_M05_Chapter4_v0.1.pdf",
+      "pages": 16,
+      "blank_pages": [
+        2,
+        16
+      ],
+      "folios": [
+        59,
+        74
+      ],
+      "size_bytes": 16419437,
+      "sha256": "e44e9b412f22e5dadb176e34ffcbda2a60ccffc715dd35bf62e9e60eaed0cd84",
+      "source_file": "GOSD_2026_Print_M05_Chapter4_v0.1.pdf",
+      "source_sha256": "e44e9b412f22e5dadb176e34ffcbda2a60ccffc715dd35bf62e9e60eaed0cd84",
+      "physical_start": 77,
+      "physical_end": 92
+    },
+    {
+      "module": 6,
+      "name": "全球开源大模型发展洞察",
+      "file": "/workspace/scratch/77ced49644f0/modules-v0.1/output/pdf/GOSD_2026_Print_M06_Chapter5_v0.2.pdf",
+      "pages": 14,
+      "blank_pages": [
+        2,
+        14
+      ],
+      "folios": [
+        75,
+        88
+      ],
+      "size_bytes": 9270225,
+      "sha256": "8530703cff346771d7ec4d79c6b3d445fd67a69f42963ddd8b0964a3237205ef",
+      "version": "0.2",
+      "revision": "第80页单次绘制透明组扁平化；全部矢量节点、边与文字保留",
+      "source_file": "GOSD_2026_Print_M06_Chapter5_v0.2.pdf",
+      "source_sha256": "dd302befea3f7c3079c736c61fbed62b5da2194765fa7e292589502a576788d6",
+      "physical_start": 93,
+      "physical_end": 106
+    },
+    {
+      "module": 7,
+      "name": "关键洞察、前瞻与战略建议",
+      "file": "/workspace/scratch/77ced49644f0/modules-v0.1/output/pdf/GOSD_2026_Print_M07_Chapter6_v0.1.pdf",
+      "pages": 8,
+      "blank_pages": [
+        2
+      ],
+      "folios": [
+        89,
+        96
+      ],
+      "size_bytes": 2167355,
+      "sha256": "f6d1e8734a978049e456847b95ce868b5967a28f3c348e385f38046a1b057b84",
+      "source_file": "GOSD_2026_Print_M07_Chapter6_v0.1.pdf",
+      "source_sha256": "91a489f8f2e63fcd0ee0b3a1803836b506d9cc07612a85970989a0c5ce88a65e",
+      "physical_start": 107,
+      "physical_end": 114
+    },
+    {
+      "module": 8,
+      "name": "附录与致谢",
+      "file": "/workspace/scratch/77ced49644f0/modules-v0.1/output/pdf/GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf",
+      "pages": 24,
+      "blank_pages": [
+        2,
+        20,
+        23
+      ],
+      "folios": [
+        97,
+        120
+      ],
+      "size_bytes": 4442725,
+      "sha256": "55b2f6621cf0cfdf6da77153be75477c15551b41db1c4275f47d9976a15ebc4d",
+      "version": "0.3",
+      "revision": "简洁封底恢复居中的 GOSD 标识",
+      "source_file": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf",
+      "source_sha256": "04b2ec47c939b09eba0d288eab7d231986d8f5522f244b66784df2ea5db7a93e",
+      "physical_start": 115,
+      "physical_end": 138
+    }
+  ],
+  "page_map": [
+    {
+      "module": 1,
+      "local_page": 1,
+      "physical_page": 1,
+      "folio": "<E5B081E99DA2>",
+      "source": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf"
+    },
+    {
+      "module": 1,
+      "local_page": 2,
+      "physical_page": 2,
+      "folio": "<E5B081E4BA8C>",
+      "source": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf"
+    },
+    {
+      "module": 1,
+      "local_page": 3,
+      "physical_page": 3,
+      "folio": "i",
+      "source": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf"
+    },
+    {
+      "module": 1,
+      "local_page": 4,
+      "physical_page": 4,
+      "folio": "ii",
+      "source": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf"
+    },
+    {
+      "module": 1,
+      "local_page": 5,
+      "physical_page": 5,
+      "folio": "iii",
+      "source": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf"
+    },
+    {
+      "module": 1,
+      "local_page": 6,
+      "physical_page": 6,
+      "folio": "iv",
+      "source": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf"
+    },
+    {
+      "module": 1,
+      "local_page": 7,
+      "physical_page": 7,
+      "folio": "v",
+      "source": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf"
+    },
+    {
+      "module": 1,
+      "local_page": 8,
+      "physical_page": 8,
+      "folio": "vi",
+      "source": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf"
+    },
+    {
+      "module": 1,
+      "local_page": 9,
+      "physical_page": 9,
+      "folio": "vii",
+      "source": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf"
+    },
+    {
+      "module": 1,
+      "local_page": 10,
+      "physical_page": 10,
+      "folio": "viii",
+      "source": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf"
+    },
+    {
+      "module": 1,
+      "local_page": 11,
+      "physical_page": 11,
+      "folio": "ix",
+      "source": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf"
+    },
+    {
+      "module": 1,
+      "local_page": 12,
+      "physical_page": 12,
+      "folio": "x",
+      "source": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf"
+    },
+    {
+      "module": 1,
+      "local_page": 13,
+      "physical_page": 13,
+      "folio": "xi",
+      "source": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf"
+    },
+    {
+      "module": 1,
+      "local_page": 14,
+      "physical_page": 14,
+      "folio": "xii",
+      "source": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf"
+    },
+    {
+      "module": 1,
+      "local_page": 15,
+      "physical_page": 15,
+      "folio": "xiii",
+      "source": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf"
+    },
+    {
+      "module": 1,
+      "local_page": 16,
+      "physical_page": 16,
+      "folio": "xiv",
+      "source": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf"
+    },
+    {
+      "module": 1,
+      "local_page": 17,
+      "physical_page": 17,
+      "folio": "xv",
+      "source": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf"
+    },
+    {
+      "module": 1,
+      "local_page": 18,
+      "physical_page": 18,
+      "folio": "xvi",
+      "source": "GOSD_2026_Print_M01_Frontmatter_v0.1.pdf"
+    },
+    {
+      "module": 2,
+      "local_page": 1,
+      "physical_page": 19,
+      "folio": "1",
+      "source": "GOSD_2026_Print_M02_Chapter1_v0.1.pdf"
+    },
+    {
+      "module": 2,
+      "local_page": 2,
+      "physical_page": 20,
+      "folio": "2",
+      "source": "GOSD_2026_Print_M02_Chapter1_v0.1.pdf"
+    },
+    {
+      "module": 2,
+      "local_page": 3,
+      "physical_page": 21,
+      "folio": "3",
+      "source": "GOSD_2026_Print_M02_Chapter1_v0.1.pdf"
+    },
+    {
+      "module": 2,
+      "local_page": 4,
+      "physical_page": 22,
+      "folio": "4",
+      "source": "GOSD_2026_Print_M02_Chapter1_v0.1.pdf"
+    },
+    {
+      "module": 2,
+      "local_page": 5,
+      "physical_page": 23,
+      "folio": "5",
+      "source": "GOSD_2026_Print_M02_Chapter1_v0.1.pdf"
+    },
+    {
+      "module": 2,
+      "local_page": 6,
+      "physical_page": 24,
+      "folio": "6",
+      "source": "GOSD_2026_Print_M02_Chapter1_v0.1.pdf"
+    },
+    {
+      "module": 2,
+      "local_page": 7,
+      "physical_page": 25,
+      "folio": "7",
+      "source": "GOSD_2026_Print_M02_Chapter1_v0.1.pdf"
+    },
+    {
+      "module": 2,
+      "local_page": 8,
+      "physical_page": 26,
+      "folio": "8",
+      "source": "GOSD_2026_Print_M02_Chapter1_v0.1.pdf"
+    },
+    {
+      "module": 2,
+      "local_page": 9,
+      "physical_page": 27,
+      "folio": "9",
+      "source": "GOSD_2026_Print_M02_Chapter1_v0.1.pdf"
+    },
+    {
+      "module": 2,
+      "local_page": 10,
+      "physical_page": 28,
+      "folio": "10",
+      "source": "GOSD_2026_Print_M02_Chapter1_v0.1.pdf"
+    },
+    {
+      "module": 2,
+      "local_page": 11,
+      "physical_page": 29,
+      "folio": "11",
+      "source": "GOSD_2026_Print_M02_Chapter1_v0.1.pdf"
+    },
+    {
+      "module": 2,
+      "local_page": 12,
+      "physical_page": 30,
+      "folio": "12",
+      "source": "GOSD_2026_Print_M02_Chapter1_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 1,
+      "physical_page": 31,
+      "folio": "13",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 2,
+      "physical_page": 32,
+      "folio": "14",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 3,
+      "physical_page": 33,
+      "folio": "15",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 4,
+      "physical_page": 34,
+      "folio": "16",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 5,
+      "physical_page": 35,
+      "folio": "17",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 6,
+      "physical_page": 36,
+      "folio": "18",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 7,
+      "physical_page": 37,
+      "folio": "19",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 8,
+      "physical_page": 38,
+      "folio": "20",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 9,
+      "physical_page": 39,
+      "folio": "21",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 10,
+      "physical_page": 40,
+      "folio": "22",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 11,
+      "physical_page": 41,
+      "folio": "23",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 12,
+      "physical_page": 42,
+      "folio": "24",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 13,
+      "physical_page": 43,
+      "folio": "25",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 14,
+      "physical_page": 44,
+      "folio": "26",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 15,
+      "physical_page": 45,
+      "folio": "27",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 16,
+      "physical_page": 46,
+      "folio": "28",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 17,
+      "physical_page": 47,
+      "folio": "29",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 18,
+      "physical_page": 48,
+      "folio": "30",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 19,
+      "physical_page": 49,
+      "folio": "31",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 20,
+      "physical_page": 50,
+      "folio": "32",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 21,
+      "physical_page": 51,
+      "folio": "33",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 3,
+      "local_page": 22,
+      "physical_page": 52,
+      "folio": "34",
+      "source": "GOSD_2026_Print_M03_Chapter2_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 1,
+      "physical_page": 53,
+      "folio": "35",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 2,
+      "physical_page": 54,
+      "folio": "36",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 3,
+      "physical_page": 55,
+      "folio": "37",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 4,
+      "physical_page": 56,
+      "folio": "38",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 5,
+      "physical_page": 57,
+      "folio": "39",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 6,
+      "physical_page": 58,
+      "folio": "40",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 7,
+      "physical_page": 59,
+      "folio": "41",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 8,
+      "physical_page": 60,
+      "folio": "42",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 9,
+      "physical_page": 61,
+      "folio": "43",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 10,
+      "physical_page": 62,
+      "folio": "44",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 11,
+      "physical_page": 63,
+      "folio": "45",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 12,
+      "physical_page": 64,
+      "folio": "46",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 13,
+      "physical_page": 65,
+      "folio": "47",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 14,
+      "physical_page": 66,
+      "folio": "48",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 15,
+      "physical_page": 67,
+      "folio": "49",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 16,
+      "physical_page": 68,
+      "folio": "50",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 17,
+      "physical_page": 69,
+      "folio": "51",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 18,
+      "physical_page": 70,
+      "folio": "52",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 19,
+      "physical_page": 71,
+      "folio": "53",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 20,
+      "physical_page": 72,
+      "folio": "54",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 21,
+      "physical_page": 73,
+      "folio": "55",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 22,
+      "physical_page": 74,
+      "folio": "56",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 23,
+      "physical_page": 75,
+      "folio": "57",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 4,
+      "local_page": 24,
+      "physical_page": 76,
+      "folio": "58",
+      "source": "GOSD_2026_Print_M04_Chapter3_v0.1.pdf"
+    },
+    {
+      "module": 5,
+      "local_page": 1,
+      "physical_page": 77,
+      "folio": "59",
+      "source": "GOSD_2026_Print_M05_Chapter4_v0.1.pdf"
+    },
+    {
+      "module": 5,
+      "local_page": 2,
+      "physical_page": 78,
+      "folio": "60",
+      "source": "GOSD_2026_Print_M05_Chapter4_v0.1.pdf"
+    },
+    {
+      "module": 5,
+      "local_page": 3,
+      "physical_page": 79,
+      "folio": "61",
+      "source": "GOSD_2026_Print_M05_Chapter4_v0.1.pdf"
+    },
+    {
+      "module": 5,
+      "local_page": 4,
+      "physical_page": 80,
+      "folio": "62",
+      "source": "GOSD_2026_Print_M05_Chapter4_v0.1.pdf"
+    },
+    {
+      "module": 5,
+      "local_page": 5,
+      "physical_page": 81,
+      "folio": "63",
+      "source": "GOSD_2026_Print_M05_Chapter4_v0.1.pdf"
+    },
+    {
+      "module": 5,
+      "local_page": 6,
+      "physical_page": 82,
+      "folio": "64",
+      "source": "GOSD_2026_Print_M05_Chapter4_v0.1.pdf"
+    },
+    {
+      "module": 5,
+      "local_page": 7,
+      "physical_page": 83,
+      "folio": "65",
+      "source": "GOSD_2026_Print_M05_Chapter4_v0.1.pdf"
+    },
+    {
+      "module": 5,
+      "local_page": 8,
+      "physical_page": 84,
+      "folio": "66",
+      "source": "GOSD_2026_Print_M05_Chapter4_v0.1.pdf"
+    },
+    {
+      "module": 5,
+      "local_page": 9,
+      "physical_page": 85,
+      "folio": "67",
+      "source": "GOSD_2026_Print_M05_Chapter4_v0.1.pdf"
+    },
+    {
+      "module": 5,
+      "local_page": 10,
+      "physical_page": 86,
+      "folio": "68",
+      "source": "GOSD_2026_Print_M05_Chapter4_v0.1.pdf"
+    },
+    {
+      "module": 5,
+      "local_page": 11,
+      "physical_page": 87,
+      "folio": "69",
+      "source": "GOSD_2026_Print_M05_Chapter4_v0.1.pdf"
+    },
+    {
+      "module": 5,
+      "local_page": 12,
+      "physical_page": 88,
+      "folio": "70",
+      "source": "GOSD_2026_Print_M05_Chapter4_v0.1.pdf"
+    },
+    {
+      "module": 5,
+      "local_page": 13,
+      "physical_page": 89,
+      "folio": "71",
+      "source": "GOSD_2026_Print_M05_Chapter4_v0.1.pdf"
+    },
+    {
+      "module": 5,
+      "local_page": 14,
+      "physical_page": 90,
+      "folio": "72",
+      "source": "GOSD_2026_Print_M05_Chapter4_v0.1.pdf"
+    },
+    {
+      "module": 5,
+      "local_page": 15,
+      "physical_page": 91,
+      "folio": "73",
+      "source": "GOSD_2026_Print_M05_Chapter4_v0.1.pdf"
+    },
+    {
+      "module": 5,
+      "local_page": 16,
+      "physical_page": 92,
+      "folio": "74",
+      "source": "GOSD_2026_Print_M05_Chapter4_v0.1.pdf"
+    },
+    {
+      "module": 6,
+      "local_page": 1,
+      "physical_page": 93,
+      "folio": "75",
+      "source": "GOSD_2026_Print_M06_Chapter5_v0.2.pdf"
+    },
+    {
+      "module": 6,
+      "local_page": 2,
+      "physical_page": 94,
+      "folio": "76",
+      "source": "GOSD_2026_Print_M06_Chapter5_v0.2.pdf"
+    },
+    {
+      "module": 6,
+      "local_page": 3,
+      "physical_page": 95,
+      "folio": "77",
+      "source": "GOSD_2026_Print_M06_Chapter5_v0.2.pdf"
+    },
+    {
+      "module": 6,
+      "local_page": 4,
+      "physical_page": 96,
+      "folio": "78",
+      "source": "GOSD_2026_Print_M06_Chapter5_v0.2.pdf"
+    },
+    {
+      "module": 6,
+      "local_page": 5,
+      "physical_page": 97,
+      "folio": "79",
+      "source": "GOSD_2026_Print_M06_Chapter5_v0.2.pdf"
+    },
+    {
+      "module": 6,
+      "local_page": 6,
+      "physical_page": 98,
+      "folio": "80",
+      "source": "GOSD_2026_Print_M06_Chapter5_v0.2.pdf"
+    },
+    {
+      "module": 6,
+      "local_page": 7,
+      "physical_page": 99,
+      "folio": "81",
+      "source": "GOSD_2026_Print_M06_Chapter5_v0.2.pdf"
+    },
+    {
+      "module": 6,
+      "local_page": 8,
+      "physical_page": 100,
+      "folio": "82",
+      "source": "GOSD_2026_Print_M06_Chapter5_v0.2.pdf"
+    },
+    {
+      "module": 6,
+      "local_page": 9,
+      "physical_page": 101,
+      "folio": "83",
+      "source": "GOSD_2026_Print_M06_Chapter5_v0.2.pdf"
+    },
+    {
+      "module": 6,
+      "local_page": 10,
+      "physical_page": 102,
+      "folio": "84",
+      "source": "GOSD_2026_Print_M06_Chapter5_v0.2.pdf"
+    },
+    {
+      "module": 6,
+      "local_page": 11,
+      "physical_page": 103,
+      "folio": "85",
+      "source": "GOSD_2026_Print_M06_Chapter5_v0.2.pdf"
+    },
+    {
+      "module": 6,
+      "local_page": 12,
+      "physical_page": 104,
+      "folio": "86",
+      "source": "GOSD_2026_Print_M06_Chapter5_v0.2.pdf"
+    },
+    {
+      "module": 6,
+      "local_page": 13,
+      "physical_page": 105,
+      "folio": "87",
+      "source": "GOSD_2026_Print_M06_Chapter5_v0.2.pdf"
+    },
+    {
+      "module": 6,
+      "local_page": 14,
+      "physical_page": 106,
+      "folio": "88",
+      "source": "GOSD_2026_Print_M06_Chapter5_v0.2.pdf"
+    },
+    {
+      "module": 7,
+      "local_page": 1,
+      "physical_page": 107,
+      "folio": "89",
+      "source": "GOSD_2026_Print_M07_Chapter6_v0.1.pdf"
+    },
+    {
+      "module": 7,
+      "local_page": 2,
+      "physical_page": 108,
+      "folio": "90",
+      "source": "GOSD_2026_Print_M07_Chapter6_v0.1.pdf"
+    },
+    {
+      "module": 7,
+      "local_page": 3,
+      "physical_page": 109,
+      "folio": "91",
+      "source": "GOSD_2026_Print_M07_Chapter6_v0.1.pdf"
+    },
+    {
+      "module": 7,
+      "local_page": 4,
+      "physical_page": 110,
+      "folio": "92",
+      "source": "GOSD_2026_Print_M07_Chapter6_v0.1.pdf"
+    },
+    {
+      "module": 7,
+      "local_page": 5,
+      "physical_page": 111,
+      "folio": "93",
+      "source": "GOSD_2026_Print_M07_Chapter6_v0.1.pdf"
+    },
+    {
+      "module": 7,
+      "local_page": 6,
+      "physical_page": 112,
+      "folio": "94",
+      "source": "GOSD_2026_Print_M07_Chapter6_v0.1.pdf"
+    },
+    {
+      "module": 7,
+      "local_page": 7,
+      "physical_page": 113,
+      "folio": "95",
+      "source": "GOSD_2026_Print_M07_Chapter6_v0.1.pdf"
+    },
+    {
+      "module": 7,
+      "local_page": 8,
+      "physical_page": 114,
+      "folio": "96",
+      "source": "GOSD_2026_Print_M07_Chapter6_v0.1.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 1,
+      "physical_page": 115,
+      "folio": "97",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 2,
+      "physical_page": 116,
+      "folio": "98",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 3,
+      "physical_page": 117,
+      "folio": "99",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 4,
+      "physical_page": 118,
+      "folio": "100",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 5,
+      "physical_page": 119,
+      "folio": "101",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 6,
+      "physical_page": 120,
+      "folio": "102",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 7,
+      "physical_page": 121,
+      "folio": "103",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 8,
+      "physical_page": 122,
+      "folio": "104",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 9,
+      "physical_page": 123,
+      "folio": "105",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 10,
+      "physical_page": 124,
+      "folio": "106",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 11,
+      "physical_page": 125,
+      "folio": "107",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 12,
+      "physical_page": 126,
+      "folio": "108",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 13,
+      "physical_page": 127,
+      "folio": "109",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 14,
+      "physical_page": 128,
+      "folio": "110",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 15,
+      "physical_page": 129,
+      "folio": "111",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 16,
+      "physical_page": 130,
+      "folio": "112",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 17,
+      "physical_page": 131,
+      "folio": "113",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 18,
+      "physical_page": 132,
+      "folio": "114",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 19,
+      "physical_page": 133,
+      "folio": "115",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 20,
+      "physical_page": 134,
+      "folio": "116",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 21,
+      "physical_page": 135,
+      "folio": "117",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 22,
+      "physical_page": 136,
+      "folio": "118",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 23,
+      "physical_page": 137,
+      "folio": "119",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    },
+    {
+      "module": 8,
+      "local_page": 24,
+      "physical_page": 138,
+      "folio": "120",
+      "source": "GOSD_2026_Print_M08_Appendix_Acknowledgements_v0.3.pdf"
+    }
+  ],
+  "added_links": [
+    {
+      "page": 9,
+      "target": 19,
+      "label": "从开放协作到公共价值",
+      "rect": [
+        39.68503937007874,
+        454.2248840332031,
+        377.0078740157481,
+        494.2248840332031
+      ]
+    },
+    {
+      "page": 9,
+      "target": 31,
+      "label": "全球开源生态地图",
+      "rect": [
+        39.68503937007874,
+        503.0528869628906,
+        377.0078740157481,
+        543.0528869628906
+      ]
+    },
+    {
+      "page": 9,
+      "target": 53,
+      "label": "全球开源影响力排行榜",
+      "rect": [
+        39.68503937007874,
+        551.7999267578125,
+        377.0078740157481,
+        591.7999267578125
+      ]
+    },
+    {
+      "page": 9,
+      "target": 77,
+      "label": "全球开源技术全景洞察",
+      "rect": [
+        39.68503937007874,
+        600.555908203125,
+        377.0078740157481,
+        640.555908203125
+      ]
+    },
+    {
+      "page": 9,
+      "target": 93,
+      "label": "全球开源大模型发展洞察",
+      "rect": [
+        39.68503937007874,
+        649.3129272460938,
+        377.0078740157481,
+        689.3129272460938
+      ]
+    },
+    {
+      "page": 9,
+      "target": 107,
+      "label": "关键洞察、前瞻与战略建议",
+      "rect": [
+        39.68503937007874,
+        698.0579223632812,
+        377.0078740157481,
+        738.0579223632812
+      ]
+    },
+    {
+      "page": 9,
+      "target": 115,
+      "label": "附录",
+      "rect": [
+        39.68503937007874,
+        752.29296875,
+        377.0078740157481,
+        769.29296875
+      ]
+    },
+    {
+      "page": 9,
+      "target": 135,
+      "label": "致谢",
+      "rect": [
+        39.68503937007874,
+        771.3880004882812,
+        377.0078740157481,
+        788.3880004882812
+      ]
+    },
+    {
+      "page": 9,
+      "target": 11,
+      "label": "阅读路径：执行摘要",
+      "rect": [
+        411.864013671875,
+        335.1678771972656,
+        453.3236083984375,
+        348.53277587890625
+      ]
+    },
+    {
+      "page": 9,
+      "target": 19,
+      "label": "阅读路径：第一章",
+      "rect": [
+        455.364990234375,
+        734.7915649414062,
+        485.36749267578125,
+        747.4590454101562
+      ]
+    },
+    {
+      "page": 9,
+      "target": 31,
+      "label": "阅读路径：第二章",
+      "rect": [
+        411.864013671875,
+        482.5618591308594,
+        443.9587097167969,
+        495.9267578125
+      ]
+    },
+    {
+      "page": 9,
+      "target": 53,
+      "label": "阅读路径：第三章",
+      "rect": [
+        453.57525634765625,
+        482.5618591308594,
+        485.66998291015625,
+        495.9267578125
+      ]
+    },
+    {
+      "page": 9,
+      "target": 77,
+      "label": "阅读路径：第四章",
+      "rect": [
+        411.864013671875,
+        629.9658813476562,
+        443.9587097167969,
+        643.3307495117188
+      ]
+    },
+    {
+      "page": 9,
+      "target": 93,
+      "label": "阅读路径：第五章",
+      "rect": [
+        453.57525634765625,
+        629.9658813476562,
+        485.66998291015625,
+        643.3307495117188
+      ]
+    },
+    {
+      "page": 9,
+      "target": 107,
+      "label": "阅读路径：第六章",
+      "rect": [
+        462.940185546875,
+        335.1678771972656,
+        495.0348815917969,
+        348.53277587890625
+      ]
+    },
+    {
+      "page": 9,
+      "target": 115,
+      "label": "阅读路径：附录",
+      "rect": [
+        490.03497314453125,
+        734.7915649414062,
+        511.3699951171875,
+        747.4590454101562
+      ]
+    },
+    {
+      "page": 13,
+      "target": 19,
+      "label": "结构图：第1章",
+      "rect": [
+        39.68503937007874,
+        314.6456692913386,
+        195.59055118110237,
+        411.02362204724415
+      ]
+    },
+    {
+      "page": 13,
+      "target": 31,
+      "label": "结构图：第2章",
+      "rect": [
+        39.68503937007874,
+        425.19685039370086,
+        195.59055118110237,
+        521.5748031496064
+      ]
+    },
+    {
+      "page": 13,
+      "target": 53,
+      "label": "结构图：第3章",
+      "rect": [
+        39.68503937007874,
+        535.748031496063,
+        195.59055118110237,
+        632.1259842519686
+      ]
+    },
+    {
+      "page": 13,
+      "target": 77,
+      "label": "结构图：第4章",
+      "rect": [
+        399.68503937007875,
+        314.6456692913386,
+        555.5905511811025,
+        411.02362204724415
+      ]
+    },
+    {
+      "page": 13,
+      "target": 93,
+      "label": "结构图：第5章",
+      "rect": [
+        399.68503937007875,
+        425.19685039370086,
+        555.5905511811025,
+        521.5748031496064
+      ]
+    },
+    {
+      "page": 13,
+      "target": 107,
+      "label": "结构图：第6章",
+      "rect": [
+        399.68503937007875,
+        535.748031496063,
+        555.5905511811025,
+        632.1259842519686
+      ]
+    }
+  ],
+  "evidence": "Approved module PDFs, current versions as listed in modules; no statistical recomputation."
+}

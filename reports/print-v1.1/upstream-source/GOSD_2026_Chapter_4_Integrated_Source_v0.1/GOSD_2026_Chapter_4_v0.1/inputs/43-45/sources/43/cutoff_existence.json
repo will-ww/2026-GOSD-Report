@@ -1,0 +1,82 @@
+{
+  "podman-container-tools/podman": {
+    "sha": "2be3a749a82453e07513e013ae5a94bb813a14f5",
+    "url": "https://github.com/podman-container-tools/podman/commit/2be3a749a82453e07513e013ae5a94bb813a14f5",
+    "committed_at": "2026-06-30T15:23:19Z"
+  },
+  "apache/kafka": {
+    "sha": "a884fadfa4d1fe8b1c0e2f14a46ccf9491fd1f70",
+    "url": "https://github.com/apache/kafka/commit/a884fadfa4d1fe8b1c0e2f14a46ccf9491fd1f70",
+    "committed_at": "2026-06-30T22:26:51Z"
+  },
+  "apache/spark": {
+    "sha": "06fa6376d3481436a0052df535fcdbb61a22cac1",
+    "url": "https://github.com/apache/spark/commit/06fa6376d3481436a0052df535fcdbb61a22cac1",
+    "committed_at": "2026-06-30T22:58:18Z"
+  },
+  "pingcap/tidb": {
+    "sha": "693e52cd51bd8565795ad9c650dd8ac743fc26fe",
+    "url": "https://github.com/pingcap/tidb/commit/693e52cd51bd8565795ad9c650dd8ac743fc26fe",
+    "committed_at": "2026-06-30T10:13:39Z"
+  },
+  "envoyproxy/envoy": {
+    "sha": "b157c25dc650a03dc4303583d4af72a08d40e517",
+    "url": "https://github.com/envoyproxy/envoy/commit/b157c25dc650a03dc4303583d4af72a08d40e517",
+    "committed_at": "2026-06-30T23:25:54Z"
+  },
+  "apache/apisix": {
+    "sha": "056bea5c97bae6d2fb2cb6cdd77b7bb69a9632f9",
+    "url": "https://github.com/apache/apisix/commit/056bea5c97bae6d2fb2cb6cdd77b7bb69a9632f9",
+    "committed_at": "2026-06-30T08:50:28Z"
+  },
+  "projectcalico/calico": {
+    "sha": "4c63e387cb67b91eb36eac9e9a170d65c87fa81e",
+    "url": "https://github.com/projectcalico/calico/commit/4c63e387cb67b91eb36eac9e9a170d65c87fa81e",
+    "committed_at": "2026-06-30T23:13:20Z"
+  },
+  "volcano-sh/volcano": {
+    "sha": "1072895af3f1e0b3c99881127d92e01318fa52c7",
+    "url": "https://github.com/volcano-sh/volcano/commit/1072895af3f1e0b3c99881127d92e01318fa52c7",
+    "committed_at": "2026-06-30T13:54:04Z"
+  },
+  "keycloak/keycloak": {
+    "sha": "6392f27b91a59d2fd15a37107910deb56ec3762e",
+    "url": "https://github.com/keycloak/keycloak/commit/6392f27b91a59d2fd15a37107910deb56ec3762e",
+    "committed_at": "2026-06-30T18:30:23Z"
+  },
+  "pulumi/pulumi": {
+    "sha": "f3fd5c1cb1655ac199bea0345af1cc8f52103a13",
+    "url": "https://github.com/pulumi/pulumi/commit/f3fd5c1cb1655ac199bea0345af1cc8f52103a13",
+    "committed_at": "2026-06-30T15:37:58Z"
+  },
+  "cilium/tetragon": {
+    "sha": "7156976705ca8948ada22620fead9da2fec0da51",
+    "url": "https://github.com/cilium/tetragon/commit/7156976705ca8948ada22620fead9da2fec0da51",
+    "committed_at": "2026-06-30T10:28:41Z"
+  },
+  "k3s-io/k3s": {
+    "sha": "c7f983a9e2975538e60d180d0604e9d2384cd229",
+    "url": "https://github.com/k3s-io/k3s/commit/c7f983a9e2975538e60d180d0604e9d2384cd229",
+    "committed_at": "2026-06-30T03:24:54Z"
+  },
+  "grafana/grafana": {
+    "sha": "272a502abdd6b886506bdb060c847cb916957062",
+    "url": "https://github.com/grafana/grafana/commit/272a502abdd6b886506bdb060c847cb916957062",
+    "committed_at": "2026-06-30T21:58:58Z"
+  },
+  "grafana/loki": {
+    "sha": "41d75e04177502ffca6c05524af34edae7b85290",
+    "url": "https://github.com/grafana/loki/commit/41d75e04177502ffca6c05524af34edae7b85290",
+    "committed_at": "2026-06-30T22:04:28Z"
+  },
+  "llvm/llvm-project": {
+    "sha": "443d933cef6ef8dc5179ff8ffe9feb133a265920",
+    "url": "https://github.com/llvm/llvm-project/commit/443d933cef6ef8dc5179ff8ffe9feb133a265920",
+    "committed_at": "2026-06-30T23:55:55Z"
+  },
+  "bytecodealliance/wasmtime": {
+    "sha": "6e5853cc15e76e8b5ce54adb2cd820e37f14d78f",
+    "url": "https://github.com/bytecodealliance/wasmtime/commit/6e5853cc15e76e8b5ce54adb2cd820e37f14d78f",
+    "committed_at": "2026-06-30T23:21:48Z"
+  }
+}

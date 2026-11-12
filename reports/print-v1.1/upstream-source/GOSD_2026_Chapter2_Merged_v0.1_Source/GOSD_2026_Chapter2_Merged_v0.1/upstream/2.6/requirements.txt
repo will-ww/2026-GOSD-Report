@@ -1,0 +1,4 @@
+Pillow
+PyMuPDF
+fonttools
+numpy

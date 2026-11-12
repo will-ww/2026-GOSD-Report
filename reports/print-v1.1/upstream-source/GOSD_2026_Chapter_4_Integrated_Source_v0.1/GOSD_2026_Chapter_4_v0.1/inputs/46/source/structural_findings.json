@@ -1,0 +1,11 @@
+{
+  "core_value": 9423.006042480469,
+  "non_core_total": 8114.751777887344,
+  "non_core_count": 82,
+  "non_core_training_execution_count": 32,
+  "non_core_training_execution_share_pct": 71.46615517971667,
+  "compiler_optimization_count": 20,
+  "compiler_optimization_value": 4182.380308195949,
+  "compiler_optimization_non_core_share_pct": 51.54045894038204,
+  "engineering_docs_count": 30
+}

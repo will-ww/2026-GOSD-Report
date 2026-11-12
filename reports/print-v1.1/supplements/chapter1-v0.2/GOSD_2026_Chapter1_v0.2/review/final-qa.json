@@ -1,0 +1,75 @@
+{
+  "version": "v0.2",
+  "pages": 10,
+  "portrait": true,
+  "main_window": "2025-07-01/2026-06-30",
+  "candidate_indicators": 29,
+  "pillars": {
+    "X1": 5,
+    "X2": 7,
+    "X3": 11,
+    "X4": 6
+  },
+  "directions": 10,
+  "types": {
+    "北极星": 8,
+    "诊断": 13,
+    "驱动": 8
+  },
+  "links": 16,
+  "preserved_11_pages": [
+    {
+      "printed_page": 11,
+      "pixel_identical": true,
+      "text_identical": true
+    },
+    {
+      "printed_page": 12,
+      "pixel_identical": true,
+      "text_identical": true
+    },
+    {
+      "printed_page": 13,
+      "pixel_identical": true,
+      "text_identical": true
+    }
+  ],
+  "fonts_embedded": true,
+  "page_text_outside": [],
+  "new_figures_outlined": true,
+  "editable_svg_text_preserved": true,
+  "visual_check": "All new pages inspected; final Poppler render checked, including CJK composite glyphs.",
+  "figure_qa": [
+    {
+      "figure": "figure-1-4",
+      "out_of_bounds": [],
+      "overlaps": []
+    },
+    {
+      "figure": "figure-1-5",
+      "out_of_bounds": [],
+      "overlaps": []
+    },
+    {
+      "figure": "figure-1-6",
+      "out_of_bounds": [],
+      "overlaps": []
+    },
+    {
+      "figure": "table-1-1",
+      "out_of_bounds": [],
+      "overlaps": []
+    },
+    {
+      "figure": "figure-1-7",
+      "out_of_bounds": [],
+      "overlaps": []
+    },
+    {
+      "figure": "figure-1-8",
+      "out_of_bounds": [],
+      "overlaps": []
+    }
+  ],
+  "pdf_sha256_before_library": "367148ab0e8615db5057a7ff7fd79e0f6b286327a71dd3f51a29b099b922642a"
+}

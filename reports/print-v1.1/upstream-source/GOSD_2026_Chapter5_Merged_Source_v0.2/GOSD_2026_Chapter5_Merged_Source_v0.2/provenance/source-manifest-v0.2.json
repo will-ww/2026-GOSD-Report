@@ -1,0 +1,832 @@
+{
+  "version": "v0.2",
+  "created_utc": "2026-11-10T23:20:39.900702+00:00",
+  "observed_read_date_beijing": "2026-11-11",
+  "authority": "will-ww/2026-GOSD-Report",
+  "confirmed_baseline": "fff392e957bab9fb6d89d49dea712af47484efaa",
+  "geography": "2026-10-17 frozen 826-organization sample; live geography endpoint timed out",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4363,
+      "sha256": "c596bd075c723e60c3972184930d0158b1ebb81b8d2d9b55104644bf170629db",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/Alibaba-NLP.png",
+      "bytes": 32445,
+      "sha256": "12367cc305feb2ae767329d949ae9447d6d340f9c0b85a5e9ed53612b879b7fe",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/BAAI.png",
+      "bytes": 23488,
+      "sha256": "a33f22c371f8ab95c95a62caed69a5fc82ad805cf78c2e32bb1f580e14a06feb",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/FacebookAI.png",
+      "bytes": 13918,
+      "sha256": "9ff1cdddb85c428cf11387dd6233911038a5abc9282a77bf845cd7b790451447",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/InternRobotics.png",
+      "bytes": 10558,
+      "sha256": "cd1c08b26c07e5e2036f65d1e6bfd7351a8f61a61f2c4e0772242cbaf87686ba",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/OpenGVLab.png",
+      "bytes": 40518,
+      "sha256": "dd7d850761928cb05976da75515df6877106e294cd1a31f211a3662e4842152e",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/Qwen.png",
+      "bytes": 14400,
+      "sha256": "e6497b0b5b22d7ea37b04edcc5bfc690b22c7c37372d76f5e177175c5a52ac5d",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/Salesforce.png",
+      "bytes": 22494,
+      "sha256": "afa915f1155fdff1b69a4521899d4ea696b98ce615bee661e3abdf0897e21aa8",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/allenai.png",
+      "bytes": 8501,
+      "sha256": "59e6d69059c584a827b3fd0c639dfafba6a63e12d97f9866316a1875a7c06263",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/argilla.png",
+      "bytes": 20849,
+      "sha256": "671e23ad3fe2d61d3be5d337fcbbe5962f80a26d833104d7304777f965bd2c02",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/cais.png",
+      "bytes": 42423,
+      "sha256": "ed5dcb1157d4de44f2bcd3fb7556196b80d918d61b6808df27bf5d9c84872f73",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/deepseek-ai.png",
+      "bytes": 19163,
+      "sha256": "e14740a19a57f081867e7a64d7e5041e276024422ec3752d1122eac7511261d2",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/facebook.png",
+      "bytes": 6303,
+      "sha256": "b4e69ff8de75f8f077099c3d8f81db1ec073b4c6441f00a75db3b01883818d88",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/google-bert.png",
+      "bytes": 41248,
+      "sha256": "4c05ecd3e6264a984763675007fe3176c3da9ef8e8a5388276a4425551037f34",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/google.png",
+      "bytes": 24789,
+      "sha256": "e0014beb340564206093c5b7c8ee60fd501b924d93a3802612bfe2b53e426cce",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/hfl.png",
+      "bytes": 64292,
+      "sha256": "a3f4ec473f53b3d47eff0972efb3a528137ef7eda74662befaaaf60ca90399ad",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/huggingface.png",
+      "bytes": 26939,
+      "sha256": "dde1ea4693a9c4c91169a8ab65a16f615480c07aec3631dbb921ed1a16709a49",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/llamafactory.png",
+      "bytes": 45846,
+      "sha256": "7df992b6f79836144875d53a5f0784ea885a482dcd01c14dab5be332265d8f19",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/nvidia.png",
+      "bytes": 17768,
+      "sha256": "ed126f7689a0925d80740668ef4c5f78b3e43ff5cd5d499ea40de75ba8df31d3",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/openai.png",
+      "bytes": 8769,
+      "sha256": "52f106de8e3f6e61f32192d4e2ab4e3d7fcee5dec4a45bb1b3a7e7c3a201659a",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/openbmb.png",
+      "bytes": 7191,
+      "sha256": "aec4ef048d8e9a6267432b4e2b15e132e4609bbc52a6e00dd69f9008db065d9e",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/sentence-transformers.png",
+      "bytes": 33103,
+      "sha256": "e2408bfef01ffdb446c8a468f2ce557197ef418f5a36f963cfb766d6b40da894",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/logos/zai-org.png",
+      "bytes": 9830,
+      "sha256": "fc0827e0482b2a57634386a8a554144ada1cd96e7054a64f03c620b42b4801a6",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "assets/osdgs-symbol-compact.svg",
+      "bytes": 10729,
+      "sha256": "7de88d97f2153818823302676d3318a9b504dd9f719ef0961810a01cd3d5977f",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "build.py",
+      "bytes": 6174,
+      "sha256": "3e69b940a068c4f7e58ce92bbf5a58a1e7a3234453a92a0b3be755c8d54b9fab",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "common.py",
+      "bytes": 1903,
+      "sha256": "c9a92c93877ebfbacce47c07e5effef2ebe96b34afd0ff9b10a77a00c0ec6932",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "data/chapter6-evidence-v0.2.json",
+      "bytes": 4505,
+      "sha256": "ec0ee9f959ddb26ad2f006ed34ca9e9704f6619c60cd2197e36196d8358d556c",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "data/content-v0.2.json",
+      "bytes": 19797,
+      "sha256": "1ecf3b185b348c30bf71f8058fffad9a352738c3fa084550d97b56b0afd61bf6",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "data/live/api_datasets_trend__granularity=monthly",
+      "bytes": 2784,
+      "sha256": "ba046b0efaa502bf4b1f2ba452c78bdec9fa0f4ebc4396ae5b4612d63b6db822",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "data/live/api_ecosystem_sankey",
+      "bytes": 16178,
+      "sha256": "976bdd8c65dd05cc780b3d7aba1a34ccc490be93f12cd8cc3c7248423219dfc9",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "data/live/api_models_trend__granularity=monthly",
+      "bytes": 2829,
+      "sha256": "026ea0d5dab0382ccd7a5785aed62593e854ad87e3cd84b68b3080a9122679b2",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "data/live/api_openness_china",
+      "bytes": 13282,
+      "sha256": "be356d31aa9dc58724326bab690983ccc314fa792dac732a165eaee4e402b4a0",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "data/live/api_openness_grid",
+      "bytes": 137875,
+      "sha256": "85ad2c2b7936438da4f329bc876763debf1c34a1833753522fe4bf92f36585b0",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "data/live/api_openness_grid_full",
+      "bytes": 137875,
+      "sha256": "85ad2c2b7936438da4f329bc876763debf1c34a1833753522fe4bf92f36585b0",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "data/live/api_openness_matrix",
+      "bytes": 140127,
+      "sha256": "a0835b88e0ca6ed2c46b3ceccc88b7cb0da21ef8bd9927d492e230078e36ce54",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "data/live/api_openness_orgtype",
+      "bytes": 16942,
+      "sha256": "74a2e900248e33af33df362b78f45e60683b3fd24375f4b3d1da03fe70eab53f",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "data/live/api_openness_overview",
+      "bytes": 1426,
+      "sha256": "9abf68e2032aea665fd84d78ef77bd6f39b55c4ce014f3bb7023c99cea9ca48b",
+      "source": "http://47.100.76.186:9529/api/openness/overview/"
+    },
+    {
+      "path": "data/live/api_openness_quadrant",
+      "bytes": 572005,
+      "sha256": "67a93c46f41d4c46d1bdef1d9fa24c88534319fc47da588d9dcf016f53f0bef6",
+      "source": "http://47.100.76.186:9529/api/openness/quadrant/"
+    },
+    {
+      "path": "data/live/api_openness_quadrant-analysis",
+      "bytes": 180044,
+      "sha256": "f7dfad3ecb661118486bae856edb04205ce8a319b3355badca43c3e211e79a49",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "data/live/api_openness_region",
+      "bytes": 130332,
+      "sha256": "ae1065328c445152f49d551e83c878cf58ac38647e8ad401839bd1c151627f89",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "data/live/api_overview_summary",
+      "bytes": 399,
+      "sha256": "22eeca357e60a8879777e3165dd0c4fc02d4486d54c65c9eeacd501bce8436b2",
+      "source": "http://47.100.76.186:9529/api/overview/summary/"
+    },
+    {
+      "path": "data/live/grid889.json",
+      "bytes": 5806747,
+      "sha256": "5c80a66adeaf63cfbd8450af26e9bdfb1e88ef78003509f61b6a55da2de08ee5",
+      "source": "http://47.100.76.186:9529/api/openness/grid/ — page=1…9, page_size=100; original rows concatenated by model_id"
+    },
+    {
+      "path": "data/references-v0.2.json",
+      "bytes": 2777,
+      "sha256": "3635c4a4b405b3c389f3f79735cfb765011fa156d3e1e7e7e17ca2b4f98ec44d",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "figures/fig-5-1-1.svg",
+      "bytes": 446145,
+      "sha256": "69d13e5d9a372470d8096863be23f95a9bfbc245317a5c3a4399a9671326874b",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "figures/fig-5-1-2.svg",
+      "bytes": 788201,
+      "sha256": "03c94e3a3f9f4d5041d0c2857b149a55c507ad57cf639aaa59aa622b1c0baccf",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "figures/fig-5-1-3.svg",
+      "bytes": 254329,
+      "sha256": "786a0350336102b6b0207a4891fa57bfdeb34b8eb7ab28e32b13511179ed58b2",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "figures/fig-5-2-1.svg",
+      "bytes": 1328316,
+      "sha256": "3e4bbeccdd1c4307b6c90ee66da61ad602ef9e345e0c657e4b03767957876188",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "figures/fig-5-2-2.svg",
+      "bytes": 452465,
+      "sha256": "446577e801c5fadc7665c85f68961049aaf83d58da40a22a6d91a05726d9f81d",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "figures/fig-5-2-3.svg",
+      "bytes": 27027,
+      "sha256": "1eee13f87c2acdeedc19a4e6e34efc67dc9e9ce7b87a1b7e7e3d91e6d5785758",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "figures/fig-5-3-1.svg",
+      "bytes": 11179,
+      "sha256": "7ab2aa3443270f59d9983c98ef07c3573736c7b0effff283cf4769d74d1b527e",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "figures/fig-5-3-2.svg",
+      "bytes": 450654,
+      "sha256": "10e6239968cd1bb8cc2be069bdfb73772344a8613227fb6509dd4cad98478ad5",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "figures/fig-5-3-3.svg",
+      "bytes": 444284,
+      "sha256": "55c0814dcd49781024bc2e10441721a5c7986c3e6b5c448a8c751cab3467215b",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "figures/fig-5-3-4.svg",
+      "bytes": 23182,
+      "sha256": "030ee714027cbb923b643c8305282e9aa9edbf60e791ece28598916dd3e9ed65",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "figures_v2.py",
+      "bytes": 29932,
+      "sha256": "b86d2364860e5b4fd9e5dfc9f20753e86e525767947b0a45f6109fb7c9fd0783",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/51/data/annual.csv",
+      "bytes": 147,
+      "sha256": "37124646ec1c5033554294a451ccc23df2a151534cd7ad09efdcbe1dec53aad3",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/51/data/content.json",
+      "bytes": 6966,
+      "sha256": "23cc8821d3dd2ba549cbe09490632f4e7451be1569cb317797642e30a35f1241",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/51/data/map-geometry.json",
+      "bytes": 672394,
+      "sha256": "586ffb51e43854a290fce46035dd9f7f28893dd0100d42853e415ee958b15512",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/51/data/map-provenance.json",
+      "bytes": 1283,
+      "sha256": "eaf9ae6a8760dcba8287f743192aef6560c64367d3dab1f9d4278402fb4e1591",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/51/data/metadata.json",
+      "bytes": 6848,
+      "sha256": "ef8121f67e505d0cd1fbd8aba1af879ec507f684bce397b97fec52b382971668",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/51/data/province-mapping.json",
+      "bytes": 3559,
+      "sha256": "0614b052d8d4130759d2d4d9d6073516532ac36adc13bb9e3bc3b679acd38d3c",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/51/data/supply-methods.md",
+      "bytes": 5320,
+      "sha256": "2179eb504bdab8801d313d664debb38d43c3adddc32241cd484b63216e193a23",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/51/data/supply-observation.json",
+      "bytes": 368693,
+      "sha256": "8e6d0a8ebeced75cfef9c7bb5986f151325f1115fa8edef5421df45a5806f35a",
+      "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosm/supply-observation.json"
+    },
+    {
+      "path": "inputs/51/data/supply-original.json.gz",
+      "bytes": 165278,
+      "sha256": "9c1bb406d79b6c3491ba2af5a7ffb51673eaa957326cabdb766503f2766ee143",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/52/data/content.json",
+      "bytes": 6853,
+      "sha256": "5e2c6be609ae9e9e29b8ab9a551f72a6713f4baf30ff342cfdb16a0ce6d1f60f",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/52/data/fig-5-2-1_hf_cumulative_derivation.csv",
+      "bytes": 254,
+      "sha256": "05b2c068a044a14d55b9da06a8cd41594dc3d935dcc4c7edd6731ea2c50049fb",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/52/data/fig-5-2-2_cross_country_derivation_flows.csv",
+      "bytes": 1598,
+      "sha256": "d60ab0efcc1f24297b690330b5b3eb216b09be63ab04c70348948ab6db32dc59",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/52/data/fig-5-2-3_modelrank_country_head_trend.csv",
+      "bytes": 3454,
+      "sha256": "05dc64b88c4035519d6e04d3484dce52e1e969b32d2e8934241c2e42332b5b19",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/52/data/influence-methods.md",
+      "bytes": 6203,
+      "sha256": "b963f7a1a473897ae180fb67ef591b6d37c102c1009198c40c522f82c06c7176",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/52/data/influence-provenance.json",
+      "bytes": 1078,
+      "sha256": "9d4eb4427767f6f2e65acec9aa323fc73718cfb5ab2b6ceba53bbaaa1453c087",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/52/data/lineage-live-full-edges.csv.gz",
+      "bytes": 112916,
+      "sha256": "3aa6fc072ff6e4cd11ba771e0cf06c12cde3def2121c6b331c823ee0f86ff67f",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/52/data/lineage-live-full-nodes.csv.gz",
+      "bytes": 239950,
+      "sha256": "3bc228bef02ae97723ec0be87535be61e1c360766de9b8b8bbcd8e529ff167e5",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/52/data/lineage-live-provenance.json",
+      "bytes": 3861,
+      "sha256": "388ba7f0b2c20c25da478a5852142735a7a236c33863a417446ebf460a7cde74",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/52/data/network.json.gz",
+      "bytes": 415782,
+      "sha256": "f36c30f17352255b99680c2b3cd3002330b04b0a1cdec9abd4bb3c79a4604327",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/cases.json",
+      "bytes": 13947,
+      "sha256": "467c4e9d7a379bc2cff1e05afaa4950b45b264da8c46aa9da92f69a389263cd4",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/chart_data/fixed_cases4.csv",
+      "bytes": 1464,
+      "sha256": "b698481ff9f835796fcf16748bee0a3d3ce7fa217f7d01a342522c2116fd981f",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/chart_data/fixed_cases_modelrank_history.csv",
+      "bytes": 3352,
+      "sha256": "e62371724bea45f38447b9e375d8d453320f5f6792c974618938e64409d23fca",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/chart_data/modelrank_august_exact_matches38.csv",
+      "bytes": 2331,
+      "sha256": "ae567d695df9180447c01fe555d4b230f897dc4904127d01659a782f2e21112f",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/chart_data/modelrank_matches38_monthly_history.csv",
+      "bytes": 18565,
+      "sha256": "75be7cc0457468d2da8ccb669fd3306a3a63ba135582f14526535256363da14a",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/chart_data/modelrank_monthly_match_counts.csv",
+      "bytes": 562,
+      "sha256": "0dc2fbdf5f496e8879a4eae0ff0b121182d3c9574fdf5c6841f11bc55b755712",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/chart_data/platform884_countries.csv",
+      "bytes": 1774,
+      "sha256": "3462e0f83ae03cd2eaa88b95645ae93f3be53e2fc8c68161103949d98909ae1d",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/chart_data/platform884_country_by_type.csv",
+      "bytes": 3530,
+      "sha256": "585c4be45dd61e65d7a9c22083578638896af9b768a9b56a92b918df2da51f74",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/chart_data/platform884_level_matrix.csv",
+      "bytes": 214,
+      "sha256": "26a733aecc1e9f808b67dd5f8090642165c8e3cd5143694d6d5c5bdd9810ad6e",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/chart_data/platform884_license_grade_differences22.csv",
+      "bytes": 7109,
+      "sha256": "fe5918310f95b9579c52e0b7214471af216363175e807ab347108804c2ab149e",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/chart_data/platform884_publisher_geography.csv",
+      "bytes": 20580,
+      "sha256": "ed72bb0caf287cc9e493f891a76efcbd9089a310fa90d40e4bef69678ac0b6f9",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/chart_data/platform884_publisher_types.csv",
+      "bytes": 493,
+      "sha256": "8cbbe917789c956b93ac5656dc925ba1071f70b3823d70f6e34875558450608c",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/chart_data/platform884_qualification_exception1.csv",
+      "bytes": 563,
+      "sha256": "bd552864c50edfa09b553a6fa05117dd4b4e2feb9bc44bf7fd480316bfb3cbe8",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/chart_data/platform884_records.csv",
+      "bytes": 170696,
+      "sha256": "77da5b4b48ddae2b32a13ef62753a488f75c9f67dd26922153a6f3cdf79bd11b",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/chart_data/report870_publisher_types.csv",
+      "bytes": 551,
+      "sha256": "96cb1232b84af2d0a340027b652d675609cd5a9b94fed19ca87a61da9276e527",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/chart_data/report870_quadrants.csv",
+      "bytes": 327,
+      "sha256": "c0fdc460b53cc65e9483128d0242a454a37468fd8cdbc9715c5495ddff242b57",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/chart_data/report870_regions.csv",
+      "bytes": 742,
+      "sha256": "3c76a79f34896711e713ef4e467a549b52445771236e23f626e698fe52ec4f69",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/cmap-data.json",
+      "bytes": 75455,
+      "sha256": "5c7d6ded5cb704037b37d90ca5c172f7901a1905faff0e9cc2da488a6c7c589a",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/content.json",
+      "bytes": 10157,
+      "sha256": "99e27c0a9d9a9291f2e83a812f34d0186e96d41cc97cff83c6822dc2d17077f6",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/fig-5-3-1_openness_quadrants.csv",
+      "bytes": 208,
+      "sha256": "faa29a52488561319476c54b94728751b34e11bcfdf87368ed4cb813fd9e389e",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/fig-5-3-2_openness_region_structure.csv",
+      "bytes": 337,
+      "sha256": "7647863d7843514a5c790f24d39310196103a22927f71cb4c4262622a38d7a3b",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/fig-5-3-3_openness_publisher_types.csv",
+      "bytes": 237,
+      "sha256": "94d63f011007a6c499a08cf946ecb1b6beb98b65a4183c1e7ae37cfc1846be35",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/map-geometry.json",
+      "bytes": 672394,
+      "sha256": "586ffb51e43854a290fce46035dd9f7f28893dd0100d42853e415ee958b15512",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/modelrank/manifest.json",
+      "bytes": 4276,
+      "sha256": "e958cd6099cdc3ebdc086174ecb3a694421e5c8fdd4b297f44f50abddf9a8312",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/modelrank/model-rankings-snapshot.json",
+      "bytes": 855105,
+      "sha256": "bf96a88e7046074747b258cfe9a24adb50ac78ed3a251fd129a8032c43735e64",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/modelrank/modelrank-2025-09-top100.raw.json",
+      "bytes": 30409,
+      "sha256": "36269432ba7e22056c6d1b8d4b59915a2f335e978480bbbdd1273d7eb222738e",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/modelrank/modelrank-2025-10-top100.raw.json",
+      "bytes": 30309,
+      "sha256": "62c286db4f4acc199d18d89fe858389c431dd728e8ba62d4b7595ddf99e0bc88",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/modelrank/modelrank-2025-11-top100.raw.json",
+      "bytes": 30278,
+      "sha256": "29e54a9e97822d6bd94aa05fa687fed9b020fee97be00f40f02acc51a0377dbe",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/modelrank/modelrank-2025-12-top100.raw.json",
+      "bytes": 30328,
+      "sha256": "1eb44ec5c76c50298c0d479736df059adb4d50db66dd6ab8384089b9d56ab36e",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/modelrank/modelrank-2026-01-top100.raw.json",
+      "bytes": 30353,
+      "sha256": "8345f23f14afc2acb5124ad920f3ed4dbbb50347a0681d9cc6f7f1662bff8316",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/modelrank/modelrank-2026-02-top100.raw.json",
+      "bytes": 30224,
+      "sha256": "09f0c4f26fbf3f926fe270589c577e4802256da59b02ea15f28ca191963e11ff",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/modelrank/modelrank-2026-03-top100.raw.json",
+      "bytes": 30442,
+      "sha256": "03bc972049e52f3bb57d771eeaf674605c60c42bc2b077e7dd64adb570a7d154",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/modelrank/modelrank-2026-04-top100.raw.json",
+      "bytes": 30369,
+      "sha256": "0052ce1a8b8a2ea0cfbfce32f7da1e33ab29a5a09bf9c825f5dee83f46438f03",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/modelrank/modelrank-2026-05-top100.raw.json",
+      "bytes": 30334,
+      "sha256": "36f7704fb3ccd214d7cf3f37e70990dadc39834f2545929e3ef466b65b5718ea",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/modelrank/modelrank-2026-06-top100.raw.json",
+      "bytes": 30508,
+      "sha256": "cb55838de24913fb87315c217eaad0b6c6ad6e0f25d3a51347611857041e045b",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/modelrank/modelrank-2026-07-top100.raw.json",
+      "bytes": 30357,
+      "sha256": "5bc8f015ffa9763496ac32f2bd0b5715c991033b1bae31816a5c0ed11dbbb9e0",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/modelrank/modelrank-2026-08-top100.raw.json",
+      "bytes": 30330,
+      "sha256": "5dcf7b339daffd7c970b2a96797226ec0dc7d272cb6222f2cc2eeaaa19714141",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/openness-current.json.gz",
+      "bytes": 60192,
+      "sha256": "28edf24dcfc17dad588ce48d02066e94175ffa6dcc0be92879a6aa3e7e19d297",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/openness-evidence-884.json.gz",
+      "bytes": 362618,
+      "sha256": "5995fc3a16db1e0db13f2aeebba96b15c07eff8642ba38a3444d71ab9c759ec5",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/openness-method.json",
+      "bytes": 4815,
+      "sha256": "2b3cb6a5c5cc38e656dfbb80dca5bfecfd01e94ebc506032fd764b063a3736b2",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/openness53-methods.md",
+      "bytes": 6740,
+      "sha256": "80577c8fb0f8c42a745e016ee1211352d0d55d1c6880d3b6f87d91f654ecd532",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/openness53.json",
+      "bytes": 628106,
+      "sha256": "dce1a49cf48695bd5d3484ab5f0900a67e5f7381da9181268fbee89f2763eb6a",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/source_manifest.json",
+      "bytes": 27923,
+      "sha256": "a8dc29b9dc8873addd54d353dec3a35a2a0f1e4455d2bab36e55a06e15154daf",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/standard-publication.json",
+      "bytes": 503,
+      "sha256": "35b91a43c954a181b538c513db0f269284279851dae000049bd1fa42f7d6a130",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "inputs/53/data/standard-requirements.json",
+      "bytes": 4552,
+      "sha256": "c899cd0d20378d6a7c575d7d982fdc69d50396b4d2d61e97df0ef96c65e6577e",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "layout.sty",
+      "bytes": 3270,
+      "sha256": "c3fd3f5ab894f1a89407fedf218b6c1cfe5d098473d1f73ddca5539ed027f3e6",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "legacy51.py",
+      "bytes": 16901,
+      "sha256": "f7a92c3c4135144f05636ed16a16f762df23ece71f4e8f9979676705ad49f2a9",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "legacy52.py",
+      "bytes": 18748,
+      "sha256": "7910901564d192a6ef220c4379dbb02f413de665099b3b027e3a5b99f2763d76",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "package_review_v2.py",
+      "bytes": 4939,
+      "sha256": "b1a35d27a403e7596ccd47ce78082c73f0990ca5ac3f04ec507be209d31c7969",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "provenance/baseline-review.md",
+      "bytes": 3670,
+      "sha256": "504743ede0f0cc96a9edfdcbea29fc8827931c079eee544a8b8e3e282fcf8e8f",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "provenance/claims-map-latest.md",
+      "bytes": 8523,
+      "sha256": "fab5c269cff632243f5727e0ebda6ccaef34f7d38aaf34c7474b195e5a8a8a7a",
+      "source": "https://github.com/will-ww/2026-GOSD-Report/blob/main/editions/insights/claims-map.md"
+    },
+    {
+      "path": "provenance/constitution-latest.md",
+      "bytes": 4980,
+      "sha256": "ef15497f6e5139ecc553bce922e3d0e3095c49e97362e5e163df6d454e273b45",
+      "source": "https://github.com/will-ww/2026-GOSD-Report/blob/main/editions/insights/constitution.md"
+    },
+    {
+      "path": "provenance/fresh-management-reads.json",
+      "bytes": 3839,
+      "sha256": "9de75340d7632e0b5f84a62a395e9e6c2dd83582072604a70c4e2cef2fc6c3d0",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "provenance/material-inventory-latest.md",
+      "bytes": 10960,
+      "sha256": "79acb366f70c9896ee8b3a03675cab9ba4ad1487c2a29c3078d913dabd76eb44",
+      "source": "https://github.com/will-ww/2026-GOSD-Report/blob/main/docs/material-inventory.md"
+    },
+    {
+      "path": "provenance/readable-content-review.md",
+      "bytes": 2396,
+      "sha256": "9bd39c3ab1e7bced46c8bb17631f6f94c63281e2b977b0ad09b8ae924ffb8323",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "provenance/report-constitution-latest.md",
+      "bytes": 14486,
+      "sha256": "1de8179ad52e7640fab97c27f270bd3af156096f242793bfb4b0979143f3feeb",
+      "source": "https://github.com/will-ww/2026-GOSD-Report/blob/main/docs/report-constitution.md"
+    },
+    {
+      "path": "render_v2.py",
+      "bytes": 12387,
+      "sha256": "56a3a5ad5e42a0247942c56072fdef07987b7007ff5613de0dc03760a84dc02e",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "report.tex",
+      "bytes": 42606,
+      "sha256": "b03afaf43860032824db500358b5cceeaf8d4f321a0278f52c4d476632ef54f6",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "review/data-qa-v0.2.json",
+      "bytes": 17051,
+      "sha256": "ce637a682da3787e7b0021f7901eb44bd93057d2680333ba2d47a774da603a3b",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "review/figure-qa.json",
+      "bytes": 802,
+      "sha256": "a38e5fb4c230dbfb887b80faabbb2c6c8bddf18ab9b78f08495d1db42fe74047",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "review/font-embedding-v0.2.txt",
+      "bytes": 2451,
+      "sha256": "657559aa8ba59eefc8550cb0eea2ba021671d19c6ad0cfda6679fc6f7e524093",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "review/pdf-qa-v0.2.json",
+      "bytes": 1060,
+      "sha256": "db8249b376e5f669d97fa3f9554dbf17868f144797d0be1a708fd20fc19ec4dc",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "validate_v2.py",
+      "bytes": 4560,
+      "sha256": "948583dc6e943f21bb7922dc7f11391c113f80a3e22c2d3935758419fffe3b00",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    },
+    {
+      "path": "write_content.py",
+      "bytes": 17375,
+      "sha256": "7078f4db5059c042e9a9310433218354db5172ae77aa9986d1336871a7e707ad",
+      "source": "Derived or frozen input; see references-v0.2.json and input source manifests"
+    }
+  ]
+}

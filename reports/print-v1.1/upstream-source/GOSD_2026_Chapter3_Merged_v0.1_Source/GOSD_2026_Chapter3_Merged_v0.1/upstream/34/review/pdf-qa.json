@@ -1,0 +1,40 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "a4_portrait": true,
+      "link_count": 22,
+      "text_outside_page": []
+    },
+    {
+      "page": 2,
+      "a4_portrait": true,
+      "link_count": 23,
+      "text_outside_page": []
+    },
+    {
+      "page": 3,
+      "a4_portrait": true,
+      "link_count": 2,
+      "text_outside_page": []
+    },
+    {
+      "page": 4,
+      "a4_portrait": true,
+      "link_count": 3,
+      "text_outside_page": []
+    },
+    {
+      "page": 5,
+      "a4_portrait": true,
+      "link_count": 6,
+      "text_outside_page": []
+    }
+  ],
+  "all_fonts_embedded": true,
+  "no_missing_glyphs": true,
+  "no_overfull_boxes": true,
+  "figure_text_overlap_count": 0,
+  "visual_review": "All five pages reviewed; final edits rechecked on pages 1, 4, 5.",
+  "sha256": "05f482cb23176cc7c61e5ae2c478ceb999e20e62aa2260508bb86d3cbc063aa8"
+}

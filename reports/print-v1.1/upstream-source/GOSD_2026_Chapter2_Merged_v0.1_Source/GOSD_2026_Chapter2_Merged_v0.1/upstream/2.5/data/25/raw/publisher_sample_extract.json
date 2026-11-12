@@ -1,0 +1,172 @@
+{
+  "source": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/amap/observations.json",
+  "original_git_blob_sha": "4bc5b482465cb17e34fab8bac1174f3503a9478d",
+  "extraction": "Only assets object transcribed from GitHub fetch_file lines 1–218; geometry omitted; not byte-identical to original.",
+  "snapshot": "Unspecified in source; cumulative publisher sample",
+  "assets": {
+    "models": {
+      "total": 72280,
+      "downloads": 60000691937,
+      "publishers": 826,
+      "regions": 63,
+      "downloadShares": {
+        "US": 73.9,
+        "CN": 12.6
+      },
+      "countries": [
+        {
+          "id": "US",
+          "name": "美国",
+          "count": 45801
+        },
+        {
+          "id": "CN",
+          "name": "中国",
+          "count": 6017
+        },
+        {
+          "id": "FR",
+          "name": "法国",
+          "count": 3166
+        },
+        {
+          "id": "DE",
+          "name": "德国",
+          "count": 2397
+        },
+        {
+          "id": "FI",
+          "name": "芬兰",
+          "count": 1749
+        },
+        {
+          "id": "GB",
+          "name": "英国",
+          "count": 1462
+        },
+        {
+          "id": "KR",
+          "name": "韩国",
+          "count": 1322
+        },
+        {
+          "id": "JP",
+          "name": "日本",
+          "count": 1246
+        },
+        {
+          "id": "SG",
+          "name": "新加坡",
+          "count": 1140
+        },
+        {
+          "id": "CA",
+          "name": "加拿大",
+          "count": 1106
+        },
+        {
+          "id": "ES",
+          "name": "西班牙",
+          "count": 877
+        },
+        {
+          "id": "BR",
+          "name": "巴西",
+          "count": 794
+        },
+        {
+          "id": "IN",
+          "name": "印度",
+          "count": 655
+        },
+        {
+          "id": "IE",
+          "name": "爱尔兰",
+          "count": 433
+        }
+      ]
+    },
+    "datasets": {
+      "total": 12291,
+      "downloads": 806478232,
+      "publishers": 826,
+      "regions": 63,
+      "downloadShares": {
+        "US": 82.6,
+        "CN": 4.7
+      },
+      "countries": [
+        {
+          "id": "US",
+          "name": "美国",
+          "count": 5871
+        },
+        {
+          "id": "CN",
+          "name": "中国",
+          "count": 1338
+        },
+        {
+          "id": "DE",
+          "name": "德国",
+          "count": 948
+        },
+        {
+          "id": "FR",
+          "name": "法国",
+          "count": 718
+        },
+        {
+          "id": "IE",
+          "name": "爱尔兰",
+          "count": 286
+        },
+        {
+          "id": "JP",
+          "name": "日本",
+          "count": 253
+        },
+        {
+          "id": "ES",
+          "name": "西班牙",
+          "count": 251
+        },
+        {
+          "id": "CA",
+          "name": "加拿大",
+          "count": 249
+        },
+        {
+          "id": "SG",
+          "name": "新加坡",
+          "count": 243
+        },
+        {
+          "id": "RU",
+          "name": "俄罗斯",
+          "count": 242
+        },
+        {
+          "id": "MY",
+          "name": "马来西亚",
+          "count": 206
+        },
+        {
+          "id": "GB",
+          "name": "英国",
+          "count": 156
+        },
+        {
+          "id": "KR",
+          "name": "韩国",
+          "count": 151
+        },
+        {
+          "id": "BR",
+          "name": "巴西",
+          "count": 121
+        }
+      ]
+    }
+  }
+}

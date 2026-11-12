@@ -1,0 +1,42 @@
+[
+  {
+    "file": "appendix.pdf",
+    "bytes": 564494,
+    "sha256": "a6090a9c3146fee2f24a704d07011490592dc7639331b65d73cc52aa31202c40"
+  },
+  {
+    "file": "chapter1.pdf",
+    "bytes": 6862510,
+    "sha256": "e7c2f49c480caa3d60ae09b9c023be67846616e2b573b3e9bb34d8101d5fb3ac"
+  },
+  {
+    "file": "chapter2.pdf",
+    "bytes": 4996894,
+    "sha256": "1a33e575858e10997015eaf852749795296f55ec6070e78a9873eb368a6b997c"
+  },
+  {
+    "file": "chapter3.pdf",
+    "bytes": 23140721,
+    "sha256": "e68aca8bc54e5dc7e08db6456c5b2539fa13f9b24fb010e813022cdceebd14d3"
+  },
+  {
+    "file": "chapter4.pdf",
+    "bytes": 14944882,
+    "sha256": "bc431f98e01def4e470fd99897effabd1314fbc64216b17aa9ff74cc6d48baee"
+  },
+  {
+    "file": "chapter5.pdf",
+    "bytes": 10348111,
+    "sha256": "7a086caee9708a0fa159be189fafbfa1e6f38d23b64ae71f59db27227fe6d442"
+  },
+  {
+    "file": "chapter6.pdf",
+    "bytes": 741939,
+    "sha256": "bedc3c13115544cd7b6307ff9c8852cf70c5469954809157fc3552eaa9d2f41f"
+  },
+  {
+    "file": "figure5-1.pdf",
+    "bytes": 1286158,
+    "sha256": "aa7ea2f2f3dc06d958fde32e6d58f5714a9ee2b89e4396334f248fb748a91f78"
+  }
+]

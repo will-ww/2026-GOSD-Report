@@ -1,0 +1,44 @@
+[
+  {
+    "source": "ATOM Report v1, 2026-04-08",
+    "url": "https://arxiv.org/html/2604.07190v1",
+    "window": "2023-11 to 2026-03",
+    "sample": "约1500个重点开放权重语言模型；衍生模型筛选与本节不同",
+    "facts": {
+      "qwen_under10B_download_share": 44,
+      "deepseek_250Bplus_download_share": 47,
+      "deepseek_openrouter_token_share_2026_01": 31.1
+    },
+    "locator": "Figure 12; Figure 9; §2.1 and §5.1",
+    "limits": "OpenRouter只覆盖逐月前十开放模型；下载不等于独立用户；仅引用研究原值，未重新计算。"
+  },
+  {
+    "source": "HF Summer 2026, fixed 2026-08-17 version",
+    "url": "https://github.com/huggingface/blog/blob/9e982d5f2ff0c93248a897bf1e0c59c9828c5ab8/state-of-open-models-summer-2026.md",
+    "window": "2026年1—7月活动，8月补充发布；本节使用文中累计库存观察",
+    "facts": {
+      "qwen_derivatives": 151448,
+      "qwen_gguf_conversions": 28531,
+      "qwen_official_gguf": 54,
+      "non_qwen_gguf": 28477
+    },
+    "locator": "§4",
+    "limits": "衍生仓库不是独立原创模型、用户或部署；GGUF转换数与总衍生数不相加。"
+  },
+  {
+    "source": "DeepSeek R1 official model card",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+    "facts": {
+      "distills_qwen": 4,
+      "distills_llama": 2
+    },
+    "locator": "§3 Model Downloads",
+    "limits": "基础权重继承与推理样本传递分开表达，不把蒸馏画成R1权重缩小。"
+  },
+  {
+    "source": "DeepSeek R1 0528 official model card",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B",
+    "fact": "DeepSeek-R1-0528的思维链样本用于后训练Qwen3-8B-Base",
+    "locator": "§2 DeepSeek-R1-0528-Qwen3-8B"
+  }
+]

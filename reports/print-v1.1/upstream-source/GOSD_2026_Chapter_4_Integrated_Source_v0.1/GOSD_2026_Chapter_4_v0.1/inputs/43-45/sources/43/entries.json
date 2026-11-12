@@ -1,0 +1,694 @@
+[
+  {
+    "id": "podman",
+    "name": "Podman",
+    "repo": "podman-container-tools/podman",
+    "url": "https://github.com/podman-container-tools/podman",
+    "group_id": "development",
+    "group_name": "应用与开发",
+    "category_id": "application_definition_and_image_build",
+    "category_name": "应用定义与镜像构建",
+    "full_tags": [
+      "application_definition_and_image_build"
+    ],
+    "maintainer": "Podman 社区 / containers",
+    "source_record": {
+      "id": "109145553",
+      "name": "podman",
+      "repo": "podman-container-tools/podman",
+      "owner": "podman-container-tools",
+      "url": "https://github.com/podman-container-tools/podman",
+      "category": "application_definition_and_image_build",
+      "tags": [
+        "application_definition_and_image_build"
+      ],
+      "value": 1281.5991744995117,
+      "description": "把代码和依赖组织成可交付的应用与镜像。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/application_definition_and_image_build.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/application_definition_and_image_build.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    "logo": {
+      "kind": "project",
+      "source_url": "https://raw.githubusercontent.com/cncf/artwork/bffd512a8b625f15cf5f8e0427469380b5768e90/projects/podman-container-tools/icon/color/podman-icon-color.svg",
+      "source_name": "CNCF artwork",
+      "svg_path": "/workspace/shared/gosd43/logos/podman.svg",
+      "png_path": "/workspace/shared/gosd43/logos/podman.png",
+      "sha256": "e586b84c95b8afd3f91e48b3ac75c653a57d89bd86b25119e5c2fcb592fd9417",
+      "retrieved_at": "2026-11-10",
+      "note": "项目标识；图形只作身份识别，不暗示官方背书。"
+    }
+  },
+  {
+    "id": "kafka",
+    "name": "Apache Kafka",
+    "repo": "apache/kafka",
+    "url": "https://github.com/apache/kafka",
+    "group_id": "development",
+    "group_name": "应用与开发",
+    "category_id": "streaming_and_messaging",
+    "category_name": "流与消息",
+    "full_tags": [
+      "streaming_and_messaging"
+    ],
+    "maintainer": "Apache Software Foundation",
+    "source_record": {
+      "id": "2211243",
+      "name": "kafka",
+      "repo": "apache/kafka",
+      "owner": "apache",
+      "url": "https://github.com/apache/kafka",
+      "category": "streaming_and_messaging",
+      "tags": [
+        "streaming_and_messaging"
+      ],
+      "value": 1376.2427597045898,
+      "description": "支持消息传递、流式计算与数据集成。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    "logo": {
+      "kind": "project",
+      "source_url": "https://raw.githubusercontent.com/cncf/landscape/278d59082b41d2453a7717532162d24def1ffdef/hosted_logos/apache-kafka.svg",
+      "source_name": "CNCF Landscape hosted artwork",
+      "svg_path": "/workspace/shared/gosd43/logos/kafka.svg",
+      "png_path": "/workspace/shared/gosd43/logos/kafka.png",
+      "sha256": "e10abf6cd578d45588e09de249108f0ac358df470b45c191d5e669add082c66d",
+      "retrieved_at": "2026-11-10",
+      "note": "项目标识；图形只作身份识别，不暗示官方背书。"
+    }
+  },
+  {
+    "id": "spark",
+    "name": "Apache Spark",
+    "repo": "apache/spark",
+    "url": "https://github.com/apache/spark",
+    "group_id": "development",
+    "group_name": "应用与开发",
+    "category_id": "streaming_and_messaging",
+    "category_name": "流与消息",
+    "full_tags": [
+      "streaming_and_messaging"
+    ],
+    "maintainer": "Apache Software Foundation",
+    "source_record": {
+      "id": "17165658",
+      "name": "spark",
+      "repo": "apache/spark",
+      "owner": "apache",
+      "url": "https://github.com/apache/spark",
+      "category": "streaming_and_messaging",
+      "tags": [
+        "streaming_and_messaging"
+      ],
+      "value": 1744.142333984375,
+      "description": "支持消息传递、流式计算与数据集成。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/streaming_and_messaging.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    "logo": {
+      "kind": "project",
+      "source_url": "https://raw.githubusercontent.com/cncf/landscape/278d59082b41d2453a7717532162d24def1ffdef/hosted_logos/apache-spark.svg",
+      "source_name": "CNCF Landscape hosted artwork",
+      "svg_path": "/workspace/shared/gosd43/logos/spark.svg",
+      "png_path": "/workspace/shared/gosd43/logos/spark.png",
+      "sha256": "a3b3702e2fbc2e67b0c13594560e79fa1c40a5208d4a40a2039c3e876d6e1bb9",
+      "retrieved_at": "2026-11-10",
+      "note": "项目标识；图形只作身份识别，不暗示官方背书。"
+    }
+  },
+  {
+    "id": "tidb",
+    "name": "TiDB",
+    "repo": "pingcap/tidb",
+    "url": "https://github.com/pingcap/tidb",
+    "group_id": "development",
+    "group_name": "应用与开发",
+    "category_id": "database",
+    "category_name": "数据库",
+    "full_tags": [
+      "database"
+    ],
+    "maintainer": "PingCAP / TiDB 社区",
+    "source_record": {
+      "id": "41986369",
+      "name": "tidb",
+      "repo": "pingcap/tidb",
+      "owner": "pingcap",
+      "url": "https://github.com/pingcap/tidb",
+      "category": "database",
+      "tags": [
+        "database"
+      ],
+      "value": 1324.3613471984863,
+      "description": "为云应用提供数据存储与查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/app_definition_and_development/database.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    "logo": {
+      "kind": "project",
+      "source_url": "https://raw.githubusercontent.com/cncf/landscape/278d59082b41d2453a7717532162d24def1ffdef/hosted_logos/tidb.svg",
+      "source_name": "CNCF Landscape hosted artwork",
+      "svg_path": "/workspace/shared/gosd43/logos/tidb.svg",
+      "png_path": "/workspace/shared/gosd43/logos/tidb.png",
+      "sha256": "d8bb800a7abe7a20a6d334431726ecf7fd356dce2f2c4a61b2d9d097af66c2a0",
+      "retrieved_at": "2026-11-10",
+      "note": "项目标识；图形只作身份识别，不暗示官方背书。"
+    }
+  },
+  {
+    "id": "envoy",
+    "name": "Envoy",
+    "repo": "envoyproxy/envoy",
+    "url": "https://github.com/envoyproxy/envoy",
+    "group_id": "runtime",
+    "group_name": "编排与运行",
+    "category_id": "service_proxy",
+    "category_name": "服务代理",
+    "full_tags": [
+      "service_proxy"
+    ],
+    "maintainer": "Envoy 社区 / CNCF",
+    "source_record": {
+      "id": "65214191",
+      "name": "envoy",
+      "repo": "envoyproxy/envoy",
+      "owner": "envoyproxy",
+      "url": "https://github.com/envoyproxy/envoy",
+      "category": "service_proxy",
+      "tags": [
+        "service_proxy"
+      ],
+      "value": 1276.7700233459473,
+      "description": "代理应用流量与服务通信。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/service_proxy.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/service_proxy.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    "logo": {
+      "kind": "project",
+      "source_url": "https://raw.githubusercontent.com/cncf/artwork/bffd512a8b625f15cf5f8e0427469380b5768e90/projects/envoy/icon/color/envoy-icon-color.svg",
+      "source_name": "CNCF artwork",
+      "svg_path": "/workspace/shared/gosd43/logos/envoy.svg",
+      "png_path": "/workspace/shared/gosd43/logos/envoy.png",
+      "sha256": "df8b8caf4cf8763be5932dc58d7272c03e50fc4dcfdf7eaee4a28a34d6ac5b7d",
+      "retrieved_at": "2026-11-10",
+      "note": "项目标识；图形只作身份识别，不暗示官方背书。"
+    }
+  },
+  {
+    "id": "apisix",
+    "name": "Apache APISIX",
+    "repo": "apache/apisix",
+    "url": "https://github.com/apache/apisix",
+    "group_id": "runtime",
+    "group_name": "编排与运行",
+    "category_id": "api_gateway",
+    "category_name": "API 网关",
+    "full_tags": [
+      "api_gateway"
+    ],
+    "maintainer": "Apache Software Foundation",
+    "source_record": {
+      "id": "180481986",
+      "name": "apisix",
+      "repo": "apache/apisix",
+      "owner": "apache",
+      "url": "https://github.com/apache/apisix",
+      "category": "api_gateway",
+      "tags": [
+        "api_gateway"
+      ],
+      "value": 322.8240633010864,
+      "description": "管理服务入口、API 路由与访问。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/api_gateway.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/api_gateway.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    "logo": {
+      "kind": "project",
+      "source_url": "https://raw.githubusercontent.com/cncf/landscape/278d59082b41d2453a7717532162d24def1ffdef/hosted_logos/apisix.svg",
+      "source_name": "CNCF Landscape hosted artwork",
+      "svg_path": "/workspace/shared/gosd43/logos/apisix.svg",
+      "png_path": "/workspace/shared/gosd43/logos/apisix.png",
+      "sha256": "9721fbfce22f231a454b5e7ee30bda0abcbe480fb5e6c6adcb09190ceb4ea3bd",
+      "retrieved_at": "2026-11-10",
+      "note": "项目标识；图形只作身份识别，不暗示官方背书。"
+    }
+  },
+  {
+    "id": "calico",
+    "name": "Calico",
+    "repo": "projectcalico/calico",
+    "url": "https://github.com/projectcalico/calico",
+    "group_id": "runtime",
+    "group_name": "编排与运行",
+    "category_id": "cloud_native_network",
+    "category_name": "云原生网络",
+    "full_tags": [
+      "cloud_native_network"
+    ],
+    "maintainer": "Project Calico 社区 / Tigera",
+    "source_record": {
+      "id": "63882194",
+      "name": "calico",
+      "repo": "projectcalico/calico",
+      "owner": "projectcalico",
+      "url": "https://github.com/projectcalico/calico",
+      "category": "cloud_native_network",
+      "tags": [
+        "cloud_native_network"
+      ],
+      "value": 583.4356880187988,
+      "description": "为云原生工作负载提供网络连接。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/runtime/cloud_native_network.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/runtime/cloud_native_network.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    "logo": {
+      "kind": "project",
+      "source_url": "https://raw.githubusercontent.com/cncf/landscape/278d59082b41d2453a7717532162d24def1ffdef/hosted_logos/project-calico.svg",
+      "source_name": "CNCF Landscape hosted artwork",
+      "svg_path": "/workspace/shared/gosd43/logos/calico.svg",
+      "png_path": "/workspace/shared/gosd43/logos/calico.png",
+      "sha256": "11adda174b898dcf3a930af1968361297f902c3494caeff668d534f8835feaf8",
+      "retrieved_at": "2026-11-10",
+      "note": "项目标识；图形只作身份识别，不暗示官方背书。"
+    }
+  },
+  {
+    "id": "volcano",
+    "name": "Volcano",
+    "repo": "volcano-sh/volcano",
+    "url": "https://github.com/volcano-sh/volcano",
+    "group_id": "runtime",
+    "group_name": "编排与运行",
+    "category_id": "scheduling_and_orchestration",
+    "category_name": "调度与编排",
+    "full_tags": [
+      "scheduling_and_orchestration"
+    ],
+    "maintainer": "Volcano 社区 / CNCF",
+    "source_record": {
+      "id": "175592968",
+      "name": "volcano",
+      "repo": "volcano-sh/volcano",
+      "owner": "volcano-sh",
+      "url": "https://github.com/volcano-sh/volcano",
+      "category": "scheduling_and_orchestration",
+      "tags": [
+        "scheduling_and_orchestration"
+      ],
+      "value": 304.89851570129395,
+      "description": "组织工作负载的调度与生命周期。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/scheduling_and_orchestration.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/orchestration_and_management/scheduling_and_orchestration.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    "logo": {
+      "kind": "project",
+      "source_url": "https://raw.githubusercontent.com/cncf/artwork/bffd512a8b625f15cf5f8e0427469380b5768e90/projects/volcano/icon/color/volcano-icon-color.svg",
+      "source_name": "CNCF artwork",
+      "svg_path": "/workspace/shared/gosd43/logos/volcano.svg",
+      "png_path": "/workspace/shared/gosd43/logos/volcano.png",
+      "sha256": "075eeffa31dd42f8b88b3d6a433eb860c5a0a67ca93d2779ce0edafd96086069",
+      "retrieved_at": "2026-11-10",
+      "note": "项目标识；图形只作身份识别，不暗示官方背书。"
+    }
+  },
+  {
+    "id": "keycloak",
+    "name": "Keycloak",
+    "repo": "keycloak/keycloak",
+    "url": "https://github.com/keycloak/keycloak",
+    "group_id": "provisioning",
+    "group_name": "资源与安全",
+    "category_id": "key_management",
+    "category_name": "密钥管理",
+    "full_tags": [
+      "key_management",
+      "security_and_compliance"
+    ],
+    "maintainer": "Keycloak 社区 / CNCF",
+    "source_record": {
+      "id": "11125589",
+      "name": "keycloak",
+      "repo": "keycloak/keycloak",
+      "owner": "keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "category": "key_management",
+      "tags": [
+        "key_management",
+        "security_and_compliance"
+      ],
+      "value": 1568.3112487792969,
+      "description": "管理密钥、身份和访问相关能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/key_management.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/key_management.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    "logo": {
+      "kind": "project",
+      "source_url": "https://raw.githubusercontent.com/cncf/artwork/bffd512a8b625f15cf5f8e0427469380b5768e90/projects/keycloak/icon/color/keycloak-icon-color.svg",
+      "source_name": "CNCF artwork",
+      "svg_path": "/workspace/shared/gosd43/logos/keycloak.svg",
+      "png_path": "/workspace/shared/gosd43/logos/keycloak.png",
+      "sha256": "488472bcd75c7cfe6442c8f2248cf0d7cb57d3faed00be9b59e1744a8cbd2ad2",
+      "retrieved_at": "2026-11-10",
+      "note": "项目标识；图形只作身份识别，不暗示官方背书。"
+    }
+  },
+  {
+    "id": "pulumi",
+    "name": "Pulumi",
+    "repo": "pulumi/pulumi",
+    "url": "https://github.com/pulumi/pulumi",
+    "group_id": "provisioning",
+    "group_name": "资源与安全",
+    "category_id": "automation_and_configuration",
+    "category_name": "自动化与配置",
+    "full_tags": [
+      "automation_and_configuration"
+    ],
+    "maintainer": "Pulumi 社区 / Pulumi",
+    "source_record": {
+      "id": "72477752",
+      "name": "pulumi",
+      "repo": "pulumi/pulumi",
+      "owner": "pulumi",
+      "url": "https://github.com/pulumi/pulumi",
+      "category": "automation_and_configuration",
+      "tags": [
+        "automation_and_configuration"
+      ],
+      "value": 904.6984100341797,
+      "description": "自动化部署、配置与基础设施管理。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/automation_and_configuration.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/automation_and_configuration.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    "logo": {
+      "kind": "project",
+      "source_url": "https://raw.githubusercontent.com/cncf/landscape/278d59082b41d2453a7717532162d24def1ffdef/hosted_logos/pulumi.svg",
+      "source_name": "CNCF Landscape hosted artwork",
+      "svg_path": "/workspace/shared/gosd43/logos/pulumi.svg",
+      "png_path": "/workspace/shared/gosd43/logos/pulumi.png",
+      "sha256": "f877a450499578881e18a3f2558d29de4bf63dd8bdec60aa06d462e7db3e40c0",
+      "retrieved_at": "2026-11-10",
+      "note": "项目标识；图形只作身份识别，不暗示官方背书。"
+    }
+  },
+  {
+    "id": "tetragon",
+    "name": "Tetragon",
+    "repo": "cilium/tetragon",
+    "url": "https://github.com/cilium/tetragon",
+    "group_id": "provisioning",
+    "group_name": "资源与安全",
+    "category_id": "security_and_compliance",
+    "category_name": "安全与合规",
+    "full_tags": [
+      "security_and_compliance",
+      "cloud_native_network"
+    ],
+    "maintainer": "Cilium 社区 / CNCF",
+    "source_record": {
+      "id": "473137633",
+      "name": "tetragon",
+      "repo": "cilium/tetragon",
+      "owner": "cilium",
+      "url": "https://github.com/cilium/tetragon",
+      "category": "security_and_compliance",
+      "tags": [
+        "security_and_compliance",
+        "cloud_native_network"
+      ],
+      "value": 492.51231384277344,
+      "description": "支持安全检测、策略与访问控制。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/security_and_compliance.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/provisioning/security_and_compliance.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    "logo": {
+      "kind": "project",
+      "source_url": "https://raw.githubusercontent.com/cncf/landscape/278d59082b41d2453a7717532162d24def1ffdef/hosted_logos/tetragon-logo-wormark.svg",
+      "source_name": "CNCF Landscape hosted artwork",
+      "svg_path": "/workspace/shared/gosd43/logos/tetragon.svg",
+      "png_path": "/workspace/shared/gosd43/logos/tetragon.png",
+      "sha256": "45a4c4f2ebd1f88387c1db963b23fe4bdf6107b73de3ee86981f71337dc974e3",
+      "retrieved_at": "2026-11-10",
+      "note": "项目标识；图形只作身份识别，不暗示官方背书。"
+    }
+  },
+  {
+    "id": "k3s",
+    "name": "K3s",
+    "repo": "k3s-io/k3s",
+    "url": "https://github.com/k3s-io/k3s",
+    "group_id": "provisioning",
+    "group_name": "资源与安全",
+    "category_id": "certified_kubernetes_distribution",
+    "category_name": "K8s 发行版认证",
+    "full_tags": [
+      "certified_kubernetes_distribution"
+    ],
+    "maintainer": "K3s 社区 / CNCF",
+    "source_record": {
+      "id": "135516270",
+      "name": "k3s",
+      "repo": "k3s-io/k3s",
+      "owner": "k3s-io",
+      "url": "https://github.com/k3s-io/k3s",
+      "category": "certified_kubernetes_distribution",
+      "tags": [
+        "certified_kubernetes_distribution"
+      ],
+      "value": 252.01645183563232,
+      "description": "保留来源中的 Kubernetes 发行版分类；本图不重新认证。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/certified_kubernetes_distribution.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/platform/certified_kubernetes_distribution.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    "logo": {
+      "kind": "project",
+      "source_url": "https://raw.githubusercontent.com/cncf/artwork/bffd512a8b625f15cf5f8e0427469380b5768e90/projects/k3s/icon/color/k3s-icon-color.svg",
+      "source_name": "CNCF artwork",
+      "svg_path": "/workspace/shared/gosd43/logos/k3s.svg",
+      "png_path": "/workspace/shared/gosd43/logos/k3s.png",
+      "sha256": "c6231341ab65571c02701703e627875b6f426ed819aad5f263f1ea8c18b8af09",
+      "retrieved_at": "2026-11-10",
+      "note": "项目标识；图形只作身份识别，不暗示官方背书。"
+    }
+  },
+  {
+    "id": "grafana",
+    "name": "Grafana",
+    "repo": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "group_id": "operations",
+    "group_name": "观测与扩展",
+    "category_id": "observability",
+    "category_name": "可观测性",
+    "full_tags": [
+      "observability"
+    ],
+    "maintainer": "Grafana Labs / Grafana 社区",
+    "source_record": {
+      "id": "15111821",
+      "name": "grafana",
+      "repo": "grafana/grafana",
+      "owner": "grafana",
+      "url": "https://github.com/grafana/grafana",
+      "category": "observability",
+      "tags": [
+        "observability"
+      ],
+      "value": 4260.528045654297,
+      "description": "通过指标、日志、追踪等信号理解系统状态。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    "logo": {
+      "kind": "project",
+      "source_url": "https://raw.githubusercontent.com/cncf/landscape/278d59082b41d2453a7717532162d24def1ffdef/hosted_logos/grafana.svg",
+      "source_name": "CNCF Landscape hosted artwork",
+      "svg_path": "/workspace/shared/gosd43/logos/grafana.svg",
+      "png_path": "/workspace/shared/gosd43/logos/grafana.png",
+      "sha256": "0c06806a817403db88d14463677432c39de55214cd1a32b4dbdde62c833c8736",
+      "retrieved_at": "2026-11-10",
+      "note": "项目标识；图形只作身份识别，不暗示官方背书。"
+    }
+  },
+  {
+    "id": "loki",
+    "name": "Loki",
+    "repo": "grafana/loki",
+    "url": "https://github.com/grafana/loki",
+    "group_id": "operations",
+    "group_name": "观测与扩展",
+    "category_id": "observability",
+    "category_name": "可观测性",
+    "full_tags": [
+      "observability"
+    ],
+    "maintainer": "Grafana Labs / Loki 社区",
+    "source_record": {
+      "id": "129717717",
+      "name": "loki",
+      "repo": "grafana/loki",
+      "owner": "grafana",
+      "url": "https://github.com/grafana/loki",
+      "category": "observability",
+      "tags": [
+        "observability"
+      ],
+      "value": 864.400505065918,
+      "description": "通过指标、日志、追踪等信号理解系统状态。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/observability_and_analysis/observability.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    "logo": {
+      "kind": "project",
+      "source_url": "https://raw.githubusercontent.com/cncf/landscape/278d59082b41d2453a7717532162d24def1ffdef/hosted_logos/grafana-loki.svg",
+      "source_name": "CNCF Landscape hosted artwork",
+      "svg_path": "/workspace/shared/gosd43/logos/loki.svg",
+      "png_path": "/workspace/shared/gosd43/logos/loki.png",
+      "sha256": "cb7df268bbdd94cc81e743b8539b719ec843ad6850b0a7f89dcdb260bea62318",
+      "retrieved_at": "2026-11-10",
+      "note": "项目标识；图形只作身份识别，不暗示官方背书。"
+    }
+  },
+  {
+    "id": "llvm",
+    "name": "LLVM",
+    "repo": "llvm/llvm-project",
+    "url": "https://github.com/llvm/llvm-project",
+    "group_id": "operations",
+    "group_name": "观测与扩展",
+    "category_id": "toolchain",
+    "category_name": "WASM 工具链",
+    "full_tags": [
+      "toolchain"
+    ],
+    "maintainer": "LLVM 社区 / LLVM Foundation",
+    "source_record": {
+      "id": "75821432",
+      "name": "llvm-project",
+      "repo": "llvm/llvm-project",
+      "owner": "llvm",
+      "url": "https://github.com/llvm/llvm-project",
+      "category": "toolchain",
+      "tags": [
+        "toolchain"
+      ],
+      "value": 18561.298889160156,
+      "description": "构建和编译 WebAssembly 相关软件。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/wasm/toolchain.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/wasm/toolchain.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    "logo": {
+      "kind": "project",
+      "source_url": "https://raw.githubusercontent.com/cncf/landscape/278d59082b41d2453a7717532162d24def1ffdef/hosted_logos/llvm.svg",
+      "source_name": "CNCF Landscape hosted artwork",
+      "svg_path": "/workspace/shared/gosd43/logos/llvm.svg",
+      "png_path": "/workspace/shared/gosd43/logos/llvm.png",
+      "sha256": "d6acaa26176560fe6b0045941ee100433c58d7fba443febd8bbe841c57cd1fc7",
+      "retrieved_at": "2026-11-10",
+      "note": "项目标识；图形只作身份识别，不暗示官方背书。"
+    }
+  },
+  {
+    "id": "wasmtime",
+    "name": "Wasmtime",
+    "repo": "bytecodealliance/wasmtime",
+    "url": "https://github.com/bytecodealliance/wasmtime",
+    "group_id": "operations",
+    "group_name": "观测与扩展",
+    "category_id": "runtime",
+    "category_name": "运行时",
+    "full_tags": [
+      "runtime"
+    ],
+    "maintainer": "Bytecode Alliance",
+    "source_record": {
+      "id": "101767772",
+      "name": "wasmtime",
+      "repo": "bytecodealliance/wasmtime",
+      "owner": "bytecodealliance",
+      "url": "https://github.com/bytecodealliance/wasmtime",
+      "category": "runtime",
+      "tags": [
+        "runtime"
+      ],
+      "value": 549.3502616882324,
+      "description": "执行 WebAssembly 模块。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/wasm/runtime.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/cloud_native/wasm/runtime.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    "logo": {
+      "kind": "organization",
+      "source_url": "https://wasmtime.dev/assets/images/bytecode-alliance-logo.svg",
+      "source_name": "Wasmtime 官方站引用的 Bytecode Alliance 标识",
+      "svg_path": "/workspace/shared/gosd43/logos/wasmtime.svg",
+      "png_path": "/workspace/shared/gosd43/logos/wasmtime.png",
+      "sha256": "44116b52c37e5cccadc67d64aefa2b3eec6d858510613f93052b49b1fc7b293b",
+      "retrieved_at": "2026-11-10",
+      "note": "Bytecode Alliance 组织标识，不是 Wasmtime 独立项目 logo。"
+    }
+  }
+]

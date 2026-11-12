@@ -1,0 +1,422 @@
+[
+  {
+    "list": "project",
+    "rank": 1,
+    "name": "CANN",
+    "asset_key": "CANN",
+    "rendered_file": "report/logos/rendered/CANN.png"
+  },
+  {
+    "list": "project",
+    "rank": 2,
+    "name": "Hermes Agent",
+    "asset_key": "Hermes Agent",
+    "rendered_file": "report/logos/rendered/Hermes_Agent.png"
+  },
+  {
+    "list": "project",
+    "rank": 3,
+    "name": "DeepAgents",
+    "asset_key": "DeepAgents",
+    "rendered_file": "report/logos/rendered/DeepAgents.png"
+  },
+  {
+    "list": "project",
+    "rank": 4,
+    "name": "ZeroClaw",
+    "asset_key": "ZeroClaw",
+    "rendered_file": "report/logos/rendered/ZeroClaw.png"
+  },
+  {
+    "list": "project",
+    "rank": 5,
+    "name": "Paperclip",
+    "asset_key": "Paperclip",
+    "rendered_file": "report/logos/rendered/Paperclip.png"
+  },
+  {
+    "list": "project",
+    "rank": 6,
+    "name": "vLLM-Omni",
+    "asset_key": "vLLM-Omni",
+    "rendered_file": "report/logos/rendered/vLLM-Omni.png"
+  },
+  {
+    "list": "project",
+    "rank": 7,
+    "name": "RLinf",
+    "asset_key": "RLinf",
+    "rendered_file": "report/logos/rendered/RLinf.png"
+  },
+  {
+    "list": "project",
+    "rank": 8,
+    "name": "CLIProxyAPI",
+    "asset_key": "CLIProxyAPI",
+    "rendered_file": "report/logos/rendered/CLIProxyAPI.png"
+  },
+  {
+    "list": "project",
+    "rank": 9,
+    "name": "OpenViking",
+    "asset_key": "OpenViking",
+    "rendered_file": "report/logos/rendered/OpenViking.png"
+  },
+  {
+    "list": "project",
+    "rank": 10,
+    "name": "Pi Mono",
+    "asset_key": "Pi Mono",
+    "rendered_file": "report/logos/rendered/Pi_Mono.png"
+  },
+  {
+    "list": "project",
+    "rank": 11,
+    "name": "Hive",
+    "asset_key": "Hive",
+    "rendered_file": "report/logos/rendered/Hive.png"
+  },
+  {
+    "list": "project",
+    "rank": 12,
+    "name": "CC Switch",
+    "asset_key": "CC Switch",
+    "rendered_file": "report/logos/rendered/CC_Switch.png"
+  },
+  {
+    "list": "project",
+    "rank": 13,
+    "name": "Oh My OpenAgent",
+    "asset_key": "Oh My OpenAgent",
+    "rendered_file": "report/logos/rendered/Oh_My_OpenAgent.png"
+  },
+  {
+    "list": "project",
+    "rank": 14,
+    "name": "Astron",
+    "asset_key": "Astron",
+    "rendered_file": "report/logos/rendered/Astron.png"
+  },
+  {
+    "list": "project",
+    "rank": 15,
+    "name": "Lark CLI",
+    "asset_key": "Lark CLI",
+    "rendered_file": "report/logos/rendered/Lark_CLI.png"
+  },
+  {
+    "list": "project",
+    "rank": 16,
+    "name": "Nanobot",
+    "asset_key": "Nanobot",
+    "rendered_file": "report/logos/rendered/Nanobot.png"
+  },
+  {
+    "list": "project",
+    "rank": 17,
+    "name": "Beads",
+    "asset_key": "Beads",
+    "rendered_file": "report/logos/rendered/Beads.png"
+  },
+  {
+    "list": "project",
+    "rank": 18,
+    "name": "QwenPaw",
+    "asset_key": "QwenPaw",
+    "rendered_file": "report/logos/rendered/QwenPaw.png"
+  },
+  {
+    "list": "project",
+    "rank": 19,
+    "name": "Spec Kit",
+    "asset_key": "Spec Kit",
+    "rendered_file": "report/logos/rendered/Spec_Kit.png"
+  },
+  {
+    "list": "project",
+    "rank": 20,
+    "name": "Multica",
+    "asset_key": "Multica",
+    "rendered_file": "report/logos/rendered/Multica.png"
+  },
+  {
+    "list": "project",
+    "rank": 21,
+    "name": "Claude Mem",
+    "asset_key": "Claude Mem",
+    "rendered_file": "report/logos/rendered/Claude_Mem.png"
+  },
+  {
+    "list": "project",
+    "rank": 22,
+    "name": "T3 Code",
+    "asset_key": "T3 Code",
+    "rendered_file": "report/logos/rendered/T3_Code.png"
+  },
+  {
+    "list": "project",
+    "rank": 23,
+    "name": "Eigent",
+    "asset_key": "Eigent",
+    "rendered_file": "report/logos/rendered/Eigent.png"
+  },
+  {
+    "list": "project",
+    "rank": 24,
+    "name": "Kimi CLI",
+    "asset_key": "Kimi CLI",
+    "rendered_file": "report/logos/rendered/Kimi_CLI.png"
+  },
+  {
+    "list": "project",
+    "rank": 25,
+    "name": "Agent Sandbox",
+    "asset_key": "Agent Sandbox",
+    "rendered_file": "report/logos/rendered/Agent_Sandbox.png"
+  },
+  {
+    "list": "project",
+    "rank": 26,
+    "name": "Superpowers",
+    "asset_key": "Superpowers",
+    "rendered_file": "report/logos/rendered/Superpowers.png"
+  },
+  {
+    "list": "project",
+    "rank": 27,
+    "name": "Parameter Golf",
+    "asset_key": "Parameter Golf",
+    "rendered_file": "report/logos/rendered/Parameter_Golf.png"
+  },
+  {
+    "list": "project",
+    "rank": 28,
+    "name": "RTK",
+    "asset_key": "RTK",
+    "rendered_file": "report/logos/rendered/RTK.png"
+  },
+  {
+    "list": "project",
+    "rank": 29,
+    "name": "OmniRoute",
+    "asset_key": "OmniRoute",
+    "rendered_file": "report/logos/rendered/OmniRoute.png"
+  },
+  {
+    "list": "project",
+    "rank": 30,
+    "name": "Everything Claude Code",
+    "asset_key": "Everything Claude Code",
+    "rendered_file": "report/logos/rendered/Everything_Claude_Code.png"
+  },
+  {
+    "list": "repo",
+    "rank": 1,
+    "name": "openclaw/openclaw",
+    "asset_key": "openclaw/openclaw",
+    "rendered_file": "report/logos/rendered/openclaw__openclaw.png"
+  },
+  {
+    "list": "repo",
+    "rank": 2,
+    "name": "cann/ops-transformer",
+    "asset_key": "CANN",
+    "rendered_file": "report/logos/rendered/CANN.png"
+  },
+  {
+    "list": "repo",
+    "rank": 3,
+    "name": "cann/ops-nn",
+    "asset_key": "CANN",
+    "rendered_file": "report/logos/rendered/CANN.png"
+  },
+  {
+    "list": "repo",
+    "rank": 4,
+    "name": "Ascend/pytorch",
+    "asset_key": "Ascend",
+    "rendered_file": "report/logos/rendered/Ascend.png"
+  },
+  {
+    "list": "repo",
+    "rank": 5,
+    "name": "mindspore/mindspore",
+    "asset_key": "MindSpore",
+    "rendered_file": "report/logos/rendered/MindSpore.png"
+  },
+  {
+    "list": "repo",
+    "rank": 6,
+    "name": "NousResearch/hermes-agent",
+    "asset_key": "Hermes Agent",
+    "rendered_file": "report/logos/rendered/Hermes_Agent.png"
+  },
+  {
+    "list": "repo",
+    "rank": 7,
+    "name": "cann/pypto",
+    "asset_key": "CANN",
+    "rendered_file": "report/logos/rendered/CANN.png"
+  },
+  {
+    "list": "repo",
+    "rank": 8,
+    "name": "cann/ops-math",
+    "asset_key": "CANN",
+    "rendered_file": "report/logos/rendered/CANN.png"
+  },
+  {
+    "list": "repo",
+    "rank": 9,
+    "name": "langchain-ai/deepagents",
+    "asset_key": "DeepAgents",
+    "rendered_file": "report/logos/rendered/DeepAgents.png"
+  },
+  {
+    "list": "repo",
+    "rank": 10,
+    "name": "openharmony/multimedia_media_library",
+    "asset_key": "OpenHarmony",
+    "rendered_file": "report/logos/rendered/OpenHarmony.png"
+  },
+  {
+    "list": "repo",
+    "rank": 11,
+    "name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "asset_key": "IBM Skills Network",
+    "rendered_file": "report/logos/rendered/IBM_Skills_Network.png"
+  },
+  {
+    "list": "repo",
+    "rank": 12,
+    "name": "cann/asc-devkit",
+    "asset_key": "CANN",
+    "rendered_file": "report/logos/rendered/CANN.png"
+  },
+  {
+    "list": "repo",
+    "rank": 13,
+    "name": "openharmony/ability_ability_runtime",
+    "asset_key": "OpenHarmony",
+    "rendered_file": "report/logos/rendered/OpenHarmony.png"
+  },
+  {
+    "list": "repo",
+    "rank": 14,
+    "name": "aden-hive/hive",
+    "asset_key": "Hive",
+    "rendered_file": "report/logos/rendered/Hive.png"
+  },
+  {
+    "list": "repo",
+    "rank": 15,
+    "name": "cann/runtime",
+    "asset_key": "CANN",
+    "rendered_file": "report/logos/rendered/CANN.png"
+  },
+  {
+    "list": "repo",
+    "rank": 16,
+    "name": "Ascend/ModelZoo-PyTorch",
+    "asset_key": "Ascend",
+    "rendered_file": "report/logos/rendered/Ascend.png"
+  },
+  {
+    "list": "repo",
+    "rank": 17,
+    "name": "vllm-project/vllm-omni",
+    "asset_key": "vLLM-Omni",
+    "rendered_file": "report/logos/rendered/vLLM-Omni.png"
+  },
+  {
+    "list": "repo",
+    "rank": 18,
+    "name": "Ascend/mind-cluster",
+    "asset_key": "Ascend",
+    "rendered_file": "report/logos/rendered/Ascend.png"
+  },
+  {
+    "list": "repo",
+    "rank": 19,
+    "name": "Facepunch/sbox-public",
+    "asset_key": "Facepunch/sbox-public",
+    "rendered_file": "report/logos/rendered/Facepunch__sbox-public.png"
+  },
+  {
+    "list": "repo",
+    "rank": 20,
+    "name": "cann/hcomm",
+    "asset_key": "CANN",
+    "rendered_file": "report/logos/rendered/CANN.png"
+  },
+  {
+    "list": "repo",
+    "rank": 21,
+    "name": "Ascend/MindSpeed-LLM",
+    "asset_key": "Ascend",
+    "rendered_file": "report/logos/rendered/Ascend.png"
+  },
+  {
+    "list": "repo",
+    "rank": 22,
+    "name": "noctalia-dev/noctalia",
+    "asset_key": "noctalia-dev/noctalia",
+    "rendered_file": "report/logos/rendered/noctalia-dev__noctalia.png"
+  },
+  {
+    "list": "repo",
+    "rank": 23,
+    "name": "AvengeMedia/DankMaterialShell",
+    "asset_key": "AvengeMedia/DankMaterialShell",
+    "rendered_file": "report/logos/rendered/AvengeMedia__DankMaterialShell.png"
+  },
+  {
+    "list": "repo",
+    "rank": 24,
+    "name": "Ascend/op-plugin",
+    "asset_key": "Ascend",
+    "rendered_file": "report/logos/rendered/Ascend.png"
+  },
+  {
+    "list": "repo",
+    "rank": 25,
+    "name": "openharmony/multimedia_av_codec",
+    "asset_key": "OpenHarmony",
+    "rendered_file": "report/logos/rendered/OpenHarmony.png"
+  },
+  {
+    "list": "repo",
+    "rank": 26,
+    "name": "cann/ge",
+    "asset_key": "CANN",
+    "rendered_file": "report/logos/rendered/CANN.png"
+  },
+  {
+    "list": "repo",
+    "rank": 27,
+    "name": "Ascend/torchair",
+    "asset_key": "Ascend",
+    "rendered_file": "report/logos/rendered/Ascend.png"
+  },
+  {
+    "list": "repo",
+    "rank": 28,
+    "name": "Ascend/MindSpeed-MM",
+    "asset_key": "Ascend",
+    "rendered_file": "report/logos/rendered/Ascend.png"
+  },
+  {
+    "list": "repo",
+    "rank": 29,
+    "name": "Ascend/RecSDK",
+    "asset_key": "Ascend",
+    "rendered_file": "report/logos/rendered/Ascend.png"
+  },
+  {
+    "list": "repo",
+    "rank": 30,
+    "name": "PlatformNetwork/bounty-challenge",
+    "asset_key": "PlatformNetwork/bounty-challenge",
+    "rendered_file": "report/logos/rendered/PlatformNetwork__bounty-challenge.png"
+  }
+]

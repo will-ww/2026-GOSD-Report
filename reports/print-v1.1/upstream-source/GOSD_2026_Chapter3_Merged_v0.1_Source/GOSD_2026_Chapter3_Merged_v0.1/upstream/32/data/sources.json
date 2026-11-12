@@ -1,0 +1,37 @@
+[
+  {
+    "id": "C1",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-2-1_global_company_openrank_top30.csv",
+    "file": "table-3-2-1_global_company_openrank_top30.csv"
+  },
+  {
+    "id": "C2",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/fig-3-2-2_global_company_monthly_rank.csv",
+    "file": "fig-3-2-2_global_company_monthly_rank.csv"
+  },
+  {
+    "id": "C3",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/fig-3-2-1_global_company_yearly_rank.csv",
+    "file": "fig-3-2-1_global_company_yearly_rank.csv"
+  },
+  {
+    "id": "C4",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-2-2_china_company_openrank_top30.csv",
+    "file": "table-3-2-2_china_company_openrank_top30.csv"
+  },
+  {
+    "id": "C5",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/fig-3-2-4_china_company_monthly_rank.csv",
+    "file": "fig-3-2-4_china_company_monthly_rank.csv"
+  },
+  {
+    "id": "C6",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/fig-3-2-3_china_company_yearly_rank.csv",
+    "file": "fig-3-2-3_china_company_yearly_rank.csv"
+  },
+  {
+    "id": "C7",
+    "url": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/src/metrics/indices.ts",
+    "file": "company-top100-mainperiod.csv"
+  }
+]

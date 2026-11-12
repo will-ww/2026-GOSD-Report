@@ -1,0 +1,12 @@
+{
+  "repo": "pytorch/pytorch",
+  "metric": "openrank",
+  "url": "https://oss.open-digger.cn/github/pytorch/pytorch/openrank.json",
+  "status": "ok",
+  "reused_saved_bytes": true,
+  "batch_completed_at": "2026-11-07T07:57:17.333098+00:00",
+  "sha256": "95f1f90efe81dc4573c39866c8824b998a628624e7e276508acc5052fdf23bf3",
+  "file": "raw/pytorch__pytorch__openrank.json",
+  "bytes": 2976,
+  "source_acquisition_record": "../postfreeze_opendigger_sample/acquisition-records.json"
+}

@@ -1,0 +1,6 @@
+GOSD 2026 精要版 · 2.3 v0.3
+生成日期：2026-11-10；评审稿，尚未定稿；本轮未提交 GitHub。
+环境：Python 3；PyMuPDF、Pillow、fontTools；Inkscape；XeLaTeX；系统 Noto Sans/Serif CJK 字体。
+复现：在本目录执行 python3 run.py。脚本自动准备中文字体，输出 PDF 至 output/。
+图件：figures/ 内为可编辑矢量 SVG；正文：content.py / section24.py / assets_v02.py 中适用的文件，以及 data/content.json 或 data/narratives.json。
+PDF 不包含于源码归档；图件、原始数据、正文、引用、口径与核验记录均保留。

@@ -1,0 +1,52 @@
+{
+	"meta":
+	[
+		{
+			"name": "period",
+			"type": "String"
+		},
+		{
+			"name": "contributors",
+			"type": "UInt64"
+		},
+		{
+			"name": "multi_repo",
+			"type": "UInt64"
+		},
+		{
+			"name": "avg_repos",
+			"type": "Float64"
+		},
+		{
+			"name": "median_months",
+			"type": "UInt64"
+		}
+	],
+
+	"data":
+	[
+		{
+			"period": "post",
+			"contributors": "6860",
+			"multi_repo": "2230",
+			"avg_repos": 1.75,
+			"median_months": "1"
+		},
+		{
+			"period": "main",
+			"contributors": "5282",
+			"multi_repo": "1868",
+			"avg_repos": 1.84,
+			"median_months": "1"
+		}
+	],
+
+	"rows": 2,
+
+	"statistics":
+	{
+		"elapsed": 0.066654848,
+		"rows_read": 204484543,
+		"bytes_read": 228296659
+	}
+}

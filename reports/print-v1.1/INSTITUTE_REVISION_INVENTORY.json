@@ -1,0 +1,92 @@
+[
+  {
+    "path": "institute-v1.1/README.md",
+    "size_bytes": 3066,
+    "sha256": "951ceb36d6c5d0af3ab2c2efdddc004d3ca432426bfcd7554312c298d6a94746"
+  },
+  {
+    "path": "institute-v1.1/build_page.py",
+    "size_bytes": 8481,
+    "sha256": "3aabee1874c0359eadbb0b2de3c86f511791358ab1425fceda6e7dc54b133183"
+  },
+  {
+    "path": "institute-v1.1/apply_revision.py",
+    "size_bytes": 6894,
+    "sha256": "4eb1b291bf2b3c8ce3bab88c924d604d9949146621b53c5ce34b447529cc7db1"
+  },
+  {
+    "path": "institute-v1.1/package_revision.py",
+    "size_bytes": 1658,
+    "sha256": "155dbda3f3f7ecbaf86e266f8ddd6f94ed34943dd47cbaf86aae9093b51657a7"
+  },
+  {
+    "path": "institute-v1.1/layout.sty",
+    "size_bytes": 2752,
+    "sha256": "7a91de937d8abc42fd56d38a03e2a65fe0a2418fa116c90dbe7ec3422a84b1e1"
+  },
+  {
+    "path": "institute-v1.1/standalone.tex",
+    "size_bytes": 8009,
+    "sha256": "e7af414f282822e66515af17550a4d344eff1bee39da2ed54c2a131049680558"
+  },
+  {
+    "path": "institute-v1.1/report-page.tex",
+    "size_bytes": 8118,
+    "sha256": "15c34989a17601008ee8f127c89ed44f8032e69fc9aa7e5922142c2e158a6fb5"
+  },
+  {
+    "path": "institute-v1.1/source/layout.sty",
+    "size_bytes": 2464,
+    "sha256": "0601cb55eeb9068e3925645fc2cfc8d75a10e8a1b379609fd4a9b198c10d1097"
+  },
+  {
+    "path": "institute-v1.1/source/prepare_fonts.py",
+    "size_bytes": 947,
+    "sha256": "7d37875142eb1151db1f541c2fddaaf62d13457efb3cff3e1e07e65203322504"
+  },
+  {
+    "path": "institute-v1.1/source/assets/siri-color.png",
+    "size_bytes": 150281,
+    "sha256": "d192ff50735a2a8a5308fea6e13222c1a40dfe70f6f452f233c9f9a5097d959b"
+  },
+  {
+    "path": "institute-v1.1/source/assets/institute-research-system.svg",
+    "size_bytes": 5567,
+    "sha256": "9e7dac5f25ff0234e92490a1cf5d4d57507e137d34de844b9916f901740dd86c"
+  },
+  {
+    "path": "institute-v1.1/source/data/institute-original.txt",
+    "size_bytes": 9418,
+    "sha256": "593d35bcdd178099cea72ee2d22fb616fd1b6e65508e0fda5159dc311e0ebd3d"
+  },
+  {
+    "path": "institute-v1.1/review/text-box-plan.json",
+    "size_bytes": 5183,
+    "sha256": "f498f10386002f711782aed3b8cdce11d5db2819f3339171f5887d1bed13812d"
+  },
+  {
+    "path": "institute-v1.1/review/verification.json",
+    "size_bytes": 83565,
+    "sha256": "71191570ba194824a2df19d61c9b34541cd7ab3e0545f226e9a777702ace36c8"
+  },
+  {
+    "path": "institute-v1.1/review/standalone-poppler.png",
+    "size_bytes": 280502,
+    "sha256": "e80eb18efbc3838d1a8ebdfde8ac717127ecfd7a0828083821c31a8872a4d50c"
+  },
+  {
+    "path": "institute-v1.1/review/full-report-page5.png",
+    "size_bytes": 218285,
+    "sha256": "61f787fcc754154d30d98eb002e72a54d3ad48c0a36836c7fe0ec8ac869f15b2"
+  },
+  {
+    "path": "institute-v1.1/output/report-page.pdf",
+    "size_bytes": 200153,
+    "sha256": "82f1f5d4c4f3cbdef5148e33526d3baceb3f1ab5dfb95352419a5689021d7b07"
+  },
+  {
+    "path": "institute-v1.1/output/SIRI_Institute_Introduction_v1.1.pdf",
+    "size_bytes": 200044,
+    "sha256": "4bfa4a49aa6f6173ee20e91eb6ab68ec6f46fbc32aa67582e406535e149fad37"
+  }
+]

@@ -1,0 +1,61 @@
+scope,rank,project,openrank,active_developers,initiator_zh,country_zh,domain,subdomain,object_type,website,note,evidence
+global,1,OpenHarmony,75809.42,12640,开放原子开源基金会,🇨🇳中国,操作系统与硬件,分布式操作系统,项目生态,https://www.openharmony.cn/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.openharmony.cn/
+global,2,Azure,29382.06,10544,微软,🇺🇸美国,云原生与基础设施,云平台开源生态,项目集合（边界待核验）,https://azure.github.io/,来源定义的聚合对象。官方入口支持领域识别，不能据此确认原始统计纳入了哪些仓库；映射与去重边界待核验。,https://azure.github.io/
+global,3,C#/.Net,26437.85,8758,微软,🇺🇸美国,编程语言与运行时,编程语言与应用运行时,项目集合（边界待核验）,https://dotnet.microsoft.com/en-us/,来源定义的聚合对象。官方入口支持领域识别，不能据此确认原始统计纳入了哪些仓库；映射与去重边界待核验。,https://dotnet.microsoft.com/en-us/
+global,4,PyTorch,24785.25,4806,PyTorch Foundation,🇺🇸美国,AI 与机器学习,机器学习与深度学习框架,项目生态,https://pytorch.org/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://pytorch.org/
+global,5,NixOS,21258.31,7606,Stichting NixOS Foundation,🇳🇱荷兰,操作系统与硬件,声明式 Linux 与包管理,项目生态,https://nixos.org/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://nixos.org/
+global,6,LLVM,20026.38,4889,伊利诺伊大学厄巴纳-香槟分校,🇺🇸美国,开发工具与框架,编译器与工具链,项目生态,https://llvm.org/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://llvm.org/
+global,7,vLLM,19532.07,8612,加州大学伯克利分校,🇺🇸美国,AI 与机器学习,大模型推理服务,软件项目,https://vllm.ai/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://vllm.ai/
+global,8,openEuler,18950.48,9039,开放原子开源基金会,🇨🇳中国,操作系统与硬件,服务器操作系统,项目生态,https://www.openeuler.org/en/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.openeuler.org/en/
+global,9,DataDog,16551.18,3250,DataDog,🇺🇸美国,可观测性与安全,监控与可观测性生态,项目集合（边界待核验）,https://opensource.datadoghq.com/,来源定义的聚合对象。官方入口支持领域识别，不能据此确认原始统计纳入了哪些仓库；映射与去重边界待核验。,https://opensource.datadoghq.com/
+global,10,OpenShift,16465.88,2134,红帽,🇺🇸美国,云原生与基础设施,容器应用平台,项目生态,https://www.redhat.com/en/technologies/cloud-computing/openshift,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.redhat.com/en/technologies/cloud-computing/openshift
+global,11,VSCode,15422.31,24897,微软,🇺🇸美国,开发工具与框架,代码编辑器,软件项目,https://code.visualstudio.com/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://code.visualstudio.com/
+global,12,OpenClaw,14842.31,19318,,,AI 与机器学习,个人 AI 助手与智能体,软件项目,https://openclaw.ai/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://openclaw.ai/
+global,13,CANN,14719.47,5460,华为,🇨🇳中国,AI 与机器学习,异构 AI 计算软件栈,项目生态,https://www.hiascend.com/cann,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.hiascend.com/cann
+global,14,Rust,14687.80,4729,Rust 基金会,🇺🇸美国,编程语言与运行时,系统编程语言,项目生态,https://rust-lang.org/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://rust-lang.org/
+global,15,Ascend,12973.33,5798,华为,🇨🇳中国,AI 与机器学习,昇腾 AI 软硬件生态,项目集合（边界待核验）,https://www.hiascend.com/,原表聚合标签。昇腾是软硬件生态，需核对与 CANN、MindSpore 等对象的仓库边界及去重关系。,https://www.hiascend.com/
+global,16,Home Assistant,12840.53,16046,Nabu Casa Inc.,🇺🇸美国,物联网与边缘,智能家居自动化,项目生态,https://www.home-assistant.io/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.home-assistant.io/
+global,17,Odoo,12357.48,1716,Odoo,🇧🇪比利时,企业应用与协作,企业资源与业务应用,项目生态,https://github.com/odoo/odoo,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://github.com/odoo/odoo
+global,18,Python,11915.48,3397,Python 软件基金会,🇺🇸美国,编程语言与运行时,通用编程语言,项目生态,https://www.python.org/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.python.org/
+global,19,JavaScript/TypeScript,11640.41,3812,,,编程语言与运行时,Web 语言与类型系统,项目集合（边界待核验）,https://www.typescriptlang.org/,原表合并标签，非单一软件项目。TypeScript 官网仅支持语言领域识别，不证明原表纳入整个 JavaScript 生态；不得与各 Web 框架直接合并加总。,https://www.typescriptlang.org/
+global,20,Swift,11020.91,1174,苹果,🇺🇸美国,编程语言与运行时,应用与系统编程语言,项目生态,https://www.swift.org/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.swift.org/
+global,21,Conda Forge,10637.63,3472,,,开发工具与框架,软件包构建与分发,项目生态,https://conda-forge.org/,社区驱动的软件包构建与分发生态；大量 feedstock 仓库不宜与单一软件仓库直接比较仓库数。,https://conda-forge.org/
+global,22,SGLang,10549.41,3393,加州大学伯克利分校,🇺🇸美国,AI 与机器学习,大模型与多模态推理,软件项目,https://www.sglang.io/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.sglang.io/
+global,23,OpenTelemetry,10309.52,3868,云原生计算基金会,🇺🇸美国,可观测性与安全,遥测规范与采集工具,项目生态,https://opentelemetry.io/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://opentelemetry.io/
+global,24,Kubernetes,9604.20,4047,云原生计算基金会,🇺🇸美国,云原生与基础设施,容器编排,项目生态,https://kubernetes.io/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://kubernetes.io/
+global,25,Claude Code,9241.59,32814,Anthropic,🇺🇸美国,开发工具与框架,AI 编程工具公开协作仓库,项目集合（边界待核验）,https://github.com/anthropics/claude-code,原表统计对象。公开仓库主要用于公开协作；仓库公开不等于整个 Claude Code 产品已按开源许可发布。需核对被统计仓库及许可，不能从名称推断产品开源状态。,https://github.com/anthropics/claude-code
+global,26,Zephyr,8645.65,2247,Linux 基金会,🇺🇸美国,物联网与边缘,嵌入式实时操作系统,项目生态,https://www.zephyrproject.org/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.zephyrproject.org/
+global,27,Cloudflare,7834.37,4100,Cloudflare,🇺🇸美国,云原生与基础设施,边缘与网络开源生态,项目集合（边界待核验）,https://cloudflare.github.io/,来源定义的聚合对象。官方入口支持领域识别，不能据此确认原始统计纳入了哪些仓库；映射与去重边界待核验。,https://cloudflare.github.io/
+global,28,NextCloud,7603.19,5065,NextCloud,🇩🇪德国,企业应用与协作,文件共享与内容协作,项目生态,https://nextcloud.com/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://nextcloud.com/
+global,29,LangChain,7505.73,5251,LangChain,🇺🇸美国,AI 与机器学习,大模型应用与智能体框架,项目生态,https://www.langchain.com/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.langchain.com/
+global,30,Dify,7496.88,3929,Dify AI,🇺🇸美国,AI 与机器学习,智能体工作流与应用平台,软件项目,https://dify.ai/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://dify.ai/
+china,1,OpenHarmony,75809.42,12640,开放原子开源基金会,,操作系统与硬件,分布式操作系统,项目生态,https://www.openharmony.cn/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.openharmony.cn/
+china,2,openEuler,18950.48,9039,开放原子开源基金会,,操作系统与硬件,服务器操作系统,项目生态,https://www.openeuler.org/en/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.openeuler.org/en/
+china,3,CANN,14719.47,5460,华为,,AI 与机器学习,异构 AI 计算软件栈,项目生态,https://www.hiascend.com/cann,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.hiascend.com/cann
+china,4,Ascend,12973.33,5798,华为,,AI 与机器学习,昇腾 AI 软硬件生态,项目集合（边界待核验）,https://www.hiascend.com/,原表聚合标签。昇腾是软硬件生态，需核对与 CANN、MindSpore 等对象的仓库边界及去重关系。,https://www.hiascend.com/
+china,5,MindSpore,7321.46,3109,华为,,AI 与机器学习,深度学习框架,项目生态,https://www.mindspore.cn/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.mindspore.cn/
+china,6,PaddlePaddle,6567.09,2135,百度,,AI 与机器学习,深度学习平台,项目生态,https://www.paddlepaddle.org.cn/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.paddlepaddle.org.cn/
+china,7,Cangjie,4806.20,3347,华为,,编程语言与运行时,通用编程语言,项目生态,https://cangjie-lang.cn/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://cangjie-lang.cn/
+china,8,Ant Design,2657.10,2370,蚂蚁集团,,开发工具与框架,前端 UI 设计与组件,项目生态,https://ant.design/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://ant.design/
+china,9,openGauss,2459.62,685,华为,,数据与分析,关系型数据库,项目生态,https://opengauss.org/zh/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://opengauss.org/zh/
+china,10,魔搭,2370.03,2488,阿里巴巴,,AI 与机器学习,模型社区与工具生态,项目集合（边界待核验）,https://modelscope.cn/home,原表模型社区聚合标签；需核对是否与 ms-swift、AgentScope 等具体项目发生仓库重叠。,https://modelscope.cn/home
+china,11,TiDB,2255.32,446,PingCAP,,数据与分析,分布式 SQL 数据库,项目生态,https://www.pingcap.com/tidb/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.pingcap.com/tidb/
+china,12,verl,2247.85,2297,字节跳动,,AI 与机器学习,大模型强化学习后训练,软件项目,https://github.com/verl-project/verl,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://github.com/verl-project/verl
+china,13,1Panel,2002.13,1084,飞致云,,云原生与基础设施,Linux 服务器管理,软件项目,https://github.com/1Panel-dev/1Panel,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://github.com/1Panel-dev/1Panel
+china,14,openKylin,1757.69,582,开放原子开源基金会,,操作系统与硬件,桌面操作系统,项目生态,https://www.openkylin.top/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.openkylin.top/
+china,15,StarRocks,1716.00,568,StarRocks,,数据与分析,实时分析数据库,软件项目,https://www.starrocks.io/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.starrocks.io/
+china,16,RAGFlow,1595.34,1342,Infinity Flow,,AI 与机器学习,检索增强生成,软件项目,https://ragflow.io/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://ragflow.io/
+china,17,香山处理器,1434.43,206,,,操作系统与硬件,RISC-V 开源处理器,项目生态,https://docs.xiangshan.cc/zh-cn/latest/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://docs.xiangshan.cc/zh-cn/latest/
+china,18,龙蜥,1384.53,326,开放原子开源基金会,,操作系统与硬件,服务器操作系统社区,项目生态,https://openanolis.cn/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://openanolis.cn/
+china,19,Coze,1306.74,1565,字节跳动,,AI 与机器学习,智能体开发平台,项目集合（边界待核验）,https://github.com/coze-dev/coze-studio,Coze 为平台名称，官方开源入口含 Coze Studio；原表是否同时计入 Coze Loop 等子项目待映射核对。,https://github.com/coze-dev/coze-studio
+china,20,FlagOS,1305.86,470,,,AI 与机器学习,跨芯片 AI 系统软件栈,项目生态,https://github.com/flagos-ai,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://github.com/flagos-ai
+china,21,openFuyao,1247.62,192,华为,,云原生与基础设施,多样化算力集群,项目生态,https://www.openfuyao.cn/zh/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.openfuyao.cn/zh/
+china,22,AntV,1160.66,1000,蚂蚁集团,,开发工具与框架,数据可视化开发框架,项目生态,https://github.com/antvis,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://github.com/antvis
+china,23,TDengine,1151.39,256,涛思数据,,数据与分析,时序数据库,软件项目,https://www.taosdata.com/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.taosdata.com/
+china,24,AgentScope,1146.00,1534,阿里巴巴,,AI 与机器学习,多智能体开发框架,项目生态,https://agentscope.io/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://agentscope.io/
+china,25,ms-swift,1074.14,1283,阿里巴巴,,AI 与机器学习,大模型训练与微调,软件项目,https://github.com/modelscope/ms-swift,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://github.com/modelscope/ms-swift
+china,26,inclusionAI,1038.55,729,蚂蚁集团,,AI 与机器学习,AI 模型与工具集合,项目集合（边界待核验）,https://github.com/inclusionAI,官方入口是组织及多个模型、框架与工具仓库的集合；不宜等同于单一仓库。,https://github.com/inclusionAI
+china,27,DeerFlow,995.06,1423,字节跳动,,AI 与机器学习,智能体研究与任务执行,软件项目,https://github.com/bytedance/deer-flow,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://github.com/bytedance/deer-flow
+china,28,CloudWeGo,983.78,500,字节跳动,,云原生与基础设施,微服务框架与中间件,项目生态,https://www.cloudwego.io/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://www.cloudwego.io/
+china,29,KWDB,948.11,97,开放原子开源基金会,,数据与分析,物联网多模数据库,软件项目,https://github.com/KWDB/KWDB,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://github.com/KWDB/KWDB
+china,30,DataEase,927.63,399,飞致云,,数据与分析,BI 与数据分析,软件项目,https://dataease.io/,领域与对象类型为编辑分类；具体仓库集合仍以原始数据映射为准。,https://dataease.io/

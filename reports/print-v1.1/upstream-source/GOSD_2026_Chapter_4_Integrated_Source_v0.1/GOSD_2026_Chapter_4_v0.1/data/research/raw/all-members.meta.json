@@ -1,0 +1,11 @@
+{
+  "query": "all-members",
+  "elapsed_client_seconds": 7.916,
+  "rows": 545,
+  "statistics": {
+    "elapsed": 0.228897898,
+    "rows_read": 32119,
+    "bytes_read": 557833
+  },
+  "sha256": "647f2e620edb3cf15339d69fd0401589a0330fe1e960891c2b9f6e01556f8a28"
+}

@@ -1,0 +1,63 @@
+{
+  "version": "v0.2",
+  "pages": 3,
+  "portrait": true,
+  "source_csv_byte_identical": [
+    "global_divisions.csv",
+    "country_seats.csv",
+    "china_provinces.csv",
+    "china_cities.csv"
+  ],
+  "flags": 30,
+  "scatter_rank_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "scatter_coordinates_match_derived_rank": true,
+  "province_city_groups": 7,
+  "linked_cities": 17,
+  "figure_label_overlaps": 0,
+  "figure_label_out_of_bounds": 0,
+  "pdf_text_out_of_bounds": 0,
+  "replacement_glyphs": 0,
+  "pdf_hyperlinks": [
+    2,
+    1,
+    2
+  ],
+  "fonts_embedded": true,
+  "visual_review": "All three pages rendered; page 3 city label spacing revised and rechecked. Flag country mappings include China for Taiwan. No name labels cover scatter circles.",
+  "pending": [
+    "Source static ranking period",
+    "Developer field unit, coverage, deduplication and bot handling"
+  ],
+  "upstream_truth_not_certified": true
+}

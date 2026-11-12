@@ -1,0 +1,22 @@
+[
+  {
+    "id": "R1",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-1-1_global_division_openrank_top30.csv",
+    "file": "table-3-1-1_global_division_openrank_top30.csv"
+  },
+  {
+    "id": "R2",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-1-2_division_country_entry_counts.csv",
+    "file": "table-3-1-2_division_country_entry_counts.csv"
+  },
+  {
+    "id": "R3",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-1-3_china_province_openrank_top30.csv",
+    "file": "table-3-1-3_china_province_openrank_top30.csv"
+  },
+  {
+    "id": "R4",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-1-4_china_city_openrank_top30.csv",
+    "file": "table-3-1-4_china_city_openrank_top30.csv"
+  }
+]

@@ -1,0 +1,70 @@
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+MYUCAS+NotoSansCJKsc-Bold-Identity-H CID Type 0C       Identity-H       yes yes yes     29  0
+OUETUO+NotoSansCJKsc-Regular-Identity-H CID Type 0C       Identity-H       yes yes yes     31  0
+KKTRFP+LiberationSans                CID TrueType      Identity-H       yes yes yes     33  0
+BBOUPK+NotoSerifCJKsc-Regular-Identity-H CID Type 0C       Identity-H       yes yes yes     35  0
+HECGUA+NotoSansCJKsc-Bold-Identity-H CID Type 0C       Identity-H       yes yes yes     97  0
+WIOFGA+NotoSansCJKsc-Regular-Identity-H CID Type 0C       Identity-H       yes yes yes    104  0
+HCYVAY+LiberationSans                CID TrueType      Identity-H       yes yes yes    111  0
+PCZFCR+NotoSerifCJKsc-Regular-Identity-H CID Type 0C       Identity-H       yes yes yes    117  0
+APANDY+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes     87  0
+AGGDFK+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes     92  0
+BMWJSJ+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    132  0
+QGOGJY+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    137  0
+BSTXGV+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    185  0
+HMCOMN+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    190  0
+MMSHFJ+NotoSansCJKsc-Bold-Identity-H CID Type 0C       Identity-H       yes yes yes    246  0
+QWSOMV+NotoSansCJKsc-Regular-Identity-H CID Type 0C       Identity-H       yes yes yes    253  0
+SAZXAJ+LiberationSans                CID TrueType      Identity-H       yes yes yes    260  0
+TXKIOI+NotoSerifCJKsc-Regular-Identity-H CID Type 0C       Identity-H       yes yes yes    266  0
+XTNEIR+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    236  0
+OUIASE+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    241  0
+XMKWEM+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    281  0
+LCODLG+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    286  0
+XHWKRZ+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    307  0
+LTSFXQ+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    312  0
+WOBUWN+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    344  0
+IPWSDK+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    349  0
+KQRFGP+NotoSansCJKsc-Bold-Identity-H CID Type 0C       Identity-H       yes yes yes    396  0
+FYJWUQ+NotoSansCJKsc-Regular-Identity-H CID Type 0C       Identity-H       yes yes yes    403  0
+EFBTMH+LiberationSans                CID TrueType      Identity-H       yes yes yes    410  0
+JPMVEI+NotoSerifCJKsc-Regular-Identity-H CID Type 0C       Identity-H       yes yes yes    416  0
+LIKJQS+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    386  0
+DXDBZO+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    391  0
+FXIFHO+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    444  0
+CUVLEY+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    449  0
+DTQPNR+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    462  0
+OFEBFF+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    467  0
+HHAYLS+NotoSansCJKsc-Bold-Identity-H CID Type 0C       Identity-H       yes yes yes    528  0
+PPOPVA+NotoSansCJKsc-Regular-Identity-H CID Type 0C       Identity-H       yes yes yes    535  0
+RBLIFD+LiberationSans                CID TrueType      Identity-H       yes yes yes    542  0
+CAHKNK+NotoSerifCJKsc-Regular-Identity-H CID Type 0C       Identity-H       yes yes yes    548  0
+MWFNPN+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    518  0
+DUHQNC+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    523  0
+VEGNIK+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    591  0
+FRAEBY+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    596  0
+JUATAP+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    613  0
+HHVBAN+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    618  0
+OTNBYK+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    631  0
+SRAYWU+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    636  0
+YEVAXC+NotoSansCJKsc-Bold-Identity-H CID Type 0C       Identity-H       yes yes yes    682  0
+ZCOFQX+NotoSansCJKsc-Regular-Identity-H CID Type 0C       Identity-H       yes yes yes    689  0
+CHMOER+LiberationSans                CID TrueType      Identity-H       yes yes yes    696  0
+GIZJXK+NotoSerifCJKsc-Regular-Identity-H CID Type 0C       Identity-H       yes yes yes    702  0
+ZAUVSM+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    672  0
+TYKDOU+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    677  0
+TGBJHQ+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    746  0
+OVJWWN+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    751  0
+DGDIVO+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    791  0
+EBBMOG+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    796  0
+ZUSXNI+NotoSansCJKsc-Bold-Identity-H CID Type 0C       Identity-H       yes yes yes    835  0
+GZEFQW+NotoSansCJKsc-Regular-Identity-H CID Type 0C       Identity-H       yes yes yes    842  0
+LAVGSP+LiberationSans                CID TrueType      Identity-H       yes yes yes    849  0
+KVRLXP+NotoSerifCJKsc-Regular-Identity-H CID Type 0C       Identity-H       yes yes yes    853  0
+PGRPJQ+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    825  0
+BZKORI+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    830  0
+UDQVLC+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    871  0
+TAGNUX+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    876  0
+RTSHLC+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    890  0
+RZWLMP+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    895  0

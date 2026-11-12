@@ -1,0 +1,44 @@
+country,publisher_type_grouped,n,high_open,high_open_pct,double_high,double_high_pct,high_complete,高完整-高开放,低完整-高开放,高完整-低开放,低完整-低开放,country_code,country_name_zh,publisher_type_zh
+China,company,363,306,84.29752066115702,43,11.84573002754821,53,43,263,10,47,CN,中国,企业
+United States of America,company,238,104,43.69747899159664,17,7.142857142857142,53,17,87,36,98,US,美国,企业
+Unknown,user,56,48,85.71428571428571,9,16.071428571428573,11,9,39,2,6,unknown,归属未知,个人账号
+France,company,32,29,90.625,3,9.375,4,3,26,1,2,FR,法国,企业
+China,community,25,25,100.0,7,28.000000000000004,7,7,18,0,0,CN,中国,社区
+China,nonprofit,24,20,83.33333333333334,5,20.833333333333336,7,5,15,2,2,CN,中国,非营利组织和高校
+South Korea,company,24,8,33.33333333333333,0,0.0,0,0,8,0,16,KR,韩国,企业
+Germany,company,16,3,18.75,1,6.25,2,1,2,1,12,DE,德国,企业
+United States of America,nonprofit,14,14,100.0,10,71.42857142857143,10,10,4,0,0,US,美国,非营利组织和高校
+Singapore,company,11,5,45.45454545454545,1,9.090909090909092,1,1,4,0,6,SG,新加坡,企业
+United Kingdom,company,11,5,45.45454545454545,1,9.090909090909092,3,1,4,2,4,GB,英国,企业
+United States of America,community,9,8,88.88888888888889,7,77.77777777777779,8,7,1,1,0,US,美国,社区
+Unknown,community,8,6,75.0,0,0.0,1,0,6,1,1,unknown,归属未知,社区
+India,company,6,3,50.0,0,0.0,0,0,3,0,3,IN,印度,企业
+Switzerland,nonprofit,5,5,100.0,3,60.0,3,3,2,0,0,CH,瑞士,非营利组织和高校
+Canada,community,4,0,0.0,0,0.0,0,0,0,0,4,CA,加拿大,社区
+France,nonprofit,3,3,100.0,0,0.0,0,0,3,0,0,FR,法国,非营利组织和高校
+Israel,company,3,1,33.33333333333333,0,0.0,0,0,1,0,2,IL,以色列,企业
+United Arab Emirates,company,3,2,66.66666666666666,0,0.0,0,0,2,0,1,AE,阿拉伯联合酋长国,企业
+Czech Republic,company,2,2,100.0,0,0.0,0,0,2,0,0,CZ,捷克,企业
+Kyrgyzstan,company,2,1,50.0,1,50.0,2,1,0,1,0,KG,吉尔吉斯斯坦,企业
+South Korea,community,2,2,100.0,0,0.0,0,0,2,0,0,KR,韩国,社区
+South Korea,nonprofit,2,2,100.0,2,100.0,2,2,0,0,0,KR,韩国,非营利组织和高校
+Turkey,company,2,1,50.0,0,0.0,0,0,1,0,1,TR,土耳其,企业
+Australia,company,1,1,100.0,0,0.0,0,0,1,0,0,AU,澳大利亚,企业
+Austria,company,1,0,0.0,0,0.0,0,0,0,0,1,AT,奥地利,企业
+Canada,company,1,0,0.0,0,0.0,0,0,0,0,1,CA,加拿大,企业
+Canada,nonprofit,1,1,100.0,1,100.0,1,1,0,0,0,CA,加拿大,非营利组织和高校
+China,user,1,1,100.0,1,100.0,1,1,0,0,0,CN,中国,个人账号
+Finland,nonprofit,1,1,100.0,1,100.0,1,1,0,0,0,FI,芬兰,非营利组织和高校
+France,community,1,1,100.0,1,100.0,1,1,0,0,0,FR,法国,社区
+Germany,nonprofit,1,0,0.0,0,0.0,1,0,0,1,0,DE,德国,非营利组织和高校
+Italy,company,1,0,0.0,0,0.0,0,0,0,0,1,IT,意大利,企业
+Japan,company,1,1,100.0,1,100.0,1,1,0,0,0,JP,日本,企业
+Latvia,company,1,1,100.0,1,100.0,1,1,0,0,0,LV,拉脱维亚,企业
+Lithuania,company,1,0,0.0,0,0.0,0,0,0,0,1,LT,立陶宛,企业
+Portugal,company,1,1,100.0,0,0.0,0,0,1,0,0,PT,葡萄牙,企业
+Russia,community,1,1,100.0,0,0.0,0,0,1,0,0,RU,俄罗斯,社区
+Russia,company,1,0,0.0,0,0.0,0,0,0,0,1,RU,俄罗斯,企业
+Russia,nonprofit,1,1,100.0,0,0.0,0,0,1,0,0,RU,俄罗斯,非营利组织和高校
+Singapore,nonprofit,1,1,100.0,1,100.0,1,1,0,0,0,SG,新加坡,非营利组织和高校
+Spain,company,1,0,0.0,0,0.0,0,0,0,0,1,ES,西班牙,企业
+Turkey,nonprofit,1,0,0.0,0,0.0,0,0,0,0,1,TR,土耳其,非营利组织和高校

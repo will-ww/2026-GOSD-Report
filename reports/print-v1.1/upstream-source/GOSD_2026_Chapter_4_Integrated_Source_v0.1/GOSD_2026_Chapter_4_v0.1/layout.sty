@@ -1,0 +1,48 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{layout}[2026/11/10 GOSD insights 4.1 portrait sample]
+\RequirePackage[a4paper,margin=0mm]{geometry}
+\RequirePackage{fontspec,graphicx,xcolor,tikz,hyperref,bookmark}
+\usetikzlibrary{calc,arrows.meta}
+\setmainfont{NotoSerifCJKsc-Regular.otf}[Path=.build/fonts/,BoldFont=NotoSerifCJKsc-Bold.otf]
+\setsansfont{NotoSansCJKsc-Regular.otf}[Path=.build/fonts/,BoldFont=NotoSansCJKsc-Bold.otf]
+\newfontfamily\digits{Liberation Sans}
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip=0pt plus 1pt
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+\pagestyle{empty}
+\definecolor{navy}{HTML}{13253D}
+\definecolor{ink}{HTML}{1B2D40}
+\definecolor{muted}{HTML}{5C6B7A}
+\definecolor{line}{HTML}{D9DFE4}
+\definecolor{paper}{HTML}{F6F8FA}
+\definecolor{blue}{HTML}{155FA8}
+\definecolor{teal}{HTML}{007D78}
+\definecolor{gold}{HTML}{8E6500}
+\definecolor{violet}{HTML}{943B9A}
+\definecolor{cyan}{HTML}{24C4E5}
+\definecolor{lime}{HTML}{9DCD37}
+\definecolor{orange}{HTML}{FF8A37}
+\definecolor{trail0}{HTML}{155FA8}
+\definecolor{trail1}{HTML}{087C99}
+\definecolor{trail2}{HTML}{007D78}
+\definecolor{trail3}{HTML}{267D4E}
+\definecolor{trail4}{HTML}{537D25}
+\definecolor{trail5}{HTML}{8E6500}
+\definecolor{trail6}{HTML}{AD4E22}
+\definecolor{trail7}{HTML}{B53863}
+\definecolor{trail8}{HTML}{943B9A}
+\definecolor{trail9}{HTML}{6146A5}
+\color{ink}
+\newcommand{\Pos}[2]{([xshift=#1mm,yshift=-#2mm]current page.north west)}
+\renewcommand{\Box}[4]{\node[anchor=north west,inner sep=0pt,outer sep=0pt] at \Pos{#1}{#2}{\begin{minipage}[t]{#3mm}\fontsize{10.8}{18.4}\selectfont\color{ink}#4\end{minipage}};}
+\newcommand{\Rect}[5]{\pgfmathsetmacro{\Rx}{#1+#3}\pgfmathsetmacro{\Ry}{#2+#4}\fill[#5] \Pos{#1}{#2} rectangle \Pos{\Rx}{\Ry};}
+\newcommand{\Rule}[4]{\draw[#4,line width=.4pt] \Pos{#1}{#2} -- \Pos{#3}{#2};}
+\newcommand{\Small}[4]{\Box{#1}{#2}{#3}{\sffamily\fontsize{8.2}{12}\selectfont\color{muted}#4}}
+\newenvironment{canvas}{\null\begin{tikzpicture}[remember picture,overlay]}{\end{tikzpicture}\newpage}
+\RequirePackage{booktabs,tabularx,array}
+\newcommand{\Header}[2]{\Box{15}{10}{135}{\sffamily\fontsize{7.7}{10}\selectfont\color{muted}\raisebox{-2.1mm}{\includegraphics[width=7mm]{.build/assets/osdgs-compact.pdf}}\hspace{2mm}\textbf{GOSD 2026}\quad 全球开源发展报告·精要版}\Box{149}{12.7}{46}{\raggedleft\sffamily\fontsize{7.7}{10}\selectfont\color{muted}#1}\Rule{15}{21}{195}{line}\Rect{15}{20.6}{12}{.8}{#2}\Rect{133}{20.7}{5}{.5}{trail0}\Rect{139.2}{20.7}{5}{.5}{trail1}\Rect{145.4}{20.7}{5}{.5}{trail2}\Rect{151.6}{20.7}{5}{.5}{trail3}\Rect{157.8}{20.7}{5}{.5}{trail4}\Rect{164}{20.7}{5}{.5}{trail5}\Rect{170.2}{20.7}{5}{.5}{trail6}\Rect{176.4}{20.7}{5}{.5}{trail7}\Rect{182.6}{20.7}{5}{.5}{trail8}\Rect{188.8}{20.7}{5}{.5}{trail9}}
+\newcommand{\Footer}[1]{\Rule{15}{283}{195}{line}\Small{15}{286}{155}{OPEN SOURCE / A SHARED INTELLIGENT FUTURE}\Box{182}{284.7}{13}{\raggedleft\digits\fontsize{11}{13}\selectfont\color{navy}#1}}
+\hyphenpenalty=10000
+\exhyphenpenalty=10000
+\hypersetup{colorlinks=true,urlcolor=teal,linkcolor=teal,pdftitle={GOSD 2026 精要版 4.1 Agentic AI 全景洞察 v0.3},pdfauthor={全球开源发展报告编制组},pdfsubject={技术全景、项目排名与国家贡献观察},pdfpagemode=UseOutlines,pdfstartview=Fit}

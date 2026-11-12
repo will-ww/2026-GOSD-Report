@@ -1,0 +1,27 @@
+[
+  {
+    "figure": "five-actions",
+    "out_of_bounds": [],
+    "overlaps": []
+  },
+  {
+    "figure": "participant-sets",
+    "out_of_bounds": [],
+    "overlaps": []
+  },
+  {
+    "figure": "openrank-matrix",
+    "out_of_bounds": [],
+    "overlaps": []
+  },
+  {
+    "figure": "time-windows",
+    "out_of_bounds": [],
+    "overlaps": []
+  },
+  {
+    "figure": "model-units",
+    "out_of_bounds": [],
+    "overlaps": []
+  }
+]

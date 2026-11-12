@@ -1,0 +1,45 @@
+{
+	"meta":
+	[
+		{
+			"name": "id",
+			"type": "LowCardinality(String)"
+		},
+		{
+			"name": "platform",
+			"type": "LowCardinality(String)"
+		},
+		{
+			"name": "name",
+			"type": "LowCardinality(String)"
+		},
+		{
+			"name": "entity_id",
+			"type": "UInt64"
+		},
+		{
+			"name": "entity_type",
+			"type": "Enum8('Repo' = 1, 'Org' = 2, 'User' = 3)"
+		}
+	],
+
+	"data":
+	[
+		{
+			"id": ":companies\/huawei\/cann",
+			"platform": "AtomGit",
+			"name": "CANN",
+			"entity_id": "5162848",
+			"entity_type": "Org"
+		}
+	],
+
+	"rows": 1,
+
+	"statistics":
+	{
+		"elapsed": 0.002386634,
+		"rows_read": 8192,
+		"bytes_read": 165569
+	}
+}

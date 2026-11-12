@@ -1,0 +1,174 @@
+[
+  {
+    "section": "3.2",
+    "title": "3.2 全球开源企业影响力排行榜",
+    "intro": "企业把项目供给、开发者协作与持续维护连接起来。OpenRank 衡量协作网络影响；总部节点、国别席位和榜内分值，则补充说明组织布局与影响位置。",
+    "figure": "fig-3-4-companies-global",
+    "caption": "图 3-4　企业前 20 位及全球 100 强的国别、席位与分值构成。来源：报告底表［C1］；OpenDigger 主统计期重算［C7］，前 30 家分值逐项一致。分值窗口：2025.07—2026.06；国别为组织标签，总部为官网核对例证。",
+    "analyses": [
+      [
+        "① 三项指标呈现不同的组织组合",
+        "微软、华为、谷歌居前三，OpenRank 分别为 16.71 万、14.13 万、8.25 万。华为的仓库数量最多，微软的关联开发者最多。组织影响、供给规模与参与广度各有所指，不能据其中一项推断整体效率。"
+      ],
+      [
+        "② 100 强覆盖 15 国，总部提供组织入口",
+        "按单一国别标签统计，100 强分布于 15 个国家。地图着色表示企业数量，总部圆点另列六家例证。二者连接组织布局与具体城市；企业项目可以汇聚跨境参与，因此不应把总部国别视为贡献发生地。"
+      ],
+      [
+        "③ 扩展观察范围，显现更完整的企业梯次",
+        "美国占 70 席、中国占 12 席；德国 4 席，荷兰、法国各 2 席，其余十国各 1 席。中国在前 30 名有 4 家，第 31—100 名另有 8 家，涵盖百度、腾讯、PingCAP 等，补充了头部之外的组织观察。"
+      ],
+      [
+        "④ 前五名占 38.5%，后七十家占 25.3%",
+        "以 100 强分值合计为分母，前五名占 38.5%，前十名占 50.2%。第 31—100 名仍承载 25.3%，说明观察范围会改变集中度判断。合作资源既可连接大型平台，也应结合具体技术需求识别专业主体。"
+      ]
+    ],
+    "sources": [
+      {
+        "id": "C1",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-2-1_global_company_openrank_top30.csv",
+        "file": "table-3-2-1_global_company_openrank_top30.csv"
+      }
+    ],
+    "claim_ids": [
+      "I02",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "section": "3.2",
+    "title": "3.2.1 企业影响位置的持续与变化",
+    "intro": "全球十家企业的轨迹呈现两种节奏：头部位置的长期积累，以及部分 AI 相关企业的快速前移。年度与月度分别阅读，既观察趋势，也保留中途波动。",
+    "figure": "fig-3-5-companies-time",
+    "caption": "图 3-5a　全球十家企业的年度与月度排名。来源：全球年度表［C3］、月度表［C2］。年度保留原标签、覆盖期待核；月度为 2025.07—2026.06。Anthropic 年度位次单列，月度按本期前五与后五分组，坐标分别标明。",
+    "analyses": [
+      [
+        "① 长期梯次稳定，部分主体逐步前移",
+        "2022—2026 年度标签中，微软始终第 1，华为由第 5 前移至第 2，英伟达由第 18 前移至第 6。谷歌、Meta、亚马逊保持前五附近。进入前列既可能来自长期积累，也可能表现为连续年度的梯次上移。"
+      ],
+      [
+        "② Anthropic 提供另一条上升路径",
+        "Anthropic 从 2022 年度第 309 位到 2026 年度第 9 位，显著拓宽十家样本的变化幅度。单列尺度可以同时读清其前移与其他头部企业的差别；这一现象提示关注 AI 企业，但仍需项目证据解释原因。"
+      ],
+      [
+        "③ 月度换位改变近期头部组合",
+        "2026 年 3—6 月，华为连续居月榜第 1，微软居第 2。期末英伟达为第 4，Meta 第 5，亚马逊第 9。静态排名之外，连续月份可以显示相对位置何时调整，却不能替代分值或持续维护投入的核查。"
+      ],
+      [
+        "④ 快速前移也可能伴随明显波动",
+        "Anthropic 的月度位次从期初第 13 前移到 3—4 月第 6，期末回到第 13；Elastic 在 5 月到第 6，随后为第 8。年度结果不能抹平月度波动，追踪企业需要观察变化是否持续，而非把单次跃升等同结构性领先。"
+      ]
+    ],
+    "sources": [
+      {
+        "id": "C2",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/fig-3-2-2_global_company_monthly_rank.csv",
+        "file": "fig-3-2-2_global_company_monthly_rank.csv"
+      },
+      {
+        "id": "C3",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/fig-3-2-1_global_company_yearly_rank.csv",
+        "file": "fig-3-2-1_global_company_yearly_rank.csv"
+      },
+      {
+        "id": "C5",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/fig-3-2-4_china_company_monthly_rank.csv",
+        "file": "fig-3-2-4_china_company_monthly_rank.csv"
+      },
+      {
+        "id": "C6",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/fig-3-2-3_china_company_yearly_rank.csv",
+        "file": "fig-3-2-3_china_company_yearly_rank.csv"
+      }
+    ],
+    "claim_ids": [
+      "I02",
+      "I10"
+    ]
+  },
+  {
+    "section": "3.2",
+    "title": "3.2.1 企业影响位置的持续与变化（续）",
+    "intro": "中国十家企业的比较同时覆盖头部平台与专业技术企业。五年位置展示梯次形成，十二个月的记录进一步揭示近期换位，以及第二梯队内部的调整。",
+    "figure": "fig-3-5b-companies-time-china",
+    "caption": "图 3-5b　中国十家企业的年度与月度排名。来源：中国年度表［C6］、月度表［C5］。年度覆盖窗口待核；月度为 2025.07—2026.06。按本期前五与第六至十家分组，各面板分别标尺；本期选择不能代表历年全部企业。",
+    "analyses": [
+      [
+        "① 稳定的前两位与逐渐形成的新梯次",
+        "华为、阿里巴巴在五个年度标签中保持第 1、第 2；字节跳动由第 8 前移至第 3，蚂蚁集团与百度在第 3—5 位之间变化。扩大至十家后，长期稳定和内部重排可以同时呈现。"
+      ],
+      [
+        "② 专业主体补充头部之外的观察",
+        "腾讯、PingCAP、飞致云、乐鑫科技与赜睿信息科技在年度样本中形成第 5—12 位的不同轨迹。赜睿信息科技在 2025 年度第 12、2026 年度第 10；这类变化需要结合项目构成，不能仅凭排名解释业务成败。"
+      ],
+      [
+        "③ 近期换位需要与全年位置分开判断",
+        "2026 年 4—6 月，字节跳动连续居中国月榜第 2，阿里巴巴第 3；百度同期为第 6。月度次序补充了年度表，提供进一步查阅项目活动的时间线索，不把最近三个月直接外推为下一年度格局。"
+      ],
+      [
+        "④ 第二梯队在期末呈现不同方向",
+        "腾讯在 4—6 月保持第 5；飞致云由 5 月第 10 到 6 月第 8，乐鑫科技同期由第 8 到第 11。赜睿信息科技期末为第 9。专业主体的变化并不同步，合作选择应继续落实到具体技术和维护能力。"
+      ]
+    ],
+    "sources": [
+      {
+        "id": "C5",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/fig-3-2-4_china_company_monthly_rank.csv",
+        "file": "fig-3-2-4_china_company_monthly_rank.csv"
+      },
+      {
+        "id": "C6",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/fig-3-2-3_china_company_yearly_rank.csv",
+        "file": "fig-3-2-3_china_company_yearly_rank.csv"
+      }
+    ],
+    "claim_ids": [
+      "I02",
+      "I10"
+    ]
+  },
+  {
+    "section": "3.2",
+    "title": "3.2.2 中国企业：空间节点与结构差异",
+    "intro": "中国企业榜呈现大型项目组合与专业主体共存的格局。结合总部节点、分值集中度和模型企业的代码侧位置，可以进一步辨认组织承载、参与基础与跨平台影响的差别。",
+    "figure": "fig-3-6-companies-china",
+    "caption": "图 3-6　中国企业影响力、总部例证、榜内集中度与模型企业代码侧画像。来源：企业榜［C1］［C4］；总部据官网于 2026-11-10 核对（期后资料，企业名可点击）。总部仅列 9 家例证；人数位次在中国榜 30 家内重排，不是模型影响排名。 集中度对照统一限各自前 30 家。",
+    "analyses": [
+      [
+        "① 大型组合之外，专业主体构成支撑层",
+        "华为、阿里巴巴、字节跳动、蚂蚁集团居前四，PingCAP、飞致云、乐鑫科技等进入前十。不同企业连接不同规模的仓库和参与者。寻找产业合作伙伴，需要把组织榜单进一步落到具体技术、项目和维护团队。"
+      ],
+      [
+        "② 城市节点提供跨层观察的连接点",
+        "已核对总部例证覆盖北京、杭州、深圳、上海与合肥。杭州连接阿里巴巴与蚂蚁集团，深圳连接华为与腾讯；这些组织节点可与地区榜和项目图谱联读，支持地方识别合作资源，而非直接评价城市整体能力。"
+      ],
+      [
+        "③ 相同前 30 名口径下，榜首权重有别",
+        "为比较相同榜单深度，这里均取各自前 30 家：中国榜前五名占 79.3%，全球榜占 51.6%；榜首分别占 54.1% 和 18.0%。图 3-4 的 38.5% 则以全球 100 强为分母，二者不能混用，更不能推导中国的全球份额。"
+      ],
+      [
+        "④ 模型企业的参与基础与代码影响有别",
+        "深度求索的代码影响位次为第 26，关联开发者人数位次为第 10；Moonshot AI 分别为第 27、第 16。人数基础与网络影响并不同步。评价 AI 开源还须连接模型派生、采用及工具链维护，不能停留在企业代码榜。"
+      ]
+    ],
+    "sources": [
+      {
+        "id": "C1",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-2-1_global_company_openrank_top30.csv",
+        "file": "table-3-2-1_global_company_openrank_top30.csv"
+      },
+      {
+        "id": "C4",
+        "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter3/table-3-2-2_china_company_openrank_top30.csv",
+        "file": "table-3-2-2_china_company_openrank_top30.csv"
+      }
+    ],
+    "claim_ids": [
+      "I02",
+      "I10",
+      "I11",
+      "I12"
+    ]
+  }
+]

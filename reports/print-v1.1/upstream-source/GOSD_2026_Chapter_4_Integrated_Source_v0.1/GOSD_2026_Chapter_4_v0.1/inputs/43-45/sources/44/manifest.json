@@ -1,0 +1,962 @@
+{
+  "title": "数据库系统全景洞察",
+  "subtitle": "按数据组织方式与查询任务识别技术分工",
+  "main_period": {
+    "start": "2025-07-01",
+    "end": "2026-06-30"
+  },
+  "baseline_commit": "c51e3441361407b68f10b339d97eff288319b503",
+  "baseline_repository": "X-lab2017/2026-Global-Open-Source-Development-Report",
+  "representative_count": 16,
+  "sample_universe_count": 93,
+  "selection_note": "原报告93仓库中选16个功能代表，不是全量清单、排名、主期新增榜或许可证认证；图中大小相同，不编码OpenRank。",
+  "period_note": "16个代表仓库均通过2026-06-30以前提交核实存在。标签统计是固定报告样本的分类存量，不是主期新增或活跃量。",
+  "post_period_note": "分类采用固定报告中2026-10-17核验快照；官方logo于本次制作时提取，仅用于识别，不作为主期新增证据。",
+  "legend": "一项目只在一个主类出现；小标签保留上游分类。主分类不代表全部功能，完整标签也不是穷尽的能力清单。",
+  "groups": [
+    {
+      "id": "structured",
+      "name": "通用与结构化",
+      "subtitle": "事务、存储与组织方式",
+      "sample_count": 8,
+      "universe_count": 61
+    },
+    {
+      "id": "retrieval",
+      "name": "检索与关联",
+      "subtitle": "文档、搜索、向量与图",
+      "sample_count": 6,
+      "universe_count": 21
+    },
+    {
+      "id": "specialized",
+      "name": "专用数据语义",
+      "subtitle": "时空、对象与事件",
+      "sample_count": 2,
+      "universe_count": 11
+    }
+  ],
+  "entries": [
+    {
+      "id": "clickhouse",
+      "order": 1,
+      "name": "ClickHouse",
+      "display_name": "ClickHouse",
+      "repo": "ClickHouse/ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "group_id": "structured",
+      "primary_category": "relational",
+      "primary_category_name": "关系型",
+      "tags": [
+        "relational"
+      ],
+      "tag_names": [
+        "关系型"
+      ],
+      "purpose": "列式分析数据库",
+      "maintainer": "ClickHouse Inc. 与项目社区",
+      "maintainer_note": "维护主体说明，不表示全体贡献者均隶属于该组织。",
+      "logo": {
+        "id": "clickhouse",
+        "source_url": "https://raw.githubusercontent.com/ClickHouse/clickhouse-docs/HEAD/static/img/clickhouse-logo-mark.svg",
+        "file": "/workspace/shared/gosd44/logos/clickhouse.svg",
+        "bytes": 586,
+        "sha256": "99037fb343a0e32887d258c88f142c4f97124f8964ba1dfddf08f159bcdd1bf7",
+        "content_type": "image/svg+xml",
+        "png_file": "/workspace/shared/gosd44/logo_png/clickhouse.png",
+        "kind": "project",
+        "note": "官方项目图形或项目/产品共用品牌，不使用维护组织头像代替。",
+        "verified_visual": true,
+        "visible_bbox_on_white": [
+          0,
+          0,
+          800,
+          800
+        ],
+        "native_png_size": [
+          800,
+          800
+        ]
+      },
+      "png_file": "/workspace/shared/gosd44/logo_png/clickhouse.png",
+      "logo_kind": "project",
+      "classification_source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "classification_snapshot_checked_at": "2026-10-17",
+      "exists_by_cutoff": true,
+      "cutoff_evidence": {
+        "repo": "ClickHouse/ClickHouse",
+        "sha": "5366fc746b13a51ff988a8927b9b9edcf7a75e54",
+        "date": "2026-06-30T23:58:09Z",
+        "url": "https://github.com/ClickHouse/ClickHouse/commit/5366fc746b13a51ff988a8927b9b9edcf7a75e54"
+      },
+      "notes": []
+    },
+    {
+      "id": "doris",
+      "order": 2,
+      "name": "Apache Doris",
+      "display_name": "Apache Doris",
+      "repo": "apache/doris",
+      "url": "https://github.com/apache/doris",
+      "group_id": "structured",
+      "primary_category": "relational",
+      "primary_category_name": "关系型",
+      "tags": [
+        "relational"
+      ],
+      "tag_names": [
+        "关系型"
+      ],
+      "purpose": "实时分析数据库",
+      "maintainer": "Apache Software Foundation / Doris PMC",
+      "maintainer_note": "维护主体说明，不表示全体贡献者均隶属于该组织。",
+      "logo": {
+        "id": "doris",
+        "source_url": "https://raw.githubusercontent.com/apache/doris-website/HEAD/static/images/brand-assets/apache-doris-logo-horizontal-primary.svg",
+        "file": "/workspace/shared/gosd44/logos/doris.svg",
+        "bytes": 3512,
+        "sha256": "3db5c05a8a90e3f5cc49c71c846c34904e41cfaaec251b0330d4b2531e1a91e9",
+        "content_type": "image/svg+xml",
+        "png_file": "/workspace/shared/gosd44/logo_png/doris.png",
+        "kind": "project",
+        "note": "官方项目图形或项目/产品共用品牌，不使用维护组织头像代替。",
+        "verified_visual": true,
+        "visible_bbox_on_white": [
+          112,
+          201,
+          688,
+          284
+        ],
+        "native_png_size": [
+          800,
+          485
+        ]
+      },
+      "png_file": "/workspace/shared/gosd44/logo_png/doris.png",
+      "logo_kind": "project",
+      "classification_source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "classification_snapshot_checked_at": "2026-10-17",
+      "exists_by_cutoff": true,
+      "cutoff_evidence": {
+        "repo": "apache/doris",
+        "sha": "c23c9914ad4b776884e9359b0206ab91f8b7fca7",
+        "date": "2026-06-30T13:38:03Z",
+        "url": "https://github.com/apache/doris/commit/c23c9914ad4b776884e9359b0206ab91f8b7fca7"
+      },
+      "notes": []
+    },
+    {
+      "id": "duckdb",
+      "order": 3,
+      "name": "DuckDB",
+      "display_name": "DuckDB",
+      "repo": "duckdb/duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "group_id": "structured",
+      "primary_category": "relational",
+      "primary_category_name": "关系型",
+      "tags": [
+        "relational"
+      ],
+      "tag_names": [
+        "关系型"
+      ],
+      "purpose": "嵌入式分析数据库",
+      "maintainer": "DuckDB Foundation 与 DuckDB Labs",
+      "maintainer_note": "维护主体说明，不表示全体贡献者均隶属于该组织。",
+      "logo": {
+        "id": "duckdb",
+        "source_url": "https://raw.githubusercontent.com/duckdb/duckdb/HEAD/logo/DuckDB_Logo-horizontal.svg",
+        "file": "/workspace/shared/gosd44/logos/duckdb.svg",
+        "bytes": 1932,
+        "sha256": "62732653359a3d3aea65ee20e1651e6e5e29fa66675666362748a62a61df27db",
+        "content_type": "image/svg+xml",
+        "png_file": "/workspace/shared/gosd44/logo_png/duckdb.png",
+        "kind": "project",
+        "note": "官方项目图形或项目/产品共用品牌，不使用维护组织头像代替。",
+        "verified_visual": true,
+        "visible_bbox_on_white": [
+          3,
+          3,
+          797,
+          225
+        ],
+        "native_png_size": [
+          800,
+          228
+        ]
+      },
+      "png_file": "/workspace/shared/gosd44/logo_png/duckdb.png",
+      "logo_kind": "project",
+      "classification_source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "classification_snapshot_checked_at": "2026-10-17",
+      "exists_by_cutoff": true,
+      "cutoff_evidence": {
+        "repo": "duckdb/duckdb",
+        "sha": "80b92a9c7b21ef2bd08338eb8b5cbf2f768606c6",
+        "date": "2026-06-30T22:03:29Z",
+        "url": "https://github.com/duckdb/duckdb/commit/80b92a9c7b21ef2bd08338eb8b5cbf2f768606c6"
+      },
+      "notes": []
+    },
+    {
+      "id": "ydb",
+      "order": 4,
+      "name": "YDB",
+      "display_name": "YDB",
+      "repo": "ydb-platform/ydb",
+      "url": "https://github.com/ydb-platform/ydb",
+      "group_id": "structured",
+      "primary_category": "key_value",
+      "primary_category_name": "键值",
+      "tags": [
+        "relational",
+        "key_value",
+        "document"
+      ],
+      "tag_names": [
+        "关系型",
+        "键值",
+        "文档"
+      ],
+      "purpose": "分布式 SQL 与多模型",
+      "maintainer": "YDB Platform 项目社区",
+      "maintainer_note": "维护主体说明，不表示全体贡献者均隶属于该组织。",
+      "logo": {
+        "id": "ydb",
+        "source_url": "https://raw.githubusercontent.com/ydb-platform/ydb/HEAD/ydb/docs/_assets/logo.svg",
+        "file": "/workspace/shared/gosd44/logos/ydb.svg",
+        "bytes": 2312,
+        "sha256": "0f1220a6b02e6c54679d62aed52e9595e713f30661603a7c5cdfe0e015a55db7",
+        "content_type": "image/svg+xml",
+        "png_file": "/workspace/shared/gosd44/logo_png/ydb.png",
+        "kind": "project",
+        "note": "官方项目图形或项目/产品共用品牌，不使用维护组织头像代替。",
+        "verified_visual": true,
+        "visible_bbox_on_white": [
+          0,
+          0,
+          800,
+          800
+        ],
+        "native_png_size": [
+          800,
+          800
+        ]
+      },
+      "png_file": "/workspace/shared/gosd44/logo_png/ydb.png",
+      "logo_kind": "project",
+      "classification_source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "classification_snapshot_checked_at": "2026-10-17",
+      "exists_by_cutoff": true,
+      "cutoff_evidence": {
+        "repo": "ydb-platform/ydb",
+        "sha": "76403ce74c3e525036d280c653b805537bf03a6d",
+        "date": "2026-06-30T23:53:19Z",
+        "url": "https://github.com/ydb-platform/ydb/commit/76403ce74c3e525036d280c653b805537bf03a6d"
+      },
+      "notes": []
+    },
+    {
+      "id": "tidb",
+      "order": 5,
+      "name": "TiDB",
+      "display_name": "TiDB",
+      "repo": "pingcap/tidb",
+      "url": "https://github.com/pingcap/tidb",
+      "group_id": "structured",
+      "primary_category": "key_value",
+      "primary_category_name": "键值",
+      "tags": [
+        "relational",
+        "key_value"
+      ],
+      "tag_names": [
+        "关系型",
+        "键值"
+      ],
+      "purpose": "分布式 SQL / HTAP",
+      "maintainer": "PingCAP 与 TiDB 社区",
+      "maintainer_note": "维护主体说明，不表示全体贡献者均隶属于该组织。",
+      "logo": {
+        "id": "tidb",
+        "source_url": "https://raw.githubusercontent.com/pingcap/tidb/HEAD/docs/tidb-logo.png",
+        "file": "/workspace/shared/gosd44/logos/tidb.png",
+        "bytes": 20225,
+        "sha256": "68fe231403731c316d9be2464b16c7bc320b083d5c658b2143fa0fa08538fe12",
+        "content_type": "image/png",
+        "png_file": "/workspace/shared/gosd44/logo_png/tidb.png",
+        "kind": "project",
+        "note": "官方项目图形或项目/产品共用品牌，不使用维护组织头像代替。",
+        "verified_visual": true,
+        "visible_bbox_on_white": [
+          140,
+          140,
+          1341,
+          627
+        ],
+        "native_png_size": [
+          1481,
+          768
+        ]
+      },
+      "png_file": "/workspace/shared/gosd44/logo_png/tidb.png",
+      "logo_kind": "project",
+      "classification_source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "classification_snapshot_checked_at": "2026-10-17",
+      "exists_by_cutoff": true,
+      "cutoff_evidence": {
+        "repo": "pingcap/tidb",
+        "sha": "693e52cd51bd8565795ad9c650dd8ac743fc26fe",
+        "date": "2026-06-30T10:13:39Z",
+        "url": "https://github.com/pingcap/tidb/commit/693e52cd51bd8565795ad9c650dd8ac743fc26fe"
+      },
+      "notes": []
+    },
+    {
+      "id": "valkey",
+      "order": 6,
+      "name": "Valkey",
+      "display_name": "Valkey",
+      "repo": "valkey-io/valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "group_id": "structured",
+      "primary_category": "key_value",
+      "primary_category_name": "键值",
+      "tags": [
+        "key_value"
+      ],
+      "tag_names": [
+        "键值"
+      ],
+      "purpose": "内存键值存储",
+      "maintainer": "Linux Foundation / Valkey 社区",
+      "maintainer_note": "维护主体说明，不表示全体贡献者均隶属于该组织。",
+      "logo": {
+        "id": "valkey",
+        "source_url": "https://raw.githubusercontent.com/valkey-io/valkey-io.github.io/HEAD/static/img/Valkey-logo.svg",
+        "file": "/workspace/shared/gosd44/logos/valkey.svg",
+        "bytes": 1365,
+        "sha256": "36a2375e56420a570f6a0346dde019314204c05f5326c0f00d39114e63397f37",
+        "content_type": "image/svg+xml",
+        "png_file": "/workspace/shared/gosd44/logo_png/valkey.png",
+        "kind": "project",
+        "note": "官方项目图形或项目/产品共用品牌，不使用维护组织头像代替。",
+        "verified_visual": true,
+        "visible_bbox_on_white": [
+          12,
+          25,
+          767,
+          897
+        ],
+        "native_png_size": [
+          800,
+          913
+        ]
+      },
+      "png_file": "/workspace/shared/gosd44/logo_png/valkey.png",
+      "logo_kind": "project",
+      "classification_source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "classification_snapshot_checked_at": "2026-10-17",
+      "exists_by_cutoff": true,
+      "cutoff_evidence": {
+        "repo": "valkey-io/valkey",
+        "sha": "eefa8927dc2ba7bb9edf62f9288d155e74df59ff",
+        "date": "2026-06-30T23:30:18Z",
+        "url": "https://github.com/valkey-io/valkey/commit/eefa8927dc2ba7bb9edf62f9288d155e74df59ff"
+      },
+      "notes": []
+    },
+    {
+      "id": "hbase",
+      "order": 7,
+      "name": "Apache HBase",
+      "display_name": "Apache HBase",
+      "repo": "apache/hbase",
+      "url": "https://github.com/apache/hbase",
+      "group_id": "structured",
+      "primary_category": "wide_column",
+      "primary_category_name": "宽列",
+      "tags": [
+        "wide_column"
+      ],
+      "tag_names": [
+        "宽列"
+      ],
+      "purpose": "宽列分布式存储",
+      "maintainer": "Apache Software Foundation / HBase PMC",
+      "maintainer_note": "维护主体说明，不表示全体贡献者均隶属于该组织。",
+      "logo": {
+        "id": "hbase",
+        "source_url": "https://raw.githubusercontent.com/apache/hbase/master/hbase-website/public/docs-images/hbase_logo_with_orca_large.png",
+        "file": "/workspace/shared/gosd44/logos/hbase.png",
+        "bytes": 21196,
+        "sha256": "77cae7b09dd7bbe24aba68ea5d325ad44abdf40f101176ccb765e570cd5d3241",
+        "content_type": "image/png",
+        "png_file": "/workspace/shared/gosd44/logo_png/hbase.png",
+        "kind": "project",
+        "note": "官方项目图形或项目/产品共用品牌，不使用维护组织头像代替。",
+        "verified_visual": true,
+        "visible_bbox_on_white": [
+          5,
+          2,
+          466,
+          118
+        ],
+        "native_png_size": [
+          470,
+          120
+        ]
+      },
+      "png_file": "/workspace/shared/gosd44/logo_png/hbase.png",
+      "logo_kind": "project",
+      "classification_source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/wide_column.yml",
+      "classification_snapshot_checked_at": "2026-10-17",
+      "exists_by_cutoff": true,
+      "cutoff_evidence": {
+        "repo": "apache/hbase",
+        "sha": "17c266efc4fccf425e6a7926be943edae283f49e",
+        "date": "2026-06-30T19:42:11Z",
+        "url": "https://github.com/apache/hbase/commit/17c266efc4fccf425e6a7926be943edae283f49e"
+      },
+      "notes": []
+    },
+    {
+      "id": "starrocks",
+      "order": 8,
+      "name": "StarRocks",
+      "display_name": "StarRocks",
+      "repo": "StarRocks/starrocks",
+      "url": "https://github.com/StarRocks/starrocks",
+      "group_id": "structured",
+      "primary_category": "wide_column",
+      "primary_category_name": "宽列",
+      "tags": [
+        "relational",
+        "wide_column"
+      ],
+      "tag_names": [
+        "关系型",
+        "宽列"
+      ],
+      "purpose": "MPP 实时分析",
+      "maintainer": "StarRocks 项目社区",
+      "maintainer_note": "维护主体说明，不表示全体贡献者均隶属于该组织。",
+      "logo": {
+        "id": "starrocks",
+        "source_url": "https://raw.githubusercontent.com/StarRocks/starrocks/HEAD/docs/docusaurus/static/img/logo.svg",
+        "file": "/workspace/shared/gosd44/logos/starrocks.svg",
+        "bytes": 2270,
+        "sha256": "d858020733c75f51c32f55f1b5785cf12dc7c7d3729bb641148f0d8094574b1b",
+        "content_type": "image/svg+xml",
+        "png_file": "/workspace/shared/gosd44/logo_png/starrocks.png",
+        "kind": "project",
+        "note": "官方项目图形或项目/产品共用品牌，不使用维护组织头像代替。",
+        "verified_visual": true,
+        "visible_bbox_on_white": [
+          0,
+          14,
+          800,
+          911
+        ],
+        "native_png_size": [
+          800,
+          919
+        ]
+      },
+      "png_file": "/workspace/shared/gosd44/logo_png/starrocks.png",
+      "logo_kind": "project",
+      "classification_source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/wide_column.yml",
+      "classification_snapshot_checked_at": "2026-10-17",
+      "exists_by_cutoff": true,
+      "cutoff_evidence": {
+        "repo": "StarRocks/starrocks",
+        "sha": "5702ecbf0e012c9ca67b86ac8bdbbd703c9262a7",
+        "date": "2026-06-30T22:51:09Z",
+        "url": "https://github.com/StarRocks/starrocks/commit/5702ecbf0e012c9ca67b86ac8bdbbd703c9262a7"
+      },
+      "notes": []
+    },
+    {
+      "id": "elasticsearch",
+      "order": 9,
+      "name": "Elasticsearch",
+      "display_name": "Elasticsearch",
+      "repo": "elastic/elasticsearch",
+      "url": "https://github.com/elastic/elasticsearch",
+      "group_id": "retrieval",
+      "primary_category": "search_engine",
+      "primary_category_name": "搜索引擎",
+      "tags": [
+        "document",
+        "search_engine"
+      ],
+      "tag_names": [
+        "文档",
+        "搜索引擎"
+      ],
+      "purpose": "全文与向量检索",
+      "maintainer": "Elastic 与项目社区",
+      "maintainer_note": "维护主体说明，不表示全体贡献者均隶属于该组织。",
+      "logo": {
+        "id": "elasticsearch",
+        "source_url": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blta703ccddc3abbbd6/6813d08e8638c930acff4779/logoparade-elasticsearch.png",
+        "file": "/workspace/shared/gosd44/logos/elasticsearch.png",
+        "png_file": "/workspace/shared/gosd44/logo_png/elasticsearch.png",
+        "bytes": 3881,
+        "sha256": "6dcd329c2f2518f2ea5bfbe2f3352ab96cd52730c31eacc02f474521a5e1068c",
+        "content_type": "image/png",
+        "source_page": "https://www.elastic.co/elasticsearch/",
+        "kind": "project",
+        "note": "官方项目图形或项目/产品共用品牌，不使用维护组织头像代替。",
+        "verified_visual": true,
+        "visible_bbox_on_white": [
+          148,
+          48,
+          255,
+          169
+        ],
+        "native_png_size": [
+          404,
+          218
+        ]
+      },
+      "png_file": "/workspace/shared/gosd44/logo_png/elasticsearch.png",
+      "logo_kind": "project",
+      "classification_source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "classification_snapshot_checked_at": "2026-10-17",
+      "exists_by_cutoff": true,
+      "cutoff_evidence": {
+        "repo": "elastic/elasticsearch",
+        "sha": "f84fbb98789a7f5b3b2b978b8a8c113cc08c653c",
+        "date": "2026-06-30T21:34:45Z",
+        "url": "https://github.com/elastic/elasticsearch/commit/f84fbb98789a7f5b3b2b978b8a8c113cc08c653c"
+      },
+      "notes": []
+    },
+    {
+      "id": "opensearch",
+      "order": 10,
+      "name": "OpenSearch",
+      "display_name": "OpenSearch",
+      "repo": "opensearch-project/OpenSearch",
+      "url": "https://github.com/opensearch-project/OpenSearch",
+      "group_id": "retrieval",
+      "primary_category": "search_engine",
+      "primary_category_name": "搜索引擎",
+      "tags": [
+        "search_engine"
+      ],
+      "tag_names": [
+        "搜索引擎"
+      ],
+      "purpose": "搜索与分析",
+      "maintainer": "OpenSearch Software Foundation / Linux Foundation",
+      "maintainer_note": "维护主体说明，不表示全体贡献者均隶属于该组织。",
+      "logo": {
+        "id": "opensearch",
+        "source_url": "https://opensearch.org/assets/img/opensearch-logo-themed.svg",
+        "file": "/workspace/shared/gosd44/logos/opensearch.svg",
+        "bytes": 7480,
+        "sha256": "44e0882ef03a40fefc148bab511a9b6bbc394c1865500206f6532f66bf4f4482",
+        "content_type": "image/svg+xml",
+        "png_file": "/workspace/shared/gosd44/logo_png/opensearch.png",
+        "kind": "project",
+        "note": "官方项目图形或项目/产品共用品牌，不使用维护组织头像代替。",
+        "verified_visual": true,
+        "visible_bbox_on_white": [
+          0,
+          1,
+          799,
+          154
+        ],
+        "native_png_size": [
+          800,
+          155
+        ]
+      },
+      "png_file": "/workspace/shared/gosd44/logo_png/opensearch.png",
+      "logo_kind": "project",
+      "classification_source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "classification_snapshot_checked_at": "2026-10-17",
+      "exists_by_cutoff": true,
+      "cutoff_evidence": {
+        "repo": "opensearch-project/OpenSearch",
+        "sha": "1e31adf1a2a11e01ed693ba1fae182a0507808c6",
+        "date": "2026-06-30T23:11:58Z",
+        "url": "https://github.com/opensearch-project/OpenSearch/commit/1e31adf1a2a11e01ed693ba1fae182a0507808c6"
+      },
+      "notes": []
+    },
+    {
+      "id": "lancedb",
+      "order": 11,
+      "name": "LanceDB",
+      "display_name": "LanceDB",
+      "repo": "lancedb/lancedb",
+      "url": "https://github.com/lancedb/lancedb",
+      "group_id": "retrieval",
+      "primary_category": "document",
+      "primary_category_name": "文档",
+      "tags": [
+        "document"
+      ],
+      "tag_names": [
+        "文档"
+      ],
+      "purpose": "向量与多模态数据",
+      "maintainer": "LanceDB 与项目社区",
+      "maintainer_note": "维护主体说明，不表示全体贡献者均隶属于该组织。",
+      "logo": {
+        "id": "lancedb",
+        "source_url": "https://raw.githubusercontent.com/lancedb/lancedb/HEAD/docs/web/static/assets/logo/dark-lancedb-logo.svg",
+        "file": "/workspace/shared/gosd44/logos/lancedb.svg",
+        "bytes": 8643,
+        "sha256": "78dba1de43031cd3b1d9fe64df81b1ff6a39b38a1056c1b2a2737e169fe8b171",
+        "content_type": "image/svg+xml",
+        "png_file": "/workspace/shared/gosd44/logo_png/lancedb.png",
+        "kind": "project",
+        "note": "官方项目图形或项目/产品共用品牌，不使用维护组织头像代替。",
+        "verified_visual": true,
+        "visible_bbox_on_white": [
+          0,
+          0,
+          800,
+          187
+        ],
+        "native_png_size": [
+          800,
+          187
+        ]
+      },
+      "png_file": "/workspace/shared/gosd44/logo_png/lancedb.png",
+      "logo_kind": "project",
+      "classification_source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/document.yml",
+      "classification_snapshot_checked_at": "2026-10-17",
+      "exists_by_cutoff": true,
+      "cutoff_evidence": {
+        "repo": "lancedb/lancedb",
+        "sha": "3a7b02119bf378e3918fc7a83e0e17762bba114a",
+        "date": "2026-06-30T22:24:56Z",
+        "url": "https://github.com/lancedb/lancedb/commit/3a7b02119bf378e3918fc7a83e0e17762bba114a"
+      },
+      "notes": [
+        "原报告主展示类为文档；官方项目功能包括向量与多模态，未擅自改动统计标签。"
+      ]
+    },
+    {
+      "id": "milvus",
+      "order": 12,
+      "name": "Milvus",
+      "display_name": "Milvus",
+      "repo": "milvus-io/milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "group_id": "retrieval",
+      "primary_category": "vector",
+      "primary_category_name": "向量",
+      "tags": [
+        "vector"
+      ],
+      "tag_names": [
+        "向量"
+      ],
+      "purpose": "向量检索数据库",
+      "maintainer": "LF AI & Data / Milvus 社区",
+      "maintainer_note": "维护主体说明，不表示全体贡献者均隶属于该组织。",
+      "logo": {
+        "id": "milvus",
+        "source_url": "https://raw.githubusercontent.com/milvus-io/artwork/HEAD/horizontal/color/milvus-horizontal-color.svg",
+        "file": "/workspace/shared/gosd44/logos/milvus.svg",
+        "bytes": 8016,
+        "sha256": "7519cb045f74974a3f8e685b6d48289d705c31c0e785d720581aebc3e2c89403",
+        "content_type": "image/svg+xml",
+        "png_file": "/workspace/shared/gosd44/logo_png/milvus.png",
+        "kind": "project",
+        "note": "官方项目图形或项目/产品共用品牌，不使用维护组织头像代替。",
+        "verified_visual": true,
+        "visible_bbox_on_white": [
+          13,
+          10,
+          787,
+          170
+        ],
+        "native_png_size": [
+          800,
+          180
+        ]
+      },
+      "png_file": "/workspace/shared/gosd44/logo_png/milvus.png",
+      "logo_kind": "project",
+      "classification_source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/vector.yml",
+      "classification_snapshot_checked_at": "2026-10-17",
+      "exists_by_cutoff": true,
+      "cutoff_evidence": {
+        "repo": "milvus-io/milvus",
+        "sha": "453a6f5193f0a0a9468bab642447dde255aa5812",
+        "date": "2026-06-30T23:04:28Z",
+        "url": "https://github.com/milvus-io/milvus/commit/453a6f5193f0a0a9468bab642447dde255aa5812"
+      },
+      "notes": []
+    },
+    {
+      "id": "qdrant",
+      "order": 13,
+      "name": "Qdrant",
+      "display_name": "Qdrant",
+      "repo": "qdrant/qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "group_id": "retrieval",
+      "primary_category": "vector",
+      "primary_category_name": "向量",
+      "tags": [
+        "vector"
+      ],
+      "tag_names": [
+        "向量"
+      ],
+      "purpose": "向量相似性检索",
+      "maintainer": "Qdrant 与项目社区",
+      "maintainer_note": "维护主体说明，不表示全体贡献者均隶属于该组织。",
+      "logo": {
+        "id": "qdrant",
+        "source_url": "https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg",
+        "file": "/workspace/shared/gosd44/logos/qdrant.svg",
+        "bytes": 5042,
+        "sha256": "fc8dab429966cc2fbc396b7801945424a910983e9e9aef3c89e5f30ecbfbb181",
+        "content_type": "image/svg+xml",
+        "png_file": "/workspace/shared/gosd44/logo_png/qdrant.png",
+        "kind": "project",
+        "note": "官方项目图形或项目/产品共用品牌，不使用维护组织头像代替。",
+        "verified_visual": true,
+        "visible_bbox_on_white": [
+          0,
+          0,
+          800,
+          213
+        ],
+        "native_png_size": [
+          800,
+          213
+        ]
+      },
+      "png_file": "/workspace/shared/gosd44/logo_png/qdrant.png",
+      "logo_kind": "project",
+      "classification_source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/vector.yml",
+      "classification_snapshot_checked_at": "2026-10-17",
+      "exists_by_cutoff": true,
+      "cutoff_evidence": {
+        "repo": "qdrant/qdrant",
+        "sha": "44ad62f8cd69642be5afa6441612525e24a0d063",
+        "date": "2026-06-03T15:09:21Z",
+        "url": "https://github.com/qdrant/qdrant/commit/44ad62f8cd69642be5afa6441612525e24a0d063"
+      },
+      "notes": []
+    },
+    {
+      "id": "weaviate",
+      "order": 14,
+      "name": "Weaviate",
+      "display_name": "Weaviate",
+      "repo": "weaviate/weaviate",
+      "url": "https://github.com/weaviate/weaviate",
+      "group_id": "retrieval",
+      "primary_category": "vector",
+      "primary_category_name": "向量",
+      "tags": [
+        "vector"
+      ],
+      "tag_names": [
+        "向量"
+      ],
+      "purpose": "向量与语义检索",
+      "maintainer": "Weaviate 与项目社区",
+      "maintainer_note": "维护主体说明，不表示全体贡献者均隶属于该组织。",
+      "logo": {
+        "id": "weaviate",
+        "source_url": "https://weaviate.io/img/site/weaviate-logo-light.png",
+        "file": "/workspace/shared/gosd44/logos/weaviate.png",
+        "bytes": 114508,
+        "sha256": "672cd8b62590a36f77527d6a199b18e786b19d0b7e792d13c5cd212fedafb667",
+        "content_type": "image/png",
+        "png_file": "/workspace/shared/gosd44/logo_png/weaviate.png",
+        "kind": "project",
+        "note": "官方项目图形或项目/产品共用品牌，不使用维护组织头像代替。",
+        "verified_visual": true,
+        "visible_bbox_on_white": [
+          72,
+          139,
+          555,
+          429
+        ],
+        "native_png_size": [
+          626,
+          443
+        ]
+      },
+      "png_file": "/workspace/shared/gosd44/logo_png/weaviate.png",
+      "logo_kind": "project",
+      "classification_source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/vector.yml",
+      "classification_snapshot_checked_at": "2026-10-17",
+      "exists_by_cutoff": true,
+      "cutoff_evidence": {
+        "repo": "weaviate/weaviate",
+        "sha": "1657926b74712cc257c26c840fef7c3fb0b04802",
+        "date": "2026-06-30T18:15:31Z",
+        "url": "https://github.com/weaviate/weaviate/commit/1657926b74712cc257c26c840fef7c3fb0b04802"
+      },
+      "notes": []
+    },
+    {
+      "id": "prometheus",
+      "order": 15,
+      "name": "Prometheus",
+      "display_name": "Prometheus",
+      "repo": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "group_id": "specialized",
+      "primary_category": "time_series",
+      "primary_category_name": "时序",
+      "tags": [
+        "key_value",
+        "time_series"
+      ],
+      "tag_names": [
+        "键值",
+        "时序"
+      ],
+      "purpose": "指标与时序数据",
+      "maintainer": "CNCF / Prometheus 社区",
+      "maintainer_note": "维护主体说明，不表示全体贡献者均隶属于该组织。",
+      "logo": {
+        "id": "prometheus",
+        "source_url": "https://raw.githubusercontent.com/prometheus/prometheus/HEAD/documentation/images/prometheus-logo.svg",
+        "file": "/workspace/shared/gosd44/logos/prometheus.svg",
+        "bytes": 2778,
+        "sha256": "5c32e45d65d6d80f826b541733015dff80100fbec56534736e75cc5af73ed965",
+        "content_type": "image/svg+xml",
+        "png_file": "/workspace/shared/gosd44/logo_png/prometheus.png",
+        "kind": "project",
+        "note": "官方项目图形或项目/产品共用品牌，不使用维护组织头像代替。",
+        "verified_visual": true,
+        "visible_bbox_on_white": [
+          0,
+          4,
+          786,
+          791
+        ],
+        "native_png_size": [
+          800,
+          791
+        ]
+      },
+      "png_file": "/workspace/shared/gosd44/logo_png/prometheus.png",
+      "logo_kind": "project",
+      "classification_source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/time_series.yml",
+      "classification_snapshot_checked_at": "2026-10-17",
+      "exists_by_cutoff": true,
+      "cutoff_evidence": {
+        "repo": "prometheus/prometheus",
+        "sha": "7070104b3485ae8999d6e77f9c654df4af42b1d6",
+        "date": "2026-06-30T21:03:13Z",
+        "url": "https://github.com/prometheus/prometheus/commit/7070104b3485ae8999d6e77f9c654df4af42b1d6"
+      },
+      "notes": []
+    },
+    {
+      "id": "sedona",
+      "order": 16,
+      "name": "Apache Sedona",
+      "display_name": "Apache Sedona",
+      "repo": "apache/sedona",
+      "url": "https://github.com/apache/sedona",
+      "group_id": "specialized",
+      "primary_category": "spatial",
+      "primary_category_name": "空间",
+      "tags": [
+        "spatial"
+      ],
+      "tag_names": [
+        "空间"
+      ],
+      "purpose": "大规模空间数据处理",
+      "maintainer": "Apache Software Foundation / Sedona PMC",
+      "maintainer_note": "维护主体说明，不表示全体贡献者均隶属于该组织。",
+      "logo": {
+        "id": "sedona",
+        "source_url": "https://raw.githubusercontent.com/apache/sedona/HEAD/docs/image/sedona_logo.png",
+        "file": "/workspace/shared/gosd44/logos/sedona.png",
+        "bytes": 36172,
+        "sha256": "c2bc9bb9173e33431825b7bf392a7d435732e9c89d4c9183721707e9308ca651",
+        "content_type": "image/png",
+        "png_file": "/workspace/shared/gosd44/logo_png/sedona.png",
+        "kind": "project",
+        "note": "官方项目图形或项目/产品共用品牌，不使用维护组织头像代替。",
+        "verified_visual": true,
+        "visible_bbox_on_white": [
+          0,
+          0,
+          4459,
+          695
+        ],
+        "native_png_size": [
+          4459,
+          696
+        ]
+      },
+      "png_file": "/workspace/shared/gosd44/logo_png/sedona.png",
+      "logo_kind": "project",
+      "classification_source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/spatial.yml",
+      "classification_snapshot_checked_at": "2026-10-17",
+      "exists_by_cutoff": true,
+      "cutoff_evidence": {
+        "repo": "apache/sedona",
+        "sha": "f75bfd68ee853fa99397de18b1ba40c39cdfe708",
+        "date": "2026-06-26T17:19:40Z",
+        "url": "https://github.com/apache/sedona/commit/f75bfd68ee853fa99397de18b1ba40c39cdfe708"
+      },
+      "notes": []
+    }
+  ],
+  "statistic": {
+    "title": "单一主类会压缩多少多标签信息？",
+    "chart_type": "paired_horizontal_bars",
+    "unit": "仓库数",
+    "series": [
+      "主展示分类",
+      "含该标签的全部仓库"
+    ],
+    "rows": [
+      {
+        "category": "关系型",
+        "primary": 34,
+        "all_tags": 44
+      },
+      {
+        "category": "文档",
+        "primary": 5,
+        "all_tags": 18
+      },
+      {
+        "category": "宽列",
+        "primary": 5,
+        "all_tags": 10
+      }
+    ],
+    "callout": "31 / 93 个仓库有多个标签（33.3%）",
+    "scope_note": "全样本93仓库；共129次标签。不可按标签相加得项目总数，不可解释为市场份额。",
+    "source_file": "/workspace/shared/gosd44/source_database.json",
+    "recompute_script": "/workspace/shared/gosd44/recompute_stats.py"
+  },
+  "insights": [
+    "数据库技术分组存在交叉：93个样本中31个具有多个技术标签，主类只是避免重复展示的索引。",
+    "主类统计低估了文档与宽列覆盖：文档从5个主类项目扩展到18个带该标签项目，宽列从5个扩展到10个。"
+  ],
+  "data_status": {
+    "used": "固定报告显式项目名录、primary category与tags，逐条复算；不用估计或模拟值。",
+    "not_used": "旧landscape total_openrank及2022—2026年度CSV未作为本页数值。旧数值缺少可直接验证的月份窗口及聚合明细，不据此宣称主期增减。",
+    "simulation_audit": "基线可发现另章 supply_scenarios 标记完全模拟，不与数据库样本混用。本次未发现证据足以把全部旧数据库CSV断言为模拟；应称未通过本页窗口复核而排除。"
+  },
+  "source_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/preview/content/gosl/landscapes.json",
+  "source_local_sha256": "66d0de1662d5428fa6d4e4443ae630aaa27001c693b8e22a9bd1373ede6bb63c",
+  "logo_usage_note": "项目名称与标识归各权利人所有，仅作识别，不暗示背书。ClickHouse is a registered trademark of ClickHouse, Inc. https://clickhouse.com/"
+}

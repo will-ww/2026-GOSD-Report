@@ -1,0 +1,73 @@
+{
+  "global_29_country_us_cn_shares": [
+    34.1,
+    37.1,
+    89.1
+  ],
+  "agentic_landscape": {
+    "listed": 145,
+    "main_period_observed": 143,
+    "full_12_months": 107,
+    "agent_share": 52.3,
+    "model_share": 47.7,
+    "top_categories": [
+      {
+        "name": "编码代理",
+        "share": 18.3
+      },
+      {
+        "name": "推理引擎",
+        "share": 14.0
+      },
+      {
+        "name": "训练框架与并行",
+        "share": 8.5
+      }
+    ]
+  },
+  "hf_new_repositories_main_period": [
+    {
+      "type": "models",
+      "ten_thousands": 112.67,
+      "yoy_percent": 7.8
+    },
+    {
+      "type": "datasets",
+      "ten_thousands": 52.04,
+      "yoy_percent": 101.0
+    },
+    {
+      "type": "spaces",
+      "ten_thousands": 87.13,
+      "yoy_percent": 169.3
+    }
+  ],
+  "lineage": {
+    "nodes": 5777,
+    "edges": 5111,
+    "dual_role": 552,
+    "multi_upstream": 50,
+    "role_overlap": 16
+  },
+  "cann_main_period": {
+    "repositories": 68,
+    "nonbot_accounts": 5282,
+    "multi_repo_accounts": 1868,
+    "at_least_3_months_accounts": 1869
+  },
+  "china_resource_downloads": {
+    "top3_models_accounts": [
+      "Qwen",
+      "BAAI",
+      "deepseek-ai"
+    ],
+    "top3_datasets_accounts": [
+      "InternRobotics",
+      "zai-org",
+      "OpenGVLab"
+    ],
+    "top3_models_share": 79.3,
+    "zhejiang_models_share": 56.8,
+    "beijing_shanghai_datasets_share": 75.4
+  }
+}

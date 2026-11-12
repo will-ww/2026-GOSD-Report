@@ -1,0 +1,150 @@
+[
+  {
+    "model_id": "black-forest-labs/FLUX.1-dev",
+    "source_url": "https://huggingface.co/api/models/black-forest-labs/FLUX.1-dev",
+    "file": "data/identity/black-forest-labs__FLUX.1-dev.json",
+    "sha256": "22089f77e56798d0d6df2a3d09c599033c6723a21f05833e3c007a184de9ce93",
+    "retrieved_utc": "2026-11-07T00:37:58.097474+00:00",
+    "model_revision": "3de623fc3c33e44ffbe2bad470d0f45bccf2eb21",
+    "createdAt": "2024-07-31T21:13:44.000Z",
+    "card": {
+      "language": [
+        "en"
+      ],
+      "license": "other",
+      "license_name": "flux-1-dev-non-commercial-license",
+      "license_link": "LICENSE.md",
+      "extra_gated_prompt": "By clicking \"Agree\", you agree to the [FluxDev Non-Commercial License Agreement](https://huggingface.co/black-forest-labs/FLUX.1-dev/blob/main/LICENSE.md) and acknowledge the [Acceptable Use Policy](https://huggingface.co/black-forest-labs/FLUX.1-dev/blob/main/POLICY.md).",
+      "tags": [
+        "text-to-image",
+        "image-generation",
+        "flux"
+      ]
+    },
+    "pipeline_tag": "text-to-image",
+    "status": "ok"
+  },
+  {
+    "model_id": "stabilityai/stable-diffusion-xl-base-1.0",
+    "source_url": "https://huggingface.co/api/models/stabilityai/stable-diffusion-xl-base-1.0",
+    "file": "data/identity/stabilityai__stable-diffusion-xl-base-1.0.json",
+    "sha256": "36aaba20c3cb9a67dc4362d697d7da052b1d7845b02924847c88005f22d9e7c8",
+    "retrieved_utc": "2026-11-07T00:37:58.040852+00:00",
+    "model_revision": "462165984030d82259a11f4367a4eed129e94a7b",
+    "createdAt": "2023-07-25T13:25:51.000Z",
+    "card": {
+      "license": "openrail++",
+      "tags": [
+        "text-to-image",
+        "stable-diffusion"
+      ]
+    },
+    "pipeline_tag": "text-to-image",
+    "status": "ok"
+  },
+  {
+    "model_id": "Qwen/Qwen2.5-7B",
+    "source_url": "https://huggingface.co/api/models/Qwen/Qwen2.5-7B",
+    "file": "data/identity/Qwen__Qwen2.5-7B.json",
+    "sha256": "ddcde4c598a5753d4a1da3a388e3d2736a1c23612321dc7863cd14ba06f2ca76",
+    "retrieved_utc": "2026-11-07T00:37:58.093265+00:00",
+    "model_revision": "d149729398750b98c0af14eb82c78cfe92750796",
+    "createdAt": "2024-09-15T12:17:40.000Z",
+    "card": {
+      "license": "apache-2.0",
+      "license_link": "https://huggingface.co/Qwen/Qwen2.5-7B/blob/main/LICENSE",
+      "language": [
+        "en"
+      ],
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers"
+    },
+    "pipeline_tag": "text-generation",
+    "status": "ok"
+  },
+  {
+    "model_id": "Qwen/Qwen2.5-7B-Instruct",
+    "source_url": "https://huggingface.co/api/models/Qwen/Qwen2.5-7B-Instruct",
+    "file": "data/identity/Qwen__Qwen2.5-7B-Instruct.json",
+    "sha256": "b255c8b245263893a60cda0c1e53ea19b454f81a8da11b3c6485db6575e107f6",
+    "retrieved_utc": "2026-11-07T00:37:58.128982+00:00",
+    "model_revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+    "createdAt": "2024-09-16T11:55:40.000Z",
+    "card": {
+      "license": "apache-2.0",
+      "license_link": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct/blob/main/LICENSE",
+      "language": [
+        "en"
+      ],
+      "pipeline_tag": "text-generation",
+      "base_model": "Qwen/Qwen2.5-7B",
+      "tags": [
+        "chat"
+      ],
+      "library_name": "transformers"
+    },
+    "pipeline_tag": "text-generation",
+    "status": "ok"
+  },
+  {
+    "model_id": "unsloth/Qwen2.5-7B-Instruct",
+    "source_url": "https://huggingface.co/api/models/unsloth/Qwen2.5-7B-Instruct",
+    "file": "data/identity/unsloth__Qwen2.5-7B-Instruct.json",
+    "sha256": "0ff469de57022d07052fa3a5a8b494d98a5be13911cf5b335c94d0cd0e786763",
+    "retrieved_utc": "2026-11-07T00:37:58.037067+00:00",
+    "model_revision": "a75c9dc945567a9b6f568b8503a0307731607bee",
+    "createdAt": "2024-09-18T21:23:05.000Z",
+    "card": {
+      "base_model": "Qwen/Qwen2.5-7B-Instruct",
+      "language": [
+        "zho",
+        "eng",
+        "fra",
+        "spa",
+        "por",
+        "deu",
+        "ita",
+        "rus",
+        "jpn",
+        "kor",
+        "vie",
+        "tha",
+        "ara"
+      ],
+      "library_name": "transformers",
+      "license": "apache-2.0",
+      "tags": [
+        "unsloth",
+        "transformers"
+      ]
+    },
+    "pipeline_tag": "text-generation",
+    "status": "ok"
+  },
+  {
+    "model_id": "lerobot/smolvla_base",
+    "source_url": "https://huggingface.co/api/models/lerobot/smolvla_base",
+    "file": "data/identity/lerobot__smolvla_base.json",
+    "sha256": "c06ac73939b46d3f886455e18277aa479d358aae2414cad4291dd32955a7e11f",
+    "retrieved_utc": "2026-11-07T00:37:58.092449+00:00",
+    "model_revision": "5e8d12a6e2975b0e5e5fce7c8caf47c371d257b6",
+    "createdAt": "2025-06-01T07:51:59.000Z",
+    "card": {
+      "language": [
+        "en"
+      ],
+      "library_name": "lerobot",
+      "license": "apache-2.0",
+      "pipeline_tag": "robotics",
+      "tags": [
+        "vision-language-action",
+        "imitation-learning",
+        "lerobot"
+      ],
+      "inference": false,
+      "base_model": "HuggingFaceTB/SmolVLM2-500M-Video-Instruct"
+    },
+    "pipeline_tag": "robotics",
+    "status": "ok"
+  }
+]

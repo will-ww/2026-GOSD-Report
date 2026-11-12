@@ -1,0 +1,1991 @@
+{
+  "id": "database",
+  "number": "4.4",
+  "title": "数据库系统全景洞察",
+  "en": "DATABASE SYSTEMS LANDSCAPE",
+  "short": "数据库系统",
+  "question": "不同数据模型与工作负载，如何形成数据库的技术分工？",
+  "intro": "把数据库放回查询方式、数据模型与专用语义，展示互补结构和已有项目样本。",
+  "scope": "报告已入库的 93 个仓库样本；17 类保留，多标签项目只在主展示分类出现一次。",
+  "metric": "项目 OpenRank（原表值）",
+  "period": "原表标记 2026 · 起止窗口待核",
+  "accent": "cyan",
+  "groups": [
+    {
+      "id": "structured",
+      "name": "通用与结构化",
+      "subtitle": "事务、存储与组织方式",
+      "categories": [
+        "relational",
+        "key_value",
+        "wide_column",
+        "columnar"
+      ]
+    },
+    {
+      "id": "retrieval",
+      "name": "检索与关联",
+      "subtitle": "文档、搜索、向量与图",
+      "categories": [
+        "document",
+        "search_engine",
+        "vector",
+        "graph"
+      ]
+    },
+    {
+      "id": "specialized",
+      "name": "专用数据语义",
+      "subtitle": "时空、对象与事件",
+      "categories": [
+        "time_series",
+        "spatial",
+        "event",
+        "object_oriented",
+        "hierarchical",
+        "rdf",
+        "native_xml",
+        "array",
+        "content"
+      ]
+    }
+  ],
+  "need": "多模型分类核对、工作负载边界、兼容迁移与基准测试案例。",
+  "stage": "landscape-ready",
+  "version": "gosl-framework-v1",
+  "source": {
+    "path": "data/processed/chapter4/fig-4-4-1_database_landscape.csv",
+    "url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/d43b14a3850fffa6589b2ebe64bc257a0734ad6a/data/processed/chapter4/fig-4-4-1_database_landscape.csv",
+    "sha256": "53c311a81968fa1834998794d11480499fa369d783c950203a5751253b560459",
+    "commit": "d43b14a3850fffa6589b2ebe64bc257a0734ad6a",
+    "download": "/assets/report/data/fig-4-4-1_database_landscape.csv"
+  },
+  "projects": [
+    {
+      "id": "507775",
+      "name": "elasticsearch",
+      "repo": "elastic/elasticsearch",
+      "owner": "elastic",
+      "url": "https://github.com/elastic/elasticsearch",
+      "category": "search_engine",
+      "tags": [
+        "document",
+        "search_engine"
+      ],
+      "value": 3381.840072631836,
+      "description": "围绕索引、检索与相关性提供查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "60246359",
+      "name": "ClickHouse",
+      "repo": "ClickHouse/ClickHouse",
+      "owner": "ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 3133.5309143066406,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "456549280",
+      "name": "ydb",
+      "repo": "ydb-platform/ydb",
+      "owner": "ydb-platform",
+      "url": "https://github.com/ydb-platform/ydb",
+      "category": "key_value",
+      "tags": [
+        "relational",
+        "key_value",
+        "document"
+      ],
+      "value": 2313.273536682129,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "99919302",
+      "name": "doris",
+      "repo": "apache/doris",
+      "owner": "apache",
+      "url": "https://github.com/apache/doris",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 2107.1477432250977,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "16563587",
+      "name": "cockroach",
+      "repo": "cockroachdb/cockroach",
+      "owner": "cockroachdb",
+      "url": "https://github.com/cockroachdb/cockroach",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 1868.548397064209,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "17165658",
+      "name": "spark",
+      "repo": "apache/spark",
+      "owner": "apache",
+      "url": "https://github.com/apache/spark",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 1744.142333984375,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "402945349",
+      "name": "starrocks",
+      "repo": "StarRocks/starrocks",
+      "owner": "StarRocks",
+      "url": "https://github.com/StarRocks/starrocks",
+      "category": "wide_column",
+      "tags": [
+        "relational",
+        "wide_column"
+      ],
+      "value": 1606.1268157958984,
+      "description": "以宽列或列族方式组织数据。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/wide_column.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/wide_column.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "28449431",
+      "name": "scylladb",
+      "repo": "scylladb/scylladb",
+      "owner": "scylladb",
+      "url": "https://github.com/scylladb/scylladb",
+      "category": "key_value",
+      "tags": [
+        "key_value",
+        "wide_column"
+      ],
+      "value": 1516.6975479125977,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "166515022",
+      "name": "trino",
+      "repo": "trinodb/trino",
+      "owner": "trinodb",
+      "url": "https://github.com/trinodb/trino",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 1408.111801147461,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "41986369",
+      "name": "tidb",
+      "repo": "pingcap/tidb",
+      "owner": "pingcap",
+      "url": "https://github.com/pingcap/tidb",
+      "category": "key_value",
+      "tags": [
+        "relational",
+        "key_value"
+      ],
+      "value": 1324.3613471984863,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "358917318",
+      "name": "datafusion",
+      "repo": "apache/datafusion",
+      "owner": "apache",
+      "url": "https://github.com/apache/datafusion",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 1201.3194046020508,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "385634291",
+      "name": "mimir",
+      "repo": "grafana/mimir",
+      "owner": "grafana",
+      "url": "https://github.com/grafana/mimir",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 1176.2777709960938,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "208728772",
+      "name": "milvus",
+      "repo": "milvus-io/milvus",
+      "owner": "milvus-io",
+      "url": "https://github.com/milvus-io/milvus",
+      "category": "vector",
+      "tags": [
+        "vector"
+      ],
+      "value": 1172.9819869995117,
+      "description": "支持向量表示的存储与相似性检索。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/vector.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/vector.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "105944401",
+      "name": "yugabyte-db",
+      "repo": "yugabyte/yugabyte-db",
+      "owner": "yugabyte",
+      "url": "https://github.com/yugabyte/yugabyte-db",
+      "category": "key_value",
+      "tags": [
+        "relational",
+        "key_value"
+      ],
+      "value": 1129.7454109191895,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "6838921",
+      "name": "prometheus",
+      "repo": "prometheus/prometheus",
+      "owner": "prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "category": "time_series",
+      "tags": [
+        "key_value",
+        "time_series"
+      ],
+      "value": 1070.7554016113281,
+      "description": "面向时间序列的数据写入、聚合与查询。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/time_series.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/time_series.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "19961085",
+      "name": "pinot",
+      "repo": "apache/pinot",
+      "owner": "apache",
+      "url": "https://github.com/apache/pinot",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 1037.7224807739258,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "334274271",
+      "name": "OpenSearch",
+      "repo": "opensearch-project/OpenSearch",
+      "owner": "opensearch-project",
+      "url": "https://github.com/opensearch-project/OpenSearch",
+      "category": "search_engine",
+      "tags": [
+        "search_engine"
+      ],
+      "value": 999.3104209899902,
+      "description": "围绕索引、检索与相关性提供查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "388946490",
+      "name": "velox",
+      "repo": "facebookincubator/velox",
+      "owner": "facebookincubator",
+      "url": "https://github.com/facebookincubator/velox",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 986.1008911132812,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "138754790",
+      "name": "duckdb",
+      "repo": "duckdb/duckdb",
+      "owner": "duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 958.3751945495605,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "5349565",
+      "name": "presto",
+      "repo": "prestodb/presto",
+      "owner": "prestodb",
+      "url": "https://github.com/prestodb/presto",
+      "category": "key_value",
+      "tags": [
+        "relational",
+        "key_value",
+        "document",
+        "wide_column"
+      ],
+      "value": 915.6599712371826,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "196353673",
+      "name": "TDengine",
+      "repo": "taosdata/TDengine",
+      "owner": "taosdata",
+      "url": "https://github.com/taosdata/TDengine",
+      "category": "time_series",
+      "tags": [
+        "relational",
+        "time_series"
+      ],
+      "value": 829.7232666015625,
+      "description": "面向时间序列的数据写入、聚合与查询。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/time_series.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/time_series.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "19816070",
+      "name": "server",
+      "repo": "MariaDB/server",
+      "owner": "MariaDB",
+      "url": "https://github.com/MariaDB/server",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 790.8842163085938,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "453068084",
+      "name": "risingwave",
+      "repo": "risingwavelabs/risingwave",
+      "owner": "risingwavelabs",
+      "url": "https://github.com/risingwavelabs/risingwave",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 758.0024070739746,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "341631350",
+      "name": "lucene",
+      "repo": "apache/lucene",
+      "owner": "apache",
+      "url": "https://github.com/apache/lucene",
+      "category": "search_engine",
+      "tags": [
+        "document",
+        "search_engine"
+      ],
+      "value": 722.6085014343262,
+      "description": "围绕索引、检索与相关性提供查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "2944302",
+      "name": "wiredtiger",
+      "repo": "wiredtiger/wiredtiger",
+      "owner": "wiredtiger",
+      "url": "https://github.com/wiredtiger/wiredtiger",
+      "category": "key_value",
+      "tags": [
+        "key_value"
+      ],
+      "value": 692.0551910400391,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "150954997",
+      "name": "VictoriaMetrics",
+      "repo": "VictoriaMetrics/VictoriaMetrics",
+      "owner": "VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "category": "time_series",
+      "tags": [
+        "wide_column",
+        "time_series"
+      ],
+      "value": 680.0815391540527,
+      "description": "面向时间序列的数据写入、聚合与查询。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/time_series.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/time_series.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "20089857",
+      "name": "hbase",
+      "repo": "apache/hbase",
+      "owner": "apache",
+      "url": "https://github.com/apache/hbase",
+      "category": "wide_column",
+      "tags": [
+        "wide_column"
+      ],
+      "value": 668.3229179382324,
+      "description": "以宽列或列族方式组织数据。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/wide_column.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/wide_column.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "52080367",
+      "name": "cubrid",
+      "repo": "CUBRID/cubrid",
+      "owner": "CUBRID",
+      "url": "https://github.com/CUBRID/cubrid",
+      "category": "relational",
+      "tags": [
+        "relational",
+        "object_oriented"
+      ],
+      "value": 651.7975692749023,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "20587599",
+      "name": "flink",
+      "repo": "apache/flink",
+      "owner": "apache",
+      "url": "https://github.com/apache/flink",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 624.1950778961182,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "11225014",
+      "name": "etcd",
+      "repo": "etcd-io/etcd",
+      "owner": "etcd-io",
+      "url": "https://github.com/etcd-io/etcd",
+      "category": "key_value",
+      "tags": [
+        "key_value"
+      ],
+      "value": 616.352783203125,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "775743011",
+      "name": "valkey",
+      "repo": "valkey-io/valkey",
+      "owner": "valkey-io",
+      "url": "https://github.com/valkey-io/valkey",
+      "category": "key_value",
+      "tags": [
+        "key_value"
+      ],
+      "value": 613.5728607177734,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "315377678",
+      "name": "ignite-3",
+      "repo": "apache/ignite-3",
+      "owner": "apache",
+      "url": "https://github.com/apache/ignite-3",
+      "category": "key_value",
+      "tags": [
+        "key_value"
+      ],
+      "value": 611.0400085449219,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "654870350",
+      "name": "SpacetimeDB",
+      "repo": "clockworklabs/SpacetimeDB",
+      "owner": "clockworklabs",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 592.5260677337646,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "349172057",
+      "name": "venice",
+      "repo": "linkedin/venice",
+      "owner": "linkedin",
+      "url": "https://github.com/linkedin/venice",
+      "category": "document",
+      "tags": [
+        "document"
+      ],
+      "value": 591.2628574371338,
+      "description": "以文档为主要数据组织方式；可与其他模型重叠。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/document.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/document.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "182849188",
+      "name": "delta",
+      "repo": "delta-io/delta",
+      "owner": "delta-io",
+      "url": "https://github.com/delta-io/delta",
+      "category": "wide_column",
+      "tags": [
+        "wide_column"
+      ],
+      "value": 561.7411289215088,
+      "description": "以宽列或列族方式组织数据。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/wide_column.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/wide_column.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "55072677",
+      "name": "weaviate",
+      "repo": "weaviate/weaviate",
+      "owner": "weaviate",
+      "url": "https://github.com/weaviate/weaviate",
+      "category": "vector",
+      "tags": [
+        "vector"
+      ],
+      "value": 561.2634601593018,
+      "description": "支持向量表示的存储与相似性检索。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/vector.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/vector.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "268163609",
+      "name": "qdrant",
+      "repo": "qdrant/qdrant",
+      "owner": "qdrant",
+      "url": "https://github.com/qdrant/qdrant",
+      "category": "vector",
+      "tags": [
+        "vector"
+      ],
+      "value": 550.6135578155518,
+      "description": "支持向量表示的存储与相似性检索。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/vector.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/vector.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "546206616",
+      "name": "chroma",
+      "repo": "chroma-core/chroma",
+      "owner": "chroma-core",
+      "url": "https://github.com/chroma-core/chroma",
+      "category": "vector",
+      "tags": [
+        "document",
+        "vector"
+      ],
+      "value": 543.8984508514404,
+      "description": "支持向量表示的存储与相似性检索。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/vector.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/vector.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "542714",
+      "name": "ravendb",
+      "repo": "ravendb/ravendb",
+      "owner": "ravendb",
+      "url": "https://github.com/ravendb/ravendb",
+      "category": "key_value",
+      "tags": [
+        "key_value",
+        "document"
+      ],
+      "value": 528.9422206878662,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "84240850",
+      "name": "timescaledb",
+      "repo": "timescale/timescaledb",
+      "owner": "timescale",
+      "url": "https://github.com/timescale/timescaledb",
+      "category": "time_series",
+      "tags": [
+        "time_series"
+      ],
+      "value": 502.4626979827881,
+      "description": "面向时间序列的数据写入、聚合与查询。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/time_series.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/time_series.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "158975124",
+      "name": "iotdb",
+      "repo": "apache/iotdb",
+      "owner": "apache",
+      "url": "https://github.com/apache/iotdb",
+      "category": "time_series",
+      "tags": [
+        "time_series",
+        "hierarchical"
+      ],
+      "value": 500.95689964294434,
+      "description": "面向时间序列的数据写入、聚合与查询。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/time_series.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/time_series.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "206444",
+      "name": "hive",
+      "repo": "apache/hive",
+      "owner": "apache",
+      "url": "https://github.com/apache/hive",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 488.46706104278564,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "6934395",
+      "name": "rocksdb",
+      "repo": "facebook/rocksdb",
+      "owner": "facebook",
+      "url": "https://github.com/facebook/rocksdb",
+      "category": "key_value",
+      "tags": [
+        "key_value"
+      ],
+      "value": 483.2933740615845,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "19257422",
+      "name": "questdb",
+      "repo": "questdb/questdb",
+      "owner": "questdb",
+      "url": "https://github.com/questdb/questdb",
+      "category": "time_series",
+      "tags": [
+        "relational",
+        "time_series"
+      ],
+      "value": 469.86689949035645,
+      "description": "面向时间序列的数据写入、聚合与查询。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/time_series.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/time_series.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "6358188",
+      "name": "druid",
+      "repo": "apache/druid",
+      "owner": "apache",
+      "url": "https://github.com/apache/druid",
+      "category": "wide_column",
+      "tags": [
+        "relational",
+        "wide_column"
+      ],
+      "value": 446.6845951080322,
+      "description": "以宽列或列族方式组织数据。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/wide_column.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/wide_column.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "437245741",
+      "name": "dragonfly",
+      "repo": "dragonflydb/dragonfly",
+      "owner": "dragonflydb",
+      "url": "https://github.com/dragonflydb/dragonfly",
+      "category": "key_value",
+      "tags": [
+        "key_value"
+      ],
+      "value": 432.0103588104248,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "911980",
+      "name": "tarantool",
+      "repo": "tarantool/tarantool",
+      "owner": "tarantool",
+      "url": "https://github.com/tarantool/tarantool",
+      "category": "key_value",
+      "tags": [
+        "key_value",
+        "document"
+      ],
+      "value": 425.09618949890137,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "60377070",
+      "name": "vespa",
+      "repo": "vespa-engine/vespa",
+      "owner": "vespa-engine",
+      "url": "https://github.com/vespa-engine/vespa",
+      "category": "search_engine",
+      "tags": [
+        "document",
+        "search_engine"
+      ],
+      "value": 421.0834913253784,
+      "description": "围绕索引、检索与相关性提供查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "480217156",
+      "name": "greptimedb",
+      "repo": "GreptimeTeam/greptimedb",
+      "owner": "GreptimeTeam",
+      "url": "https://github.com/GreptimeTeam/greptimedb",
+      "category": "time_series",
+      "tags": [
+        "time_series"
+      ],
+      "value": 408.1417236328125,
+      "description": "面向时间序列的数据写入、聚合与查询。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/time_series.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/time_series.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "206424",
+      "name": "cassandra",
+      "repo": "apache/cassandra",
+      "owner": "apache",
+      "url": "https://github.com/apache/cassandra",
+      "category": "key_value",
+      "tags": [
+        "key_value",
+        "wide_column"
+      ],
+      "value": 407.8645238876343,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "49876476",
+      "name": "shardingsphere",
+      "repo": "apache/shardingsphere",
+      "owner": "apache",
+      "url": "https://github.com/apache/shardingsphere",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 406.99394607543945,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "11008207",
+      "name": "vitess",
+      "repo": "vitessio/vitess",
+      "owner": "vitessio",
+      "url": "https://github.com/vitessio/vitess",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 394.69663429260254,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "2649214",
+      "name": "arangodb",
+      "repo": "arangodb/arangodb",
+      "owner": "arangodb",
+      "url": "https://github.com/arangodb/arangodb",
+      "category": "graph",
+      "tags": [
+        "key_value",
+        "document",
+        "graph"
+      ],
+      "value": 388.3839683532715,
+      "description": "围绕实体及其关系组织数据与查询。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/graph.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/graph.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "156018",
+      "name": "redis",
+      "repo": "redis/redis",
+      "owner": "redis",
+      "url": "https://github.com/redis/redis",
+      "category": "key_value",
+      "tags": [
+        "key_value"
+      ],
+      "value": 386.402494430542,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "339993112",
+      "name": "matrixone",
+      "repo": "matrixorigin/matrixone",
+      "owner": "matrixorigin",
+      "url": "https://github.com/matrixorigin/matrixone",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 378.72093200683594,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "95614931",
+      "name": "manticoresearch",
+      "repo": "manticoresoftware/manticoresearch",
+      "owner": "manticoresoftware",
+      "url": "https://github.com/manticoresoftware/manticoresearch",
+      "category": "search_engine",
+      "tags": [
+        "relational",
+        "search_engine"
+      ],
+      "value": 362.4960689544678,
+      "description": "围绕索引、检索与相关性提供查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "91593042",
+      "name": "comdb2",
+      "repo": "bloomberg/comdb2",
+      "owner": "bloomberg",
+      "url": "https://github.com/bloomberg/comdb2",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 343.94384574890137,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "302827809",
+      "name": "databend",
+      "repo": "databendlabs/databend",
+      "owner": "databendlabs",
+      "url": "https://github.com/databendlabs/databend",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 336.3075199127197,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "436658287",
+      "name": "surrealdb",
+      "repo": "surrealdb/surrealdb",
+      "owner": "surrealdb",
+      "url": "https://github.com/surrealdb/surrealdb",
+      "category": "graph",
+      "tags": [
+        "relational",
+        "document",
+        "graph"
+      ],
+      "value": 333.0202841758728,
+      "description": "围绕实体及其关系组织数据与查询。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/graph.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/graph.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "31006158",
+      "name": "ignite",
+      "repo": "apache/ignite",
+      "owner": "apache",
+      "url": "https://github.com/apache/ignite",
+      "category": "key_value",
+      "tags": [
+        "key_value"
+      ],
+      "value": 330.39908504486084,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "743651128",
+      "name": "datafusion-comet",
+      "repo": "apache/datafusion-comet",
+      "owner": "apache",
+      "url": "https://github.com/apache/datafusion-comet",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 329.2180461883545,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "297302063",
+      "name": "memgraph",
+      "repo": "memgraph/memgraph",
+      "owner": "memgraph",
+      "url": "https://github.com/memgraph/memgraph",
+      "category": "graph",
+      "tags": [
+        "graph"
+      ],
+      "value": 324.2848777770996,
+      "description": "围绕实体及其关系组织数据与查询。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/graph.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/graph.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "13124802",
+      "name": "influxdb",
+      "repo": "influxdata/influxdb",
+      "owner": "influxdata",
+      "url": "https://github.com/influxdata/influxdb",
+      "category": "time_series",
+      "tags": [
+        "wide_column",
+        "time_series"
+      ],
+      "value": 316.9787139892578,
+      "description": "面向时间序列的数据写入、聚合与查询。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/time_series.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/time_series.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "114187903",
+      "name": "foundationdb",
+      "repo": "apple/foundationdb",
+      "owner": "apple",
+      "url": "https://github.com/apple/foundationdb",
+      "category": "key_value",
+      "tags": [
+        "key_value",
+        "document"
+      ],
+      "value": 308.92883491516113,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "9342529",
+      "name": "crate",
+      "repo": "crate/crate",
+      "owner": "crate",
+      "url": "https://github.com/crate/crate",
+      "category": "document",
+      "tags": [
+        "document"
+      ],
+      "value": 300.51193618774414,
+      "description": "以文档为主要数据组织方式；可与其他模型重叠。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/document.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/document.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "660776503",
+      "name": "paradedb",
+      "repo": "paradedb/paradedb",
+      "owner": "paradedb",
+      "url": "https://github.com/paradedb/paradedb",
+      "category": "relational",
+      "tags": [
+        "relational",
+        "object_oriented"
+      ],
+      "value": 296.29100799560547,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "564689243",
+      "name": "ArcticDB",
+      "repo": "man-group/ArcticDB",
+      "owner": "man-group",
+      "url": "https://github.com/man-group/ArcticDB",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 294.79154777526855,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "681372871",
+      "name": "garnet",
+      "repo": "microsoft/garnet",
+      "owner": "microsoft",
+      "url": "https://github.com/microsoft/garnet",
+      "category": "key_value",
+      "tags": [
+        "key_value"
+      ],
+      "value": 293.1009044647217,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "52318322",
+      "name": "elasticsearch-specification",
+      "repo": "elastic/elasticsearch-specification",
+      "owner": "elastic",
+      "url": "https://github.com/elastic/elasticsearch-specification",
+      "category": "search_engine",
+      "tags": [
+        "document",
+        "search_engine"
+      ],
+      "value": 291.8921003341675,
+      "description": "围绕索引、检索与相关性提供查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "54005538",
+      "name": "firebird",
+      "repo": "FirebirdSQL/firebird",
+      "owner": "FirebirdSQL",
+      "url": "https://github.com/FirebirdSQL/firebird",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 286.272665977478,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "198683574",
+      "name": "dolt",
+      "repo": "dolthub/dolt",
+      "owner": "dolthub",
+      "url": "https://github.com/dolthub/dolt",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 285.78642082214355,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "1050944",
+      "name": "infinispan",
+      "repo": "infinispan/infinispan",
+      "owner": "infinispan",
+      "url": "https://github.com/infinispan/infinispan",
+      "category": "key_value",
+      "tags": [
+        "key_value"
+      ],
+      "value": 278.6862497329712,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "254418044",
+      "name": "tigerbeetle",
+      "repo": "tigerbeetle/tigerbeetle",
+      "owner": "tigerbeetle",
+      "url": "https://github.com/tigerbeetle/tigerbeetle",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 277.0900239944458,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "777912773",
+      "name": "slatedb",
+      "repo": "slatedb/slatedb",
+      "owner": "slatedb",
+      "url": "https://github.com/slatedb/slatedb",
+      "category": "key_value",
+      "tags": [
+        "key_value"
+      ],
+      "value": 254.10026168823242,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "120538653",
+      "name": "datafusion-sqlparser-rs",
+      "repo": "apache/datafusion-sqlparser-rs",
+      "owner": "apache",
+      "url": "https://github.com/apache/datafusion-sqlparser-rs",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 248.61669063568115,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "130688011",
+      "name": "meilisearch",
+      "repo": "meilisearch/meilisearch",
+      "owner": "meilisearch",
+      "url": "https://github.com/meilisearch/meilisearch",
+      "category": "search_engine",
+      "tags": [
+        "document",
+        "search_engine"
+      ],
+      "value": 244.7144079208374,
+      "description": "围绕索引、检索与相关性提供查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "48833910",
+      "name": "tikv",
+      "repo": "tikv/tikv",
+      "owner": "tikv",
+      "url": "https://github.com/tikv/tikv",
+      "category": "key_value",
+      "tags": [
+        "key_value"
+      ],
+      "value": 244.310959815979,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "351806852",
+      "name": "neon",
+      "repo": "neondatabase/neon",
+      "owner": "neondatabase",
+      "url": "https://github.com/neondatabase/neon",
+      "category": "relational",
+      "tags": [
+        "relational",
+        "object_oriented"
+      ],
+      "value": 237.39079022407532,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "396856161",
+      "name": "spicedb",
+      "repo": "authzed/spicedb",
+      "owner": "authzed",
+      "url": "https://github.com/authzed/spicedb",
+      "category": "object_oriented",
+      "tags": [
+        "object_oriented"
+      ],
+      "value": 230.6192979812622,
+      "description": "保留来源中的面向对象数据库分类。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/object_oriented.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/object_oriented.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "33745913",
+      "name": "h2database",
+      "repo": "h2database/h2database",
+      "owner": "h2database",
+      "url": "https://github.com/h2database/h2database",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 228.7127161026001,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "644742603",
+      "name": "cloudberry",
+      "repo": "apache/cloudberry",
+      "owner": "apache",
+      "url": "https://github.com/apache/cloudberry",
+      "category": "relational",
+      "tags": [
+        "relational",
+        "object_oriented"
+      ],
+      "value": 201.6865429878235,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "607441698",
+      "name": "lancedb",
+      "repo": "lancedb/lancedb",
+      "owner": "lancedb",
+      "url": "https://github.com/lancedb/lancedb",
+      "category": "document",
+      "tags": [
+        "document"
+      ],
+      "value": 200.91083431243896,
+      "description": "以文档为主要数据组织方式；可与其他模型重叠。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/document.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/document.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "2524488",
+      "name": "accumulo",
+      "repo": "apache/accumulo",
+      "owner": "apache",
+      "url": "https://github.com/apache/accumulo",
+      "category": "wide_column",
+      "tags": [
+        "wide_column"
+      ],
+      "value": 199.75518417358398,
+      "description": "以宽列或列族方式组织数据。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/wide_column.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/wide_column.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "79317191",
+      "name": "typesense",
+      "repo": "typesense/typesense",
+      "owner": "typesense",
+      "url": "https://github.com/typesense/typesense",
+      "category": "search_engine",
+      "tags": [
+        "search_engine"
+      ],
+      "value": 199.5513973236084,
+      "description": "围绕索引、检索与相关性提供查询能力。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "50874442",
+      "name": "citus",
+      "repo": "citusdata/citus",
+      "owner": "citusdata",
+      "url": "https://github.com/citusdata/citus",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 186.95305252075195,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "192631273",
+      "name": "defradb",
+      "repo": "sourcenetwork/defradb",
+      "owner": "sourcenetwork",
+      "url": "https://github.com/sourcenetwork/defradb",
+      "category": "document",
+      "tags": [
+        "document"
+      ],
+      "value": 173.88069248199463,
+      "description": "以文档为主要数据组织方式；可与其他模型重叠。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/document.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/document.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "202483348",
+      "name": "kvrocks",
+      "repo": "apache/kvrocks",
+      "owner": "apache",
+      "url": "https://github.com/apache/kvrocks",
+      "category": "key_value",
+      "tags": [
+        "key_value"
+      ],
+      "value": 168.54284143447876,
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "5844474",
+      "name": "KurrentDB",
+      "repo": "kurrent-io/KurrentDB",
+      "owner": "kurrent-io",
+      "url": "https://github.com/kurrent-io/KurrentDB",
+      "category": "event",
+      "tags": [
+        "event"
+      ],
+      "value": 167.292809009552,
+      "description": "以事件或事件流为主要记录方式。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/event.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/event.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "20473418",
+      "name": "phoenix",
+      "repo": "apache/phoenix",
+      "owner": "apache",
+      "url": "https://github.com/apache/phoenix",
+      "category": "relational",
+      "tags": [
+        "relational"
+      ],
+      "value": 164.1888165473938,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "574588439",
+      "name": "ytsaurus",
+      "repo": "ytsaurus/ytsaurus",
+      "owner": "ytsaurus",
+      "url": "https://github.com/ytsaurus/ytsaurus",
+      "category": "document",
+      "tags": [
+        "document"
+      ],
+      "value": 159.63126230239868,
+      "description": "以文档为主要数据组织方式；可与其他模型重叠。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/document.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/document.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "34533675",
+      "name": "sedona",
+      "repo": "apache/sedona",
+      "owner": "apache",
+      "url": "https://github.com/apache/sedona",
+      "category": "spatial",
+      "tags": [
+        "spatial"
+      ],
+      "value": 135.08606052398682,
+      "description": "处理具有空间属性的数据与查询。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/spatial.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/spatial.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "298763623",
+      "name": "kuzu",
+      "repo": "kuzudb/kuzu",
+      "owner": "kuzudb",
+      "url": "https://github.com/kuzudb/kuzu",
+      "category": "graph",
+      "tags": [
+        "graph"
+      ],
+      "value": 127.11147022247314,
+      "description": "围绕实体及其关系组织数据与查询。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/graph.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/graph.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    },
+    {
+      "id": "95817032",
+      "name": "gel",
+      "repo": "geldata/gel",
+      "owner": "geldata",
+      "url": "https://github.com/geldata/gel",
+      "category": "relational",
+      "tags": [
+        "relational",
+        "object_oriented"
+      ],
+      "value": 118.73033261299133,
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "classification": "上游分类映射",
+      "classificationSource": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "note": "OpenDigger 标签映射；多标签时采用单一主展示分类，完整标签保留。",
+      "evidenceUrl": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "checkedAt": "2026-10-17",
+      "sourceClassifications": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "relational",
+      "name": "关系型",
+      "description": "以关系模型与结构化查询组织数据；同类项目的工作负载可以不同。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/relational.yml",
+      "count": 34
+    },
+    {
+      "id": "key_value",
+      "name": "键值",
+      "description": "按键读写数据，支持不同的一致性与持久化设计。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/key_value.yml",
+      "count": 22
+    },
+    {
+      "id": "document",
+      "name": "文档",
+      "description": "以文档为主要数据组织方式；可与其他模型重叠。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/document.yml",
+      "count": 5
+    },
+    {
+      "id": "wide_column",
+      "name": "宽列",
+      "description": "以宽列或列族方式组织数据。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/wide_column.yml",
+      "count": 5
+    },
+    {
+      "id": "search_engine",
+      "name": "搜索引擎",
+      "description": "围绕索引、检索与相关性提供查询能力。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/search_engine.yml",
+      "count": 8
+    },
+    {
+      "id": "time_series",
+      "name": "时序",
+      "description": "面向时间序列的数据写入、聚合与查询。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/time_series.yml",
+      "count": 8
+    },
+    {
+      "id": "vector",
+      "name": "向量",
+      "description": "支持向量表示的存储与相似性检索。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/vector.yml",
+      "count": 4
+    },
+    {
+      "id": "graph",
+      "name": "图",
+      "description": "围绕实体及其关系组织数据与查询。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/graph.yml",
+      "count": 4
+    },
+    {
+      "id": "object_oriented",
+      "name": "面向对象",
+      "description": "保留来源中的面向对象数据库分类。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/object_oriented.yml",
+      "count": 1
+    },
+    {
+      "id": "hierarchical",
+      "name": "层次",
+      "description": "保留来源中的层次模型分类。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/hierarchical.yml",
+      "count": 0
+    },
+    {
+      "id": "rdf",
+      "name": "RDF",
+      "description": "围绕 RDF 图数据与相关查询。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/rdf.yml",
+      "count": 0
+    },
+    {
+      "id": "spatial",
+      "name": "空间",
+      "description": "处理具有空间属性的数据与查询。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/spatial.yml",
+      "count": 1
+    },
+    {
+      "id": "event",
+      "name": "事件",
+      "description": "以事件或事件流为主要记录方式。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/event.yml",
+      "count": 1
+    },
+    {
+      "id": "native_xml",
+      "name": "原生 XML",
+      "description": "保留来源中的原生 XML 数据库分类。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/native_xml.yml",
+      "count": 0
+    },
+    {
+      "id": "array",
+      "name": "数组",
+      "description": "保留来源中的多维数组数据库分类。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/array.yml",
+      "count": 0
+    },
+    {
+      "id": "columnar",
+      "name": "列存",
+      "description": "保留来源中的列存技术分类。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/columnar.yml",
+      "count": 0
+    },
+    {
+      "id": "content",
+      "name": "内容",
+      "description": "保留来源中的内容存储分类。",
+      "source": "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/labeled_data/technology/database/content.yml",
+      "count": 0
+    }
+  ],
+  "count": 93,
+  "categoryCount": 17
+}

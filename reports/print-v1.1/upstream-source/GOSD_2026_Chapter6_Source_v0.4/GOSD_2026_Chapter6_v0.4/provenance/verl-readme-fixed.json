@@ -1,0 +1,11 @@
+{
+  "url": "https://github.com/verl-project/verl/blob/1e3b6ffcd1815dab5dc46e0cea275657a1823441/README.md",
+  "blob_sha": "17d5fdcd7972adf627ec8f629803c6e4a6348bf6",
+  "retrieved": "2026-11-11",
+  "content_sha256": "8ae1b5122a7a775cf0b2623158e68d801475ac0095abd8e0c595edc27d91e9e7",
+  "verified_claims": [
+    "由字节跳动 Seed 团队发起，社区维护。",
+    "训练支持 FSDP、FSDP2 和 Megatron-LM；生成支持 vLLM、SGLang、HF Transformers。",
+    "接口说明不是部署成本、采用规模或本地效果的实测。"
+  ]
+}

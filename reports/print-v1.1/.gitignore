@@ -1,0 +1,13 @@
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.zip
+*.gz
+*.ttf
+*.otf
+*.ttc
+*.pyc
+__pycache__/
+.build/

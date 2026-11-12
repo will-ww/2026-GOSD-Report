@@ -1,0 +1,14 @@
+{
+  "status": "pass",
+  "pages": 3,
+  "portrait": true,
+  "figure_label_collisions": 0,
+  "original_non_LF_scores_reproduced": 20,
+  "LF_original_sum_scope": "original retained; overlap diagnostic in research/evidence-review.md",
+  "LF_observable_subgroups": 13,
+  "AAIF_core_monthly_records": 42,
+  "AGENTS_June_missing_preserved": true,
+  "source_links": "embedded in figure captions and selected narrative",
+  "fonts": "all embedded; Noto CJK serif/sans",
+  "visual_review": "all three pages inspected; legend clearance and quantitative narrative adjusted"
+}

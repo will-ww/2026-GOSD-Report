@@ -1,0 +1,2 @@
+model_id,country,story_org,final_openness_level,strict_final_grade,model_license_grade_raw_value,model_license_grade_indicator,explanation,urls,included_in_source_22,status
+google/alphagenome-all-folds,United States of America,Google,O1,L3O1,Ineligible,missing,Most restrictive disclosed license bucket across model/code is Ineligible. No standalone data license grade was disclosed.,"[""https://deepmind.google.com/science/alphagenome/model-terms"", ""https://huggingface.co/google/alphagenome-all-folds""]",False,待复核；保留源等级，不自动改级

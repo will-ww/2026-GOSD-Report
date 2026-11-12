@@ -1,0 +1,24 @@
+{
+  "original": {
+    "PyMuPDF": "rendered",
+    "Poppler": "rendered",
+    "PDF.js": {
+      "exit_code": 137,
+      "render_completed": false
+    }
+  },
+  "revised": {
+    "PyMuPDF": "rendered and pixel-compared",
+    "Poppler": {
+      "exit_code": 0,
+      "render_completed": true
+    },
+    "PDF.js": {
+      "exit_code": 0,
+      "elapsed_ms": 1813,
+      "render_completed": true
+    }
+  },
+  "scope": "Book folio 80, module 6 local page 6",
+  "user_viewer": "not identified; compatibility remediation based on independent renderers"
+}

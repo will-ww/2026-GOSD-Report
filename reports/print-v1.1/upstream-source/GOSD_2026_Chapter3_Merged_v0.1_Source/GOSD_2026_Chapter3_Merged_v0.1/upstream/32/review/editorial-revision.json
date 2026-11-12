@@ -1,0 +1,22 @@
+{
+  "version": "v0.2",
+  "status": "awaiting_author_review",
+  "date": "2026-11-10",
+  "figure_changes": {
+    "3-4": "leaderboard + headquarters examples + country waffle/rank strip + concentration",
+    "3-5": "annual/monthly global/China bump charts",
+    "3-6": "China leaderboard + headquarters examples + comparative concentration + model-company code/participation ranks"
+  },
+  "source_data_modified": false,
+  "github_written": false,
+  "review_questions": [
+    "三幅图的组合与阅读顺序",
+    "年度和月度四面板是否清楚",
+    "总部例证与模型企业分析是否充分"
+  ],
+  "pending": [
+    "静态榜统计起止",
+    "年度覆盖期",
+    "企业、品牌与社区实体边界"
+  ]
+}

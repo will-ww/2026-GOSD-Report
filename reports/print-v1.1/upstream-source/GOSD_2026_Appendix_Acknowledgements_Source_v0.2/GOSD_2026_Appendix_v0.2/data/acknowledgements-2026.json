@@ -1,0 +1,24 @@
+{
+  "cn": [
+    "《2026 全球开源发展报告》由中国科学技术协会指导，依托其联合国经济及社会理事会（ECOSOC）咨商地位，由中国科协联合国咨商开源创新专委会提供政策框架支持并牵头编写。中国通信学会作为专委会秘书处承担单位，负责组织协调与实施保障；奇点智能研究院担任出品方。",
+    "联合国教科文组织（UNESCO）、国际电信联盟（ITU）、联合国国际电子计算中心（UNICC）以及联合国数字和新兴技术办公室（ODET）的专家，围绕核心议题、分析框架及全球发展倡议提出建议，支持研究与《2030 年可持续发展议程》相衔接。",
+    "清华大学、北京大学、上海交通大学、复旦大学、华东师范大学、中国科学院大学、南京大学、北京航空航天大学、北京邮电大学、国防科技大学、香港大学、对外经济贸易大学、北京理工大学、东北大学，以及中国科学院科技战略咨询研究院、中国科学院文献情报中心、上海人工智能实验室、阿里研究院等高校与科研机构的专家学者，参与了理论构建、数据分析和章节撰写。",
+    "新加坡国立大学、牛津大学、加州大学伯克利分校、凯斯西储大学、爱尔兰软件研究中心等国际高校与研究机构的学者，为开源治理、创新生态和技术社会影响研究提供了跨国比较视角。",
+    "中国电子技术标准化研究院和中国信息通信研究院，在标准引用、开源评估、政策合规与数据方法方面提供了专业支持。",
+    "华为、阿里巴巴、蚂蚁集团、字节跳动、百度等企业开源办公室（OSPO）的工程师与治理专家，分享了技术实践与生态建设经验。LF AI & Data、OpenInfra Foundation、PyTorch Foundation 等国际开源基金会代表，协助完善了开放治理的国际比较分析。",
+    "中国开源软件推进联盟（COPU）、开源社、X-lab 开放实验室、ALC-Beijing，以及 GitHub、Gitee、GitCode、Hugging Face、魔搭等社区成员，以志愿协作方式参与研讨和案例收集。CSDN 支持了技术趋势调研与理念传播。",
+    "国际基准测试委员会（Benchmark Council）为技术评估体系提供了方法与数据标准支持。",
+    "谨向所有参与研究、编写、评审与内容贡献的机构和个人致以诚挚谢意。我们期待继续汇聚各方力量，以开放协作促进 AI 普惠与可持续发展。"
+  ],
+  "en": [
+    "The 2026 Global Open Source Development Report was guided by the China Association for Science and Technology (CAST), drawing on its consultative status with the United Nations Economic and Social Council (ECOSOC). The CAST Advisory Committee on Open Source Innovation (CCOSI) provided policy support and led the compilation. The Chinese Institute of Communications (CIC), as the committee’s secretariat, coordinated the work. The Singularity Intelligence Research Institute served as the publishing entity.",
+    "Experts from UNESCO, the International Telecommunication Union (ITU), the United Nations International Computing Centre (UNICC), and the United Nations Office for Digital and Emerging Technologies (ODET) advised on the report’s core themes, analytical framework and links to global development initiatives, supporting its alignment with the 2030 Agenda for Sustainable Development.",
+    "Scholars from Tsinghua University, Peking University, Shanghai Jiao Tong University, Fudan University, East China Normal University, University of Chinese Academy of Sciences, Nanjing University, Beihang University, Beijing University of Posts and Telecommunications, National University of Defense Technology, The University of Hong Kong, University of International Business and Economics, Beijing Institute of Technology, and Northeastern University contributed to the framework, data analysis and chapters. They were joined by researchers from the Institutes of Science and Development and the National Science Library of the Chinese Academy of Sciences, Shanghai Artificial Intelligence Laboratory, and Alibaba Research.",
+    "Scholars from the National University of Singapore, the University of Oxford, the University of California, Berkeley, Case Western Reserve University, and the Irish Software Research Centre contributed comparative perspectives on open source governance, innovation ecosystems and the social impact of technology.",
+    "The China Electronics Standardization Institute (CESI) and the China Academy of Information and Communications Technology (CAICT) provided expertise in standards, open source assessment, policy compliance and data methods.",
+    "Engineers and governance experts from the open source program offices (OSPOs) of Huawei, Alibaba, Ant Group, ByteDance, Baidu and other enterprises shared technical and ecosystem experience. Representatives of LF AI & Data, OpenInfra Foundation and PyTorch Foundation supported the international comparison of open governance.",
+    "Members of the China Open Source Promotion Union (COPU), KAIYUAN.SHE, X-lab Open Laboratory, ALC-Beijing, and the GitHub, Gitee, GitCode, Hugging Face and ModelScope communities volunteered in discussions and case collection. CSDN supported technology trend research and outreach.",
+    "The Benchmark Council provided guidance on methods and data standards for the report’s technical assessment framework.",
+    "We sincerely thank every institution and individual who contributed to the research, writing, review and supporting materials. We look forward to continued collaboration to advance AI for All and sustainable development."
+  ]
+}

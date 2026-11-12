@@ -1,0 +1,14 @@
+{
+  "period": "2025-07-01/2026-06-30",
+  "repo_n": 30,
+  "project_n": 30,
+  "repo_total": 35374.68,
+  "project_total": 28874.36,
+  "cann_repo_ids": 68,
+  "cann_score": 14719.4694,
+  "cann_top12_share": 0.773557224827683,
+  "cann_accounts": 5282,
+  "cann_multirepo_accounts": 1868,
+  "cann_3plus_month_accounts": 1869,
+  "unknown_project_country": 17
+}

@@ -1,0 +1,150 @@
+{
+  "main_window": "2025-07-01/2026-06-30",
+  "ranking_snapshot": "2026-06",
+  "original_rank_preserved": true,
+  "no_synthetic_values": true,
+  "geography_coverage": "94/100; 6 unknown personal-account models",
+  "source_csv_sha256": "31a6d5b8146d9b793392f4fcf1307e19a07c00e3ebc92c500bf150536c99cedf",
+  "summary": {
+    "n": 100,
+    "country_counts": {
+      "德国": 1,
+      "英国": 1,
+      "中国": 37,
+      "美国": 50,
+      "韩国": 1,
+      "未识别": 6,
+      "阿联酋": 1,
+      "以色列": 1,
+      "法国": 2
+    },
+    "publishers": {
+      "black-forest-labs": 1,
+      "stabilityai": 1,
+      "Qwen": 36,
+      "krea": 2,
+      "meta-llama": 6,
+      "lerobot": 1,
+      "unsloth": 2,
+      "OnomaAIResearch": 1,
+      "google": 20,
+      "KBlueLeaf": 1,
+      "openai": 7,
+      "distilbert": 1,
+      "jhu-clsp": 2,
+      "BAAI": 1,
+      "intfloat": 4,
+      "tiiuae": 1,
+      "Lightricks": 1,
+      "mistralai": 2,
+      "facebook": 6,
+      "LiquidAI": 2,
+      "FacebookAI": 1,
+      "cmz1024": 1
+    },
+    "tasks": {
+      "text-to-image": 6,
+      "text-generation": 38,
+      "robotics": 1,
+      "image-text-to-text": 20,
+      "any-to-any": 6,
+      "automatic-speech-recognition": 6,
+      "fill-mask": 4,
+      "sentence-similarity": 4,
+      "未标注": 5,
+      "feature-extraction": 3,
+      "image-to-video": 1,
+      "zero-shot-image-classification": 6
+    },
+    "country_rank_bands": {
+      "美国": [
+        6,
+        4,
+        40
+      ],
+      "中国": [
+        2,
+        14,
+        21
+      ],
+      "法国": [
+        0,
+        0,
+        2
+      ],
+      "德国": [
+        1,
+        0,
+        0
+      ],
+      "英国": [
+        1,
+        0,
+        0
+      ],
+      "韩国": [
+        0,
+        1,
+        0
+      ],
+      "以色列": [
+        0,
+        0,
+        1
+      ],
+      "阿联酋": [
+        0,
+        0,
+        1
+      ],
+      "未识别": [
+        0,
+        1,
+        5
+      ]
+    },
+    "china_n": 37,
+    "china_top20": 9,
+    "china_tasks": {
+      "text-generation": 22,
+      "image-text-to-text": 13,
+      "sentence-similarity": 1,
+      "feature-extraction": 1
+    },
+    "qwen_family": {
+      "Qwen2.5": 12,
+      "Qwen3.5": 9,
+      "Qwen3": 13,
+      "Qwen3.6": 2
+    },
+    "qwen_size": {
+      "1—10B": 24,
+      ">10B": 5,
+      "≤1B": 7
+    },
+    "qwen_family_size": {
+      "Qwen2.5": {
+        "≤1B": 2,
+        "1—10B": 10,
+        ">10B": 0
+      },
+      "Qwen3": {
+        "≤1B": 3,
+        "1—10B": 8,
+        ">10B": 2
+      },
+      "Qwen3.5": {
+        "≤1B": 2,
+        "1—10B": 6,
+        ">10B": 1
+      },
+      "Qwen3.6": {
+        "≤1B": 0,
+        "1—10B": 0,
+        ">10B": 2
+      }
+    },
+    "deepseek_top100": 0
+  },
+  "all_100_rows_match_raw_rank_name_author_category_score": true
+}

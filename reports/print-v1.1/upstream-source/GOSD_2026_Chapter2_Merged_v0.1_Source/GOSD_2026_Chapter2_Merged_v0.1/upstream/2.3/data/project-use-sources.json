@@ -1,0 +1,36 @@
+{
+  "accessed": "2026-11-09",
+  "scope": "current official descriptions for editorial purpose classification; not counted as in-window new events",
+  "entries": [
+    {
+      "name": "openEuler",
+      "url": "https://www.openeuler.org/en/",
+      "role": "面向数字基础设施的开源操作系统",
+      "web_ref": "turn29view3"
+    },
+    {
+      "name": "CANN",
+      "url": "https://gitcode.com/CANN",
+      "role": "连接 AI 框架与处理器的计算软件",
+      "web_ref": "turn30search11"
+    },
+    {
+      "name": "verl",
+      "url": "https://github.com/verl-project/verl",
+      "role": "大模型强化学习训练框架",
+      "web_ref": "turn30view0"
+    },
+    {
+      "name": "RAGFlow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "role": "检索增强生成，即检索资料辅助生成答案",
+      "web_ref": "turn30view1"
+    },
+    {
+      "name": "AgentScope",
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "role": "智能体应用与协作框架",
+      "web_ref": "turn30view2"
+    }
+  ]
+}

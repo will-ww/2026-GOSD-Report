@@ -1,0 +1,1558 @@
+{
+  "OpenHarmony": {
+    "project": "OpenHarmony",
+    "index": 0,
+    "source": "https://www.openharmony.cn/favicon.ico",
+    "discovered_on": "https://www.openharmony.cn/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "f7d65a6f8e777be78515ec8d2e0f599c0a7f4a5cf68f856804acdc45b41c0f35",
+    "raw_file": "raw/00.img",
+    "file": "png/00.png",
+    "pixels": [
+      32,
+      32
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        2,
+        32,
+        30
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      32,
+      28
+    ]
+  },
+  "Azure": {
+    "project": "Azure",
+    "index": 1,
+    "source": "https://github.com/Azure.png?size=256",
+    "discovered_on": "https://azure.microsoft.com/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "769731dd8922c28f51a165c39c8a50b87245c494f20fbfe48f1599163e3669ed",
+    "raw_file": "raw/01.img",
+    "file": "png/01.png",
+    "pixels": [
+      256,
+      256
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        7,
+        256,
+        251
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      256,
+      244
+    ]
+  },
+  "C#/.Net": {
+    "project": "C#/.Net",
+    "index": 2,
+    "source": "https://dotnet.microsoft.com/blob-assets/images/dotnet-icons/square.png",
+    "discovered_on": "https://dotnet.microsoft.com/en-us/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "4ed155984b39de159cfed50fb1c14f4334f46efd38b7908fb86e7e48d9f0de6a",
+    "raw_file": "raw/02.img",
+    "file": "png/02.png",
+    "pixels": [
+      238,
+      238
+    ],
+    "kind": "official_identity_asset",
+    "mapping_note": "合并来源条目，以.NET官方标识辅助识别；不表示C#与.NET是同一统计对象。",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        238,
+        238
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      238,
+      238
+    ]
+  },
+  "NixOS": {
+    "project": "NixOS",
+    "index": 4,
+    "source": "https://nixos.org/apple-touch-icon.png",
+    "discovered_on": "https://nixos.org/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "1188acf5d3c38bec9a184d68f1e99d4d7a5c62d94f894d89903329fb12438409",
+    "raw_file": "raw/04.img",
+    "file": "png/04.png",
+    "pixels": [
+      180,
+      180
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        4,
+        180,
+        176
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      180,
+      172
+    ]
+  },
+  "LLVM": {
+    "project": "LLVM",
+    "index": 5,
+    "source": "https://llvm.org/img/LLVMWyvernSmall.png",
+    "discovered_on": "https://llvm.org/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "240f2b078793f525bf01816ba46210229ac9a8e5a134fdd18105a6b4e2828c1e",
+    "raw_file": "raw/05.img",
+    "file": "png/05.png",
+    "pixels": [
+      700,
+      439
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        700,
+        439
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      700,
+      439
+    ]
+  },
+  "openEuler": {
+    "project": "openEuler",
+    "index": 7,
+    "source": "https://www.openeuler.org/favicon.ico",
+    "discovered_on": "https://www.openeuler.org/en/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "ab0280015a4f91847df51a594aa55968bb63506ac0880b342869e1d141e9fc47",
+    "raw_file": "raw/07.img",
+    "file": "png/07.png",
+    "pixels": [
+      32,
+      32
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        32,
+        32
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      32,
+      32
+    ]
+  },
+  "DataDog": {
+    "project": "DataDog",
+    "index": 8,
+    "source": "https://opensource.dd-static.net/img/favicon.ico",
+    "discovered_on": "https://opensource.datadoghq.com/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "3a243712ab55af7cad0200c046bef1760f677da2e2baf93d489c15374c209464",
+    "raw_file": "raw/08.img",
+    "file": "png/08.png",
+    "pixels": [
+      256,
+      256
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      256,
+      256
+    ]
+  },
+  "OpenShift": {
+    "project": "OpenShift",
+    "index": 9,
+    "source": "https://github.com/openshift.png?size=256",
+    "discovered_on": "https://www.okd.io/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "d81fad72103d73fb13b2125a637226b79f942b18dda57898aff5ae91000a823b",
+    "raw_file": "raw/09.img",
+    "file": "png/09.png",
+    "pixels": [
+      256,
+      256
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        1,
+        256,
+        255
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      256,
+      254
+    ]
+  },
+  "VSCode": {
+    "project": "VSCode",
+    "index": 10,
+    "source": "https://code.visualstudio.com/assets/apple-touch-icon.png",
+    "discovered_on": "https://code.visualstudio.com/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "6baf5c58f993ac6a564ac851b90e154816f4245d2e36cb5e6da99393350b6161",
+    "raw_file": "raw/10.img",
+    "file": "png/10.png",
+    "pixels": [
+      256,
+      256
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      256,
+      256
+    ]
+  },
+  "OpenClaw": {
+    "project": "OpenClaw",
+    "index": 11,
+    "source": "https://openclaw.ai/favicon.svg",
+    "discovered_on": "https://openclaw.ai/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "87d87ee7bb4e6fb868bf5ac1a873fb3669dc5c14cdf71ec8ded97f1869a12ce3",
+    "raw_file": "raw/11.svg",
+    "file": "png/11.png",
+    "pixels": [
+      480,
+      480
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        2,
+        480,
+        461
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      480,
+      459
+    ]
+  },
+  "CANN": {
+    "project": "CANN",
+    "index": 12,
+    "source": "https://www.hiascend.com/_static3/cann-log-pc.BRiIAXC8.png",
+    "discovered_on": "https://www.hiascend.com/cann",
+    "retrieved_at": "2026-11-06",
+    "sha256": "ea584d6ac2e98fc6405612d4dcacfc95766e216d33e2ca339c8870fe8d3ab16b",
+    "raw_file": "raw/12.img",
+    "file": "png/12.png",
+    "pixels": [
+      724,
+      256
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        724,
+        256
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      724,
+      256
+    ]
+  },
+  "Rust": {
+    "project": "Rust",
+    "index": 13,
+    "source": "https://rust-lang.org/static/images/favicon.svg",
+    "discovered_on": "https://rust-lang.org/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "044be39144ab304cf9ea0e9014c3f476e0c5194c62aa525b3669caf5db5ac088",
+    "raw_file": "raw/13.svg",
+    "file": "png/13.png",
+    "pixels": [
+      128,
+      128
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        128,
+        128
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      128,
+      128
+    ]
+  },
+  "Ascend": {
+    "project": "Ascend",
+    "index": 14,
+    "source": "https://www.hiascend.com/_static3/favicon.ico",
+    "discovered_on": "https://www.hiascend.com/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "1abce29256cf5d201b114f9d4784aeb323adb58810ef9d1142ac4c7e7ade828f",
+    "raw_file": "raw/14.img",
+    "file": "png/14.png",
+    "pixels": [
+      112,
+      112
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        2,
+        0,
+        104,
+        111
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      102,
+      111
+    ]
+  },
+  "Home Assistant": {
+    "project": "Home Assistant",
+    "index": 15,
+    "source": "https://www.home-assistant.io/images/favicon.svg",
+    "discovered_on": "https://www.home-assistant.io/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "47fe7a74b836716b8a577543d29efadf227a2a0c9bb02075b5881d151b950811",
+    "raw_file": "raw/15.svg",
+    "file": "png/15.png",
+    "pixels": [
+      960,
+      964
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        960,
+        964
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      960,
+      964
+    ]
+  },
+  "Odoo": {
+    "project": "Odoo",
+    "index": 16,
+    "source": "https://odoocdn.com/web/image/website/1/favicon?unique=d5020f9",
+    "discovered_on": "https://www.odoo.com/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "2aa2794b17efc8bc1ba9869d1a18ee8bdf3b8677a2bbfad3fa31d27dc1709864",
+    "raw_file": "raw/16.img",
+    "file": "png/16.png",
+    "pixels": [
+      32,
+      32
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        32,
+        32
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      32,
+      32
+    ]
+  },
+  "Python": {
+    "project": "Python",
+    "index": 17,
+    "source": "https://www.python.org/static/apple-touch-icon-144x144-precomposed.png",
+    "discovered_on": "https://www.python.org/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "bb471012989f8309826369d2d20415aced04fb98336d755a1c53a9123e5e7a6f",
+    "raw_file": "raw/17.img",
+    "file": "png/17.png",
+    "pixels": [
+      144,
+      144
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        144,
+        144
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      144,
+      144
+    ]
+  },
+  "JavaScript/TypeScript": {
+    "project": "JavaScript/TypeScript",
+    "index": 18,
+    "source": "https://www.typescriptlang.org/icons/icon-512x512.png?v=8944a05a8b601855de116c8a56d3b3ae",
+    "discovered_on": "https://www.typescriptlang.org/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "7f1a15dce667115c1922522ab89cc36e965999aeebb51f027dc01dc7d54ce6fb",
+    "raw_file": "raw/18.img",
+    "file": "png/18.png",
+    "pixels": [
+      512,
+      512
+    ],
+    "kind": "official_identity_asset",
+    "mapping_note": "合并来源条目，以TypeScript官方标识辅助识别；保留JavaScript/TypeScript完整名称，不将图标视为统一品牌。",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      512,
+      512
+    ]
+  },
+  "Swift": {
+    "project": "Swift",
+    "index": 19,
+    "source": "https://www.swift.org/assets/images/icon-swift.svg",
+    "discovered_on": "https://www.swift.org/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "68318295c4848abdc75ae4152f8dcf467ede483114d1e01ee34432fde858433d",
+    "raw_file": "raw/19.svg",
+    "file": "png/19.png",
+    "pixels": [
+      64,
+      64
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        64,
+        64
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      64,
+      64
+    ]
+  },
+  "Conda Forge": {
+    "project": "Conda Forge",
+    "index": 20,
+    "source": "https://conda-forge.org/img/logo.png",
+    "discovered_on": "https://conda-forge.org/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "e635a4cdd47451c9d0f979ba5ed87a051154f35e9a13fde031328422215afbab",
+    "raw_file": "raw/20.img",
+    "file": "png/20.png",
+    "pixels": [
+      617,
+      300
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        617,
+        300
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      617,
+      300
+    ]
+  },
+  "Claude Code": {
+    "project": "Claude Code",
+    "index": 24,
+    "source": "https://code.claude.com/docs/mintlify-assets/_mintlify/favicons/claude-code/pLsy-mRpNksna2sx/_generated/favicon/android-chrome-192x192.png",
+    "discovered_on": "https://code.claude.com/docs/en/overview",
+    "retrieved_at": "2026-11-06",
+    "sha256": "d4e5e8e9990ac52f147a74ae80b9e69cdc612264b84a76cdb5c43b53b73a1707",
+    "raw_file": "raw/24.img",
+    "file": "png/24.png",
+    "pixels": [
+      192,
+      192
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        192,
+        192
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      192,
+      192
+    ]
+  },
+  "Zephyr": {
+    "project": "Zephyr",
+    "index": 25,
+    "source": "https://www.zephyrproject.org/wp-content/uploads/2023/04/cropped-zephyr_logo_r_color_negative_minimum-300x300.png",
+    "discovered_on": "https://www.zephyrproject.org/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "5d51ebecee5a753f651a667279a3e20b459c04dbfdb1461531be9c3979daa751",
+    "raw_file": "raw/25.img",
+    "file": "png/25.png",
+    "pixels": [
+      300,
+      300
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        53,
+        300,
+        247
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      300,
+      194
+    ]
+  },
+  "Cloudflare": {
+    "project": "Cloudflare",
+    "index": 26,
+    "source": "https://www.cloudflare.com/favicon.ico",
+    "discovered_on": "https://www.cloudflare.com/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "5414bc6e4b3f6e10f99b5d37abf4420da4dcaece66f8f2c08e090e87267adbc5",
+    "raw_file": "raw/26.img",
+    "file": "png/26.png",
+    "pixels": [
+      99,
+      96
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        99,
+        96
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      99,
+      96
+    ]
+  },
+  "NextCloud": {
+    "project": "NextCloud",
+    "index": 27,
+    "source": "https://nextcloud.com/c/uploads/2022/03/favicon.png",
+    "discovered_on": "https://nextcloud.com/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "12d5c96b94ed276654dfa77383788a7666d11104ad20687a84a76c92377239d0",
+    "raw_file": "raw/27.img",
+    "file": "png/27.png",
+    "pixels": [
+      32,
+      32
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        32,
+        32
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      32,
+      32
+    ]
+  },
+  "LangChain": {
+    "project": "LangChain",
+    "index": 28,
+    "source": "https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/69a17e4f0c916c644f4de1cd_webclip%20lg.png",
+    "discovered_on": "https://www.langchain.com/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "0c60295f8003df255890bff79d9b006d5b3459f90e02c31c850e05b4365c9029",
+    "raw_file": "raw/28.img",
+    "file": "png/28.png",
+    "pixels": [
+      256,
+      256
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      256,
+      256
+    ]
+  },
+  "Dify": {
+    "project": "Dify",
+    "index": 29,
+    "source": "https://dify.ai/favicon.svg",
+    "discovered_on": "https://dify.ai/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "72348ce12b2fe799a1787df6cf837d4c202389640bab83eadd5cbcc0ac253799",
+    "raw_file": "raw/29.svg",
+    "file": "png/29.png",
+    "pixels": [
+      256,
+      256
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        256,
+        256
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      256,
+      256
+    ]
+  },
+  "MindSpore": {
+    "project": "MindSpore",
+    "index": 30,
+    "source": "https://github.com/mindspore-ai.png?size=256",
+    "discovered_on": "https://www.mindspore.cn/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "f9944052f9758caa9fed5d031617e48f1e9ab20ad960bed92e3cf64b7a88cd0b",
+    "raw_file": "raw/30.img",
+    "file": "png/30.png",
+    "pixels": [
+      256,
+      256
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        5,
+        23,
+        254,
+        236
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      249,
+      213
+    ]
+  },
+  "PaddlePaddle": {
+    "project": "PaddlePaddle",
+    "index": 31,
+    "source": "https://paddlepaddle-org-cn.cdn.bcebos.com/paddle-site-front/favicon-128.png",
+    "discovered_on": "https://www.paddlepaddle.org.cn/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "3a4d56871dab364009ccd2c765dee56a3e4a0b37d69a409b97e5bd397e8aaa5c",
+    "raw_file": "raw/31.img",
+    "file": "png/31.png",
+    "pixels": [
+      128,
+      128
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        128,
+        128
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      128,
+      128
+    ]
+  },
+  "Cangjie": {
+    "project": "Cangjie",
+    "index": 32,
+    "source": "https://devpress.csdnimg.cn/688e39cfa7914ad8a5836ce0816004f5.png",
+    "discovered_on": "https://cangjie-lang.cn/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "2ac6e5bbf83eb2ae3ade8b3008b70c23edb890398810aff8fc88a7d1ca62ea32",
+    "raw_file": "raw/32.img",
+    "file": "png/32.png",
+    "pixels": [
+      84,
+      84
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        9,
+        7,
+        76,
+        77
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      67,
+      70
+    ]
+  },
+  "Ant Design": {
+    "project": "Ant Design",
+    "index": 33,
+    "source": "https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png",
+    "discovered_on": "https://ant.design/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "e06e25bfc964316a250284bb7f0d839aaea665b0ff5f20be75f86aafe00c60a5",
+    "raw_file": "raw/33.img",
+    "file": "png/33.png",
+    "pixels": [
+      200,
+      200
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      200,
+      200
+    ]
+  },
+  "openGauss": {
+    "project": "openGauss",
+    "index": 34,
+    "source": "https://opengauss.org/favicon.ico",
+    "discovered_on": "https://opengauss.org/zh/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "10146250028da0f76985894aebffc72d9b9b443d38f76af6ffc1cdb03aa3ec92",
+    "raw_file": "raw/34.img",
+    "file": "png/34.png",
+    "pixels": [
+      32,
+      32
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        32,
+        32
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      32,
+      32
+    ]
+  },
+  "魔搭": {
+    "project": "魔搭",
+    "index": 35,
+    "source": "https://g.alicdn.com/sail-web/maas/2.13.178/favicon/128.ico",
+    "discovered_on": "https://modelscope.cn/home",
+    "retrieved_at": "2026-11-06",
+    "sha256": "3b6b142e048523118878bec4eba9489e8de54ae8308d1c61f6b2a9ee7852e74f",
+    "raw_file": "raw/35.img",
+    "file": "png/35.png",
+    "pixels": [
+      128,
+      128
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        128,
+        128
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      128,
+      128
+    ]
+  },
+  "TiDB": {
+    "project": "TiDB",
+    "index": 36,
+    "source": "https://raw.githubusercontent.com/pingcap/tidb/master/docs/tidb-logo.png",
+    "discovered_on": "https://www.pingcap.com/tidb/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "68fe231403731c316d9be2464b16c7bc320b083d5c658b2143fa0fa08538fe12",
+    "raw_file": "raw/36.img",
+    "file": "png/36.png",
+    "pixels": [
+      1481,
+      768
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        86,
+        86,
+        1395,
+        681
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      1309,
+      595
+    ]
+  },
+  "verl": {
+    "project": "verl",
+    "index": 37,
+    "source": "https://github.com/verl-project.png?size=256",
+    "discovered_on": "https://verl.readthedocs.io/en/latest/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "3356989b034054d7aafc179a567649a331577c0ae6854f563c111cab3723b1e0",
+    "raw_file": "raw/37.img",
+    "file": "png/37.png",
+    "pixels": [
+      420,
+      420
+    ],
+    "kind": "official_project_account_avatar",
+    "mapping_note": "官方verl-project账号当前使用的头像；未将其声称为独立设计的项目Logo。",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        420,
+        420
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      420,
+      420
+    ]
+  },
+  "1Panel": {
+    "project": "1Panel",
+    "index": 38,
+    "source": "https://1panel.cn/favicon.png",
+    "discovered_on": "https://1panel.cn/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "8e5294b52facc9eb75f3f12b8771afb0cccd5e6e3aaa152d5554404c6079c736",
+    "raw_file": "raw/38.img",
+    "file": "png/38.png",
+    "pixels": [
+      500,
+      500
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        12,
+        0,
+        488,
+        500
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      476,
+      500
+    ]
+  },
+  "StarRocks": {
+    "project": "StarRocks",
+    "index": 40,
+    "source": "https://github.com/StarRocks.png?size=256",
+    "discovered_on": "https://github.com/StarRocks/starrocks",
+    "retrieved_at": "2026-11-06",
+    "sha256": "2993abb8acafa46a621250c7b72568fd14c700c19ad3ef63a12ed4d21b410917",
+    "raw_file": "raw/40.img",
+    "file": "png/40.png",
+    "pixels": [
+      256,
+      256
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        30,
+        20,
+        226,
+        236
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      196,
+      216
+    ]
+  },
+  "RAGFlow": {
+    "project": "RAGFlow",
+    "index": 41,
+    "source": "https://ragflow.io/img/logo.svg",
+    "discovered_on": "https://ragflow.io/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "dbfc34d9c799ac37171594bdd4d11196e9392c131c478a6ab46536f6e738fe2e",
+    "raw_file": "raw/41.svg",
+    "file": "png/41.png",
+    "pixels": [
+      128,
+      128
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        8,
+        7,
+        120,
+        121
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      112,
+      114
+    ]
+  },
+  "香山处理器": {
+    "project": "香山处理器",
+    "index": 42,
+    "source": "https://docs.xiangshan.cc/zh-cn/latest/figs/LOGO.png",
+    "discovered_on": "https://docs.xiangshan.cc/zh-cn/latest/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "7a99dd326399e79ca6dbe498e1f9b2d5f3ff254411c3948ad6d43c701dc92292",
+    "raw_file": "raw/42.img",
+    "file": "png/42.png",
+    "pixels": [
+      400,
+      400
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        4,
+        73,
+        396,
+        379
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      392,
+      306
+    ]
+  },
+  "龙蜥": {
+    "project": "龙蜥",
+    "index": 43,
+    "source": "https://img.alicdn.com/imgextra/i1/O1CN01oJnJZg1yK4RzI4Rx2_!!6000000006559-2-tps-118-118.png",
+    "discovered_on": "https://openanolis.cn/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "1c615ad0d4e4f8a3eef847154e1ec4247697c38b3758199cf27a68de20649e79",
+    "raw_file": "raw/43.img",
+    "file": "png/43.png",
+    "pixels": [
+      118,
+      118
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        118,
+        118
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      118,
+      118
+    ]
+  },
+  "Coze": {
+    "project": "Coze",
+    "index": 44,
+    "source": "https://github.com/coze-dev.png?size=256",
+    "discovered_on": "https://github.com/coze-dev/coze-studio",
+    "retrieved_at": "2026-11-06",
+    "sha256": "a30c0d0193c7e0778c782d3ab5572569bbd8bc91a89dccea63139fe99d2ff472",
+    "raw_file": "raw/Coze_hires.img",
+    "file": "png/44.png",
+    "pixels": [
+      256,
+      256
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        15,
+        17,
+        240,
+        239
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      225,
+      222
+    ]
+  },
+  "FlagOS": {
+    "project": "FlagOS",
+    "index": 45,
+    "source": "https://flagos.io/logo.svg",
+    "discovered_on": "https://flagos.io/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "28b252cc7def2db720fe27873a46fccb2705fb7628d401c298d34e93a0da5185",
+    "raw_file": "raw/45.svg",
+    "file": "png/45.png",
+    "pixels": [
+      320,
+      320
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        102,
+        320,
+        220
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      320,
+      118
+    ]
+  },
+  "openFuyao": {
+    "project": "openFuyao",
+    "index": 46,
+    "source": "https://www.openfuyao.cn/favicon.ico",
+    "discovered_on": "https://www.openfuyao.cn/zh/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "aa6dee762eec42bc3c023231d8140f696a691aeaecb3bcd8c35cd504dd5e77e6",
+    "raw_file": "raw/46.img",
+    "file": "png/46.png",
+    "pixels": [
+      64,
+      64
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        1,
+        0,
+        64,
+        64
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      63,
+      64
+    ]
+  },
+  "AntV": {
+    "project": "AntV",
+    "index": 47,
+    "source": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*7svFR6wkPMoAAAAAAAAAAAAADmJ7AQ/original",
+    "discovered_on": "https://antv.antgroup.com/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "5184e70a52d7dd12090e47fa05663107744c96de2a381b9de883e69848d72d26",
+    "raw_file": "raw/47.img",
+    "file": "png/47.png",
+    "pixels": [
+      32,
+      32
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        32,
+        32
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      32,
+      32
+    ]
+  },
+  "TDengine": {
+    "project": "TDengine",
+    "index": 48,
+    "source": "https://www.taosdata.com/wp-content/uploads/2025/07/favicon.ico",
+    "discovered_on": "https://www.taosdata.com/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "bb1178ee70df4a7c487736f1e92f91bba9f46c416cce238034e23cd88181b4c9",
+    "raw_file": "raw/48.img",
+    "file": "png/48.png",
+    "pixels": [
+      48,
+      48
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        48,
+        48
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      48,
+      48
+    ]
+  },
+  "AgentScope": {
+    "project": "AgentScope",
+    "index": 49,
+    "source": "https://agentscope.io/logo.svg",
+    "discovered_on": "https://agentscope.io/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "b073ff194fd652a992a2d312650fc0b4380881bf1c94f41056e9ca3b64aef9e0",
+    "raw_file": "raw/49.svg",
+    "file": "png/49.png",
+    "pixels": [
+      1600,
+      1600
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        121,
+        277,
+        1482,
+        1348
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      1361,
+      1071
+    ]
+  },
+  "ms-swift": {
+    "project": "ms-swift",
+    "index": 50,
+    "source": "https://raw.githubusercontent.com/modelscope/ms-swift/main/asset/banner.png",
+    "discovered_on": "https://swift.readthedocs.io/en/latest/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "aed7b0ac0bbb353df62f86b80e26eeab10fc69a0a49de161c544b51ab4ea9bea",
+    "raw_file": "raw/50.img",
+    "file": "png/50.png",
+    "pixels": [
+      1600,
+      425
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        1555,
+        425
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      1555,
+      425
+    ]
+  },
+  "inclusionAI": {
+    "project": "inclusionAI",
+    "index": 51,
+    "source": "https://avatars.githubusercontent.com/u/199075982?s=280&v=4",
+    "discovered_on": "https://github.com/inclusionAI",
+    "retrieved_at": "2026-11-06",
+    "sha256": "843f3525e54e69391c9847854b7765d0f4a9a306f69fced6a6ab073b07723598",
+    "raw_file": "raw/51.img",
+    "file": "png/51.png",
+    "pixels": [
+      280,
+      280
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        280,
+        280
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      280,
+      280
+    ]
+  },
+  "DeerFlow": {
+    "project": "DeerFlow",
+    "index": 52,
+    "source": "https://deerflow.tech/images/deer.svg",
+    "discovered_on": "https://deerflow.tech/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "14b74a454c547b34815cbb1e7aca58a63c0d49a03f414f46be0f21297aef920a",
+    "raw_file": "raw/52.svg",
+    "file": "png/52.png",
+    "pixels": [
+      1275,
+      1600
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        1275,
+        1600
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      1275,
+      1600
+    ]
+  },
+  "CloudWeGo": {
+    "project": "CloudWeGo",
+    "index": 53,
+    "source": "https://www.cloudwego.io/favicons/android-192x192.png",
+    "discovered_on": "https://www.cloudwego.io/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "7ffe5035a4fbf5f9b866f3f0c0cec9ff0c25662d94360bf8350845c763d96d27",
+    "raw_file": "raw/53.img",
+    "file": "png/53.png",
+    "pixels": [
+      192,
+      192
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        6,
+        43,
+        182,
+        161
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      176,
+      118
+    ]
+  },
+  "KWDB": {
+    "project": "KWDB",
+    "index": 54,
+    "source": "https://github.com/KWDB.png?size=256",
+    "discovered_on": "https://www.kaiwudb.com/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "bc5b367962197d51fbd462e4a1df4334492b72c3d10a98ab42c3a810830d9222",
+    "raw_file": "raw/54.img",
+    "file": "png/54.png",
+    "pixels": [
+      256,
+      256
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        28,
+        256,
+        229
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      256,
+      201
+    ]
+  },
+  "DataEase": {
+    "project": "DataEase",
+    "index": 55,
+    "source": "https://dataease.io/images/logo/favicon.ico",
+    "discovered_on": "https://dataease.io/",
+    "retrieved_at": "2026-11-06",
+    "sha256": "f644de51cbb39dbabbf809068026703c396e3bd5242b7ee718a629e7adcd5856",
+    "raw_file": "raw/55.img",
+    "file": "png/55.png",
+    "pixels": [
+      32,
+      32
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        2,
+        0,
+        31,
+        32
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      29,
+      32
+    ]
+  },
+  "PyTorch": {
+    "project": "PyTorch",
+    "source": "https://raw.githubusercontent.com/pytorch-fdn/artwork/main/projects/PyTorch/icon/PyTorchLogo_Icon_fullColor_RGB.png",
+    "sha256": "6eed919bc6fd74d3c005385e1bfbdcbbe407351efde86dc97da6bf9a54fa0a97",
+    "date": "2026-11-06",
+    "status": "ok",
+    "selection": "Official PyTorch project icon, not the separate flame illustration.",
+    "index": 3,
+    "file": "png/03.png",
+    "kind": "official_identity_asset",
+    "reused_from": "v0.4",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        94,
+        94,
+        403,
+        460
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      309,
+      366
+    ]
+  },
+  "vLLM": {
+    "project": "vLLM",
+    "source": "https://raw.githubusercontent.com/vllm-project/media-kit/main/vLLM-Logo.svg",
+    "sha256": "12a0812e247cef4b31160e0d0267142ffe491491537f3e275d8bc645b61eb1a8",
+    "bytes": 3502,
+    "date": "2026-11-06",
+    "status": "ok",
+    "index": 6,
+    "file": "png/06.png",
+    "kind": "official_identity_asset",
+    "reused_from": "v0.4",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        189,
+        167,
+        1611,
+        1671
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      1422,
+      1504
+    ]
+  },
+  "SGLang": {
+    "project": "SGLang",
+    "source": "https://raw.githubusercontent.com/sgl-project/sglang/main/assets/logo_square.svg",
+    "sha256": "09ccea391ea4da9d896d6fae0f31e5a52a456bfe837f266a99a69c2242d95fe3",
+    "bytes": 52241,
+    "date": "2026-11-06",
+    "status": "ok",
+    "index": 21,
+    "file": "png/21.png",
+    "kind": "official_identity_asset",
+    "reused_from": "v0.4",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        1800,
+        2063
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      1800,
+      2063
+    ]
+  },
+  "OpenTelemetry": {
+    "project": "OpenTelemetry",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg",
+    "sha256": "f19d3aa81895ba0d2102df6bbd76371e55664f8f6714c6ed355f971b7b013906",
+    "bytes": 1113,
+    "date": "2026-11-06",
+    "status": "ok",
+    "index": 22,
+    "file": "png/22.png",
+    "kind": "official_identity_asset",
+    "reused_from": "v0.4",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        1800,
+        1800
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      1800,
+      1800
+    ]
+  },
+  "Kubernetes": {
+    "project": "Kubernetes",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/kubernetes/icon/color/kubernetes-icon-color.svg",
+    "sha256": "ff5427cfeeff39e82834ab1b4fe3ed61fc08596225a17eed56adc04f7cc1f712",
+    "bytes": 9286,
+    "date": "2026-11-06",
+    "status": "ok",
+    "index": 23,
+    "file": "png/23.png",
+    "kind": "official_identity_asset",
+    "reused_from": "v0.4",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        0,
+        1800,
+        1747
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      1800,
+      1747
+    ]
+  },
+  "openKylin": {
+    "project": "openKylin",
+    "index": 39,
+    "source": "https://www.openkylin.top/favicon.ico?1664440390",
+    "discovered_on": "https://www.openkylin.top/index-en.html",
+    "retrieved_at": "2026-11-06",
+    "sha256": "73c480244827954e78ccdfe1a89c708eeacac7e010d40c8274f0f4de43fc9861",
+    "raw_file": "raw/39.img",
+    "file": "png/39.png",
+    "pixels": [
+      64,
+      64
+    ],
+    "kind": "official_identity_asset",
+    "layout_preparation": {
+      "crop_outer_empty_canvas": [
+        0,
+        9,
+        64,
+        55
+      ],
+      "preserved": "原标志图形、颜色、宽高比；仅裁除外围空白画布，并保留边距"
+    },
+    "layout_pixels": [
+      64,
+      46
+    ]
+  }
+}

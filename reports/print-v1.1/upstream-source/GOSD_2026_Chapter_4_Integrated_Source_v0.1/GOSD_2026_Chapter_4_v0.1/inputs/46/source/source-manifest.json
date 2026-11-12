@@ -1,0 +1,156 @@
+{
+  "version": "4.6 v0.1",
+  "created": "2026-11-10",
+  "authority": "https://github.com/will-ww/2026-GOSD-Report",
+  "confirmed_baseline": "fff392e957bab9fb6d89d49dea712af47484efaa",
+  "mother_report": "GOSD_2026_第二轮整体迭代_v1.1_完整评审稿；对应 modules/04/sources/46 与 verification/4-W20261107",
+  "main_period": [
+    "2025-07-01",
+    "2026-06-30"
+  ],
+  "frozen_data_url": "https://github.com/X-lab2017/2026-Global-Open-Source-Development-Report/blob/c51e3441361407b68f10b339d97eff288319b503/data/processed/chapter4/fig-4-6-1_pytorch_landscape.csv",
+  "sample_audit_counts": {
+    "consistent_with_monthly_export_rounding": 16,
+    "incomplete_do_not_impute": 52,
+    "difference_exceeds_rounding_bound": 1,
+    "not_verified": 14
+  },
+  "limited_year_comparison": "Three functionally selected projects only. Two complete 12-month windows per project. Stored public bytes from 2026-11-07; recalculated 2026-11-10; no zero imputation or calendar-year substitution.",
+  "files": [
+    {
+      "path": "source/all_83_records.csv",
+      "sha256": "9694ca711af6cc4199c7e05f14b6b0d93ebfa4b7d19725716932eeb67c8115bb",
+      "bytes": 28696
+    },
+    {
+      "path": "source/audit.json",
+      "sha256": "929c6a04e805b9861864ae6ba16ee701942a76a115982348584175804cccd45b",
+      "bytes": 1417
+    },
+    {
+      "path": "source/audit_AUDIT_METHOD.md",
+      "sha256": "c7388a0d4131331abd0f1505d73097c2ee3abd5ef32a87c4e3519c44c34f3a2b",
+      "bytes": 5779
+    },
+    {
+      "path": "source/audit_REPORT_IMPLICATIONS.md",
+      "sha256": "c5d5593c763d43323257beac00e7a456bb9204ab501bb3df7c42e8affca81122",
+      "bytes": 6558
+    },
+    {
+      "path": "source/cases_manifest.json",
+      "sha256": "7d84b3784161d802c59661575c0644e339abbd4d0a92e895dfe9ab4e471ee5c5",
+      "bytes": 2063
+    },
+    {
+      "path": "source/category_summary.csv",
+      "sha256": "261e7c86772e2cb7386fcd9cbc10e4f72c65308c5775d83061ece4e5fc9c505d",
+      "bytes": 795
+    },
+    {
+      "path": "source/coverage_2022_2026.csv",
+      "sha256": "615f1807b83dbf290c4c3f3c81ef5ba53db9333b3e81dda1abf13dd738d20b2d",
+      "bytes": 131002
+    },
+    {
+      "path": "source/download_manifest.json",
+      "sha256": "dc5caf588b7daabdbf914fa6b55be0b57a81615023cc3ebdd01a9457b55d381e",
+      "bytes": 3340
+    },
+    {
+      "path": "source/fig-4-6-1_pytorch_landscape.csv",
+      "sha256": "fa00a556027bb46fea2a11090675348fbb0a629bbb01a296ed751a9cfc80af5f",
+      "bytes": 6060
+    },
+    {
+      "path": "source/identity_audit.csv",
+      "sha256": "ddad7840d04f72aabe53f98f50bdf309491e8c0d46532a57e359c182ffbed472",
+      "bytes": 20652
+    },
+    {
+      "path": "source/official-evidence.json",
+      "sha256": "da60be255cf2ca35c67471e110d72c90ba7a67eab47eabc57a9075a66695e83b",
+      "bytes": 4016
+    },
+    {
+      "path": "source/pytorch__executorch__meta.acquisition.json",
+      "sha256": "5b4fba33aa1f2476ee63e46726eaa66cc789e07b0824fc02a2ed4f01af41b404",
+      "bytes": 650
+    },
+    {
+      "path": "source/pytorch__executorch__meta.json",
+      "sha256": "b41a8d1045b76d4be5785b05397d5a9d1e86102fc353817cbd8e33975e87e075",
+      "bytes": 419
+    },
+    {
+      "path": "source/pytorch__executorch__openrank.acquisition.json",
+      "sha256": "7761f20b0c7513b58d9f51105bf4499cb0d628f928f3d257d805a1e19d472457",
+      "bytes": 484
+    },
+    {
+      "path": "source/pytorch__executorch__openrank.json",
+      "sha256": "c06b3ace682454d20deef6e179f90cacca5b3de90788dec1614071c588d6cf62",
+      "bytes": 937
+    },
+    {
+      "path": "source/pytorch__pytorch__meta.acquisition.json",
+      "sha256": "ff3cf4f106e77825f40595f978e2084670c42a589328bd77fbbd03a3d0177aad",
+      "bytes": 638
+    },
+    {
+      "path": "source/pytorch__pytorch__meta.json",
+      "sha256": "8f5aa53803a1f6e6aeb07dc43ab29c072f3b6589c083fa48d54cbe452ec5c30f",
+      "bytes": 491
+    },
+    {
+      "path": "source/pytorch__pytorch__openrank.acquisition.json",
+      "sha256": "88a41cab160f6436547c67a479f6bab1cf5659bc60194855bf9e6c68facc7eae",
+      "bytes": 476
+    },
+    {
+      "path": "source/pytorch__pytorch__openrank.json",
+      "sha256": "95f1f90efe81dc4573c39866c8824b998a628624e7e276508acc5052fdf23bf3",
+      "bytes": 2976
+    },
+    {
+      "path": "source/pytorch__torchtitan__meta.acquisition.json",
+      "sha256": "de6b09489b3accdacfdc9aea729eafda2b4319fc9be5f33078bafc61dcfcc886",
+      "bytes": 650
+    },
+    {
+      "path": "source/pytorch__torchtitan__meta.json",
+      "sha256": "0776737bd3dd7f62e1a6d54e34f55641d0b55c594c9da153e7a4461466b29cce",
+      "bytes": 419
+    },
+    {
+      "path": "source/pytorch__torchtitan__openrank.acquisition.json",
+      "sha256": "e4fbc34de3cc67fba963afe0ed6936270648a68f02f0210aa43d4557e511a7ab",
+      "bytes": 484
+    },
+    {
+      "path": "source/pytorch__torchtitan__openrank.json",
+      "sha256": "a76f3e56670d8ec53ef4454b66905522e1d5a6402a682083782288f55ce1a251",
+      "bytes": 760
+    },
+    {
+      "path": "source/pytorch_landscape.json",
+      "sha256": "3a785bad43f7f1a7b7a1d1408d8da2bb4a55baf11e49acc98aea2d2e13a0ed35",
+      "bytes": 80032
+    },
+    {
+      "path": "source/structural_findings.json",
+      "sha256": "6872aa55d25bb6eccab2ba1e107764c89ce6db85cc41aecf56263cd2558d8a0f",
+      "bytes": 391
+    },
+    {
+      "path": "source/top5_annual_audit.csv",
+      "sha256": "d6d04c77949b99cb74161a61af3d80faa472532327fdf07b078da5dcdd35ae92",
+      "bytes": 11170
+    },
+    {
+      "path": "source/window_2026_audit.csv",
+      "sha256": "392f5363c18ae307b9b8000b37a9cfb5f62df5200edadae5a897e1516c2ded41",
+      "bytes": 37279
+    }
+  ]
+}

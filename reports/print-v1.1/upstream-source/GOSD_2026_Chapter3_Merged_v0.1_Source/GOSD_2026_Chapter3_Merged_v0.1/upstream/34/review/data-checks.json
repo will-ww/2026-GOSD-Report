@@ -1,0 +1,92 @@
+{
+  "version": "v0.2",
+  "country_counts": {
+    "中国": 7,
+    "美国": 69,
+    "荷兰": 3,
+    "未识别": 9,
+    "比利时": 1,
+    "德国": 3,
+    "俄罗斯": 2,
+    "日本": 1,
+    "冰岛": 1,
+    "南非": 1,
+    "以色列": 1,
+    "挪威": 1,
+    "保加利亚": 1
+  },
+  "global_org_counts": {
+    "基金会": 22,
+    "企业及其他机构": 64,
+    "高校": 4,
+    "未识别": 10
+  },
+  "china_org_counts": {
+    "基金会": 5,
+    "企业及其他机构": 23,
+    "未识别": 2
+  },
+  "tech_global30": {
+    "操作系统与硬件": 3,
+    "云原生与基础设施": 4,
+    "编程语言与运行时": 5,
+    "AI 与机器学习": 8,
+    "开发工具与框架": 4,
+    "可观测性与安全": 2,
+    "物联网与边缘": 2,
+    "企业应用与协作": 2
+  },
+  "tech_china30": {
+    "操作系统与硬件": 5,
+    "AI 与机器学习": 13,
+    "编程语言与运行时": 1,
+    "开发工具与框架": 2,
+    "数据与分析": 6,
+    "云原生与基础设施": 3
+  },
+  "objects_global30": {
+    "项目生态": 18,
+    "项目集合": 7,
+    "软件项目": 5
+  },
+  "objects_china30": {
+    "项目生态": 17,
+    "项目集合": 4,
+    "软件项目": 9
+  },
+  "top10_score_share": 0.33622465675809815,
+  "rank31to100_score_share": 0.38669085129527153,
+  "china_global_ranks": {
+    "OpenHarmony": 1,
+    "openEuler": 8,
+    "CANN": 13,
+    "Ascend": 15,
+    "MindSpore": 33,
+    "PaddlePaddle": 37,
+    "Cangjie": 51,
+    "Ant Design": 109,
+    "openGauss": 122,
+    "魔搭": 131,
+    "TiDB": 137,
+    "verl": 138,
+    "1Panel": 150,
+    "openKylin": 172,
+    "StarRocks": 177,
+    "RAGFlow": 187,
+    "香山处理器": 202,
+    "龙蜥": 210,
+    "Coze": 216,
+    "FlagOS": 217,
+    "openFuyao": 223,
+    "AntV": 232,
+    "TDengine": 234,
+    "AgentScope": 235,
+    "ms-swift": 242,
+    "inclusionAI": 248,
+    "DeerFlow": 257,
+    "CloudWeGo": 262,
+    "KWDB": 269,
+    "DataEase": 276
+  },
+  "no_simulated_values": true
+}

@@ -1,0 +1,42 @@
+[
+  [
+    "S1",
+    "报告年度：影响、贡献、开发者及统计期",
+    "https://selfoss.open-digger.cn/openshare/overview_half_year/meta.json"
+  ],
+  [
+    "S1a",
+    "当期项目影响原始 JSON",
+    "https://selfoss.open-digger.cn/openshare/overview_half_year/influence.json"
+  ],
+  [
+    "S1b",
+    "当期开发者贡献原始 JSON",
+    "https://selfoss.open-digger.cn/openshare/overview_half_year/contribution.json"
+  ],
+  [
+    "S1c",
+    "当期开发者原始 JSON",
+    "https://selfoss.open-digger.cn/openshare/overview_half_year/developers.json"
+  ],
+  [
+    "S2",
+    "自然年项目影响序列",
+    "https://selfoss.open-digger.cn/openshare/overview/influence.json"
+  ],
+  [
+    "S3",
+    "五域序列、中国 30 项目原表及派生表",
+    "https://github.com/will-ww/2026-GOSD-Report/tree/497478a19e92c676c225893a395738e747a71c8b/reports/round2-v2.0/source/chapters/02/modules/02/data/23"
+  ],
+  [
+    "S4",
+    "生产口径与公开数值调整说明（固定代码）",
+    "https://github.com/X-lab2017/open-digger/blob/5c2ffc4f5b3dd37ebcb20514c7abfee6853bd830/src/dataProduction/openshareOverview.ts"
+  ],
+  [
+    "S5",
+    "OpenDigger 指标与获取方法",
+    "https://github.com/X-lab2017/open-digger/blob/master/skills/open-digger-data-retrieval/SKILL.md"
+  ]
+]
