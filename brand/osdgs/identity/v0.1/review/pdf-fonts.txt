@@ -1,0 +1,32 @@
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+DARWKJ+LiberationSerif-Bold          TrueType          WinAnsi          yes yes yes    288  0
+SNUBLB+DejaVuSans                    TrueType          WinAnsi          yes yes yes    292  0
+JSTUSW+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    296  0
+YAVWQI+DejaVuSans-Bold               TrueType          WinAnsi          yes yes yes    301  0
+DLJRWD+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    305  0
+DARWKJ+LiberationSerif-Bold          TrueType          WinAnsi          yes yes yes    328  0
+IFYWAG+DejaVuSans                    TrueType          WinAnsi          yes yes yes    332  0
+BSAUCK+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    336  0
+FGFEAP+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    341  0
+VMFKDU+DejaVuSans-Bold               TrueType          WinAnsi          yes yes yes    346  0
+DARWKJ+LiberationSerif-Bold          TrueType          WinAnsi          yes yes yes    367  0
+CZPYQB+DejaVuSans                    TrueType          WinAnsi          yes yes yes    371  0
+SKENXV+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    375  0
+GIQSEQ+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    380  0
+TYLAOY+DejaVuSans-Bold               TrueType          WinAnsi          yes yes yes    385  0
+DARWKJ+LiberationSerif-Bold          TrueType          WinAnsi          yes yes yes    867  0
+OQDEOO+DejaVuSans                    TrueType          WinAnsi          yes yes yes    871  0
+MDOCCF+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    875  0
+RKGGZU+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    880  0
+GYNPNE+DejaVuSans-Bold               TrueType          WinAnsi          yes yes yes    885  0
+DARWKJ+LiberationSerif-Bold          TrueType          WinAnsi          yes yes yes    906  0
+IFYWAG+DejaVuSans                    TrueType          WinAnsi          yes yes yes    910  0
+DWLAOO+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes    914  0
+USRKAZ+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes    919  0
+BXEDMP+DejaVuSans-Bold               TrueType          WinAnsi          yes yes yes    924  0
+DARWKJ+LiberationSerif-Bold          TrueType          WinAnsi          yes yes yes   1224  0
+IFYWAG+DejaVuSans                    TrueType          WinAnsi          yes yes yes   1228  0
+ELSYXI+NotoSansCJKsc-Bold            CID Type 0C       Identity-H       yes yes yes   1232  0
+CAKZTC+NotoSansCJKsc-Regular         CID Type 0C       Identity-H       yes yes yes   1237  0
+UCXOGR+DejaVuSans-Bold               TrueType          WinAnsi          yes yes yes   1242  0

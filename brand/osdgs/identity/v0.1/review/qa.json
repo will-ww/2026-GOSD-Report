@@ -1,0 +1,482 @@
+[
+  {
+    "asset": "assets/dimensions/D01-zh-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D01-en-solid",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D01-zh-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D01-en-light",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D01-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D01-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D01-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D02-zh-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D02-en-solid",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D02-zh-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D02-en-light",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D02-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D02-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D02-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D03-zh-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D03-en-solid",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D03-zh-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D03-en-light",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D03-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D03-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D03-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D04-zh-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D04-en-solid",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D04-zh-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D04-en-light",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D04-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D04-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D04-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D05-zh-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D05-en-solid",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D05-zh-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D05-en-light",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D05-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D05-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D05-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D06-zh-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D06-en-solid",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D06-zh-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D06-en-light",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D06-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D06-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D06-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D07-zh-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D07-en-solid",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D07-zh-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D07-en-light",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D07-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D07-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D07-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D08-zh-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D08-en-solid",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D08-zh-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D08-en-light",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D08-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D08-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D08-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D09-zh-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D09-en-solid",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D09-zh-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D09-en-light",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D09-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D09-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D09-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D10-zh-solid",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D10-en-solid",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D10-zh-light",
+    "text_count": 4,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/dimensions/D10-en-light",
+    "text_count": 3,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D10-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D10-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/D10-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/pillars/X1-solid",
+    "text_count": 6,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/pillars/X1-light",
+    "text_count": 6,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/X1-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/X1-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/X1-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/pillars/X2-solid",
+    "text_count": 6,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/pillars/X2-light",
+    "text_count": 6,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/X2-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/X2-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/X2-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/pillars/X3-solid",
+    "text_count": 6,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/pillars/X3-light",
+    "text_count": 6,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/X3-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/X3-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/X3-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/pillars/X4-solid",
+    "text_count": 6,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/pillars/X4-light",
+    "text_count": 6,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/X4-color",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/X4-navy",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "assets/icons/X4-white",
+    "text_count": 0,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "pages/page-01",
+    "text_count": 24,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "pages/page-02",
+    "text_count": 12,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "pages/page-03",
+    "text_count": 37,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "pages/page-04",
+    "text_count": 21,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "pages/page-05",
+    "text_count": 36,
+    "out_of_bounds": []
+  },
+  {
+    "asset": "pages/page-06",
+    "text_count": 33,
+    "out_of_bounds": []
+  }
+]

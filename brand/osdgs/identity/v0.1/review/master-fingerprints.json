@@ -1,0 +1,37 @@
+[
+  {
+    "source": "master/osdgs-display-light-outlined.svg",
+    "sha256": "1da5a73e9ccecfc1251cb6fbee805bd996398bfcf5924c790af72d5eac3dde47",
+    "copy_identical": true
+  },
+  {
+    "source": "master/osdgs-display-dark-outlined.svg",
+    "sha256": "432de6559d11db77adbaf227b0acd37883931ed62d80510ffb21a275a598f0ca",
+    "copy_identical": true
+  },
+  {
+    "source": "master/osdgs-symbol-compact.svg",
+    "sha256": "7de88d97f2153818823302676d3318a9b504dd9f719ef0961810a01cd3d5977f",
+    "copy_identical": true
+  },
+  {
+    "source": "lockups/osdgs-horizontal-light-outlined.svg",
+    "sha256": "6eb81338741d24cb427bed6fd8174f56878a87bf1132c932611412e59b3890ba",
+    "copy_identical": true
+  },
+  {
+    "source": "lockups/osdgs-horizontal-dark-outlined.svg",
+    "sha256": "beebf42bdc0be6c5a52bd924408b7b920eb217b74668ccda8bc568cd27e3ee88",
+    "copy_identical": true
+  },
+  {
+    "source": "master/osdgs-emblem-mono-outlined.svg",
+    "sha256": "c9aad8dc911d4383868f9a71ea1df94302a26b1b5e20177d6153b4b08af05a70",
+    "copy_identical": true
+  },
+  {
+    "source": "master/osdgs-emblem-reverse-outlined.svg",
+    "sha256": "0db39938532c44f183f2fc6a81c4f8fb0f9fea49fa5720c708dd4c677c7ba81b",
+    "copy_identical": true
+  }
+]

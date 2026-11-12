@@ -1,0 +1,7 @@
+*.pdf
+*.PDF
+*.aux
+*.log
+*.out
+__pycache__/
+*.pyc

@@ -1,0 +1,30 @@
+{
+  "name": "OSDGs 动态星座配套标识体系",
+  "version": "0.1.0",
+  "reviewed_version": "0.1",
+  "status": "approved",
+  "approved_on": "2026-11-12",
+  "parent_brand_version": "2.0.0",
+  "report_application_version": "0.6.0",
+  "user_decision": "非常好，把这个也入库基线吧，和前面OSDGs的报告品牌与视觉基线放在一起，成为后续可以复用的内容~",
+  "scope": [
+    "四支柱辅助标识",
+    "十维方形图标及节点导视",
+    "中英文、深浅底、单色及小尺寸用法",
+    "五段主线的传播表述与应用示例"
+  ],
+  "source_archive": {
+    "name": "OSDGs_Identity_System_Assets_v0.1.zip",
+    "sha256": "e42f31ba607c3d3efa58454ecf685d5d27e3ca4bbf44a5d6399fd0462c0d70ed"
+  },
+  "review_pdf": {
+    "name": "OSDGs_Identity_System_Review_v0.1.pdf",
+    "stored_in_git": false
+  },
+  "review": "../../../../docs/reviews/2026-11-12-osdgs-identity-v0.1.md",
+  "limitations": [
+    "视觉批准不等于统计结论、许可争议或机构背书认证",
+    "最小尺寸与印刷色彩仍须按实际载体打样",
+    "历史评审页面及其源码保留原貌，当前批准状态以本文件为准"
+  ]
+}

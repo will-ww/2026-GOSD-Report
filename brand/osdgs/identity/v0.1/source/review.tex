@@ -1,0 +1,21 @@
+\documentclass[UTF8,a4paper]{ctexart}
+\usepackage[margin=0mm]{geometry}
+\usepackage{pdfpages}
+\usepackage[unicode,hidelinks]{hyperref}
+\setCJKmainfont{Noto Sans CJK SC}
+\setmainfont{DejaVu Sans}
+\hypersetup{
+ pdftitle={OSDGs 开源发展目标：动态星座配套标识体系 v0.1},
+ pdfauthor={2026 全球开源发展报告项目},
+ pdfsubject={四支柱与十个观察方向的配套标识设计评审稿},
+ pdfkeywords={OSDGs,开源发展目标,动态星座,标识体系,评审稿}
+}
+\pagestyle{empty}
+\begin{document}
+\includepdf[pages=1,pagecommand={\pdfbookmark[0]{标识总览}{overview}}]{pages/page-01.pdf}
+\includepdf[pages=1,pagecommand={\pdfbookmark[0]{四支柱与十维}{pillars}}]{pages/page-02.pdf}
+\includepdf[pages=1,pagecommand={\pdfbookmark[0]{图形语义}{semantics}}]{pages/page-03.pdf}
+\includepdf[pages=1,pagecommand={\pdfbookmark[0]{深浅底与使用尺度}{usage}}]{pages/page-04.pdf}
+\includepdf[pages=1,pagecommand={\pdfbookmark[0]{五段主线与价值路径}{narrative}}]{pages/page-05.pdf}
+\includepdf[pages=1,pagecommand={\pdfbookmark[0]{应用与评审依据}{review}}]{pages/page-06.pdf}
+\end{document}

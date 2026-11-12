@@ -6,5 +6,11 @@
   "approved_on": "2026-11-06",
   "path": "v2.0",
   "application_version": "0.6.0",
-  "review": "../../docs/reviews/2026-11-06-osdgs-v2.0-gosd-v0.6.md"
+  "review": "../../docs/reviews/2026-11-06-osdgs-v2.0-gosd-v0.6.md",
+  "companion_identity": {
+    "version": "0.1.0",
+    "approved_on": "2026-11-12",
+    "path": "identity/v0.1",
+    "review": "../../docs/reviews/2026-11-12-osdgs-identity-v0.1.md"
+  }
 }

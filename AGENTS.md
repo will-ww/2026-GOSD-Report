@@ -14,9 +14,11 @@
 - 统计图服从数据表达；装饰不得覆盖图表、来源或关键限制。
 - 名称、节点数、顺序、母型、配色及对应关系变更应另行评审并登记新版本。
 
+2026-11-12新增已批准配套标识体系v0.1.0，入口`brand/osdgs/identity/v0.1/README.md`。后续复用四支柱与十维方形图标时从此取用；母版v2.0.0与报告应用v0.6.0继续有效。
+
 ## 提交
 
-不提交任何PDF、字体文件、私有附件或未经授权的第三方原件。提交前运行`python brand/osdgs/v2.0/source/verify_assets.py`，检查指纹、十维身份及禁入扩展名。未验证的结果保留核查项，不写作已验证。
+不提交任何PDF、字体文件、私有附件或未经授权的第三方原件。提交前运行`python brand/osdgs/v2.0/source/verify_assets.py`，检查指纹、十维身份及禁入扩展名。同时运行`python brand/osdgs/identity/v0.1/source/verify_assets.py`校验配套资产。未验证的结果保留核查项，不写作已验证。
 
 ## 精要版
 

@@ -1,0 +1,193 @@
+{
+  "brand": "OSDGs",
+  "name_zh": "开源发展目标",
+  "name_en": "Open Source Development Goals",
+  "version": "2.0.0",
+  "date": "2026-11-06",
+  "direction_approved": true,
+  "status": "approved",
+  "baseline_commit": "fff392e957bab9fb6d89d49dea712af47484efaa",
+  "source_commit": "65a5fbda5c9192a11328ed9926959a0f0c5dc8f1",
+  "dimension_source": "chapters/01/chapter1.tex",
+  "pillars": [
+    {
+      "id": "X1",
+      "name_zh": "人才规模与多样性",
+      "name_en": "Talent Scale & Diversity",
+      "dimensions": [
+        "D01",
+        "D02"
+      ],
+      "color": "#155FA8"
+    },
+    {
+      "id": "X2",
+      "name_zh": "技术产出与开放供给",
+      "name_en": "Technical Output & Open Supply",
+      "dimensions": [
+        "D03",
+        "D04",
+        "D05"
+      ],
+      "color": "#007D78"
+    },
+    {
+      "id": "X3",
+      "name_zh": "全球连接与网络效应",
+      "name_en": "Global Connections & Network Effects",
+      "dimensions": [
+        "D06",
+        "D07",
+        "D08"
+      ],
+      "color": "#8E6500"
+    },
+    {
+      "id": "X4",
+      "name_zh": "开源善治与公共价值",
+      "name_en": "Open Source Governance & Public Value",
+      "dimensions": [
+        "D09",
+        "D10"
+      ],
+      "color": "#943B9A"
+    }
+  ],
+  "dimensions": [
+    {
+      "id": "D01",
+      "source_code": "1.1",
+      "pillar": "X1",
+      "name_zh": "规模与密度",
+      "label_zh": "规模与密度",
+      "name_en": "Scale & Density",
+      "question": "谁在参与，人才如何分布？",
+      "icon": "users-round",
+      "candidate_indicator_count": 3,
+      "color": "#155FA8",
+      "hero_color": "#159DF1"
+    },
+    {
+      "id": "D02",
+      "source_code": "1.2",
+      "pillar": "X1",
+      "name_zh": "生态多样性",
+      "label_zh": "生态多样性",
+      "name_en": "Ecosystem Diversity",
+      "question": "不同来源如何共同建设？",
+      "icon": "network",
+      "candidate_indicator_count": 2,
+      "color": "#087C99",
+      "hero_color": "#24C4E5"
+    },
+    {
+      "id": "D03",
+      "source_code": "2.1",
+      "pillar": "X2",
+      "name_zh": "代码产出",
+      "label_zh": "代码产出",
+      "name_en": "Code Output",
+      "question": "形成了哪些可持续协作的代码成果？",
+      "icon": "code-xml",
+      "candidate_indicator_count": 3,
+      "color": "#007D78",
+      "hero_color": "#0DBDAF"
+    },
+    {
+      "id": "D04",
+      "source_code": "2.2",
+      "pillar": "X2",
+      "name_zh": "模型开放供给",
+      "label_zh": "模型开放供给",
+      "name_en": "Open Model Supply",
+      "question": "哪些模型资源可被获取与接续开发？",
+      "icon": "boxes",
+      "candidate_indicator_count": 2,
+      "color": "#267D4E",
+      "hero_color": "#4CBA71"
+    },
+    {
+      "id": "D05",
+      "source_code": "2.3",
+      "pillar": "X2",
+      "name_zh": "数据开放供给",
+      "label_zh": "数据开放供给",
+      "name_en": "Open Data Supply",
+      "question": "哪些数据资源支持继续创造？",
+      "icon": "database",
+      "candidate_indicator_count": 2,
+      "color": "#537D25",
+      "hero_color": "#9DCD37"
+    },
+    {
+      "id": "D06",
+      "source_code": "3.1",
+      "pillar": "X3",
+      "name_zh": "代码影响力",
+      "label_zh": "代码影响力",
+      "name_en": "Code Influence",
+      "question": "代码协作在网络中形成怎样的影响？",
+      "icon": "git-fork",
+      "candidate_indicator_count": 5,
+      "color": "#8E6500",
+      "hero_color": "#FFCC24"
+    },
+    {
+      "id": "D07",
+      "source_code": "3.2",
+      "pillar": "X3",
+      "name_zh": "模型影响力",
+      "label_zh": "模型影响力",
+      "name_en": "Model Influence",
+      "question": "模型如何传播、派生与被采用？",
+      "icon": "orbit",
+      "candidate_indicator_count": 3,
+      "color": "#AD4E22",
+      "hero_color": "#FF8A37"
+    },
+    {
+      "id": "D08",
+      "source_code": "3.3",
+      "pillar": "X3",
+      "name_zh": "数据集影响力",
+      "label_zh": "数据集影响力",
+      "name_en": "Dataset Influence",
+      "question": "数据集如何被采用与复用？",
+      "icon": "share-2",
+      "candidate_indicator_count": 3,
+      "color": "#B53863",
+      "hero_color": "#F15D83"
+    },
+    {
+      "id": "D09",
+      "source_code": "4.1",
+      "pillar": "X4",
+      "name_zh": "治理成熟度",
+      "label_zh": "治理成熟度",
+      "name_en": "Governance Maturity",
+      "question": "协作规则与维护责任如何落实？",
+      "icon": "shield-check",
+      "candidate_indicator_count": 3,
+      "color": "#943B9A",
+      "hero_color": "#C44FC1"
+    },
+    {
+      "id": "D10",
+      "source_code": "4.2",
+      "pillar": "X4",
+      "name_zh": "公共福祉",
+      "label_zh": "公共福祉",
+      "name_en": "Public Wellbeing",
+      "question": "开放条件如何支持共同受益？",
+      "icon": "hand-heart",
+      "candidate_indicator_count": 3,
+      "color": "#6146A5",
+      "hero_color": "#8955D8"
+    }
+  ],
+  "note": "D01–D10为视觉导视编号，对应既有十个观察方向；不新增十个一级发展目标，不改变六章四视角，不代表29项候选指标均已测量。",
+  "identity_route": "动态母版同源：Hero / Standard / Mini",
+  "presentation_note": "视觉沿用获认可的光感、飘带与全球连接气质；不采用概念图中的临时十维名称或示例数值。",
+  "reviewed_version": "2.0.0-rc1",
+  "approved_on": "2026-11-06"
+}

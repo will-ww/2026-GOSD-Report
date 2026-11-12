@@ -14,3 +14,11 @@
 - [字体与图标来源](v2.0/RIGHTS.md)
 
 Hero、Standard、Mini是同一个母型的尺度变体，不是三个品牌。D01—D10为十个观察方向的视觉编号，不是新设十章或十个一级目标。
+
+## 配套标识体系 v0.1.0（2026-11-12 已批准）
+
+**[进入四支柱与十维配套标识](identity/v0.1/README.md)**：方形图标、中英文、深浅底、单色、独立透明图形及应用示例。延续上述母版与报告品牌，作为共同的后续复用基线。
+
+![四支柱与十维标识总览](identity/v0.1/OSDGs_Companion_Identity_Overview_v0.1.png)
+
+[批准记录](../../docs/reviews/2026-11-12-osdgs-identity-v0.1.md) · [资产指纹](identity/v0.1/approved-assets.json)
