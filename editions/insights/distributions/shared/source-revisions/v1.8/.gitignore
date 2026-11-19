@@ -1,0 +1,8 @@
+work/
+__pycache__/
+*.pyc
+*.pdf
+*.png
+*.ttf
+*.otf
+*.ttc

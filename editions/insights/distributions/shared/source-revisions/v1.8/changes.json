@@ -1,0 +1,138 @@
+{
+  "version": "1.8-source",
+  "date": "2026-11-19",
+  "status": "source_revision_pending_layout",
+  "excluded_issues": [
+    1,
+    7
+  ],
+  "author_decision": "第六点组织账号统一826，原统计数字有误；第一点和第七点不改。",
+  "files": [
+    {
+      "path": "supplements/figure5-1/hf_fig51_work/figures/fig-5-1-hf-assets.svg",
+      "issues": [
+        6
+      ],
+      "before_sha256": "dda26269537c4234faddbab018bac2b6324f59926fe532c017be85e0cf0ddd73",
+      "after_sha256": "7d164a8ed5fe543256619a412830a4309d335989941a91457d8da04c3f1d0cdd"
+    },
+    {
+      "path": "supplements/figure5-1/hf_fig51_work/make_figure51.py",
+      "issues": [
+        6
+      ],
+      "before_sha256": "b7cedee61027bf80e0fcac615c32f125b7a1239eb0a80cc6e46caa4f7ad9e5f8",
+      "after_sha256": "9d61e0171de91c2b9415da152f6f534255b279de667e6e0a5f0cadaa089da719"
+    },
+    {
+      "path": "supplements/figure5-1/hf_verify_data/figure51_verified_data.json",
+      "issues": [
+        6
+      ],
+      "before_sha256": "c699c6f89dccc4f4bc1bb46e17bb1c7decf2ec52e9a513f497e80009b4d5c897",
+      "after_sha256": "79f542d8208f1f8d42d07750bdc320f69d0ae270750b16a58cb6b4f55752a5a3"
+    },
+    {
+      "path": "upstream-source/GOSD_2026_Appendix_Acknowledgements_Source_v0.2/GOSD_2026_Appendix_v0.2/content.py",
+      "issues": [
+        2,
+        4
+      ],
+      "before_sha256": "5f04a66c7d725f2d7d556da7a774eb6ec2c8bfb5ba156e89b2020610a04ce733",
+      "after_sha256": "c3e89d06205cd0f0d1b2fe6d80e791224e3d8d84a30c34677e350141b5ce555e"
+    },
+    {
+      "path": "upstream-source/GOSD_2026_Appendix_Acknowledgements_Source_v0.2/GOSD_2026_Appendix_v0.2/report.tex",
+      "issues": [
+        2,
+        4
+      ],
+      "before_sha256": "2fecd30a2c2ec60fb6534ac84c2be43ad4f007744274f42fdfb211ca710eb973",
+      "after_sha256": "05c748d15b15e6d7991f0380413c8374ffa382309d3cb42c071ba69f468209b9"
+    },
+    {
+      "path": "upstream-source/GOSD_2026_Chapter5_Merged_Source_v0.2/GOSD_2026_Chapter5_Merged_Source_v0.2/data/content-v0.2.json",
+      "issues": [
+        3
+      ],
+      "before_sha256": "1ecf3b185b348c30bf71f8058fffad9a352738c3fa084550d97b56b0afd61bf6",
+      "after_sha256": "7279f85144afb991b18607c67441e31102aa28339c23b6e0a63bab88093c94fb"
+    },
+    {
+      "path": "upstream-source/GOSD_2026_Chapter5_Merged_Source_v0.2/GOSD_2026_Chapter5_Merged_Source_v0.2/figures/fig-5-2-2.svg",
+      "issues": [
+        5
+      ],
+      "before_sha256": "446577e801c5fadc7665c85f68961049aaf83d58da40a22a6d91a05726d9f81d",
+      "after_sha256": "9d28b37fc2cacaeff1cc39c401d73f5d233d592defb359a596cc2fb50920b29b"
+    },
+    {
+      "path": "upstream-source/GOSD_2026_Chapter5_Merged_Source_v0.2/GOSD_2026_Chapter5_Merged_Source_v0.2/figures_v2.py",
+      "issues": [
+        5
+      ],
+      "before_sha256": "b86d2364860e5b4fd9e5dfc9f20753e86e525767947b0a45f6109fb7c9fd0783",
+      "after_sha256": "90407a822f0d9eaab75373a774438d1e6bf9d58a5d8f5dd50000080d353e5cb4"
+    },
+    {
+      "path": "upstream-source/GOSD_2026_Chapter5_Merged_Source_v0.2/GOSD_2026_Chapter5_Merged_Source_v0.2/report.tex",
+      "issues": [
+        3
+      ],
+      "before_sha256": "b03afaf43860032824db500358b5cceeaf8d4f321a0278f52c4d476632ef54f6",
+      "after_sha256": "c2714415c94c38d1aecdd0a45d3440eb25411a3bf4255916b723045b3b4bf042"
+    },
+    {
+      "path": "upstream-source/GOSD_2026_Chapter5_Merged_Source_v0.2/GOSD_2026_Chapter5_Merged_Source_v0.2/write_content.py",
+      "issues": [
+        3
+      ],
+      "before_sha256": "7078f4db5059c042e9a9310433218354db5172ae77aa9986d1336871a7e707ad",
+      "after_sha256": "ce5068aff4871de26ff0ec0388e1e47596eeecbd3c844216b9615e5c96781902"
+    },
+    {
+      "path": "upstream-source/GOSD_2026_Chapter6_Source_v0.4/GOSD_2026_Chapter6_v0.4/content.py",
+      "issues": [
+        8
+      ],
+      "before_sha256": "5f78594625c9ea8b5f07ecaf5221d6b94a3dd9a93b8f57c6502fe91086ca9533",
+      "after_sha256": "ca9b66a6bb101d5145ca82369ba7a79dc35b072cc3c2519a7a5898a5069e6d2b"
+    },
+    {
+      "path": "upstream-source/GOSD_2026_Chapter6_Source_v0.4/GOSD_2026_Chapter6_v0.4/data/content.json",
+      "issues": [
+        8
+      ],
+      "before_sha256": "1a8e38a2b3ed6e37ab6a5d81050ebc9b0886bbe0b60900563ec424c3b8f935f1",
+      "after_sha256": "d29eb9e40b9742b9b7b947ceceffa68ffda1be934b52cb0f6a2d4fd162b02bbd"
+    },
+    {
+      "path": "upstream-source/GOSD_2026_Chapter6_Source_v0.4/GOSD_2026_Chapter6_v0.4/report.tex",
+      "issues": [
+        8
+      ],
+      "before_sha256": "ceaa201dc867868f114dc03722eea8970a8bba9645dc0335905e295a4b939835",
+      "after_sha256": "b311b4be6fa7580f526b3c8f5e2b1a7452e8168d86b83df4de1b40fc81523790"
+    }
+  ],
+  "fingerprint_encoding": "UTF-8 text, CRLF normalized to LF",
+  "content_id": "gosd-2026-essential-content-v1.8-source",
+  "previous_content_id": "gosd-2026-essential-content-v1.7",
+  "previous_content_manifest": "../../content-2026-11-18.json",
+  "source_archive": "reports/print-v1.1",
+  "source_repository_commit": "cf424104f5b9b677b16faf4f38a188edf072687e",
+  "main_window": {
+    "start": "2025-07-01",
+    "end": "2026-06-30"
+  },
+  "build_entry": "prepare_sources.py",
+  "review": "../../../../reviews/2026-11-19-author-corrections.md",
+  "approved_artifact": null,
+  "synchronization": {
+    "cossi_zh-CN": "shared source corrected; PDF integration pending",
+    "cossi_en": "translation and PDF integration pending; accepted v0.6 unchanged",
+    "community_zh-CN": "shared corrections available; frozen v1.4 unchanged",
+    "community_en": "planned"
+  },
+  "source_granularity": "Corrected Chinese chapter 5, chapter 6, appendix and figure 5-1 editable sources. Historical modules are not an exact v1.7 full source archive. Inherit v1.7 frontmatter, annual-change insert and appendix evidence index; do not replace the full book with exported historical modules."
+}

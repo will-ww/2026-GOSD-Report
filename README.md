@@ -3,6 +3,8 @@
 
 ## 当前发行版本（2026年11月18日）
 
+2026-11-19 新增 [共同正文源修订 v1.8-source](editions/insights/distributions/shared/source-revisions/v1.8/README.md)：已落实问题 2—6、8 的正文、数据和图件修改；问题 1、7 不改。全书 PDF 尚未重新合成，已验收成品仍为下列版本。
+
 **[COSSI／Community 发行入口](editions/insights/distributions/README.md)**。COSSI 中英文新增“八大变化”专题，并已完成全文整合、目录和导航联动。
 
 | 版本 | 中文 | 英文 |

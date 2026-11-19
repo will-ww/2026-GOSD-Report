@@ -11,6 +11,7 @@
 
 ## 当前更新入口
 
+- [当前共同正文源修订 v1.8-source](shared/source-revisions/v1.8/README.md)：本轮六项实际纠错；全文 PDF 与英文同步待做，以下已验收成品记录保留。
 - [八大变化双语内容、图表数据和合稿源](shared/annual-changes/v1/README.md)
 - [当前内容修订与同步范围](shared/content-2026-11-18.json)
 - [版本注册表](registry.json) · [本次批准与核查记录](../reviews/2026-11-18-bilingual-annual-changes.md)

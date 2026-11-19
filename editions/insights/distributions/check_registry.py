@@ -121,6 +121,40 @@ class Review:
             except OSError as exc:
                 self.require(False, f"Cannot inspect {name}: {exc}")
 
+    def source_revision(self, reg_path, reg, current_path, current, content_path, content):
+        pointer = reg.get('current_source_revision')
+        if not pointer and not current.get('current_source_revision'):
+            return
+        pointer = pointer or {}
+        revision_path = self.path(reg_path, pointer.get('manifest'), 'active source revision')
+        other = current.get('current_source_revision', {})
+        self.equal(self.path(current_path, other.get('manifest'), 'current source pointer'), revision_path, 'source pointer target')
+        if not revision_path:
+            return
+        revision = self.load(revision_path)
+        for key in ['content_id', 'status']:
+            self.equal(pointer.get(key), revision.get(key), f'source revision {key}')
+            self.equal(other.get(key), revision.get(key), f'current source revision {key}')
+        self.require(revision.get('content_id') != content.get('content_id'), 'Source revision must have a new content ID')
+        self.equal(revision.get('previous_content_id'), content.get('content_id'), 'source parent content ID')
+        self.equal(self.path(revision_path, revision.get('previous_content_manifest'), 'source parent'), content_path, 'source parent manifest')
+        self.equal(revision.get('main_window'), WINDOW, 'source revision main period')
+        self.equal(revision.get('status'), 'source_revision_pending_layout', 'source revision status')
+        self.equal(revision.get('approved_artifact'), None, 'Unrendered source has no accepted PDF')
+        self.equal(set(revision.get('synchronization', {})), {'cossi_zh-CN', 'cossi_en', 'community_zh-CN', 'community_en'}, 'source synchronization scope')
+        self.equal(revision.get('synchronization', {}).get('community_en'), 'planned', 'Community English source status')
+        self.path(revision_path, revision.get('build_entry'), 'source preparation entry')
+        self.path(revision_path, revision.get('review'), 'source review')
+        self.summary['current_source_revision'] = revision.get('content_id')
+
+    def repository_markdown(self):
+        # Local build outputs may contain historical links; validate repository sources only.
+        paths = subprocess.check_output(
+            ['git', '-C', str(self.repo), 'ls-files', '--cached', '--others',
+             '--exclude-standard', '-z', '--', self.root.relative_to(self.repo).as_posix()]
+        ).decode('utf-8').split('\0')
+        return [self.repo / p for p in paths if p.endswith('.md')]
+
     def run(self):
         """Schema 2 allows independently accepted languages and frozen editions."""
         reg_path=self.root/'registry.json'
@@ -141,6 +175,7 @@ class Review:
         content=self.load(content_path) if content_path else {}
         self.equal(content.get('content_id'),reg.get('shared_content_id'),'current content ID')
         self.equal(content.get('main_window'),WINDOW,'shared main period')
+        self.source_revision(reg_path, reg, current_path, current, content_path, content)
         historical_path=self.path(reg_path,reg.get('historical_common_body_manifest'),'historical body manifest')
         historical=self.load(historical_path) if historical_path else {}
         self.equal(historical.get('content_id'),'gosd-2026-essential-body-v1.4','frozen historical content')
@@ -235,7 +270,7 @@ class Review:
                 self.equal(en[1].get('source_content_id'),zh[1].get('content_id'),f'{did} source content ID')
                 self.summary[did]={'version':zh[1].get('artifact_version'),'pages':zh[1].get('approved_artifact',{}).get('pages'),'language':'zh-CN','english_status':en[1].get('translation_status')}
         self.summary['shared_body_pages']='language-specific pagination; historical 118-page identity retained'
-        self.markdown_links(list(self.root.rglob('*.md'))+[self.root.parent/'README.md'])
+        self.markdown_links(self.repository_markdown()+[self.root.parent/'README.md'])
         self.forbidden_files()
         return {'ok':not self.errors,'checks':self.checks,'summary':self.summary,'errors':self.errors,
                 'scope':'Current bilingual metadata and immutable historical records; external PDFs are validated by the separate build/verification route.'}
@@ -416,7 +451,7 @@ class Review:
             cfg = configs.get((did, "zh-CN"), {})
             for lang in ["zh", "en"]:
                 self.equal(term_map.get(f"{did}_edition", {}).get(lang), cfg.get("display_name", {}).get(lang), f"{did} {lang} naming/terminology")
-        markdown = list(self.root.rglob("*.md")) + [self.root.parent / "README.md"]
+        markdown = self.repository_markdown() + [self.root.parent / "README.md"]
         review_path = self.path(reg_path, reg.get("review"), "review documentation")
         if review_path:
             markdown.append(review_path)

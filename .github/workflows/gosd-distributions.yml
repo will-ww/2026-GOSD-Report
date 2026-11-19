@@ -26,6 +26,8 @@ jobs:
       - name: Verify version, language and source boundaries
         run: |
           python editions/insights/distributions/check_registry.py
+          python editions/insights/distributions/shared/source-revisions/v1.8/prepare_sources.py --check
+          python editions/insights/distributions/shared/annual-changes/v1/check_data.py
           python editions/insights/scripts/check_sources.py
           python brand/osdgs/v2.0/source/verify_assets.py
           python brand/osdgs/identity/v0.1/source/verify_assets.py

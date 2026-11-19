@@ -76,5 +76,10 @@
       "config": "distributions/cossi/en/edition.json"
     }
   },
-  "review": "reviews/2026-11-18-bilingual-annual-changes.md"
+  "review": "reviews/2026-11-18-bilingual-annual-changes.md",
+  "current_source_revision": {
+    "content_id": "gosd-2026-essential-content-v1.8-source",
+    "manifest": "distributions/shared/source-revisions/v1.8/changes.json",
+    "status": "source_revision_pending_layout"
+  }
 }
